@@ -98,6 +98,42 @@
     },
     {
       "album": {
+        "name": "Afternoon",
+        "url": "https://open.spotify.com/album/1ZJXryTT0YjxocXnlP1vn7"
+      },
+      "artists": [
+        {
+          "name": "Avenue Arts",
+          "url": "https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107980,
+      "name": "Afternoon",
+      "url": "https://open.spotify.com/track/17MKpsjkbihm9V5nTqtcA8"
+    },
+    {
+      "album": {
+        "name": "Afternoon nap",
+        "url": "https://open.spotify.com/album/3U1RWrnOhE4CNdHGfZKQF2"
+      },
+      "artists": [
+        {
+          "name": "Mr Sleep",
+          "url": "https://open.spotify.com/artist/6VtqApngKv3UlCnSneWdyD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166844,
+      "name": "Afternoon nap",
+      "url": "https://open.spotify.com/track/5QckM0grkUV4ScWBlO3Pab"
+    },
+    {
+      "album": {
         "name": "Wishful Sora",
         "url": "https://open.spotify.com/album/7v1blyKpMqLIlwcI9s8GNX"
       },
@@ -373,7 +409,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 108850,
       "name": "at ease",
       "url": "https://open.spotify.com/track/6SeBI5UXEZPZzKVwg3SuNp"
@@ -413,6 +449,24 @@
       "duration_ms": 253090,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3EsaWNpxeJEMPEWQ7delht"
+    },
+    {
+      "album": {
+        "name": "Autumn Breeze",
+        "url": "https://open.spotify.com/album/3ynUUOLX3OitnyXgCdw7d5"
+      },
+      "artists": [
+        {
+          "name": "Nisse K:son",
+          "url": "https://open.spotify.com/artist/4xv8nWmwT1W6lE8F2G6imV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/3rhpe2IfdDkoIz7vsOyBWm"
     },
     {
       "album": {
@@ -1041,7 +1095,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 166635,
       "name": "cellphone",
       "url": "https://open.spotify.com/track/5ddhmTdHGK4J97AyZgzGKj"
@@ -2414,6 +2468,24 @@
     },
     {
       "album": {
+        "name": "go to gate",
+        "url": "https://open.spotify.com/album/154PKEs0imbq9gnqEsf2h6"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "go to gate",
+      "url": "https://open.spotify.com/track/75NF20zhwzBw4hzlTdXCiQ"
+    },
+    {
+      "album": {
         "name": "Hello Spring 2022",
         "url": "https://open.spotify.com/album/5La7QOCmV0pnFQ1leIGAfi"
       },
@@ -2509,6 +2581,28 @@
       "duration_ms": 274838,
       "name": "Hayato Falls - Seaside Chill version",
       "url": "https://open.spotify.com/track/5PQTZDH9N3gL7By0xG5UkH"
+    },
+    {
+      "album": {
+        "name": "heartbeat river",
+        "url": "https://open.spotify.com/album/0N8Dv4zTZygcfOLYNha2WQ"
+      },
+      "artists": [
+        {
+          "name": "bad at math.",
+          "url": "https://open.spotify.com/artist/3ZRN3yt1VGg8NRjb8szYzL"
+        },
+        {
+          "name": "Jared McEntire",
+          "url": "https://open.spotify.com/artist/08tFtrQkZhsLVGVWyL85ju"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "heartbeat river",
+      "url": "https://open.spotify.com/track/1vu6mcGrBFTwOvu1XVpQTX"
     },
     {
       "album": {
@@ -2711,6 +2805,24 @@
       "duration_ms": 214579,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3XRvk5eVsIoAIOlczehBmD"
+    },
+    {
+      "album": {
+        "name": "HoriZon Butterfly",
+        "url": "https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp"
+      },
+      "artists": [
+        {
+          "name": "DGHTR",
+          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Horizon Butterfly",
+      "url": "https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy"
     },
     {
       "album": {
@@ -3899,7 +4011,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 88000,
       "name": "love it when we're alone",
       "url": "https://open.spotify.com/track/6F0tuZKfOYBYv8c8ECBcju"
@@ -4063,6 +4175,24 @@
       "duration_ms": 164288,
       "name": "L\u2019 Eau",
       "url": "https://open.spotify.com/track/1xGKqS5MWiXY0ZVnjqylH3"
+    },
+    {
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7cHRwTQLAEEcRlcMZEYiCu"
+      },
+      "artists": [
+        {
+          "name": "Major M\u00e9langer",
+          "url": "https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89628,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/12exH3zKBHGUAob63h2S9i"
     },
     {
       "album": {
@@ -5165,7 +5295,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 216338,
       "name": "plastic flowers",
       "url": "https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2"
@@ -5183,7 +5313,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 345600,
       "name": "Platonic Jive",
       "url": "https://open.spotify.com/track/3D3yw1Fd981cM38H2rVM3d"
@@ -5487,6 +5617,28 @@
       "duration_ms": 123000,
       "name": "Red Door",
       "url": "https://open.spotify.com/track/1t1EHx5BhZkk4ZGHjynHf0"
+    },
+    {
+      "album": {
+        "name": "Retro Bike",
+        "url": "https://open.spotify.com/album/1i8UvZABcUQ26mXZyUVV27"
+      },
+      "artists": [
+        {
+          "name": "Grisp",
+          "url": "https://open.spotify.com/artist/4Ss8Vh1dqwdci0DqaNycZM"
+        },
+        {
+          "name": "Odd Panda",
+          "url": "https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141367,
+      "name": "Retro Bike",
+      "url": "https://open.spotify.com/track/0JwCzdcUXEN3iW5vOSHPXZ"
     },
     {
       "album": {
@@ -6143,7 +6295,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 140259,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/4z7o9DGCoHf8694oWNsNl5"
@@ -6403,7 +6555,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 104614,
       "name": "summer_",
       "url": "https://open.spotify.com/track/0TVU1Cw6FRgXWTWZBLwkOg"
@@ -6439,7 +6591,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 203596,
       "name": "Sunday 9.PM",
       "url": "https://open.spotify.com/track/2ns9052bRGSh5vw6dj7q4w"
@@ -6461,6 +6613,24 @@
       "duration_ms": 203596,
       "name": "Sunday 9.PM",
       "url": "https://open.spotify.com/track/7A78RZz9w3LPg6HW1oDz7q"
+    },
+    {
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/5ca8HVl7mf6lbkptTlTNmM"
+      },
+      "artists": [
+        {
+          "name": "LoDub",
+          "url": "https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146153,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/5B0DYZ8Nu8mjfSOuddrHIx"
     },
     {
       "album": {
@@ -6533,7 +6703,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 111265,
       "name": "supercat",
       "url": "https://open.spotify.com/track/3zE7dFBDXnUm99HHzqY1rR"

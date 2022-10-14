@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: MUNA",
-  "num_followers": 96181,
+  "num_followers": 96213,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2MDY5NSwwMDAwMDAwMGNmOTk0YWVhZDliZmZkZjJmNjhmNmNmNGQwMTI1Mjg1",
+  "snapshot_id": "MTY2MjA2MDY5NSwwMDAwMDAwMDhhYTRkYTEyYjVkYjNlNTE1ZmYwNjVjMmMzMjNhZmU3",
   "tracks": [
     {
       "added_at": "2022-03-30 13:22:18",
@@ -240,22 +240,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Cornflake Girl - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
       "artists": [
@@ -267,6 +251,22 @@
       "duration_ms": 261337,
       "name": "Goodpain - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Cornflake Girl - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -347,22 +347,6 @@
       "duration_ms": 246701,
       "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -560,22 +544,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 304845,
-      "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
       },
       "artists": [
@@ -619,6 +587,22 @@
       "duration_ms": 208396,
       "name": "Electric Touch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 304845,
+      "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -672,22 +656,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
-      },
-      "artists": [
-        {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Wasting Time - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
       },
       "artists": [
@@ -720,6 +688,22 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Wasting Time - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
       "artists": [
@@ -731,6 +715,22 @@
       "duration_ms": 213480,
       "name": "Dead Boys - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 221642,
+      "name": "Passionfruit - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -763,22 +763,6 @@
       "duration_ms": 310400,
       "name": "When the Night is Over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 221642,
-      "name": "Passionfruit - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -829,6 +813,22 @@
       "url": "https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584"
     },
     {
+      "added_at": "2022-09-01 18:57:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
@@ -875,22 +875,6 @@
       "duration_ms": 463336,
       "name": "Taste - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 218993,
-      "name": "Los Ageless - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/43GoXqcMIxcdrMk2ngVv17"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Nothing Scares Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Nothing Scares Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/49rILSmVLmGmknARFACh3N"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
@@ -1115,6 +1083,22 @@
       "duration_ms": 176958,
       "name": "Life Is Confusing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3xTqO5pmcvcQ42RIYodPNO"
+    },
+    {
+      "added_at": "2022-09-01 18:57:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 146726,
+      "name": "I'll Call You Mine - Spotify Singles",
+      "url": "https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1245,22 +1229,6 @@
       "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
     },
     {
-      "added_at": "2022-09-01 18:57:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 146726,
-      "name": "I'll Call You Mine - Spotify Singles",
-      "url": "https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m"
-    },
-    {
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
@@ -1296,6 +1264,22 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 164509,
+      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4PzCTggaYEmBDgzAE3DjtA"
       },
       "artists": [
@@ -1307,22 +1291,6 @@
       "duration_ms": 199075,
       "name": "Feels Like We Only Go Backwards - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/51Tb0DkANWOoURN81p4ugm"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1SuIxvmVbzVKyZJod2O1Dg"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 195774,
-      "name": "Carin At the Liquor Store - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6QjFqsKrMjjNhmvjQQDGs1"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1360,6 +1328,22 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1SuIxvmVbzVKyZJod2O1Dg"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 195774,
+      "name": "Carin At the Liquor Store - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6QjFqsKrMjjNhmvjQQDGs1"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
       },
       "artists": [
@@ -1387,22 +1371,6 @@
       "duration_ms": 202106,
       "name": "In Cold Blood - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt"
-    },
-    {
-      "added_at": "2022-09-01 18:57:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1691,6 +1659,22 @@
       "duration_ms": 198437,
       "name": "Mr. Tillman - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0qkXjeim9CYNcXlVXQuYCb"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -2011,6 +1995,22 @@
       "duration_ms": 295649,
       "name": "Seventeen - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3doicqb6so4jenspHCcEUk"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        }
+      ],
+      "duration_ms": 194311,
+      "name": "Emotions and Math - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7mLmGk3buGcAI5ydTaGAAJ"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

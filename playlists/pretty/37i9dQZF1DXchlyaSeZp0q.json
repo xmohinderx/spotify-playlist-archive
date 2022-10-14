@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 68963,
+  "num_followers": 69257,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDkyZjY0NDJhYTUwMWI0ODVkMDRiMmE4ZjM5MDJjNDBh",
+  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDgwNDkwNDYyNWIyMjEwM2ViM2FiMjdkOWY1N2EyYWQw",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0"
     },
     {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Why Can't We Live Together",
-        "url": "https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO"
-      },
-      "artists": [
-        {
-          "name": "Timmy Thomas",
-          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
-        }
-      ],
-      "duration_ms": 277973,
-      "name": "Why Can't We Live Together",
-      "url": "https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y"
-    },
-    {
       "added_at": "2022-09-08 14:58:04",
       "album": {
         "name": "Stand By Your Man",
@@ -583,6 +567,22 @@
       "duration_ms": 213026,
       "name": "He Called Me Baby",
       "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Why Can't We Live Together",
+        "url": "https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO"
+      },
+      "artists": [
+        {
+          "name": "Timmy Thomas",
+          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+        }
+      ],
+      "duration_ms": 277973,
+      "name": "Why Can't We Live Together",
+      "url": "https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y"
     },
     {
       "added_at": "2022-09-08 14:58:04",

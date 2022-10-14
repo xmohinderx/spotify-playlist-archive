@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2021\. Cover: Veronica Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,571 likes - 54 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,580 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 30 | [My Baby Just Cares for Me](https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Ledisi Sings Nina](https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc) | 3:39 |
 | 31 | [You Don't Know Me](https://open.spotify.com/track/7o8q6PWBhavXyOSsDMQOhO) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [You Don't Know Me](https://open.spotify.com/album/5cV8S9D9OGM8nxzUKjLfwy) | 3:26 |
 | 32 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 |
-| 33 | [Let You Break My Heart Again](https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR) | 4:29 |
+| 33 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 |
 | 34 | [Forget Me](https://open.spotify.com/track/7ooca2m8QsakFrzeLG0M30) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [Musa](https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0) | 4:21 |
 | 35 | [Because He Lives](https://open.spotify.com/track/4V5dQ0bZ75SSHMKt8W9RKh) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:33 |
 | 36 | [Making Room](https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH) | [Kelly Schenk](https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk) | [Making Room](https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt) | 4:19 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 53 | [Finis](https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi) | [Amanda Tosoff](https://open.spotify.com/artist/6YqsZpf1iDyUBvvVtiPLaR), [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Earth Voices](https://open.spotify.com/album/6QHyaqpkhH0J0qqtd3AVRW) | 5:51 |
 | 54 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 |
 
-Snapshot ID: `MTYzODM4MzIzMiwwMDAwMDAwMDE4MTY0MWVlNTBiNzRjNzExODA3ZWIyZDA5YmFkYWU1`
+Snapshot ID: `MTYzODM4MzIzMiwwMDAwMDAwMDJlMmVjMGFlZTY0MWM1MzllNjZiNWRlZTkyZTM4MDg2`

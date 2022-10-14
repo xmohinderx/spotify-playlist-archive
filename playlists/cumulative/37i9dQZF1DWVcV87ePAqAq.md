@@ -4,7 +4,7 @@
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
 
-314 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
+315 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-12-30 |  |
 | [Don't Be so Shy \- Filatov & Karas Remix](https://open.spotify.com/track/671YHAmMvVCc6MfL2C3pov) | [Imany](https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [Don't Be so Shy \(Filatov & Karas Remix\)](https://open.spotify.com/album/0MMAQBI0isMdcauKfMuNxA) | 3:10 | 2020-12-31 | 2022-07-28 |
 | [Don't Call Me Up \- R3HAB Remix](https://open.spotify.com/track/5UJI94psRjlSPyLztf7yQo) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Don't Call Me Up \(R3HAB Remix\)](https://open.spotify.com/album/6WgVI450okds45v4Y5nuqh) | 2:33 | 2020-12-31 | 2022-07-25 |
-| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-30 |  |
+| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-30 | 2022-10-14 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2022-01-03 |  |
 | [Don't Start Now \- Pink Panda Remix](https://open.spotify.com/track/0MciUrJaj9OZoAuGUU40Wr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 2:05 | 2020-12-31 | 2021-12-23 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2020-12-31 |  |
@@ -122,6 +122,7 @@
 | [Heaven Is a Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2020-12-31 | 2022-07-29 |
 | [Helt seriöst](https://open.spotify.com/track/7shcnBgfWJ6AT7jmvAw4xO) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Helt seriöst](https://open.spotify.com/album/7EOGeHfxU0h3resdAq94fd) | 3:03 | 2020-12-31 | 2022-07-29 |
 | [Hey Brother](https://open.spotify.com/track/3zKST4nk4QJE77oLjUZ0Ng) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw) | 4:15 | 2020-12-31 | 2022-07-29 |
+| [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2022-01-03 |  |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2022-01-03 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2022-01-03 |  |
 | [Higher](https://open.spotify.com/track/0Ks9WC7vbBkzSGsFD6Vtqm) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Higher](https://open.spotify.com/album/1mxUtKn686VKj3RYk59TzU) | 2:59 | 2020-12-31 | 2022-07-25 |

@@ -4,11 +4,12 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-84 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
+85 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-07 |  |
+| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-07-07 |  |
+| [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-07 | 2022-10-14 |
 | [1901](https://open.spotify.com/track/7hExqd5aeA6cdDFx6sBfd3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7bJTscIEKaObZS61RmpviI) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [2am](https://open.spotify.com/track/0LQ8OWUZXRd7qu5ujC3758) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/6aojA7xVxXyXlJjzAheiIQ) | 4:59 | 2022-07-07 | 2022-07-29 |
 | [2am](https://open.spotify.com/track/4cs6ORX8aKd6rtVdwAnnel) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/2lKYJFAYLywsVOxLMRoAOe) | 4:59 | 2022-07-07 |  |

@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-103 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
+104 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 | 2022-06-22 | 2022-06-26 |
 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 | 2022-06-17 |  |
 | [Hot Damn](https://open.spotify.com/track/7LrFX1E1GkwkLs5XrkD7Y2) | [Baby Strange](https://open.spotify.com/artist/6tvTqe2dTu8jVV5pcyfAGc) | [Put Out](https://open.spotify.com/album/4xySq6HlK90WlkHYzZ7ZWj) | 3:38 | 2022-06-22 |  |
-| [House of the Rising Sun](https://open.spotify.com/track/1CN9Jwd9sML6hqTXsOuKIN) | [Jeremy Renner](https://open.spotify.com/artist/3XlASyLS4HSUX3inS3tIc1) | [House of the Rising Sun](https://open.spotify.com/album/147tuDmTRS64367LJFqz8K) | 3:00 | 2022-06-22 |  |
+| [House of the Rising Sun](https://open.spotify.com/track/1CN9Jwd9sML6hqTXsOuKIN) | [Jeremy Renner](https://open.spotify.com/artist/3XlASyLS4HSUX3inS3tIc1) | [House of the Rising Sun](https://open.spotify.com/album/147tuDmTRS64367LJFqz8K) | 3:00 | 2022-06-22 | 2022-10-14 |
+| [House of the Rising Sun](https://open.spotify.com/track/1yl50J4YBtHXaeN7pb1X0s) | [Jeremy Renner](https://open.spotify.com/artist/3XlASyLS4HSUX3inS3tIc1) | [House of the Rising Sun](https://open.spotify.com/album/2yqAv3OXPeeScqZeukManV) | 3:00 | 2022-06-22 |  |
 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 | 2022-06-22 |  |
 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 | 2022-06-17 |  |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 | 2022-06-17 |  |

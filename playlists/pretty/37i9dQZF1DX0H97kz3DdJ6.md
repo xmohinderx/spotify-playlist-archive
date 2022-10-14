@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil/Number Teddie
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,205 likes - 83 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,231 likes - 83 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

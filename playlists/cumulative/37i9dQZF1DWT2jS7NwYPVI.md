@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Magnolia Park
 
-851 songs - 1 day 21 hr 23 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+852 songs - 1 day 21 hr 26 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Zero](https://open.spotify.com/track/49qf7uMixoBSbiUXzZg5zr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Zero](https://open.spotify.com/album/6PcI77cr793O8vr8X4gdbj) | 3:19 | 2022-06-10 | 2022-07-23 |
 | [Zuckerpunch](https://open.spotify.com/track/6c9HQATXAVBT9zSf1EAOzp) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Zuckerpunch](https://open.spotify.com/album/05Zrv0PnoaREUU16icFl9n) | 2:30 | 2022-02-25 | 2022-05-20 |
 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-07-29 | 2022-09-24 |
-| [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/track/5cD5Dx2fiIP3gspGQSYDGE) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/album/6PZAmUdSje1xUojG1ed5MK) | 2:42 | 2022-09-23 |  |
+| [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/track/0HUX7aH9bfz4YDGNVIl6t9) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/album/2m0HFVBzKjzJ5QjHIW0dUT) | 2:42 | 2022-10-07 |  |
+| [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/track/5cD5Dx2fiIP3gspGQSYDGE) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/album/6PZAmUdSje1xUojG1ed5MK) | 2:42 | 2022-09-23 | 2022-10-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-146 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
+147 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Ice](https://open.spotify.com/track/59lEBBsEZsWurqAABsGTfk) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [I Can See Your House from Here](https://open.spotify.com/album/16jsgpwPgaCGKDmzFNXW4H) | 10:18 | 2018-09-28 |  |
 | [In The Dead Of Night](https://open.spotify.com/track/7s4eOa9D4Qt7o3iRChaVIu) | [U.K.](https://open.spotify.com/artist/64vNIhiqTanqaY1VJucSAS) | [U.K.](https://open.spotify.com/album/75z31r1se3YTcaPwmFJtp7) | 5:34 | 2018-09-28 |  |
 | [Karn Evil 9 \(1st Impression \- Part 2\)](https://open.spotify.com/track/42ob2tiigWFtRqyXAfcdOd) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/6s1VJofsh3m547zW7Khhmi) | 4:45 | 2018-09-28 | 2022-07-29 |
-| [Karn Evil 9 1st Impression, Pt\. 2 \- Alternate Version](https://open.spotify.com/track/7dl8eQGk8e7ZN6vNLo4KAg) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1ktDHin7DUwgCxU463mz8n) | 4:48 | 2018-09-28 |  |
+| [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remastered Version](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 | 2018-09-28 |  |
+| [Karn Evil 9 1st Impression, Pt\. 2 \- Alternate Version](https://open.spotify.com/track/7dl8eQGk8e7ZN6vNLo4KAg) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1ktDHin7DUwgCxU463mz8n) | 4:48 | 2018-09-28 | 2022-10-14 |
 | [La mente vola](https://open.spotify.com/track/1B4XcCAhhj6r2ji1dcISEU) | [Alphataurus](https://open.spotify.com/artist/6mFPT1M2JWpuoSGSCQCpHX) | [Alphataurus](https://open.spotify.com/album/0Wh01o7ulww79Oq2eSZ6PX) | 9:12 | 2018-09-28 |  |
 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 | 2018-09-28 |  |
 | [Lady of the Lake](https://open.spotify.com/track/4U4jKOweJ8FJ061VVp5l2p) | [Starcastle](https://open.spotify.com/artist/0bWkqEiCzUo1qRiQXI0VdJ) | [Starcastle](https://open.spotify.com/album/1fxW4E9zQ5RIIc4k1aPZRy) | 10:26 | 2018-09-28 |  |

@@ -149,10 +149,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 186266,
       "name": "All the Rage",
       "url": "https://open.spotify.com/track/3YluA8dmCEws59Nm2JHnss"
+    },
+    {
+      "album": {
+        "name": "All the Rage",
+        "url": "https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "All the Rage",
+      "url": "https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36"
     },
     {
       "album": {
@@ -1151,6 +1169,24 @@
     {
       "album": {
         "name": "Betty",
+        "url": "https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193685,
+      "name": "Ignore Me",
+      "url": "https://open.spotify.com/track/5GQZR3YTEXT98ZaVxXPWVN"
+    },
+    {
+      "album": {
+        "name": "Betty",
         "url": "https://open.spotify.com/album/78LBmUOdg2KeGk0mSQ1lTs"
       },
       "artists": [
@@ -1161,7 +1197,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 195977,
       "name": "Ignore Me",
       "url": "https://open.spotify.com/track/5NF51JbWVYHI83FdkqoEcC"
@@ -1393,6 +1429,28 @@
     {
       "album": {
         "name": "Cape God",
+        "url": "https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "Love Me Wrong",
+      "url": "https://open.spotify.com/track/6OIpGjctdltVSI6ERlirIq"
+    },
+    {
+      "album": {
+        "name": "Cape God",
         "url": "https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae"
       },
       "artists": [
@@ -1407,7 +1465,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 192906,
       "name": "Love Me Wrong",
       "url": "https://open.spotify.com/track/6XmLlAoo6JgsIP7xhMoGTz"

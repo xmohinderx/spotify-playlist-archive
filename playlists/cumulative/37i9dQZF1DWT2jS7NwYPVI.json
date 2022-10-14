@@ -15889,6 +15889,24 @@
     {
       "album": {
         "name": "\u2022YOU'RE THE ONE I LIKE NOW\u2022",
+        "url": "https://open.spotify.com/album/2m0HFVBzKjzJ5QjHIW0dUT"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u2022YOU'RE THE ONE I LIKE NOW\u2022",
+      "url": "https://open.spotify.com/track/0HUX7aH9bfz4YDGNVIl6t9"
+    },
+    {
+      "album": {
+        "name": "\u2022YOU'RE THE ONE I LIKE NOW\u2022",
         "url": "https://open.spotify.com/album/6PZAmUdSje1xUojG1ed5MK"
       },
       "artists": [
@@ -15899,7 +15917,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 162000,
       "name": "\u2022YOU'RE THE ONE I LIKE NOW\u2022",
       "url": "https://open.spotify.com/track/5cD5Dx2fiIP3gspGQSYDGE"

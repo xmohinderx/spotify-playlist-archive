@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-117 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+118 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [No Poem](https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO) | [Coke Weed](https://open.spotify.com/artist/3rUruYHWt57tni4mdiN43r) | [Nice Dreams](https://open.spotify.com/album/2DaBNp3C4tmUnTdupdhSFg) | 4:35 | 2018-12-10 | 2022-07-29 |
 | [Oh, Mr\. Darcy](https://open.spotify.com/track/5TJRMmxQW1WbLh5ZUMfYe0) | [The Doubleclicks](https://open.spotify.com/artist/5ArdcVqH6mTD6zNNuuMNaJ) | [Chainmail and Cello](https://open.spotify.com/album/19q5b0ZqgnNgSO5hEcHhKa) | 3:16 | 2018-12-10 | 2022-07-29 |
 | [Open Book](https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:44 | 2018-12-10 |  |
-| [Orpheo Looks Back](https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Break It Yourself](https://open.spotify.com/album/4t062fa39U8W9MBz1sdJjQ) | 4:53 | 2018-12-10 |  |
+| [Orpheo Looks Back](https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Break It Yourself](https://open.spotify.com/album/4t062fa39U8W9MBz1sdJjQ) | 4:53 | 2018-12-10 | 2022-10-14 |
 | [Orpheo Looks Back](https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Break It Yourself / Hands of Glory \(Deluxe\)](https://open.spotify.com/album/1TkDZ3ebL9ilggycoLazyl) | 4:55 | 2018-12-10 | 2022-07-29 |
 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2018-12-10 |  |
 | [Oxford Comma](https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 3:15 | 2018-12-10 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [When I Write My Master's Thesis](https://open.spotify.com/track/0liT69dkJVAZxG3O2Lpkik) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Provincial](https://open.spotify.com/album/6ue2jxn7CfLiYe2RZnqBog) | 3:34 | 2018-12-10 | 2022-07-26 |
 | [White Blank Page](https://open.spotify.com/track/5icXpqn5f2lukunvG7uA70) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4EnpeGmIkEf8nAaBLLTBZn) | 4:13 | 2018-12-10 | 2022-07-29 |
 | [White Blank Page](https://open.spotify.com/track/06YV4yr9sdJqSNj4HjZk2s) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:14 | 2018-12-10 | 2022-10-13 |
+| [White Blank Page](https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:14 | 2018-12-10 |  |
 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 | 2018-12-10 |  |
 | [Wrapped Up In Books](https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:34 | 2018-12-10 |  |
 | [Wrapped Up in Books](https://open.spotify.com/track/4SFyltDc851kN4OrzANLmy) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/6svpGFHgqsoOGUWrE9e8QF) | 3:34 | 2018-12-10 | 2022-07-29 |

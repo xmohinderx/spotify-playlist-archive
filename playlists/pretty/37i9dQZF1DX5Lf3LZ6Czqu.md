@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: TORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,798 likes - 86 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,926 likes - 86 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147029,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
+    },
+    {
+      "album": {
         "name": "Easy Living",
         "url": "https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB"
       },
@@ -2780,6 +2798,24 @@
     },
     {
       "album": {
+        "name": "The Holy",
+        "url": "https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143766,
+      "name": "The Sacred",
+      "url": "https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ"
+    },
+    {
+      "album": {
         "name": "The Sea Was Never So Shimmering",
         "url": "https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt"
       },
@@ -3133,7 +3169,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 169200,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm"

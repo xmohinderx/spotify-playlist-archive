@@ -4,7 +4,7 @@
 
 > Historias y versos que tocan la piel.
 
-128 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
+129 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 | 2021-07-29 |  |
 | [Al Doblar la Esquina](https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 2:54 | 2021-07-29 |  |
 | [Alevosía](https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Alevosia](https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe) | 4:38 | 2021-07-29 |  |
-| [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2021-07-29 |  |
+| [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2021-07-29 | 2022-10-14 |
+| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2021-07-29 |  |
 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 | 2021-07-29 | 2022-07-29 |
 | [Alfonsina y el mar](https://open.spotify.com/track/4E1WiDbcYl6HkzrWzB9tFy) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Alfonsina y el mar](https://open.spotify.com/album/5xdeYhxDcLbjtENmpVla9L) | 4:52 | 2021-07-29 | 2022-07-28 |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 Años](https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE) | 4:40 | 2022-01-11 | 2022-07-29 |

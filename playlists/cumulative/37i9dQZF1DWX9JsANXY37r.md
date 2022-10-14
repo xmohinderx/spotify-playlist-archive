@@ -4,7 +4,7 @@
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-211 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
+212 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 | 2022-03-25 | 2022-04-19 |
 | [Insincerely Yours](https://open.spotify.com/track/2zxWViMdbnBDV0Mbac8ehG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Deluxe Edition\)](https://open.spotify.com/album/3ODT80Bs2dBECUzaXS6lfC) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-03-02 |  |
+| [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-09-21 |  |
 | [It Runs Through Me](https://open.spotify.com/track/0p92TJPcRHCbcSk3wCwWBz) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [It Runs Through Me](https://open.spotify.com/album/5xwjUoVyZTxDN0P9D2GXFd) | 4:21 | 2022-02-18 | 2022-07-29 |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2022-02-18 | 2022-10-13 |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-09-21 |  |
@@ -172,7 +173,7 @@
 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2022-03-25 | 2022-04-20 |
 | [Runnin' \(feat\. Busty and the Bass\)](https://open.spotify.com/track/5bM7ULA8odfn9h1XjYlie1) | [Free n Losh](https://open.spotify.com/artist/7DY8ywDjWdmToTbrrhLIWN), [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Runnin' \(feat\. Busty and the Bass\)](https://open.spotify.com/album/1E1acQIHBEriyv7G3HiFS1) | 3:30 | 2022-03-04 | 2022-07-23 |
 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 | 2022-03-25 |  |
-| [Save Room For Us](https://open.spotify.com/track/0fj8OHLYnonkhlJsqmK2Cg) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Songs For You](https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05) | 2:44 | 2022-06-24 |  |
+| [Save Room For Us](https://open.spotify.com/track/0fj8OHLYnonkhlJsqmK2Cg) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Songs For You](https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05) | 2:44 | 2022-06-24 | 2022-10-14 |
 | [Save Room for Us](https://open.spotify.com/track/3TMZVleKFb75oUZpp86KPn) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Songs For You](https://open.spotify.com/album/03mqFnIf0SxlMFVDO4a3YK) | 2:44 | 2022-03-04 | 2022-05-22 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-03-04 |  |
 | [Scars](https://open.spotify.com/track/1EdktpB83X3KfUavH6Vf7b) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Scars](https://open.spotify.com/album/0yPPQFsu18ZvricvGcULjZ) | 3:50 | 2022-02-18 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Aidan Bissett
 
-414 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+416 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Happiness](https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Happiness](https://open.spotify.com/album/3DfEBa3sKvV4tYg0oP8Lr2) | 3:21 | 2022-10-07 |  |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-08-05 | 2022-10-08 |
 | [hate the way you love me](https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:53 | 2022-07-08 |  |
-| [Hate You When You Party](https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Hate You When You Party](https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn) | 3:34 | 2022-10-07 |  |
+| [Hate You When You Party](https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Hate You When You Party](https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn) | 3:34 | 2022-10-07 | 2022-10-14 |
 | [Headsweat](https://open.spotify.com/track/4R0lJ8go7EFcqHYEJln0xz) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Headsweat](https://open.spotify.com/album/19KlvLIGg73WDRstbHCrf0) | 3:01 | 2022-06-10 | 2022-07-29 |
 | [Heal My Head](https://open.spotify.com/track/16KPdkm1lwurY6KTwo7dJH) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [Heal My Head](https://open.spotify.com/album/18dzUk1Jw12nmH3STO659R) | 3:19 | 2022-06-03 | 2022-07-29 |
 | [Heart and Mine](https://open.spotify.com/track/03fMRgKzOeMIa9lZlG8xeB) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Heart and Mine](https://open.spotify.com/album/4jzHgCJd6zdIqSAkJpobg9) | 3:12 | 2022-02-04 | 2022-04-23 |
@@ -216,7 +216,7 @@
 | [Loner](https://open.spotify.com/track/7fLb22ZSPkgPOCsOksCwtg) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Loner](https://open.spotify.com/album/5znBaBjG7vMjRdSdKcNV6Q) | 2:23 | 2022-05-13 | 2022-07-23 |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-25 | 2022-04-02 |
 | [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-06-17 | 2022-07-29 |
-| [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-10-07 |  |
+| [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-10-07 | 2022-10-14 |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-12 |  |
 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 | 2022-02-04 |  |
 | [Love Is All I Bring](https://open.spotify.com/track/363X19MuOxz85oVQ0NsDWa) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Love Is All I Bring](https://open.spotify.com/album/1GKXjRKLwrtGc3SDx24mJf) | 3:27 | 2022-07-08 | 2022-07-21 |
@@ -368,6 +368,7 @@
 | [The Rodeo](https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [The Rodeo](https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv) | 3:04 | 2022-08-12 |  |
 | [THE WAY IT WAS](https://open.spotify.com/track/7i6ICmeDCSHQGZpoc4cdVZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [THE WAY IT WAS](https://open.spotify.com/album/4kxBEZwgUVSYc0F1KfTDzT) | 3:17 | 2022-02-04 | 2022-05-14 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 | 2022-10-13 |
+| [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2022-10-07 |  |
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 | 2022-05-14 |
 | [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-04-15 | 2022-07-29 |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-10-07 |  |
@@ -400,6 +401,7 @@
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2022-02-04 | 2022-03-26 |
 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 | 2022-06-10 | 2022-07-13 |
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-06-17 | 2022-10-13 |
+| [Wake Up](https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT I & II](https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb) | 3:36 | 2022-10-07 |  |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 |  |
 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 | 2022-06-24 |  |
 | [We're Not In Orbit Yet…](https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [We're Not In Orbit Yet…](https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT) | 5:10 | 2022-07-01 | 2022-10-13 |

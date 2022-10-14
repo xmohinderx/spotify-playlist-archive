@@ -4,7 +4,7 @@
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-112 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
+113 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Alright](https://open.spotify.com/track/6XAkMiZMKibPQdfI3cAAH1) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Alright](https://open.spotify.com/album/3IuFxLLyTjCnGTZUCDb437) | 2:33 | 2021-12-09 |  |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-12-09 |  |
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2021-12-09 |  |
-| [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2021-12-09 |  |
+| [Baby Who](https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp) | 3:07 | 2021-12-09 |  |
+| [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2021-12-09 | 2022-10-14 |
 | [Bad Neighbors](https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Welcome to the Wildfire](https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM) | 2:40 | 2021-12-09 |  |
 | [Baddest](https://open.spotify.com/track/33N9JGkr9McbbPEMgUjqPj) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:22 | 2021-12-09 |  |
 | [Black Creek Drive](https://open.spotify.com/track/7IULkVSVV4e8kfL4JZWhx8) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [3511](https://open.spotify.com/album/0oMyGTRdTb2gdyUD19SYYE) | 3:29 | 2021-12-09 |  |

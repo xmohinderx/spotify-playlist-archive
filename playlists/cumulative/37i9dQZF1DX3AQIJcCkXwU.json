@@ -1350,6 +1350,24 @@
     },
     {
       "album": {
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
+      },
+      "artists": [
+        {
+          "name": "Kiran Murti",
+          "url": "https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj"
+    },
+    {
+      "album": {
         "name": "Devotion Collection 1 - Blessings of the Heart",
         "url": "https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry"
       },
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 305120,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5afSZKizZ8G9PFX9FOrLCA"

@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 249813,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
@@ -207,6 +207,24 @@
       "duration_ms": 264226,
       "name": "Adolescente",
       "url": "https://open.spotify.com/track/5KqK2s5ZYMLFFNXjJSNgCc"
+    },
+    {
+      "album": {
+        "name": "Acabando!",
+        "url": "https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "Adolescente",
+      "url": "https://open.spotify.com/track/7sqzTpiF6JbDIYTMW2enlp"
     },
     {
       "album": {
@@ -768,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259519,
+      "name": "Cobarde, Cobarde",
+      "url": "https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI"
+    },
+    {
+      "album": {
         "name": "20 A\u00f1os Despues Volume 2",
         "url": "https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW"
       },
@@ -1177,7 +1213,7 @@
     {
       "album": {
         "name": "Carlos David y Orquesta Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/1rbjE6g1F3tJhpyEUCv7ge"
+        "url": "https://open.spotify.com/album/4FE7VGFdsrIahT6K5JLZrA"
       },
       "artists": [
         {
@@ -1192,6 +1228,28 @@
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Dame Tu Querer",
+      "url": "https://open.spotify.com/track/46UUECFNuFNhHB42rrFv5Z"
+    },
+    {
+      "album": {
+        "name": "Carlos David y Orquesta Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/1rbjE6g1F3tJhpyEUCv7ge"
+      },
+      "artists": [
+        {
+          "name": "Carlos David",
+          "url": "https://open.spotify.com/artist/0KmnidQUeuTEgPh8NhqpdY"
+        },
+        {
+          "name": "Orquesta Liberacion",
+          "url": "https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 226400,
       "name": "Dame Tu Querer",
       "url": "https://open.spotify.com/track/7zPQgIOi9f7fuoSOjQ16SI"
@@ -1217,7 +1275,7 @@
     {
       "album": {
         "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
       "artists": [
         {
@@ -1228,6 +1286,24 @@
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256092,
+      "name": "Dame Veneno",
+      "url": "https://open.spotify.com/track/7a4f6P95wEvMyHmksWgpDU"
+    },
+    {
+      "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 256093,
       "name": "Dame Veneno",
       "url": "https://open.spotify.com/track/38XWdSnuxx8N0I4zdlkkeP"
@@ -1335,7 +1411,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 302320,
       "name": "Dile",
       "url": "https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe"
@@ -1407,7 +1483,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 273554,
       "name": "El Africano",
       "url": "https://open.spotify.com/track/1F7EGYVJiBusFa9AYML6j9"
@@ -1515,10 +1591,28 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 223466,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/3YYAXtXiDhwDQBfmhZ84cL"
+    },
+    {
+      "album": {
+        "name": "Fogarat\u00e9",
+        "url": "https://open.spotify.com/album/2IUnsgSNSjCyiUEVlg61er"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/6GJd6DkNEIsZf2tbRRkpbk"
     },
     {
       "album": {
@@ -1893,7 +1987,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 272520,
       "name": "Enamorado de Ella",
       "url": "https://open.spotify.com/track/2C9UWCuysy7CdAAkhqKjNa"
@@ -2373,10 +2467,28 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 222720,
       "name": "La Cosquillita",
       "url": "https://open.spotify.com/track/3sp7BvQNrezKp4tc1Be7xf"
+    },
+    {
+      "album": {
+        "name": "Fogarat\u00e9",
+        "url": "https://open.spotify.com/album/2IUnsgSNSjCyiUEVlg61er"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "La Cosquillita",
+      "url": "https://open.spotify.com/track/5S1SN8LIgjULLcB9jKaAVX"
     },
     {
       "album": {
@@ -3587,7 +3699,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 261355,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/19LNUkJNfLznlidzLtD7YA"
@@ -4489,7 +4601,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 284866,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR"
@@ -5049,7 +5161,7 @@
     {
       "album": {
         "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
       "artists": [
         {
@@ -5060,6 +5172,24 @@
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Te Odio y Te Quiero",
+      "url": "https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy"
+    },
+    {
+      "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 206493,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/1a9bWvRtaqgErUasfIpjRZ"

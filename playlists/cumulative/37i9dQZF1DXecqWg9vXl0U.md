@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Kimberley Tell.
 
-172 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+173 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Espinas De Rosas](https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Amor Variado](https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX) | 2:06 | 2022-08-26 |  |
 | [Estrellas](https://open.spotify.com/track/5Wz6o3nNpIJNDUjAFw0RKv) | [RoseAngel](https://open.spotify.com/artist/2EWmW3xXoh1Y1R80p6zfjY) | [Estrellas](https://open.spotify.com/album/2eVUeeC8cgrtjpRn3cYfWR) | 3:11 | 2022-04-08 | 2022-05-05 |
 | [Falling into You](https://open.spotify.com/track/6y4xgKY4Y25mjumNDWWEW3) | [RoseAngel](https://open.spotify.com/artist/2EWmW3xXoh1Y1R80p6zfjY) | [Falling into You](https://open.spotify.com/album/15v5p87smN2yvo3RaEVOFn) | 3:18 | 2022-03-25 | 2022-04-19 |
-| [Fantasmas](https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:43 | 2022-03-25 |  |
+| [Fantasmas](https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:43 | 2022-03-25 | 2022-10-14 |
+| [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 | 2022-10-07 |  |
 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj) | 2:54 | 2022-06-24 |  |
 | [Flores de Colores](https://open.spotify.com/track/0AYLOziv4IVSKszBWklhBy) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Flores de Colores](https://open.spotify.com/album/2z28JCwStDaLVwwmbcJOYo) | 4:30 | 2022-04-08 | 2022-07-27 |
 | [Flotando Sola](https://open.spotify.com/track/6JiE4qpG044hl2YU455qQI) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [Flotando Sola](https://open.spotify.com/album/0Y5qQHpiYb7WeXlTZjjTGM) | 3:38 | 2022-03-25 | 2022-07-29 |

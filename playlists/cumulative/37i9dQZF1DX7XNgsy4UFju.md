@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Alvvays
 
-721 songs - 1 day 18 hr 33 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+722 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,8 @@
 | [Only Wanna See U Tonight](https://open.spotify.com/track/6tRuoVVC0ia5PNelc3gZaQ) | [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Only Wanna See U Tonight](https://open.spotify.com/album/7COkYzB3nmXBdZMzGtgdfZ) | 3:01 | 2021-12-31 | 2022-02-05 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-21 | 2022-02-19 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-11 | 2022-06-25 |
-| [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 | 2022-09-16 |  |
+| [Open Arms](https://open.spotify.com/track/4VXGsmZkyqUmF6ClElnd23) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/2Hg6UT7etsbVHEJLb6aqzg) | 2:32 | 2022-10-07 |  |
+| [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 | 2022-09-16 | 2022-10-14 |
 | [Open Channels](https://open.spotify.com/track/52L4voy7ONzIJbB4HRCUZP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Open Channels](https://open.spotify.com/album/068f225N9L6mbcpRDDk52e) | 4:22 | 2022-03-04 | 2022-03-19 |
 | [Orpheus](https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/10sEnr5iBhFt3WXYJEaKG1) | 3:37 | 2022-08-27 | 2022-10-13 |
 | [Orpheus](https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/6hyunqfV9PzG6N4SsPyYKF) | 3:37 | 2022-10-07 |  |

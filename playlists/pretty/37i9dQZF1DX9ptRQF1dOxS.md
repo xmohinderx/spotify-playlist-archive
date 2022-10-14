@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Connie Constance
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,957 likes - 29 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,964 likes - 29 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 10 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 |
 | 11 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 |
 | 12 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 |
-| 13 | [It's The Future, Baby](https://open.spotify.com/track/1Y469w0ZRL0eglfzRsa4XH) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/2YgxYVjrIzeQvB7tu6a5B4) | 3:44 |
+| 13 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
 | 14 | [I'm Just High](https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Dreams, Pains & Paper Planes](https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV) | 3:21 |
 | 15 | [Point of You](https://open.spotify.com/track/4sq6yGk8Njg37wvEdwWOVY) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Point of You](https://open.spotify.com/album/1WgQkyXp97iyc9SqMcXdml) | 3:46 |
 | 16 | [Float](https://open.spotify.com/track/0GQuFsHBuSQ1bH35XTMezr) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Sound of the Morning](https://open.spotify.com/album/53urVNKg8j1mZOnB5AQFeY) | 3:38 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 28 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
 | 29 | [Bored of Men](https://open.spotify.com/track/102QJAaJ7ZjfX7q3Muk5Gw) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Bored of Men](https://open.spotify.com/album/2ATYQWeZxbR6AUkcmZUOJp) | 3:01 |
 
-Snapshot ID: `MTY2NTEzNzE5MSwwMDAwMDAwMGQ0NDMwYjNjYTlmYTZlNTIzMWQ3MzZlOTM0NTM3ZTc3`
+Snapshot ID: `MTY2NTEzNzE5MSwwMDAwMDAwMDg4YWRjMzc4ZjhiMTg1NTFjODY4MWU3MjcyMzJiODVl`

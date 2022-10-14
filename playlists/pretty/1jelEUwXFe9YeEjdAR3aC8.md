@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by easy life, Gracie Abrams, and more! Dive in to this mellow and emotive playlist, and discover new favorites! Cover: Reneé Rapp
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,933 likes - 65 songs - 3 hr 45 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,927 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

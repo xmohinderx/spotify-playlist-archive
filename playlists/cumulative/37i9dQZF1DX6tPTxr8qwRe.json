@@ -45,7 +45,7 @@
     {
       "album": {
         "name": "20 Questions",
-        "url": "https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL"
+        "url": "https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG"
       },
       "artists": [
         {
@@ -56,6 +56,24 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179226,
+      "name": "20 Questions",
+      "url": "https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN"
+    },
+    {
+      "album": {
+        "name": "20 Questions",
+        "url": "https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 179226,
       "name": "20 Questions",
       "url": "https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD"

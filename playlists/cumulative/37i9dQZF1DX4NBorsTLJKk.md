@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-134 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/2CpcnxVCpB06kTXNN47C8u)
+135 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/2CpcnxVCpB06kTXNN47C8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [又下雨了](https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5) | [李心潔](https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub) | [第三代李心潔 \- 裙擺搖搖](https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a) | 4:43 | 2021-11-22 |  |
 | [台北下的雨](https://open.spotify.com/track/5TnsqYTnUpgXWoVdGB7Jvs) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [台北下的雨](https://open.spotify.com/album/6NNBMImcG16RF42lj4JwHJ) | 4:31 | 2021-11-22 | 2022-07-29 |
 | [同一個下雨天](https://open.spotify.com/track/2637a1VmCsnQGfQCHt4Nfy) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [雨天日記](https://open.spotify.com/album/0gOTooDTdzyY723rMiQknc) | 3:39 | 2021-11-22 | 2022-07-29 |
+| [同一個下雨天](https://open.spotify.com/track/3hfhrCKA37Rq0wEPR8F8H6) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [雨天。日記](https://open.spotify.com/album/4BxdNZfGVvZsdse48Ieyd8) | 3:39 | 2022-09-05 |  |
 | [困在你的雨季](https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [困在你的雨季](https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC) | 4:32 | 2022-09-05 |  |
 | [在狂雨中](https://open.spotify.com/track/7exYTigadzsYN668TBami6) | [David Huang](https://open.spotify.com/artist/78NfAbd1srddKUQz4ytHWd) | [手下留情](https://open.spotify.com/album/3liazabJeymD8r6oLWSTVF) | 6:05 | 2021-11-22 | 2022-07-29 |
 | [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 | 2021-11-22 |  |
@@ -122,7 +123,7 @@
 | [雨天](https://open.spotify.com/track/5tZbcQ5PYID0xB0VNblmrK) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [My Story 2006 新歌+精選](https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g) | 4:01 | 2021-11-22 |  |
 | [雨天](https://open.spotify.com/track/1h96VTvVSeoauuCXNSVxSk) | [戚薇](https://open.spotify.com/artist/2MOq4wdhVbkqa7TsiIrlIQ) | [我的新鮮女友](https://open.spotify.com/album/5g3u91tAuVLIGInnw7g0DA) | 4:30 | 2021-11-22 | 2022-07-24 |
 | [雨天 \- 電視劇《繁星四月》插曲](https://open.spotify.com/track/6LSTVdxrfSOCCeO07WKTHx) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [雨天](https://open.spotify.com/album/2RmppTD74HT6VSB0GM0Zso) | 4:34 | 2021-11-22 |  |
-| [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 | 2021-11-22 |  |
+| [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 | 2021-11-22 | 2022-10-14 |
 | [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞 精選](https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY) | 3:35 | 2022-09-05 |  |
 | [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/0KQ0XFKAPAFpLDk534H1aK) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞精選](https://open.spotify.com/album/7KImFSQ8P2Xy2AqqKQLkWl) | 3:35 | 2021-11-22 | 2022-07-20 |
 | [雨天練習](https://open.spotify.com/track/2DOi724KaHE6Ymcxs1Skut) | [依錚依靜](https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8) | [心靈感應](https://open.spotify.com/album/5IwnwzK6VmLCP6kFubDN8l) | 1:40 | 2021-11-22 | 2022-09-12 |

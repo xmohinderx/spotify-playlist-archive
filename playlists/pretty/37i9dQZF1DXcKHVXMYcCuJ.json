@@ -1,12 +1,12 @@
 {
   "description": "An introduction to some of alt-rock\u2019s most seminal tracks.",
-  "num_followers": 74805,
+  "num_followers": 74923,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ3Mzc0NCwwMDAwMDAwMGI3MmJjOTA4ZTY3MTE0MTk5ZTYxOGVmNmJiNDljYzEz",
+  "snapshot_id": "MTY2NTQ3Mzc0NCwwMDAwMDAwMGQ2MTgxMjI3ODI2NmI5ZTljMGQzNDJjOGZiM2E4NWFl",
   "tracks": [
     {
       "added_at": "2022-10-11 07:35:44",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Free All Angels",
-        "url": "https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu"
+        "name": "Buds",
+        "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 309013,
-      "name": "Shining Light",
-      "url": "https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG"
+      "duration_ms": 97543,
+      "name": "Baby Shea",
+      "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "Free All Angels",
+        "url": "https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "Shining Light",
+      "url": "https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "Violent Soho",
         "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 177453,
       "name": "Jesus Stole My Girlfriend",
       "url": "https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
-        "name": "Buds",
-        "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 97543,
-      "name": "Baby Shea",
-      "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 282121,
-      "name": "Weed Pin",
-      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 195320,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 282121,
+      "name": "Weed Pin",
+      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Handwritten",
-      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Whenever, If Ever",
         "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 341906,
       "name": "Heartbeat in the Brain",
       "url": "https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
-      },
-      "artists": [
-        {
-          "name": "Superchunk",
-          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
-        }
-      ],
-      "duration_ms": 281173,
-      "name": "Driveway to Driveway",
-      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Third Chain",
         "url": "https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 186000,
       "name": "Misplaced",
       "url": "https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Driveway to Driveway",
+      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "The Haze",
-        "url": "https://open.spotify.com/album/0lM0xW6y3TiB2GyBSZ545d"
-      },
-      "artists": [
-        {
-          "name": "Pulled Apart By Horses",
-          "url": "https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy"
-        }
-      ],
-      "duration_ms": 195079,
-      "name": "The Big What If",
-      "url": "https://open.spotify.com/track/5cnjSorGZUm4ytova9wQAn"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Coma Happy",
         "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 221865,
       "name": "Follow",
       "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "The Haze",
+        "url": "https://open.spotify.com/album/0lM0xW6y3TiB2GyBSZ545d"
+      },
+      "artists": [
+        {
+          "name": "Pulled Apart By Horses",
+          "url": "https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy"
+        }
+      ],
+      "duration_ms": 195079,
+      "name": "The Big What If",
+      "url": "https://open.spotify.com/track/5cnjSorGZUm4ytova9wQAn"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Workbook",
-        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
-      },
-      "artists": [
-        {
-          "name": "Bob Mould",
-          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "See A Little Light",
-      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 259266,
       "name": "Driving Nowhere",
       "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Workbook",
+        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+      },
+      "artists": [
+        {
+          "name": "Bob Mould",
+          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "See A Little Light",
+      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "United By Fate",
         "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 167400,
       "name": "Travel By Telephone",
       "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "United By Fate",
+        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
+      },
+      "artists": [
+        {
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Used For Glue",
+      "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "Imbue",
         "url": "https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "United By Fate",
-        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Used For Glue",
-      "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Pull a Little Closer",
         "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 242480,
       "name": "Pull a Little Closer",
       "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/6ueu2LGKB7iuUZ6Gyz44CX"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/704NoIIW2Jo98WFUViSqk1"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1455,22 +1439,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Amusement Parks On Fire",
-        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
-      },
-      "artists": [
-        {
-          "name": "Amusement Parks On Fire",
-          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Smokescreen",
-      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Effloresce",
         "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
       },
@@ -1483,6 +1451,22 @@
       "duration_ms": 400680,
       "name": "Catalyst - Remastered",
       "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Amusement Parks On Fire",
+        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
+      },
+      "artists": [
+        {
+          "name": "Amusement Parks On Fire",
+          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Smokescreen",
+      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1567,22 +1551,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Forever Whatever",
-        "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
-      },
-      "artists": [
-        {
-          "name": "October Drift",
-          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
-        }
-      ],
-      "duration_ms": 238345,
-      "name": "Losing My Touch",
-      "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Drenge",
         "url": "https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB"
       },
@@ -1599,6 +1567,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "Forever Whatever",
+        "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
+      },
+      "artists": [
+        {
+          "name": "October Drift",
+          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+        }
+      ],
+      "duration_ms": 238345,
+      "name": "Losing My Touch",
+      "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "In / Casino / Out",
         "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 217120,
       "name": "Transatlantic Foe",
       "url": "https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Too Shabby",
+        "url": "https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897"
+      },
+      "artists": [
+        {
+          "name": "Rozwell Kid",
+          "url": "https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0"
+        }
+      ],
+      "duration_ms": 270634,
+      "name": "Kangaroo Pocket",
+      "url": "https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

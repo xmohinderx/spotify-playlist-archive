@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
+67 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Come Together](https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:40 | 2022-04-11 |  |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2022-04-11 |  |
 | [Do It 4 U](https://open.spotify.com/track/131TA14qK6E6e3OYvq2KTd) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [D∆WN](https://open.spotify.com/artist/5FC4ZICxoYTYQbN1sGFKx1) | [Human Energy](https://open.spotify.com/album/5mvjXE0GQ6qm9IsoUGykAE) | 3:40 | 2022-04-11 |  |
-| [Essentially](https://open.spotify.com/track/2OZXdq8Z8pyvGWDnzhHFEX) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/0nO6SoUfhavtCo0JflL3SJ) | 3:16 | 2022-04-11 |  |
+| [Essentially](https://open.spotify.com/track/2OZXdq8Z8pyvGWDnzhHFEX) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/0nO6SoUfhavtCo0JflL3SJ) | 3:16 | 2022-04-11 | 2022-10-14 |
+| [Essentially](https://open.spotify.com/track/7MI12qNsacindN65MWoMYR) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s) | 3:16 | 2022-04-11 |  |
 | [Far from Heaven](https://open.spotify.com/track/1pF0MdgFm92mwM7sxJOves) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Oh What the Future Holds](https://open.spotify.com/album/6Ye3ONH5U76f9MqPg3zxcl) | 4:44 | 2022-04-25 |  |
 | [Fast Slow Disco](https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Fast Slow Disco](https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q) | 3:17 | 2022-04-11 |  |
 | [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 | 2022-04-11 |  |

@@ -135,10 +135,28 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 200340,
       "name": "Do What You Like",
       "url": "https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6"
+    },
+    {
+      "album": {
+        "name": "Do What You Like",
+        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200340,
+      "name": "Do What You Like",
+      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
     },
     {
       "album": {

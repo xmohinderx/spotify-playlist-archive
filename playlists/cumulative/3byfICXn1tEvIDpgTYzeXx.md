@@ -4,7 +4,7 @@
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-147 songs - 7 hr 1 min - not published yet
+148 songs - 7 hr 4 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Ploua](https://open.spotify.com/track/6D5WL5k84HzP4vf58j8AhL) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z) | [Ploua](https://open.spotify.com/album/0xdHYGFmbRQJxDh96JcN4c) | 4:31 | 2022-09-23 |  |
 | [Push Me](https://open.spotify.com/track/2wyNofc2OkgRW9gKWln3y5) | [ORIPV](https://open.spotify.com/artist/237HNl9pU5Qh95DctFoi4d) | [Push Me](https://open.spotify.com/album/4sr64ebHAU4RFiOIHMp575) | 2:41 | 2022-09-23 |  |
 | [Rampampam](https://open.spotify.com/track/0e3CM2Fm4cpDtxjzYkdLAr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/6OaiffsQWffovH8qqIDP8Q) | 3:20 | 2022-09-23 |  |
+| [Ride Along](https://open.spotify.com/track/6Inv4R9oC3xSpMCwo3kdUJ) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Ride Along](https://open.spotify.com/album/6ynXh0tPSALOSVxiAMroMw) | 2:08 | 2022-10-13 |  |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2022-09-23 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/47fTpLAE2XyGcFUwk7k5EK) | [T\-Quila](https://open.spotify.com/artist/4rNtoLb702HDT1hnKUJ1M2), [Moloo](https://open.spotify.com/artist/433mjOmfp7vg1cl0EGjidS) | [Rolling in the Deep](https://open.spotify.com/album/39R8lPINIhiPyC4chN7CBi) | 2:11 | 2022-09-23 |  |
 | [Roses](https://open.spotify.com/track/4pfaDMGAvsMasO5ES9PbnQ) | [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr), [Cour](https://open.spotify.com/artist/2wXlDjhPhTLuw6Fs6vc2xS) | [Roses](https://open.spotify.com/album/1aZsmiaEtQxVs6k3uhb9Ey) | 2:46 | 2022-09-23 |  |

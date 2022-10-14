@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-390 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+391 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Smooth](https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Smooth](https://open.spotify.com/album/78vpDD60PJ8zJx19YP5qcj) | 2:17 | 2022-04-01 | 2022-07-13 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-09-07 |  |
 | [SNOWMAN](https://open.spotify.com/track/1uU0Q4JrDzgqWK1QWXccwb) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [SNOWMAN](https://open.spotify.com/album/0jbrRg5mahBKrvbPQDLisP) | 3:03 | 2021-12-17 | 2022-02-19 |
-| [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-04-11 |  |
+| [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 | 2022-09-09 |  |
+| [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-04-11 | 2022-10-14 |
 | [Solo](https://open.spotify.com/track/4iR9GcxaVVTHuZgb3KiNDY) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Solo](https://open.spotify.com/album/2W3oBE7aeeUYGvzwKKKaLL) | 2:37 | 2022-08-26 |  |
 | [Somebody Else](https://open.spotify.com/track/03gx1ylVNRQQtpv1VRIsHL) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Somebody Else](https://open.spotify.com/album/1p4YRsrgs9cUDNbtXN25AP) | 2:03 | 2021-11-16 | 2022-02-19 |
 | [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 | 2022-08-03 | 2022-10-13 |

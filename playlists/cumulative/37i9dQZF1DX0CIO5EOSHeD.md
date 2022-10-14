@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-317 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+318 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 | 2020-10-30 | 2022-07-24 |
 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 | 2021-09-20 |  |
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-03-17 | 2022-07-26 |
-| [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2022-03-30 |  |
+| [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2022-03-30 | 2022-10-14 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2022-02-03 | 2022-07-29 |
 | [Censure of Memory](https://open.spotify.com/track/3LUt0UNxbn1KnghqTGW3Ga) | [Rushab Nandha](https://open.spotify.com/artist/08JY95hQcpOet2v3lYRoaA) | [The Rain That Undid the Rose](https://open.spotify.com/album/0M6XjRby9kKG3eiY1Jjd72) | 1:50 | 2021-12-09 | 2022-06-16 |
 | [Changing](https://open.spotify.com/track/21ivnWB0BI4ufevCj5SqyQ) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Changing](https://open.spotify.com/album/6RzesJqEgRAREVaMIRU9Ve) | 3:47 | 2020-10-27\* | 2022-07-28 |
@@ -145,7 +145,7 @@
 | [I Am the Car](https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [I Am the Car](https://open.spotify.com/album/6RohLnKk8qFHbBeOrdjBPu) | 4:50 | 2021-08-11 | 2022-09-26 |
 | [I Can't Compete](https://open.spotify.com/track/6CX4FpJjP2MWbo1aAq1DVQ) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [I Can't Compete](https://open.spotify.com/album/7pDNl7cxFPBLpteN97eIMW) | 3:11 | 2020-10-27\* | 2022-07-22 |
 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 | 2020-10-27\* | 2022-07-29 |
-| [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-03-30 |  |
+| [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-03-30 | 2022-10-14 |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2020-11-27 | 2022-07-29 |
 | [I Don’t Know You \- The Marías cover](https://open.spotify.com/track/0wGS1UIEKTFAtDteZKvTZn) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [I Don’t Know You](https://open.spotify.com/album/2OeJQyeDVoIF4ujONM6lxs) | 2:56 | 2020-10-27\* | 2021-01-12 |
 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 | 2022-03-30 |  |
@@ -252,7 +252,7 @@
 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 | 2021-09-24 |  |
 | [Self Aware](https://open.spotify.com/track/4D7eFxcPYWqHQ7iyD2oiDp) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Self Aware](https://open.spotify.com/album/1sMcnA8gffc6mlU2Ez7ynd) | 4:46 | 2020-10-27\* | 2020-10-30 |
 | [Semolina](https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Semolina](https://open.spotify.com/album/6nX8TqbKoYgrjWui1j6QEx) | 3:28 | 2020-10-27\* | 2022-07-29 |
-| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 | 2022-07-20 |
+| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 |  |
 | [She'll Play Heck](https://open.spotify.com/track/6LoWmFCmGYEyz5BRsEv9SF) | [VALA](https://open.spotify.com/artist/26tcWRMjTwUJks8fvo4JIs) | [She'll Play Heck](https://open.spotify.com/album/6xyJE3ChVeKIKSJBL8qCrR) | 3:35 | 2020-10-30 | 2022-07-09 |
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-05-21 | 2022-04-20 |
 | [Sinking](https://open.spotify.com/track/4Z4dOZKs9rQuhuSSlLGY99) | [Lazy Days](https://open.spotify.com/artist/5FGn2Rme0MBoLoWvh6zKp7) | [Sinking](https://open.spotify.com/album/3jHCMgLxcachy9KxKabFSC) | 1:48 | 2021-04-02 | 2022-04-21 |
@@ -307,6 +307,7 @@
 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 | 2021-03-06 |  |
 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 | 2020-10-27\* |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-29 | 2022-10-13 |
+| [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-09-13 |  |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2021-06-19 |  |
 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 | 2021-04-02 |  |
 | [When I Was Gone](https://open.spotify.com/track/6t3f34p7UtZPGAS3LrPRpd) | [COOL BOY](https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT) | [Classic Charm, Pt\. 1](https://open.spotify.com/album/1VxbK8B2DEcaYx8hoWeQum) | 2:41 | 2021-02-26 | 2021-03-06 |

@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-292 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+294 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Good For](https://open.spotify.com/track/1xQ0uoIrGX8Gsq8s1hZTiV) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/1RrXyKwwvq0X3f02W4zdMc) | 4:21 | 2022-05-28 | 2022-07-06 |
 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 | 2022-07-12 | 2022-10-05 |
 | [Growing up](https://open.spotify.com/track/1YXgEhut1Mo2Y44IgsvP7f) | [7ORDER](https://open.spotify.com/artist/2RitDQzohyR2zJXoqovut4) | [Growing up](https://open.spotify.com/album/45CvOi9Mgco3LIA6TtMue7) | 4:16 | 2022-10-01 |  |
-| [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-07-28 |  |
+| [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-07-28 | 2022-10-14 |
 | [Hallo Gallo](https://open.spotify.com/track/5tEcZDbPrZDoPf5EYU9Y84) | [フィン \(CV.入野自由\)](https://open.spotify.com/artist/19Eztn3ipHq4vAh5bkWidF), [ミト \(クラムボン\)](https://open.spotify.com/artist/1jpK6BQogVa5NnFoX4okCu) | [Hallo Gallo](https://open.spotify.com/album/7dKjwg0fhfKTWFyhvR3Ucu) | 5:17 | 2022-08-30 | 2022-09-21 |
 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 | 2022-08-02 | 2022-10-05 |
 | [Happy! Happier! Happiest!](https://open.spotify.com/track/5DLCWZ8iCApW6pW2VoR6tR) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [Happy! Happier! Happiest!](https://open.spotify.com/album/7p2of7HqIEMr6zv1ux2o40) | 4:01 | 2022-06-30 | 2022-07-27 |
@@ -165,6 +165,7 @@
 | [ZERO](https://open.spotify.com/track/1kAXDCUimESViN8p0UpjSP) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [ZERO](https://open.spotify.com/album/4XBfIIqZabQ23EkPq9dniS) | 3:34 | 2022-10-11 |  |
 | [あいむいんらぶ](https://open.spotify.com/track/2i3ihydtP73D243Blgkrm8) | [Hack'nBerry](https://open.spotify.com/artist/1wiMSmZSzfDSdnMY60exZZ), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [あいむいんらぶ](https://open.spotify.com/album/0JU9Yrn0S7YSuu4q3AxFQs) | 4:27 | 2022-07-05 | 2022-08-05 |
 | [あれこれドラスティック](https://open.spotify.com/track/3U25NvHuSKwNATFwDbkR4R) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2), [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [あれこれドラスティック](https://open.spotify.com/album/0ZNKgst0nutjnhEBAwnYvk) | 3:45 | 2022-07-05 | 2022-08-17 |
+| [いいの](https://open.spotify.com/track/6zYa0HNDUEjGtZ5HnB5Cqr) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [KIKUNOYU](https://open.spotify.com/artist/281ctw2ZJ8mLOcH58SVts5) | [いいの](https://open.spotify.com/album/1RsDnvYcyLXcAAvjyoImCc) | 3:47 | 2022-10-13 |  |
 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 | 2022-07-19 | 2022-08-17 |
 | [かえりみちの色](https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0) | [渋谷ハル](https://open.spotify.com/artist/6mXvoLGqYh8T8As0LYuU8s) | [かえりみちの色](https://open.spotify.com/album/15V9z87xbRv1SECaxMDxrs) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [かかった魔法はアマノジャク](https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr) | 3:32 | 2022-07-12 | 2022-08-24 |
@@ -185,6 +186,7 @@
 | [もうひとくち](https://open.spotify.com/track/0OI5ER4W0AQr5YAdMKSIur) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [もうひとくち](https://open.spotify.com/album/5iGHRerQh0pBeI6JHOTUVM) | 3:56 | 2022-05-28 | 2022-07-27 |
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-05-28 | 2022-06-24 |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |
+| [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 |  |
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-06-30 | 2022-07-29 |
 | [ウェルカム・トゥ・レインボーワンダーランド!](https://open.spotify.com/track/5w64RQzcBGp7ykGmEo634d) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/4iYu17ZFXJ2CF1MEwEFKz8) | 3:53 | 2022-09-27 | 2022-09-29 |
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 | 2022-08-17 |
@@ -194,7 +196,7 @@
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-05-28 | 2022-07-08 |
 | [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-05 | 2022-08-06 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-05-28 | 2022-07-06 |
-| [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 |  |
+| [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 | 2022-10-14 |
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-05-28 | 2022-07-06 |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-05-28 | 2022-07-13 |
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-05-28 | 2022-07-27 |

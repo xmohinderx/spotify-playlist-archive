@@ -2365,6 +2365,28 @@
     {
       "album": {
         "name": "this is what falling in love feels like (Leon Leiden Remix)",
+        "url": "https://open.spotify.com/album/38YCTpZRsvYQtCRe4uGM4I"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120157,
+      "name": "this is what falling in love feels like - Leon Leiden Remix",
+      "url": "https://open.spotify.com/track/0T2zPVlS2Oyy0BXlmvYKTe"
+    },
+    {
+      "album": {
+        "name": "this is what falling in love feels like (Leon Leiden Remix)",
         "url": "https://open.spotify.com/album/50BDVumZIQ0zmO6TpOR956"
       },
       "artists": [
@@ -2379,7 +2401,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 120157,
       "name": "this is what falling in love feels like - Leon Leiden Remix",
       "url": "https://open.spotify.com/track/60DkG4mCA52rUUXz0F0wNi"

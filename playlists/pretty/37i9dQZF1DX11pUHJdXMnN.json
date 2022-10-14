@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 51770,
+  "num_followers": 51804,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGFmYjU3YTQxNGNjMjQzY2JiYjZhNGQ3ZjI3ZjlkNWMy",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDljZDIzYzVjMjExODJhY2Q3ODI1NjFjY2U4YjI4NzJj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 409961,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Nothing Stays in One Place for Long",
-        "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
-      },
-      "artists": [
-        {
-          "name": "Massimiliano Pagliara",
-          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
-        }
-      ],
-      "duration_ms": 318426,
-      "name": "Accidentally We Rushed",
-      "url": "https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Italo Disco",
         "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 205078,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Nothing Stays in One Place for Long",
+        "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        }
+      ],
+      "duration_ms": 318426,
+      "name": "Accidentally We Rushed",
+      "url": "https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1"
     },
     {
       "added_at": "2021-08-27 15:45:01",

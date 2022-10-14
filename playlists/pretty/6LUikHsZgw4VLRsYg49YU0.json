@@ -6,8 +6,24 @@
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "NzAxLGJkMzNhMGY0MTc3YmMwZWJiZjQwM2Y0YWRlMjk0NTJkOWYwYjM1M2E=",
+  "snapshot_id": "NzAzLGRkYmM1ZGI3MjY4MzU5Y2Q5NWUwNmEzZGE0NGNmNGExY2Q3MDNlNmE=",
   "tracks": [
+    {
+      "added_at": "2022-10-13 14:59:31",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 227046,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q"
+    },
     {
       "added_at": "2022-02-18 18:33:42",
       "album": {

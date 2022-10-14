@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 371724,
+  "num_followers": 371757,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGE1ZjdkYzExYTNjMDNmYzk4NGEyNGYzNTYyNGZlMDQ2",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGIwNTYyZjhhNzhhMmI5OThkMDA0N2I5MDg4MWQ2MWU2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "B. G. In Hi Fi",
-        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Stompin At The Savoy",
-      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 196160,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "B. G. In Hi Fi",
+        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Stompin At The Savoy",
+      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "To Ella With Love",
-        "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The Roar Of '74",
         "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 290146,
       "name": "Nuttville",
       "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "To Ella With Love",
+        "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Verve Jazz Masters 54",
-        "url": "https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo"
-      },
-      "artists": [
-        {
-          "name": "Woody Herman",
-          "url": "https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 404880,
       "name": "Take The \"A\" Train",
       "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Verve Jazz Masters 54",
+        "url": "https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo"
+      },
+      "artists": [
+        {
+          "name": "Woody Herman",
+          "url": "https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Tony Bennett With Count Baise",
         "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 163122,
       "name": "Are You Having Any Fun",
       "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
     },
     {
       "added_at": "2020-03-06 16:28:56",

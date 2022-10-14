@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 157878,
       "name": "Denial Mechanism",
       "url": "https://open.spotify.com/track/2VjgDMPac8RDAaz2JH3UBs"
@@ -347,10 +347,28 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 217606,
       "name": "Ditch",
       "url": "https://open.spotify.com/track/0IcUCRcLXR9S8OGFt0iT1L"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217606,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt"
     },
     {
       "album": {
@@ -935,6 +953,24 @@
     {
       "album": {
         "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227899,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP"
+    },
+    {
+      "album": {
+        "name": "Omens",
         "url": "https://open.spotify.com/album/7lFikUc9FbXgTrL2YGR1Zy"
       },
       "artists": [
@@ -945,7 +981,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 227899,
       "name": "Omens",
       "url": "https://open.spotify.com/track/4hswIIoErwEhIwtuFxN40R"
@@ -1125,7 +1161,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 226493,
       "name": "Set To Fail",
       "url": "https://open.spotify.com/track/0FgblIvvlYsXEAlEOPbaFJ"

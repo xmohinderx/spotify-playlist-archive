@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 
 > Our editorial picks for Indie's best of 2021 in Canada\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 64 | [Pigeons](https://open.spotify.com/track/6y37TgHE1D61yO5VcK4vXn) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 3:07 |
 | 65 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
 | 66 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
-| 67 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 |
+| 67 | [Soft](https://open.spotify.com/track/34SC5Kt2OU0lCW96LDeFyP) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 2:58 |
 | 68 | [I Don't Need My Space](https://open.spotify.com/track/4sUcPrZUv1vh9ilmzErbvW) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Don't Need My Space](https://open.spotify.com/album/5DjAc9zxBFo13nRnv5edSd) | 2:38 |
 | 69 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/3oqztHfES8jYMyrxPMzWwc) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/album/4Rmv2DGTZuxsULDbhU5L49) | 3:15 |
-| 70 | [What's Up](https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/3TaUQwagOJ34h8ky2avuaD) | 2:21 |
+| 70 | [What's Up](https://open.spotify.com/track/6rsKQmqhgJm9SzbhH2mjlj) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/6jmSNj5krhwNyfUjJo6D7I) | 2:21 |
 | 71 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
 | 72 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
 | 73 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 75 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 |
 | 76 | [DNA](https://open.spotify.com/track/2pynCI5GBvS41YlbkA7Yhh) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 3:17 |
 | 77 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 |
-| 78 | [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 |
+| 78 | [Laced](https://open.spotify.com/track/1iBC7TB3HjP42M0eBoNp6c) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Must Come Spring](https://open.spotify.com/album/4bNdNEMcCcSSW9wfqk6Fon) | 3:40 |
 | 79 | [Follow Me Around](https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Follow Me Around](https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5) | 5:19 |
-| 80 | [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 |
+| 80 | [Good Recipe](https://open.spotify.com/track/5EwTVKsO2vCw81taf6awPq) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/7ywplgIyG56OtTafvKWr6b) | 2:31 |
 | 81 | [Live Alone](https://open.spotify.com/track/7J4g3pkfo1jGEVdfZYfG3v) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Live Alone](https://open.spotify.com/album/6tn2vbBv4aERyjaVgJMqSZ) | 4:47 |
 | 82 | [Don't Know Why](https://open.spotify.com/track/1ukvyO3hy4NQ59MTPOOWFz) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:09 |
 | 83 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 94 | [Jour 2](https://open.spotify.com/track/2FyxwoPkYNyweSmgnvsMhd) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 4:41 |
 | 95 | [Holy Father](https://open.spotify.com/track/4T71MQaQ7RKRD7Dv40kia5) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Easy Morning](https://open.spotify.com/album/6B8PeC9KW9hORCInaFI0mz) | 5:15 |
 | 96 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 |
-| 97 | [‎mads ‎mikkelsen](https://open.spotify.com/track/4DgLYnXVObPYoCInL4GO70) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mads ‎mikkelsen](https://open.spotify.com/album/19k2kASG30g8HoZ5evWCzb) | 3:48 |
+| 97 | [‎mads ‎mikkelsen](https://open.spotify.com/track/1cVZkg7Sxpe01yagEHNDrh) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mads ‎mikkelsen](https://open.spotify.com/album/39mls2U0fHrxwnx2g94hzO) | 3:48 |
 | 98 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 |
 | 99 | [Moon Girl](https://open.spotify.com/track/5wm2vGAyBWAtpYRexMmy4T) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Victor Bongiovanni](https://open.spotify.com/artist/0YYuoHejzcETsCCEyCUFnh) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 2:35 |
 | 100 | [Mermaid From L.A.](https://open.spotify.com/track/5uzUMWMKG2suofVX4wUWrM) | [Bealby Point](https://open.spotify.com/artist/3RFcQWqSi7oW9hBmapQ25X) | [Mermaid From L.A.](https://open.spotify.com/album/5AD3pHTy0BcJmHu13k3j3q) | 3:16 |
 
-Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDExMWQ5ODNjM2M2NGQ5ZWU3MDlmMzE0MTRlMGM1NjVl`
+Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDM4MGE4ODEwNmQ1NzNkMDU3MzYyMzlkMDhiYmUyMGVj`

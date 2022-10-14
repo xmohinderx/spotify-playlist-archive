@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-117 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
+119 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Hiding and Seeking](https://open.spotify.com/track/0Z861AXIvCyW2M5NxhZDCZ) | [Little Chief](https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB) | [Somewhere near the River](https://open.spotify.com/album/2GqQ05pnY7glLSWCYEMZ2H) | 4:16 | 2021-02-12 |  |
 | [Home](https://open.spotify.com/track/6ZapsNk1ZpaebNXAIohP9R) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf) | 5:03 | 2021-02-12 | 2022-07-29 |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2021-02-12 |  |
+| [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 | 2022-09-21 |  |
 | [Hopeless Wanderer](https://open.spotify.com/track/7o7CXsKgDXhxbSMrqGVSd0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/7HcmUZBCV4XR2YwEiQN5jK) | 5:07 | 2021-02-12 | 2022-07-29 |
-| [Hopeless Wanderer](https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:07 | 2021-02-12 |  |
+| [Hopeless Wanderer](https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:07 | 2021-02-12 | 2022-10-14 |
 | [I Will Wait](https://open.spotify.com/track/0hm8rgOY17z7kQJlqGKbu7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 4:36 | 2021-02-12 | 2022-10-13 |
 | [I Will Wait](https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:36 | 2022-09-21 |  |
 | [I Will Wait](https://open.spotify.com/track/2JHBMVs8E7bJJBLkXpKgHn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel](https://open.spotify.com/album/7rlmzEQPP4b6T6OhlnTdRn) | 4:36 | 2021-02-12 | 2022-07-29 |
@@ -108,7 +109,8 @@
 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 | 2021-02-12 | 2022-10-13 |
 | [The Ceiling](https://open.spotify.com/track/2jpCeGbbVGYu7utG7O4h4J) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [The Wild Feathers \(Deluxe Version\)](https://open.spotify.com/album/2CJCzXS33sf7jcDNCNDRUv) | 6:18 | 2021-02-12 |  |
 | [The Chambers & The Valves](https://open.spotify.com/track/1pKMnBqpCILOu4ckAggjSo) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Shallow Bed](https://open.spotify.com/album/5W2DS7HGauXOJIr0Nmu8D4) | 3:10 | 2021-02-12 |  |
-| [The Paper Trench](https://open.spotify.com/track/2Rz8xJFsP8a2PF1A2IpDqS) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [Tree Bursts in Snow](https://open.spotify.com/album/00pcCuZP1G5Ud6FhDSphjT) | 3:31 | 2021-02-12 |  |
+| [The Paper Trench](https://open.spotify.com/track/2Rz8xJFsP8a2PF1A2IpDqS) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [Tree Bursts in Snow](https://open.spotify.com/album/00pcCuZP1G5Ud6FhDSphjT) | 3:31 | 2021-02-12 | 2022-10-14 |
+| [The Paper Trench](https://open.spotify.com/track/2xGdzUISpCZSjQ1eproW4Z) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [Tree Bursts In Snow \(Bonus Track Version\)](https://open.spotify.com/album/7mMG7SlopZEy8XGajq4Ins) | 3:31 | 2022-09-21 |  |
 | [The Things I Regret](https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:26 | 2021-02-12 |  |
 | [The Things I Regret](https://open.spotify.com/track/758qHY3OaZaTbUoQfx3evw) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/2FWEy5yBlj6ry5AdnbXgEi) | 3:26 | 2021-02-12 | 2022-07-29 |
 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 | 2021-02-12 |  |

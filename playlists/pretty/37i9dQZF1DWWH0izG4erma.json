@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Koe Wetzel",
-  "num_followers": 475206,
+  "num_followers": 475379,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU5MTMwOSwwMDAwMDAwMDAyNmRiODE5YWUyMTQ3Zjk2M2I1NjE1YmI1YzRmZTRk",
+  "snapshot_id": "MTY2NDU5MTMwOSwwMDAwMDAwMDRhNDllMDM3ZmE2MTNjMTE4ODMzYTFkMGZmZTE2ZWQ4",
   "tracks": [
     {
       "added_at": "2022-10-01 02:28:29",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "Whiskey Sunrise",
-      "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
         "name": "717 Tapes the Album",
         "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "Whiskey Sunrise",
+      "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -895,42 +895,6 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
-      },
-      "artists": [
-        {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
-        "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
-        "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 195386,
-      "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
         "name": "717 Tapes the Album",
         "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
@@ -943,6 +907,22 @@
       "duration_ms": 169853,
       "name": "Burn It Down - 717 Tapes",
       "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -963,6 +943,26 @@
       "duration_ms": 169600,
       "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
       "url": "https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+        "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 195386,
+      "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Dodge Out Of Hell",
-        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Dodge Out Of Hell",
-      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Dodge Out Of Hell",
+        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Dodge Out Of Hell",
+      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
     },
     {
       "added_at": "2022-10-01 02:28:29",

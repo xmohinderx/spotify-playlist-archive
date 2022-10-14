@@ -45,6 +45,28 @@
     {
       "album": {
         "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ"
+      },
+      "artists": [
+        {
+          "name": "Foufa Torino",
+          "url": "https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh"
+        },
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258782,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf"
       },
       "artists": [
@@ -59,7 +81,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 258782,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC"
@@ -467,6 +489,32 @@
     {
       "album": {
         "name": "El Walida",
+        "url": "https://open.spotify.com/album/6KZu4hCRZdB3dtQc8ABbE2"
+      },
+      "artists": [
+        {
+          "name": "Foufa Torino",
+          "url": "https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        },
+        {
+          "name": "Kader Japonais",
+          "url": "https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250146,
+      "name": "El Walida",
+      "url": "https://open.spotify.com/track/72IaF2DNQpXfYVG349uPI6"
+    },
+    {
+      "album": {
+        "name": "El Walida",
         "url": "https://open.spotify.com/album/5BUWjVJMOXZkOl6gN2pEBc"
       },
       "artists": [
@@ -485,7 +533,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 252000,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC"

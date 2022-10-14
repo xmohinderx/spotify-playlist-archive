@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Courtney Marie Andrews
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,274 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,566 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 124 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 |
 | 125 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 |
 | 126 | [Everybody’s Gotta Beating Heart](https://open.spotify.com/track/6nd2m9H6mMY6N3S29Ue6DY) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Everybody’s Gotta Beating Heart](https://open.spotify.com/album/3lo5t5BcGZ5f7GT0OveJZg) | 3:51 |
-| 127 | [True to Ourselves](https://open.spotify.com/track/1zpfxv4XGfQhOr0qTsr9mE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [True to Ourselves](https://open.spotify.com/album/77ffIio0GX3zq8Jayu0qLX) | 3:34 |
+| 127 | [True to Ourselves](https://open.spotify.com/track/60jMeLKUGjuqIWrojXK0um) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [True to Ourselves](https://open.spotify.com/album/0evRmaaDcL1fKcXZnB2YkW) | 3:34 |
 | 128 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 |
 | 129 | [Black River](https://open.spotify.com/track/5kt9w0Y3qPxdkuoRTaVw8W) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Something More Than Love](https://open.spotify.com/album/3hih4g7LudeBQyzuZZBHrs) | 3:48 |
 | 130 | [Shit River](https://open.spotify.com/track/5OBg7sNRgDWjHEVw2rdlnc) | [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA), [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Shit River](https://open.spotify.com/album/6xNx62zrJoPaNQOLXMbP6y) | 3:10 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 |
 | 150 | [She's In L.A.](https://open.spotify.com/track/77V65eSkAs5k7JxfryGve2) | [Josh Rouse](https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz) | [She's In L.A.](https://open.spotify.com/album/1FYEcYQB9fuwrWWcGmsv48) | 3:06 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGE3NzEyNDZkYzhkYzAzOGUyZWMxNjY5ZGE5ZTczNDg4`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDBlMDNmM2M4ZGZmMGI2NzYzN2FiOGFmYjdiYzQzM2I5`

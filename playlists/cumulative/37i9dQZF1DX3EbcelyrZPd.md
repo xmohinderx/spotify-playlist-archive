@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-167 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+168 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Kunjani](https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Kunjani](https://open.spotify.com/album/5A75lUyWtHmQy8u1qym21S) | 4:21 | 2021-11-04 | 2022-06-03 |
 | [Kwikwi](https://open.spotify.com/track/6RdkggWArMBHrxBmKTvsaj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Kwikwi](https://open.spotify.com/album/4Ylrz9HbGlQnEKHCe511nJ) | 3:11 | 2022-10-07 |  |
 | [La La](https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [La La](https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg) | 2:54 | 2022-05-26 | 2022-07-22 |
+| [Leave Me Alone](https://open.spotify.com/track/5vtz8vv7tfDPGlJGx1rEz7) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Leave Me Alone](https://open.spotify.com/album/2XJgEcuJZxdCAO5QiCFLXa) | 3:23 | 2022-10-13 |  |
 | [Leo](https://open.spotify.com/track/03kUovuwKyc4vneZJke4EO) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Leo](https://open.spotify.com/album/2tIr3KswVQIL39OQgOaqqo) | 3:16 | 2022-09-08 |  |
 | [Leo Leo](https://open.spotify.com/track/2wetsVvxCvDu5NDXo7v7Wb) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Leo Leo](https://open.spotify.com/album/5TmDMmHEW9pNDthQL6a13V) | 3:07 | 2021-08-26 | 2022-08-12 |
 | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw) | 3:08 | 2022-09-29 |  |
@@ -134,7 +135,7 @@
 | [Pele Pele](https://open.spotify.com/track/3jlFv5sxExswhKsgOKVay0) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Luana Vjollca](https://open.spotify.com/artist/2pF2CPS9lzI3U0ABZk6ZBy) | [Pele Pele](https://open.spotify.com/album/0spgH5Pa0eR3hBH9zotjek) | 2:27 | 2022-07-22 |  |
 | [Pepetua](https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3) | [Nedy Music](https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD) | [Pepetua](https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i) | 2:49 | 2022-03-10 | 2022-09-30 |
 | [Pomp Pomp](https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi) | [Sani Boy](https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Pomp Pomp](https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM) | 3:06 | 2022-02-10 |  |
-| [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 | 2022-04-14 |  |
+| [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 | 2022-04-14 | 2022-10-14 |
 | [Sasambu](https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Sasambu](https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz) | 2:37 | 2022-03-03 | 2022-05-06 |
 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 | 2022-02-10 |  |
 | [Serious Love](https://open.spotify.com/track/6noceDOLHTTjEtGI4xPh8P) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 2:44 | 2022-01-13 | 2022-06-28 |

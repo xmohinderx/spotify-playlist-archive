@@ -257,6 +257,28 @@
     {
       "album": {
         "name": "Baby Who",
+        "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187658,
+      "name": "Baby Who",
+      "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
+    },
+    {
+      "album": {
+        "name": "Baby Who",
         "url": "https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r"
       },
       "artists": [
@@ -271,7 +293,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 187658,
       "name": "Baby Who",
       "url": "https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z"

@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Yeat
 
-432 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+433 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-07-05 |  |
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2021-10-01 | 2022-07-09 |
 | [1011 next up \(homeless refix\)](https://open.spotify.com/track/7w1b2DKMrLxL98NtPqygbb) | [Babyface](https://open.spotify.com/artist/09Wpm9bnONbWvAcei0sSBG) | [1011 next up \(homeless refix\)](https://open.spotify.com/album/464Eyxc4WTHtt6Qpakyskc) | 2:05 | 2021-10-19 | 2022-04-03 |
-| [12 Stout Street](https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/2CKbsapMFGNtTVe9BneTgh) | 1:58 | 2022-06-16 |  |
+| [12 Stout Street](https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/2CKbsapMFGNtTVe9BneTgh) | 1:58 | 2022-06-16 | 2022-10-14 |
+| [12 Stout Street](https://open.spotify.com/track/7x8O57b6oXzmbwANbSy2wq) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/1KJbUGHHOEQfz3MZM9Qk9E) | 1:58 | 2022-06-17 |  |
 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 | 2022-09-09 |  |
 | [2 MUCH \(feat\. Jasiah & KA$HDAMI\)](https://open.spotify.com/track/72Kc3s9sqNDruvVBYgRSVd) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [2 MUCH \(feat\. Jasiah & KA$HDAMI\)](https://open.spotify.com/album/0Hqf02325Kr1GRgHM3w8vf) | 3:14 | 2021-11-05 | 2022-04-29 |
 | [2 time zones \(feat\. Night Lovell\)](https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:41 | 2021-10-08 | 2022-04-03 |

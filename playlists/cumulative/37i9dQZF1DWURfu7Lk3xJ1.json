@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 129600,
       "name": "A Life To Remember",
       "url": "https://open.spotify.com/track/1sdSh7C4MDdjHY0cLbLRKG"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 123428,
       "name": "Adventures",
       "url": "https://open.spotify.com/track/3ojfcXHfFejB250MRUszjZ"
@@ -463,6 +463,36 @@
       "duration_ms": 130000,
       "name": "August Embers",
       "url": "https://open.spotify.com/track/4WqKkJMxKHNbsTfX9Wy9uA"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/5kSAIq4dSNd4i97ARVANix"
+      },
+      "artists": [
+        {
+          "name": "droemsk",
+          "url": "https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL"
+        },
+        {
+          "name": "Tree Climber",
+          "url": "https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV"
+        },
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        },
+        {
+          "name": "Jokujekku",
+          "url": "https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172774,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/6nuRtr2yQXi27oCQlp3SQh"
     },
     {
       "album": {
@@ -727,7 +757,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 120000,
       "name": "Catching Waves",
       "url": "https://open.spotify.com/track/5bwZO55koE4nEGc8xsoYo2"
@@ -1002,6 +1032,28 @@
     },
     {
       "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/2ZHD7tsq6cQZyO2w4N9Oqa"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/11v17iFyo3ORBeMXCbWI4S"
+    },
+    {
+      "album": {
         "name": "Deep In The Fog",
         "url": "https://open.spotify.com/album/6O8WI1fmKoTEsXtE9T4xbT"
       },
@@ -1053,6 +1105,24 @@
       "duration_ms": 113127,
       "name": "Distant Voices",
       "url": "https://open.spotify.com/track/1GyX9ju7nAIZTiAwlpAI09"
+    },
+    {
+      "album": {
+        "name": "Iyashi",
+        "url": "https://open.spotify.com/album/6KJeSUkEH7ZqwHiSMjNaFi"
+      },
+      "artists": [
+        {
+          "name": "Ezor Jz",
+          "url": "https://open.spotify.com/artist/58DMXFQJi8S26i1cKk8mfq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123591,
+      "name": "Dive To The Night",
+      "url": "https://open.spotify.com/track/2ed2psK7UDDOJ935QkD9nZ"
     },
     {
       "album": {
@@ -1139,7 +1209,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 120000,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/5nG2YxmaZ6RMx4hfmm2tS6"
@@ -1288,6 +1358,28 @@
     },
     {
       "album": {
+        "name": "Family Holidays",
+        "url": "https://open.spotify.com/album/6zY2fHujZSEeHId07GQhmT"
+      },
+      "artists": [
+        {
+          "name": "Devon Rea",
+          "url": "https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu"
+        },
+        {
+          "name": "Bogomolove",
+          "url": "https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Family Holidays",
+      "url": "https://open.spotify.com/track/4uAnTiKpTpVLxrrvzgWi8L"
+    },
+    {
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/0CVOVi9O6THLbrdLUUN4W2"
       },
@@ -1397,7 +1489,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 128695,
       "name": "Floating Away",
       "url": "https://open.spotify.com/track/4YVKkDjEBqmCkqmABmcouB"
@@ -1437,6 +1529,24 @@
       "duration_ms": 141567,
       "name": "Floweret",
       "url": "https://open.spotify.com/track/7wBChE1IqPBNbEEq3SGtnW"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt"
+      },
+      "artists": [
+        {
+          "name": "Cyan_95",
+          "url": "https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4OyKGxXkpoW7jtm0lZKLUc"
     },
     {
       "album": {
@@ -1588,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/1K9BYIFgdk7cnY3bjJH9me"
+      },
+      "artists": [
+        {
+          "name": "Lomme",
+          "url": "https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/4lhikETPWxa0iLsARJJxBK"
+    },
+    {
+      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/0iARWX392DjFsfBYvBPbwI"
       },
@@ -1727,6 +1855,24 @@
       "duration_ms": 170000,
       "name": "In Love With The Sky",
       "url": "https://open.spotify.com/track/2B8kKzd1DqlQvRAYGpWChj"
+    },
+    {
+      "album": {
+        "name": "In Passing",
+        "url": "https://open.spotify.com/album/3xoBR4kU6tQ2Gfgzl5PQPU"
+      },
+      "artists": [
+        {
+          "name": "Blue Sirens",
+          "url": "https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "In Passing",
+      "url": "https://open.spotify.com/track/4gT6CEcCzERNn8qIAzBu91"
     },
     {
       "album": {
@@ -1919,7 +2065,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 154023,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/00g7ChF6i75kSyc1thls8N"
@@ -1999,7 +2145,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 128695,
       "name": "Long Days And Longer Nights",
       "url": "https://open.spotify.com/track/0RaTFbCKKGTpiqqQroXW2d"
@@ -2368,6 +2514,28 @@
     },
     {
       "album": {
+        "name": "More Than Ever",
+        "url": "https://open.spotify.com/album/1yFR5GXRlrgBlVOaXtHv7x"
+      },
+      "artists": [
+        {
+          "name": "vesky",
+          "url": "https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L"
+        },
+        {
+          "name": "Blocktane",
+          "url": "https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "More Than Ever",
+      "url": "https://open.spotify.com/track/20xBuY19xf6sdctIwYM7se"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/3dvbkdGKNIIl8maPEI6TwD"
       },
@@ -2383,6 +2551,28 @@
       "duration_ms": 128571,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/0OKlzcuA2lZFCve9fJdZCB"
+    },
+    {
+      "album": {
+        "name": "my home with you",
+        "url": "https://open.spotify.com/album/65599gdYZgw7xP6CoxfZW8"
+      },
+      "artists": [
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        },
+        {
+          "name": "bedroom lofi",
+          "url": "https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111651,
+      "name": "my home with you",
+      "url": "https://open.spotify.com/track/1QUZXZ7yVsCZlO26nCMmfP"
     },
     {
       "album": {
@@ -2433,7 +2623,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 115862,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/49SnwyAd7mkIPeQXtLZVJU"
@@ -2599,7 +2789,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 135750,
       "name": "Out of the day",
       "url": "https://open.spotify.com/track/53RRv08qJ39rEkweiKCaoC"
@@ -2751,6 +2941,24 @@
       "duration_ms": 149750,
       "name": "Port Evenings",
       "url": "https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3"
+    },
+    {
+      "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/7KCabudhTNECE5TfEBW9Gz"
+      },
+      "artists": [
+        {
+          "name": "Kolorama",
+          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/7x6LbHwFGwyQahnp7xG53y"
     },
     {
       "album": {
@@ -2980,6 +3188,24 @@
     },
     {
       "album": {
+        "name": "Secluded Forest",
+        "url": "https://open.spotify.com/album/1VFp3JB0iQtTUBBjprc6SJ"
+      },
+      "artists": [
+        {
+          "name": "nyt\u00f8",
+          "url": "https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Secluded Forest",
+      "url": "https://open.spotify.com/track/4heInUSuX7x85fxsCjdJWI"
+    },
+    {
+      "album": {
         "name": "See you soon",
         "url": "https://open.spotify.com/album/73exb1SFjcjvVDh1xgabkI"
       },
@@ -3097,7 +3323,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 128475,
       "name": "Shinto Garden",
       "url": "https://open.spotify.com/track/7mrqAfaENcCSrorKormkUE"
@@ -3463,6 +3689,32 @@
       "duration_ms": 142784,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8"
+    },
+    {
+      "album": {
+        "name": "Unexplored",
+        "url": "https://open.spotify.com/album/4V02tre631gRm5wfCsLIBI"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "Suntai pt2",
+      "url": "https://open.spotify.com/track/2arEiI3BfCctlu5KWtxqod"
     },
     {
       "album": {
@@ -3845,6 +4097,24 @@
       "duration_ms": 151100,
       "name": "vibrant",
       "url": "https://open.spotify.com/track/5eNkJcy6x0dbixtp5kdfdu"
+    },
+    {
+      "album": {
+        "name": "wakeboardin'",
+        "url": "https://open.spotify.com/album/70r8UtploDr5kuDOAaFCkc"
+      },
+      "artists": [
+        {
+          "name": "55 South",
+          "url": "https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144052,
+      "name": "wakeboardin'",
+      "url": "https://open.spotify.com/track/7EC8a8JJ0U0zG9yHn0DJM3"
     },
     {
       "album": {

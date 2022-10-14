@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-97 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
+98 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Haunted House](https://open.spotify.com/track/6pD0ykQutS455Qxvh7OheC) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Haunted House](https://open.spotify.com/album/1ey17n9x1NaHc83hX696bp) | 2:48 | 2021-10-28 |  |
 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 | 2021-10-28 |  |
 | [Hell](https://open.spotify.com/track/5J11PTk7fy9TR0TKXpVvCt) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Hell](https://open.spotify.com/album/4KTwNYQY0kTnrgtjaCoMw1) | 3:52 | 2021-10-28 |  |
-| [Hell on Earth](https://open.spotify.com/track/0LF3laZt24GkVkd6ZyJlw8) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [Hell on Earth](https://open.spotify.com/album/6yNq56Py7PppTGP5HueKcP) | 3:05 | 2021-10-28 |  |
+| [Hell on Earth](https://open.spotify.com/track/0LF3laZt24GkVkd6ZyJlw8) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [Hell on Earth](https://open.spotify.com/album/6yNq56Py7PppTGP5HueKcP) | 3:05 | 2021-10-28 | 2022-10-14 |
+| [Hell on Earth](https://open.spotify.com/track/5rFtboDQj9ECmz4pAjDsta) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [Hell on Earth](https://open.spotify.com/album/7dnhkoLh6CayRg3B1HVEXe) | 3:05 | 2022-10-07 |  |
 | [Hitman](https://open.spotify.com/track/161hrORIVwOXGesPsY607T) | [BLVD.](https://open.spotify.com/artist/05BMTFbYu3UZ61SYiu7mTg) | [Hitman](https://open.spotify.com/album/4yO3DPZ4D7PKsXtT4bC6Xx) | 2:44 | 2021-10-28 |  |
 | [Hush](https://open.spotify.com/track/4F3v50jS42NKOuGppjwUHj) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Draicoh](https://open.spotify.com/artist/2lVVjks4oeVRm0yomWFpUC) | [Hush](https://open.spotify.com/album/5UMbBOHJG388cokgCTLlPV) | 2:51 | 2021-10-28 |  |
 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 | 2021-10-28 |  |

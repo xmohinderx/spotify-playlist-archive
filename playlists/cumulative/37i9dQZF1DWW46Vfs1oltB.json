@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest & new Korean hip hop music is here. OWN the crown with KR hip hop music. (Cover: Dynamic Duo) (\uc804\uc138\uacc4\uc5d0\uc11c \uc0ac\ub791\ubc1b\ub294 \ud55c\uad6d \ud799\ud569 \ud788\ud2b8 & \uc2e0\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: \ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624)",
+  "description": "The hottest & new Korean hip hop music is here. OWN the crown with KR hip hop music. (Cover: REDDY) (\uc804\uc138\uacc4\uc5d0\uc11c \uc0ac\ub791\ubc1b\ub294 \ud55c\uad6d \ud799\ud569 \ud788\ud2b8 & \uc2e0\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: \ub808\ub514)",
   "name": "KrOWN",
   "published_playlist_ids": [
     "6eQCLyN2pb2xMxhClGC7H2"
@@ -2122,6 +2122,24 @@
     },
     {
       "album": {
+        "name": "REDDY ACTION",
+        "url": "https://open.spotify.com/album/76kX8iTykE1stIV3kTY9UV"
+      },
+      "artists": [
+        {
+          "name": "Reddy",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220485,
+      "name": "CHICKEN DINNA",
+      "url": "https://open.spotify.com/track/2bll3Te3bvaxRV0TfzxNfs"
+    },
+    {
+      "album": {
         "name": "GORAP LOSERS",
         "url": "https://open.spotify.com/album/61XkU29Se9VQONb24BFngZ"
       },
@@ -2655,6 +2673,32 @@
       "duration_ms": 193350,
       "name": "DANCE2 (Feat. Ja Mezz)",
       "url": "https://open.spotify.com/track/2a2Ne8IE7ErH1X524zBLm9"
+    },
+    {
+      "album": {
+        "name": "DANG",
+        "url": "https://open.spotify.com/album/1fGSblYXzbzoEFjvJQtbFZ"
+      },
+      "artists": [
+        {
+          "name": "Viann",
+          "url": "https://open.spotify.com/artist/1vOcA0bD2xtLC80xRaFmOb"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        },
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "DANG",
+      "url": "https://open.spotify.com/track/3pjzW2jhWHNZVb5BWlPxRr"
     },
     {
       "album": {
@@ -3527,7 +3571,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 146581,
       "name": "eMpTy",
       "url": "https://open.spotify.com/track/0InrBssrYflF4Tet9ZQ06e"
@@ -10961,6 +11005,28 @@
       "duration_ms": 227599,
       "name": "run! (feat. JUSTHIS)",
       "url": "https://open.spotify.com/track/5UKf82epsMYtjpZR9QGtns"
+    },
+    {
+      "album": {
+        "name": "Street Baby",
+        "url": "https://open.spotify.com/album/0iW10NuNsrVSzTcRCrlQPG"
+      },
+      "artists": [
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124120,
+      "name": "RUNNIN THIS CITY (feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/2sxhwxVkb5EsZzeNfkpgH0"
     },
     {
       "album": {

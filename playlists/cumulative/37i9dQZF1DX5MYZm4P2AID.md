@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-99 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
+100 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Sabina](https://open.spotify.com/track/1dp5tXL7hVHsvXtzZcHFvi) | [Sugar Fed Leopards](https://open.spotify.com/artist/6HLiQWOzcEJnXU221EPLSD) | [Sweet Spots](https://open.spotify.com/album/2SKnD5LUr5wOf3xVRItGY6) | 2:39 | 2021-10-26 |  |
 | [Sandman](https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF) | 3:12 | 2021-10-26 |  |
 | [Something That You're Missing](https://open.spotify.com/track/1feFU0PFJYCySHLBxZUZ8V) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/26WIJQq5d9NkiE2mPNvjJ8) | 2:50 | 2021-10-26 | 2022-07-29 |
-| [Something That You're Missing](https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/24tZ8bH69NK3fmxSuQ10UO) | 2:50 | 2021-10-26 |  |
+| [Something That You're Missing](https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/24tZ8bH69NK3fmxSuQ10UO) | 2:50 | 2021-10-26 | 2022-10-14 |
+| [Something That You're Missing](https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn) | 2:50 | 2021-10-26 |  |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-10-26 |  |
 | [Stuck](https://open.spotify.com/track/70zc36jTdBODMZSqKIQRq9) | [Noonday Devils](https://open.spotify.com/artist/3bE1tOIIIUiftncsv1OGyG) | [Bitters](https://open.spotify.com/album/4oLJM8xYwc1VOdb3SOJ2Pc) | 3:26 | 2021-10-26 |  |
 | [Summer](https://open.spotify.com/track/7MNTf5d8T971NWUcqhgPlH) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Oracolo](https://open.spotify.com/album/3bxJayV6Df1njG1jUnIXfs) | 4:28 | 2021-10-26 | 2022-07-29 |

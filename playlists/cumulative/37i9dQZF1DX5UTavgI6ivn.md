@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Feid
 
-140 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
+141 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Cómo No Amarte](https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE) | [Yembema](https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cómo No Amarte](https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR) | 3:27 | 2022-01-12 | 2022-02-03 |
 | [Currambera](https://open.spotify.com/track/6QBSCFjzmqCuE90vSzmhkE) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Currambera](https://open.spotify.com/album/6V8B6uJZ0PREhhSXGP8Fdk) | 3:57 | 2022-02-02 |  |
 | [Cásate Conmigo](https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cásate Conmigo](https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98) | 3:29 | 2022-01-12 |  |
+| [De Carne Y Hueso](https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [De Carne Y Hueso](https://open.spotify.com/album/1ELqyXbIsxDmQw8lLNssLo) | 3:07 | 2022-10-13 |  |
 | [De Tanto Chimbiar](https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [De Tanto Chimbiar](https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp) | 3:06 | 2022-10-11 |  |
 | [Diciembre, Otra Vez –Epílogo–](https://open.spotify.com/track/3r0l64cTauzcbqJF0LUqrA) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [–EPílogo– Diciembre, Otra Vez](https://open.spotify.com/album/6EZOLQYsbxm6ayT7s8sX5F) | 4:07 | 2022-05-28 | 2022-10-12 |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2022-01-12 | 2022-03-05 |
@@ -75,7 +76,7 @@
 | [Millones](https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:41 | 2022-01-12 |  |
 | [Mocca \- Remix](https://open.spotify.com/track/1usoXi4f0BnMART4uActEA) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [Mocca \(Remix\)](https://open.spotify.com/album/5e17MvJeEUfTQJ2Ygu6acn) | 3:22 | 2022-01-12 |  |
 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-07-08 |  |
-| [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-05-28 |  |
+| [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-05-28 | 2022-10-14 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 4:12 | 2022-08-11 |  |
 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 | 2022-01-12 |  |
 | [Más De Ti](https://open.spotify.com/track/4svaGEtJdr5gdhBvdIkGaL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Más De Ti](https://open.spotify.com/album/2CN1yjEVnshrIJ2lKHIWMn) | 3:10 | 2022-01-12 |  |

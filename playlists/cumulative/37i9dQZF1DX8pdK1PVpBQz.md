@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Vallé Artwork: Isu Kim
 
-1,354 songs - 3 day 2 hr 48 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,355 songs - 3 day 2 hr 52 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [CYA](https://open.spotify.com/track/1NDkiGFBqrbfJS7b4wsW2x) | [Jamaica Moana](https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh) | [CYA](https://open.spotify.com/album/3IOpRdmirzRCMUgYaqpd7e) | 2:27 | 2022-01-25 | 2022-02-24 |
 | [Cycles](https://open.spotify.com/track/5CKGgj06cR7VzZYPPZFajG) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Isaiah](https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT) | [Cycles](https://open.spotify.com/album/1MwHljUOGvFuX0Tx2zClUS) | 3:18 | 2022-10-12 |  |
 | [Cycles \(feat\. Isaiah\)](https://open.spotify.com/track/2iyaSzxyl0B744yPbXpcEK) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Isaiah](https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT) | [Cycles](https://open.spotify.com/album/6DIebxNWIVeqRSjPqCk4Tm) | 3:18 | 2022-09-21 | 2022-10-13 |
-| [Daisy](https://open.spotify.com/track/3w9vuwxS1KKV2uesqZPGWR) | [D.E.L](https://open.spotify.com/artist/0XCOqb0sQxtEjujH2yHNh1) | [Daisy](https://open.spotify.com/album/24aooAbLiDJKeKzbPm3sgA) | 3:15 | 2022-09-28 |  |
+| [Daisy](https://open.spotify.com/track/3w9vuwxS1KKV2uesqZPGWR) | [D.E.L](https://open.spotify.com/artist/0XCOqb0sQxtEjujH2yHNh1) | [Daisy](https://open.spotify.com/album/24aooAbLiDJKeKzbPm3sgA) | 3:15 | 2022-09-28 | 2022-10-14 |
+| [Daisy](https://open.spotify.com/track/58CNmcEtly0H1Viw52dO8b) | [D.E.L](https://open.spotify.com/artist/0XCOqb0sQxtEjujH2yHNh1) | [Daisy](https://open.spotify.com/album/6kHmcq1Lppm5otfjp5cpu7) | 3:15 | 2022-10-12 |  |
 | [Damn](https://open.spotify.com/track/3Vurorxrdsj2fxhuNIZYGL) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Skeptical](https://open.spotify.com/album/1jDy4AscIVvFQwNsGPhJ39) | 1:57 | 2022-10-12 |  |
 | [Dance Again](https://open.spotify.com/track/4c1GcUV5AYT9P7ZZd4OP7W) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Dance Again](https://open.spotify.com/album/0fY82ybrmIwMJ2Eb49cpt4) | 3:11 | 2022-08-10 | 2022-09-09 |
 | [Dance Now](https://open.spotify.com/track/1LReLcAXOIo745DgUNrcvg) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Dance Now](https://open.spotify.com/album/1KLhPXH6kqwzKYHgU2KpOY) | 4:50 | 2022-06-15 | 2022-07-28 |

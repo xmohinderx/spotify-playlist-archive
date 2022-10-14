@@ -4,7 +4,7 @@
 
 > Keeping it 140 \- Welcome to Grime Shutdown\. Cover: Manga Saint Hilare
 
-114 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/2DjdDRenGYiG0erWIFLGFX)
+115 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2DjdDRenGYiG0erWIFLGFX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Simon Said](https://open.spotify.com/track/6Auf3MaXotpL6jmQvKOLWi) | [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Pit](https://open.spotify.com/artist/0CKn40JSJMUlxtBgJ6dskO) | [Simon Said](https://open.spotify.com/album/4oR1KBORj8jBzYTduFbTPZ) | 2:21 | 2022-06-17 | 2022-10-01 |
 | [SKR](https://open.spotify.com/track/1HyfQyAbqE7AmlA8LX17A0) | [Merky ACE](https://open.spotify.com/artist/15uvoIS6p9Gs3QZSjSqIMG) | [Sticks and Stones](https://open.spotify.com/album/7mXvBsSC5FgDbEwxmTxgwm) | 3:25 | 2021-10-25 |  |
 | [Sleepless Nights](https://open.spotify.com/track/4Xod1PPGEhSXsNq4TeMdrZ) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6) | 3:56 | 2021-10-25 | 2022-10-13 |
+| [Sleepless Nights](https://open.spotify.com/track/7xxekz2l6IJQkoWBYCPcxT) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih) | 3:56 | 2022-07-17 |  |
 | [Slice of the Pie](https://open.spotify.com/track/484PQkrz1cx6S5AlPzpjkT) | [Shay D](https://open.spotify.com/artist/3g75KaSPS8HaMD5SIeHTLX), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Slice of the Pie](https://open.spotify.com/album/1x6tBUyhszS7hrAfyVxyf3) | 3:49 | 2021-10-25 |  |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Sorry I'm Not Sorry](https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr) | 3:34 | 2022-06-17 |  |
 | [Spin A Man](https://open.spotify.com/track/2pb5IM5gRtwcTx8UVJ8R2M) | [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN), [DYNO](https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq) | [Spin A Man](https://open.spotify.com/album/2HbI9PD0whIkJmXhKs0hi3) | 3:17 | 2021-10-25 |  |
@@ -115,7 +116,7 @@
 | [This Year](https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [Tobi](https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS) | [This Year](https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW) | 2:58 | 2021-10-25 |  |
 | [Top Boy Spitter \(Never Been\)](https://open.spotify.com/track/56bdSTAkeOIIuPLWTjwqPk) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Ultima Deluxe](https://open.spotify.com/album/4eCgcVgvFe7p2KcDgWqU5O) | 2:30 | 2021-10-25 | 2022-07-29 |
 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 | 2021-10-25 |  |
-| [Trouble](https://open.spotify.com/track/0D33xYNKDKQ7HIbDKkPOFy) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Triggz](https://open.spotify.com/artist/70f0PQetmBpHt6TGywzo4g) | [Double Or Nothing](https://open.spotify.com/album/4evENpyS3oZUc9dk3MBcHj) | 3:48 | 2021-10-25 |  |
+| [Trouble](https://open.spotify.com/track/0D33xYNKDKQ7HIbDKkPOFy) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Triggz](https://open.spotify.com/artist/70f0PQetmBpHt6TGywzo4g) | [Double Or Nothing](https://open.spotify.com/album/4evENpyS3oZUc9dk3MBcHj) | 3:48 | 2021-10-25 | 2022-10-14 |
 | [Variation](https://open.spotify.com/track/7mO3Z8L3iWzXD4CcWla4nS) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Variation](https://open.spotify.com/album/2BFnUGjtaVmEXDuWGotfkM) | 3:28 | 2021-10-25 |  |
 | [Very Original](https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:08 | 2021-10-25 |  |
 | [VEX](https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 2:18 | 2021-10-25 |  |

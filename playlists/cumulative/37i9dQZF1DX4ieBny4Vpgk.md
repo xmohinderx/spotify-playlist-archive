@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2021\. Cover: Veronica Swift
 
-62 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
+63 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [It Happens Like That](https://open.spotify.com/track/7Jk6KetPiVZB4Rmg1u7JhK) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:31 | 2021-12-01 |  |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2021-12-01 |  |
 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 | 2021-12-01 |  |
-| [Let You Break My Heart Again](https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR) | 4:29 | 2021-12-01 |  |
+| [Let You Break My Heart Again](https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR) | 4:29 | 2021-12-01 | 2022-10-14 |
 | [Let You Break My Heart Again](https://open.spotify.com/track/41H96KDENmbR7d9NzMgojt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2yKcJB2QkNyogIyDY96pu4) | 4:29 | 2021-12-01 | 2022-07-29 |
+| [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 | 2021-12-01 |  |
 | [Let's Do It](https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Andre Reiss](https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Let's Do It](https://open.spotify.com/album/1saHQW8pTxZJRntJQah8iY) | 3:44 | 2021-12-01 |  |
 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2021-12-01 |  |
 | [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2021-12-01 | 2022-10-13 |

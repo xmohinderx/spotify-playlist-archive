@@ -5727,7 +5727,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 216707,
       "name": "Chicha Nola",
       "url": "https://open.spotify.com/track/36Gpj79kRacipf8R98ADJC"
@@ -7221,10 +7221,36 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 312914,
       "name": "Cumbia Sobre el Mar (El B\u00faho Remix)",
       "url": "https://open.spotify.com/track/0HdHd5mJlqFqv8PqAGDsEw"
+    },
+    {
+      "album": {
+        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
+        "url": "https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312914,
+      "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
     },
     {
       "album": {
@@ -13363,6 +13389,28 @@
     {
       "album": {
         "name": "Bienaventuranza",
+        "url": "https://open.spotify.com/album/1qptkW44vDksHHjQh4mY5O"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300721,
+      "name": "Ilal\u00f3",
+      "url": "https://open.spotify.com/track/18xTGfFgpWylovhgC0GYyZ"
+    },
+    {
+      "album": {
+        "name": "Bienaventuranza",
         "url": "https://open.spotify.com/album/76BZ7Sf6cZOweCJNHB0uiY"
       },
       "artists": [
@@ -13377,7 +13425,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 300721,
       "name": "Ilal\u00f3",
       "url": "https://open.spotify.com/track/6lkBUo1eF422uPCrFJrVEQ"

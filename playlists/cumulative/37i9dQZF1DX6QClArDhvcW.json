@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 175058,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/2Cgmzxm4MPmNFFbOvXaVCH"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 117073,
       "name": "First Prize",
       "url": "https://open.spotify.com/track/588MsHiGYnRKr7GIkgFQSm"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 96026,
       "name": "modern grooves",
       "url": "https://open.spotify.com/track/7eZLYuZNekoxGxjMBQ8ACl"
@@ -2628,6 +2628,24 @@
     },
     {
       "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/7rSGnjAtzEK0aeI3oCi5az"
+      },
+      "artists": [
+        {
+          "name": "Daemon",
+          "url": "https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/35ocNO8HJOYg9DUTxHY3CI"
+    },
+    {
+      "album": {
         "name": "Ophelia",
         "url": "https://open.spotify.com/album/7F5LJTqpYbuaxgmbORaJmc"
       },
@@ -2885,6 +2903,24 @@
       "duration_ms": 123250,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/6i0iAPYFh8Nbqvu3WqsH7h"
+    },
+    {
+      "album": {
+        "name": "ready set",
+        "url": "https://open.spotify.com/album/30pz6xSWNHZYeP7GPciVnq"
+      },
+      "artists": [
+        {
+          "name": "olbejom",
+          "url": "https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "ready set",
+      "url": "https://open.spotify.com/track/2CgICrxMPfvQfnlfTXCSCA"
     },
     {
       "album": {
@@ -3426,6 +3462,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/0J6y1xVH7c3NjfYCt62JrT"
+      },
+      "artists": [
+        {
+          "name": "Senn",
+          "url": "https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148650,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/70TwGLRXDWgOi5govpWGMF"
+    },
+    {
+      "album": {
         "name": "Sweet Home",
         "url": "https://open.spotify.com/album/5fIuYDIia6DJkyFkYi442F"
       },
@@ -3441,7 +3495,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 100500,
       "name": "Sweet Home",
       "url": "https://open.spotify.com/track/4K0rbmXkGLx1a8pdfDhPTw"
@@ -3911,6 +3965,28 @@
       "duration_ms": 147000,
       "name": "Upward Falling",
       "url": "https://open.spotify.com/track/6YsXDpB5gqbNZiAIn8T4Ty"
+    },
+    {
+      "album": {
+        "name": "Urban Eyes",
+        "url": "https://open.spotify.com/album/3hTsg9UJRxvSC3lBDXy68z"
+      },
+      "artists": [
+        {
+          "name": "InternalEye",
+          "url": "https://open.spotify.com/artist/2i1Sm6KCGynVL4RRFo1fr7"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94166,
+      "name": "Urban Eyes",
+      "url": "https://open.spotify.com/track/7GrhuhTGk6KBeZQToeIAa2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-129 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+130 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-12-20 |  |
 | [Machine Gun](https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 2:39 | 2022-05-12 |  |
 | [Machine Gun](https://open.spotify.com/track/6LU9Z9Sif4Lpu1B4PAwCuj) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/5ZH8WLX5Ta8zkTSiWQIpMx) | 2:39 | 2021-12-20 | 2022-07-28 |
+| [Mercy, Mercy](https://open.spotify.com/track/12w6nPwHLEwgdvJu3vHoRF) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [Mercy!](https://open.spotify.com/album/4DohPj1X1iG6UAyxrk4WNe) | 2:26 | 2022-08-12 |  |
 | [Mercy, Mercy](https://open.spotify.com/track/6DrsaEo5LwVWywbmwNG3rI) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [See Saw](https://open.spotify.com/album/1LASXwYqGdkotrw6Gh83aX) | 2:26 | 2022-03-24 | 2022-04-17 |
 | [Mixed\-Up, Shook\-Up Girl](https://open.spotify.com/track/1pVFchEqnrpIEtuGrB4srT) | [Patty & The Emblems](https://open.spotify.com/artist/3YNciz35JttEP3tpD392Up) | [Mixed\-Up, Shook\-Up Girl](https://open.spotify.com/album/6THmxCmxzsOf1gbZZrsyrO) | 2:06 | 2022-03-24 | 2022-04-21 |
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 | 2021-12-20 |  |
@@ -91,7 +92,7 @@
 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 | 2022-05-12 | 2022-10-04 |
 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Ultimate Collection: Four Tops](https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v) | 2:59 | 2021-12-20 | 2022-07-29 |
 | [Reflections](https://open.spotify.com/track/4QNviFJLZ8SrjhkTkDbvyU) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Reflections](https://open.spotify.com/album/4zjzKwovnTwVxg4ckO6YGU) | 2:49 | 2021-12-20 | 2022-07-29 |
-| [Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Reflections \(Expanded Edition\)](https://open.spotify.com/album/5Hihm4B5op6ktt8qP1AHKK) | 2:49 | 2022-05-12 |  |
+| [Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Reflections \(Expanded Edition\)](https://open.spotify.com/album/5Hihm4B5op6ktt8qP1AHKK) | 2:49 | 2022-05-12 | 2022-10-14 |
 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 | 2022-05-12 |  |
 | [Rescue Me](https://open.spotify.com/track/5Gird0FlC1rfCDujzz0C4N) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 2:52 | 2021-12-20 | 2022-07-29 |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2022-10-01 |  |

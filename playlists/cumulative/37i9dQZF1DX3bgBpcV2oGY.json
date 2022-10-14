@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Be Left Alone",
+        "url": "https://open.spotify.com/album/1e5HKzFBbruMRqqrAjYfx2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206739,
+      "name": "Don't Wanna Be Left Alone",
+      "url": "https://open.spotify.com/track/2KqG9v7kW9zSwYGTAqTN2N"
+    },
+    {
+      "album": {
         "name": "Dromen van liefde",
         "url": "https://open.spotify.com/album/7g0TCMEFkWBqKqaZhoDWLd"
       },

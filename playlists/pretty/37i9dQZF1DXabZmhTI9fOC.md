@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,914 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,919 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 80 | [God Only Knows \- Piano Version](https://open.spotify.com/track/1Xch6mhRTcjlea9JCsDPOU) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [God Only Knows \(Piano Version\)](https://open.spotify.com/album/7dJHISWGS9CHzc9Wko7pFc) | 2:02 |
 | 81 | [The Games We Play](https://open.spotify.com/track/2iEajLJnM0UrGymhJiP54F) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [From the Ashes](https://open.spotify.com/album/5Ty71h6QEJa7uN5mi42t1Y) | 3:31 |
 | 82 | [Warfare](https://open.spotify.com/track/3sUjhuPqm8fzLUrVCt208C) | [Katie Garfield](https://open.spotify.com/artist/20D6Jrpn4bZvOBq63Jisfx) | [Warfare](https://open.spotify.com/album/3KT4VUjIHUenPEhEtWw6LQ) | 3:42 |
-| 83 | [Come Alive](https://open.spotify.com/track/7uzslTc0Ezd60SZG4BQVRc) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Come Alive](https://open.spotify.com/album/2YYfWAJaWXFFJTbeSk3pjZ) | 3:54 |
+| 83 | [Come Alive](https://open.spotify.com/track/6GUKGBriNnKl1apUeJCMYm) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Come Alive](https://open.spotify.com/album/6V46Qwp84Tu26fl4jqXFG3) | 3:54 |
 | 84 | [Check This out](https://open.spotify.com/track/6qXK9e3natxL16VCWeL9qC) | [Taki Waki](https://open.spotify.com/artist/5rpid11AeK74y5d5zsQmqG) | [Level Up](https://open.spotify.com/album/1lZiC6DzOwcHCFxLFo9u3R) | 2:47 |
 | 85 | [It's Our Time](https://open.spotify.com/track/5YQ8vF1sra50KleaACr5I8) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Keep Your Head Up](https://open.spotify.com/album/2TYq54hi4Dc7jBN1DjtJRg) | 2:38 |
 | 86 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
@@ -218,7 +218,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 208 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
 | 209 | [Love Tonight \- David Guetta Remix Edit](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
 | 210 | [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/0U4YQE1rVs1bFFdRTv5s6u), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 |
-| 211 | [Trouble](https://open.spotify.com/track/7LqUwzOSDAdQp111VQG9Mk) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5bfZVXwPOwwKCShPhidWWJ) | 2:34 |
+| 211 | [Trouble](https://open.spotify.com/track/4PaSSxCVbqd0lrpZwcssxm) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5TOLSaeyDW7CyJyIRd9aYw) | 2:34 |
 | 212 | [Taste](https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste](https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A) | 3:06 |
 | 213 | [The Sign](https://open.spotify.com/track/5ic8rTak2Oayk2CAgcDtfL) | [Katie Boeck](https://open.spotify.com/artist/1czkcUmBO9PZgJonjrCwKA) | [The Sign](https://open.spotify.com/album/2yqmdglb3I3gjwPR7gyhFx) | 4:21 |
 | 214 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
@@ -254,7 +254,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 244 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
 | 245 | [Walkie Talkie Man](https://open.spotify.com/track/0iCrjwLMTjWsdOKdOAZ0FC) | [Steriogram](https://open.spotify.com/artist/4HBjD9wmqraU9JVyu8eEY4) | [Schmack!](https://open.spotify.com/album/4EgOBcsLkHKN3rEwVHYftt) | 2:13 |
 | 246 | [Perfect Human Specimen](https://open.spotify.com/track/2yGj1vsVpEvSiMwlrjKJaw) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:02 |
-| 247 | [Bad Things](https://open.spotify.com/track/7hPYYE1RCIJovbGrP0fAG6) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/1XnJZ2AcYJKgTylccXfUsA) | 3:57 |
+| 247 | [Bad Things](https://open.spotify.com/track/7AXkLijaymM7ZfaO46FSRb) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/5BM7D7Y62MfSrmWxjMxtKR) | 3:57 |
 | 248 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 249 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 | 250 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMGNlYTY5MGM0NzZlMmQ2OWVjMGQzNDE3ZjM0ZTJkZjI0`
+Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDllZTE2MzFjZTc1YTg2NWYyMzE2MTA5MWNiNzI4YjU3`

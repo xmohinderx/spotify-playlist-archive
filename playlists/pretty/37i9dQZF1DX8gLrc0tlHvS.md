@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,773 likes - 71 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,851 likes - 71 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 50 | [Brother](https://open.spotify.com/track/5DG2SWW7kPgYqOY0Ex5Ssj) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Into the Flame](https://open.spotify.com/album/32TZZ9ZjC7EFFMYQxf3jYa) | 4:13 |
 | 51 | [Guiding Light](https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:37 |
 | 52 | [TV](https://open.spotify.com/track/6xjlNkhv6itr2G0MGJWNj5) | [Whitley](https://open.spotify.com/artist/17C909ZAaDFHCNLhsqsb25) | [Even The Stars Are A Mess](https://open.spotify.com/album/28i0yF7HOyd9XQMccjymLk) | 3:18 |
-| 53 | [The Paper Trench](https://open.spotify.com/track/2Rz8xJFsP8a2PF1A2IpDqS) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [Tree Bursts in Snow](https://open.spotify.com/album/00pcCuZP1G5Ud6FhDSphjT) | 3:31 |
+| 53 | [The Paper Trench](https://open.spotify.com/track/2xGdzUISpCZSjQ1eproW4Z) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [Tree Bursts In Snow \(Bonus Track Version\)](https://open.spotify.com/album/7mMG7SlopZEy8XGajq4Ins) | 3:31 |
 | 54 | [Trouble with Home](https://open.spotify.com/track/3cRT4Q78S5AnlzqA9YO3nj) | [Friendly Savages](https://open.spotify.com/artist/3Ig26ddcKT3uUPpvLjzMAw) | [O, Joshua!](https://open.spotify.com/album/4tjNIbJuVc8GxqBXAqGZAD) | 3:19 |
 | 55 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 56 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
@@ -78,6 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 68 | [The Ceiling](https://open.spotify.com/track/2jpCeGbbVGYu7utG7O4h4J) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [The Wild Feathers \(Deluxe Version\)](https://open.spotify.com/album/2CJCzXS33sf7jcDNCNDRUv) | 6:18 |
 | 69 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
 | 70 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
-| 71 | [Hopeless Wanderer](https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:07 |
+| 71 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 |
 
-Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMDRmNzJkYWYxMWM0Y2Y0YzAzZGUzNzE0YWE3YjFmZTI3`
+Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMDQ4NTY5YTVmNWE4MDk3OWVhOGFkNjE5NDA4ODczMGYy`

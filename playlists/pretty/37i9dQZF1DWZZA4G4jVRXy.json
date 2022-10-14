@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 110845,
+  "num_followers": 110881,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDFmYjA4MzNmMzc4NTBlOTAzZGRjZWM4NDRkMjM4MzBj",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDk5ZTEyMzc1NTZiZDJhNjRjYzM0OTUzNDhiYTk2N2Qx",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Tiny Bubbles",
-        "url": "https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y"
-      },
-      "artists": [
-        {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "Tiny Bubbles",
-      "url": "https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Organs In Orbit",
         "url": "https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 152706,
       "name": "A Man And A Woman - Remastered",
       "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Tiny Bubbles",
+        "url": "https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y"
+      },
+      "artists": [
+        {
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "Tiny Bubbles",
+      "url": "https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -153,38 +153,6 @@
       "url": "https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Lolita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Lolita Ya Ya",
-      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Best Of Martin Denny's Exotica",
-        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Misirlou - 1995 Digital Remaster",
-      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Que Mango! Arranged and Conducted by Les Baxter (Remastered from the Original Master Tapes)",
@@ -203,6 +171,38 @@
       "duration_ms": 157077,
       "name": "Tropicando",
       "url": "https://open.spotify.com/track/46SMRZqsnGNdyGPhlcFFWb"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Best Of Martin Denny's Exotica",
+        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Misirlou - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Lolita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Lolita Ya Ya",
+      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -287,6 +287,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Home Recordings Vol. 1",
         "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 153493,
       "name": "Chant Of The Moon",
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -479,6 +463,22 @@
       "duration_ms": 165440,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 134506,
       "name": "Llama Serenade",
       "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Savage And The Sensuous Bongos",
-        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
-      },
-      "artists": [
-        {
-          "name": "Don Ralke",
-          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Head Hunter",
-      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Young Hawaii Plays Old Hawaii",
         "url": "https://open.spotify.com/album/73EtyWy6eklV217lXyE89J"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 257106,
       "name": "Pua Lililehua",
       "url": "https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Savage And The Sensuous Bongos",
+        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
+      },
+      "artists": [
+        {
+          "name": "Don Ralke",
+          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Head Hunter",
+      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
     },
     {
       "added_at": "2021-01-20 03:50:53",

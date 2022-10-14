@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,328 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,329 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 27 | [ROXY](https://open.spotify.com/track/1ijJsS6VCiJXGgHtLHmrCx) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Lavender](https://open.spotify.com/album/0o1r2elNdzE964UNjJp6OG) | 3:25 |
 | 28 | [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 |
 | 29 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 |
-| 30 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 |
+| 30 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
 | 31 | [blocked](https://open.spotify.com/track/2SkipftGTsn9rj44V1Lsg0) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [blocked](https://open.spotify.com/album/6pZIjP0eETD7I1TlGgwQgt) | 2:23 |
 | 32 | [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 |
 | 33 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 71 | [i'm lonely](https://open.spotify.com/track/65tCdopbRv73fYFOL40ViN) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/2UXohnFJdRqL9sX3smMJAy) | 3:01 |
 | 72 | [astroboy.](https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 4:00 |
 | 73 | [Sorrys Don't Work No More](https://open.spotify.com/track/0pXANstKZy6B4Qzr1SmwIS) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sorrys Don't Work No More](https://open.spotify.com/album/2xjh5SrZsyW2FbXBC0MAT5) | 3:45 |
-| 74 | [Morning](https://open.spotify.com/track/1xPYXQ677AtLALqqQM8jVR) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/73eZyoV82Ht3Z884QL1q6J) | 4:01 |
+| 74 | [Morning](https://open.spotify.com/track/1ZOInA89l84oYwjac57Nzs) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/3i7N47m8fan34AmuBzzSbf) | 4:01 |
 | 75 | [Sour Strawberry](https://open.spotify.com/track/5fQq8MzzqtX6dGGgfYuqoH) | [Caroline Manning](https://open.spotify.com/artist/2if0ZD9GblHIXm7A1dF300) | [Sour Strawberry](https://open.spotify.com/album/6zD7V0fHhEvomfAYWGg4J4) | 2:26 |
 | 76 | [Weekend](https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Weekend](https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs) | 2:46 |
 | 77 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMGExMGRhMDkwODQ3ODgwMmU4ODA2YTg5ZGJhOTlkMzFi`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDFjMDM1NTJhNWE4YThjODdiMjQwNzM4NmVkZTY1NDkz`

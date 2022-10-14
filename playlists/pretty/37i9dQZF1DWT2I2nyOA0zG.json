@@ -1,12 +1,12 @@
 {
   "description": "Cool vibes from the African continent.",
-  "num_followers": 14005,
+  "num_followers": 14015,
   "original_name": "Afrocentric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxODAxNCwwMDAwMDAwMDAwMTZhY2E0MmM0ZmFhMmZjNjRkNTBlY2Q4ZmZlNDRl",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDk2YWEzNTVjOTM1NDdhYzI5MjUxN2M2ZDVmMTEwM2Vh",
   "tracks": [
     {
       "added_at": "2022-07-25 06:09:23",
@@ -43,6 +43,22 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "How Are You (My Friend)",
+        "url": "https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "How Are You (My Friend)",
+      "url": "https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -189,6 +205,30 @@
       "url": "https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb"
     },
     {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Free (Sounds for Healing)",
+        "url": "https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        }
+      ],
+      "duration_ms": 262105,
+      "name": "Free (Sounds for Healing)",
+      "url": "https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa"
+    },
+    {
       "added_at": "2022-09-23 05:57:19",
       "album": {
         "name": "Badimo (feat. DJ Maphorisa & Boohle)",
@@ -211,26 +251,6 @@
       "duration_ms": 254117,
       "name": "Badimo (feat. DJ Maphorisa & Boohle)",
       "url": "https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/5kQTGFFvwJpdgU13VpMggp"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Qwana",
-          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
-        },
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 285453,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/1VvaBNjT8xyUcX38SbHq5M"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -291,6 +311,22 @@
       "duration_ms": 234480,
       "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
       "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Niit",
+        "url": "https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08"
+      },
+      "artists": [
+        {
+          "name": "Kya Loum",
+          "url": "https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm"
+        }
+      ],
+      "duration_ms": 207029,
+      "name": "Waxtu",
+      "url": "https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -717,26 +753,6 @@
       "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Silaha",
-        "url": "https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "KASHA",
-          "url": "https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Silaha",
-      "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
-    },
-    {
       "added_at": "2022-07-25 06:09:23",
       "album": {
         "name": "Love, Damini",
@@ -751,22 +767,6 @@
       "duration_ms": 210346,
       "name": "Common Person",
       "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
-    },
-    {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Gidi",
-        "url": "https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Gidi",
-      "url": "https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F"
     },
     {
       "added_at": "2021-10-11 06:21:00",
@@ -971,22 +971,6 @@
       "duration_ms": 154666,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
-    },
-    {
-      "added_at": "2022-01-21 06:45:47",
-      "album": {
-        "name": "Satin Cassette",
-        "url": "https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV"
-      },
-      "artists": [
-        {
-          "name": "Turunesh",
-          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
-        }
-      ],
-      "duration_ms": 237001,
-      "name": "Coco Marijuana",
-      "url": "https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB"
     },
     {
       "added_at": "2021-10-15 03:05:54",

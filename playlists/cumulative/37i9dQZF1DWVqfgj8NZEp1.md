@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-242 songs - 23 hr 4 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+243 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2020-10-09 | 2022-02-18 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2020-10-09 | 2022-09-27 |
 | [Ballad for MC](https://open.spotify.com/track/79fmhV6NAraE4Xz3MIXnN4) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [Trying to Figure It Out](https://open.spotify.com/album/0bdzkLwOBum4GKlrVnOfAE) | 3:02 | 2020-10-09 |  |
+| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 | 2020-10-09 |  |
 | [Blame It on My Youth](https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Blame It on My Youth](https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl) | 8:06 | 2022-02-17 | 2022-07-29 |
 | [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 | 2022-06-30 |  |

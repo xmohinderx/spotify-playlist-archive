@@ -4,7 +4,7 @@
 
 > ที่สุดศิลปินรุ่นใหม่ของประเทศไทย ศิลปิน: Jeff Satur, YourMOOD, Blackbeans, The White Hair Cut, THEMOONWILLALWAYSBEWITHME, BELL WARISARA, HYBS, Saran, SPRITE, Only Monday
 
-49 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6rep2f24udDRiCARWl3dYC)
+52 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/6rep2f24udDRiCARWl3dYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-15 |  |
 | [You with me \(My number 8\)](https://open.spotify.com/track/5NQWyXEaPMBkMb52TRiSpD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [You with me \(My number 8\)](https://open.spotify.com/album/5ozK57yl5oa3xi435lGuVf) | 3:46 | 2022-09-15 | 2022-09-24 |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-09-15 |  |
-| [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2022-09-15 |  |
+| [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu) | 3:41 | 2022-10-12 |  |
+| [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2022-09-15 | 2022-10-14 |
 | [ขอโทษที่เข้าไปเป็นเรื่องไม่ดีในชีวิตเธอ \(sunflower\)](https://open.spotify.com/track/5GIeJzSwYL4WOi1QcPrNUY) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ขอโทษที่เข้าไปเป็นเรื่องไม่ดีในชีวิตเธอ \(sunflower\)](https://open.spotify.com/album/1pqLqz2cxsWzCv6iz5DE23) | 3:44 | 2022-09-15 |  |
-| [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-09-15 |  |
+| [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 | 2022-10-12 |  |
+| [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-09-15 | 2022-10-14 |
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-09-15 |  |
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-09-15 |  |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-09-15 |  |
@@ -51,7 +53,8 @@
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-09-15 |  |
 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-09-15 |  |
 | [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 | 2022-09-15 |  |
-| [แอบหวัง](https://open.spotify.com/track/0LLETxISOeZVam4l0RwcpV) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/1ldWFFPGu73WRha8M9P5Eg) | 3:55 | 2022-09-15 |  |
+| [แอบหวัง](https://open.spotify.com/track/0LLETxISOeZVam4l0RwcpV) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/1ldWFFPGu73WRha8M9P5Eg) | 3:55 | 2022-09-15 | 2022-10-14 |
+| [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2022-10-12 |  |
 | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/track/3fgZmdk4bvYyMuIanDoFKf) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/album/5UnGIM1LOtSJA7Q9OlVUhQ) | 4:24 | 2022-09-15 |  |
 | [ใจผมก็มีอยู่แค่นี้](https://open.spotify.com/track/6JPKI5LUFagfVszyzPrhsS) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ใจผมก็มีอยู่แค่นี้](https://open.spotify.com/album/74RNJrNPXeCs1571m5u8tw) | 4:10 | 2022-09-15 |  |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-09-15 |  |

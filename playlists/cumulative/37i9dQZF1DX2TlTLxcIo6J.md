@@ -4,7 +4,7 @@
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp"> Nathan Galante.</a>
 
-27 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/5upgV173Zs7PqUDbnYxRRp)
+28 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/5upgV173Zs7PqUDbnYxRRp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 | 2022-07-22 |  |
 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 | 2022-07-22 |  |
 | [The Way I Do](https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Rendezvous @ 7](https://open.spotify.com/album/783S0ZXyJ63o5txGFV5ej0) | 3:13 | 2022-05-27 |  |
-| [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-05-27 |  |
+| [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-05-27 | 2022-10-14 |
+| [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 | 2022-05-27 |  |
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-09-12 |  |
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 | 2022-09-12 |  |
 | [Tramontana](https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tramontana](https://open.spotify.com/album/3XcRaeOe3P3s2Z1AZLFFZW) | 2:56 | 2022-07-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Maisie Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,544 likes - 66 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,724 likes - 66 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 9 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
 | 10 | [bitches get lonely](https://open.spotify.com/track/5cRaRnMOAogPowDitqkMKL) | [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [bitches get lonely](https://open.spotify.com/album/6JilLr2a8ifQBYaOxiedjN) | 2:31 |
 | 11 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
-| 12 | [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 |
+| 12 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 |
 | 13 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 |
 | 14 | [Liar Liar](https://open.spotify.com/track/3Or3mHW0EXc2AyJyWKn5h0) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Liar Liar](https://open.spotify.com/album/6KZ3DtRuWlTlCY0SKsTRyR) | 2:48 |
 | 15 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 65 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 |
 | 66 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDU4MjQ3ZjAzZmJjNTRkYzI2ZjEzMGNlYTIzZTgwMzE0`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGE5MTQyMjIyMTVjYTA3OTQ2NjliZDc1ZWU5NmFlOTBh`

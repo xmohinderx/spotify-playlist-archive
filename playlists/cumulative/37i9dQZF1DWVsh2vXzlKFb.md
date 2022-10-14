@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-283 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
+285 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [bullet train](https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [bullet train](https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4) | 4:30 | 2021-08-13 | 2022-07-28 |
 | [Busy](https://open.spotify.com/track/2VG8dvyYnyj4WtzNIj2fOC) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/68Saky2gc5DtvcQlRHKm1g) | 2:46 | 2022-06-10 | 2022-07-06 |
 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 | 2021-08-13 |  |
+| [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-08-25 |  |
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2022-05-06 | 2022-10-13 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-08-13 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-11 |  |
@@ -143,7 +144,7 @@
 | [LEMON SWAYZE](https://open.spotify.com/track/0tR47lSi6EyeT1CV9mAPwm) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [LEMON SWAYZE](https://open.spotify.com/album/4GzAc43vKjHL62Hthto2aY) | 5:18 | 2022-03-24 | 2022-04-20 |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-08-13 |  |
 | [Life On Pause](https://open.spotify.com/track/5YcZHyvloOUuORaerCVrG7) | [STRABE](https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu) | [Life On Pause](https://open.spotify.com/album/1VLtKqUwuvWKhCOnV4YzD5) | 4:13 | 2022-04-01 | 2022-07-29 |
-| [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 | 2022-03-24 |  |
+| [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 | 2022-03-24 | 2022-10-14 |
 | [Live It Up](https://open.spotify.com/track/4LlHqSRwo5z72M4N8oLYUo) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Live It Up](https://open.spotify.com/album/6PPpAEuQkGvZ9jT2ep1OcJ) | 3:18 | 2021-08-13 | 2022-04-21 |
 | [Loaded](https://open.spotify.com/track/2yP8JHWvLcpjeEaqCAh6dh) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Jumper](https://open.spotify.com/album/7kjleTWzKGJUbxq3LZMRLC) | 3:34 | 2022-08-18 | 2022-08-26 |
 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 | 2022-05-06 | 2022-07-29 |
@@ -167,6 +168,7 @@
 | [Moving Men](https://open.spotify.com/track/3uTrO9684EkqTlRUJF8TkW) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men \(Remixes\)](https://open.spotify.com/album/5A2w5utoGuiOXncW0DdnzB) | 2:47 | 2021-08-13 | 2022-04-21 |
 | [music to walk home to](https://open.spotify.com/track/2LFLkwyXZQn0ssPLiZns3x) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 4:20 | 2021-08-13 | 2022-07-23 |
 | [N o o N](https://open.spotify.com/track/34p27cOsC6Y6FBNEAoHMkU) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [N o o N](https://open.spotify.com/album/5il9QjoszOMgc3H7S4OTTP) | 3:19 | 2022-03-24 | 2022-07-22 |
+| [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-08-25 |  |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2022-07-14 | 2022-10-13 |
 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 | 2022-08-25 |  |
 | [Not Your Summer](https://open.spotify.com/track/0TGNIoCn8bQJyN6AIT0fOa) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Community Spirit](https://open.spotify.com/album/6sZWhOHdFpgAZSdR8NJwTe) | 3:44 | 2021-08-13 | 2022-07-29 |
@@ -261,7 +263,7 @@
 | [Timee](https://open.spotify.com/track/72oK7vAQsxnk1a5wTvKvdu) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Just Kids](https://open.spotify.com/album/2oWg0mtskzLgK8K2GlTkCJ) | 3:23 | 2022-03-24 | 2022-04-21 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2021-08-13 |  |
 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 | 2021-08-13 | 2022-07-29 |
-| [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-14 |  |
+| [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-14 | 2022-10-14 |
 | [Up To Something](https://open.spotify.com/track/1GcVyRrHS4g76on0l09DpX) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Up To Something](https://open.spotify.com/album/5m6zW9ofJz4uH2ZLfdlx8H) | 3:32 | 2022-07-14 | 2022-07-28 |
 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 | 2022-06-10 | 2022-07-09 |
 | [wachito rico](https://open.spotify.com/track/0OYf62rdwDouKohtCALD55) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:34 | 2021-08-13 |  |

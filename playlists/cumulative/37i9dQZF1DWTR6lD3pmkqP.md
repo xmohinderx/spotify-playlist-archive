@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-463 songs - 1 day 15 hr 28 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
+464 songs - 1 day 15 hr 32 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Nörvenich Lounge](https://open.spotify.com/track/3V26wEil0lpRg1UQyju8vS) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [Nörvenich Lounge](https://open.spotify.com/album/69IrYerwOrzCmyOeFnq04a) | 3:47 | 2021-12-21 | 2022-07-25 |
 | [O Fogo](https://open.spotify.com/track/5wJYIdc4P70DuqFWwQgSLZ) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Magma](https://open.spotify.com/album/28VtIxXxSnHaQFKCnKN0P5) | 4:46 | 2022-02-10 |  |
 | [O Fogo](https://open.spotify.com/track/6oJPC4vEqke3ViUuMhz49u) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [O Fogo](https://open.spotify.com/album/0z5MO6rLjBmgjFMqFe21EQ) | 4:46 | 2021-12-16 | 2022-07-29 |
-| [Odyssey](https://open.spotify.com/track/7rzaogj4Be9bXCV7rGgRgT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Welcome to the Hills](https://open.spotify.com/album/2o2tNVIRBR0BH4RlLm4qLO) | 3:44 | 2021-12-16 |  |
+| [Odyssey](https://open.spotify.com/track/04w5a4UqbWgrIl5ySHEiF0) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Welcome to the Hills](https://open.spotify.com/album/5MBvie7lDjKKlKdnTaC5LF) | 3:44 | 2022-02-10 |  |
+| [Odyssey](https://open.spotify.com/track/7rzaogj4Be9bXCV7rGgRgT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Welcome to the Hills](https://open.spotify.com/album/2o2tNVIRBR0BH4RlLm4qLO) | 3:44 | 2021-12-16 | 2022-10-14 |
 | [On the Fly](https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [On the Fly](https://open.spotify.com/album/1YLHsSg3sGQP98rTWIqnT7) | 3:18 | 2021-12-16 |  |
 | [One Day I'll Fly Away](https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Jasmine](https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye) | 4:15 | 2022-04-01 |  |
 | [One Mo' Dram](https://open.spotify.com/track/36vyq6JJPm6DM1C4UahLee) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/6zmUoCKw6UvkLGjaVEZsin) | 5:00 | 2021-12-16 | 2022-07-28 |

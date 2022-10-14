@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,008 likes - 202 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,018 likes - 202 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 114 | [She Let Herself Go](https://open.spotify.com/track/7i9lx2znzB7zREJhhUzyjV) | [Dean Dillon](https://open.spotify.com/artist/6TaRQZ726me3yOu1f2glVH) | [Dylyn](https://open.spotify.com/album/42n6SYRT9TRdi4ul40vIpY) | 3:24 |
 | 115 | [Church Bells \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/5E5wgTbHRPicCLIjiWw5AS) | [Zach Crowell](https://open.spotify.com/artist/2yZT0zo8NPltj0c8KZvJip), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:09 |
 | 116 | [Fuzzy](https://open.spotify.com/track/054DVXQK0w2caEVaxsTaH1) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:06 |
-| 117 | [My Poor Mama](https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4) | 3:01 |
+| 117 | [My Poor Mama](https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/72dBMGHSenphYYr0Sv0wUf) | 3:01 |
 | 118 | [Take Your Time](https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 4:00 |
 | 119 | [Somethin' In The Water](https://open.spotify.com/track/1NwgDcWmMOMikTwZ60Oh06) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 3:11 |
 | 120 | [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 3:46 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 201 | [Red Satin Dress](https://open.spotify.com/track/0k7sELmj9D9rNtVWCyCw4h) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Red Satin Dress](https://open.spotify.com/album/0naK2HyiBWs3NUBmtAt69v) | 4:01 |
 | 202 | [Stuck in High School](https://open.spotify.com/track/4SeZDz0nFQZTjjDImDTQhS) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:11 |
 
-Snapshot ID: `MTY2NDU5NjgwMCwwMDAwMDAwMDhhZDRlN2M0MmZmMzZmYWU4Mzg1OTdjYTU0NTRkZDhl`
+Snapshot ID: `MTY2NDU5NjgwMCwwMDAwMDAwMDUzOTNhMjNiZmI4MmEwMWE2NTc0Y2YwZGMxNWJkMmU5`

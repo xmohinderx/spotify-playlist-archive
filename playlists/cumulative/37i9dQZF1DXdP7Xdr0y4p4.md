@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover: The Guardians
 
-136 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
+137 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 | 2021-10-29 | 2022-08-25 |
 | [Just Preach Jesus](https://open.spotify.com/track/0KXbJXbFUByTOansdOsijJ) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/3KoNQ5R7a9Yz7MEzqyQtE7) | 2:45 | 2021-10-29 | 2022-08-28 |
 | [Just Preach Jesus](https://open.spotify.com/track/3LaCjAi3TA2Pqlq1L3PptP) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/2mK1OSCYxXpeHgh4kUZm0D) | 2:45 | 2021-10-29 | 2022-07-29 |
-| [King of Kings](https://open.spotify.com/track/2ZbBnFvIivkLCMsAUFIVrU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/3Ty52esdbMGej9m3Fzb1hR) | 2:58 | 2021-10-29 |  |
+| [King of Kings](https://open.spotify.com/track/2ZbBnFvIivkLCMsAUFIVrU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/3Ty52esdbMGej9m3Fzb1hR) | 2:58 | 2021-10-29 | 2022-10-14 |
+| [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 | 2022-08-27 |  |
 | [Let the Rain Wash Your Troubles Away](https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Music To Your Ears](https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh) | 4:07 | 2022-08-27 |  |
 | [Lift up His Name](https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 3:25 | 2021-10-29 |  |
 | [Lift up His Name](https://open.spotify.com/track/4TJRzltihcgON7MzwMwpNb) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/41VzFJiBphbmaZnncK5MDO) | 3:25 | 2021-10-29 | 2022-07-29 |

@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Starved",
+        "url": "https://open.spotify.com/album/07jpOEyD7mjM3X1cW25EY4"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282815,
+      "name": "Starved",
+      "url": "https://open.spotify.com/track/51dn2eCX2DhMTHtkPmZbZP"
+    },
+    {
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
       },

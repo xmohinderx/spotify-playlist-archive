@@ -1,15 +1,31 @@
 {
-  "description": "New music and timeless tracks from legends only. Cover: Pixies",
-  "num_followers": 344710,
+  "description": "New music and timeless tracks from legends only. Cover: Queen",
+  "num_followers": 344800,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM0NzQ5NSwwMDAwMDAwMGFmOTBlMDZmZmY0OTNiMTZmNjIxZTY4OWZmYjRlNGRl",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDhkZDAwNGQ4ZTZmZGM5N2Q2MTE2NjMwMzU0NTg0NWMz",
   "tracks": [
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Hounds of Love (2018 Remaster)",
         "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Doggerel",
-        "url": "https://open.spotify.com/album/2Z7bVVJJrnoLILscuubJIU"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 251450,
-      "name": "Nomatterday",
-      "url": "https://open.spotify.com/track/5SIuyYZIVW9WU90puvFG1x"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -121,7 +89,23 @@
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
@@ -137,7 +121,7 @@
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
@@ -153,23 +137,7 @@
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Do I Love You (Indeed I Do)",
-        "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Do I Love You (Indeed I Do)",
-      "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
@@ -185,7 +153,23 @@
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Return of the Dream Canteen",
+        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 202888,
+      "name": "The Drummer",
+      "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
@@ -201,7 +185,7 @@
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
@@ -217,7 +201,7 @@
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
@@ -233,7 +217,7 @@
       "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
@@ -265,23 +265,7 @@
       "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Sam's Town",
         "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
@@ -297,7 +281,23 @@
       "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "In Your Honor",
         "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "San Quentin",
         "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Easter",
         "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Tippa My Tongue",
         "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Power Corruption and Lies",
         "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
@@ -877,23 +877,7 @@
       "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
@@ -909,7 +893,39 @@
       "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
@@ -925,39 +941,7 @@
       "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 590000,
-      "name": "Bat Out of Hell",
-      "url": "https://open.spotify.com/track/3mCeeoBvTTpg8Xy2Wuvirw"
-    },
-    {
-      "added_at": "2022-10-07 22:26:41",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K"
@@ -973,7 +957,55 @@
       "url": "https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 590000,
+      "name": "Bat Out of Hell",
+      "url": "https://open.spotify.com/track/3mCeeoBvTTpg8Xy2Wuvirw"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Do I Love You (Indeed I Do)",
+        "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
@@ -989,7 +1021,7 @@
       "url": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
@@ -1005,7 +1037,7 @@
       "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
@@ -1021,7 +1053,7 @@
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
@@ -1037,7 +1069,7 @@
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Parklife (Special Edition)",
         "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
@@ -1053,7 +1085,7 @@
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Second Coming",
         "url": "https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0"
@@ -1069,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Patient Number 9 (feat. Jeff Beck)",
         "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
@@ -1089,7 +1121,7 @@
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
@@ -1105,23 +1137,7 @@
       "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Love Is The Drug",
-      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Sound Affects",
         "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
@@ -1137,7 +1153,23 @@
       "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Love Is The Drug",
+      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "His N Hers",
         "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
@@ -1153,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
@@ -1169,7 +1201,7 @@
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Imploding The Mirage",
         "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
@@ -1185,7 +1217,7 @@
       "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Bitter Taste",
         "url": "https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF"
@@ -1201,7 +1233,7 @@
       "url": "https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Be Here Now (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
@@ -1217,7 +1249,7 @@
       "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
@@ -1233,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Some Friendly",
         "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
@@ -1249,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Fallin' With Me",
         "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
@@ -1263,38 +1295,6 @@
       "duration_ms": 161791,
       "name": "Fallin' With Me",
       "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Satellite of Love",
-      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Replicas",
-        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
-      },
-      "artists": [
-        {
-          "name": "Tubeway Army",
-          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Are 'Friends' Electric?",
-      "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
     }
   ],
   "unique_name": "Legends Only",

@@ -287,7 +287,7 @@
     {
       "album": {
         "name": "dawn",
-        "url": "https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV"
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
       "artists": [
         {
@@ -298,6 +298,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196480,
+      "name": "fever dream",
+      "url": "https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ"
+    },
+    {
+      "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 196480,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY"

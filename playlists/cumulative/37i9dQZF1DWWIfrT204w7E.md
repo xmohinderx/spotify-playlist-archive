@@ -4,7 +4,7 @@
 
 > Drill scenes connect\. Cover: Black Sherif
 
-398 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
+399 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Apollo](https://open.spotify.com/track/2UbJfiDUgTdUqQbSn9B7fQ) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Apollo](https://open.spotify.com/album/1UEo0OyekCcreGXt7ciqIa) | 3:28 | 2021-10-05 | 2022-07-21 |
 | [Aussie Freaks \(feat\. ONEFOUR & Fivio Foreign\)](https://open.spotify.com/track/6ow2CqeDpH5gJPZlLKIZDU) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Floor Seats II](https://open.spotify.com/album/7o1zifwaRKlcJ7gmmXCyNW) | 3:33 | 2021-10-05 | 2022-03-18 |
 | [Bacc Out](https://open.spotify.com/track/4qquKK9z3Hy7p8y1Laa1vr) | [Quelly Woo](https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd) | [Bacc Out](https://open.spotify.com/album/1ucUB7dQsclPcnF7bSKN9B) | 2:10 | 2021-10-05 | 2022-07-14 |
+| [Back 2 Back](https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [LB](https://open.spotify.com/artist/6gQkIc2AaaRQGbgV8aLNht), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 3:08 | 2022-10-13 |  |
 | [Back To Back](https://open.spotify.com/track/4gz2SlgZUYhe6UImLmIRPB) | [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j), [KJ Balla](https://open.spotify.com/artist/4sfOIkcXQ4ygE65tkwrsI2) | [Back To Back](https://open.spotify.com/album/3iHsqqdqzovQDaQklb3EVc) | 2:18 | 2021-10-05 | 2022-03-15 |
 | [Backseat](https://open.spotify.com/track/6PyDmJQd9gT9vBOc5aPAXw) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Backseat](https://open.spotify.com/album/5GJuKaFeTSF8FgES4iv7dM) | 2:41 | 2022-04-15 | 2022-09-16 |
 | [Baddie On My Wish List](https://open.spotify.com/track/1r3NJVpeUtI8jnRdKarZuy) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Baddie On My Wish List](https://open.spotify.com/album/43hhshVn5A3DZAXc6WrgtH) | 1:47 | 2021-10-05 | 2022-07-29 |
@@ -263,7 +264,7 @@
 | [On Me](https://open.spotify.com/track/5b9vnDYRTnqgOv0kPVjLLg) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [MizOrMac](https://open.spotify.com/artist/6qJxjpZgvj3NJGKMkFakpA) | [On Me](https://open.spotify.com/album/54QmbkDcLuZcsDCvJTNbMO) | 4:18 | 2021-10-05 | 2022-07-26 |
 | [One In The Chamber](https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [One In The Chamber](https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL) | 2:51 | 2022-10-08 |  |
 | [One in the Head](https://open.spotify.com/track/3fPH9vxxvw3n44Iw5K74TC) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [One in the Head](https://open.spotify.com/album/06Oc8mnI98ZWuCwCNirwc5) | 2:31 | 2022-06-10 | 2022-06-25 |
-| [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 | 2021-10-05 |  |
+| [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 | 2021-10-05 | 2022-10-14 |
 | [OOTAZ](https://open.spotify.com/track/0WmDdW0eCWfNN6Yr386WUD) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp), [TG Crippy](https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps), [Jay Da Chaser](https://open.spotify.com/artist/0JylLcrOkiUSkBMbDoiWYl) | [OOTAZ](https://open.spotify.com/album/5s0FhQROk8RQ9jLb4nD2ZQ) | 3:40 | 2022-06-10 | 2022-06-25 |
 | [Opp Spotter \(feat\. B\-Lovee\)](https://open.spotify.com/track/5KPeT0pL0rK6x8fesfvcGs) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:43 | 2022-06-10 | 2022-06-25 |
 | [Opponent](https://open.spotify.com/track/03jTzOk8XO1LtD8skd57wm) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Opponent](https://open.spotify.com/album/1pLQBqxpRE2PDcyxVelZnh) | 2:05 | 2021-12-06 | 2022-03-23 |

@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Kenny Mason",
-  "num_followers": 891352,
+  "num_followers": 891489,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDVlZGU1ODA2MjRmNjMxYmYzNDEzZjlhNTgwYjQzMmQx",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDNiYmE2MmZjNmYxNjU3MmM5Yjk4YWNhYjM1NWM2NGNh",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Carefree (with Femdot & Mick Jenkins)",
         "url": "https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "A Bar About a Bar",
-        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 65480,
-      "name": "A Bar About a Bar",
-      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Wimbledon",
         "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "A Bar About a Bar",
+        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 65480,
+      "name": "A Bar About a Bar",
+      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
     },
     {
       "added_at": "2022-10-07 04:00:00",

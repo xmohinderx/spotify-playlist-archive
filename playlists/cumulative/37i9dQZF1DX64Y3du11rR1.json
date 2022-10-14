@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Ghost - acoustic",
+        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151374,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
+    },
+    {
+      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 167500,
       "name": "Iris",
       "url": "https://open.spotify.com/track/7hGfipTkKQBlNGkkPcDP0S"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 162431,
       "name": "Iris (Acoustic)",
       "url": "https://open.spotify.com/track/2QB51enc3JxnKPHaR3HpGg"
@@ -1492,6 +1510,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206301,
+      "name": "Say something - Acoustic",
+      "url": "https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3"
+    },
+    {
+      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
       },
@@ -1543,6 +1579,28 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "album": {
+        "name": "Slow Dancing In A Burning Room",
+        "url": "https://open.spotify.com/album/38hPy8jWiGNL218bxXYail"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        },
+        {
+          "name": "Citycreed",
+          "url": "https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162460,
+      "name": "Slow Dancing In A Burning Room",
+      "url": "https://open.spotify.com/track/5gbcELGepcr1pifCJKqu4j"
     },
     {
       "album": {
@@ -1775,10 +1833,28 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 138600,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
+    },
+    {
+      "album": {
+        "name": "Thank You (Acoustic)",
+        "url": "https://open.spotify.com/album/4F2fZeczZvyys4WBOv0I9p"
+      },
+      "artists": [
+        {
+          "name": "Beth",
+          "url": "https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165296,
+      "name": "Thank You - Acoustic",
+      "url": "https://open.spotify.com/track/7rwzCJM2eMGhU0aBbp0M8t"
     },
     {
       "album": {

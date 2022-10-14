@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 75710,
+  "num_followers": 75768,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMGMxNjZiNTY3M2FlZTczZTE5ZDllYTA1OTJjZmExYjU4",
+  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMDkxNDM1YTg5NjExYzhlMzMwNTBlNDVmNjZmZDMxOTkz",
   "tracks": [
     {
       "added_at": "2022-09-15 12:23:59",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
-      "added_at": "2022-10-13 01:33:47",
+      "added_at": "2022-10-14 01:43:23",
       "album": {
         "name": "Stechm\u00fcck",
         "url": "https://open.spotify.com/album/3loW6CAy3YilP4SdZBkIqu"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
-      "added_at": "2022-10-13 01:33:47",
+      "added_at": "2022-10-14 01:43:23",
       "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
         "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Homescreen Glow",
-        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
-      },
-      "artists": [
-        {
-          "name": "Brin",
-          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
-        }
-      ],
-      "duration_ms": 326829,
-      "name": "Soft Gaiden",
-      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
-    },
-    {
       "added_at": "2022-01-12 02:35:30",
       "album": {
         "name": "This Is An Advertisement",
@@ -827,18 +811,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+        "name": "Homescreen Glow",
+        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Brin",
+          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
         }
       ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
+      "duration_ms": 326829,
+      "name": "Soft Gaiden",
+      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -859,18 +843,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -893,6 +877,22 @@
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
       "added_at": "2022-04-12 01:36:14",
       "album": {
         "name": "lavender's love",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Insight",
         "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 293294,
       "name": "Insight",
       "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "duration_ms": 210655,
+      "name": "Cup Noodle",
+      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -963,18 +963,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
       },
       "artists": [
         {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
         }
       ],
-      "duration_ms": 210655,
-      "name": "Cup Noodle",
-      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -995,22 +995,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Blinking/Aubades",
         "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 303302,
       "name": "Liminal States",
       "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2022-01-13 02:57:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 393717,
       "name": "Promise You'll Haunt Me",
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
-      },
-      "artists": [
-        {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
-        }
-      ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2022-03-29 02:05:38",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
-      },
-      "artists": [
-        {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
-        }
-      ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
+      },
+      "artists": [
+        {
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
+        }
+      ],
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2022-08-24 01:27:39",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
-      "added_at": "2022-08-03 02:50:08",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Ficciones Del Tr\u00f3pico",
@@ -1439,6 +1423,22 @@
       "duration_ms": 269142,
       "name": "Phasma Gigas",
       "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+    },
+    {
+      "added_at": "2022-08-03 02:50:08",
+      "album": {
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+      },
+      "artists": [
+        {
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
     },
     {
-      "added_at": "2022-04-29 18:23:46",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Muckbirth",
@@ -1659,6 +1643,22 @@
       "duration_ms": 382111,
       "name": "Plonk III",
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
+      "added_at": "2022-04-29 18:23:46",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-08-17 17:11:39",

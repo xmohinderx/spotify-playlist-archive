@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad",
-  "num_followers": 863100,
+  "num_followers": 863202,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyMDUzNywwMDAwMDAwMGVhOGRiNDIzN2RkOWRiNDEwYzE3OWFiMzkyMWE0N2Iz",
+  "snapshot_id": "MTY2NTEyMDUzNywwMDAwMDAwMGUwMTQzYjdiNmQ1NTRlZDZkZDFkYmFlNDE3MTYwODEz",
   "tracks": [
     {
       "added_at": "2022-09-30 13:07:21",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
+        "name": "Paz da Minha Alma",
+        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 278031,
+      "name": "Paz da Minha Alma",
+      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
+    },
+    {
+      "added_at": "2022-09-30 13:07:21",
+      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 290080,
       "name": "Deus Faz Al\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
-    },
-    {
-      "added_at": "2022-09-30 13:07:21",
-      "album": {
-        "name": "Paz da Minha Alma",
-        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 278031,
-      "name": "Paz da Minha Alma",
-      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
-        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        }
-      ],
-      "duration_ms": 538613,
-      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
-    },
-    {
-      "added_at": "2022-09-30 13:07:21",
-      "album": {
         "name": "Redentor",
         "url": "https://open.spotify.com/album/4yNYug0DEgvDuYMT3qXGjG"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 307250,
       "name": "Refinador (Refiner)",
       "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
+    },
+    {
+      "added_at": "2022-09-30 13:07:21",
+      "album": {
+        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 538613,
+      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -691,38 +691,6 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
-        "name": "Ele Vir\u00e1",
-        "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 296865,
-      "name": "Ele Vir\u00e1",
-      "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
-    },
-    {
-      "added_at": "2022-09-30 13:07:21",
-      "album": {
-        "name": "Pertinho (Live)",
-        "url": "https://open.spotify.com/album/5FgS1rPdfvF2i3Dox9moXO"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Pertinho - Live",
-      "url": "https://open.spotify.com/track/1Y5QN2S9gOZpDBkbOeA6fB"
-    },
-    {
-      "added_at": "2022-09-30 13:07:21",
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": "2022-09-30 13:07:21",
+      "album": {
+        "name": "Pertinho (Live)",
+        "url": "https://open.spotify.com/album/5FgS1rPdfvF2i3Dox9moXO"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Pertinho - Live",
+      "url": "https://open.spotify.com/track/1Y5QN2S9gOZpDBkbOeA6fB"
+    },
+    {
+      "added_at": "2022-09-30 13:07:21",
+      "album": {
+        "name": "Ele Vir\u00e1",
+        "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 296865,
+      "name": "Ele Vir\u00e1",
+      "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
+        "name": "Believe For It (Eu Creio)",
+        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It (Eu Creio)",
+      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
+    },
+    {
+      "added_at": "2022-09-30 13:07:21",
+      "album": {
         "name": "Tu \u00c9s Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1267PNiK42sqjmxh5pJ4PZ"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 773437,
       "name": "Tu \u00c9s Tudo (Ao Vivo)",
       "url": "https://open.spotify.com/track/37wJRR4kiND7EHW6CvNMWn"
-    },
-    {
-      "added_at": "2022-09-30 13:07:21",
-      "album": {
-        "name": "Believe For It (Eu Creio)",
-        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It (Eu Creio)",
-      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+    },
+    {
+      "added_at": "2022-09-30 13:07:21",
+      "album": {
         "name": "Seu Amor Me Persegue (Studio)",
         "url": "https://open.spotify.com/album/2C2DPyXztvrrDzgKEdCAXI"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 445970,
       "name": "Seu Amor Me Persegue (Studio)",
       "url": "https://open.spotify.com/track/7D5SHB5Qr6otVfXUh0jveD"
-    },
-    {
-      "added_at": "2022-09-30 13:07:21",
-      "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
+        "name": "Adorarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7h9QiMtCucmCbrcRkBYWuf"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 348706,
+      "name": "Adorarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/0wlDUClcs4OEQb7DLhlSHO"
+    },
+    {
+      "added_at": "2022-09-30 13:07:21",
+      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
-    },
-    {
-      "added_at": "2022-09-30 13:07:21",
-      "album": {
-        "name": "Adorarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7h9QiMtCucmCbrcRkBYWuf"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 348706,
-      "name": "Adorarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/0wlDUClcs4OEQb7DLhlSHO"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -1281,6 +1281,30 @@
       "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
     },
     {
+      "added_at": "2022-10-14 01:52:36",
+      "album": {
+        "name": "LE\u00c3O",
+        "url": "https://open.spotify.com/album/59s62ul4SWlgcHDIPvwAcf"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 342905,
+      "name": "LE\u00c3O (LION) (feat. Chris Brown & Thalles Roberto)",
+      "url": "https://open.spotify.com/track/2UnJa5chfcRDI60rLvpZKD"
+    },
+    {
       "added_at": "2022-09-30 13:07:21",
       "album": {
         "name": "Vai Ter Vida A\u00ed",
@@ -1355,30 +1379,6 @@
       "duration_ms": 663370,
       "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
       "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
-    },
-    {
-      "added_at": "2022-10-13 01:43:24",
-      "album": {
-        "name": "LE\u00c3O",
-        "url": "https://open.spotify.com/album/59s62ul4SWlgcHDIPvwAcf"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 342905,
-      "name": "LE\u00c3O (LION) (feat. Chris Brown & Thalles Roberto)",
-      "url": "https://open.spotify.com/track/2UnJa5chfcRDI60rLvpZKD"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
-        "name": "Creio em Ti (Creo En Ti)",
-        "url": "https://open.spotify.com/album/2QzlblpX1Yz6yYviCdizZF"
+        "name": "Furioso Amor",
+        "url": "https://open.spotify.com/album/5zclhkccExl4v282im0AoW"
       },
       "artists": [
         {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
         }
       ],
-      "duration_ms": 322478,
-      "name": "Creio em Ti (Creo En Ti)",
-      "url": "https://open.spotify.com/track/6fsEESlFy3NxaIBSOrUbZm"
+      "duration_ms": 411457,
+      "name": "Furioso Amor",
+      "url": "https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2022-09-30 13:07:21",
       "album": {
-        "name": "Furioso Amor",
-        "url": "https://open.spotify.com/album/5zclhkccExl4v282im0AoW"
+        "name": "Creio em Ti (Creo En Ti)",
+        "url": "https://open.spotify.com/album/2QzlblpX1Yz6yYviCdizZF"
       },
       "artists": [
         {
-          "name": "Elizeu Alves",
-          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 411457,
-      "name": "Furioso Amor",
-      "url": "https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG"
+      "duration_ms": 322478,
+      "name": "Creio em Ti (Creo En Ti)",
+      "url": "https://open.spotify.com/track/6fsEESlFy3NxaIBSOrUbZm"
     },
     {
       "added_at": "2022-09-30 13:07:21",
@@ -1633,7 +1633,7 @@
       "url": "https://open.spotify.com/track/3uIsHQMOoGW5U9BW0BzqtE"
     },
     {
-      "added_at": "2022-10-13 01:43:24",
+      "added_at": "2022-10-14 01:52:36",
       "album": {
         "name": "Teu Colo",
         "url": "https://open.spotify.com/album/7cTlcn0fe77FrucDce3FK5"

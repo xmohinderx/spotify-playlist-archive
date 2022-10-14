@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 327881,
+  "num_followers": 328262,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMGZiYmRjYTg4YjgwZTAwZjY0ZDM5MDI5OGU1ODJiYTQy",
+  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDE0Nzk4NTMzYTlmYTMyYzQ1YjAyZWE0MDM1MGQxMDg5",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -147,18 +147,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
       "artists": [
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 224472,
-      "name": "CHURCH GIRL",
-      "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -231,22 +235,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+      "duration_ms": 224472,
+      "name": "CHURCH GIRL",
+      "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/16Ah4QqH4mgYVXqfC4mdSd"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/16Ah4QqH4mgYVXqfC4mdSd"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
-        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Doo Wop (That Thing) - Edit",
-      "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Concrete Rose",
         "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 186306,
       "name": "Only U - No Intro",
       "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
+        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Doo Wop (That Thing) - Edit",
+      "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1691,6 +1691,34 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Top Trending Romania - Vara 2022",
+        "url": "https://open.spotify.com/album/47iZIYtSK2BZb3g1y4LV5y"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Mya",
+          "url": "https://open.spotify.com/artist/3JoDRslbRb7yUqBktkRbrt"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 264846,
+      "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+      "url": "https://open.spotify.com/track/4XEBJOPb1oA6qpAbBmMUkE"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3UviDOQkc4WbXkNi6DIBZu"
       },
@@ -1779,34 +1807,6 @@
       "duration_ms": 275600,
       "name": "One Minute Man (feat. Jay-Z) - Remix",
       "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Top Trending Romania - Vara 2022",
-        "url": "https://open.spotify.com/album/47iZIYtSK2BZb3g1y4LV5y"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Mya",
-          "url": "https://open.spotify.com/artist/3JoDRslbRb7yUqBktkRbrt"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 264846,
-      "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
-      "url": "https://open.spotify.com/track/4XEBJOPb1oA6qpAbBmMUkE"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1dRkctmEH6bGNEo3m8nVal"
+      },
+      "artists": [
+        {
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
+        }
+      ],
+      "duration_ms": 195343,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/6M2aVK2M2cj7ywBis4tkMH"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 219000,
       "name": "Summertime Shootout (feat. T-Pain)",
       "url": "https://open.spotify.com/track/2tlsUogi4aK4pg7KNwYBdr"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/1dRkctmEH6bGNEo3m8nVal"
-      },
-      "artists": [
-        {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        }
-      ],
-      "duration_ms": 195343,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/6M2aVK2M2cj7ywBis4tkMH"
     },
     {
       "added_at": "2022-08-02 10:25:51",

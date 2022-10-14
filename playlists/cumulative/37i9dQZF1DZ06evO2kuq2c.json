@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "a new moral low ground",
+        "url": "https://open.spotify.com/album/3MIWFjKy0AuyJP2Z6PfNGy"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211848,
+      "name": "a new moral low ground",
+      "url": "https://open.spotify.com/track/2LqlhqFm6R4b455OGfsU81"
+    },
+    {
+      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },

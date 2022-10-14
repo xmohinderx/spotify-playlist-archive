@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-120 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+121 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 |  |
 | [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 | 2022-01-07 |  |
 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 | 2022-01-07 |  |
-| [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 |  |
+| [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 | 2022-10-10 |  |
+| [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2022-10-14 |
 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 |  |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2022-01-07 |  |
 | [Byakudan Rework](https://open.spotify.com/track/5f3MAWb9wPn5doAeeMhedd) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Byakudan Rework](https://open.spotify.com/album/7gKKb1hDCBX16LzNGjwt83) | 2:54 | 2022-01-07 |  |

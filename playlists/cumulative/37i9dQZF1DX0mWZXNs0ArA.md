@@ -2,9 +2,9 @@
 
 ### [sped up songs](https://open.spotify.com/playlist/37i9dQZF1DX0mWZXNs0ArA)
 
-> 125%
+> 150%
 
-84 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+86 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,14 @@
 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2022-06-09 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-06-09 |  |
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-06-09 |  |
+| [just wanna rock \(Lil Uzi Vert\) \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 | 2022-10-13 |  |
 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2022-08-01 |  |
 | [KERAUNOS KILLER \- Speed Up](https://open.spotify.com/track/5eWhCWydXXHguwz33H7SA1) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [KERAUNOS KILLER \(Speed Up\)](https://open.spotify.com/album/2Fo4LNB3FGC6D0efPS5P0R) | 1:20 | 2022-06-09 |  |
 | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \- Sped Up Version](https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \[Sped Up Version\]](https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r) | 2:15 | 2022-07-18 |  |
 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 | 2022-07-01 |  |
 | [Love Me Back \(Fayahh Beat\) \- Sped Up](https://open.spotify.com/track/2cchY5dEYErRDF56JlMb7Q) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Love Me Back \(Fayahh Beat\) \[Sped Up\]](https://open.spotify.com/album/3SRRHvOqivEDKuwOdFGOdq) | 2:40 | 2022-07-08 |  |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2022-06-09 |  |
+| [Miss You \- Sped Up Version](https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ) | 2:50 | 2022-10-13 |  |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2022-06-09 |  |
 | [mona lisa \- sped up](https://open.spotify.com/track/2K7YLBqzKW6sg8cOFC8cJG) | [xmxtoon](https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi) | [mona lisa](https://open.spotify.com/album/1T6pSOp4SAC3gnm1EHPYyK) | 2:42 | 2022-06-09 | 2022-07-29 |
 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 | 2022-06-09 |  |

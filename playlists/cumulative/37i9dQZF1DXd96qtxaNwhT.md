@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-465 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+466 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Modern Loneliness](https://open.spotify.com/track/7MZF7YLxOP2to9iblSulLc) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/0YuPbtHpnpGEhyjg0rCyEi) | 4:12 | 2020-02-21 | 2020-11-20 |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2020-02-17 | 2020-06-19 |
 | [More of You](https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [More of You](https://open.spotify.com/album/6otrwuXbuZ1ntS6AHWX0AT) | 2:34 | 2021-06-18 | 2022-01-28 |
-| [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 | 2022-07-08 |  |
+| [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 | 2022-07-08 | 2022-10-14 |
+| [Movie](https://open.spotify.com/track/61iHQQn1NT0nqvqLdO5jjY) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:07 | 2022-09-28 |  |
 | [My Love](https://open.spotify.com/track/0GjOGeo5aYVycnjUK5nAag) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [My Love](https://open.spotify.com/album/0BGtD2XKyvo1Gi1yuQMwgC) | 3:28 | 2020-01-17 | 2020-08-07 |
 | [My Love](https://open.spotify.com/track/2kbH14iuu3xECv0fFteRRw) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [The Breakup EP](https://open.spotify.com/album/0Wow9of3RocqNuh1wPgkvU) | 2:31 | 2019-08-16 | 2019-09-27 |
 | [Never Not](https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:28 | 2019-07-29\* | 2019-08-02 |

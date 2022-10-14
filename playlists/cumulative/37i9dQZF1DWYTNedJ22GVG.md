@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-133 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+134 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/2SABzNiF4F35PDuxE8gYK9) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7) | [Disney Sing\-Along: Disney Christmas](https://open.spotify.com/album/1We28OVE4wj8HCLStFLJ33) | 2:53 | 2021-12-07 | 2022-07-29 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/4UUhE9j5sG3E5rxPK79e73) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7) | [Disney's Merry Little Christmas](https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz) | 2:53 | 2021-12-07 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/6wBQYLB2ANxGi1gfACyoRL) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 3:09 | 2021-12-07 |  |
-| [Run Run Rudolph](https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:14 | 2021-12-07 |  |
+| [Run Run Rudolph](https://open.spotify.com/track/3KJqPXNUgeCxaaLI2cSLRQ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/5OK4C8RKMEDrTKuN6YKrOC) | 2:14 | 2021-12-07 |  |
+| [Run Run Rudolph](https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:14 | 2021-12-07 | 2022-10-14 |
 | [Santa Baby](https://open.spotify.com/track/41XCLKG0xl01mGprBDtTNS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Christmas Kisses](https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O) | 2:50 | 2021-12-07 | 2022-07-29 |
 | [Santa Baby](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 2:50 | 2021-12-07 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1JJUsWVriEtXr8lHSQXTIy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:36 | 2021-12-07 |  |

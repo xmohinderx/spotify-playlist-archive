@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 181693,
+  "num_followers": 181736,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGRiMjc0MDRjNzhiZDE1OTUyMjI0YmY3NTlmNjNiOTU0",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDU4YjQwNjI0NGNkNjE5ODBiNDg0Zjg3YzZhM2I0ZjQz",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
-      },
-      "artists": [
-        {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
-        }
-      ],
-      "duration_ms": 335299,
-      "name": "Goodness",
-      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 191920,
       "name": "Who You Say I Am - Live/Acoustic",
       "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 335299,
+      "name": "Goodness",
+      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Love Secrets (B-Sides)",
         "url": "https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 213942,
       "name": "I Know Just What You Need",
       "url": "https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Well Done (Acoustic)",
         "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 278906,
       "name": "Well Done - Acoustic",
       "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Get Your Hopes Up",
-      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Do It Again - EP",
+        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 272914,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Eternal Gospel",
         "url": "https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Do It Again - EP",
-        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 272914,
-      "name": "Do it Again (Acoustic)",
-      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
     },
     {
       "added_at": "2020-08-31 15:19:19",

@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-517 songs - 1 day 7 hr 41 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+518 songs - 1 day 7 hr 46 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Asking 4 a Friend](https://open.spotify.com/track/5rb8wJ5AgXg5vUyo9mofZh) | [Anna Burch](https://open.spotify.com/artist/26OB2jqYqL7pNslVtu4VGt) | [Asking 4 a Friend](https://open.spotify.com/album/4Gj9biEnOasNTaZweJKSt6) | 3:53 | 2020-10-05\* | 2021-05-25 |
 | [Autumn](https://open.spotify.com/track/2KhrOCk3xdBDYI3xYOn2vK) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Autumn](https://open.spotify.com/album/7oPUmWoISXzUuANQ4o38V2) | 2:32 | 2021-11-19 | 2022-04-19 |
 | [Awake](https://open.spotify.com/track/2qC1sUo8xxRRqYsaYEdDuZ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:43 | 2020-10-16 | 2022-04-20 |
+| [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 | 2022-10-07 |  |
 | [Ayayai](https://open.spotify.com/track/5mNqz2m3qWWKKiQcvYrKP2) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Ayayai](https://open.spotify.com/album/67IhJtRigeH1BHBu2WXLKX) | 2:50 | 2020-10-05\* | 2022-04-21 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2022-03-07 | 2022-07-29 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-07-25 |  |
@@ -213,7 +214,7 @@
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-06-04 | 2022-07-29 |
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2022-06-01 | 2022-07-29 |
 | [Heart and My Car](https://open.spotify.com/track/53mAiigGdkVIMItDdJjgLo) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Heart and My Car](https://open.spotify.com/album/0Rw4Iwk6Lc4KDBs57bpuwC) | 3:25 | 2020-10-05\* | 2020-10-06 |
-| [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 | 2022-07-25 |  |
+| [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 | 2022-07-25 | 2022-10-14 |
 | [Heart It Races \- Cover Version](https://open.spotify.com/track/2vupkXhwL4sNCRgNu72HCZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races](https://open.spotify.com/album/6wY9YCNf0EpuogJgcPLY0W) | 3:53 | 2020-10-16 | 2022-04-20 |
 | [Heaven's Hands](https://open.spotify.com/track/5DPnQp2C5zLg26KBoSE0iQ) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Heaven's Hands](https://open.spotify.com/album/7wVHU8SpsV9KGzD51MdN6G) | 3:20 | 2021-10-08 | 2022-07-16 |
 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 | 2020-10-05\* | 2022-04-18 |
@@ -303,7 +304,7 @@
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-06-25 | 2022-04-11 |
 | [Malibu](https://open.spotify.com/track/6AtujsUSK8GjPQFvxndsqd) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Malibu](https://open.spotify.com/album/0l2kwAGmItOlj5N1qyULip) | 2:13 | 2021-11-19 | 2022-04-21 |
 | [Maps](https://open.spotify.com/track/4EwNG7uCvLEm5a6KgerCHf) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Explicit Version\)](https://open.spotify.com/album/23YpPKzhIwTKxe3xnc1dbz) | 3:39 | 2021-03-15 | 2022-04-19 |
-| [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2022-07-25 |  |
+| [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2022-07-25 | 2022-10-14 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-06-01 |  |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-29 | 2022-07-25 |
 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 | 2022-05-20 | 2022-05-24 |
@@ -469,7 +470,7 @@
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-06-01 | 2022-07-27 |
 | [Too Much](https://open.spotify.com/track/5PnnEBtTbte2jhhfao9aJ9) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Too Much / Happens](https://open.spotify.com/album/3WDWz3K3bOlkzJeaMkUK4c) | 2:59 | 2021-03-14 | 2022-04-21 |
 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 | 2020-10-05\* | 2020-10-06 |
-| [Touch](https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:52 | 2020-10-05\* | 2022-10-11 |
+| [Touch](https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:52 | 2020-10-05\* |  |
 | [Track](https://open.spotify.com/track/3lmiUjD283FiDGWB6LHAkr) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:34 | 2021-04-05 | 2022-04-18 |
 | [Trouble](https://open.spotify.com/track/62UQj5LkqTpNaXqpY4i0Io) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:23 | 2020-10-05\* | 2022-04-21 |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-07-25 |  |

@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-155 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+156 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [phase of me](https://open.spotify.com/track/7n8W0rzwYi0Z8PW84tqrr7) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [phase of me](https://open.spotify.com/album/7p7RgglpB7caGq30EHubrm) | 2:55 | 2021-04-19 | 2022-04-29 |
 | [Pick up Our Boots](https://open.spotify.com/track/4Smq0MN0zQWg2fjUE54evF) | [100 mile house](https://open.spotify.com/artist/5t7Du7mr4SuO68pIFCdCVc) | [Hiraeth](https://open.spotify.com/album/4mwUeQptlQ9im6Vdv3QPDu) | 3:08 | 2021-04-19 | 2022-04-29 |
 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2022-07-01 |  |
-| [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2021-04-19 |  |
+| [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2021-04-19 | 2022-10-14 |
+| [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 | 2021-04-19 |  |
 | [Pluto](https://open.spotify.com/track/5AtD5ZcZee93yu2hocKRE5) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Pluto](https://open.spotify.com/album/3fGpT8efoOvPY2ruWiH58b) | 4:05 | 2021-05-07 | 2022-06-04 |
 | [Pretty Blue View](https://open.spotify.com/track/5t9f0NGMiwHKF3D8mTWEyW) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Pretty Blue View \(Acoustic\)](https://open.spotify.com/album/61hocUPG68jPN1jDNHZ7mu) | 3:39 | 2021-04-19 |  |
 | [Pretty Shiny Things](https://open.spotify.com/track/1VJwwtODVYNjgk1O7J16m0) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Pretty Shiny Things](https://open.spotify.com/album/1sQsBkSzUDRZOGh3WlYmKS) | 3:08 | 2021-04-19 |  |

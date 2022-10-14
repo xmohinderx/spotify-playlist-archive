@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Lewis Capaldi
 
-330 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+332 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Chiquitita](https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo) | 4:59 | 2021-12-17 |  |
 | [Chocolate](https://open.spotify.com/track/36T0S78B1be6F4tAUlJWpJ) | [Moonroof](https://open.spotify.com/artist/6HO599GtzYWMF4BsvwB1E6) | [Chocolate](https://open.spotify.com/album/6qHfbQoSUzGri0HBQnLuRv) | 4:12 | 2021-12-17 | 2022-05-02 |
 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 | 2021-12-17 | 2022-05-02 |
-| [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 3:52 | 2021-12-17 |  |
+| [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 | 2022-09-23 |  |
+| [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 3:52 | 2021-12-17 | 2022-10-14 |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-11 |  |
 | [Complicated \- Spotify Singles](https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 3:58 | 2022-03-25 |  |
 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 | 2022-03-25 | 2022-04-16 |
@@ -336,7 +337,8 @@
 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 | 2021-12-17 |  |
 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 | 2021-12-17 |  |
 | [You're the One That I Want](https://open.spotify.com/track/0MFnDvUu0Dr7LIHFadd246) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5), [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Semicolon & Parentheses](https://open.spotify.com/album/74Gv9Y3SnvfnWcwVG6076Q) | 2:52 | 2021-12-17 | 2022-07-29 |
-| [You're the One That I Want](https://open.spotify.com/track/3XfctDFgPl4vA6aCCXb1KW) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5), [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/2e3gKhMqzbDQBuB8ZRbLXl) | 2:52 | 2022-07-08 |  |
+| [You're the One That I Want](https://open.spotify.com/track/1oC2QTCvlBKfgzaPn2G4tC) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5), [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS) | 2:52 | 2022-09-23 |  |
+| [You're the One That I Want](https://open.spotify.com/track/3XfctDFgPl4vA6aCCXb1KW) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5), [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/2e3gKhMqzbDQBuB8ZRbLXl) | 2:52 | 2022-07-08 | 2022-10-14 |
 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 | 2021-12-17 | 2022-05-02 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

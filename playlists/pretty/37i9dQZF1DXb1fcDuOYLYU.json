@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 20497,
+  "num_followers": 20531,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDc2NDIyMmYzOGJmMGNiZTU0MjRjZjc0MDY2NmUxNDFl",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDI0NWM1NTMzNjgwMDAxODA2N2IzZGFkZDBlMWI3NTIz",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Antes De Ti",
-        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Antes De Ti",
-      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Lo Que Yo Diga",
-        "url": "https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 152656,
-      "name": "Lo Que Yo Diga",
-      "url": "https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 233680,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Lo Que Yo Diga",
+        "url": "https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 152656,
+      "name": "Lo Que Yo Diga",
+      "url": "https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB"
     },
     {
       "added_at": "2022-03-28 14:23:43",

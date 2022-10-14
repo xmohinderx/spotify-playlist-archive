@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 182977,
       "name": "Aggio Perzo 'o Suonno (feat. Coez, prod. TY1)",
       "url": "https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 186988,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3"
@@ -722,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Freestyle Pack",
+        "url": "https://open.spotify.com/album/3TnUcY9yhAJR81udv7RYXS"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181447,
+      "name": "Freestyle #6",
+      "url": "https://open.spotify.com/track/3i6eW7nR7Cw9Hiqc1kz4IH"
+    },
+    {
+      "album": {
         "name": "GAS",
         "url": "https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ"
       },
@@ -741,6 +759,24 @@
       "duration_ms": 145257,
       "name": "GAS",
       "url": "https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn"
+    },
+    {
+      "album": {
+        "name": "GESCAL",
+        "url": "https://open.spotify.com/album/722mXX4yzovAHZo9K6gag9"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "GESCAL",
+      "url": "https://open.spotify.com/track/3i9FbuHPNwzERPtut6ZdgW"
     },
     {
       "album": {
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 143714,
       "name": "PNT #1 - Punti di vista",
       "url": "https://open.spotify.com/track/3396cbLW7mZiwppmUBGVSR"
@@ -1725,6 +1761,32 @@
       "duration_ms": 168295,
       "name": "POF (feat. Ensi)",
       "url": "https://open.spotify.com/track/4E9trhAx1In5kXUQamSsA5"
+    },
+    {
+      "album": {
+        "name": "Popp ice",
+        "url": "https://open.spotify.com/album/56vxL1JVFKyqGybNEmQgdV"
+      },
+      "artists": [
+        {
+          "name": "Tony Amatore",
+          "url": "https://open.spotify.com/artist/0Y0lt6UuYcT4C6uldl4yqm"
+        },
+        {
+          "name": "DANI",
+          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
+        },
+        {
+          "name": "Renato Biancardi",
+          "url": "https://open.spotify.com/artist/7yZdnHF92fQaJS0a4T9MtF"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155172,
+      "name": "Popp ice",
+      "url": "https://open.spotify.com/track/2S0vyxbeTnlEvCWRsLVfI2"
     },
     {
       "album": {
@@ -1809,7 +1871,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 155454,
       "name": "Rubrica",
       "url": "https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D"
@@ -1995,6 +2057,28 @@
       "duration_ms": 108400,
       "name": "T Pens",
       "url": "https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363"
+    },
+    {
+      "album": {
+        "name": "Tredici",
+        "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        },
+        {
+          "name": "Stefania Lay",
+          "url": "https://open.spotify.com/artist/1NNf3Zix93zZ6REk39stcD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165361,
+      "name": "TE NE VAJE",
+      "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
     },
     {
       "album": {

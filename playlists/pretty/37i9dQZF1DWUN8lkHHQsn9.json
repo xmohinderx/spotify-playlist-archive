@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Wyj\u0105tkowe spektrum d\u017awi\u0119k\u00f3w na jednej playli\u015bcie. Cover: Zawadzki",
-  "num_followers": 2245,
+  "num_followers": 2247,
   "original_name": "Pride Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMGNhOTMyYmVmM2IyYmM3MmE0YTg0YTZiNGM5NTgyNjIx",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMGVlNzI0ZmZlYzA0MGYwYTY3ZDNlYTA2NmI0NTM0ZmZl",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -727,8 +727,8 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "VITAY (Avtomat Remix)",
-        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
       "artists": [
         {
@@ -736,13 +736,17 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
         }
       ],
-      "duration_ms": 250208,
-      "name": "VITAY - Avtomat Remix",
-      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -831,8 +835,8 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Technikolor",
-        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+        "name": "VITAY (Avtomat Remix)",
+        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
       "artists": [
         {
@@ -840,17 +844,13 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Twoja Stara",
-          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
-        },
-        {
-          "name": "Lola Eyeonyou Potocki",
-          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Technikolor",
-      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+      "duration_ms": 250208,
+      "name": "VITAY - Avtomat Remix",
+      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Rojava",
-        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Rojava",
-      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Organic Love",
         "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192000,
       "name": "Organic Love",
       "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Rojava",
+        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Rojava",
+      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
     }
   ],
   "unique_name": "Pride Polska",

@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Planet Giza
 
-521 songs - 1 day 5 hr 2 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+523 songs - 1 day 5 hr 6 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 | 2022-07-22 | 2022-09-24 |
 | [Das U](https://open.spotify.com/track/3zN3TNLf2BHR9889yhofot) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/18WfOTopPutbLshJTL2Mgf) | 2:15 | 2022-10-07 |  |
 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-08-19 |  |
-| [daydream](https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI) | 1:09 | 2022-09-23 |  |
+| [daydream](https://open.spotify.com/track/1t0faf8iw1XbaJ0yznpPcB) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6uyX7aeHjV89017CRZ2CuU) | 1:09 | 2022-10-08 |  |
+| [daydream](https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI) | 1:09 | 2022-09-23 | 2022-10-14 |
 | [deadmanwalking](https://open.spotify.com/track/6zq7J5azPc85UJdM12RtCM) | [Dylan Joshua](https://open.spotify.com/artist/5OD01TkUU33QB6NqdrMf3O) | [deadmanwalking](https://open.spotify.com/album/4oToqMPGGQoVp77zj5nEei) | 2:15 | 2022-04-29 | 2022-06-04 |
 | [Dear Boy](https://open.spotify.com/track/0LivNVRgzrqT5Fnicg2e3Q) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Dear Boy](https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N) | 3:03 | 2022-05-06 | 2022-06-11 |
 | [Demon Mode](https://open.spotify.com/track/6cCJGSDSgYBxU9xPULz3fS) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Demon Mode](https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D) | 3:18 | 2022-04-01 | 2022-04-09 |
@@ -409,7 +410,8 @@
 | [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 3:20 | 2022-02-18 | 2022-03-18 |
 | [SAVING GRACE](https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAVING GRACE](https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr) | 2:52 | 2022-04-15 | 2022-05-28 |
 | [Sea To Sky \- il:lo Remix](https://open.spotify.com/track/4slhVMWEwpUy9LwVc9cBYj) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Sea To Sky \(il:lo Remix\)](https://open.spotify.com/album/2BmSABSbi8LsbVlb1Lwya1) | 6:16 | 2022-05-27 | 2022-07-02 |
-| [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 | 2022-08-26 |  |
+| [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 | 2022-08-26 | 2022-10-14 |
+| [Seasons Change](https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u) | 2:29 | 2022-10-08 |  |
 | [secondguess](https://open.spotify.com/track/29Imzv96MvmWE2iAxejskH) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [secondguess](https://open.spotify.com/album/7JOVnIjr140Zn7scMXAEAd) | 2:55 | 2022-04-29 | 2022-05-20 |
 | [SELF DIAGNOSIS](https://open.spotify.com/track/0amGhnzA3pI3AMZ0IEBUDl) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [SELF DIAGNOSIS](https://open.spotify.com/album/46xkp1eBHLAHxOdgY9oY4D) | 4:07 | 2022-05-27 | 2022-06-25 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 | 2022-07-23 |

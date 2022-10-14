@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Alvvays
 
-1,265 songs - 3 day 3 hr 37 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,267 songs - 3 day 3 hr 45 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-09 | 2021-10-14 |
 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 | 2021-05-28 | 2021-10-16 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-30 |  |
+| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-11 |  |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-13 | 2022-09-03 |
 | [Albion](https://open.spotify.com/track/4xw3CqdYLZIncseekii4Kq) | [Gus Harvey](https://open.spotify.com/artist/1cxAeZbDhf2S8t544RIVIf) | [Albion](https://open.spotify.com/album/1vGy4ML1gT6NieDKU8tT1t) | 4:50 | 2020-06-12 | 2020-10-29 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-04-20 | 2022-02-25 |
@@ -670,7 +671,7 @@
 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-29 | 2022-09-03 |
 | [Love Me Like You Used To](https://open.spotify.com/track/6V5eKHRdQLaYLH7XPbtbOo) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:40 | 2021-05-28 | 2022-04-30 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-21 | 2022-07-13 |
-| [Love On The Run](https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Love On The Run](https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g) | 7:03 | 2022-10-11 |  |
+| [Love On The Run](https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Love On The Run](https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g) | 7:03 | 2022-10-11 | 2022-10-14 |
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2019-12-13 | 2020-05-15 |
 | [Love Yourself](https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/1sIogRBpTHg0jkbrgIJWR0) | 3:48 | 2019-06-07 | 2019-08-13 |
 | [Love/Hate Letter To Alcohol \(with Fleet Foxes\)](https://open.spotify.com/track/6R9c642Hs3tOdLowjYaWt2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:03 | 2022-08-15 | 2022-08-26 |
@@ -812,7 +813,7 @@
 | [Only Friend](https://open.spotify.com/track/5q6Ue2SuMhMBxFPDP2VWXm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 3:01 | 2019-05-26\* | 2019-09-06 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-28 | 2022-04-07 |
 | [Onto Me \(with UMI\)](https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:47 | 2021-07-20 | 2021-10-14 |
-| [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-04-22 |  |
+| [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-04-22 | 2022-10-14 |
 | [Organon](https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:30 | 2021-09-03 | 2022-01-03 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-06-23 | 2022-09-17 |
 | [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 | 2021-03-19 | 2022-04-06 |
@@ -963,6 +964,7 @@
 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 | 2019-07-30 | 2019-12-13 |
 | [Skrting On The Surface](https://open.spotify.com/track/4XB9mPk0wcrWHRJSypO79z) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Skrting On The Surface](https://open.spotify.com/album/661LADBYIAySiUdlMpjZvT) | 5:31 | 2022-03-24 | 2022-04-21 |
 | [Slow Ready](https://open.spotify.com/track/19AXHJvTBkh8n9aRrlRqv6) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 5:06 | 2022-07-15 | 2022-08-05 |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 |  |
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2020-02-14 | 2020-06-12 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-10 | 2022-03-10 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-07 | 2022-08-17 |

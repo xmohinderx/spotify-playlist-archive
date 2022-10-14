@@ -4,7 +4,7 @@
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-123 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/7hmQjrJKZLlKLYfLYWKOXt)
+125 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/7hmQjrJKZLlKLYfLYWKOXt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 | 2021-12-01 |  |
 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 | 2021-12-01 |  |
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2021-12-01 |  |
-| [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2021-12-01 |  |
+| [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2021-12-01 | 2022-10-14 |
+| [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2021-12-01 |  |
 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 | 2021-12-01 |  |
 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 | 2021-12-01 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0EXdNsNOxZH1TLzBYUgY55) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Dog Has Its Day](https://open.spotify.com/album/3LWTWoR1YaLeyN42RvEsd3) | 3:10 | 2021-12-01 | 2022-07-29 |
@@ -123,7 +124,8 @@
 | [Two Face](https://open.spotify.com/track/6bgNDCH3ybqlyzCXaJcsrO) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/2dFXtpw7b5PTKHo5kN17bG) | 4:06 | 2021-12-01 |  |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2021-12-01 |  |
 | [U&ME](https://open.spotify.com/track/4UoZigJdqn8y8jmMzuvmLd) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/4zAk9vfm8nKpkUpCYssqf7) | 3:18 | 2021-12-01 | 2022-07-29 |
-| [Wait, I Lied](https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:16 | 2021-12-01 |  |
+| [Wait, I Lied](https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:16 | 2021-12-01 | 2022-10-14 |
+| [Wait, I Lied](https://open.spotify.com/track/7EPxhefkbAYkGmAcyKhqqq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/46yNQ7SSAUvftNPAqFGiak) | 3:16 | 2021-12-01 |  |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-12-01 |  |
 | [Whatever Tomorrow](https://open.spotify.com/track/2oQMAwDhT1YjSGb3YSLpXO) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:23 | 2021-12-01 |  |
 | [WILSHIRE](https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 8:35 | 2021-12-01 |  |

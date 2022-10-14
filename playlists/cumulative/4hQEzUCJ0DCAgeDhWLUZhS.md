@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Paramore
 
-330 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+333 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Forgiveness I + II](https://open.spotify.com/track/2NgM0Rr5uLzSR4WOVR9XW9) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Forgiveness I + II](https://open.spotify.com/album/3grI8WQrfW64ibvBALiZav) | 6:41 | 2020-10-10\* | 2021-05-13 |
 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 | 2020-10-10\* | 2021-02-25 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-05-21 | 2022-03-18 |
+| [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 |  |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-13 |  |
 | [Genesis](https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:17 | 2020-10-15 | 2022-03-18 |
 | [Get A Job](https://open.spotify.com/track/2iOMWossZttPvaGNzbEKCh) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/6t7SSMbSWvQxLpt3EUK2lr) | 3:08 | 2022-08-28 |  |
@@ -160,6 +161,7 @@
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 |  |
 | [Instant History \- Single Version](https://open.spotify.com/track/78Whqvk23AqxailSEMv83F) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Instant History](https://open.spotify.com/album/2zRS3sRmhixjg6MvO1yxh2) | 3:17 | 2020-10-10\* | 2022-03-18 |
 | [It's Its Own Heart](https://open.spotify.com/track/0a5ekAz2dYv0mKTNPfNWae) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [It's Its Own Heart](https://open.spotify.com/album/0lJOmZQeDqP10muCJra8tF) | 2:53 | 2020-10-10\* | 2021-02-25 |
+| [Jack](https://open.spotify.com/track/7jdhSMmLhuDgUamYxerPvR) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Jack](https://open.spotify.com/album/73qstoPswN2IsFHoYFKLv5) | 3:24 | 2022-10-14 |  |
 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 | 2020-10-10\* | 2022-03-18 |
 | [Kids On Cassette](https://open.spotify.com/track/63KalZfD4ZPbzHK9ABFE3v) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids on Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:29 | 2021-07-31 |  |
 | [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 | 2022-07-22 |  |
@@ -281,6 +283,7 @@
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/7MxfzO0meZnMOrrmDkQb4W) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/album/6iJUFzxgiJKvrReWU0THNa) | 3:19 | 2021-05-22 | 2022-03-18 |
 | [The Big Come Down](https://open.spotify.com/track/3cl42VFcRop14wAduvSeaH) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 4:12 | 2020-10-10\* | 2021-02-25 |
 | [The Burden of Belief](https://open.spotify.com/track/4lyWDEzPsyJtmQmLRkCUC1) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Burden of Belief](https://open.spotify.com/album/6Nt3lAffezruA8VjFQsymZ) | 5:39 | 2021-05-22 | 2022-03-18 |
+| [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-14 |  |
 | [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 |  |
 | [The Girls Are Fighting \- Edit](https://open.spotify.com/track/7F1dxj9sEAHy4SsGIHARGq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Girls Are Fighting](https://open.spotify.com/album/3xt9SJ3g3ieRV3C2Om8Mws) | 3:01 | 2022-02-04 |  |
 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 | 2021-07-01 |  |

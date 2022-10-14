@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 152462,
       "name": "2002",
       "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 247545,
       "name": "Apartment Complex on the Eastside",
       "url": "https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU"
@@ -1427,7 +1427,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 207773,
       "name": "Do It All the Same",
       "url": "https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho"
@@ -1539,6 +1539,42 @@
       "duration_ms": 174627,
       "name": "Easy On Your Own?",
       "url": "https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47"
+    },
+    {
+      "album": {
+        "name": "Most Normal",
+        "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140543,
+      "name": "Eight Fivers",
+      "url": "https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq"
+    },
+    {
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/14DWK40JwAG6to2t1KpEGK"
+      },
+      "artists": [
+        {
+          "name": "BEXY",
+          "url": "https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255263,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/3kMn5466igLcIipucTOrSt"
     },
     {
       "album": {
@@ -1755,6 +1791,24 @@
       "duration_ms": 201213,
       "name": "Fire Starter",
       "url": "https://open.spotify.com/track/0xItC9ZfxTpVK7OtbfNALN"
+    },
+    {
+      "album": {
+        "name": "Flip It",
+        "url": "https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE"
+      },
+      "artists": [
+        {
+          "name": "Bleached",
+          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188898,
+      "name": "Flip It",
+      "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
     },
     {
       "album": {
@@ -2118,6 +2172,24 @@
     },
     {
       "album": {
+        "name": "Handle",
+        "url": "https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Handle",
+      "url": "https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q"
+    },
+    {
+      "album": {
         "name": "happy accident",
         "url": "https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA"
       },
@@ -2219,7 +2291,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 263946,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/5eWmggao2s6P1vVDeheUIg"
@@ -2241,6 +2313,24 @@
       "duration_ms": 165772,
       "name": "Hell On Earth",
       "url": "https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA"
+    },
+    {
+      "album": {
+        "name": "Hello Alien",
+        "url": "https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5"
+      },
+      "artists": [
+        {
+          "name": "Nathan Day",
+          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205884,
+      "name": "Hello Alien",
+      "url": "https://open.spotify.com/track/4apqIevNZl1POiQccrGWls"
     },
     {
       "album": {
@@ -2842,6 +2932,24 @@
     },
     {
       "album": {
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160346,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
+    },
+    {
+      "album": {
         "name": "Knuckles",
         "url": "https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj"
       },
@@ -2853,10 +2961,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 160346,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn"
+    },
+    {
+      "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
     },
     {
       "album": {
@@ -3037,6 +3163,42 @@
       "duration_ms": 239346,
       "name": "Lost Honor",
       "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
+    },
+    {
+      "album": {
+        "name": "Green Dream in F#",
+        "url": "https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125733,
+      "name": "Love For Two",
+      "url": "https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ"
+    },
+    {
+      "album": {
+        "name": "Love Will Get You There",
+        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250280,
+      "name": "Love Will Get You There",
+      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
     },
     {
       "album": {
@@ -3303,7 +3465,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 245013,
       "name": "No Driver",
       "url": "https://open.spotify.com/track/3MdmCprLdNoUQoobk2wBWw"
@@ -3617,7 +3779,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 167507,
       "name": "Plaque Protection",
       "url": "https://open.spotify.com/track/2in7DmrPjFsFkkFwZpJd58"
@@ -4097,6 +4259,24 @@
       "duration_ms": 212080,
       "name": "Self Portrait",
       "url": "https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh"
+    },
+    {
+      "album": {
+        "name": "Sell Out",
+        "url": "https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187453,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/5aWaPqgkheottumavM0tix"
     },
     {
       "album": {
@@ -4591,6 +4771,24 @@
     {
       "album": {
         "name": "The Dance You Sell",
+        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
+      },
+      "artists": [
+        {
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242512,
+      "name": "The Dance You Sell",
+      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
+    },
+    {
+      "album": {
+        "name": "The Dance You Sell",
         "url": "https://open.spotify.com/album/5SxaGaRMHhnRdTA4YU8xrK"
       },
       "artists": [
@@ -4601,7 +4799,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 242512,
       "name": "The Dance You Sell",
       "url": "https://open.spotify.com/track/3qA9TSRQp8ImNqkl6gbwer"
@@ -4763,10 +4961,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/6eOz2VditU3qXKseQ7pcoT"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/0G8KKrqaEyNIHp8yqBLMQE"
     },
     {
       "album": {

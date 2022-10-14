@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-345 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+346 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Cocky Humble](https://open.spotify.com/track/0fIYXOOFWKMOnULDcQPEru) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Cocky Humble](https://open.spotify.com/album/2oAFxSW959Vqnk9X0k6udM) | 2:18 | 2022-04-15 | 2022-07-29 |
 | [Comfortable](https://open.spotify.com/track/10zQ7RusGiAimQv92m9wlj) | [Chris Brickley](https://open.spotify.com/artist/64FvfEFRBdQlMyy50zZX62), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Comfortable](https://open.spotify.com/album/0Pylmck9B199lPMHwtdu8O) | 3:36 | 2022-09-16 |  |
 | [Continental Breakfast](https://open.spotify.com/track/5Kz3x2O7Zfbikh9xuUeUWU) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Dollar Menu 2](https://open.spotify.com/album/1aJVIX0L3bfgUatWdSnPzh) | 1:19 | 2022-04-01 | 2022-07-22 |
-| [CORSA](https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [CORSA](https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d) | 3:09 | 2022-06-17 |  |
+| [CORSA](https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [CORSA](https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d) | 3:09 | 2022-06-17 | 2022-10-14 |
 | [CRITIQUA](https://open.spotify.com/track/6h9atUDhTFazxUSgXywDzS) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp5000](https://open.spotify.com/album/2NbXyRbMzqaiE548rmj9qW) | 1:49 | 2022-02-04 | 2022-04-14 |
 | [Crystal Ball](https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Crystal Ball](https://open.spotify.com/album/79N96g4sh8QwGGp09VMJZN) | 1:58 | 2021-09-03 | 2022-07-20 |
 | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 | 2022-08-12 |  |
@@ -95,6 +95,7 @@
 | [Escapism](https://open.spotify.com/track/6mO6V4QcFQOYUAq4NUk5L5) | [Prodigy](https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs) | [The Hegelian Dialectic 2: The Book of Heroine](https://open.spotify.com/album/1xhIUCFuzlf17stdPjF5Ct) | 2:45 | 2022-09-30 | 2022-10-08 |
 | [Extra Credit](https://open.spotify.com/track/6MJli89DxGWgOyrCvYeGsm) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Extra Credit](https://open.spotify.com/album/2xpeZujHknYIFaU5IeBNeb) | 2:52 | 2022-09-02 | 2022-09-24 |
 | [Fake Flowers](https://open.spotify.com/track/6kdYgh9p7t8wlxljk8KGJg) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Bo Jackson](https://open.spotify.com/album/1KHFw3hsKvNGGCkXKQMrbT) | 3:46 | 2021-09-03 | 2022-03-18 |
+| [Fast Life](https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Fast Life](https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on) | 1:57 | 2022-10-07 |  |
 | [FATHER FIGURE](https://open.spotify.com/track/4tamxu3gTVkEDzgpTDvDv0) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [CINCORIGINALS](https://open.spotify.com/album/0Dig7jayR5ts18aaMPFbPP) | 4:21 | 2021-09-03 | 2022-04-19 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 | 2022-07-15 |  |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-06-03 | 2022-07-29 |

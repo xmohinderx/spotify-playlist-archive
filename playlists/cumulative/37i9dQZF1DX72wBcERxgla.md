@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-187 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+189 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Doldrums](https://open.spotify.com/track/0SAS6ARxYiOJT1OTUYakLf) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:12 | 2022-04-12 |  |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6HpQCQJnF0sYOBgH9nyp0F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 2:42 | 2022-04-12 | 2022-06-23 |
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2022-04-12 |  |
+| [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-04-12 |  |
 | [Embraceable You](https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Embraceable You](https://open.spotify.com/album/0wnfgpSxtv8UzL4n1f055H) | 3:22 | 2022-06-14 |  |
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-10 |  |
@@ -162,6 +163,7 @@
 | [The Midday Heat](https://open.spotify.com/track/3o3lK3EBpwmyKrhUsLGyRB) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [The Midday Heat](https://open.spotify.com/album/1uEFsEsd3nBKIzVPhzeDfs) | 3:43 | 2022-04-12 |  |
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2022-04-12 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-10 |  |
+| [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 |  |
 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 | 2022-10-06 |  |
 | [the second time around](https://open.spotify.com/track/17anQSgIRc8QnvL4L4toUS) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 4:41 | 2022-04-12 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2022-04-12 | 2022-08-11 |
@@ -181,7 +183,7 @@
 | [Violets for Your Furs](https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Violets for Your Furs](https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM) | 3:24 | 2022-05-17 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [We'll Be Together Again](https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU) | 4:22 | 2022-10-06 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-10 |  |
-| [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-30 |  |
+| [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-30 | 2022-10-14 |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-12 |  |
 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 | 2022-04-12 |  |
 | [When I Fall In Love](https://open.spotify.com/track/3Ko863Oq3qXwXXyor9VNci) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [When I Fall In Love](https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom) | 4:12 | 2022-04-12 |  |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-579 songs - 1 day 7 hr 19 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+582 songs - 1 day 7 hr 29 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Chabbi](https://open.spotify.com/track/2uRrLcVJCgARzYxWL24AbF) | [Rico](https://open.spotify.com/artist/3JrGyrmqkOo417urhPrMcf), [Hiba Nawab](https://open.spotify.com/artist/3wLLlwlj3xeFBHnGG8QV2k) | [Chabbi](https://open.spotify.com/album/0V3JwNUon6yzdrDn3zsgLY) | 4:31 | 2022-02-07 | 2022-02-12 |
 | [Chabbi](https://open.spotify.com/track/5LMWRn5OfcH7F02Wu3oBaN) | [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG), [Hiba Nawab](https://open.spotify.com/artist/3wLLlwlj3xeFBHnGG8QV2k) | [Chabbi](https://open.spotify.com/album/2dkekukYqNwp0OM1UjVcjt) | 4:31 | 2022-01-18 | 2022-01-19 |
 | [Chad Dila \(From "Shakaar Paare"\)](https://open.spotify.com/track/2sAsdU3ElHGf0v8IlYIdQt) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Chad Dila \(From "Shakaar Paare"\)](https://open.spotify.com/album/0BSvBzuk2HjlKP4cj2pjU3) | 4:08 | 2022-07-27 | 2022-08-18 |
+| [Chad Gayi Chad Gayi](https://open.spotify.com/track/19YcxEcS0mhP7WUd8XzAwv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Chad Gayi Chad Gayi \(From "Oye Makhna"\)](https://open.spotify.com/album/6mWCWNkxapUEzmXyAC8xu4) | 3:47 | 2022-10-13 |  |
 | [Chadar](https://open.spotify.com/track/3c96nmp3dLpmQP8quR9LgU) | [Harman Boparai](https://open.spotify.com/artist/4nV5WpZFCR1MXNOf5iX0bE), [E=mc](https://open.spotify.com/artist/6lrJ6jOOCqG43PcINfATTw) | [Chadar](https://open.spotify.com/album/0CdwopWbPv1EwLQ3Mihfxa) | 4:17 | 2022-02-25 | 2022-04-06 |
 | [Chahat](https://open.spotify.com/track/71drxG2r37vAin3subT9ry) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [Chahat](https://open.spotify.com/album/0GLu2qhwJbgRIsAh2RzCAG) | 3:48 | 2022-01-28 | 2022-04-06 |
 | [Chak Mera Dil](https://open.spotify.com/track/71onVbMjqnn7k8NCFq7O98) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [Chak Mera Dil](https://open.spotify.com/album/2Y2XrLlsxHYPCfchuHD8T2) | 2:35 | 2022-09-01 | 2022-09-09 |
@@ -102,6 +103,7 @@
 | [Deewana](https://open.spotify.com/track/7pHbdBHrGCmGNibnTpvIeq) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP) | [Deewana](https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv) | 3:13 | 2022-03-08 | 2022-04-06 |
 | [Deewane Ho Gaye](https://open.spotify.com/track/06WgWDkgJbC6IqViz5ogHg) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [First Draft](https://open.spotify.com/album/5d0bHiEe4CFci3cfkZQNCp) | 3:04 | 2022-09-21 |  |
 | [Definitely \(Laazmi\)](https://open.spotify.com/track/6NYV682wtWwgb0QTsRTJ1F) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Definitely \(Laazmi\)](https://open.spotify.com/album/1JwCaeRWcDiRiCQTfEDgdS) | 2:35 | 2022-07-27 | 2022-08-18 |
+| [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 | 2022-10-13 |  |
 | [Detail](https://open.spotify.com/track/7qzSJVrqOpl8rLXqAdTCOU) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/5cq2347ktrWBRdHbE6dmBg) | 2:23 | 2022-09-15 |  |
 | [Dhee \- From "The Underdog EP"](https://open.spotify.com/track/6xi8ZEnaZ7DEizI8zVeVCB) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte) | [Dhee](https://open.spotify.com/album/2AKbuESshpZouoGUoa4YyI) | 3:29 | 2022-05-20 | 2022-07-06 |
 | [Dholna](https://open.spotify.com/track/2XjagbYk7A08ioxlnlrNOt) | [Aatish](https://open.spotify.com/artist/6w2tW2P6MoEdHEFAGUqrMa) | [Dholna](https://open.spotify.com/album/7KpSRckcDKWoIdwJiEyolS) | 2:57 | 2022-05-18 | 2022-05-20 |
@@ -328,6 +330,7 @@
 | [Mere Peera \- From "Kokka"](https://open.spotify.com/track/4DBgesZRvYoy9wr2mXTGqr) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Sandeep Saxena](https://open.spotify.com/artist/6wFgebKzhtHkquXd3DAInj) | [Mere Peera \(From "Kokka"\)](https://open.spotify.com/album/693wd2V4lrNdcNEcGXKy7S) | 5:15 | 2022-05-20 | 2022-07-06 |
 | [Mere Wall](https://open.spotify.com/track/1YRIz0aeZ6x5nQRw4PsOJ9) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Mere Wall](https://open.spotify.com/album/7tXvIgTJsxB0OieuhyfzNH) | 3:21 | 2022-04-27 | 2022-07-06 |
 | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL) | 4:08 | 2022-03-01 | 2022-04-29 |
+| [Meri Qismat](https://open.spotify.com/track/5Cc0D3BJf5xCzqeaTrkTwu) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM) | [Vich Bolunga Tere](https://open.spotify.com/album/5p88oOkwxlPr8F5gTEeJ5y) | 3:17 | 2022-10-13 |  |
 | [Meri Zuban \(From "MOH"\)](https://open.spotify.com/track/5h0ths4OtpJMDkJpZrycQZ) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Meri Zuban \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2t9AwGoCQlroUmuTjXYehD) | 3:47 | 2022-09-06 |  |
 | [Midnight](https://open.spotify.com/track/19bAA9kNKdMEh3xqFPqJT4) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hakeem](https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl) | [Midnight](https://open.spotify.com/album/0fRXvOvU3BTzPs5zaccym1) | 2:51 | 2022-04-04 | 2022-04-29 |
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-07-28 |  |

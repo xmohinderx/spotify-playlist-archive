@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-150 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+151 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Distant Shore](https://open.spotify.com/track/358grkBo9B5eR7qlnmSIGv) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Distant Shore](https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY) | 2:27 | 2021-12-23 | 2022-03-02 |
 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 | 2021-12-23 |  |
 | [Don't Throw It All Away](https://open.spotify.com/track/0sk49euUoY8Va350j6kPKs) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Don't Throw It All Away](https://open.spotify.com/album/7AWpethLnbaGcpBq1pLfTy) | 1:46 | 2022-07-22 |  |
+| [Don't Wanna Be Left Alone](https://open.spotify.com/track/2KqG9v7kW9zSwYGTAqTN2N) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Don't Wanna Be Left Alone](https://open.spotify.com/album/1e5HKzFBbruMRqqrAjYfx2) | 3:26 | 2022-10-14 |  |
 | [Dromen van liefde](https://open.spotify.com/track/5Ag0yvwrHCr6UmBQb88itc) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Dromen van liefde](https://open.spotify.com/album/7g0TCMEFkWBqKqaZhoDWLd) | 2:28 | 2021-12-23 |  |
 | [Drømmefanger](https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Drømmefanger](https://open.spotify.com/album/4tWm0QSK75J3iiXBALU7zF) | 2:18 | 2022-07-01 |  |
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2021-12-23 | 2022-03-02 |

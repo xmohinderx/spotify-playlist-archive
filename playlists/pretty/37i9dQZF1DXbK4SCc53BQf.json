@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 75011,
+  "num_followers": 75058,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDc0YmE5NDA2MzZhZjYxMGFiNmZmZGE1ODZhNjk1YThi",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGMwMDAxYzMwNmEwMDdmZjE2MWRiNjZkNWM3NjM4NjU2",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -275,6 +275,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
       },
@@ -331,22 +351,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Al\u00e1bale Con Ritmo de Salsa",
-        "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
-      },
-      "artists": [
-        {
-          "name": "David Y Abraham",
-          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
-        }
-      ],
-      "duration_ms": 282984,
-      "name": "Tengo un Nuevo Amor - Salsa",
-      "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
@@ -363,22 +367,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+        "name": "Al\u00e1bale Con Ritmo de Salsa",
+        "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
         }
       ],
-      "duration_ms": 251013,
-      "name": "Si Estoy Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
+      "duration_ms": 282984,
+      "name": "Tengo un Nuevo Amor - Salsa",
+      "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -435,22 +435,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Vuelve a So\u00f1ar - EP",
-        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
+        "name": "Flaming Fire",
+        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
       },
       "artists": [
         {
-          "name": "Vito Vasquez",
-          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
-        },
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
         }
       ],
-      "duration_ms": 222229,
-      "name": "Llegare (Remastered) [feat. Zeri]",
-      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
+      "duration_ms": 212146,
+      "name": "Que No Faltes Tu",
+      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -471,18 +467,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Flaming Fire",
-        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
+        "name": "Vuelve a So\u00f1ar - EP",
+        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
       },
       "artists": [
         {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+          "name": "Vito Vasquez",
+          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
         }
       ],
-      "duration_ms": 212146,
-      "name": "Que No Faltes Tu",
-      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
+      "duration_ms": 222229,
+      "name": "Llegare (Remastered) [feat. Zeri]",
+      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
     },
     {
       "added_at": "2020-11-24 13:23:55",

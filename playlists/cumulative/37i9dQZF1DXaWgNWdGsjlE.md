@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: DeathbyRomy
 
-140 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+142 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2022-04-08 |  |
 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 | 2022-04-08 |  |
 | [Face is Gone](https://open.spotify.com/track/3nyRCnIVyv3LyGCESLMnrp) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Exister](https://open.spotify.com/album/1pQnMQ2XSnSYmBKYKxGc57) | 3:07 | 2022-09-23 |  |
-| [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 | 2022-04-08 |  |
+| [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-09-30 |  |
+| [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 | 2022-04-08 | 2022-10-14 |
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-08 |  |
 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-07-01 |  |
 | [Front 2 Back](https://open.spotify.com/track/4771YziYc1QurJ8HfR9VU9) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [World of Slime](https://open.spotify.com/album/75mclRI9Xiee8E4faIar0r) | 4:17 | 2022-07-01 | 2022-09-24 |
@@ -110,7 +111,8 @@
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-04-29 |  |
 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 | 2022-04-08 |  |
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-04-08 |  |
-| [Potluck Lunch for Cannibals](https://open.spotify.com/track/1RhwmWCuBpIDDrYXUGwtPH) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Potluck Lunch for Cannibals](https://open.spotify.com/album/0kzeKP6WbJJQIqmhOrCviw) | 2:55 | 2022-06-10 |  |
+| [Potluck Lunch for Cannibals](https://open.spotify.com/track/1RhwmWCuBpIDDrYXUGwtPH) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Potluck Lunch for Cannibals](https://open.spotify.com/album/0kzeKP6WbJJQIqmhOrCviw) | 2:55 | 2022-06-10 | 2022-10-14 |
+| [Potluck Lunch for Cannibals](https://open.spotify.com/track/6u4Yl1YjcgkHjr6mzKxtx1) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Potluck Lunch for Cannibals](https://open.spotify.com/album/7AKENeiYrnaY8ehleUx01C) | 2:55 | 2022-09-30 |  |
 | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc) | 2:56 | 2022-04-08 |  |
 | [Prescription Kid](https://open.spotify.com/track/3qFQBjBhJRpqEB2KL2FxLK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 3:28 | 2022-04-08 |  |
 | [Pretend](https://open.spotify.com/track/55tKh3y0kGoMGexQeyCktd) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Intrelock](https://open.spotify.com/artist/41pmSD7ceBz02NR6M2u0B4) | [Pretend](https://open.spotify.com/album/6r2wINnEsK01NjpxbZuZmQ) | 4:40 | 2022-04-08 |  |

@@ -4,7 +4,7 @@
 
 > A collection of Hip Hop hits and viral trends featuring Lil Baby, Drake, Doechii &amp; more\. Updated weekly!  Cover: JID
 
-84 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
+85 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Sensual Seduction](https://open.spotify.com/track/1wva1IlWLDNLgwipUWcmjy) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Sensual Seduction](https://open.spotify.com/album/71gdTUo3ZYPBwiLdjFxQ6p) | 4:05 | 2022-09-08 |  |
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3T9BKc4kB7ukeNQrCqv6ZV) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:41 | 2022-05-31 |  |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-24 |  |
+| [Shordie \(with Gunna\)](https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:56 | 2022-10-13 |  |
 | [Slam The Door](https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2 \(Deluxe\)](https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre) | 3:08 | 2022-05-31 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-05-31 |  |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-05-31 |  |

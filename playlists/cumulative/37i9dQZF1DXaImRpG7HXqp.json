@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 143891,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/4fNVjILYK5Qcaqh4N7HOye"
@@ -1850,6 +1850,24 @@
     },
     {
       "album": {
+        "name": "Everything and Always",
+        "url": "https://open.spotify.com/album/0Q6oKuoURWbiLL1exesmDW"
+      },
+      "artists": [
+        {
+          "name": "Amalia Booth",
+          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190180,
+      "name": "Everything and Always",
+      "url": "https://open.spotify.com/track/7g6ZfNxy0m8kCJpg6Z7x9T"
+    },
+    {
+      "album": {
         "name": "Everything Works",
         "url": "https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV"
       },
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 173778,
       "name": "Let there be dusk",
       "url": "https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE"
@@ -4526,6 +4544,24 @@
     },
     {
       "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/5RKqIrbcvGmC1SPDN9X6l1"
+      },
+      "artists": [
+        {
+          "name": "Morris Lafleur",
+          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119404,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/7Iil1UUDVl8lHs1t4XtblP"
+    },
+    {
+      "album": {
         "name": "Sarabande In A Major",
         "url": "https://open.spotify.com/album/0cOdJ0RJ6AaWWPqEhap8G0"
       },
@@ -5747,6 +5783,24 @@
       "duration_ms": 163726,
       "name": "Vieques",
       "url": "https://open.spotify.com/track/6CGR3tEuN7SpgKphMgX29Y"
+    },
+    {
+      "album": {
+        "name": "Viktoria",
+        "url": "https://open.spotify.com/album/5hjsoNapAD0V3Tmk4ueXSw"
+      },
+      "artists": [
+        {
+          "name": "TMBM",
+          "url": "https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163156,
+      "name": "Viktoria",
+      "url": "https://open.spotify.com/track/0CPpze3C7NCI1djQKMebSR"
     },
     {
       "album": {

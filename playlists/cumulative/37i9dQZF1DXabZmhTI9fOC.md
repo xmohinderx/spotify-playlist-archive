@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-289 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
+292 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Bad](https://open.spotify.com/track/6qHhzZBAs5hc67sEN2PvJA) | [Last Night Riot](https://open.spotify.com/artist/6XbBIaMHT8Np6Hc1upfWGJ) | [Bad](https://open.spotify.com/album/6uHfxxmsjlIuPAAcd2rvil) | 3:24 | 2022-08-01 |  |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2022-07-15 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2022-07-29 |  |
-| [Bad Things](https://open.spotify.com/track/7hPYYE1RCIJovbGrP0fAG6) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/1XnJZ2AcYJKgTylccXfUsA) | 3:57 | 2022-07-18 |  |
+| [Bad Things](https://open.spotify.com/track/7AXkLijaymM7ZfaO46FSRb) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/5BM7D7Y62MfSrmWxjMxtKR) | 3:57 | 2022-07-18 |  |
+| [Bad Things](https://open.spotify.com/track/7hPYYE1RCIJovbGrP0fAG6) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/1XnJZ2AcYJKgTylccXfUsA) | 3:57 | 2022-07-18 | 2022-10-14 |
 | [Baianá](https://open.spotify.com/track/3iCO0ZekWPK6rmLnDjejLB) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/09m7Ow4s5dDBAf3L5iZFbK) | 3:00 | 2022-07-15 |  |
 | [Bang Bang](https://open.spotify.com/track/28DeebbtRZEcOLeVCzMhCo) | [Evie Borgia](https://open.spotify.com/artist/0sKrDcettSyvQJ58oAygJi) | [Monster](https://open.spotify.com/album/1P1NwZkprQPUmVs65JQ1lJ) | 3:01 | 2022-07-29 |  |
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2022-08-19 |  |
@@ -51,7 +52,8 @@
 | [Check This out](https://open.spotify.com/track/6qXK9e3natxL16VCWeL9qC) | [Taki Waki](https://open.spotify.com/artist/5rpid11AeK74y5d5zsQmqG) | [Level Up](https://open.spotify.com/album/1lZiC6DzOwcHCFxLFo9u3R) | 2:47 | 2022-08-19 |  |
 | [Check This out](https://open.spotify.com/track/7M2eSfwy5xiHxyuZSc9AaD) | [Taki Waki](https://open.spotify.com/artist/5rpid11AeK74y5d5zsQmqG) | [Level Up](https://open.spotify.com/album/5DgUPad0Q301VwjYuHdSdx) | 2:47 | 2022-08-19 | 2022-10-13 |
 | [Circles](https://open.spotify.com/track/6CWb1KDID5vuwNUmAi8Cpx) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 2:47 | 2022-08-08 |  |
-| [Come Alive](https://open.spotify.com/track/7uzslTc0Ezd60SZG4BQVRc) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Come Alive](https://open.spotify.com/album/2YYfWAJaWXFFJTbeSk3pjZ) | 3:54 | 2022-08-19 |  |
+| [Come Alive](https://open.spotify.com/track/6GUKGBriNnKl1apUeJCMYm) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Come Alive](https://open.spotify.com/album/6V46Qwp84Tu26fl4jqXFG3) | 3:54 | 2022-08-19 |  |
+| [Come Alive](https://open.spotify.com/track/7uzslTc0Ezd60SZG4BQVRc) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Come Alive](https://open.spotify.com/album/2YYfWAJaWXFFJTbeSk3pjZ) | 3:54 | 2022-08-19 | 2022-10-14 |
 | [Control](https://open.spotify.com/track/3NrMppEmrfhrz9OXaUejp7) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance](https://open.spotify.com/album/68basHoqk34JRezSeXRacF) | 2:50 | 2022-08-26 |  |
 | [Control](https://open.spotify.com/track/1b0eXIKJQmx2G7NOMqrITI) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:50 | 2022-08-19 |  |
 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-07-21 |  |
@@ -270,7 +272,8 @@
 | [Tomorrow We Fight](https://open.spotify.com/track/5qIswLybSuwnkcKHYsclPN) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Cinematic Songs \(Vol\. 2\)](https://open.spotify.com/album/3m4jEsg6lxhjaYXJSkvfaG) | 3:20 | 2022-08-05 |  |
 | [Toxic](https://open.spotify.com/track/10VGirghK8scti9gNw2NTw) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC) | 3:57 | 2022-07-29 |  |
 | [Toxic](https://open.spotify.com/track/5zj80ti5GGOgMwXHWyqaDm) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/4PBhKayEcOZG2LXoWiiMEO) | 3:57 | 2022-07-29 | 2022-10-13 |
-| [Trouble](https://open.spotify.com/track/7LqUwzOSDAdQp111VQG9Mk) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5bfZVXwPOwwKCShPhidWWJ) | 2:34 | 2022-07-29 |  |
+| [Trouble](https://open.spotify.com/track/4PaSSxCVbqd0lrpZwcssxm) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5TOLSaeyDW7CyJyIRd9aYw) | 2:34 | 2022-07-29 |  |
+| [Trouble](https://open.spotify.com/track/7LqUwzOSDAdQp111VQG9Mk) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5bfZVXwPOwwKCShPhidWWJ) | 2:34 | 2022-07-29 | 2022-10-14 |
 | [True Romance](https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [True Romance](https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ) | 4:05 | 2022-08-12 |  |
 | [Ultraviolet](https://open.spotify.com/track/2PXt0tumLcyaMbiJ9ldkHg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:35 | 2022-08-26 |  |
 | [Walkie Talkie Man](https://open.spotify.com/track/0iCrjwLMTjWsdOKdOAZ0FC) | [Steriogram](https://open.spotify.com/artist/4HBjD9wmqraU9JVyu8eEY4) | [Schmack!](https://open.spotify.com/album/4EgOBcsLkHKN3rEwVHYftt) | 2:13 | 2022-07-18 |  |

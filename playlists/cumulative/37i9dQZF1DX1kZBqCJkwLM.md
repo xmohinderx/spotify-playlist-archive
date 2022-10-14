@@ -4,14 +4,14 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-166 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
+167 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 Minutes](https://open.spotify.com/track/0F3XjeUEhLImYV2PDfeJ8M) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ) | [20 Minutes](https://open.spotify.com/album/7LFZR7BuxqvIUiKe91YS2y) | 2:46 | 2021-12-03 | 2022-07-29 |
 | [4am](https://open.spotify.com/track/0DTDQgTl6dfdFCCr8ZdE7T) | [Son of Cabe](https://open.spotify.com/artist/5Uf1vED6ZkqTTL5SZ0YNBO), [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh) | [4am](https://open.spotify.com/album/7AhJ0Vk6mJLJUfhXnd75CO) | 3:40 | 2021-12-03 | 2022-05-30 |
 | [Alive](https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Alive](https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3) | 3:17 | 2021-12-03 |  |
-| [ALJI](https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x) | [Sam Rui](https://open.spotify.com/artist/3GFO1X5LAHduvR314sXnqI), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [ALJI](https://open.spotify.com/album/5NJTTERS5cpOfBH5MKHgpY) | 3:10 | 2021-12-03 | 2022-07-29 |
+| [ALJI](https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x) | [Sam Rui](https://open.spotify.com/artist/3GFO1X5LAHduvR314sXnqI), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [ALJI](https://open.spotify.com/album/5NJTTERS5cpOfBH5MKHgpY) | 3:10 | 2021-12-03 |  |
 | [All The Noise](https://open.spotify.com/track/6azay3H49DoX9pXZ97e4kb) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [All The Noise](https://open.spotify.com/album/7LH23X0LiOonUK9TuLbKUN) | 3:37 | 2021-12-03 | 2022-07-29 |
 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 | 2021-12-03 |  |
 | [alone < /3](https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [alone < /3](https://open.spotify.com/album/3LpPVjsnxjU1OjQr5AETxc) | 3:01 | 2021-12-03 | 2022-07-28 |
@@ -94,7 +94,7 @@
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-12-03 | 2022-07-29 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2022-07-15 |  |
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-12-03 |  |
-| [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 | 2021-12-03 |  |
+| [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 | 2021-12-03 | 2022-10-14 |
 | [Less Like](https://open.spotify.com/track/5iEvWfUIV8sWCU5thnoXHt) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Less Like](https://open.spotify.com/album/6BLQDI9duVfrkQ8tjNeqRn) | 2:53 | 2021-12-03 | 2022-07-29 |
 | [LITTLE FIRES](https://open.spotify.com/track/3rZbiEFem2bm8zYUIA9ecd) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [LITTLE FIRES](https://open.spotify.com/album/1vVD2Jm1xVWk3TGhdQ6z97) | 2:59 | 2022-02-04 | 2022-07-18 |
 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 | 2022-08-12 |  |
@@ -149,7 +149,8 @@
 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2021-12-03 | 2022-07-29 |
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-15 |  |
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-12-03 | 2022-07-29 |
-| [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-12-03 |  |
+| [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2022-09-02 |  |
+| [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-12-03 | 2022-10-14 |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-12-03 |  |
 | [Tonight](https://open.spotify.com/track/61DbgSlQBqGY21NmBgJQUh) | [Jihae](https://open.spotify.com/artist/1GCXAhDPlXCcj8Os4lUjhf) | [Tonight](https://open.spotify.com/album/5FGkBeQg0rS6W60sBOiMq8) | 4:37 | 2022-01-07 | 2022-04-21 |
 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 | 2022-04-15 | 2022-07-24 |

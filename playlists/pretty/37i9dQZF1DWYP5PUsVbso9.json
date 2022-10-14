@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 215830,
+  "num_followers": 215896,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMGFmMzRhNGYxNDI3YThjZTE0MzdjZTJkYTZlYmUwNzU4",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMGM2MjA1ZjgxNzMzNTE5ZTI4NmZmZWY5YWM4YzlmZjk5",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "This Way Is My Way",
+        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 134226,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 126666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "This Way Is My Way",
-        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 134226,
-      "name": "Snowbird",
-      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
-        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
+        "name": "The Kendalls - 42 Massive Hits",
+        "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
       },
       "artists": [
         {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "The Kendalls",
+          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Paper Roses",
-      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
+      "duration_ms": 145253,
+      "name": "Heaven's Just A Sin Away",
+      "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Kendalls - 42 Massive Hits",
-        "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
+        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
+        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
       },
       "artists": [
         {
-          "name": "The Kendalls",
-          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
         }
       ],
-      "duration_ms": 145253,
-      "name": "Heaven's Just A Sin Away",
-      "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
+      "duration_ms": 158973,
+      "name": "Paper Roses",
+      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
     },
     {
       "added_at": "2022-07-25 21:35:55",

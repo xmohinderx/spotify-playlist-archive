@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Ponniyin Selvan 1
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,057 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,948 likes - 53 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 | 50 | [Mangalyam](https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Eeswaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf) | 4:20 |
 | 51 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 |
 | 52 | [Master the Blaster \(From "Master"\)](https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Bjorn Surrao](https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu) | [Master the Blaster \(From "Master"\)](https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL) | 1:32 |
-| 53 | [Jai Sulthan \- From "Sulthan"](https://open.spotify.com/track/7crGzxRqI5pMZAjZgF9uu2) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Jai Sulthan \(From "Sulthan"\)](https://open.spotify.com/album/3t8eTRRkTRs9mxxYWZK9Xz) | 4:06 |
-| 54 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 |
+| 53 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 |
 
-Snapshot ID: `MTY2NTM3NTIxNCwwMDAwMDAwMDVhMDRiYWRiNjZjY2FiMzEwODY2Mzc3ZjYxNzRmZTJi`
+Snapshot ID: `MTY2NTYzNzY2NCwwMDAwMDAwMGNlNDllNGNiOTk0ODM2YTkyOTE5N2YwZmZlNzBkMDE0`

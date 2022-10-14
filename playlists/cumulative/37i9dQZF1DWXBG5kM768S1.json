@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 195906,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 267321,
       "name": "En tv-serie",
       "url": "https://open.spotify.com/track/2ZqechT3vdSHZxrQXqy8rJ"
@@ -2398,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "N\u00e5 er jeg inspirert av Veronica Maggio",
+        "url": "https://open.spotify.com/album/0u0bXmYCu6kuGzuZnKN8TZ"
+      },
+      "artists": [
+        {
+          "name": "deLillos",
+          "url": "https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "N\u00e5 er jeg inspirert av Veronica Maggio",
+      "url": "https://open.spotify.com/track/6aeoCU2Ub7S82JJ152ROUz"
+    },
+    {
+      "album": {
         "name": "N\u00e5r det er natt",
         "url": "https://open.spotify.com/album/6edLhz29gflzs0AFYiWqoC"
       },
@@ -2601,7 +2619,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 300280,
       "name": "Siste reis",
       "url": "https://open.spotify.com/track/3zEYZy5WKMCAiQ1A19KAm0"
@@ -2785,7 +2803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 229209,
       "name": "S\u00e5 lett som ingenting",
       "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"

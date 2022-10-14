@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rains.
 
-217 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
+218 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Soothing Rain Weather](https://open.spotify.com/track/7FWuaHWx6XZR62qPggVARn) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Rain State](https://open.spotify.com/album/2qxwVclv1DiA2myG6jnSwQ) | 2:20 | 2021-11-10 |  |
 | [Sound Of Rain](https://open.spotify.com/track/2pO4VCd6vKG1XjzxlNvGPd) | [Rain ZPE](https://open.spotify.com/artist/5btXRFPLxDHay7eed3kHLd) | [Falling Clouds](https://open.spotify.com/album/6wGZLw1MBKZQVLelPdBoDJ) | 2:00 | 2021-11-10 |  |
 | [Spring Rain](https://open.spotify.com/track/3tJUPN4RceFzN6YScWnO46) | [Deszcz](https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz) | [Tea & Rainy Days](https://open.spotify.com/album/7t4DXof9s7bZIjH4ejRc03) | 3:32 | 2021-11-10 |  |
-| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-10 |  |
+| [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 | 2022-07-19 |  |
+| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-10 | 2022-10-14 |
 | [Starting to rain](https://open.spotify.com/track/7dkQRyEnWGmki1fGtkvGAW) | [The Wet](https://open.spotify.com/artist/2IgElvWe0O1lxnnW4XPmNE) | [Rain outside my window](https://open.spotify.com/album/4EdscJEihXupZqV6UaKAhc) | 3:32 | 2021-11-10 |  |
 | [Steady Raining](https://open.spotify.com/track/6dVunPstQ12APTl3RivTIA) | [Bentline Peak](https://open.spotify.com/artist/6yOhpo1p2KSnaMAvHK6jo6) | [Chill Rain](https://open.spotify.com/album/2wWqahCeI8l1ZTvn3BdfTf) | 2:18 | 2021-11-10 |  |
 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 | 2021-11-10 |  |

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-501 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+504 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Amethyst](https://open.spotify.com/track/0bKzBkQKXLH6P407vZQIso) | [Popcorn for Purple](https://open.spotify.com/artist/1yoe4BBN2qhhnoAFe6cyyO) | [Amethyst](https://open.spotify.com/album/1R6VTSopwrnckW6GTf9Qet) | 5:28 | 2020-12-24 | 2021-02-20 |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2021-10-16 | 2022-05-11 |
 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 | 2021-06-04 |  |
+| [Antibes \(Edit\)](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP) | [Leo Lemón](https://open.spotify.com/artist/0UV1gZRx5rxnptMwUtFRqQ) | [Antibes \(Edit\)](https://open.spotify.com/album/6yYduz4N7FvAdHT4ZBJObY) | 2:37 | 2022-10-14 |  |
 | [Aphex Wins](https://open.spotify.com/track/0vVCVbOgsdCnKTs0dz46CN) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Aphex Wins](https://open.spotify.com/album/1CRHiiWboQ9ENAdSwdt8As) | 1:45 | 2020-10-20\* | 2022-06-10 |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-02-20 | 2022-05-20 |
 | [Arcane](https://open.spotify.com/track/5v0GAHUhylQVErZVjvj25N) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Arcane](https://open.spotify.com/album/4g5aOdoLGI7kuE3hFrL8Y6) | 4:06 | 2020-10-20\* | 2020-12-24 |
@@ -326,6 +327,7 @@
 | [physalis](https://open.spotify.com/track/2MmIwBMgQRMlsEcOe0xgyj) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [physalis](https://open.spotify.com/album/0n0bdmxfYRptHngS5foew4) | 2:53 | 2022-06-24 |  |
 | [Piano Exercise](https://open.spotify.com/track/31d09H0l1ND5SSsz97lQWU) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 4](https://open.spotify.com/album/3KqUWz6hoDUrZGMM8Zrnn3) | 3:18 | 2020-12-11 | 2021-04-15 |
 | [Pillow Thoughts](https://open.spotify.com/track/7Fj8SqZEbkJg1gITPVfsUe) | [Broey.](https://open.spotify.com/artist/6HmeISbko4bc0zsZQvIAco) | [Pillow Thoughts](https://open.spotify.com/album/2Ed6kJSrY688hYthNum0E9) | 1:24 | 2020-10-20\* | 2020-11-28 |
+| [playful mornings](https://open.spotify.com/track/3uv361D1ptOIZT0YfKvePd) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [playful mornings](https://open.spotify.com/album/2ZCYylSfAL4Dpu57cA5Y6Z) | 2:14 | 2022-10-14 |  |
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-12 | 2022-02-11 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-08-25 |  |
@@ -492,6 +494,7 @@
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2021-03-25 | 2021-05-13 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-10 |  |
 | [Waves](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM) | [Deep Sea Society](https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t) | [Waves](https://open.spotify.com/album/0CzWJtpffg6ZxlLXFts2SU) | 2:14 | 2022-10-07 |  |
+| [Waves](https://open.spotify.com/track/0Cwy4AdLBb64wlApgt8bJJ) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Waves](https://open.spotify.com/album/4bv7lRMyncfhmG9umIif8N) | 2:50 | 2022-10-14 |  |
 | [Weighted](https://open.spotify.com/track/469uSkgXM3zccp9Oz9ykJo) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Weighted](https://open.spotify.com/album/6NIy3wI2JPiGxTfwTePCPp) | 6:57 | 2021-01-21 | 2021-06-23 |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-10 |  |
 | [Whale Shark](https://open.spotify.com/track/2uh0mszoKvH7gqrbf5xcXm) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Sticky Bottle EP](https://open.spotify.com/album/3qV8k73DqSusDiqVyVoFMn) | 2:36 | 2020-12-24 | 2022-08-05 |

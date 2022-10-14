@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ALALA
 
-245 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+246 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 | 2022-09-24 |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
+| [Everytime](https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Everytime](https://open.spotify.com/album/5w8irJm7unlKJ6gIzlTaLe) | 3:04 | 2022-10-13 |  |
 | [Flame](https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [Flame](https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS) | 3:57 | 2022-08-31 | 2022-09-09 |
 | [Gone Gurl](https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Gone Gurl](https://open.spotify.com/album/4KLCiY1OGHlSKrTsIwpJUY) | 3:15 | 2022-06-09 | 2022-08-06 |
 | [good boy](https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh) | [KJ](https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn) | [good boy](https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx) | 3:21 | 2022-07-14 |  |

@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 123000,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 189090,
       "name": "Brenda",
       "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
@@ -358,6 +358,28 @@
     },
     {
       "album": {
+        "name": "Catch-22",
+        "url": "https://open.spotify.com/album/0ESSUNRDWfFE7oaqpjTaUV"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        },
+        {
+          "name": "Gabbie",
+          "url": "https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181745,
+      "name": "Catch-22",
+      "url": "https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18"
+    },
+    {
+      "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
@@ -373,7 +395,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
@@ -391,7 +413,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 126254,
       "name": "Chigal",
       "url": "https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL"
@@ -417,6 +439,24 @@
       "duration_ms": 188823,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
+    },
+    {
+      "album": {
+        "name": "Hopeless Romantic Riddim",
+        "url": "https://open.spotify.com/album/49JiNiTZIyxzCeGhoc2yBs"
+      },
+      "artists": [
+        {
+          "name": "boistory",
+          "url": "https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184125,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/15rWCjxhuKiWgHLzuzduKn"
     },
     {
       "album": {
@@ -812,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209291,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
       },
@@ -929,7 +987,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 165981,
       "name": "Jump On It - Sut\u00e9 Iwar Remix",
       "url": "https://open.spotify.com/track/6lpkLT4vmzTAyDJA8SF5bF"
@@ -947,7 +1005,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
@@ -1017,7 +1075,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 230932,
       "name": "Life",
       "url": "https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05"
@@ -1061,6 +1119,24 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "album": {
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/7e0FseqTvBVNXw8Dicc6Xr"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152723,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR"
     },
     {
       "album": {
@@ -1155,7 +1231,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 353230,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2DHvPClgI3WfnozlHpirmf"
@@ -1425,7 +1501,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 183993,
       "name": "Pulling Up",
       "url": "https://open.spotify.com/track/2GHj2JqqPPByrkduQEQBYw"
@@ -1523,7 +1599,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 131250,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
@@ -1589,6 +1665,46 @@
       "duration_ms": 223784,
       "name": "SLOW WINE",
       "url": "https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM"
+    },
+    {
+      "album": {
+        "name": "Smoke and Chill",
+        "url": "https://open.spotify.com/album/1bLSbLzbJyNMYTF5L5lkXS"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173881,
+      "name": "Smoke and Chill",
+      "url": "https://open.spotify.com/track/2WNOKpzXTlT1tEGZmzZWYY"
+    },
+    {
+      "album": {
+        "name": "Smooth Criminal",
+        "url": "https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
     },
     {
       "album": {
@@ -1796,6 +1912,28 @@
     },
     {
       "album": {
+        "name": "Things Fall in Place",
+        "url": "https://open.spotify.com/album/2IyQg1ciZnyD6LMoYOea8Q"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        },
+        {
+          "name": "This is Lema",
+          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Things Fall in Place",
+      "url": "https://open.spotify.com/track/4RT366Y6r8XCbPUfAz0MpA"
+    },
+    {
+      "album": {
         "name": "Trobul",
         "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
       },
@@ -1929,7 +2067,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 168000,
       "name": "What To Expect When Expecting",
       "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-157 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+159 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 |  |
 | [Antoni](https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Antoni](https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO) | 2:46 | 2022-07-15 |  |
 | [Aquarela da Vida](https://open.spotify.com/track/3W72SrUpDoLiTnxNttOo4B) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Aquarela da Vida](https://open.spotify.com/album/7b0K2VoR8mxJADRbTCxWvz) | 3:20 | 2022-07-15 |  |
+| [Armónico](https://open.spotify.com/track/4fMkra3CJ5mTAc6DWbFLqT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Armónico](https://open.spotify.com/album/7gM87esW35sDdevEejH70f) | 1:48 | 2022-10-14 |  |
 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-07-15 |  |
 | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 | 2022-07-15 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2022-07-15 |  |
@@ -68,6 +69,7 @@
 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 | 2022-07-15 |  |
 | [Faith Struggle](https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Faith Struggle](https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8) | 2:56 | 2022-07-15 |  |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-07-15 |  |
+| [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 | 2022-10-14 |  |
 | [Footsteps In Palermo](https://open.spotify.com/track/2fQ3bSiaQNeSn7ZoCHGfNJ) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Footsteps In Palermo](https://open.spotify.com/album/2tFW9cguDkRu3OXR4Zbc3V) | 3:15 | 2022-07-15 |  |
 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-07-15 |  |
 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 | 2022-07-15 | 2022-09-17 |

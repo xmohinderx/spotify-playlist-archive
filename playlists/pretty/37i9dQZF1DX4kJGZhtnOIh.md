@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,522 likes - 78 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,552 likes - 78 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 36 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
 | 37 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
 | 38 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
-| 39 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
-| 40 | [Had To Hear](https://open.spotify.com/track/4IAE7M8Qw88f59W0uqNujJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 4:50 |
+| 39 | [Had To Hear](https://open.spotify.com/track/4IAE7M8Qw88f59W0uqNujJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 4:50 |
+| 40 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
 | 41 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 42 | [We Will Become Silhouettes \- Remastered](https://open.spotify.com/track/0xn9WsyWhNbfI82Ipnpwqa) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 5:00 |
 | 43 | [Suffering](https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 6:02 |
@@ -67,24 +67,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 57 | [Wood](https://open.spotify.com/track/4zH4Cya0eAs9vFYKFNEUrH) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Half\-Light](https://open.spotify.com/album/2eVtqdI1qU02LHrPH72Omq) | 5:42 |
 | 58 | [Brandy Alexander](https://open.spotify.com/track/7M8jtZQTPhPK6EgwcOgujM) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:36 |
 | 59 | [In the Stream](https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO) | 5:10 |
-| 60 | [Take The Night Off](https://open.spotify.com/track/4TDqzUw8frlMqGYxfqcCkx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:11 |
+| 60 | [I Was An Eagle](https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:21 |
 | 61 | [Chicago \(acoustic version\)](https://open.spotify.com/track/6tclkDfOgetmI3nE5nY0Xw) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Avalanche](https://open.spotify.com/album/03nhmvStqDyX6JCJk64Owr) | 4:40 |
 | 62 | [Lady On the Water](https://open.spotify.com/track/4l9jbpaoqY2GLSGkwiWgzm) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 2:26 |
 | 63 | [The Sweetest Thing](https://open.spotify.com/track/4ItIxgaequ7RJRpIo0VF0X) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 4:22 |
-| 64 | [Tuck the Darkness In](https://open.spotify.com/track/0RYrr1I3ASoFZzJlquODx5) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ) | 4:50 |
-| 65 | [Terror in the Canyons \(The Wounded Master\)](https://open.spotify.com/track/6CIG1IuqeBpKn451VMlAkh) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 4:05 |
-| 66 | [Carried Away](https://open.spotify.com/track/6HHQc73TnikIFQOg2aHNCu) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [All Birds Say](https://open.spotify.com/album/7DpBHGSsMMr3B6m6KDLv4h) | 4:03 |
-| 67 | [Tears of Joy](https://open.spotify.com/track/5GMoEWEtU2uNZlx8nKMqRG) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/3KCUdkkeANyKXs40lQcmme) | 4:05 |
-| 68 | [Can't You Tell](https://open.spotify.com/track/4sVbamrZfLGgGAOAKU2vOp) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [The Errant Charm](https://open.spotify.com/album/7jpy5hPOInGwYYs0ZgrmPr) | 4:27 |
-| 69 | [I Was An Eagle](https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:21 |
-| 70 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |
-| 71 | [Leaf Off / The Cave](https://open.spotify.com/track/4GrOV18KKdZnc3jcfvMDgk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Leaf Off / The Cave](https://open.spotify.com/album/6iphI9W2vc54TVx3KD10sJ) | 4:53 |
-| 72 | [Woman Like Me](https://open.spotify.com/track/3YLjiKf34DECifehm1yauN) | [Paleo](https://open.spotify.com/artist/2GDAl6I7NyYDH4QmjPbFkN) | [Death & Taxes: Selected Songs From The Song Diary](https://open.spotify.com/album/1uIqK4VwhSHzHGYX7Gu3aW) | 3:32 |
-| 73 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
+| 64 | [Believe](https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
+| 65 | [Tuck the Darkness In](https://open.spotify.com/track/0RYrr1I3ASoFZzJlquODx5) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ) | 4:50 |
+| 66 | [Terror in the Canyons \(The Wounded Master\)](https://open.spotify.com/track/6CIG1IuqeBpKn451VMlAkh) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 4:05 |
+| 67 | [Carried Away](https://open.spotify.com/track/6HHQc73TnikIFQOg2aHNCu) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [All Birds Say](https://open.spotify.com/album/7DpBHGSsMMr3B6m6KDLv4h) | 4:03 |
+| 68 | [Tears of Joy](https://open.spotify.com/track/5GMoEWEtU2uNZlx8nKMqRG) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/3KCUdkkeANyKXs40lQcmme) | 4:05 |
+| 69 | [Take The Night Off](https://open.spotify.com/track/4TDqzUw8frlMqGYxfqcCkx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:11 |
+| 70 | [Can't You Tell](https://open.spotify.com/track/4sVbamrZfLGgGAOAKU2vOp) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [The Errant Charm](https://open.spotify.com/album/7jpy5hPOInGwYYs0ZgrmPr) | 4:27 |
+| 71 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |
+| 72 | [Leaf Off / The Cave](https://open.spotify.com/track/4GrOV18KKdZnc3jcfvMDgk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Leaf Off / The Cave](https://open.spotify.com/album/6iphI9W2vc54TVx3KD10sJ) | 4:53 |
+| 73 | [Woman Like Me](https://open.spotify.com/track/3YLjiKf34DECifehm1yauN) | [Paleo](https://open.spotify.com/artist/2GDAl6I7NyYDH4QmjPbFkN) | [Death & Taxes: Selected Songs From The Song Diary](https://open.spotify.com/album/1uIqK4VwhSHzHGYX7Gu3aW) | 3:32 |
 | 74 | [October Skies](https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:43 |
-| 75 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
-| 76 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
-| 77 | [Higher Love](https://open.spotify.com/track/30fUMnf2FI00EVTMRhOHhb) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Silver Lining](https://open.spotify.com/album/5U017xFzIEof40cTb7Z1SF) | 3:33 |
-| 78 | [Believe](https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
+| 75 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
+| 76 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
+| 77 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
+| 78 | [Higher Love](https://open.spotify.com/track/30fUMnf2FI00EVTMRhOHhb) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Silver Lining](https://open.spotify.com/album/5U017xFzIEof40cTb7Z1SF) | 3:33 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDIyZmY2YWFhMzNjMGMwMzNjOTFhZjE1NWU1YmE3NDQx`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDVhZjk0ZDAwZjQ3ZTg3MGJlNzU0MzlkYThmODRmMTIw`

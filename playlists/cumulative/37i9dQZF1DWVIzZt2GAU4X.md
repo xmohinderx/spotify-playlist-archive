@@ -2,7 +2,7 @@
 
 ### [Piano Ballads](https://open.spotify.com/playlist/37i9dQZF1DWVIzZt2GAU4X)
 
-> Vocals and keys, front and center\. Cover: Adele
+> Vocals and keys, front and center\. Cover: Tom Odell
 
 200 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/1Q4zrbwq1b10L5GOd0I2Ek)
 
@@ -71,7 +71,7 @@
 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2021-11-19 | 2022-07-29 |
 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 | 2022-03-25 |  |
 | [Got The Love \- acoustic](https://open.spotify.com/track/7AtFyDfk3bd82xKgSGsSM8) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Got The Love \(acoustic\)](https://open.spotify.com/album/2V9KI977ejOEa0UZ5EsfKP) | 2:29 | 2021-11-19 | 2022-07-29 |
-| [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2021-11-19 |  |
+| [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2021-11-19 | 2022-10-14 |
 | [Half\-Saved](https://open.spotify.com/track/6kNLASo01nyX5DVB4UGYFK) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Half\-Saved](https://open.spotify.com/album/1qjryVI5Du1tzWiL8gWQWm) | 3:22 | 2021-11-19 | 2022-03-26 |
 | [Hallelujah](https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Vibrate: The Best Of \(Deluxe Edition\)](https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS) | 4:11 | 2022-03-25 | 2022-04-21 |
 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2021-11-19 |  |
@@ -133,7 +133,7 @@
 | [Nightingale](https://open.spotify.com/track/2eLxEzMVfiQih0cJIWIowm) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:36 | 2022-03-25 | 2022-04-18 |
 | [No Matter \- Acoustic](https://open.spotify.com/track/14OWlpPcJxsBvSGI4W65Hl) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [No Matter \(Acoustic\)](https://open.spotify.com/album/50uqLJgUtCTRFaBlomS7aP) | 2:53 | 2021-11-19 | 2022-07-28 |
 | [No Such Thing](https://open.spotify.com/track/70aS0jAJszShUpwp0Mq6cB) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos](https://open.spotify.com/album/3GhJxHA12jGyBTgTD5zbmt) | 3:57 | 2022-03-25 | 2022-04-21 |
-| [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2022-07-15 | 2022-10-11 |
+| [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2022-07-15 |  |
 | [Ordinary People](https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 4:41 | 2022-03-25 | 2022-04-21 |
 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 | 2021-11-19 |  |
 | [Over And Over Again](https://open.spotify.com/track/1X6kxrjWVWiKMqulM8XZpj) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Over And Over Again](https://open.spotify.com/album/1IVuFM49EVxrSfn6AJZAn9) | 4:06 | 2021-11-19 | 2022-07-29 |

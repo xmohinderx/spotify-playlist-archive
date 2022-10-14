@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Wegz & Ash.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,503 likes - 58 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,519 likes - 58 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 7 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 |
 | 8 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 |
 | 9 | [Ya Ghali](https://open.spotify.com/track/2E2CLOBLGokt6RKbhhIeCn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Ya Ghali](https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE) | 2:40 |
-| 10 | [Challenge](https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw) | 1:54 |
+| 10 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 |
 | 11 | [Wesh Gabak](https://open.spotify.com/track/7sRWrhHBNDpUyPsjApWqYF) | [DEEJAY TAMER](https://open.spotify.com/artist/4NhgtxJKalwNrFHNGmOUeh) | [Wesh Gabak](https://open.spotify.com/album/1XqsRHBc8YU3Ix5jsvBXWK) | 4:09 |
 | 12 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 |
 | 13 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 57 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 |
 | 58 | [Kun](https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 4:45 |
 
-Snapshot ID: `MTY2NTUwNjE3MCwwMDAwMDAwMDdlNjBmNzg2Zjc1MzE5YmQ2MWJjMTYxN2QzYjRjOTc4`
+Snapshot ID: `MTY2NTUwNjE3MCwwMDAwMDAwMGZjNWMzNzJjMmJkNTNkODQ2ZTA1ZDVmNmQzNDMxM2Jl`

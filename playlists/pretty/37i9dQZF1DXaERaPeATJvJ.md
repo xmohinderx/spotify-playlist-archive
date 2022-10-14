@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: Bangkutaman
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,395 likes - 94 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,415 likes - 94 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

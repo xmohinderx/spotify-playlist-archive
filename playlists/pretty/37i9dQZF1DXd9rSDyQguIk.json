@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 958593,
+  "num_followers": 959183,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMGNiN2VlMTNlNmE0NzQ2NDdjMTA0ODE3YjQ4NzYzNDVi",
+  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMDQxZmUxMjM0ZWU5ZmUxNzMxODRmMzI0ODFkZDQ4Y2Ux",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Bluesbreakers",
@@ -235,6 +219,22 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Koko Taylor",
@@ -449,20 +465,20 @@
       "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -495,22 +511,6 @@
       "duration_ms": 189640,
       "name": "Boogie Chillen",
       "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Black Magic Woman - 2018 Master",
-      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Chicago Bound",
@@ -655,6 +639,22 @@
       "duration_ms": 167266,
       "name": "Walking By Myself",
       "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 431853,
-      "name": "Stone Crazy",
-      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
@@ -767,6 +751,22 @@
       "duration_ms": 399173,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bloomfield-A Retrospective",
+        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+    },
+    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
@@ -847,22 +863,6 @@
       "duration_ms": 215026,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Bloomfield-A Retrospective",
-        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        }
-      ],
-      "duration_ms": 414960,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
     },
     {
       "added_at": "2018-03-29 19:44:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,195 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,234 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 68 | [Powder Blue / Cascine Park](https://open.spotify.com/track/5nFxn6JRTRISJNHF52pXPF) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:48 |
 | 69 | [On the Line](https://open.spotify.com/track/2k4eRsTQ9z37UxdKZrlmHP) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [On the Line](https://open.spotify.com/album/701O1B1bDdIHwsHpdZaX44) | 4:29 |
 | 70 | [Hold out My Hand](https://open.spotify.com/track/0yC4GvGRje7rzACvkcoDkE) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Patterns](https://open.spotify.com/album/5JxuEc5o2UdWAJTZWPfG4q) | 4:49 |
-| 71 | [Slow Down](https://open.spotify.com/track/3DYFO4M2ygUYpXLzSbCOOr) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:11 |
+| 71 | [Slow Down](https://open.spotify.com/track/0uk3W9Y15pFlwHC5xbYLcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/6hgC7Jlj5suK4bR4F7RYTc) | 3:11 |
 | 72 | [In My Time](https://open.spotify.com/track/45mfStJNfTEHVx7fSkTanA) | [Brock & Sgro](https://open.spotify.com/artist/4TeaWmMF0Wm8EwOdbDWXPz) | [In My Time](https://open.spotify.com/album/5HOaO9Ahj5p2Oy5hojbGOF) | 2:58 |
 | 73 | [High Road](https://open.spotify.com/track/3OBjCxaazqMgn9nuW9jbxY) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Patterns](https://open.spotify.com/album/5JxuEc5o2UdWAJTZWPfG4q) | 4:08 |
 | 74 | [Tell Me \(You're the One\)](https://open.spotify.com/track/4J6ct8IrXR42uqg7ikD418) | [Kelly Pardekooper](https://open.spotify.com/artist/3QostG2Gp1xKnJUr0857oX) | [Haymaker Heart](https://open.spotify.com/album/1nt9x3VE5NOFSR43MV2LZI) | 4:10 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 116 | [Steady](https://open.spotify.com/track/1BZeGezkyEuQnG9rkud3sj) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Emily Wolfe](https://open.spotify.com/album/0g29Kfki3uQXe80dTdWhxD) | 4:09 |
 | 117 | [Bring It on Back](https://open.spotify.com/track/6UYTTPfzs0iKcjxQH4dYuM) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/4Gm7XaibvOLvxa7pcYKGWG) | 4:34 |
 | 118 | [Pteryla](https://open.spotify.com/track/44CBS46WolmxYXqHaa77An) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:27 |
-| 119 | [Crazy](https://open.spotify.com/track/63gUblwliT1NS7Eik504E2) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/1cnUa1Zm4lPm6QiCDRasBo) | 3:48 |
+| 119 | [Crazy](https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy) | 3:48 |
 | 120 | [Bird on a Wire](https://open.spotify.com/track/7l8cRDImRiW7cv6g2heTWi) | [Kristin Diable](https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43) | [Create Your Own Mythology](https://open.spotify.com/album/18hMZo0Cfxv6oWrTYCbpTS) | 3:56 |
 | 121 | [I Don't Wanna Leave Ya](https://open.spotify.com/track/6fqFmBGToeTdV96VjsF2PF) | [Danica Dora](https://open.spotify.com/artist/4hnjUN6vIRhfSmtSFZvY2p) | [Together in Space](https://open.spotify.com/album/2zUxvIaHzt94Xln9MjhUkK) | 3:49 |
 | 122 | [Bring on the Rain](https://open.spotify.com/track/5vhIJeG6kiI1foK7xg5k7A) | [Hudson Moore](https://open.spotify.com/artist/26iVzd80yAXJjZlsrshRjQ) | [Getaway](https://open.spotify.com/album/6YYt3XISMrkoP1Y2db5NJT) | 4:50 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 162 | [Troubled Roads](https://open.spotify.com/track/2zqMo4kHxWmmJwtYKCIVVz) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/5cq1i2qocdtAG0hAyWneju) | 3:26 |
 | 163 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 | 164 | [catacombs](https://open.spotify.com/track/4r91oYlL2FwIAqWW0VCebC) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [petrichor](https://open.spotify.com/album/6pfWucHFIt3I6LFRVBwh1l) | 3:27 |
-| 165 | [fever dream](https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 3:16 |
+| 165 | [fever dream](https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:16 |
 | 166 | [Symmetry](https://open.spotify.com/track/0xujAq2OtDCpGYO2A5n2pf) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Symmetry](https://open.spotify.com/album/6DoYDzc4MDhhGYycrLo7r6) | 3:38 |
 | 167 | [Sweet End](https://open.spotify.com/track/5neux3Gz5ESJDleVirL1ty) | [Five2](https://open.spotify.com/artist/5A2U6dOsmXhurD2wpZbq1y) | [Sweet End](https://open.spotify.com/album/2z4s4RbhI3h2JUiMdi0XOW) | 3:59 |
 | 168 | [Universe](https://open.spotify.com/track/0E9dqD4PX6NyFjRm6qy67F) | [Sounding Arrow](https://open.spotify.com/artist/1NsbPxBRY1cYkn0cqcxkqv) | [Loving Is Breathing](https://open.spotify.com/album/3Oi2YStTUttHxi5ms89xCm) | 4:36 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDQwYjlmZDIxNGE2YTVjNDI1NWY3NzQzZTdmNjA5MDEz`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDE2OTljYTM0NGUwMWEwOWExOTBiYzgzODJjNzc1NWIy`

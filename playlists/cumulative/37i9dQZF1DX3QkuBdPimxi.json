@@ -1525,7 +1525,7 @@
     {
       "album": {
         "name": "Blue's Sing-Along Spectacular",
-        "url": "https://open.spotify.com/album/4DkCDgZJNNeGRA3xyKYMPQ"
+        "url": "https://open.spotify.com/album/43d5DHMVa3CbUDs9eC3RIg"
       },
       "artists": [
         {
@@ -1540,6 +1540,28 @@
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 54949,
+      "name": "The Planet Song",
+      "url": "https://open.spotify.com/track/157EaqzKyfmsc0p22FL0DV"
+    },
+    {
+      "album": {
+        "name": "Blue's Sing-Along Spectacular",
+        "url": "https://open.spotify.com/album/4DkCDgZJNNeGRA3xyKYMPQ"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 54949,
       "name": "The Planet Song",
       "url": "https://open.spotify.com/track/6DtCLXr3cJedQzhZfutgfL"

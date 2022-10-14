@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee.
 
-102 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+103 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Endurance](https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Endurance / Heart](https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW) | 3:20 | 2022-09-15 |  |
 | [Falling](https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Falling](https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL) | 3:02 | 2022-09-15 |  |
 | [Falling Upwards](https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Falling Upwards](https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj) | 5:43 | 2022-09-15 |  |
-| [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2022-09-15 |  |
+| [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2022-09-15 | 2022-10-14 |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2022-09-15 |  |
 | [Good Life](https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Good Life](https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ) | 3:43 | 2022-09-15 |  |
 | [Got to Fall Out](https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [After Midnyte](https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny) | 3:11 | 2022-09-15 |  |
@@ -87,6 +87,7 @@
 | [Shallow Breathing](https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Shallow Breathing](https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1) | 2:43 | 2022-09-15 |  |
 | [Slow Goods](https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Late Night Obsession](https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4) | 2:46 | 2022-09-15 |  |
 | [small talk](https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [small talk](https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh) | 5:25 | 2022-09-15 |  |
+| [So High \- Ron Carroll Late Nite Tweak Dub](https://open.spotify.com/track/70z3t4iKWlXnqxpYYKlWjJ) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [So High \(Ron Carroll Late Nite Tweak Dub\)](https://open.spotify.com/album/7egfMkINOCQyCl55FCAkDn) | 5:14 | 2022-10-13 |  |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2022-09-15 |  |
 | [Somewhere In Nirvana](https://open.spotify.com/track/6bZFIemcJk5aTAlscgz6T9) | [LONO](https://open.spotify.com/artist/49LIV2bIzzfbBbP1qL6UMP), [AVY X](https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [Somewhere In Nirvana](https://open.spotify.com/album/4V3ClACArpBjii3B7f5xwr) | 2:18 | 2022-09-15 |  |
 | [Suburban Sunrise](https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:35 | 2022-09-15 |  |

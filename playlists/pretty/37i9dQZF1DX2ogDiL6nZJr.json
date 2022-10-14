@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 508225,
+  "num_followers": 508496,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzODg2MSwwMDAwMDAwMDdhZmQ2Y2UyMGQ0NGYxNDkwZGIzZDhlYTYzZTkwODNh",
+  "snapshot_id": "MTY2NDUzODg2MSwwMDAwMDAwMDMxZjk5NDhjNThmNmZmNzFkNzNhOWJmNWViZDI1Y2Ez",
   "tracks": [
     {
       "added_at": "2022-09-30 11:54:21",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Bedrock",
-      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 156786,
       "name": "Same Light",
       "url": "https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 262533,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        }
-      ],
-      "duration_ms": 305546,
-      "name": "Blurred",
-      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        }
+      ],
+      "duration_ms": 305546,
+      "name": "Blurred",
+      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
         "name": "PDLIF",
         "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 177285,
       "name": "PDLIF",
       "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
-        "name": "ready now",
-        "url": "https://open.spotify.com/album/0ZegvEThUFYoa8ZnD12Dn4"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 176567,
-      "name": "ready now",
-      "url": "https://open.spotify.com/track/6FBe4eVw7wV48G3iijUbmj"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
-        "name": "New Estate",
-        "url": "https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7"
+        "name": "ready now",
+        "url": "https://open.spotify.com/album/0ZegvEThUFYoa8ZnD12Dn4"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 258260,
-      "name": "Mia & Keira (Days To Come)",
-      "url": "https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA"
+      "duration_ms": 176567,
+      "name": "ready now",
+      "url": "https://open.spotify.com/track/6FBe4eVw7wV48G3iijUbmj"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+        "name": "New Estate",
+        "url": "https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 216560,
-      "name": "A Lingering Love",
-      "url": "https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2"
+      "duration_ms": 258260,
+      "name": "Mia & Keira (Days To Come)",
+      "url": "https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -1199,6 +1183,22 @@
       "duration_ms": 284653,
       "name": "Isn't Ever A Day",
       "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "A Lingering Love",
+      "url": "https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
-        "name": "My Guitar is too Loud",
-        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "My Guitar is too Loud",
-      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216506,
       "name": "One Evening",
       "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
+        "name": "My Guitar is too Loud",
+        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "My Guitar is too Loud",
+      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
+    },
+    {
+      "added_at": "2022-09-30 11:54:21",
+      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2022-09-30 11:54:21",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
         }
       ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
+      "duration_ms": 226165,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
     },
     {
       "added_at": "2022-09-30 11:54:21",
@@ -1551,22 +1567,6 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/2EuXTlhlCKGtbXlGG0jE9Y"
-    },
-    {
-      "added_at": "2022-09-30 11:54:21",
-      "album": {
-        "name": "Welcome To Kookoo Island",
-        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 226165,
-      "name": "Belo Horizonte",
-      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
     },
     {
       "added_at": "2022-09-30 11:54:21",

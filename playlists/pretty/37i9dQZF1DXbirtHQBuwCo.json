@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: JAMIE(\uc81c\uc774\ubbf8))",
-  "num_followers": 804924,
+  "num_followers": 805031,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYyNTY5MywwMDAwMDAwMDgzNzM4N2E0YzY5MzcwNzlmODM0OGNkZTZhZjcxZGIw",
+  "snapshot_id": "MTY2NTYyNTY5MywwMDAwMDAwMGFjZTYyMDkzMTlkOWEwMGU4Y2ViZTZjMzMxMWMzNDE4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:33:46",
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
     },
     {
-      "added_at": "2022-10-13 01:59:16",
+      "added_at": "2022-10-14 02:08:31",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/673LeCLGE4vwfR72Zhr3X9"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0unN86elNEKkjrscaPjKbB"
     },
     {
-      "added_at": "2022-10-13 01:59:16",
+      "added_at": "2022-10-14 02:08:31",
       "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-07 04:33:46",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
-    },
-    {
-      "added_at": "2022-10-07 04:33:46",
-      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "added_at": "2022-10-07 04:33:46",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
     },
     {
       "added_at": "2022-10-07 04:33:46",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2022-10-07 04:33:46",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+        "name": "Scene",
+        "url": "https://open.spotify.com/album/3Eq7lSl4bvV5CNP6IbLkkl"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
         }
       ],
-      "duration_ms": 196866,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+      "duration_ms": 203000,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/1ouGYz9Qvou12hFOwYOV66"
     },
     {
       "added_at": "2022-10-07 04:33:46",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2022-10-07 04:33:46",
       "album": {
-        "name": "Scene",
-        "url": "https://open.spotify.com/album/3Eq7lSl4bvV5CNP6IbLkkl"
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
       "artists": [
         {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Dancing In The Rain",
-      "url": "https://open.spotify.com/track/1ouGYz9Qvou12hFOwYOV66"
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     },
     {
       "added_at": "2022-10-07 04:33:46",

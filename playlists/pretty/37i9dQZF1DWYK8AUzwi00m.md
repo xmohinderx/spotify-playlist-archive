@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,957 likes - 112 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,004 likes - 112 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 53 | [Shopping Spree](https://open.spotify.com/track/3QH5nm30Qb6NtAGtufIuNv) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 2:16 |
 | 54 | [Christmas on High](https://open.spotify.com/track/0yKr2aBuuJJPwCoyBgYMKU) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 3:27 |
 | 55 | [Jingle Bellz](https://open.spotify.com/track/5pQPhVvQmElS3dPjSgKuuN) | [Grandmaster Faff](https://open.spotify.com/artist/4ISswKBMuFcpzC7xGKGLFW), [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Winter LoFi and ChillHop Beats Vol\. 1 \(Merry Xmas!\)](https://open.spotify.com/album/2hz2yJRGdcVkssSRV3o7cP) | 2:20 |
-| 56 | [HA! Santa!](https://open.spotify.com/track/23nJx0537xxLV9KeYE5AOR) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 3:00 |
+| 56 | [HA! Santa!](https://open.spotify.com/track/45PRMPtQ163u47G79aqFbG) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 3:00 |
 | 57 | [Winter Walk](https://open.spotify.com/track/0TuIQa48K5ABNs562u7kYu) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 3:33 |
 | 58 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/44R8mSrOzeIL8h7j2tn4KU) | [Ameer Corro](https://open.spotify.com/artist/1H5PsYGFaTqxJUoyr6bD5C), [Sun Kim](https://open.spotify.com/artist/0jcraZwUALvGIS3RtpsWZQ) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/album/0MJj6YAUwn9QiLgXSBomyX) | 2:44 |
 | 59 | [White Christmas](https://open.spotify.com/track/0a2Qorg1HFOC3hMDnGGkQl) | [Bflynn](https://open.spotify.com/artist/1dqYLAMpwMJc4uFKEzCwfN) | [Hbdj: A Lofi Christmas](https://open.spotify.com/album/4hV6jdo3WofAyY96RoIMe1) | 3:01 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 111 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 |
 | 112 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
 
-Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMGM4ZWRlMWJhMTUyMTM0MDZhMTU4MDM5YjAzMTg5NDZh`
+Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMGRiMDNmY2RmM2M3NjEwYjA0ZGEyNDhmZDkzYzRjM2Uz`

@@ -19,10 +19,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 161155,
       "name": "12 Steps",
       "url": "https://open.spotify.com/track/4ekceoPLIy8EEMKBnjn1S8"
+    },
+    {
+      "album": {
+        "name": "12 Steps",
+        "url": "https://open.spotify.com/album/4OhkTjW7uLkOFAdOWTnzw7"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161155,
+      "name": "12 Steps",
+      "url": "https://open.spotify.com/track/6ICq8jk5u7PQb1aMsUPTfk"
     },
     {
       "album": {
@@ -822,6 +840,24 @@
     },
     {
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/7h4rNt0Jka3I0D3wLBJqYG"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -895,6 +931,24 @@
     {
       "album": {
         "name": "Devil You Don't",
+        "url": "https://open.spotify.com/album/540Q9Y4nYAdnUynF4GGck6"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Devil You Don't",
+      "url": "https://open.spotify.com/track/5NkAWXpJOE0mDtHlK8LlWZ"
+    },
+    {
+      "album": {
+        "name": "Devil You Don't",
         "url": "https://open.spotify.com/album/5g6Oc8ALFNEWtja8kFcz0i"
       },
       "artists": [
@@ -905,7 +959,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 186360,
       "name": "Devil You Don't",
       "url": "https://open.spotify.com/track/6FG2yJ3fTH9I5zwpgkPayq"

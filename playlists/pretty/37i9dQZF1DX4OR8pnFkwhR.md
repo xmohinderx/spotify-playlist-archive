@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bleecker Chrome/ <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,752 likes - 58 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,763 likes - 58 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,26 +35,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 25 | [Loova](https://open.spotify.com/track/6CjOWkHBN8ZDUNcDrR1XGz) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Loova](https://open.spotify.com/album/49AVdl1YAYHYkZBqEsJLmG) | 3:31 |
 | 26 | [ORANGE](https://open.spotify.com/track/67fIYaw4rsHDl24r2iXQrI) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [ORANGE](https://open.spotify.com/album/6dNCmvgmk5gaT9y0qMTQRP) | 4:02 |
 | 27 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 |
-| 28 | [i.d.m.](https://open.spotify.com/track/6F9a1oxY5q5oV0tIoioH7u) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [i.d.m.](https://open.spotify.com/album/0LEBJBoWkx8DuUqdlvguHy) | 3:03 |
-| 29 | [パラノイア](https://open.spotify.com/track/3BXOPG1v6z3augHRkaGyKy) | [UNISH](https://open.spotify.com/artist/1QBOFtlp9NHSmSaJ3ievuS) | [パラノイア](https://open.spotify.com/album/1hu48H4Rz2LG9WoPPvJPWW) | 3:50 |
-| 30 | [散歩道](https://open.spotify.com/track/4bEnMDDfHrfgnxb5ea8LBy) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [散歩道](https://open.spotify.com/album/1BRlmHDS6X3DxeAcVEXadr) | 4:20 |
-| 31 | [春に流されて](https://open.spotify.com/track/6X6VC5EEcUgVsSH99VKWec) | [tokyo lil boy](https://open.spotify.com/artist/1DQ6X369mAKA7zsYDZcA3w) | [情緒ある青春を彼女に捧ぐ](https://open.spotify.com/album/2FPcSqOlEWbk3tfGCgEbiZ) | 4:51 |
-| 32 | [Brain Scratch](https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Brain Scratch](https://open.spotify.com/album/71tODak7A2364WwWyGhXcf) | 3:23 |
-| 33 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 |
-| 34 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 |
-| 35 | [FLOATING EYES](https://open.spotify.com/track/5trmKu2TPm87vYS1xqouAj) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:12 |
-| 36 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
-| 37 | [Tangerine](https://open.spotify.com/track/4rtqhoePcvl6hl9f3yUQY2) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Pixel](https://open.spotify.com/album/51Y53YMSaFCzxF6qEXkye9) | 3:22 |
-| 38 | [瞬き](https://open.spotify.com/track/4HQbDwhDK9C8QbfEqjGQEm) | [Chemicalvolume](https://open.spotify.com/artist/76S6suIGiRoHogiWdbgcQO) | [瞬き](https://open.spotify.com/album/2crBAgaWhjf4sdu5xqBrKy) | 2:59 |
-| 39 | [エールを送るよ](https://open.spotify.com/track/1GvR2vfbnw6ZLNGKiXXYJh) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [エールを送るよ](https://open.spotify.com/album/4eZVTG3ttCrm7eU1813aGV) | 3:04 |
-| 40 | [もういらない](https://open.spotify.com/track/5lHUcQLVfpvLHcr7X43xiy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [もういらない](https://open.spotify.com/album/7xZFgZa8BvTmMddFmXNu9K) | 2:46 |
-| 41 | [チャプター](https://open.spotify.com/track/5YyWqhhN1JEn7F2cqDUMQO) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:18 |
-| 42 | [Drippin' Desert](https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 4:19 |
-| 43 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 |
-| 44 | [POOL](https://open.spotify.com/track/6hiLrjPj5RoC632xTspNtK) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [POOL](https://open.spotify.com/album/0jRklgtrDP6D8kMTnNJvhH) | 4:31 |
-| 45 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 |
-| 46 | [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 |
-| 47 | [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 |
+| 28 | [花々](https://open.spotify.com/track/7DBUFvfmZY7D1ZYJUEWaq7) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [花々](https://open.spotify.com/album/6LM4knFXG12tbLqyfE6seU) | 3:09 |
+| 29 | [i.d.m.](https://open.spotify.com/track/6F9a1oxY5q5oV0tIoioH7u) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [i.d.m.](https://open.spotify.com/album/0LEBJBoWkx8DuUqdlvguHy) | 3:03 |
+| 30 | [パラノイア](https://open.spotify.com/track/3BXOPG1v6z3augHRkaGyKy) | [UNISH](https://open.spotify.com/artist/1QBOFtlp9NHSmSaJ3ievuS) | [パラノイア](https://open.spotify.com/album/1hu48H4Rz2LG9WoPPvJPWW) | 3:50 |
+| 31 | [散歩道](https://open.spotify.com/track/4bEnMDDfHrfgnxb5ea8LBy) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [散歩道](https://open.spotify.com/album/1BRlmHDS6X3DxeAcVEXadr) | 4:20 |
+| 32 | [春に流されて](https://open.spotify.com/track/6X6VC5EEcUgVsSH99VKWec) | [tokyo lil boy](https://open.spotify.com/artist/1DQ6X369mAKA7zsYDZcA3w) | [情緒ある青春を彼女に捧ぐ](https://open.spotify.com/album/2FPcSqOlEWbk3tfGCgEbiZ) | 4:51 |
+| 33 | [Brain Scratch](https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Brain Scratch](https://open.spotify.com/album/71tODak7A2364WwWyGhXcf) | 3:23 |
+| 34 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 |
+| 35 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 |
+| 36 | [FLOATING EYES](https://open.spotify.com/track/5trmKu2TPm87vYS1xqouAj) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:12 |
+| 37 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
+| 38 | [Tangerine](https://open.spotify.com/track/4rtqhoePcvl6hl9f3yUQY2) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Pixel](https://open.spotify.com/album/51Y53YMSaFCzxF6qEXkye9) | 3:22 |
+| 39 | [瞬き](https://open.spotify.com/track/4HQbDwhDK9C8QbfEqjGQEm) | [Chemicalvolume](https://open.spotify.com/artist/76S6suIGiRoHogiWdbgcQO) | [瞬き](https://open.spotify.com/album/2crBAgaWhjf4sdu5xqBrKy) | 2:59 |
+| 40 | [エールを送るよ](https://open.spotify.com/track/1GvR2vfbnw6ZLNGKiXXYJh) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [エールを送るよ](https://open.spotify.com/album/4eZVTG3ttCrm7eU1813aGV) | 3:04 |
+| 41 | [もういらない](https://open.spotify.com/track/5lHUcQLVfpvLHcr7X43xiy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [もういらない](https://open.spotify.com/album/7xZFgZa8BvTmMddFmXNu9K) | 2:46 |
+| 42 | [チャプター](https://open.spotify.com/track/5YyWqhhN1JEn7F2cqDUMQO) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:18 |
+| 43 | [Drippin' Desert](https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 4:19 |
+| 44 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 |
+| 45 | [POOL](https://open.spotify.com/track/6hiLrjPj5RoC632xTspNtK) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [POOL](https://open.spotify.com/album/0jRklgtrDP6D8kMTnNJvhH) | 4:31 |
+| 46 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 |
+| 47 | [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 |
 | 48 | [The Sun](https://open.spotify.com/track/11Gi13v5tOergV1LjEbbDT) | [Ako](https://open.spotify.com/artist/3OZH8bAVViRcIjo4vUuIRz) | [The Sun](https://open.spotify.com/album/4U9TfKHxuKyPdFO5emYrfH) | 3:29 |
 | 49 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 |
 | 50 | [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 57 | [遅刻](https://open.spotify.com/track/2EhMtQkvL0MFmylVUXRklU) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [遅刻](https://open.spotify.com/album/3QajBUxnmnGNRC5iQMUck7) | 4:12 |
 | 58 | [火をつけて](https://open.spotify.com/track/5J0UJZXWr4W8I73A30UqSu) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [火をつけて](https://open.spotify.com/album/17bQJPnZKX0QcMWN699xkf) | 4:39 |
 
-Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMGNlMTc2MmZiOTYwZTUxNjhjOGY2NTczOTE1OGQyMmNl`
+Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMDM3YTYzZjZjNDcxMzc5NTFmOTYyZGVlMzZhMTliY2Yx`

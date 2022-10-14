@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 38423,
+  "num_followers": 38458,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDY5NGU1OWIwNGQ5N2U3YTNkYWUzYjk1YzJhMzlkNGQw",
+  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMGNmNTFkNmQyMTAwYWFjZWFhNWZhYmY3NTRhZGMwNTg5",
   "tracks": [
     {
       "added_at": "2022-09-09 12:20:11",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
+        "name": "A Tareeq",
+        "url": "https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2"
+      },
+      "artists": [
+        {
+          "name": "Ghazall",
+          "url": "https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Ma Mali Shi",
+      "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
         "name": "Ya Samti",
         "url": "https://open.spotify.com/album/0I1DrBlH1G7tg0tbU7ux99"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 232202,
       "name": "Ya Samti",
       "url": "https://open.spotify.com/track/2RCq9cXZOb9CCO016lHuem"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
-        "name": "A Tareeq",
-        "url": "https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2"
-      },
-      "artists": [
-        {
-          "name": "Ghazall",
-          "url": "https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Ma Mali Shi",
-      "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
     },
     {
       "added_at": "2022-09-09 12:20:11",

@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-201 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
+202 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Mind on Fire](https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2021-10-08 | 2022-07-29 |
 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-05-02 |  |
 | [Mindless Town](https://open.spotify.com/track/0pQZ8JROGkVX0sPqSyb7MI) | [Roman Lewis](https://open.spotify.com/artist/2LfiKx5xXRCppq6U2hAaSi) | [Mindless Town](https://open.spotify.com/album/4uJeCjlbeTu9qnqtHSwl9j) | 5:16 | 2021-10-08 | 2022-07-29 |
-| [Mindless Town](https://open.spotify.com/track/2JXQGMpCTHbXJrB9f4jsDh) | [Roman Lewis](https://open.spotify.com/artist/2LfiKx5xXRCppq6U2hAaSi) | [Mindless Town](https://open.spotify.com/album/1UIsD01rQzFh1qADFDqehq) | 5:16 | 2022-05-02 |  |
+| [Mindless Town](https://open.spotify.com/track/2JXQGMpCTHbXJrB9f4jsDh) | [Roman Lewis](https://open.spotify.com/artist/2LfiKx5xXRCppq6U2hAaSi) | [Mindless Town](https://open.spotify.com/album/1UIsD01rQzFh1qADFDqehq) | 5:16 | 2022-05-02 | 2022-10-14 |
+| [Mindless Town](https://open.spotify.com/track/6Ck5g3WJGmHhRw4C1p3jMN) | [Roman Lewis](https://open.spotify.com/artist/2LfiKx5xXRCppq6U2hAaSi) | [Mindless Town](https://open.spotify.com/album/2JCcnZqJtTZyxoaiEU1m3N) | 5:16 | 2022-05-02 |  |
 | [Miss Misanthrope](https://open.spotify.com/track/19VVSsFewSNvevbhgqm5ch) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0GzuW3EO2SQAsPKSUfl0zQ) | 3:55 | 2021-10-08 |  |
 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 | 2021-10-08 |  |
 | [Night Time](https://open.spotify.com/track/0aY1QaQscBQ7NelzNfpVR5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 6:03 | 2022-05-02 |  |

@@ -2,9 +2,9 @@
 
 ### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> 🩹 \(in cover, i lost kids\)
+> 🩹 \(in cover, chiello\)
 
-140 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+141 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 | 2022-05-24 |  |
 | [Forse Dio](https://open.spotify.com/track/0aeQSTW65FQr7N6uV6zk1n) | [Emit](https://open.spotify.com/artist/4SLnd4pMUfLJd502s60Zpk) | [Forse Dio](https://open.spotify.com/album/3SfrCKr0YMTucKcLtUrgt6) | 3:20 | 2022-05-24 |  |
 | [Fragili](https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K) | [Hoomor](https://open.spotify.com/artist/4cNN5QXGRFL9VBGGpO85O8), [Nidya](https://open.spotify.com/artist/0lgeMbRvndhRe5ViRT1h3S) | [Fragili](https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY) | 2:47 | 2022-04-21 |  |
+| [Frammenti](https://open.spotify.com/track/3jk5i3YK8YlQF2rqJa1EMm) | [Icaroh](https://open.spotify.com/artist/4Y2hOocG9EAJPPGJn5S3QW), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z), [22rocky](https://open.spotify.com/artist/0PcBtpEEaEaRGkzTDZGPdD) | [Frammenti](https://open.spotify.com/album/6NWQ0k8vTixMoWBLtHgabI) | 2:36 | 2022-10-13 |  |
 | [frantumi](https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC) | [junksleep](https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m) | [frantumi](https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU) | 1:30 | 2022-06-09 |  |
 | [Fuori dal buio](https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7) | [Fuori dal buio](https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx) | 3:08 | 2022-05-26 |  |
 | [Futuro](https://open.spotify.com/track/73dvpFQXtONS3r2YjvRYxM) | [GiovaneRoyce](https://open.spotify.com/artist/2pLKg64jV4OpTtx95KhMDL) | [Futuro](https://open.spotify.com/album/5yZc4Yg7MEWRyLrXm2CUoW) | 2:17 | 2022-04-21 |  |
@@ -91,7 +92,7 @@
 | [NON PIANGERE](https://open.spotify.com/track/0aF8dGSr4JxGrNiCLYKydt) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/3POuzBmU79UAhUbtXjp0IM) | 2:45 | 2022-09-08 |  |
 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 | 2022-04-21 |  |
 | [nostalgia](https://open.spotify.com/track/5INaFlBjbZ9lDKCsUkdMbY) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/39DvGGAGYEeXvR1Tvvd7F6) | 3:15 | 2022-04-21 |  |
-| [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 |  |
+| [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 | 2022-10-14 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 |  |
 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [Outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 |  |
 | [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 |  |

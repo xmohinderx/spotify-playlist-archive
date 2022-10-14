@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-114 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+116 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Magie](https://open.spotify.com/track/0YtMcpJmoDLPEuKXzZRSFl) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/7zyYaL9ctHBUJM4d6kdyMD) | 4:30 | 2022-07-16 |  |
 | [Magie](https://open.spotify.com/track/3FfCMqTtnwlgtNpaujXy6N) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/1wsdxcbLylDSOqM9lqJgPH) | 4:30 | 2022-06-24 | 2022-07-29 |
 | [Maintenant ou jamais](https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:24 | 2022-06-24 |  |
-| [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-06-24 |  |
+| [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-06-24 | 2022-10-14 |
+| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-09-23 |  |
 | [Mon amour](https://open.spotify.com/track/07XcDj4hRVQi3jua32Oyns) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/0YgfWW9LpVzWojEzqgWovB) | 3:22 | 2022-06-24 |  |
 | [Naoko](https://open.spotify.com/track/66pta58sZB4aTd1uiP3CrF) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Naoko](https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp) | 2:46 | 2022-06-24 |  |
 | [No Mission](https://open.spotify.com/track/2qiKn7sxsU5ZW9Dca4uweM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/1gRkKQh0F7fC2cDLDEY8G0) | 5:17 | 2022-07-16 |  |
@@ -108,7 +109,8 @@
 | [Seul sur ton tandem](https://open.spotify.com/track/0it8h33bIpYBso2O7DVrbI) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/2V3UZKEoW1uxPXnZSIx1GR) | 3:53 | 2022-06-24 |  |
 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 | 2022-07-16 |  |
 | [Si je pleure](https://open.spotify.com/track/4KcBeLXAO66WKw40p06KBE) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 3:45 | 2022-06-24 | 2022-07-29 |
-| [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-06-24 |  |
+| [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-06-24 | 2022-10-14 |
+| [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 | 2022-09-23 |  |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2022-06-24 |  |
 | [Surface](https://open.spotify.com/track/0pYE7AScjJGhUMJef6EUII) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Surface](https://open.spotify.com/album/7GFsC4bDEEw3rFgP3dRZZ9) | 3:13 | 2022-06-24 | 2022-07-17 |
 | [Ta main](https://open.spotify.com/track/6VbVuMbEi9LhL5GTHqpkBx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Ta main](https://open.spotify.com/album/23cFhtNMnvM3aXnQoJ2f3C) | 4:05 | 2022-06-24 |  |

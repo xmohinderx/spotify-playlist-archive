@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-239 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+240 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [Where Have You Been](https://open.spotify.com/track/4ct4lFBPFzEiXYsYGG8zv8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:43 | 2021-10-22 |  |
 | [Without You](https://open.spotify.com/track/7eWs7BP5L9C6vxvOtNX6ns) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:41 | 2021-10-22 |  |
 | [Wonderful Life \(Mi Oh My\) \- From the Angry Birds Movie Original Motion Picture Soundtrack](https://open.spotify.com/track/3PQQWkpJhBvytg5TPTsU2T) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [The Angry Birds Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Sp6HR4bYIsiOBO9pPaZv8) | 3:30 | 2021-10-22 |  |
-| [Worldwide Party](https://open.spotify.com/track/2XYRJ6PqDlje8IcoY6QXK8) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/13UcUuzRs2Sd13I3zuWapX) | 2:58 | 2021-10-22 |  |
+| [Worldwide Party](https://open.spotify.com/track/2XYRJ6PqDlje8IcoY6QXK8) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/13UcUuzRs2Sd13I3zuWapX) | 2:58 | 2021-10-22 | 2022-10-14 |
+| [Worldwide Party](https://open.spotify.com/track/554PU8Cg8dhsoLwZZirqKx) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/2zoLtD8CJX2IoXj6fen83X) | 2:58 | 2022-10-07 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/16QfYCJ6g1RVi0OOHZ5Iut) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t) | 2:47 | 2021-10-22 | 2022-07-29 |
 | [You Need To Calm Down](https://open.spotify.com/track/2KZ1CShivaQbwlZ1hiH0ze) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 2:48 | 2022-07-28 |  |
 | [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2022-08-18 |  |

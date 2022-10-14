@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,144 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,142 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 22 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
 | 23 | [Concentrate On Breathing](https://open.spotify.com/track/2Tme0GsTtJd8o3CqAd8o2r) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Concentrate On Breathing](https://open.spotify.com/album/0u2Sv2RH4Yx6MwZMUI5Omu) | 3:39 |
 | 24 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
-| 25 | [Inner City Lights](https://open.spotify.com/track/5Ho9jqSETTmHIMpwWRE7Ts) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/1QkN9kDH7LUUgGuGRsGIJB) | 4:21 |
+| 25 | [Inner City Lights](https://open.spotify.com/track/7gWddNhFG1IbqNsFlnQBGQ) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/7CY4x6g4SqIOXzzAFqtdHw) | 4:21 |
 | 26 | [Meteorite](https://open.spotify.com/track/5BTHyWBG54XkPukJyIUWW6) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Meteorite](https://open.spotify.com/album/2KAsSyMMP4pySh1dWMbCj3) | 3:18 |
 | 27 | [In My Arms](https://open.spotify.com/track/13RNv4OHDHgjlHgYhzzD3O) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:03 |
 | 28 | [Carrying](https://open.spotify.com/track/3CfVLDjFpdQxO0kHDin4En) | [Goddess911](https://open.spotify.com/artist/55qm9Rk7W6cAQa0nVIiqd8) | [Carrying](https://open.spotify.com/album/2OzYe3Dj6wxlpckkb8MGoj) | 3:01 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 54 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 55 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 |
 
-Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMDM0MGIzMDE3NWM3YjFjNDkxYzg2M2IzMmQxOTc2MTIx`
+Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMGNkOWE1M2NkM2U3ODE2MTljNTgzMTJmZWZiNTQ5Mjkx`

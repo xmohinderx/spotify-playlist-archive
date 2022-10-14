@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199560,
+  "num_followers": 199567,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDUwNTljZjBiZjllZTU2MGZjYTM4ZDc2ZWE4NzVmM2Vm",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGRhMzdlZDc5M2ZkM2VjYThmNWY4NTgyODAzMjgzZmY0",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 199961,
+      "name": "Casualidades",
+      "url": "https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Milagro",
         "url": "https://open.spotify.com/album/43Qds07LHMxKUDjTJ6N57L"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 213918,
       "name": "Milagro",
       "url": "https://open.spotify.com/track/4IbgQmI6Pwh7fchypm4EEW"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 199961,
-      "name": "Casualidades",
-      "url": "https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Cerca del Sol",
-        "url": "https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 272871,
-      "name": "Cerca del Sol",
-      "url": "https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "El As de Espadas",
         "url": "https://open.spotify.com/album/0oWW1AYG83mNnjWtt1DHUa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 153906,
       "name": "El As de Espadas",
       "url": "https://open.spotify.com/track/3ThndZ3i2hOcp54n87h4xc"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Cerca del Sol",
+        "url": "https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 272871,
+      "name": "Cerca del Sol",
+      "url": "https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Primavera Loka",
-        "url": "https://open.spotify.com/album/3PHLBfXv8wlQXh7y3JDWmc"
-      },
-      "artists": [
-        {
-          "name": "La Lira Libertaria",
-          "url": "https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW"
-        },
-        {
-          "name": "Matahembra",
-          "url": "https://open.spotify.com/artist/3SxWpsYyoAaE1guHbd0lfW"
-        }
-      ],
-      "duration_ms": 334340,
-      "name": "Primavera Loka",
-      "url": "https://open.spotify.com/track/0upepgbjktdFmTKIrsdxhx"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Fuego y Mar",
         "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 224096,
       "name": "Fuego y Mar",
       "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Primavera Loka",
+        "url": "https://open.spotify.com/album/3PHLBfXv8wlQXh7y3JDWmc"
+      },
+      "artists": [
+        {
+          "name": "La Lira Libertaria",
+          "url": "https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW"
+        },
+        {
+          "name": "Matahembra",
+          "url": "https://open.spotify.com/artist/3SxWpsYyoAaE1guHbd0lfW"
+        }
+      ],
+      "duration_ms": 334340,
+      "name": "Primavera Loka",
+      "url": "https://open.spotify.com/track/0upepgbjktdFmTKIrsdxhx"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ni\u00f1a Blanca",
-        "url": "https://open.spotify.com/album/28L0BFyBWpYRxcKa35cSiD"
-      },
-      "artists": [
-        {
-          "name": "Devil Presley",
-          "url": "https://open.spotify.com/artist/5EIqlTaPbY8qZZvVjwkCQH"
-        }
-      ],
-      "duration_ms": 435697,
-      "name": "Ni\u00f1a Blanca",
-      "url": "https://open.spotify.com/track/4cYV1Di4LgjQR255w4QaKE"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Plumas",
         "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 86063,
       "name": "T\u00fa No Propones Na",
       "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Ni\u00f1a Blanca",
+        "url": "https://open.spotify.com/album/28L0BFyBWpYRxcKa35cSiD"
+      },
+      "artists": [
+        {
+          "name": "Devil Presley",
+          "url": "https://open.spotify.com/artist/5EIqlTaPbY8qZZvVjwkCQH"
+        }
+      ],
+      "duration_ms": 435697,
+      "name": "Ni\u00f1a Blanca",
+      "url": "https://open.spotify.com/track/4cYV1Di4LgjQR255w4QaKE"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Rock N' Blues",
         "url": "https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq"
       },
@@ -1311,42 +1327,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Camino a Casa",
-        "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 173664,
-      "name": "Camino a Casa",
-      "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Pienso en Ti",
         "url": "https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 265883,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Camino a Casa",
+        "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 173664,
+      "name": "Camino a Casa",
+      "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1399,6 +1399,42 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "R\u00edo R\u00edo",
+        "url": "https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX"
+      },
+      "artists": [
+        {
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Levine",
+          "url": "https://open.spotify.com/artist/3zXchpwqcB321HARod2wCG"
+        }
+      ],
+      "duration_ms": 208864,
+      "name": "R\u00edo R\u00edo",
+      "url": "https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Lo Que Haces",
+      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Lo Comido y Lo Bailado",
         "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
       },
@@ -1431,42 +1467,6 @@
       "duration_ms": 220616,
       "name": "Rebeli\u00f3n del Rock",
       "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Lo Que Haces",
-      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "R\u00edo R\u00edo",
-        "url": "https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX"
-      },
-      "artists": [
-        {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Levine",
-          "url": "https://open.spotify.com/artist/3zXchpwqcB321HARod2wCG"
-        }
-      ],
-      "duration_ms": 208864,
-      "name": "R\u00edo R\u00edo",
-      "url": "https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
-      },
-      "artists": [
-        {
-          "name": "Candy66",
-          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
-        },
-        {
-          "name": "Nk Profeta",
-          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
-        }
-      ],
-      "duration_ms": 342186,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Viajar",
         "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 292586,
       "name": "Viajar - Space Mix",
       "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
+      },
+      "artists": [
+        {
+          "name": "Candy66",
+          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
+        },
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
+        }
+      ],
+      "duration_ms": 342186,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
     }
   ],
   "unique_name": "Rock Chileno",

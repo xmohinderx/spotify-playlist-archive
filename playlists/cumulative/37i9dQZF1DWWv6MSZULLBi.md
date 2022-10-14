@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: First Aid Kit
 
-222 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+223 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [People Like You](https://open.spotify.com/track/3UqBPBdzqlSSjsHBVNmXL3) | [Charissa](https://open.spotify.com/artist/2mA5aOUA0aNvFIzBKE1iTc) | [People Like You](https://open.spotify.com/album/74fFc4s6XhBplUTuYEDJg7) | 3:04 | 2022-05-13 | 2022-08-27 |
 | [Phantom](https://open.spotify.com/track/2fq4SiCvhv8NrLnxeNa8l9) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal \(10th Anniversary Edition\)](https://open.spotify.com/album/3BNRyWlVJZWjakfP0ybfhB) | 4:42 | 2022-05-13 | 2022-08-27 |
 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2022-07-01 |  |
-| [Pools](https://open.spotify.com/track/10InixTBQl9PbBSpcWw3bL) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/5CfxWwzHgJCjGhxweCDeNn) | 3:49 | 2022-09-09 |  |
+| [Pools](https://open.spotify.com/track/10InixTBQl9PbBSpcWw3bL) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/5CfxWwzHgJCjGhxweCDeNn) | 3:49 | 2022-09-09 | 2022-10-14 |
+| [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 | 2022-10-07 |  |
 | [Problem Child](https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Problem Child](https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC) | 3:42 | 2022-10-07 |  |
 | [Provincetown](https://open.spotify.com/track/5i9Ir9R83xVrIh5PNYmDl8) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:10 | 2022-05-13 | 2022-09-10 |
 | [Rabbit Hole](https://open.spotify.com/track/36MNQV3Kw7wL3VKZIPsaVl) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Rabbit Hole](https://open.spotify.com/album/0vki8QdI8o4MSUN0arMXfV) | 2:22 | 2022-07-29 | 2022-09-24 |

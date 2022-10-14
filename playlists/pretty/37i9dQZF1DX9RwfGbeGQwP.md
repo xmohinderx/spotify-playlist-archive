@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,007 likes - 536 songs - 20 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,373 likes - 536 songs - 20 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,7 +313,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 303 | [Nightcap](https://open.spotify.com/track/4WxJo9nbQcYaN6TbVTkEmW) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Nightcap](https://open.spotify.com/album/38q5nol4oPdTe2eitdZetw) | 2:02 |
 | 304 | [satisfying piece of music](https://open.spotify.com/track/2X6sK7eY9UBuY6ZIUIn1fI) | [Nel Gabriel](https://open.spotify.com/artist/2onT71Iu0BI68iR5gLayrZ), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [satisfying piece of music](https://open.spotify.com/album/0avjV2k3kz7aJlw2Ix3Qdw) | 2:51 |
 | 305 | [Super You](https://open.spotify.com/track/2g5fv1seKIZUBrRuRHKM6p) | [Superglue](https://open.spotify.com/artist/7BqBBLHGWZquOBSunMwRsp), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Super You](https://open.spotify.com/album/3oww42x1eb2hxPdp82KpW8) | 2:39 |
-| 306 | [Waving Gods](https://open.spotify.com/track/1exRQDIHfy6ACNjEr6LC0s) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic 3 Jazzstrumentals](https://open.spotify.com/album/0eheS0eNtkrB1HgMy0fqLT) | 3:22 |
+| 306 | [Waving Gods](https://open.spotify.com/track/30A2EwuEQeJppU550PumGT) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic 3 Jazzstrumentals](https://open.spotify.com/album/5DQVOe8ayIf99axGEQS0uU) | 3:22 |
 | 307 | [True Gentleman](https://open.spotify.com/track/3x1nDdG2C94iFi6eIjbNlO) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Solomon Alber](https://open.spotify.com/artist/2DZlO7jiqsJB04ZBntEKNY) | [True Gentleman](https://open.spotify.com/album/0pvumH5O8H2HRpkmFfIfDk) | 1:53 |
 | 308 | [Footage](https://open.spotify.com/track/0Nfxt1ICYFzFkKGPM55oUN) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Willis.](https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN) | [Footage](https://open.spotify.com/album/7Lr2Bqru1e8ltFABOZNGKn) | 2:56 |
 | 309 | [Call Me](https://open.spotify.com/track/26fsJvmS8nLnUqUg5Capqh) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/1pGmdKDNIgdOHVX4dBuDo1) | 2:22 |
@@ -545,4 +545,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 535 | [Clogs And Pods](https://open.spotify.com/track/5tx1rwnQZEm5E2Bf01jGA8) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Clogs And Pods](https://open.spotify.com/album/2dfboLmJrWW1aRVQYwdlHn) | 2:28 |
 | 536 | [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 |
 
-Snapshot ID: `MTY2NTIyNjA4MCwwMDAwMDAwMDg4YjYxMjdmMmZjNGJiODg0Nzg0ZWFkZDM0MzEzMzgw`
+Snapshot ID: `MTY2NTIyNjA4MCwwMDAwMDAwMDM1ODgwYTVlMmEwYmExMWUyY2IwMTliZmM0NmJjOWM4`

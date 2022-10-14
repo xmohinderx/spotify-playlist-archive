@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 202222,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/5QvLKIo27yVB5Rns0VXGrI"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 195692,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/1x8Y6qmIS378NB720asCAm"
@@ -1426,6 +1426,28 @@
     },
     {
       "album": {
+        "name": "Luv N Chaos",
+        "url": "https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Found Our Way",
+      "url": "https://open.spotify.com/track/5gxp6faiQPafYh77V4BZC4"
+    },
+    {
+      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
@@ -1697,7 +1719,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
@@ -5038,6 +5060,28 @@
     },
     {
       "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "album": {
         "name": "THINKING",
         "url": "https://open.spotify.com/album/3qZHlcmOavLTKddnup8qdf"
       },
@@ -5425,6 +5469,32 @@
       "duration_ms": 196949,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/1gEapwDvWRtyK8aOAlCYAX"
+    },
+    {
+      "album": {
+        "name": "edbl & friends - James Berkeley",
+        "url": "https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        },
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205355,
+      "name": "Waiting Line",
+      "url": "https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi"
     },
     {
       "album": {

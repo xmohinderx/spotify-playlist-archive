@@ -4,7 +4,7 @@
 
 > Indie music to keep your gaming session properly soundtracked.
 
-368 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
+369 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 | 2022-04-22 | 2022-06-24 |
 | [Michelle](https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:34 | 2021-10-29 | 2021-12-13 |
 | [Middy Titty](https://open.spotify.com/track/5nVGPIEjIx6gZnY67yC4xM) | [Paulie Leparik](https://open.spotify.com/artist/6UXdw3AJt6S6ri0IGsqquQ) | [Neon Daydream](https://open.spotify.com/album/7J2gaVvqkVNDqXeFc0q2aX) | 1:34 | 2021-10-20 | 2022-07-29 |
+| [Middy Titty](https://open.spotify.com/track/3QVe9gr87GYcRXAkVpPVYl) | [Paulie Leparik](https://open.spotify.com/artist/6UXdw3AJt6S6ri0IGsqquQ) | [Neon Daydream](https://open.spotify.com/album/4glHbVUpKSFzcgtqbj8qrU) | 1:34 | 2022-10-12 |  |
 | [Million Little Problems](https://open.spotify.com/track/42kkoFjVaKgSeAYqkAXPXA) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:26 | 2022-05-06 | 2022-07-29 |
 | [Mind Over Matter \(Reprise\)](https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirrorball / Mind Over Matter \(Reprise\)](https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE) | 3:50 | 2021-10-20 | 2022-02-26 |
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2021-10-23\* | 2021-10-24 |
@@ -346,7 +347,7 @@
 | [Wake Up](https://open.spotify.com/track/5lLuXWPq7zaPxmaS0yrphL) | [Cheese People](https://open.spotify.com/artist/3NFAoFIxpzHRAUpgpX7rjO) | [Cheese People](https://open.spotify.com/album/7F0TL15cOZd5qQcqNXC35u) | 1:20 | 2021-10-23\* | 2021-11-12 |
 | [WANTED U](https://open.spotify.com/track/0Y9D1Bc4fAkeZnVsGKdij6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 4:11 | 2021-10-20 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2021-10-20 | 2022-02-26 |
-| [welcome and goodbye](https://open.spotify.com/track/0CWfsGlbmT0ZcAV3WetvPf) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [welcome and goodbye](https://open.spotify.com/album/4DE2vpqTIdffe08Xj691XI) | 2:20 | 2022-04-22 |  |
+| [welcome and goodbye](https://open.spotify.com/track/0CWfsGlbmT0ZcAV3WetvPf) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [welcome and goodbye](https://open.spotify.com/album/4DE2vpqTIdffe08Xj691XI) | 2:20 | 2022-04-22 | 2022-10-14 |
 | [welcome and goodbye](https://open.spotify.com/track/5F3DM6Iz4axGiLUhxvQLs1) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [welcome and goodbye](https://open.spotify.com/album/6ANwwQBHuTl6Hjf5IK4ctf) | 2:20 | 2021-10-20 | 2022-02-26 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2021-10-20 | 2022-02-26 |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2021-10-20 | 2022-02-26 |

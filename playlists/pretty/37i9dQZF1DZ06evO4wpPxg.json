@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NTk3MDYsMDAwMDAwMDAzY2YxYmM0N2E2NTYyY2QzNjk2NjUzNTc1MTYwZDFjZg==",
+  "snapshot_id": "Mjc3NjExMjQsMDAwMDAwMDA3NTk2OWNiODQwMTRlYTBiN2I4OTI5MmQyNTgwN2E4YQ==",
   "tracks": [
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Death Don't Have No Mercy",
+      "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Pure Religion and Bad Company",
         "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/2yOjgmbdA6B3jdAbZLZr43"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Rev. Blind Gary Davis 1935 - 1949",
-        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 182047,
-      "name": "Cross And Evil Woman Blues",
-      "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "If I Had My Way: Early Home Recordings",
         "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/0aYS1D1hSqQXinxawgOHLy"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Samson And Delilah",
+      "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Complete Early Recordings Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/7uwAghiaMbMtR6kjtCJ8nU"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Pure Religion and Bad Company",
         "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
@@ -105,23 +121,7 @@
       "url": "https://open.spotify.com/track/4dhox7dGyHnNfnqpk9oIKK"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Harlem Street Singer",
-        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 175760,
-      "name": "Goin' To Sit Down On The Banks Of The River",
-      "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
@@ -137,39 +137,7 @@
       "url": "https://open.spotify.com/track/53ihI5CprE0iAoXapWSyoo"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "If I Had My Way: Early Home Recordings",
-        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 286426,
-      "name": "If I Had My Way",
-      "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Demons & Angels: The Ultimate Collection, Pt. 3",
-        "url": "https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 258113,
-      "name": "I Heard The Angels Sing",
-      "url": "https://open.spotify.com/track/2GveI3ecvcQjqMKZwNlMlK"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Harlem Street Singer",
         "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
@@ -185,39 +153,7 @@
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental",
-      "url": "https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Classic Appalachian Blues from Smithsonian Folkways",
-        "url": "https://open.spotify.com/album/7aPRsjom9R7bDvicJBJwNG"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Hesitation Blues",
-      "url": "https://open.spotify.com/track/4PLGk7lhBjGLNfpLTZzvGb"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "At Home and Church, 1962 - 1967",
         "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
@@ -233,10 +169,10 @@
       "url": "https://open.spotify.com/track/28TV9KnXnoxaABtzIAUChb"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
-        "name": "Harlem Street Singer",
-        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+        "name": "If I Had My Way: Early Home Recordings",
+        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
       },
       "artists": [
         {
@@ -244,12 +180,12 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 243440,
-      "name": "Great Change Since I Been Born",
-      "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
+      "duration_ms": 286426,
+      "name": "If I Had My Way",
+      "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
@@ -265,7 +201,87 @@
       "url": "https://open.spotify.com/track/54RJbHLE82IQAFS7HoHInO"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "Great Change Since I Been Born",
+      "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Demons & Angels: The Ultimate Collection, Pt. 3",
+        "url": "https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 258113,
+      "name": "I Heard The Angels Sing",
+      "url": "https://open.spotify.com/track/2GveI3ecvcQjqMKZwNlMlK"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Classic Appalachian Blues from Smithsonian Folkways",
+        "url": "https://open.spotify.com/album/7aPRsjom9R7bDvicJBJwNG"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/4PLGk7lhBjGLNfpLTZzvGb"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental",
+      "url": "https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "I Am The Light Of This World",
+      "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Demons & Angels: The Ultimate Collection, Pt. 2",
         "url": "https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/4wYAJRS9VZA1gY2bQppjjz"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Complete Early Recordings Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
@@ -297,23 +313,7 @@
       "url": "https://open.spotify.com/track/0nPMAv8LxG6CxO4bkP0qi8"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Harlem Street Singer",
-        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Twelve Gates To The City",
-      "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
@@ -329,39 +329,7 @@
       "url": "https://open.spotify.com/track/4vp787isTelbuYgnkZcwGi"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Gospel, Blues And Street Songs",
-        "url": "https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Keep Your Lamp Trimmed And Burning",
-      "url": "https://open.spotify.com/track/7o7hmVr3nyr1n2lnKKuoYF"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "At Home and Church, 1962 - 1967",
-        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 429053,
-      "name": "Children of Zion",
-      "url": "https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Harlem Street Singer",
         "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
@@ -377,7 +345,39 @@
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Gospel, Blues And Street Songs",
+        "url": "https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Keep Your Lamp Trimmed And Burning",
+      "url": "https://open.spotify.com/track/7o7hmVr3nyr1n2lnKKuoYF"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 429053,
+      "name": "Children of Zion",
+      "url": "https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Complete Early Recordings Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Demons & Angels: The Ultimate Collection, Pt. 2",
         "url": "https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3"
@@ -425,10 +425,10 @@
       "url": "https://open.spotify.com/track/0UOLaiZRhOMtfJfFbfwydK"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
-        "name": "Demons & Angels - the Music of Rev. Gary Davis",
-        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+        "name": "Say No To The Devil",
+        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
       },
       "artists": [
         {
@@ -436,12 +436,12 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 221029,
-      "name": "Slippin' Till My Gal Comes in Partner",
-      "url": "https://open.spotify.com/track/5z2zAtdqXz1IV5MnE8ML0v"
+      "duration_ms": 264866,
+      "name": "Tryin' To Get To Heaven In Due Time",
+      "url": "https://open.spotify.com/track/1rf5Hq6UjxScYRwnZ1TBne"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Blues & Ragtime (Live)",
         "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
@@ -457,55 +457,7 @@
       "url": "https://open.spotify.com/track/2p8WdZPvblhbehUGrqnnVY"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Rev. Blind Gary Davis 1935 - 1949",
-        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 187559,
-      "name": "You Can Go Home",
-      "url": "https://open.spotify.com/track/6AqBgPjQXZYolTRG6vmn4M"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "At Newport",
-        "url": "https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "I've Done All My Singing For My Lord",
-      "url": "https://open.spotify.com/track/3vD8qerHxe21LWAW2vXo24"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Demons & Angels - the Music of Rev. Gary Davis",
-        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 243645,
-      "name": "Virgin Mary",
-      "url": "https://open.spotify.com/track/6fEuRUSi77hQJLS8LUrq51"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "If I Had My Way: Early Home Recordings",
         "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
@@ -521,7 +473,23 @@
       "url": "https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "At Newport",
+        "url": "https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "I've Done All My Singing For My Lord",
+      "url": "https://open.spotify.com/track/3vD8qerHxe21LWAW2vXo24"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
@@ -537,87 +505,7 @@
       "url": "https://open.spotify.com/track/7y1rfJduBCRDaaeJ3El2pL"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Bluegrass Instrumentals",
-        "url": "https://open.spotify.com/album/2MlyrwBNGdZgDUaBCbgGbq"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Twelve Sticks",
-      "url": "https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Demons & Angels - the Music of Rev. Gary Davis",
-        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 168180,
-      "name": "Little Boy, Little Boy Who Made Your Britches",
-      "url": "https://open.spotify.com/track/5WTeLEUT1aP8SzTrKYwEIs"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Pure Religion and Bad Company",
-        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Mountain Jack",
-      "url": "https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "I Can't Bear My Burden By Myself",
-      "url": "https://open.spotify.com/track/03iDpGZtb0pcEv5Y6aki2L"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "The Sun of Our Life",
-        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "West Coast Blues (Blind Blake)",
-      "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Demons & Angels - the Music of Rev. Gary Davis",
         "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
@@ -633,10 +521,10 @@
       "url": "https://open.spotify.com/track/1At0KAsl1QI6TnryjxADWJ"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
-        "name": "See What the Lord Has Done for Me",
-        "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
+        "name": "Pure Religion and Bad Company",
+        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
       },
       "artists": [
         {
@@ -644,15 +532,15 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 199253,
-      "name": "Old Fashioned Love",
-      "url": "https://open.spotify.com/track/1nl1gqwwnGUtRyeV338IqS"
+      "duration_ms": 212426,
+      "name": "Mountain Jack",
+      "url": "https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
       },
       "artists": [
         {
@@ -660,12 +548,44 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 171000,
-      "name": "I'm Throwin' Up My Hand",
-      "url": "https://open.spotify.com/track/7Kf9LfrFRYdrgciYP5Yogb"
+      "duration_ms": 210733,
+      "name": "There's A Table Sittin' In Heaven",
+      "url": "https://open.spotify.com/track/2s5RAEIaTKtvkD1tSWyuoA"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "People Who Use to See",
+      "url": "https://open.spotify.com/track/1khQBzvLPhG83uJTgsLGHt"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 168180,
+      "name": "Little Boy, Little Boy Who Made Your Britches",
+      "url": "https://open.spotify.com/track/5WTeLEUT1aP8SzTrKYwEIs"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Gospel, Blues And Street Songs",
         "url": "https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO"
@@ -681,7 +601,39 @@
       "url": "https://open.spotify.com/track/0luW3eEfIU4Lg8ClY8ERk8"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "The Sun of Our Life",
+        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "West Coast Blues (Blind Blake)",
+      "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "I Can't Bear My Burden By Myself",
+      "url": "https://open.spotify.com/track/03iDpGZtb0pcEv5Y6aki2L"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Demons & Angels - the Music of Rev. Gary Davis",
         "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
@@ -692,12 +644,12 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 124016,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/5Dy1tUmCe8WKWRlnLKPhZE"
+      "duration_ms": 221029,
+      "name": "Slippin' Till My Gal Comes in Partner",
+      "url": "https://open.spotify.com/track/5z2zAtdqXz1IV5MnE8ML0v"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "See What the Lord Has Done for Me",
         "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
@@ -708,76 +660,12 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 433773,
-      "name": "Come on Brother, Let's Go Round the Wall",
-      "url": "https://open.spotify.com/track/2BcON7BLKdwyjquTAvSlet"
+      "duration_ms": 199253,
+      "name": "Old Fashioned Love",
+      "url": "https://open.spotify.com/track/1nl1gqwwnGUtRyeV338IqS"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Pure Religion and Bad Company",
-        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/646Yt78fgHq9FC6J9V57Ph"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "You Got To Move",
-      "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "Demons & Angels - the Music of Rev. Gary Davis",
-        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 264032,
-      "name": "Lord, On Your Word",
-      "url": "https://open.spotify.com/track/02AsEgJMRZ6AI5yVxyf7Px"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
-      "album": {
-        "name": "If I Had My Way: Early Home Recordings",
-        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "A Friend Like Lonely Jesus",
-      "url": "https://open.spotify.com/track/4udQfSjph8yVpoy4fcC2In"
-    },
-    {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
         "name": "Pure Religion and Bad Company",
         "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
@@ -793,10 +681,10 @@
       "url": "https://open.spotify.com/track/6jGGhFZ74CYhQ0DVGBWYMj"
     },
     {
-      "added_at": "2022-10-12 13:46:36",
+      "added_at": "2022-10-13 13:24:22",
       "album": {
-        "name": "At Home and Church, 1962 - 1967",
-        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+        "name": "Bluegrass Instrumentals",
+        "url": "https://open.spotify.com/album/2MlyrwBNGdZgDUaBCbgGbq"
       },
       "artists": [
         {
@@ -804,9 +692,121 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 296480,
-      "name": "People Who Use to See",
-      "url": "https://open.spotify.com/track/1khQBzvLPhG83uJTgsLGHt"
+      "duration_ms": 194226,
+      "name": "Twelve Sticks",
+      "url": "https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 264032,
+      "name": "Lord, On Your Word",
+      "url": "https://open.spotify.com/track/02AsEgJMRZ6AI5yVxyf7Px"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "See What the Lord Has Done for Me",
+        "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 433773,
+      "name": "Come on Brother, Let's Go Round the Wall",
+      "url": "https://open.spotify.com/track/2BcON7BLKdwyjquTAvSlet"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "You Got To Move",
+      "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "I'm Throwin' Up My Hand",
+      "url": "https://open.spotify.com/track/7Kf9LfrFRYdrgciYP5Yogb"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 124016,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/5Dy1tUmCe8WKWRlnLKPhZE"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "See What the Lord Has Done for Me",
+        "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "I Wonder What's Become of Sally",
+      "url": "https://open.spotify.com/track/0L1vFdrdor5z9ekkoVG9KQ"
+    },
+    {
+      "added_at": "2022-10-13 13:24:22",
+      "album": {
+        "name": "Say No To The Devil",
+        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Time Is Drawing Near",
+      "url": "https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g"
     }
   ],
   "unique_name": "This Is Rev. Gary Davis",

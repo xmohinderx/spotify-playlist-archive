@@ -4,7 +4,7 @@
 
 > ft\. Bladee
 
-1,460 songs - 2 day 18 hr 21 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,461 songs - 2 day 18 hr 24 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [Every Day \(Is Always The Same\)](https://open.spotify.com/track/6kKTMKqr0Bf0QvPzYrFZvE) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [harvest](https://open.spotify.com/artist/0YNnottatcvL8embwQ2jP2) | [Every Day \(Is Always The Same\)](https://open.spotify.com/album/4PRiwDOP1I9bpB7lt2RzXK) | 3:58 | 2022-06-03 | 2022-07-03 |
 | [every lil' thing](https://open.spotify.com/track/3MznMdhpAbxwEVnCEQmyQk) | [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN), [Gross Boy](https://open.spotify.com/artist/51E2CaW3BB4EdGkYQ92Gtq) | [every lil' thing](https://open.spotify.com/album/2yOLCsmOvbrTskT3kGpyeC) | 1:55 | 2021-02-26 | 2021-04-13 |
 | [Everybody's dead!](https://open.spotify.com/track/1NEvhcHwzloQ2OUt3M7tB2) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Everybody's dead!](https://open.spotify.com/album/2PC2GrYamCscVpzfvRmU3n) | 1:52 | 2021-11-17 | 2022-03-11 |
-| [Everybody's dead! \- Virtual Riot Version](https://open.spotify.com/track/1UJeLGFBvPxOxe0WTftc99) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Everybody's dead! \(Virtual Riot Version\)](https://open.spotify.com/album/2EW0TpMFj9PkgTmNeR29pd) | 3:30 | 2022-06-03 |  |
+| [Everybody's dead! \- Virtual Riot Version](https://open.spotify.com/track/1UJeLGFBvPxOxe0WTftc99) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Everybody's dead! \(Virtual Riot Version\)](https://open.spotify.com/album/2EW0TpMFj9PkgTmNeR29pd) | 3:30 | 2022-06-03 | 2022-10-14 |
+| [Everybody's dead! \- Virtual Riot Version](https://open.spotify.com/track/43u8aaS31Ci2NeZ71S66wZ) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Everybody's dead! \(Virtual Riot Version\)](https://open.spotify.com/album/6zxopSGFuYhMtkViYvzhj2) | 3:30 | 2022-09-23 |  |
 | [Everyday, Everynight](https://open.spotify.com/track/1y8gkgl4Ck7Yh6Ypsadtj9) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [Everyday, Everynight](https://open.spotify.com/album/6UpwT8SuKuUEACIWjFy13J) | 3:04 | 2020-10-13\* | 2020-12-11 |
 | [everything ab u](https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [emotional trap](https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB) | 2:22 | 2022-09-03 |  |
 | [evian \(boohoo!\)](https://open.spotify.com/track/3B63y3DqtTaIytzQBSQ9NK) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [evian \(boohoo!\)](https://open.spotify.com/album/36ZfDq5lY2zwzXh0bHWFtg) | 2:35 | 2021-11-12 | 2022-02-26 |

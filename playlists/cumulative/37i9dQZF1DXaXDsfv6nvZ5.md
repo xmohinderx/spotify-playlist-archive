@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-135 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
+136 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
 | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/track/5NyONMWLkVKu8Mcgjn20aq) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Krysten Simone](https://open.spotify.com/artist/0hn6MIbOu7wcJcTpLD5KfQ) | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/album/7yk8zzo9gYc0GvfAENJsOc) | 2:47 | 2021-12-03 | 2022-07-29 |
 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 | 2021-12-03 |  |
-| [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 |  |
+| [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-10-14 |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-09-09 |  |
 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 | 2021-12-03 |  |
 | [Fragile](https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Fragile](https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO) | 4:02 | 2021-12-03 | 2022-07-20 |
@@ -67,6 +67,7 @@
 | [How Deep Is Your Love \- Acoustic Version](https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 4:04 | 2021-12-03 |  |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-03 |  |
 | [Hurt A Little](https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Hurt A Little](https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz) | 3:57 | 2022-09-23 | 2022-10-04 |
+| [I Like Trouble](https://open.spotify.com/track/2G1PImEpUqv0RjRWPbDW4K) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:10 | 2022-10-03 |  |
 | [I Won't Fall To Your Love](https://open.spotify.com/track/17qHPhUy9pzTQtB4jBYKjM) | [Nick Moore](https://open.spotify.com/artist/7ukZgEvzF0YdF9vw8axy5h) | [I Won't Fall To Your Love](https://open.spotify.com/album/20knLZluvaF9ogIjJeBEsX) | 3:16 | 2022-09-09 |  |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 |  |
 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 | 2022-03-11 |  |

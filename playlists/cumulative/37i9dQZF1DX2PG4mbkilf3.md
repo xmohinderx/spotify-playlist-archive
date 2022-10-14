@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura\. Cover: Chxrry22
 
-402 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+403 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Fight the Feeling](https://open.spotify.com/track/6XC0vEPl4TFP9zxgXU9hRs) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [A Rose By Any Other Name](https://open.spotify.com/album/1dgW86xRay7w9ooE91AJyE) | 3:03 | 2022-06-24 | 2022-07-23 |
 | [Figure It Out](https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Figure It Out](https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt) | 2:51 | 2022-03-18 | 2022-05-07 |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-07-23 |
-| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 |  |
+| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 | 2022-10-14 |
+| [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 | 2022-10-07 |  |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-25 | 2022-05-28 |
 | [Forever](https://open.spotify.com/track/7b7NdGG8LFS10xru0ijGYR) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Forever](https://open.spotify.com/album/4bKQuWQPFWzgwex0sK1OhF) | 2:34 | 2022-02-18 | 2022-05-14 |
 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 | 2022-09-16 |  |

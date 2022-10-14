@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Voost",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: O\u0308wnboss &amp; FAST BOY",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -154,6 +154,28 @@
     },
     {
       "album": {
+        "name": "Ambush",
+        "url": "https://open.spotify.com/album/2dG3rIL78fn3vWa4ehW9HK"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Robbie Mendez",
+          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Ambush",
+      "url": "https://open.spotify.com/track/3MjhqvELJKX433TQS2zsQF"
+    },
+    {
+      "album": {
         "name": "Ancestors",
         "url": "https://open.spotify.com/album/7nYkvFN9KH9avY79NHJ5AU"
       },
@@ -195,7 +217,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 165757,
       "name": "Another Baby (feat. Marion Woodseth)",
       "url": "https://open.spotify.com/track/1MCVEHDgA1vOzzLc8Avdk1"
@@ -221,7 +243,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 165757,
       "name": "Another Baby (feat. Marion Woodseth)",
       "url": "https://open.spotify.com/track/1oXJLzqbxQb2IPF2l6q3Mb"
@@ -283,7 +305,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 194516,
       "name": "Anywhere's Home - Chill Mix",
       "url": "https://open.spotify.com/track/4SRdEjyr9KFDlCpodtOHV2"
@@ -553,7 +575,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 193636,
       "name": "Best Part Missing",
       "url": "https://open.spotify.com/track/4SCbbGalpHU7n4hqhL5kul"
@@ -743,7 +765,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 240000,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/2LndWB1qY0YA7zHFhbnKzi"
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 191132,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR"
@@ -1439,7 +1461,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 154404,
       "name": "E Samba - DJ Kuba & Neitan Remix",
       "url": "https://open.spotify.com/track/4TC8y9AcorKcdy3Ak4Rlba"
@@ -1574,6 +1596,32 @@
     },
     {
       "album": {
+        "name": "Face Melt (feat. Maikki)",
+        "url": "https://open.spotify.com/album/40rIhG3KBCMX0c6NWlK7z6"
+      },
+      "artists": [
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "Highup",
+          "url": "https://open.spotify.com/artist/5vGy6auivb3qywR2zZQvU8"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Face Melt (feat. Maikki)",
+      "url": "https://open.spotify.com/track/5uoqKKhXqoEHcDTWAO6rc9"
+    },
+    {
+      "album": {
         "name": "Fade Away (feat. Jaxn Faw)",
         "url": "https://open.spotify.com/album/6uJOoJQVFaHNoe0KpptEcf"
       },
@@ -1589,7 +1637,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 196190,
       "name": "Fade Away (feat. Jaxn Faw)",
       "url": "https://open.spotify.com/track/73gq75n2ofg1yJCQyvWea7"
@@ -1773,7 +1821,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 192944,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/1OHDrloZphdqOuX7hYQ3oP"
@@ -2283,7 +2331,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 164516,
       "name": "Hiding In The Darkness",
       "url": "https://open.spotify.com/track/2K0ATTuMFwKUMDLHZOYg6P"
@@ -2364,6 +2412,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0biAHZ4j9HcZvgSQR4ftBG"
+      },
+      "artists": [
+        {
+          "name": "Tuff London",
+          "url": "https://open.spotify.com/artist/4IA9QDrVH20mqd9Xg0QXPt"
+        },
+        {
+          "name": "Lisa Rudy",
+          "url": "https://open.spotify.com/artist/3CNoq7hRz6A1jYRPulgxLt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7311ZIsFWY0MaNjHSrmav7"
+    },
+    {
+      "album": {
         "name": "Hold Tight (feat. Darla Jade) [Dombresky Remix]",
         "url": "https://open.spotify.com/album/6RNS8D3qoHQQ2LqKUAV2wy"
       },
@@ -2387,7 +2457,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 220777,
       "name": "Hold Tight (feat. Darla Jade) - Dombresky Remix",
       "url": "https://open.spotify.com/track/7qFmMbtmAZ4YI1fkstJvYE"
@@ -2497,7 +2567,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 199384,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/44fKrt6SHESPvP3H1IpvBy"
@@ -2645,6 +2715,28 @@
       "duration_ms": 144374,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/0xxX8kHivOoE4ffDVkX7iw"
+    },
+    {
+      "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/0xVS8f3EFMcmNo9uCF55dO"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "Taye",
+          "url": "https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201655,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/6tjo4rU1WlQyYm6eWlZFsU"
     },
     {
       "album": {
@@ -2939,10 +3031,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 157377,
       "name": "Jack & Jolene",
       "url": "https://open.spotify.com/track/2c7WkFr3D8VxHDsG6W3Hd5"
+    },
+    {
+      "album": {
+        "name": "Jacking",
+        "url": "https://open.spotify.com/album/4C58HM2kpSaibjH3FMn5fc"
+      },
+      "artists": [
+        {
+          "name": "Tough Love",
+          "url": "https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181729,
+      "name": "Jacking",
+      "url": "https://open.spotify.com/track/7KuKfd8wgecJT18v1fplRN"
     },
     {
       "album": {
@@ -3027,7 +3137,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 135372,
       "name": "Kaisha",
       "url": "https://open.spotify.com/track/0m5YZzJJxzzy1icaVtmZCn"
@@ -3167,6 +3277,28 @@
       "duration_ms": 177404,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/6C0M9XTs497rDfn2pXEuje"
+    },
+    {
+      "album": {
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
     },
     {
       "album": {
@@ -3734,6 +3866,28 @@
     },
     {
       "album": {
+        "name": "Move My Feet",
+        "url": "https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Move My Feet",
+      "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
+    },
+    {
+      "album": {
         "name": "Move Your Body (One Foot Skank) [feat. Majestic & Local]",
         "url": "https://open.spotify.com/album/1dSeIGoSlJcxZ1EdpTBPFg"
       },
@@ -3783,7 +3937,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 140160,
       "name": "Move Your Body - Amitre Remix",
       "url": "https://open.spotify.com/track/2aYfvcdwntEu8cITcm1ibX"
@@ -3946,6 +4100,28 @@
     },
     {
       "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
+    },
+    {
+      "album": {
         "name": "My Mind (feat. Chacel)",
         "url": "https://open.spotify.com/album/56dO5cKAs9NdrT3uW779wl"
       },
@@ -3961,7 +4137,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 127500,
       "name": "My Mind (feat. Chacel)",
       "url": "https://open.spotify.com/track/7yhty0Z1Jz2ANQmZ6BxGZr"
@@ -4053,6 +4229,54 @@
       "duration_ms": 161011,
       "name": "Nel Blu Dipinto Di Blu (Volare)",
       "url": "https://open.spotify.com/track/5XFSYfKx4JDJuK9ojLrQ7p"
+    },
+    {
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176804,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N"
+    },
+    {
+      "album": {
+        "name": "Never Good Enough (feat. Scarlett)",
+        "url": "https://open.spotify.com/album/30n5m4guLxS5MHAMaCTT2a"
+      },
+      "artists": [
+        {
+          "name": "Colin Crooks",
+          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
+        },
+        {
+          "name": "Sledge",
+          "url": "https://open.spotify.com/artist/0QVVlLSw9zbtD8GcsntS4h"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186983,
+      "name": "Never Good Enough (feat. Scarlett)",
+      "url": "https://open.spotify.com/track/4m1DYlYA9srxNsVHVjE9Zv"
     },
     {
       "album": {
@@ -4217,7 +4441,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 127619,
       "name": "Oh My Gosh (feat. Belami)",
       "url": "https://open.spotify.com/track/1C3jJJO71BL5hlHhWNMdp6"
@@ -4239,6 +4463,32 @@
       "duration_ms": 175578,
       "name": "Oh No!!",
       "url": "https://open.spotify.com/track/7clzjmgPKs5nO0qhd6RoXB"
+    },
+    {
+      "album": {
+        "name": "Ole Ole",
+        "url": "https://open.spotify.com/album/4RnYmvLt3wAc5ifPhiivjV"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1DsuMvxjjWbfju1FGdcH3w"
+        },
+        {
+          "name": "Rave Republic",
+          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156109,
+      "name": "Ole Ole",
+      "url": "https://open.spotify.com/track/0ULUQNsWHyA6kjZMrf5wQ7"
     },
     {
       "album": {
@@ -4352,6 +4602,28 @@
     },
     {
       "album": {
+        "name": "PAPASITO",
+        "url": "https://open.spotify.com/album/36DD7LoRYUWJkzGW672Pun"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        },
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116854,
+      "name": "PAPASITO",
+      "url": "https://open.spotify.com/track/0G7CHaGgnuNgylvFLcsqvB"
+    },
+    {
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/2krzzABTmI8n8GxdR4GZG4"
       },
@@ -4411,7 +4683,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 249448,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2s8U2RjLKbp4eGXoA6Vs3y"
@@ -4630,6 +4902,24 @@
     },
     {
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
+    },
+    {
+      "album": {
         "name": "Raindrop (feat. Shibui)",
         "url": "https://open.spotify.com/album/3vI8rJQBebnZfCsuGODsAe"
       },
@@ -4697,6 +4987,36 @@
       "duration_ms": 140000,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke"
+    },
+    {
+      "album": {
+        "name": "Rio Rio (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Paolo Pellegrino",
+          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171845,
+      "name": "Rio Rio (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/0vnbMEahl3Lj1AixLnCGje"
     },
     {
       "album": {
@@ -5067,7 +5387,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 154960,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/18171YdqDGzCBecaLOo1ea"
@@ -5492,6 +5812,24 @@
     },
     {
       "album": {
+        "name": "Supersized",
+        "url": "https://open.spotify.com/album/1pOONF2wxB8MYRN6g5PEQe"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Supersized",
+      "url": "https://open.spotify.com/track/0wf7CoS7wZ7ioivLZuyFYZ"
+    },
+    {
+      "album": {
         "name": "sweet escape",
         "url": "https://open.spotify.com/album/4V5Av9ksFYTRqL4jO4cpEb"
       },
@@ -5627,7 +5965,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 152000,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/6BxlQF0gdDOybWTBAcIaA3"
@@ -5905,7 +6243,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 156059,
       "name": "There\u2019s No Escape (feat. Reverse Prime)",
       "url": "https://open.spotify.com/track/2uDxYAwmCpsBSCn1BIALmi"

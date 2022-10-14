@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,239 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,373 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 15 | [Google da Minha Vida](https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Google da Minha Vida](https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa) | 2:17 |
 | 16 | [Mistério](https://open.spotify.com/track/59xgceM6ACWSn4vcdOzjJ0) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Mistério](https://open.spotify.com/album/43VVnPjqU6Hhsb5agEAYUB) | 3:31 |
 | 17 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 |
-| 18 | [Dá pra ser?](https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Thiago Braga](https://open.spotify.com/artist/332BX60yn7fPIR2ivr8TxM), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:56 |
+| 18 | [Dá pra ser?](https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:56 |
 | 19 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
 | 20 | [Todo Tímido](https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:56 |
 | 21 | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7) | 5:53 |

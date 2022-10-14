@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-99 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+100 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 | 2021-10-26 | 2022-03-17 |
 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 | 2021-10-26 | 2022-03-17 |
 | [For You](https://open.spotify.com/track/2B2jI2PdBMhUkG17F0lor2) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [For You](https://open.spotify.com/album/4c2GXEVeTy83c1Bd2xT92y) | 2:18 | 2021-10-26 | 2022-03-17 |
-| [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 | 2022-03-17 |  |
+| [Garden](https://open.spotify.com/track/38uqIeoKKlFxm2aH6SL73v) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji) | 3:12 | 2022-03-17 |  |
+| [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 | 2022-03-17 | 2022-10-14 |
 | [Go Ali Go](https://open.spotify.com/track/21pbWipcWfNFjwdgJyDKe0) | [Alicia Raye](https://open.spotify.com/artist/5JcE1g6GbiFOLEdxpM5nmZ) | [Go Ali Go](https://open.spotify.com/album/0fE6v0x1iZ7IiUDmuyUYRc) | 2:35 | 2022-03-17 |  |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-26 |  |
 | [Got Me](https://open.spotify.com/track/3mghKdqAomZMZKShUppmae) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Got Me](https://open.spotify.com/album/7s073AT8XNarGOBLruWghZ) | 3:26 | 2021-10-26 | 2022-03-17 |

@@ -92,6 +92,28 @@
     },
     {
       "album": {
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
+    },
+    {
+      "album": {
         "name": "Ain't Going Back",
         "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
       },
@@ -255,7 +277,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 224541,
       "name": "B2B",
       "url": "https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7"
@@ -391,7 +413,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 184529,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4wbOo8y5y3C96cXLZaSbER"
@@ -2817,6 +2839,24 @@
       "duration_ms": 178285,
       "name": "Swagg Talk",
       "url": "https://open.spotify.com/track/0J9RDo9EBTaFcqPlYw49Mj"
+    },
+    {
+      "album": {
+        "name": "Swagg Talk",
+        "url": "https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2"
+      },
+      "artists": [
+        {
+          "name": "D4M $loan",
+          "url": "https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Swagg Talk",
+      "url": "https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9"
     },
     {
       "album": {

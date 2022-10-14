@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Charlie Puth
 
-589 songs - 1 day 6 hr 7 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+590 songs - 1 day 6 hr 10 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [BABY GIRL](https://open.spotify.com/track/7MqW3UHQAwkcqHV9yQBEnT) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Justine Tyrell](https://open.spotify.com/artist/0X4fb30ZeZnyuYILaXTxDd) | [BABY GIRL](https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf) | 2:40 | 2022-07-08 | 2022-07-30 |
 | [Back in Bed](https://open.spotify.com/track/5ukj5LamvwlSh0cYAkQ5by) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Back in Bed](https://open.spotify.com/album/47bzBG5kB4H9ohJJwbC3dy) | 2:38 | 2022-07-08 | 2022-08-27 |
 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 | 2022-02-04 | 2022-02-19 |
-| [back to you](https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3) | 2:49 | 2022-09-16 |  |
+| [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 | 2022-10-07 |  |
+| [back to you](https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3) | 2:49 | 2022-09-16 | 2022-10-14 |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-12-31 | 2022-01-29 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 |  |
 | [Bad Energy](https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [The Character](https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx) | 2:22 | 2022-08-05 | 2022-08-27 |

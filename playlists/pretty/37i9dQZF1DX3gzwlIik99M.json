@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206757,
+  "num_followers": 206787,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDBkZDNiNTc2NjBlZGM1MTFhZDQ0MzljZGM0MDYyZjg1",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDE3MWIxYWE5NjJiMDg0MjgyMThlYWVkNTc5MjgyOTI4",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Mundo Guanaco",
-        "url": "https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "El Pibe Tigre",
-      "url": "https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Victimas del Vaciamiento",
         "url": "https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 190066,
       "name": "Soy de la Esquina",
       "url": "https://open.spotify.com/track/6QgFbmtynzdNpHWsmSKmPy"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Mundo Guanaco",
+        "url": "https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "El Pibe Tigre",
+      "url": "https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -255,18 +255,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/0nSnKL7zhrxu16hZX0L0vr"
       },
       "artists": [
         {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+          "name": "Thell Barrio",
+          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
         }
       ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
+      "duration_ms": 202647,
+      "name": "A Toda Madre",
+      "url": "https://open.spotify.com/track/5707LxrLRlO7Bq9b0TpQIG"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -287,18 +287,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/0nSnKL7zhrxu16hZX0L0vr"
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
       },
       "artists": [
         {
-          "name": "Thell Barrio",
-          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
         }
       ],
-      "duration_ms": 202647,
-      "name": "A Toda Madre",
-      "url": "https://open.spotify.com/track/5707LxrLRlO7Bq9b0TpQIG"
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -723,18 +723,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Panel Optico",
-        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
+        "name": "Discord",
+        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
       },
       "artists": [
         {
-          "name": "Bandera de Niebla",
-          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
+          "name": "Black Overdrive",
+          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
         }
       ],
-      "duration_ms": 87302,
-      "name": "Macho Alfa",
-      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
+      "duration_ms": 192070,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -755,18 +755,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Discord",
-        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
+        "name": "Panel Optico",
+        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
       },
       "artists": [
         {
-          "name": "Black Overdrive",
-          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
+          "name": "Bandera de Niebla",
+          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
         }
       ],
-      "duration_ms": 192070,
-      "name": "Discord",
-      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
+      "duration_ms": 87302,
+      "name": "Macho Alfa",
+      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
     },
     {
       "added_at": "2020-10-24 03:38:51",

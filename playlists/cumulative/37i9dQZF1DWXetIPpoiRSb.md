@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Tate McRae
 
-860 songs - 1 day 19 hr 23 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+861 songs - 1 day 19 hr 26 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Fallin’ \(Adrenaline\)](https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\)](https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm) | 3:36 | 2020-10-13\* | 2020-12-05 |
 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2021-10-16 | 2021-11-13 |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-02-18 | 2022-04-15 |
-| [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 |  |
+| [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-10-14 |
+| [Fat Funny Friend](https://open.spotify.com/track/7z3NjKBqjv3d1ykXCFQxaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/5NMKRqxbne8L5LerDnpGjk) | 3:19 | 2022-10-07 |  |
 | [Favorite What If](https://open.spotify.com/track/5LLaPfgP7Ssw1v5aKqdkre) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite What If](https://open.spotify.com/album/4MCImCKI5cGdXPMp0wtEpb) | 2:52 | 2021-06-26 | 2021-08-21 |
 | [Fckd In The Head](https://open.spotify.com/track/53EMDhqNCRuwbNmR19HtU5) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Fckd In The Head](https://open.spotify.com/album/0G0xGv6lLd8DlcT7mwaeO6) | 2:13 | 2022-07-01 | 2022-09-10 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-25 | 2022-05-28 |

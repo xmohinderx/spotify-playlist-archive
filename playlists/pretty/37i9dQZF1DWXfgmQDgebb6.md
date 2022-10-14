@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Dopein\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,202 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,211 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 25 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
 | 26 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
 | 27 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 |
-| 28 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 |
-| 29 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 |
+| 28 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 |
+| 29 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 |
 | 30 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
 | 31 | [Rehab](https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [Rehab](https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6) | 3:05 |
 | 32 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
 | 33 | [Somebody stole my phone](https://open.spotify.com/track/6kG5ucgIjxvmBSz8UTmFMf) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Somebody stole my phone](https://open.spotify.com/album/2DfuvCbS7AZeNserdLSlSO) | 3:04 |
 | 34 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
 | 35 | [HUGS](https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [HUGS](https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl) | 3:44 |
-| 36 | [GGOOM \(feat\. Jvcki Wai\)](https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 2:39 |
-| 37 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
+| 36 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
+| 37 | [GGOOM \(feat\. Jvcki Wai\)](https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 2:39 |
 | 38 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
 | 39 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 40 | [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [CG](https://open.spotify.com/track/7jWMGFX1SoWtHeH0vrhLAU) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [CG](https://open.spotify.com/album/6IlQLNRAJnCUpU1DIfqGFw) | 3:36 |
 | 50 | [I Sing My Blues Away](https://open.spotify.com/track/0Dsx7tOWOORkxJE8pf5oCF) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf) | [I Sing My Blues Away](https://open.spotify.com/album/0ex0GkY8TCwTUWLQwnHD0A) | 3:27 |
 
-Snapshot ID: `MTY2NTExODUyMSwwMDAwMDAwMDQwNTZmZmMzNzJmN2M1YzkxMzhkMzgyMGExZDJlMjg0`
+Snapshot ID: `MTY2NTExODUyMSwwMDAwMDAwMDAzOWU0ODBlZTA2NWQ2ZTE4ZDVkODE1NTFjYmVlYzUx`

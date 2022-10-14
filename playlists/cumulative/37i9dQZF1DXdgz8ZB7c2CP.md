@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-287 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+289 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Close](https://open.spotify.com/track/1RRbAVWmafQ2ret0RNeubz) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [Close](https://open.spotify.com/album/1xfLQ7Mcvrze0rKFhLAXAv) | 3:54 | 2021-08-06 | 2022-07-29 |
 | [CLOSE2ME](https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [CLOSE2ME](https://open.spotify.com/album/4XjJwCh6Ox1SlMZmIPmr6B) | 3:08 | 2021-10-01 | 2022-06-25 |
 | [Closer 2 U](https://open.spotify.com/track/3JsDhqQSCVK5IRyQtkuxy1) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 3:13 | 2021-08-06 | 2022-07-29 |
-| [cloudy](https://open.spotify.com/track/4uN3fqx0mRqf61RemIFhIq) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/5b3lit9cjrFHrBytPJBppS) | 2:45 | 2021-08-06 |  |
+| [cloudy](https://open.spotify.com/track/4uN3fqx0mRqf61RemIFhIq) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/5b3lit9cjrFHrBytPJBppS) | 2:45 | 2021-08-06 | 2022-10-14 |
 | [cløud](https://open.spotify.com/track/3zWmdLGRHHjQlmFMQXuMRL) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [cløud](https://open.spotify.com/album/7fMeET29KTCnxxz7xtotDI) | 3:28 | 2021-08-06 | 2022-07-29 |
 | [Colorblind.](https://open.spotify.com/track/6o7OCNQhllaLVRkrGCWFeW) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Colorblind.](https://open.spotify.com/album/7CZvPpkSL9Bl1Z6gzXexbj) | 2:50 | 2022-02-18 | 2022-07-27 |
 | [Comb \- Absent Chronicles Remix](https://open.spotify.com/track/12OtYMAKuPrBdXxEmEoanq) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV), [Absent Chronicles](https://open.spotify.com/artist/1WSsJkMrQi0G4nMZ1ad8nx) | [Comb \(Absent Chronicles Remix\)](https://open.spotify.com/album/1SJlf9DoWyzcmSM59JeDik) | 3:24 | 2021-08-06 | 2022-07-29 |
@@ -200,6 +200,7 @@
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2022-02-11 | 2022-07-29 |
 | [Reminisce](https://open.spotify.com/track/1UwiUU0K41eaLwzO2svcvn) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Reminisce](https://open.spotify.com/album/31Nlc9EX5nDrw2YL2iWajd) | 4:44 | 2021-08-06 |  |
 | [Resist](https://open.spotify.com/track/7bcTSW4DQfRz61E9Bq776i) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Resist](https://open.spotify.com/album/1U33hd8Cjhan0DKXqMjDCa) | 3:13 | 2021-08-06 | 2022-04-21 |
+| [Resist \- Original Mix](https://open.spotify.com/track/4hUrZwwsih1IwlOf7XmIlV) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Planet Cyclops](https://open.spotify.com/album/74Mm5t56WdmZSKUjiyIbEf) | 3:13 | 2021-08-06 |  |
 | [Revival](https://open.spotify.com/track/5ClSTs7w4GWa6ipki5M8J7) | [Binks](https://open.spotify.com/artist/5nf6GQa1URBwmGeLLLNtsY), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [Blissful Patterns](https://open.spotify.com/album/31OQ50zkCqjiM5hrsuaMZ0) | 3:26 | 2021-08-06 | 2022-07-27 |
 | [Revival](https://open.spotify.com/track/631diNZUm6hY2u7sjMWsbI) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Revival](https://open.spotify.com/album/2FCHGFyx61XUgcD41B9Jr5) | 4:03 | 2021-08-06 | 2022-07-27 |
 | [Right Now](https://open.spotify.com/track/1h91DNP67Ht4aMHq8qqYJy) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Right Now](https://open.spotify.com/album/0lRqKAf7bzegVWpTWArHMo) | 3:14 | 2021-08-06 | 2022-07-27 |
@@ -292,7 +293,8 @@
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2021-08-06 |  |
 | [Your Struggle Is Also Mine](https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe) | [Xavi](https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j) | [Your Struggle Is Also Mine](https://open.spotify.com/album/1jq466hKCKk8ZFMoZHo3vZ) | 4:10 | 2021-08-06 |  |
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-06-15 |
-| [‎kinder ‎opposites](https://open.spotify.com/track/6DH5NhDzhtSyQ6eRtHcPX8) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6O3emw9f3lKSgDvNabPT9B) | 1:42 | 2022-06-03 |  |
+| [‎kinder ‎opposites](https://open.spotify.com/track/3MYGkr4LPB4erhr97GnHbI) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6BVsvhJucDYyb9LhM1MzcQ) | 1:42 | 2022-06-03 |  |
+| [‎kinder ‎opposites](https://open.spotify.com/track/6DH5NhDzhtSyQ6eRtHcPX8) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6O3emw9f3lKSgDvNabPT9B) | 1:42 | 2022-06-03 | 2022-10-14 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2021-12-10 | 2022-07-29 |
 | [☆](https://open.spotify.com/track/062TR63pH6hFer4xsx0935) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rwP6eKGSsdQ0Zr69phC99) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 2:59 | 2021-08-06 | 2022-10-13 |
 

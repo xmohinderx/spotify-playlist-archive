@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGM1NTZiOGZiYjY1NjJmMzhiMzRmZmE3MGJiZmVhOGIw",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDc1OTU5MDY4YTYxZGVlMDNiNmRiY2I0MmNkMDk5OGI4",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -775,38 +759,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 156505,
-      "name": "parachute",
-      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Love To Lose",
         "url": "https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q"
       },
@@ -823,6 +775,22 @@
       "duration_ms": 177731,
       "name": "Love To Lose",
       "url": "https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 156505,
+      "name": "parachute",
+      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1083,22 +1051,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -1111,6 +1063,22 @@
       "duration_ms": 182720,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1215,26 +1183,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Notti Brave (After)",
-        "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
-      },
-      "artists": [
-        {
-          "name": "Carl Brave",
-          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
-        },
-        {
-          "name": "Max Gazz\u00e8",
-          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Posso (feat. Max Gazz\u00e9)",
-      "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "In the Shape of a Dream",
         "url": "https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz"
       },
@@ -1251,6 +1199,26 @@
       "duration_ms": 189786,
       "name": "Stay With Me (feat. Jeremy Zucker)",
       "url": "https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Notti Brave (After)",
+        "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        },
+        {
+          "name": "Max Gazz\u00e8",
+          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Posso (feat. Max Gazz\u00e9)",
+      "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1695,6 +1663,38 @@
       "duration_ms": 202537,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5pYxp6NKGkEZK8E9e6vvox"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/2CEEKREL8eUBhNvsafRAsb"
     }
   ],
   "unique_name": "Primavera",

@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> l7 é AULAS
+> AULAS com o dono do lugar
 
-126 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
+127 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 | 2022-01-14 |  |
 | [Areia Azul](https://open.spotify.com/track/5cJPetbFkt9FWHgCcXXbBn) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Areia Azul](https://open.spotify.com/album/4jsUznZvBBxxqGMijKWAMw) | 2:52 | 2022-01-14 | 2022-02-24 |
 | [Auxílio Emergencial do Rap](https://open.spotify.com/track/2tbnYUZqSQPSuTn2Zd0arn) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Auxílio Emergencial do Rap](https://open.spotify.com/album/0e4Szps1xppl5S4cIjjVfJ) | 3:40 | 2022-05-27 | 2022-07-05 |
+| [bode](https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:51 | 2022-10-13 |  |
 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 | 2022-05-27 |  |
 | [Boombap Gold](https://open.spotify.com/track/60FUbcsCoJB5GyYsFkvpZm) | [Tom Função RHK](https://open.spotify.com/artist/2fgh0Ep0QideX9dftR5sYg), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [patetacodigo43](https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk), [Jah Dartanhan](https://open.spotify.com/artist/73GeX7KjKwiPI3Qq3YWlsL), [Rodrigo Nonato](https://open.spotify.com/artist/74jwd4pXMikoNWTyWcli9n) | [Boombap Gold](https://open.spotify.com/album/2Ddati0V6fWvpe3E9kUqy4) | 6:26 | 2022-08-12 |  |
 | [CHÁ DE MAÇÃ](https://open.spotify.com/track/0G5ivEEvVSHfmu0rdVoRk9) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [FLORA DE CONTROLE](https://open.spotify.com/album/4BGYI7zvyPcAkwG8e0agSz) | 3:09 | 2022-01-14 | 2022-02-24 |
@@ -39,7 +40,7 @@
 | [Deus É o Meu Guia](https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Deus É o Meu Guia](https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3) | 2:46 | 2022-03-11 |  |
 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 | 2022-06-17 |  |
 | [Easy Money](https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Easy Money](https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow) | 3:11 | 2022-01-14 | 2022-08-13 |
-| [Eu Fiz o Jogo Virar](https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eu Fiz o Jogo Virar](https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5) | 2:25 | 2022-01-14 |  |
+| [Eu Fiz o Jogo Virar](https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eu Fiz o Jogo Virar](https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5) | 2:25 | 2022-01-14 | 2022-10-14 |
 | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/track/3lv0Gjj2oP6sDjI5yv9Ebg) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w) | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/album/3jtT6gy6wjOFnpGtb8RrZb) | 4:11 | 2022-01-14 | 2022-03-05 |
 | [Eu\(S\)](https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Eu\(S\)](https://open.spotify.com/album/47UmbXgK2mtJyfBj1CDIIP) | 3:23 | 2022-07-04 | 2022-09-20 |
 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 | 2022-06-10 |  |

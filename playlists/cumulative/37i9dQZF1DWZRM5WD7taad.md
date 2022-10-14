@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-118 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+119 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2021-12-13 |  |
 | [Bounce](https://open.spotify.com/track/5q1wShNQKfniCCv097p00x) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/7yOETWq7Ft6mjRNQxgXyhY) | 2:38 | 2021-12-13 | 2022-07-29 |
 | [Bounce](https://open.spotify.com/track/6KUmpDrv5YOGR4Re7KJJze) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/6Becef5FVLJfocz5dk1DNF) | 2:38 | 2022-06-27 |  |
-| [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2021-12-13 |  |
+| [Brujas](https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ) | 2:54 | 2022-08-16 |  |
+| [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2021-12-13 | 2022-10-14 |
 | [Buscando el Sol](https://open.spotify.com/track/0X6vzLwQa5suHlByNvbOsJ) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Buscando el Sol](https://open.spotify.com/album/69WN4ZXCkezCzch1LKGr2a) | 3:19 | 2022-02-09 | 2022-04-15 |
 | [BUSINESS WOMAN](https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [BUSINESS WOMAN](https://open.spotify.com/album/3BTGhFn6HnEKGRYFTBoIzJ) | 3:47 | 2021-12-13 |  |
 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 | 2021-12-13 |  |

@@ -769,6 +769,24 @@
     {
       "album": {
         "name": "can't breathe",
+        "url": "https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy"
+      },
+      "artists": [
+        {
+          "name": "vivi rincon",
+          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163426,
+      "name": "can't breathe",
+      "url": "https://open.spotify.com/track/2bobQfCbPqFBOgGRF4XU0S"
+    },
+    {
+      "album": {
+        "name": "can't breathe",
         "url": "https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc"
       },
       "artists": [
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 163426,
       "name": "can't breathe",
       "url": "https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC"
@@ -2631,10 +2649,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 148066,
       "name": "Love Me Back",
       "url": "https://open.spotify.com/track/6gbk2Uxer4YJ1uJ9TKt9EI"
+    },
+    {
+      "album": {
+        "name": "Love Me Back",
+        "url": "https://open.spotify.com/album/3CIxFuXTFzzoFk6BRqbcs5"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148066,
+      "name": "Love Me Back",
+      "url": "https://open.spotify.com/track/6p95Fy7WYNpxeAaId7WLGk"
     },
     {
       "album": {

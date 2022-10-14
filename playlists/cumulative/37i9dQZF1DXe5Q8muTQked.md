@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-609 songs - 1 day 13 hr 36 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+610 songs - 1 day 13 hr 38 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-06-10 |  |
 | [Can't Help Falling in Love \- Live From Spotify London](https://open.spotify.com/track/00jpfzztJgSupflbzmH3T1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Sessions](https://open.spotify.com/album/0CL4Zsk4SKMXvLQKa41BOv) | 2:43 | 2021-10-20 | 2022-07-28 |
 | [Can't Help Falling In Love \- Recorded Live at Daytrotter](https://open.spotify.com/track/5GBWQszdw6PtAN0Negzut6) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/7o2VLivg95UduHjTMTIEIf) | 3:13 | 2021-10-20 | 2022-07-28 |
-| [Can't Nobody Love You](https://open.spotify.com/track/2o6sXX0llloUkaUm9DEbLY) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:16 | 2022-06-10 |  |
+| [Can't Nobody Love You](https://open.spotify.com/track/2o6sXX0llloUkaUm9DEbLY) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:16 | 2022-06-10 | 2022-10-14 |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2021-10-20 |  |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-10-20 | 2022-07-29 |
 | [Can’t Help Falling In Love \- Live At Daytrotter](https://open.spotify.com/track/2nOkNoBuQdo5HH0Ls1zXxS) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 3:13 | 2022-06-10 |  |
@@ -130,6 +130,7 @@
 | [Dancing in the Dark](https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Blood & Rust](https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR) | 3:59 | 2021-10-20 | 2022-07-29 |
 | [Dancing in the Dark](https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Blood & Rust](https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder) | 3:59 | 2022-06-10 |  |
 | [Dancing in the Dark](https://open.spotify.com/track/3WgEW4w6chtg2d2kztRQd8) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/2fXMUHvHHyYHSDchm6Fnz3) | 3:48 | 2021-10-20 | 2022-07-26 |
+| [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 | 2022-06-10 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2TmLZLv57mW4OA3Il1ULsf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/2sgfT0ExcSuQOGZ9DM3nMJ) | 4:20 | 2021-10-20 | 2022-07-29 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-06-10 |  |
 | [Dark End Of The Street](https://open.spotify.com/track/1cmSVr6fl5Hvb2worddWrH) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:50 | 2022-06-10 | 2022-10-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,507 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,506 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 22 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/2dOUErBzFZJ8l7MbV6FcYW) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 3:50 |
 | 23 | [Can't Forget](https://open.spotify.com/track/1DexvXGmsZu6mWElq4XRp4) | [Bandhunta Izzy](https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2) | [Can't Forget](https://open.spotify.com/album/14DO8oPrgLc7gcfF6MbFnH) | 3:07 |
 | 24 | [For The Night \[Baltimore Club Mix\]](https://open.spotify.com/track/7JKxy5aQ7Qi2YpmQbM6Nqe) | [Bandingo YGNE](https://open.spotify.com/artist/4WChwgMrLJSFKqAbfYA4Es) | [For The Night \[Baltimore Club Mix\]](https://open.spotify.com/album/7xzo3XciHyJa9EPgIrSPMw) | 2:04 |
-| 25 | [Happy](https://open.spotify.com/track/4eK8QL4amHv3o8f4lNtce8) | [Troy](https://open.spotify.com/artist/5X5wnQz0yXHtPRby0vceq1), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [MACK](https://open.spotify.com/artist/4pOUmDQIBvUaCBxDCHzUFY) | [A Nigga Might've Cared Too Much](https://open.spotify.com/album/2wqhpY2DX8iIT5uuzuzS4b) | 3:20 |
+| 25 | [happy](https://open.spotify.com/track/4eK8QL4amHv3o8f4lNtce8) | [Troy](https://open.spotify.com/artist/5X5wnQz0yXHtPRby0vceq1), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [MACK](https://open.spotify.com/artist/4pOUmDQIBvUaCBxDCHzUFY) | [A Nigga Might've Cared Too Much](https://open.spotify.com/album/2wqhpY2DX8iIT5uuzuzS4b) | 3:20 |
 | 26 | [Repeat \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0l3ED5kPEnls7T2nrTbI7H) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Repeat \(feat\. Fivio Foreign\)](https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj) | 2:37 |
 | 27 | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/album/6gVgQxn4oG3WXmcLhK4sBX) | 2:42 |
 | 28 | [Gratuity](https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Gratuity](https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e) | 3:37 |

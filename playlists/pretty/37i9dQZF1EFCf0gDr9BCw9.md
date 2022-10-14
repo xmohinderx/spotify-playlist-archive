@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 141 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 438 likes - 141 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 37 | [On the Wrong Side of the Railroad Tracks](https://open.spotify.com/track/3sEbCLAkVB1FmdXdJUverM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Duke Elegant](https://open.spotify.com/album/32944vJtxt5vMbR8dAMViB) | 5:42 |
 | 38 | [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5sJpQV6iIInQ4DqL3Jfqzc) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:06 |
 | 39 | [Sonnet for Caesar](https://open.spotify.com/track/3ePKylz8H0t1sNI1yBh5sS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:56 |
-| 40 | [I'm Checkin' Out, Goom'bye](https://open.spotify.com/track/73bqQYYWmLKa84O0io4E99) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Matt Munisteri](https://open.spotify.com/artist/2vQcS9cDI4xWJqbqGzch7M), [Mark Shane](https://open.spotify.com/artist/7jJRTFVSa3AEiLLQOWRBgG), [Lee Hudson](https://open.spotify.com/artist/7gcEfARxzB32rfJmwyCvA4) | [Strictly Romancin'](https://open.spotify.com/album/0oyu5Vuai0HPO8zR9X0s36) | 2:25 |
-| 41 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 |
+| 40 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 |
+| 41 | [I'm Checkin' Out, Goom'bye](https://open.spotify.com/track/73bqQYYWmLKa84O0io4E99) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Matt Munisteri](https://open.spotify.com/artist/2vQcS9cDI4xWJqbqGzch7M), [Mark Shane](https://open.spotify.com/artist/7jJRTFVSa3AEiLLQOWRBgG), [Lee Hudson](https://open.spotify.com/artist/7gcEfARxzB32rfJmwyCvA4) | [Strictly Romancin'](https://open.spotify.com/album/0oyu5Vuai0HPO8zR9X0s36) | 2:25 |
 | 42 | [Lady Mac](https://open.spotify.com/track/3cMyp5HCJM5LOBLbCloR8O) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:35 |
 | 43 | [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 |
 | 44 | [You're The One](https://open.spotify.com/track/2chpEqVXRY4OG2ehJ3Slcw) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [City Of Birmingham Symphony Orchestra](https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Duke Ellington Album](https://open.spotify.com/album/0vMfSZG8wT2Bbe0PMBYJmC) | 2:58 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 140 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 141 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc3NjA0NDIsMDAwMDAwMDBjMDhkMGUzNjZlNmEwNDAyNGMzZGJlMWM5MjVmM2QzMQ==`
+Snapshot ID: `Mjc3NjE4ODEsMDAwMDAwMDAxZjJiM2ViNzEyMTI3NmFhYTA3Y2MyODhjNjVlMTNlOQ==`

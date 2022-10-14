@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-179 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+182 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fall Song](https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:37 | 2022-09-13 |  |
 | [Farewell](https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Farewell](https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5) | 3:59 | 2021-12-14 |  |
 | [Fin De L'Affaire \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Hank Mobley Quintet \(Remastered\)](https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb) | 6:39 | 2021-12-14 | 2022-08-31 |
+| [Follow Me Till the End of Time](https://open.spotify.com/track/52nDbEu1rxpAIjy3h00Wfo) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Follow Me Till the End of Time](https://open.spotify.com/album/7HrCFkxJPSwS5Ku61EiiDc) | 2:58 | 2022-10-13 |  |
 | [For Heavens Sake](https://open.spotify.com/track/3L94Y3LMCAW65sKrZs1bz7) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [For Heavens Sake](https://open.spotify.com/album/2hfGoUNu7M0B1bTs35GJou) | 4:51 | 2022-06-14 |  |
 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 | 2021-12-14 |  |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-11 |  |
@@ -104,6 +105,7 @@
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2021-12-14 | 2022-08-18 |
 | [Lover For The Day](https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 3:31 | 2022-05-24 |  |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
+| [Margaret Dances](https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:30 | 2022-10-13 |  |
 | [Moment To Moment](https://open.spotify.com/track/5iUZ1247JyTUfjSoA4nVQl) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Moment To Moment](https://open.spotify.com/album/3KeFD62A0IEmCOfn2CaC0K) | 2:57 | 2021-12-14 |  |
 | [Monk's Mood](https://open.spotify.com/track/5ypkP1XjtQTjVh77833W8J) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Monk's Mood](https://open.spotify.com/album/63znxspWv08GvBbaGCTJLp) | 4:00 | 2022-06-01 |  |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-12-14 | 2022-05-18 |
@@ -114,7 +116,7 @@
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2022-08-11 |  |
 | [My Old Flame](https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:23 | 2022-02-03 | 2022-05-25 |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
-| [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 |  |
+| [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 | 2022-10-14 |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-29 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-14 | 2022-10-07 |
 | [Peace](https://open.spotify.com/track/2XbzKkjwyO7nVUThZSudGv) | [Winter Jazz Trio](https://open.spotify.com/artist/5qr5p04yN4FHmjJMuAq6Ne) | [Peace](https://open.spotify.com/album/1SR2WnYKiyvC2jTUcRhyIh) | 3:25 | 2021-12-14 |  |
@@ -170,6 +172,7 @@
 | [Velvet](https://open.spotify.com/track/368cbpZzyCxc564UhTULxA) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Velvet](https://open.spotify.com/album/2gZMDsQHC8kPl0jRhe1651) | 4:32 | 2021-12-14 | 2022-07-29 |
 | [Velvet](https://open.spotify.com/track/27EA3eyGv6Scd80kEiTvB8) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:32 | 2022-06-29 |  |
 | [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-09-13 |  |
+| [Vindarna Sucka](https://open.spotify.com/track/0gZNX4cHmPQMlnTcWgulRU) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Vindarna Sucka](https://open.spotify.com/album/336YK4Ss9MpzHEmxMCTSZQ) | 2:31 | 2022-10-13 |  |
 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 | 2021-12-14 |  |
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-08-30 |  |
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-04-26 | 2022-08-12 |

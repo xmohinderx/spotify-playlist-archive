@@ -1845,7 +1845,7 @@
     {
       "album": {
         "name": "The Real Ramona",
-        "url": "https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS"
+        "url": "https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h"
       },
       "artists": [
         {
@@ -1856,6 +1856,24 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190573,
+      "name": "Not Too Soon",
+      "url": "https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB"
+    },
+    {
+      "album": {
+        "name": "The Real Ramona",
+        "url": "https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS"
+      },
+      "artists": [
+        {
+          "name": "Throwing Muses",
+          "url": "https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 190573,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/0gvjs4NDHjwlC8fyWoOTUz"
@@ -1953,6 +1971,24 @@
     {
       "album": {
         "name": "Mild Orange",
+        "url": "https://open.spotify.com/album/21ttBqlfgrFZCmIL7xVT3Y"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251142,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3TY2qqZZhGdk7BciNr5sS5"
+    },
+    {
+      "album": {
+        "name": "Mild Orange",
         "url": "https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF"
       },
       "artists": [
@@ -1963,7 +1999,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 251142,
       "name": "One",
       "url": "https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3"

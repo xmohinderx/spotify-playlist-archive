@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-66 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
+67 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Touch of Meditation](https://open.spotify.com/track/3aTk8gqyP8cGegtVFa3vC9) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 4:03 | 2022-09-06 |  |
 | [Tranquil Desert Sanctuary](https://open.spotify.com/track/6STx8DlaC9NmtMOthYMiHO) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:54 | 2022-09-06 |  |
 | [Tranquility Sands \(Limitless\)](https://open.spotify.com/track/74K0t5QbnOBQjUtTc900u1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Tranquility Sands](https://open.spotify.com/album/3usYkjYhdS5wngDom5JVeh) | 4:12 | 2022-09-06 |  |
-| [Yeraz \(Rêverie\)](https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 2:57 | 2022-09-06 |  |
+| [Yeraz \(Rêverie\)](https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 2:57 | 2022-09-06 | 2022-10-14 |
+| [Yeraz \(Rêverie\)](https://open.spotify.com/track/4hGW5Ok07tg4YW2gwWNG03) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 2:57 | 2022-09-30 |  |
 | [Искусство цигун](https://open.spotify.com/track/6kujJnkMNAv8gaQGbTVCRz) | [Духовная медитация академия](https://open.spotify.com/artist/1xhosPIWji99GNfmj5A9uu) | [Китайская медитация беззвучного освещения \(Поиск просветления, Концентрированный ум, Единая душа, Путешествие глубокого пробуждения\)](https://open.spotify.com/album/2aZuABxTR9fF6fPklX7NM8) | 3:50 | 2022-09-06 | 2022-10-01 |
 | [الموسيقى الشرقية](https://open.spotify.com/track/0yjSKEPwxq23mlW5UKgBMI) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [إيقاعات شرقية](https://open.spotify.com/album/36MW3rnu3O3ljTirs4WrJC) | 3:38 | 2022-09-06 |  |
 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 | 2022-09-06 |  |

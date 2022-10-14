@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,343 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,344 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 50 | [We Were Beautiful](https://open.spotify.com/track/7xkcFfIfRWPbdiuUU2jvZG) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Chip Tooth Smile](https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz) | 2:55 |
 | 51 | [Dominoes](https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 5:02 |
 | 52 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 |
-| 53 | [Story Of Everything](https://open.spotify.com/track/6exGzQG7704sf82TorgroD) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 6:22 |
-| 54 | [Another One Down](https://open.spotify.com/track/5YPyp1Xshf0JpoAQ7iagns) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Another One Down](https://open.spotify.com/album/7amoi3AjgTtQqybl8VsAvI) | 3:12 |
+| 53 | [Another One Down](https://open.spotify.com/track/5YPyp1Xshf0JpoAQ7iagns) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Another One Down](https://open.spotify.com/album/7amoi3AjgTtQqybl8VsAvI) | 3:12 |
+| 54 | [Story Of Everything](https://open.spotify.com/track/6exGzQG7704sf82TorgroD) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 6:22 |
 | 55 | [One Man's Ceiling Is Another Man's Floor](https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [In the Blue Light](https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY) | 4:00 |
 | 56 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
 | 57 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Every One of Us](https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Every One of Us](https://open.spotify.com/album/4hlmMOWqxno6iFYi54UKYN) | 3:06 |
 | 60 | [Chelsea](https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Chelsea](https://open.spotify.com/album/2Fr2BpLSBpck5R21kysYox) | 4:49 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDIxY2E2MzBkMTRhMjI4NzRhMjdiODY3MTEwZDc1ZTll`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMGUwZjliMTA0NjUxMTdkYTk2N2I1ZDkwOGZkYzU2YjU0`

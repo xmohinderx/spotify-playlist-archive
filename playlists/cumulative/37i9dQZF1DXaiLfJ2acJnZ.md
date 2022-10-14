@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-189 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
+190 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [The Sun’s Gonna Rise](https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [The Sun’s Gonna Rise](https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK) | 3:28 | 2021-11-25 |  |
 | [Thinking About You](https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Thinking About You](https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu) | 3:21 | 2021-11-25 |  |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 | 2022-09-23 | 2022-10-13 |
+| [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-09-23 |  |
 | [Through the Phone](https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Through the Phone](https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2) | 3:24 | 2021-11-25 |  |
 | [Time Alone](https://open.spotify.com/track/0sjl9UqTccGjKBu0RAhGyZ) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Time Alone](https://open.spotify.com/album/1UzqPBMGLX73r3F20koZmx) | 3:13 | 2021-11-25 | 2022-07-28 |
 | [To All The Boys I’ve Loved Before](https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [To All The Boys I’ve Loved Before](https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2) | 3:08 | 2022-01-21 | 2022-09-24 |
@@ -185,7 +186,7 @@
 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 | 2021-11-25 |  |
 | [Waves of Blue](https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Waves of Blue](https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD) | 3:28 | 2022-01-21 | 2022-09-24 |
 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 | 2021-11-25 |  |
-| [When The Lights Go Out](https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out](https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv) | 3:06 | 2021-11-25 |  |
+| [When The Lights Go Out](https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out](https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv) | 3:06 | 2021-11-25 | 2022-10-14 |
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-11-25 |  |
 | [Why Can't We Get Along](https://open.spotify.com/track/36WAgkpKAbBZ1TrMWD5kCY) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Why Can't We Get Along](https://open.spotify.com/album/1shQStog5GFXwsrkQpVo9N) | 2:32 | 2022-01-14 | 2022-04-23 |
 | [Wild Side](https://open.spotify.com/track/1Wm2Oqbd0aZRDtClkVdgJJ) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [LIMBO CHERRY](https://open.spotify.com/album/0n3j7D1PuFO4poIRSm60f2) | 3:43 | 2022-01-14 | 2022-04-25 |

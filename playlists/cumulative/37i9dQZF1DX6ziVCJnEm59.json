@@ -847,6 +847,24 @@
     {
       "album": {
         "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
       },
       "artists": [
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
@@ -4021,6 +4039,28 @@
     {
       "album": {
         "name": "Weekend",
+        "url": "https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz"
+      },
+      "artists": [
+        {
+          "name": "Sumbuck",
+          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+        },
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj"
+    },
+    {
+      "album": {
+        "name": "Weekend",
         "url": "https://open.spotify.com/album/59ZTo6b3Rfc1R7K6Cwa1CH"
       },
       "artists": [
@@ -4035,7 +4075,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 147000,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/3p0kes1amIxF9ucjtclpYm"

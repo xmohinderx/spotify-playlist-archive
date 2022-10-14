@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 950768,
+  "num_followers": 952836,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYxMzc5OCwwMDAwMDAwMGNmMjNlOWFlOWZjYTlkODI5MTg1NTk0Y2Y2Yzc1OGMy",
+  "snapshot_id": "MTY2NTYxMzc5OCwwMDAwMDAwMGEyOTMyY2FkNTVmOGIyNDI0NWEyZWMxMDk0YzFiNjk0",
   "tracks": [
     {
       "added_at": "2022-10-07 09:48:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 193080,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -395,22 +395,6 @@
       "duration_ms": 199514,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -543,22 +527,6 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Beach Baby",
-      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
         "name": "Coffee Breath",
         "url": "https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 163902,
       "name": "Coffee Breath",
       "url": "https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -675,22 +659,6 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 204770,
-      "name": "party favor",
-      "url": "https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
         "name": "Teenage Mind",
         "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
       },
@@ -703,6 +671,22 @@
       "duration_ms": 155205,
       "name": "Teenage Mind",
       "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 204770,
+      "name": "party favor",
+      "url": "https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -867,22 +851,6 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "Demons and Monsters",
-        "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 197902,
-      "name": "Demons and Monsters",
-      "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
         "name": "dream girl",
         "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
       },
@@ -895,6 +863,22 @@
       "duration_ms": 87408,
       "name": "dream girl",
       "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
+        "name": "Demons and Monsters",
+        "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 197902,
+      "name": "Demons and Monsters",
+      "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -947,26 +931,6 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "You Don't Want Me Anymore",
-        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
-      },
-      "artists": [
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        },
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "You Don't Want Me Anymore",
-      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
@@ -983,6 +947,26 @@
       "duration_ms": 150415,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
+        "name": "You Don't Want Me Anymore",
+        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        },
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "You Don't Want Me Anymore",
+      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
+        "name": "Star Shopping",
+        "url": "https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Star Shopping",
+      "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
         "name": "A Black Mile To The Surface",
         "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "What If I Told You That I Love You",
-        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 193667,
-      "name": "What If I Told You That I Love You",
-      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "What's Wrong",
-        "url": "https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse"
+        "name": "What If I Told You That I Love You",
+        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
       },
       "artists": [
         {
-          "name": "Elliott Fullam",
-          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 214455,
-      "name": "I'm So Happy",
-      "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
+      "duration_ms": 193667,
+      "name": "What If I Told You That I Love You",
+      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -1415,6 +1399,22 @@
       "duration_ms": 207509,
       "name": "is your bedroom ceiling bored? (feat. Cavetown)",
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
+        "name": "What's Wrong",
+        "url": "https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse"
+      },
+      "artists": [
+        {
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "I'm So Happy",
+      "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
     },
     {
       "added_at": "2022-10-07 09:48:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-10-07 09:48:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "i will follow you into the dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
-    },
-    {
-      "added_at": "2022-10-07 09:48:00",
-      "album": {
         "name": "ALLERGIC",
         "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 155200,
       "name": "ALLERGIC",
       "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
+    },
+    {
+      "added_at": "2022-10-07 09:48:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "i will follow you into the dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
       "added_at": "2022-10-07 09:48:00",

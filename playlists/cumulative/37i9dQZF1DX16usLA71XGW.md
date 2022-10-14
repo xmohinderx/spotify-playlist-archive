@@ -4,7 +4,7 @@
 
 > East Africa Queens in their musical element.
 
-72 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
+73 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Money](https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [MONEY](https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony) | 2:54 | 2022-07-18 |  |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-07-18 |  |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 |  |
-| [Nabo](https://open.spotify.com/track/2ounUVg5MLgyykUalI0VsC) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [NABO](https://open.spotify.com/album/0dEvZv2bvBamdD39FOIpv1) | 2:37 | 2022-07-18 |  |
+| [Nabo](https://open.spotify.com/track/2ounUVg5MLgyykUalI0VsC) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [NABO](https://open.spotify.com/album/0dEvZv2bvBamdD39FOIpv1) | 2:37 | 2022-07-18 | 2022-10-14 |
 | [Ndaga](https://open.spotify.com/track/07QL7I0hus6iP59GPUqwhy) | [Irene Ntale](https://open.spotify.com/artist/1jDjOhgibO7KheCwzZ1W5W) | [Ndaga](https://open.spotify.com/album/3rKkCRAuaWHPOZF07ds6H7) | 3:12 | 2022-07-18 |  |
 | [Never Ever](https://open.spotify.com/track/19aCgeY2NVaGsZLEd6aTWh) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 2:54 | 2022-07-18 |  |
 | [Ningwetele](https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP) | [Dhahabu](https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU) | [Ningwetele](https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w) | 3:16 | 2022-07-18 |  |
@@ -55,6 +55,7 @@
 | [Njiira Love](https://open.spotify.com/track/462ozq0tVcoq50ZjaM2lWs) | [Sheebah Karungi](https://open.spotify.com/artist/5HwCHe2TkWMfGGpk2A8aku), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Njiira Love](https://open.spotify.com/album/3JFPB4w1ZhFDE1QAgz58F2) | 2:32 | 2022-07-18 |  |
 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 |  |
 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-07-18 |  |
+| [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 |  |
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-07-18 |  |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-18 |  |
 | [Penzi Wa Kasi](https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:44 | 2022-09-20 |  |

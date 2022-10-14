@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-212 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+215 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Roots](https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Roots](https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD) | 3:13 | 2022-06-17 |  |
 | [Rosarium](https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Rosarium](https://open.spotify.com/album/3tHJOtzuJHpngvUnvsHBXL) | 2:25 | 2022-06-17 |  |
 | [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 |  |
+| [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 |  |
 | [San Sebastian](https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV) | [Henry Auguste](https://open.spotify.com/artist/7BYBlt9RAGjzI4QG0ZapUh) | [San Sebastian](https://open.spotify.com/album/0ov4xgE4lpfucMLPm4twXP) | 1:52 | 2022-06-17 |  |
 | [Saramjan](https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Saramjan](https://open.spotify.com/album/4HDS8pE5Mm1MMA3Gahxt6y) | 2:17 | 2022-06-17 |  |
 | [Satélite](https://open.spotify.com/track/4bACm2m5ym6bX4QaPbUwYX) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Satélite](https://open.spotify.com/album/5Y6HlNBOqKWJEdEohqgcN2) | 2:28 | 2022-10-07 |  |
@@ -197,10 +198,12 @@
 | [The Day We Met](https://open.spotify.com/track/2jkeX1SMWAkMTHeigflbjh) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Deep Blue Sea](https://open.spotify.com/album/44rNLzjZt8NJYwrfOv5dO8) | 2:41 | 2022-06-17 |  |
 | [The Good Choice](https://open.spotify.com/track/3G4ExFqeptnGm7581Aqj82) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [The Good Choice](https://open.spotify.com/album/5LdhdJSDjnRnxaB3cUl6Ka) | 3:56 | 2022-06-17 |  |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 |  |
+| [Today Tomorrow Forever](https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Today Tomorrow Forever](https://open.spotify.com/album/57ormTTFRD4IzjobtB49RC) | 3:25 | 2022-10-14 |  |
 | [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 1:41 | 2022-06-17 |  |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 |  |
 | [Tranquility](https://open.spotify.com/track/0TACgDNHOuXWhcxAU3dKKz) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Tranquility](https://open.spotify.com/album/1HDfO5DAyhOr1HjHBApgvS) | 2:25 | 2022-06-17 |  |
 | [Traveling Home](https://open.spotify.com/track/6UpA9GfzGPuny8IzZHu3ce) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Traveling Home](https://open.spotify.com/album/42UuqeNyhpaG8Le833PpRX) | 3:13 | 2022-10-07 |  |
+| [Traveling Sunset](https://open.spotify.com/track/5yf5lrd0n9SUGyrEDoGb1I) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Traveling Sunset](https://open.spotify.com/album/63vO3TWmFFBV1nNhNhbsPR) | 2:13 | 2022-10-14 |  |
 | [Triste](https://open.spotify.com/track/1sz5nK8klruuA3wyUilEKB) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Triste](https://open.spotify.com/album/7FGCrHscT6y5OwLDIYKj3O) | 4:03 | 2022-07-15 |  |
 | [Two Years of Solitude](https://open.spotify.com/track/5xjHdFsOlRgdnu6RJTqpwV) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:25 | 2022-06-17 |  |
 | [Una Nueva Frontera](https://open.spotify.com/track/6pMVwNAVEW1zABrAAKY5sD) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Una Nueva Frontera](https://open.spotify.com/album/7BXWsrOKF9NG5HNerJ8MpB) | 1:57 | 2022-07-01 |  |

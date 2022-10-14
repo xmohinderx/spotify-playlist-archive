@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-408 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/3vJ4qB7BMV10tBofkiawS6)
+409 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/3vJ4qB7BMV10tBofkiawS6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Como tu](https://open.spotify.com/track/3w90PBDM6V9hjr7bdtOoi1) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [15 Exitos de Lupita D'alessio Volume II](https://open.spotify.com/album/3vxoGTMmDuVNggAVzC3e3N) | 3:02 | 2021-12-21 | 2022-07-29 |
 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 | 2021-12-21 |  |
 | [Como Un Títere](https://open.spotify.com/track/2e7i3T6r7VXbma0241Xc24) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol II](https://open.spotify.com/album/3I44HtMOglmPgkCT8SbOt6) | 3:49 | 2021-12-21 | 2022-07-29 |
+| [Como Un Títere](https://open.spotify.com/track/00mRCCkOdOTYHJiebHpXtZ) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 3:49 | 2021-12-21 |  |
 | [Como Una Mariposa](https://open.spotify.com/track/5y7f3QNkfq6jxRbi7nOx4T) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Otra Vez](https://open.spotify.com/album/6K9mQMZejVTCBsXs6wtizd) | 3:22 | 2021-12-21 | 2022-07-01 |
 | [Como yo te amo](https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Y..\. sigo mi camino](https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3) | 4:39 | 2021-12-21 |  |
 | [Con el Viento a Tu Favor](https://open.spotify.com/track/25U61HewnPiN12BaBYrqQL) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Esencial Camilo Sesto](https://open.spotify.com/album/30vyx9a1RtXWYhivevo7pT) | 3:01 | 2021-12-21 | 2022-07-29 |
@@ -414,7 +415,7 @@
 | [¿Y Qué?](https://open.spotify.com/track/4TZdC8azeblwQqbvFotNvS) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 3:05 | 2021-12-21 | 2022-07-29 |
 | [¿Y Tu Como Estas?](https://open.spotify.com/track/3bGaS9aPbKaZGWv70JF3Ri) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Singles](https://open.spotify.com/album/4JJHICkORaZxfyUZ3So74m) | 4:12 | 2021-12-21 | 2022-07-28 |
 | [Ámame Una Vez Más](https://open.spotify.com/track/49Zh5cWvgwk1352FiI7glK) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Amame Una Vez Más \(Remasterizado\)](https://open.spotify.com/album/7GZNXAkX7uatFy1v8UIzsA) | 4:26 | 2021-12-21 | 2022-07-28 |
-| [Ámame Una Vez Más](https://open.spotify.com/track/6IfByzdeGt3iIsakTp16vz) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Ámame una Vez Más](https://open.spotify.com/album/6dJECzpTes2ZmA1U2meJlb) | 4:26 | 2021-12-21 |  |
+| [Ámame Una Vez Más](https://open.spotify.com/track/6IfByzdeGt3iIsakTp16vz) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Ámame una Vez Más](https://open.spotify.com/album/6dJECzpTes2ZmA1U2meJlb) | 4:26 | 2021-12-21 | 2022-10-14 |
 | [Él Me Engañó](https://open.spotify.com/track/5jE2VcD2u624PI41QCyUEn) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [24 Kilates](https://open.spotify.com/album/11Dc6ovCARdw2zY6BRkYuw) | 4:07 | 2021-12-21 | 2022-07-21 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

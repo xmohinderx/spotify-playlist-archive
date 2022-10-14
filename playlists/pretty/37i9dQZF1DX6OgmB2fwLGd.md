@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,644 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,301 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 70 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
 | 71 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 |
 | 72 | [Step 1 \(with Offset\)](https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Step 1](https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf) | 2:57 |
-| 73 | [12 Stout Street](https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/2CKbsapMFGNtTVe9BneTgh) | 1:58 |
+| 73 | [12 Stout Street](https://open.spotify.com/track/7x8O57b6oXzmbwANbSy2wq) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/1KJbUGHHOEQfz3MZM9Qk9E) | 1:58 |
 | 74 | [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 |
 | 75 | [Internet Shooter](https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [Internet Shooter](https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M) | 1:57 |
 | 76 | [Living with Passion](https://open.spotify.com/track/4g6wkPxpmgBlC6rAtHyaWM) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Soda & Syrup](https://open.spotify.com/album/1XTk34A8ouLWhEWZ71EIig) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
 | 100 | [Lift Yourself](https://open.spotify.com/track/3uYDO9dPLTVrgfwg7EYXSf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Lift Yourself](https://open.spotify.com/album/2hTxwsnzU7h15XcAUWSME8) | 2:27 |
 
-Snapshot ID: `MTY2NTQ5NzgzNiwwMDAwMDAwMGIyMTM3Y2JiMTI3OWM2NjkwMWJmZDBjYzcxNmI0Zjc2`
+Snapshot ID: `MTY2NTQ5NzgzNiwwMDAwMDAwMGMxZTE5NjkzYTYwY2QzMjNkZDhlOTkwNTgyYjlkMjkx`

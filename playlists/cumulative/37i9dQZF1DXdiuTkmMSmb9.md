@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Oxlade
 
-175 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+176 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Okay](https://open.spotify.com/track/5DXRCUXssxlsM8mHQpT4Ej) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Okay](https://open.spotify.com/album/4lcZJepsDpN3YmtJidQwQp) | 2:48 | 2022-09-05 | 2022-09-09 |
 | [On Di Low](https://open.spotify.com/track/4bcpjP8x9RovEBXVZwqZeB) | [Alutondo](https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [On Di Low](https://open.spotify.com/album/2gtTIIBEINcTUUFIHv7Mm5) | 3:39 | 2022-08-25 |  |
 | [ONE MORE NIGHT](https://open.spotify.com/track/6gNU7w0XIn0OPv3xsQM713) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [ONE MORE NIGHT](https://open.spotify.com/album/4UI8mlzCWOAbApGZJDgNbX) | 2:15 | 2022-07-18 | 2022-08-26 |
+| [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 |  |
 | [OT](https://open.spotify.com/track/77JvN2qVTXH7NwHO581i5F) | [DENZ](https://open.spotify.com/artist/1yvT6bvlI4747X4WzYH941) | [OT](https://open.spotify.com/album/0CzGGkb19nTxjShYH9D7Xf) | 3:12 | 2022-07-18 |  |
 | [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-07-18 |  |
 | [Passenger](https://open.spotify.com/track/787aw5c6BJrYEtcByBq3xW) | [CHĀNJE](https://open.spotify.com/artist/28tAPuiLexSD0q65XDQ59i), [Partyateleven](https://open.spotify.com/artist/6YhLewrpSbbjRPCvIvbM78) | [Passenger](https://open.spotify.com/album/6T88CkQN3aha3WZy7e2nac) | 3:40 | 2022-07-18 | 2022-08-12 |

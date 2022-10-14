@@ -1,29 +1,13 @@
 {
   "description": "Soft instrumental Jazz for working or studying.",
-  "num_followers": 196544,
+  "num_followers": 196608,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMDIxOSwwMDAwMDAwMDhhMTcwMGE0YTIwYWYxN2MwZDFjMTk4YTQyMjIyN2Yw",
+  "snapshot_id": "MTY2NTEzMDIxOSwwMDAwMDAwMGM5MGNkYjIxOTVlNDkxMzY3MWRkOWFhNjg0YWFlNWEy",
   "tracks": [
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "Gary's Theme - Remastered",
-      "url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
-    },
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 191866,
       "name": "Nancy (With The Laughing Face)",
       "url": "https://open.spotify.com/track/2HdvZsLXBmO9sc4cV8d4BA"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Gary's Theme - Remastered",
+      "url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -103,6 +103,22 @@
       "duration_ms": 146773,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -163,22 +179,6 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Your Host",
-      "url": "https://open.spotify.com/track/0FYVPV8QxPW9MyAyeESAFy"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Your Host",
+      "url": "https://open.spotify.com/track/0FYVPV8QxPW9MyAyeESAFy"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 354666,
       "name": "Young And Foolish",
       "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "It's Easy To Remember",
-      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
-        "name": "This Is Jazz #14",
-        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 201173,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -531,6 +531,54 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
+        "name": "Oscar Peterson: Hits & Rarities",
+        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 234573,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/47g4fOuXxI3ri3YSCMt532"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
         "name": "Quiet Nights of Quiet Songs",
         "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
       },
@@ -559,38 +607,6 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 234573,
-      "name": "Long Ago And Far Away",
-      "url": "https://open.spotify.com/track/47g4fOuXxI3ri3YSCMt532"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "Oscar Peterson: Hits & Rarities",
-        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 250853,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
         "name": "Joshua Redman",
         "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
@@ -603,42 +619,6 @@
       "duration_ms": 290466,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 358360,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -671,6 +651,26 @@
       "duration_ms": 197426,
       "name": "That Ole Devil Called Love",
       "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 358360,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
-        "name": "The Gene Ammons Story: Gentle Jug",
-        "url": "https://open.spotify.com/album/0CCKExA36huR4N871Qkszm"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 430293,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
         "name": "Blues-A-Plenty",
         "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 219680,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "The Gene Ammons Story: Gentle Jug",
+        "url": "https://open.spotify.com/album/0CCKExA36huR4N871Qkszm"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 430293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
-        "name": "Ben Webster and Associates",
-        "url": "https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
         "name": "Oscar Peterson For Lovers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 280866,
       "name": "Time And Again",
       "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "Ben Webster and Associates",
+        "url": "https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz Quartet",
+          "url": "https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/0kuEM0rW8eZgIEXoaqISxD"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
         "name": "Jazz 'N' Samba",
         "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 575173,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz Quartet",
-          "url": "https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/0kuEM0rW8eZgIEXoaqISxD"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
+        "name": "Fellowship",
+        "url": "https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF"
+      },
+      "artists": [
+        {
+          "name": "Glenn Zaleski",
+          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+        }
+      ],
+      "duration_ms": 417586,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 362040,
       "name": "With A Little Bit Of Luck - Instrumental",
       "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/41qjon5P0cQcGAGkWP8VKa"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 301680,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/7cB9JASnipEy8pASGqu74J"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -1487,34 +1487,18 @@
     {
       "added_at": "2022-10-05 12:43:07",
       "album": {
-        "name": "Fellowship",
-        "url": "https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/41qjon5P0cQcGAGkWP8VKa"
       },
       "artists": [
         {
-          "name": "Glenn Zaleski",
-          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
         }
       ],
-      "duration_ms": 417586,
-      "name": "Fellowship",
-      "url": "https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1"
-    },
-    {
-      "added_at": "2022-10-05 12:43:07",
-      "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Danny Boy",
-      "url": "https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ"
+      "duration_ms": 301680,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/7cB9JASnipEy8pASGqu74J"
     },
     {
       "added_at": "2022-10-05 12:43:07",
@@ -1531,6 +1515,22 @@
       "duration_ms": 354013,
       "name": "Subdued - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC"
+    },
+    {
+      "added_at": "2022-10-05 12:43:07",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ"
     },
     {
       "added_at": "2022-10-05 12:43:07",

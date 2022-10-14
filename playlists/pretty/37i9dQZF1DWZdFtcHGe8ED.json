@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Slayer",
-  "num_followers": 477477,
+  "num_followers": 477611,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDhkZTVhOWIxMGI1M2Y4YmMzZTUxMDVkMWFjNTRlNDE5",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMGJhMmExODBiNWM3N2RmYzVhYmYwZmY3ODM5YWJhNjlj",
   "tracks": [
     {
       "added_at": "2022-09-09 13:00:00",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
-      "added_at": "2022-10-13 01:34:17",
+      "added_at": "2022-10-14 01:43:45",
       "album": {
         "name": "Seven Words",
         "url": "https://open.spotify.com/album/0K1aAagoaaplNXP2vHRSkM"
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Persona Non Grata",
-        "url": "https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "The Beatings Will Continue (Until Morale Improves)",
-      "url": "https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Metal Church",
         "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 302360,
       "name": "Metal Church",
       "url": "https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Persona Non Grata",
+        "url": "https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "The Beatings Will Continue (Until Morale Improves)",
+      "url": "https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv"
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
       },
       "artists": [
         {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
         }
       ],
-      "duration_ms": 229733,
-      "name": "112",
-      "url": "https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf"
+      "duration_ms": 173187,
+      "name": "Filth Upon Filth",
+      "url": "https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Totem",
-        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 173187,
-      "name": "Filth Upon Filth",
-      "url": "https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Re-Kill",
         "url": "https://open.spotify.com/album/7hNLVrrT1IUaqM9ltDwGWl"
       },
@@ -695,6 +679,38 @@
       "duration_ms": 195573,
       "name": "King of the Kill - 2013 Version",
       "url": "https://open.spotify.com/track/1gEV4KEZ7QNo7hO8ClhIGl"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "112",
+      "url": "https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Bonded by Blood",
+      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -727,22 +743,6 @@
       "duration_ms": 277333,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Bonded by Blood",
-      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Strike of the Beast",
+      "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
         "url": "https://open.spotify.com/album/0GRJggdZjtFQLzhznZvxFL"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 274310,
       "name": "Holding My Breath",
       "url": "https://open.spotify.com/track/4JTbBZhYkqc8lcAC4DNawJ"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Strike of the Beast",
-      "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
+        "name": "An Overdose of Death...",
+        "url": "https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU"
       },
       "artists": [
         {
-          "name": "Metal Church",
-          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+          "name": "Toxic Holocaust",
+          "url": "https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Start the Fire",
-      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
+      "duration_ms": 167800,
+      "name": "Nuke The Cross",
+      "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "An Overdose of Death...",
-        "url": "https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU"
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
       },
       "artists": [
         {
-          "name": "Toxic Holocaust",
-          "url": "https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0"
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
         }
       ],
-      "duration_ms": 167800,
-      "name": "Nuke The Cross",
-      "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
+      "duration_ms": 225800,
+      "name": "Start the Fire",
+      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Doomsday for the Deceiver",
-        "url": "https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "Hammerhead",
-      "url": "https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Worlds Torn Asunder",
         "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 261560,
       "name": "Living Weapon",
       "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Doomsday for the Deceiver",
+        "url": "https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "Hammerhead",
+      "url": "https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2"
-      },
-      "artists": [
-        {
-          "name": "Hirax",
-          "url": "https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm"
-        }
-      ],
-      "duration_ms": 107773,
-      "name": "Bombs of Death",
-      "url": "https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Mental Vortex",
         "url": "https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 330986,
       "name": "Semtex Revolution",
       "url": "https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2"
+      },
+      "artists": [
+        {
+          "name": "Hirax",
+          "url": "https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm"
+        }
+      ],
+      "duration_ms": 107773,
+      "name": "Bombs of Death",
+      "url": "https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Assault",
-          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Electrified Brain",
         "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 162306,
       "name": "Crank The Heat",
       "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Assault",
+          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Generation Antichrist",
-        "url": "https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Strike Fast Strike Hard",
-      "url": "https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "To Mega Therion (Expanded Version)",
         "url": "https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 267226,
       "name": "Circle of the Tyrants",
       "url": "https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Generation Antichrist",
+        "url": "https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Strike Fast Strike Hard",
+      "url": "https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Chemical Exposure",
-        "url": "https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT"
+        "name": "Primal Future: 2019",
+        "url": "https://open.spotify.com/album/3GC8hY4NnN4YDlHMJARwsD"
       },
       "artists": [
         {
-          "name": "Sadus",
-          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
+          "name": "Toxic Holocaust",
+          "url": "https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0"
         }
       ],
-      "duration_ms": 254826,
-      "name": "Certain Death",
-      "url": "https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt"
+      "duration_ms": 254143,
+      "name": "New World Beyond",
+      "url": "https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84"
     }
   ],
   "unique_name": "Thrashers",

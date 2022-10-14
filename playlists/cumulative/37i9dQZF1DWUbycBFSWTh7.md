@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-110 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+114 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Clap & Stomp](https://open.spotify.com/track/5Cs8GSuYsD7gSq0lbL5hqC) | [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi) | [Return of the Private Party](https://open.spotify.com/album/55SMgIcyCEkwCEv2ahugt7) | 5:37 | 2022-09-15 |  |
 | [Closer](https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 7:04 | 2022-09-15 |  |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-09-15 |  |
+| [Desire](https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Desire](https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o) | 5:52 | 2022-10-13 |  |
 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 | 2022-09-15 |  |
 | [Do Ya Thing](https://open.spotify.com/track/6p8KTDXZpsdaj8HaLvAoRJ) | [Oby Nine](https://open.spotify.com/artist/5ZILxFOm3W0ElCBd6XNpAt) | [Do Ya Thing](https://open.spotify.com/album/66ZRe9Jv7bXVMl5okoncwO) | 3:18 | 2022-09-15 |  |
 | [Don't Want It \- Fouk Remix](https://open.spotify.com/track/15uutBzggXQsR19xARHl3f) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Don't Want It \(Fouk Remix\)](https://open.spotify.com/album/4n4sqDenZwDpJq9skJVTVJ) | 5:51 | 2022-09-15 |  |
@@ -37,6 +38,7 @@
 | [Floating](https://open.spotify.com/track/7bMytRkSbif4ep0bbm2dgA) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG) | [The Young Ones EP](https://open.spotify.com/album/5zJbLbWnj2LUvTDvPXVFXD) | 4:39 | 2022-09-15 |  |
 | [For Friends](https://open.spotify.com/track/7KJTx0xHTJwA6kqyLV19E2) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [For Friends](https://open.spotify.com/album/2R2pvXZmY7YFfASEXBmvpS) | 6:36 | 2022-09-15 |  |
 | [For The People](https://open.spotify.com/track/4rHcrEa2KGBka5qLmJQUKX) | [Eddie C](https://open.spotify.com/artist/7fucM325lXZs0cfgV9dpS3) | [For The People](https://open.spotify.com/album/2lZl2dsLURPYeI46Lt9eiu) | 6:11 | 2022-09-15 |  |
+| [Forever Whatever](https://open.spotify.com/track/1XMqiASp1EugE2Vzc7UmuH) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Trembala](https://open.spotify.com/album/3ZqhaGJ43PmogKRdwOX3w2) | 7:50 | 2022-10-13 |  |
 | [Friki](https://open.spotify.com/track/3ZYOwmTAkBqbVVWkuerrGD) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Era E.P.](https://open.spotify.com/album/4Cxzpd11XkfbuA7TPs7cWJ) | 4:21 | 2022-09-15 |  |
 | [Fruitless](https://open.spotify.com/track/78DKBZtIi968rlYrvTAINt) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Kabbina](https://open.spotify.com/artist/09quqGQT73S32UhGAucXAf) | [Fruitless EP](https://open.spotify.com/album/6ROFvm3dAUknf2dy0fWwTA) | 6:19 | 2022-09-15 |  |
 | [Good High](https://open.spotify.com/track/1SxO0Ah8zvoRwxq83RZqWk) | [Deeleegenz](https://open.spotify.com/artist/51Owzst8mz8gEYdXQXyLkq) | [Good High](https://open.spotify.com/album/5OZ677vM7vbNnuKPVgz5rt) | 5:59 | 2022-09-15 |  |
@@ -57,6 +59,7 @@
 | [Krimson Blossom](https://open.spotify.com/track/3fdMAQyBZlm3XyBg6UhsMn) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS) | [Krimson Blossom](https://open.spotify.com/album/1kUwGOyfk9jURTeGYOuKB5) | 5:35 | 2022-09-15 |  |
 | [Learn to Love](https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Learn to Love](https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9) | 5:02 | 2022-10-06 |  |
 | [Lecture Day](https://open.spotify.com/track/6sMBkOWMJbDmii1r58P32I) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh) | [Lecture Day EP](https://open.spotify.com/album/07WAV8w7gtmYnvgBobXozj) | 6:34 | 2022-09-15 |  |
+| [Let Go](https://open.spotify.com/track/67OC6FNZ7gfQ0FsXUr5gnI) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Let Go](https://open.spotify.com/album/0Z1WHrjtdt8oCjEQrgIf1e) | 3:44 | 2022-10-13 |  |
 | [Lifted](https://open.spotify.com/track/4917oCInRqYqJVu4GmjEuK) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun EP](https://open.spotify.com/album/7iNiSkKg5xuNoaPo2IlfEi) | 6:56 | 2022-09-15 |  |
 | [Like That](https://open.spotify.com/track/0h7sggAJvhPkf7znFFxBF9) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Like That](https://open.spotify.com/album/2JKZyi8XcLI9nftHmicdr3) | 3:35 | 2022-09-15 |  |
 | [Lose Yourself](https://open.spotify.com/track/0MSuNP3R7SziYnf8Ve4Hdl) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Lose Yourself](https://open.spotify.com/album/3RG8gW5oohnm5MNlDxWvTN) | 3:10 | 2022-09-15 |  |
@@ -113,6 +116,7 @@
 | [Wanna Get High?](https://open.spotify.com/track/6lrQqRqjfAX1caZ29PYyDs) | [Francesco Pico](https://open.spotify.com/artist/6MLTrcIa71KDQTTMpLRZUn) | [Perpetual E\-Motion \(Episode 5: Whanna Get High?\)](https://open.spotify.com/album/5MyDMn977sdt8kcR04EbLC) | 7:35 | 2022-09-15 |  |
 | [We Gotta Wake This World Up From Its Sleep](https://open.spotify.com/track/5AZTH04m9hsFO1EIGUpGLw) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [We Gotta Wake This World Up From Its Sleep](https://open.spotify.com/album/2bdA5I5Sn4XjBu9dxEF6Qx) | 5:51 | 2022-09-15 |  |
 | [Whatever](https://open.spotify.com/track/2UXF6Sz2y6cYk1tF5f1X7U) | [Kreech](https://open.spotify.com/artist/5ZcXIQ6novByvRJGlTebf3) | [Whatever](https://open.spotify.com/album/56tNvvH9GzTsPRhNuriPK0) | 3:46 | 2022-09-15 |  |
+| [When I Think Of You](https://open.spotify.com/track/2vi0ybMrsarWaxKFamBt1k) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh) | [When I Think Of You](https://open.spotify.com/album/78M3oJHH65ZP4V03QoEf04) | 7:22 | 2022-10-13 |  |
 | [Without You](https://open.spotify.com/track/2gJKKQbQnlkSETAYH0aVuc) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Edwin Oosterwal](https://open.spotify.com/artist/5Uxtm1bgCt8Fe7Dzr0pQzA) | [Without You](https://open.spotify.com/album/2JzfY0rPZuMF108kh8uB43) | 6:31 | 2022-09-15 |  |
 | [Woza](https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Linos Rosetta](https://open.spotify.com/artist/6xw7X7OPtVBwDZhFSbVMWO) | [Woza](https://open.spotify.com/album/0BKzS7GdsxwJ5m4dLwZMbg) | 4:19 | 2022-09-15 |  |
 | [Yipalo](https://open.spotify.com/track/1soxvPNeBojuyZIMFmpDZz) | [Ribas Abbas](https://open.spotify.com/artist/4juB9Jqv2v88qmIhZOT088) | [Yipalo](https://open.spotify.com/album/7oPSQ8xywCGe14Jk2QBus9) | 5:47 | 2022-09-15 |  |

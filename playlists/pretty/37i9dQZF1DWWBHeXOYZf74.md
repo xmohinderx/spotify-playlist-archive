@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Smino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,674 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,653 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 60 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 61 | [Hologram](https://open.spotify.com/track/0F2zGnaOrsVCOD900FebJk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/30ef2BpCTTCbxFFucsENZj) | 3:26 |
 | 62 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
-| 63 | [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 |
+| 63 | [Seasons Change](https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u) | 2:29 |
 | 64 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 |
 | 65 | [Kali](https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Kali](https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK) | 3:33 |
 | 66 | [DIP! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 79 | [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 |
 | 80 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 |
 | 81 | [Doin' Right](https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Doin' Right](https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn) | 2:35 |
-| 82 | [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 |
+| 82 | [GHOST](https://open.spotify.com/track/0IeXfesZzA5Qmr5Y74an40) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/5JLmTTHBCVrpvwMh7UHEax) | 2:43 |
 | 83 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
 | 84 | [BOWLiNG \(feat\. Thundercat\)](https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 1:59 |
 | 85 | [Spinal Tap](https://open.spotify.com/track/4sKEEaJdIlz9M5OOD63gEe) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [deem spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Michael Wolever](https://open.spotify.com/artist/4UegsLqcGpx2enxOUqmOyH) | [Spinal Tap](https://open.spotify.com/album/1WmKwevODNmF9wJ1fxQ5LD) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Lullaby](https://open.spotify.com/track/1fTvkU6kdBi5PIvljWboKt) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Lullaby](https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc) | 3:06 |
 | 100 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
 
-Snapshot ID: `MTY2NTE2Mjc3MywwMDAwMDAwMDk5ZjYyMTEyMzcyNjY2NTA2MmQ1NzIwZDg0YzA1NzAy`
+Snapshot ID: `MTY2NTE2Mjc3MywwMDAwMDAwMDk3ZDgyZmFjMzk0ZjkzY2U4NzhlYWE0YTlhYTVjYzg2`

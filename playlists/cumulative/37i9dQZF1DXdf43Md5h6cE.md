@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-93 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+94 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 | 2022-07-08 |  |
 | [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-11 |  |
 | [Ghost](https://open.spotify.com/track/1W2wqz5nQEafZZWXbESetq) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 3:04 | 2022-05-19 |  |
-| [glowing aura](https://open.spotify.com/track/2Oln7IKNcflZzS8Z9WMj5f) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/1stXAsb8qN1pDW5FLj1Kd9) | 3:29 | 2022-08-05 |  |
+| [glowing aura](https://open.spotify.com/track/2Oln7IKNcflZzS8Z9WMj5f) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/1stXAsb8qN1pDW5FLj1Kd9) | 3:29 | 2022-08-05 | 2022-10-14 |
+| [glowing aura](https://open.spotify.com/track/2UPdvPrgmcRo9bJjaQl2u2) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/23RjYjNtjkFYYlUk793H3Q) | 3:29 | 2022-10-04 |  |
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-05-19 |  |
 | [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 | 2022-05-19 |  |
 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 | 2022-05-19 |  |

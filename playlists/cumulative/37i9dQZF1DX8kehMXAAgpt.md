@@ -4,7 +4,7 @@
 
 > Workout music for hamsters.
 
-44 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/7kWSdWcCJPk2TXY65mMg6G)
+45 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/7kWSdWcCJPk2TXY65mMg6G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Isis](https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Isis](https://open.spotify.com/album/361T1uXWyuak02E2W6tBs8) | 3:56 | 2020-01-10 |  |
 | [Istanbul](https://open.spotify.com/track/18loeUgThthiQpVNKqoZUP) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Istanbul](https://open.spotify.com/album/3fETmw1u0SMdafAB7w5Wr1) | 2:25 | 2020-01-10 | 2022-07-29 |
 | [Istanbul](https://open.spotify.com/track/2wC9IS3UDMfIUGd9JvxUVA) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Istanbul](https://open.spotify.com/album/6N5xZRg1WFFFSLQ76kn0Kp) | 2:25 | 2020-01-10 |  |
-| [Lullaby](https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Lullaby](https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm) | 2:40 | 2020-01-10 |  |
+| [Lullaby](https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Lullaby](https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm) | 2:40 | 2020-01-10 | 2022-10-14 |
+| [Lullaby](https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5) | 2:40 | 2020-01-10 |  |
 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 | 2020-01-10 |  |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2020-01-10 |  |
 | [My Year](https://open.spotify.com/track/1N8moY6H0eThviK71VhTzY) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [GASHI](https://open.spotify.com/album/1fd9ERd2XLppseTB8bTbBW) | 3:10 | 2020-01-10 |  |

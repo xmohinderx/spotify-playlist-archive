@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 22405,
+  "num_followers": 22448,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyMDQzOCwwMDAwMDAwMDRlMmRmYTc4ODVjYWFhZTVjMGRjYmZlYTZiZjYxMDUz",
+  "snapshot_id": "MTY2NDUyMDQzOCwwMDAwMDAwMDNjMDZlNjFiOWViZjViYTViMjExZDBkYzc0MjQ5NjRi",
   "tracks": [
     {
       "added_at": "2022-09-09 09:05:38",
@@ -395,26 +395,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "These Same Skies (Live)",
-        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 274534,
-      "name": "That's The Power - Live",
-      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 218506,
       "name": "Know You Will",
       "url": "https://open.spotify.com/track/5PrA5flawVAz8XTBsli1JV"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "These Same Skies (Live)",
+        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 274534,
+      "name": "That's The Power - Live",
+      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Eze Ebube II",
-        "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 432288,
-      "name": "Eze Ebube II",
-      "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
-    },
-    {
       "added_at": "2022-06-09 11:11:30",
       "album": {
         "name": "Heal Our Land (Live)",
@@ -1351,6 +1335,22 @@
       "duration_ms": 461003,
       "name": "Spontaneous Worship 1 - Live",
       "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Eze Ebube II",
+        "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 432288,
+      "name": "Eze Ebube II",
+      "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1433,24 +1433,20 @@
       "url": "https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K"
     },
     {
-      "added_at": "2022-06-09 11:11:30",
+      "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Yahweh: Song of Moses",
-        "url": "https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0e00XQl6SWnwNXVh6WRrc4"
       },
       "artists": [
         {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        },
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+          "name": "Password",
+          "url": "https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI"
         }
       ],
-      "duration_ms": 464348,
-      "name": "Yahweh: Song of Moses",
-      "url": "https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0"
+      "duration_ms": 320294,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/1SM0jKwjVaAMgVAX7LKgNi"
     }
   ],
   "unique_name": "Be Lifted ",

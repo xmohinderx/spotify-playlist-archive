@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-117 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
+118 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-08-18 |  |
 | [Angela](https://open.spotify.com/track/7mzxizPHaVjzk90MGlreII) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Angela](https://open.spotify.com/album/58n25NEK3FhOFptQbRvpbO) | 3:57 | 2022-08-18 |  |
 | [April In Paris](https://open.spotify.com/track/5rPMbUxXRXvWu89k0n6Sxj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:07 | 2022-08-18 | 2022-09-09 |
+| [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 |  |
 | [Autumn in Berlin](https://open.spotify.com/track/5Frs5xwfED7VCc6XYNFnK7) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Autumn in Berlin](https://open.spotify.com/album/0j5PaJc7pFXmloYCVSIxZ1) | 2:54 | 2022-08-18 |  |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-08-18 |  |
 | [Ballad Of The Sad Young Man](https://open.spotify.com/track/6jqTF5uYRWJjDklyCSJpX8) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Ballad Of The Sad Young Man](https://open.spotify.com/album/3vT3GZxPt08jfwZib4FEJ4) | 3:44 | 2022-08-18 |  |
@@ -52,7 +53,7 @@
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2022-08-18 |  |
 | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/album/2t1AH1fXeiYZBUOUQsoZ8r) | 3:43 | 2022-08-18 |  |
 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 | 2022-08-18 |  |
-| [Isn't It Romantic](https://open.spotify.com/track/2A2ibsCKYVNGvOorAhMz4s) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [New Jazz Sounds: The Benny Carter Verve Story](https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF) | 3:40 | 2022-08-18 |  |
+| [Isn't It Romantic](https://open.spotify.com/track/2A2ibsCKYVNGvOorAhMz4s) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [New Jazz Sounds: The Benny Carter Verve Story](https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF) | 3:40 | 2022-08-18 | 2022-10-14 |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-08-18 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-08-18 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-08-18 |  |

@@ -4,7 +4,7 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-34 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
+35 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Free Your Dreams](https://open.spotify.com/track/5PnU3hbaqWlZDRib6iXcH2) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Journey to Golden](https://open.spotify.com/album/6rW9csriPeZWsegHMOhpAh) | 4:59 | 2022-08-20 |  |
 | [Free Your Dreams](https://open.spotify.com/track/7zTnlgGkXV0RucjuPmbn44) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Journey To Golden](https://open.spotify.com/album/2FzgU4cRVqYl6yrsj9Ya5z) | 4:59 | 2022-07-29 | 2022-08-20 |
 | [Frustrated](https://open.spotify.com/track/1N5j9dRZ3foNWwU4Zp0pbq) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/22I1D0zjOvt3oz5xmot6Ab) | 3:21 | 2017-02-27 | 2022-07-29 |
-| [Frustrated](https://open.spotify.com/track/5Ny3wPkBqfpmDxuifn4s8s) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/0ewxQHdl5Jc5VVsBbyh3nZ) | 3:21 | 2022-07-29 |  |
+| [Frustrated](https://open.spotify.com/track/1NXZqhIPiiB8oJtleFhCpu) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/6bIe2wMggGlPkrv8jMVWA1) | 3:21 | 2022-10-14 |  |
+| [Frustrated](https://open.spotify.com/track/5Ny3wPkBqfpmDxuifn4s8s) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/0ewxQHdl5Jc5VVsBbyh3nZ) | 3:21 | 2022-07-29 | 2022-10-14 |
 | [Good As Hell](https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good As Hell](https://open.spotify.com/album/5PMpdvn38HScK6IuLniRep) | 2:39 | 2017-02-27 | 2022-07-29 |
 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2022-07-29 |  |
 | [Got Me Loose](https://open.spotify.com/track/4xsjRZgz4eKl4MdAZ8afjJ) | [Reesa Renee](https://open.spotify.com/artist/1sP9nzoMXxaI0LiU1uWoLL) | [Got Me Loose](https://open.spotify.com/album/0u5pSvtfkTrcAwf11TxxFW) | 3:57 | 2017-02-27 |  |

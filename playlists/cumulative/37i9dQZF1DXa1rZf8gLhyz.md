@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-200 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+203 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All The Things You Are](https://open.spotify.com/track/11Bap5k9jpMjBbqQA9gSez) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 3:12 | 2021-12-07 | 2022-10-07 |
 | [All The Things You Are](https://open.spotify.com/track/0bAtkqBlQwiqGGJ9AwQ6bH) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [All The Things You Are](https://open.spotify.com/album/0REx5Z6ns83cNF762mDcFw) | 3:25 | 2021-12-07 |  |
 | [And Then](https://open.spotify.com/track/1ZepDoXqsQdiyD87zBxYK1) | [Ben Evans\-Parker](https://open.spotify.com/artist/5ItKNtikXXvdBrzYzwVplB) | [And Then](https://open.spotify.com/album/08zpU0LpH2KBdjP6Cqm2E5) | 2:27 | 2021-12-07 | 2022-02-02 |
+| [As Time Goes By](https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [As Time Goes By](https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA) | 3:52 | 2022-10-13 |  |
 | [As We Speak](https://open.spotify.com/track/1a2lP6SjYE38IRWc6Sxzmn) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [As We Speak](https://open.spotify.com/album/1TsNdg1ekGBfxYsjeEnOCy) | 2:56 | 2021-12-07 | 2022-09-20 |
 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 | 2021-12-07 |  |
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
@@ -48,6 +49,7 @@
 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 | 2021-12-07 | 2022-08-30 |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-04-25 |  |
 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2021-12-07 | 2022-02-12 |
+| [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-02-15 |  |
 | [Embraceable You](https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Embraceable You](https://open.spotify.com/album/0wnfgpSxtv8UzL4n1f055H) | 3:22 | 2022-06-14 |  |
 | [estate](https://open.spotify.com/track/18NxSIKcBgidhFiY37s9tC) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 4:20 | 2021-12-07 | 2022-08-10 |
@@ -85,7 +87,7 @@
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2022-08-16 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 | 2021-12-07 |  |
 | [Imagination](https://open.spotify.com/track/4HL5vpC9UWTYIOQHC0HIAw) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Imagination](https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4) | 5:03 | 2022-08-09 |  |
-| [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 | 2021-12-07 |  |
+| [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 | 2021-12-07 | 2022-10-14 |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2022-03-01 |  |
 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2022-08-09 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2021-12-07 |  |
@@ -99,7 +101,7 @@
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-28 |  |
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
-| [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2021-12-07 |  |
+| [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2021-12-07 | 2022-10-14 |
 | [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2021-12-07 |  |
 | [Like Someone in Love](https://open.spotify.com/track/4PiUoO6xh4xQNxpKQwgGId) | [Milos Strevic](https://open.spotify.com/artist/5MCalzVGSntMjjmo9JZKgC) | [Like Someone in love](https://open.spotify.com/album/1nAbNCv6V6YSZfdLHjX9uj) | 3:32 | 2021-12-07 | 2022-01-14 |
@@ -178,8 +180,9 @@
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2021-12-07 |  |
 | [The Nearness Of You](https://open.spotify.com/track/3xKchgf19FmMrNNxC0SpT1) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 5:22 | 2021-12-07 | 2022-08-10 |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-09 |  |
+| [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 |  |
 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 | 2022-10-06 |  |
-| [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2021-12-07 |  |
+| [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2021-12-07 | 2022-10-14 |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2021-12-07 |  |
 | [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2021-12-07 |  |
 | [There´s no you](https://open.spotify.com/track/1CwW9u0HgDPMT0h6E5HN72) | [Elton Willis](https://open.spotify.com/artist/5I7l6XScYYCML9N2WETKE1) | [There´s no you](https://open.spotify.com/album/1apFtaoZpliaFiEswZgZrb) | 4:41 | 2021-12-07 |  |

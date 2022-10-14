@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
+145 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [In Your Eyes](https://open.spotify.com/track/1t5nwfsb90IliczIhOMnpJ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:17 | 2021-12-27 |  |
 | [Invincible](https://open.spotify.com/track/1rc5A1wnFlP6MwBPI8grzV) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:12 | 2021-12-27 |  |
 | [It's Alright](https://open.spotify.com/track/0IAjW3QM4PwqJS0ckvulXA) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:17 | 2021-12-27 |  |
-| [Just A Day](https://open.spotify.com/track/1MU4s8N2sHju0bFsDSmTHZ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/2euo20MIf6pXQzEeO3CmJg) | 3:25 | 2021-12-27 |  |
+| [Just A Day](https://open.spotify.com/track/1MU4s8N2sHju0bFsDSmTHZ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/2euo20MIf6pXQzEeO3CmJg) | 3:25 | 2021-12-27 | 2022-10-14 |
+| [Just A Day](https://open.spotify.com/track/7dlDAQNbVBBQpTK7LvB63p) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/5oPJdG33gRgFxHhI6rSWUf) | 3:25 | 2022-10-13 |  |
 | [Keep On Movin'](https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:18 | 2021-12-27 |  |
 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 | 2021-12-27 |  |
 | [Lay Down for Love](https://open.spotify.com/track/6MfLM5PHg22PrtIridHfHQ) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Open Road](https://open.spotify.com/album/5Gw7fOOrsnB0ZeKyghATAX) | 5:32 | 2021-12-27 |  |

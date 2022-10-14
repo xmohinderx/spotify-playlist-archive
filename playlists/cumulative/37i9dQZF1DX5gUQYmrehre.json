@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 199125,
       "name": "Focus",
       "url": "https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4"
@@ -694,6 +694,28 @@
     },
     {
       "album": {
+        "name": "Green Line",
+        "url": "https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Green Line",
+      "url": "https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn"
+    },
+    {
+      "album": {
         "name": "2022 the EP",
         "url": "https://open.spotify.com/album/3tnN1rF99kxjz5UfMUGj0U"
       },
@@ -781,7 +803,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 138095,
       "name": "HEAL",
       "url": "https://open.spotify.com/track/2cBysRhIZ0SddRIJPEuYOI"
@@ -1125,6 +1147,24 @@
       "duration_ms": 264873,
       "name": "My Own Person",
       "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
+    },
+    {
+      "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
     },
     {
       "album": {

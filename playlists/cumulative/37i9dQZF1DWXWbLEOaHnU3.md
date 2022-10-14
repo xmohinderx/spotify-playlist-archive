@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-211 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+212 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bali Bali](https://open.spotify.com/track/05IPUcHoGjuJMjdiiQE8c4) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR) | [Bali Bali](https://open.spotify.com/album/2ZojZDgxnKVtOfhKDVcWMN) | 4:06 | 2022-08-18 | 2022-09-24 |
 | [Bansuri](https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Bansuri](https://open.spotify.com/album/0rf8VJA0Omu4xXgwwUslir) | 7:30 | 2022-07-28 |  |
 | [Bansuri](https://open.spotify.com/track/7CRMavjrfUFzj4ijaMQMDN) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Bansuri](https://open.spotify.com/album/2Q1PqwfxJ0Il25Add4VxiQ) | 7:30 | 2022-04-15 | 2022-07-27 |
-| [Baylla](https://open.spotify.com/track/3AEEHyBa3YeM07PfHLN5RV) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg) | [Baylla](https://open.spotify.com/album/1KSM0aQNnKRdyYUb3rNgcm) | 5:20 | 2022-09-29 |  |
+| [Baylla](https://open.spotify.com/track/3AEEHyBa3YeM07PfHLN5RV) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg) | [Baylla](https://open.spotify.com/album/1KSM0aQNnKRdyYUb3rNgcm) | 5:20 | 2022-09-29 | 2022-10-14 |
 | [Be Right \- Asgard Remix](https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Ritmo](https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT), [Asgard](https://open.spotify.com/artist/5jDnYezjdwwpupSK8De19e) | [Be Right](https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x) | 8:20 | 2022-04-22 | 2022-07-25 |
 | [Believe \- Bellatrix Remix](https://open.spotify.com/track/4Ju6x12fvx0nRxq4ZvWy6M) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Neodyne](https://open.spotify.com/artist/3YFMYXZZC90Uwu0VX26E6j), [Bellatrix](https://open.spotify.com/artist/53UujpP6dTNUdHXRyMKVoN) | [Believe \(Bellatrix Remix\)](https://open.spotify.com/album/2PFSRwdbHMsYiRolsb0gvS) | 8:00 | 2022-05-19 | 2022-07-28 |
 | [Bhavani Ashtakam](https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD) | [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Novlik](https://open.spotify.com/artist/2C6EC0PuCxPyUjfDmUoM0O) | [Bhavani Ashtakam](https://open.spotify.com/album/57hEMnVxLUCPdcRt2vL3js) | 7:39 | 2022-04-15 | 2022-07-24 |
@@ -42,6 +42,7 @@
 | [Center of The Earth](https://open.spotify.com/track/1UZgvaFANZEMreNPbwWZZ6) | [Status Zero](https://open.spotify.com/artist/08X1bgdjRwWtguTAWzY4Bw) | [Center of The Earth](https://open.spotify.com/album/47d6kw7PHqwJAtv490FrVV) | 8:07 | 2022-04-15 |  |
 | [Check](https://open.spotify.com/track/0MW6EPLradAZA4uZYjzqwr) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT) | [Check](https://open.spotify.com/album/3vXzskh80lnA271u5L8p08) | 2:49 | 2022-09-29 |  |
 | [Clouds](https://open.spotify.com/track/2iU4ZlFm68vUQ5u3Xd4lN3) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B) | [Clouds](https://open.spotify.com/album/3jaSXZHWjSGAEX079x2VZN) | 8:20 | 2022-04-15 |  |
+| [Colosseum](https://open.spotify.com/track/4G6iSwBeF8fOLZEjYlXZTb) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Aquatica](https://open.spotify.com/artist/147uBKYHJVOjLgd1HjgjKl) | [Colosseum](https://open.spotify.com/album/0yRtokkohunsxXlMVVgcL2) | 2:51 | 2022-10-14 |  |
 | [Come Close](https://open.spotify.com/track/71aoIeMlKuQdrkHljBf0nU) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Come Close](https://open.spotify.com/album/7LXjqvXTHa1why9BbvhYcG) | 3:14 | 2022-04-15 |  |
 | [Concussion \- Richard Tanselli Club Dub](https://open.spotify.com/track/6YwlmScgyt5R9MWSRmq2q8) | [Rasmus Kent](https://open.spotify.com/artist/2XLaVBSQKWqvaQprjWOSyp), [Richard Tanselli](https://open.spotify.com/artist/7hXgKNe1G0JyXysay7awaV) | [Concussion \(Richard Tanselli Remixes\)](https://open.spotify.com/album/0o5CGZOqcOGmj4tnA76uCt) | 6:19 | 2022-04-15 | 2022-07-29 |
 | [Concussion \- Richard Tanselli Remix](https://open.spotify.com/track/3ydoePq5WEsUnCCIwKaPoE) | [Rasmus Kent](https://open.spotify.com/artist/2XLaVBSQKWqvaQprjWOSyp), [Richard Tanselli](https://open.spotify.com/artist/7hXgKNe1G0JyXysay7awaV) | [Concussion \(Richard Tanselli Remixes\)](https://open.spotify.com/album/2rfO0LiWO0yhs0ENCE5tfQ) | 6:19 | 2022-07-28 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-225 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+227 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-03 | 2022-02-12 |
 | [Can't Forget You](https://open.spotify.com/track/726GMkrLFseCdHebF8LdVU) | [Briron Gauri](https://open.spotify.com/artist/2Aydybx286zfOnz7DQXw7N), [Estie](https://open.spotify.com/artist/6wWfHA1CxWIjDRF4FOFb5o), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Can't Forget You](https://open.spotify.com/album/2lRF3otwcBQFr4EfJRLp2C) | 2:46 | 2021-12-03 | 2022-05-07 |
 | [Can't Help Myself](https://open.spotify.com/track/13VPw7TPwIGXvQOY7CVeds) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 4:40 | 2021-12-03 | 2022-07-29 |
-| [Can't Help Myself](https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0) | 4:40 | 2022-07-15 |  |
+| [Can't Help Myself](https://open.spotify.com/track/5j1Hz9qgKAYdMSlD592Vks) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc) | 4:40 | 2022-09-30 |  |
+| [Can't Help Myself](https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0) | 4:40 | 2022-07-15 | 2022-10-14 |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2021-12-03 | 2022-07-29 |
 | [Chemicals](https://open.spotify.com/track/3MhzrKptQyWZCIQC4yZNu3) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1dXqbK8UQuIjX1BjDIUgkt) | 3:12 | 2022-07-15 |  |
 | [Child](https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Child](https://open.spotify.com/album/4nz18DILyysoglGaV015Cq) | 3:03 | 2022-04-29 |  |
@@ -217,7 +218,8 @@
 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 | 2021-12-03 |  |
 | [What It Used To Be](https://open.spotify.com/track/5PQBkYkta4muwWf7vZJoM7) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [What It Used To Be](https://open.spotify.com/album/5KF2JJfmBPvXvI2dwCmlJj) | 3:42 | 2022-03-04 |  |
 | [When I'm Gone](https://open.spotify.com/track/6upXAlN0tlTavXMenVWna9) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV) | [When I'm Gone](https://open.spotify.com/album/3ATE1QVGkAwClC83f3YeBG) | 4:22 | 2022-08-26 |  |
-| [Where Did You Go](https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK) | 3:44 | 2021-12-03 |  |
+| [Where Did You Go](https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA) | 3:44 | 2022-09-30 |  |
+| [Where Did You Go](https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK) | 3:44 | 2021-12-03 | 2022-10-14 |
 | [Where Does Love Go](https://open.spotify.com/track/3VUwjqEHajKn7LXUAbQU4z) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Where Does Love Go](https://open.spotify.com/album/4ZTlaMTm9avp0E2n8TVGwI) | 4:23 | 2021-12-03 |  |
 | [White Lie](https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Emma Mae](https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv) | [White Lie](https://open.spotify.com/album/31wVVPpxS9EJFkuWiMvpc8) | 3:56 | 2022-07-08 |  |
 | [Wish It Was You](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Wish It Was You](https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb) | 3:12 | 2021-12-03 |  |

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-622 songs - 1 day 12 hr 22 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+623 songs - 1 day 12 hr 27 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Lose You](https://open.spotify.com/track/5mACzX9W7gTOhX8ms3z43w) | [Phi Zi](https://open.spotify.com/artist/6ko1Rytv1xKlLZhMaKsrtV) | [Lose You](https://open.spotify.com/album/2Y9tbjD5eSD0ToV6jVMABc) | 3:34 | 2022-01-20 | 2022-03-18 |
 | [Loser](https://open.spotify.com/track/2Iaqq3XmyaR6PmUDVoISFy) | [Nhật Hoàng](https://open.spotify.com/artist/1owVn9TB2AwdiPqkaD29wX), [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm), [Hennessy](https://open.spotify.com/artist/7qFa5wU1h7319OpI33qnxc), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Loser](https://open.spotify.com/album/2b9n8QBMInabU5qDV0Hhdp) | 4:59 | 2022-05-21 | 2022-07-10 |
 | [Lullaby For Aurora](https://open.spotify.com/track/7eLDJFgBCSF8zJuPHuDlQ5) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Lullaby For Aurora](https://open.spotify.com/album/0uT4ITqDC5o9WSKpv5mkXs) | 3:20 | 2022-07-17 |  |
-| [Lying to myself](https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [sy](https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU) | [Lying to myself](https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N) | 2:56 | 2022-02-24 | 2022-07-01 |
+| [Lying to myself](https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [sy](https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU) | [Lying to myself](https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N) | 2:56 | 2022-02-24 |  |
 | [Là thờ ích thích là thờ ương thương](https://open.spotify.com/track/4WQRt4T3OJ7AghHSIJcP43) | [NaaiG](https://open.spotify.com/artist/65e379P1CmEi8cZABbLyaP) | [Là thờ ích thích là thờ ương thương](https://open.spotify.com/album/5Xgm9iy81Upe1zm5Hjto6R) | 3:23 | 2022-02-10 | 2022-02-19 |
 | [làm bạn thui](https://open.spotify.com/track/7A7yMVFkgoM0bILawd5Mgh) | [bobby](https://open.spotify.com/artist/2XpRyIgJngzgR8Owck9ixm) | [làm bạn thui](https://open.spotify.com/album/5rqyAltp3dNW4Y0uYG25M7) | 3:42 | 2022-08-23 |  |
 | [Làm Nó](https://open.spotify.com/track/7BK7gjVd06wY2IEC60py6a) | [Key V](https://open.spotify.com/artist/1k1nO8ue7WFIjT4hX1zuAF), [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq), [Khoa Wzzzy](https://open.spotify.com/artist/7f3vs7IeQScnYHmehKrAuv) | [Làm Nó](https://open.spotify.com/album/4UEjQpX7Xv4cJCt7lgJisE) | 4:06 | 2022-06-16 | 2022-06-27 |
@@ -386,6 +386,7 @@
 | [Nhọ và Lem](https://open.spotify.com/track/37jMBERJHtq6NQv9cqnJsh) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Nhọ và Lem](https://open.spotify.com/album/7jUwpHtofVFCz6Oe4Rvexa) | 3:24 | 2022-05-19 |  |
 | [Những Ngày Anh Nhớ Em](https://open.spotify.com/track/3sxUYqKoy1uuS4pClV3UeW) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Những Ngày Anh Nhớ Em](https://open.spotify.com/album/6iRNKFE9aVswNAWfVzSziL) | 2:36 | 2022-03-04 | 2022-04-23 |
 | [Những Ngày Bên Em](https://open.spotify.com/track/5XfW5ZtYteZmXmpcwoVpva) | [Quân Bùi](https://open.spotify.com/artist/5mXI9SrI43d18i8XcV7wuX) | [Những Ngày Bên Em](https://open.spotify.com/album/5sydQNtCSHyUa8d1Gy31Ee) | 4:38 | 2022-01-06 | 2022-01-29 |
+| [Những Ngày Mưa Ngâu](https://open.spotify.com/track/6X3OBvI8JRCEcP3DSlf6Hx) | [Rin](https://open.spotify.com/artist/5rqq2yez0hgc0rmDBPWjb3) | [Những Ngày Mưa Ngâu](https://open.spotify.com/album/2lLDATdlwNnuiNBbYOrGuE) | 4:05 | 2022-10-13 |  |
 | [Những Ngày Tháng Ấy](https://open.spotify.com/track/2I2Zhvpi5D17cNkl7mUzXc) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [sinist/a](https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM) | [Những Ngày Tháng Ấy](https://open.spotify.com/album/55rBw6jsY1HNU6qRvdUkIo) | 3:33 | 2022-06-03 | 2022-06-27 |
 | [Night by Night](https://open.spotify.com/track/2nvimM1VZtUG4UEU70wXqw) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Night by Night](https://open.spotify.com/album/5zplSaRTVT2xNvrYVbGCpC) | 3:14 | 2022-07-09 |  |
 | [No Matter](https://open.spotify.com/track/2zD1M5u0YB60LOu5Ckrdp4) | [Xám](https://open.spotify.com/artist/0OzWJ833Wac4o3SAh38s7i), [Lockie](https://open.spotify.com/artist/6Kwe8bsUxkQZAhmkAMPQt3) | [No Matter](https://open.spotify.com/album/0lbAre0a1uWokh19EEkr4V) | 2:45 | 2022-01-06 | 2022-03-11 |

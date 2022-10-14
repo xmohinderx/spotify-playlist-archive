@@ -2,7 +2,7 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> d4vd make anti pop.
+> d4vd makes anti pop.
 
 1,112 songs - 2 day 5 hr 59 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
@@ -638,7 +638,7 @@
 | [Much Money \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/6I5VbxQiJYBetYKdlRINr3) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Angelic Hoodrat: Supercut](https://open.spotify.com/album/55oL9JR69c0rbLAfGCFbAF) | 3:07 | 2022-05-09 | 2022-07-19 |
 | [Murda](https://open.spotify.com/track/2CEF4Kf1xrmPGfY5tGrz5R) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Notice of Demolition](https://open.spotify.com/album/0DnOJf9x48SEbG96alqW83) | 2:46 | 2022-02-28 | 2022-07-01 |
 | [Murda](https://open.spotify.com/track/7DWdmI6GojvJabslUQApiI) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Murda](https://open.spotify.com/album/2mwqrjxXmB8i9QTDBLyZbo) | 2:46 | 2021-10-27 | 2022-03-01 |
-| [My Body Left My Soul \(feat\. Pusha T\)](https://open.spotify.com/track/6Arc3cFHtzrT3M2l4cxJPd) | [USERx](https://open.spotify.com/artist/5D586pjJERMYhB6AhPEYYS), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Rozwell](https://open.spotify.com/artist/2cpbwPiqgvzIDDrxVkjQsq), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [USERx](https://open.spotify.com/album/4UNgRAi66sdKKz9kNqNVWO) | 4:20 | 2021-03-14 | 2021-10-14 |
+| [My Body Left My Soul \(feat\. Pusha T\)](https://open.spotify.com/track/6Arc3cFHtzrT3M2l4cxJPd) | [USERx](https://open.spotify.com/artist/5D586pjJERMYhB6AhPEYYS), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Rozwell](https://open.spotify.com/artist/2cpbwPiqgvzIDDrxVkjQsq), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [USERx](https://open.spotify.com/album/4UNgRAi66sdKKz9kNqNVWO) | 4:20 | 2021-03-14 |  |
 | [My Boy](https://open.spotify.com/track/1etxSghMDCTphS2HCYYagu) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [My Boy](https://open.spotify.com/album/2X7wrqEzYtdT4g34MNgKEX) | 2:55 | 2022-03-18 | 2022-07-01 |
 | [My Funny Girl](https://open.spotify.com/track/6snceZX3TN1slREbnO5w5q) | [Harry Teardrop](https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV) | [My Funny Girl](https://open.spotify.com/album/3mdamSaSakxmJCpaSin5pW) | 3:06 | 2021-07-17 | 2021-10-14 |
 | [My Girl](https://open.spotify.com/track/5aMYIxnTTVIGxdey7ULrRL) | [Oshi](https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs) | [My Girl](https://open.spotify.com/album/4voikfQLmfd122fTT7rgGC) | 3:35 | 2021-09-06 | 2021-10-13 |
@@ -1105,7 +1105,7 @@
 | [YEARS WASTED](https://open.spotify.com/track/4rX2ATH5XU1Bm8tKmnxhsG) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [YEARS WASTED](https://open.spotify.com/album/2Vmq3WW4nYoa6mxE4LjVbX) | 2:24 | 2022-02-04 | 2022-03-11 |
 | [YELLOW SKIES](https://open.spotify.com/track/5FpAzK3jKjNIKSwdlClkol) | [Evenson](https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd) | [YELLOW SKIES](https://open.spotify.com/album/7kRd6rg9t85d9vKAKoFcEh) | 3:24 | 2022-03-29 | 2022-07-01 |
 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 | 2022-05-09 |  |
-| [You the One Fish in the Sea](https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 2:32 | 2022-07-08 |  |
+| [You the One Fish in the Sea](https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 2:32 | 2022-07-08 | 2022-10-14 |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-14 | 2022-10-04 |
 | [YOU.F.O.](https://open.spotify.com/track/6MHSHFtKYMVvwnld8EglC4) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [YOU.F.O.](https://open.spotify.com/album/3s5aXGEfkweuVJCaJyHCjV) | 3:00 | 2021-06-27 | 2022-01-13 |
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2020-10-13\* | 2020-11-03 |

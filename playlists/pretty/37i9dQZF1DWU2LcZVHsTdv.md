@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,659 likes - 130 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,752 likes - 130 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,10 +133,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 123 | [WOMAN AT THE WELL](https://open.spotify.com/track/2fqHlRhWsA4YyRysR7FR4v) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [WOMAN AT THE WELL](https://open.spotify.com/album/24Yth0NqR6gEVUhMyMHKiG) | 3:29 |
 | 124 | [Working On Sunday](https://open.spotify.com/track/64ZqOZGfgq4OABx1qN8Ftd) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [Working On Sunday](https://open.spotify.com/album/3dPIlZag9xByUbPjvaO7ji) | 3:20 |
 | 125 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 |
-| 126 | [Made For Me To Love \- Demo](https://open.spotify.com/track/06ksFBqRI5cSghYy0ix1de) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Made For Me To Love \(Demo\)](https://open.spotify.com/album/6IVFgta0BGd8IGVwLRPb71) | 3:05 |
+| 126 | [Made For Me To Love \- Demo](https://open.spotify.com/track/3hDXRPuvRtRsEhMNDspdJE) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Baytown](https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX) | 3:05 |
 | 127 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 |
 | 128 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 |
 | 129 | [Here On Earth](https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:21 |
 | 130 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDlhMWFkYjQ4OTQxN2FmYmE4MmUzY2JiNDZmNGEyYmNh`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDg0ZmU5NmNkYmNlZGMzYTcxZDg1YzRhM2M2NDA1OGMz`

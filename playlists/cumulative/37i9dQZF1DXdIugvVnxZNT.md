@@ -4,7 +4,7 @@
 
 > Haz que tu corazón lata más alto con los beats de estos temas de amor EDM.
 
-101 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/1dCMwvMGvWMa8PiKVHVJnR)
+102 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/1dCMwvMGvWMa8PiKVHVJnR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 | 2022-04-13 |  |
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-04-13 |  |
 | [Lovefool](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Lovefool](https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT) | 3:10 | 2022-04-13 |  |
-| [Lullaby](https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Lullaby](https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm) | 2:40 | 2022-04-13 |  |
+| [Lullaby](https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Lullaby](https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm) | 2:40 | 2022-04-13 | 2022-10-14 |
 | [Make You Mine \(feat\. Moa Lisa\)](https://open.spotify.com/track/1ICPREUY4yMNeFEgbNh7D5) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Make You Mine \(feat\. Moa Lisa\)](https://open.spotify.com/album/7J7m238D5jzzO8td6XGJHa) | 3:33 | 2022-04-13 | 2022-08-23 |
 | [Me Provocas](https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x) | 2:27 | 2022-04-13 |  |
 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 | 2022-04-13 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-20 |  |
 | [Would You Ever](https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Would You Ever](https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX) | 3:54 | 2022-04-13 |  |
 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2022-04-13 |  |
+| [You Make Me](https://open.spotify.com/track/63bwUT2JAPomuoIITQ2Iiy) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True \(Bonus Edition\)](https://open.spotify.com/album/50oWFJ0mDEeMa74ElsdAp3) | 3:53 | 2022-09-20 |  |
 | [You're Mine](https://open.spotify.com/track/1yxfocgGtRIfOpM4PMaeZ6) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [You're Mine](https://open.spotify.com/album/65YXe5sC1UI1wwJfi6zQaO) | 3:11 | 2022-04-13 | 2022-07-29 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-04-13 |  |
 

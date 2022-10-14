@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Daniel \- Chico e o Mar
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,616 likes - 89 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,674 likes - 89 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

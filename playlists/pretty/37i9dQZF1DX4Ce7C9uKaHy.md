@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,989 likes - 80 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,995 likes - 80 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 21 | [Vondelpark](https://open.spotify.com/track/2eZ1y3eY02Twb00rYOsUhr) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/6DUWrh2rpN32GmWYv1qXT4) | 2:00 |
 | 22 | [Feblu](https://open.spotify.com/track/0BD9XqvXSSxlHsdBlLKhqA) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [EXPEDITion Vol\. 7: Moonloops](https://open.spotify.com/album/6Ads7rAZhNDWrcZqaCwJg6) | 1:33 |
 | 23 | [Sugar Coat](https://open.spotify.com/track/4Q5SnRGF0wAluw3zY9NbYo) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sweet Dreams](https://open.spotify.com/album/35Zg4Ksfyo1PmlztBn3UH6) | 2:59 |
-| 24 | [Tripwire](https://open.spotify.com/track/4n8IYtgioSqtdcOvFsz7hI) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Tripwire](https://open.spotify.com/album/3W0Gm5LJOJUktZaaJYToAr) | 2:48 |
+| 24 | [Tripwire](https://open.spotify.com/track/6T0qIYWEBLSik4UL4zrsQv) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Habitual Haze](https://open.spotify.com/album/5lJUqo5mEcYgcCnbADkfvO) | 2:48 |
 | 25 | [Reminiscing](https://open.spotify.com/track/0SLqAM3Jv5vKpjskuRK4aw) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA), [Flovry](https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs) | [Before You Go](https://open.spotify.com/album/6rZmtp1Bc9n0rN20uqsLea) | 2:38 |
 | 26 | [Alone without your embrace](https://open.spotify.com/track/1oSJNJPZdoeFf4zrbF7OIZ) | [d\-p](https://open.spotify.com/artist/5RdWE3BZ6xrseaVatOeUWc) | [Alone without your embrace](https://open.spotify.com/album/0Oa1ZmpCSJJChayiAZXMXI) | 2:29 |
 | 27 | [Gloaming](https://open.spotify.com/track/09O1DNX6iLiAmi3b64aOhy) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Gloaming](https://open.spotify.com/album/0mCpADfeZDh2APKiBQjzVL) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMDM0YmY2ZmViMjBkNDE1OGY0YWIxNzA5Njg4OTdiM2Ez`
+Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMGFjNzFiNjhiMDc3ZGY1Nzk1M2VlZjRmYTlkNTNiMGVm`

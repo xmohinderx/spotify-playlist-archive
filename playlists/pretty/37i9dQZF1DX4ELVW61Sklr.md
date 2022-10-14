@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,483 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,492 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 45 | [Let It Snow](https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas Soul 2020](https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd) | 2:34 |
 | 46 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
 | 47 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
-| 48 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 |
-| 49 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
+| 48 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
+| 49 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 |
 | 50 | [Hark the Herald Angels Sing](https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:35 |
 
-Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMGE3ZTQ0ZDJjOWUwYjMyZWQ3MzM3NjMyZTY5Y2E5ZTFl`
+Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMDk2MzE4ZTlhMGVlNWUwNTViNjA4YjQ4MjgyMTI1NjM1`

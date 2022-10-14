@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-67 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
+70 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,14 +48,16 @@
 | [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/track/2ekoeJhto1KoKUzlaFokde) | [Christmas Jazz Duo](https://open.spotify.com/artist/13XRIoHlZNZChhsOwvkovD) | [All I Want for Christmas](https://open.spotify.com/album/4fUlyX2S164VoHO2y4IYP4) | 1:59 | 2021-12-21 |  |
 | [Joy To The World](https://open.spotify.com/track/1HPF2x2SgdWwrGVgPh16ki) | [The Christmas Brothers](https://open.spotify.com/artist/4hq9JfKZqh3qDuAvRZK81e) | [Joy to the World](https://open.spotify.com/album/1kezJtycElHPKwIsI6x1ur) | 1:44 | 2021-12-21 |  |
 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 | 2022-10-07 |  |
-| [O Come All Ye Faithful \(Bornlöf Piano Version\)](https://open.spotify.com/track/2xHCs5TFxAmOCo3lR6r7D3) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Christmas Cheer](https://open.spotify.com/album/4YT1l7sAjsWq86iZLyEef0) | 2:41 | 2021-12-21 |  |
+| [O Come All Ye Faithful \(Bornlöf Piano Version\)](https://open.spotify.com/track/2xHCs5TFxAmOCo3lR6r7D3) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Christmas Cheer](https://open.spotify.com/album/4YT1l7sAjsWq86iZLyEef0) | 2:41 | 2021-12-21 | 2022-10-14 |
+| [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 | 2022-10-13 |  |
 | [O Come, O Come, Emanuel](https://open.spotify.com/track/1vx0XNUpmrALy5N9SN4GP5) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Lo, How A Rose E'er Blooming](https://open.spotify.com/album/14HGV5wCgntXHX62s5RiII) | 2:09 | 2021-12-21 |  |
+| [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 | 2022-10-13 |  |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/0ymty2BkJI50ZYOQagxpzt) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/5dqDUL5HIhxapzKoyIndfH) | 3:16 | 2021-12-21 | 2022-07-29 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 | 2021-12-21 |  |
 | [O Tannenbaum](https://open.spotify.com/track/2xADXrCsbvisyiD4GGkXYo) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Slow Jams Jazz Christmas](https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ) | 3:37 | 2021-12-21 |  |
 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 | 2021-12-21 |  |
 | [Oh Christmas Tree](https://open.spotify.com/track/4HkmCOAh5oqQ7KsihV2Yfs) | [Holy Eve Trio](https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG) | [Blue Christmas EP](https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ) | 2:23 | 2022-10-07 |  |
-| [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 | 2021-12-21 |  |
+| [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 | 2021-12-21 | 2022-10-14 |
 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 | 2021-12-21 |  |
 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 | 2021-12-21 |  |
 | [Silent Night](https://open.spotify.com/track/27N4Y24PdcXZtR4IJ40Fhz) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Merry Ole Soul](https://open.spotify.com/album/2Px6XKffVuuPx6zaTEDwlx) | 4:15 | 2021-12-21 |  |
@@ -69,6 +71,7 @@
 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 | 2021-12-21 |  |
 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 | 2021-12-21 |  |
 | [Three Kings](https://open.spotify.com/track/2KwzZRHYlsFzGDk1yhMs7Q) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Three Kings](https://open.spotify.com/album/197S7gs5VS1KvDx5aHoau5) | 2:59 | 2021-12-21 |  |
+| [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2022-10-07 |  |
 | [We Wish You a Merry Christmas \(Piano\)](https://open.spotify.com/track/46o7C7eAk0MHuRIoniPfwZ) | [John Fulford Music](https://open.spotify.com/artist/6CL7c5qT8oda6dIdyOoXTz) | [Holiday Jazz](https://open.spotify.com/album/4Y5LPU1oUNQUGPNOEq8Jkm) | 2:22 | 2021-12-21 |  |
 | [What Are You Doing New Years Eve](https://open.spotify.com/track/1fnKHY9FBFexqlx69unvhd) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Jeff Steinberg Orchestra](https://open.spotify.com/artist/3rw5T4cOHin6M1Jaf912oJ) | [Christmas By Candlelight](https://open.spotify.com/album/3tSZBHIEPQo1nOrniwqadI) | 4:57 | 2021-12-21 |  |

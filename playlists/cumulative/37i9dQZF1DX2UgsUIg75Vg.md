@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Amaria
 
-450 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+451 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,8 @@
 | [Perfect](https://open.spotify.com/track/38NA9ujv5cUKOTy82FSWLK) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [While You Wait](https://open.spotify.com/album/5PkUjL8hnjLbnLQcoIl3uR) | 4:09 | 2020-03-27 | 2020-10-09 |
 | [Pick A Side](https://open.spotify.com/track/5vXvD86WP93gFqrYrr93Q6) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Pick A Side](https://open.spotify.com/album/1xf8ut7calxvWuhLYyTrYK) | 3:12 | 2020-12-11 | 2021-03-26 |
 | [Pick A Side](https://open.spotify.com/track/7KRBMbHzWF4cwhWztWYUQ3) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Pick A Side](https://open.spotify.com/album/0ejO1G6PL8NPn35CXpnUPm) | 2:57 | 2021-03-26 | 2021-10-30 |
-| [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 | 2022-07-08 |  |
+| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-08 |  |
+| [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 | 2022-07-08 | 2022-10-14 |
 | [Pieces ft Duckwrth](https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Pieces ft Duckwrth](https://open.spotify.com/album/7g7HsmUkK7pm94sqy9INrh) | 2:54 | 2022-03-25 | 2022-10-01 |
 | [Plan B](https://open.spotify.com/track/3hVNd9t2dPCEcDqNE149YK) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Plan B](https://open.spotify.com/album/2XQiUnNoxy7B6QJRsbthMh) | 3:03 | 2020-05-15 | 2020-09-29 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-07-29 |  |

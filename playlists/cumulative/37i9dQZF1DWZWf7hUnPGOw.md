@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-194 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+197 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [comatose](https://open.spotify.com/track/5ivNQNApxeZA9Vp37KwjXU) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [comatose](https://open.spotify.com/album/1eN3zVpTTBFcowHlRH2iIc) | 3:36 | 2022-07-22 |  |
 | [Coming Home](https://open.spotify.com/track/5RKk9BhJeZeLOmrMIingqX) | [Dove Pilot](https://open.spotify.com/artist/1sVhgq2Yf3CltNQZUdlmgz) | [Dove Pilot](https://open.spotify.com/album/3V7iGGN7jMnbxQpEnOrXf9) | 5:11 | 2022-07-22 |  |
 | [Conquer This Sweetheart](https://open.spotify.com/track/5wER82Ut3yv0PVa21dbYzw) | [Cree Rider Family Band](https://open.spotify.com/artist/3XRXBKYzi8ShXOANoYJb1p) | [One Night Stand](https://open.spotify.com/album/0Sd1LEIYbTtnXQKrq68GEk) | 4:12 | 2022-07-22 |  |
-| [Crazy](https://open.spotify.com/track/63gUblwliT1NS7Eik504E2) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/1cnUa1Zm4lPm6QiCDRasBo) | 3:48 | 2022-07-22 |  |
+| [Crazy](https://open.spotify.com/track/63gUblwliT1NS7Eik504E2) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/1cnUa1Zm4lPm6QiCDRasBo) | 3:48 | 2022-07-22 | 2022-10-14 |
+| [Crazy](https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy) | 3:48 | 2022-07-22 |  |
 | [Crow](https://open.spotify.com/track/2OZLAmifZRHUrkRzU9lnkx) | [Desert Noises](https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe) | [Crow / Whisper](https://open.spotify.com/album/1DpSdwabLNkT6fD5oYOLeb) | 2:36 | 2022-07-22 |  |
 | [Crusher](https://open.spotify.com/track/3L6eIcMTcu4faDSQbocHS0) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:08 | 2022-07-22 |  |
 | [Dance Like Ya Wanna](https://open.spotify.com/track/67uLKdHyQjEwkWEb0nwDbO) | [Josh Eagle and The Harvest City](https://open.spotify.com/artist/6dN2IgjlE0uwYPVK078qLX) | [Josh Eagle and the Harvest City](https://open.spotify.com/album/1P4F9VzGCaeWBf4Fkrjrbx) | 3:41 | 2022-07-22 |  |
@@ -50,7 +51,8 @@
 | [Every Other Sunday Morning](https://open.spotify.com/track/4oo5Tb8pewuWud1RQW325n) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 4:07 | 2022-07-22 |  |
 | [Expectations](https://open.spotify.com/track/4tiHauqrTevqsjKyiQhvtZ) | [Stacey Randol](https://open.spotify.com/artist/0298OfN6MQkBoKp3qnO5jD) | [Songs in the Soil](https://open.spotify.com/album/293CEA4CjrdM4Y6r0dWi9x) | 3:27 | 2022-07-22 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2022-07-22 |  |
-| [fever dream](https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 3:16 | 2022-07-22 |  |
+| [fever dream](https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:16 | 2022-07-22 |  |
+| [fever dream](https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 3:16 | 2022-07-22 | 2022-10-14 |
 | [Fighting Fire with Gasoline](https://open.spotify.com/track/4LBJ8a1AkUOKg1CO0ysz58) | [The Kokomo Kings](https://open.spotify.com/artist/3RCAA6TfnIj5VwxJB5HhFQ) | [Fighting Fire with Gasoline](https://open.spotify.com/album/46GuNa5LZNMd2cJZJ44MrC) | 2:15 | 2022-07-22 |  |
 | [Forever With You](https://open.spotify.com/track/0WATpfBLHGcX4DDxyL83HW) | [Ryan Lau](https://open.spotify.com/artist/646tpmjSFYpGby2Jr7MDCX) | [Forever With You](https://open.spotify.com/album/0sOgtJSmw2q94seovYpMe7) | 1:49 | 2022-07-22 |  |
 | [Free Rider](https://open.spotify.com/track/1107wtcxWd3cPY4xYC2MwS) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/1dvjRmAhV8xSt1d3CLHQPy) | 3:31 | 2022-07-22 | 2022-10-13 |
@@ -140,7 +142,8 @@
 | [Running Low](https://open.spotify.com/track/2NQrWp17Zg2eKpPFOfJARP) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Virgin River \(Music from the Netflix Series\)](https://open.spotify.com/album/1yP98guPImv2LUdjTSV461) | 4:06 | 2022-07-22 |  |
 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 | 2022-07-22 |  |
 | [Shining Down](https://open.spotify.com/track/0g3KpDmvCYscVBqxByDpQo) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Furthermore](https://open.spotify.com/album/0jOktT5IOcnpP0FoHm0Rqh) | 3:12 | 2022-07-22 |  |
-| [Slow Down](https://open.spotify.com/track/3DYFO4M2ygUYpXLzSbCOOr) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:11 | 2022-07-22 |  |
+| [Slow Down](https://open.spotify.com/track/0uk3W9Y15pFlwHC5xbYLcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/6hgC7Jlj5suK4bR4F7RYTc) | 3:11 | 2022-07-22 |  |
+| [Slow Down](https://open.spotify.com/track/3DYFO4M2ygUYpXLzSbCOOr) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:11 | 2022-07-22 | 2022-10-14 |
 | [Slow Rolling](https://open.spotify.com/track/0opZ2lJotg4BBokS9S5QPp) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Ocha Scores](https://open.spotify.com/album/5neD4cM7aAEPaSv0pTDPZF) | 2:54 | 2022-07-22 |  |
 | [So Long Pretty Baby](https://open.spotify.com/track/2rMaLemAw1DhXoyLMjKlOB) | [Tenderfoot](https://open.spotify.com/artist/0cAed9YivTN7Yq2BnjRNyt) | [To Be Young](https://open.spotify.com/album/3lXYDEXGf78jrHbshOeTsX) | 2:52 | 2022-07-22 |  |
 | [Soft Dark Nothing](https://open.spotify.com/track/4SQ6Gk4a6QlPJrov5fD5Uu) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye) | 3:17 | 2022-07-22 |  |

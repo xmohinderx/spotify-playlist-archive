@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Adam Melchor
 
-251 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+252 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cady Road](https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz) | 3:10 | 2022-04-29 |  |
 | [Cady Road](https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z) | 3:10 | 2022-04-13 | 2022-07-28 |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2022-04-13 |  |
-| [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 | 2022-01-21 |  |
+| [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 | 2022-01-21 | 2022-10-14 |
 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 | 2022-04-29 |  |
 | [Campfire](https://open.spotify.com/track/41ME5dAx2Qe1pfZ0ypuCBu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Campfire](https://open.spotify.com/album/6kXIKI0RpjMBNKT80mc4Ni) | 5:19 | 2022-01-21 | 2022-07-29 |
 | [Carnival Mirror](https://open.spotify.com/track/1ZrtOVdyTQe4LNXtxZwLPv) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:24 | 2022-04-13 | 2022-07-29 |
@@ -232,6 +232,7 @@
 | [Time Machine](https://open.spotify.com/track/3iLjA1DD3Z7FDCNnMsKSz3) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Time Machine](https://open.spotify.com/album/2UiXq4ZRGg9WtjsiyHdCik) | 2:53 | 2022-01-21 | 2022-07-25 |
 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 | 2022-01-21 |  |
 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2022-01-21 | 2022-10-13 |
+| [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 | 2022-04-29 |  |
 | [Tommy](https://open.spotify.com/track/2Zn9zl47GQZdrdWm5n01Et) | [Casper Skulls](https://open.spotify.com/artist/0GKW6ZqOuxZyZNiHlLzhTi) | [Tommy](https://open.spotify.com/album/3DrPybJgZaXlwWFYwRxqKF) | 3:37 | 2022-04-13 | 2022-07-27 |
 | [Truth Nugget](https://open.spotify.com/track/14V1rI9IuTnYNwMz7VJxOD) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc) | 4:41 | 2022-01-21 | 2022-07-29 |
 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 | 2022-04-29 |  |

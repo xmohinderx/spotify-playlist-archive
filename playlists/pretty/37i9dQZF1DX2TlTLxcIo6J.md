@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp"> Nathan Galante.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 658 likes - 26 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 660 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,6 +33,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 | 23 | [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 |
 | 24 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 |
 | 25 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 |
-| 26 | [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 |
+| 26 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 
-Snapshot ID: `MTY2Mjk5ODQwMCwwMDAwMDAwMDNhOWVjYmVlNDg0NWUwNWQ5ODA1ZjhlZTU0NWM3NzFh`
+Snapshot ID: `MTY2Mjk5ODQwMCwwMDAwMDAwMDExYmFjYzg3ZTlkOWYxMjY1OGJjMWI2MjQ3MGQ0MmNi`

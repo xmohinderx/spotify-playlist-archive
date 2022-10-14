@@ -4,7 +4,7 @@
 
 > Our editorial picks for Indie's best of 2021 in Canada\. Cover: EKKSTACY
 
-126 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
+131 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Follow Me Around](https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Follow Me Around](https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5) | 5:19 | 2021-12-01 |  |
 | [Funky](https://open.spotify.com/track/1Sov7OQevNqkPxNNEpjt6z) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Funky](https://open.spotify.com/album/58p2sAkz9RGgnpDXiJqO7I) | 3:34 | 2021-12-01 |  |
 | [Good Kinda High \(feat\. U.S\. Girls\)](https://open.spotify.com/track/1yITtkfWioB4wVYfIzlhDJ) | [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP), [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Uninvited Guests \- Deluxe](https://open.spotify.com/album/659Zidfi4wFlIwI4kR2l10) | 2:48 | 2021-12-01 |  |
-| [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 | 2021-12-01 |  |
+| [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 | 2021-12-01 | 2022-10-14 |
+| [Good Recipe](https://open.spotify.com/track/5EwTVKsO2vCw81taf6awPq) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/7ywplgIyG56OtTafvKWr6b) | 2:31 | 2021-12-01 |  |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-12-01 |  |
 | [Holy Father](https://open.spotify.com/track/4T71MQaQ7RKRD7Dv40kia5) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Easy Morning](https://open.spotify.com/album/6B8PeC9KW9hORCInaFI0mz) | 5:15 | 2021-12-01 |  |
 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2021-12-01 |  |
@@ -74,7 +75,8 @@
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2021-12-01 |  |
 | [Kids Who Stole The World](https://open.spotify.com/track/38tQ8s4desma462ExN10T6) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:20 | 2021-12-01 |  |
 | [Kids Who Stole the World](https://open.spotify.com/track/5HFFcMP80Eq1zflKDWm4Kh) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole the World](https://open.spotify.com/album/4OZqamFVv7ji1sgxdcNDVr) | 3:20 | 2021-12-01 | 2022-07-29 |
-| [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 | 2021-12-01 |  |
+| [Laced](https://open.spotify.com/track/1iBC7TB3HjP42M0eBoNp6c) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Must Come Spring](https://open.spotify.com/album/4bNdNEMcCcSSW9wfqk6Fon) | 3:40 | 2021-12-01 |  |
+| [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 | 2021-12-01 | 2022-10-14 |
 | [Live Alone](https://open.spotify.com/track/7J4g3pkfo1jGEVdfZYfG3v) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Live Alone](https://open.spotify.com/album/6tn2vbBv4aERyjaVgJMqSZ) | 4:47 | 2021-12-01 |  |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-12-01 |  |
 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 | 2021-12-01 |  |
@@ -108,7 +110,8 @@
 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2021-12-01 |  |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-12-01 | 2022-10-07 |
 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 | 2021-12-01 |  |
-| [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-12-01 |  |
+| [Soft](https://open.spotify.com/track/34SC5Kt2OU0lCW96LDeFyP) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 2:58 | 2021-12-01 |  |
+| [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-12-01 | 2022-10-14 |
 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2021-12-01 |  |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-12-01 |  |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-12-01 |  |
@@ -128,11 +131,13 @@
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2021-12-01 |  |
 | [Waiting](https://open.spotify.com/track/049iZ0NQGdws8Hg0ZUCXY1) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Waiting](https://open.spotify.com/album/1OjhFoZotahdikWvfc4F2v) | 3:13 | 2021-12-01 |  |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-12-01 |  |
-| [What's Up](https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/3TaUQwagOJ34h8ky2avuaD) | 2:21 | 2021-12-01 |  |
+| [What's Up](https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/3TaUQwagOJ34h8ky2avuaD) | 2:21 | 2021-12-01 | 2022-10-14 |
+| [What's Up](https://open.spotify.com/track/6rsKQmqhgJm9SzbhH2mjlj) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/6jmSNj5krhwNyfUjJo6D7I) | 2:21 | 2021-12-01 |  |
 | [Working for the Knife](https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Working for the Knife](https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE) | 2:38 | 2021-12-01 |  |
 | [YKWIM?](https://open.spotify.com/track/1GthO3CQVYJV0NZHCEPHOu) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [YKWIM? EP](https://open.spotify.com/album/7t87h0WfC6ev6OTTBavri8) | 3:32 | 2021-12-01 |  |
 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 | 2021-12-01 |  |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-12-01 |  |
-| [‎mads ‎mikkelsen](https://open.spotify.com/track/4DgLYnXVObPYoCInL4GO70) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mads ‎mikkelsen](https://open.spotify.com/album/19k2kASG30g8HoZ5evWCzb) | 3:48 | 2021-12-01 |  |
+| [‎mads ‎mikkelsen](https://open.spotify.com/track/1cVZkg7Sxpe01yagEHNDrh) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mads ‎mikkelsen](https://open.spotify.com/album/39mls2U0fHrxwnx2g94hzO) | 3:48 | 2021-12-01 |  |
+| [‎mads ‎mikkelsen](https://open.spotify.com/track/4DgLYnXVObPYoCInL4GO70) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mads ‎mikkelsen](https://open.spotify.com/album/19k2kASG30g8HoZ5evWCzb) | 3:48 | 2021-12-01 | 2022-10-14 |
 
 \*This playlist was first scraped on 2022-07-10. Prior content cannot be recovered.

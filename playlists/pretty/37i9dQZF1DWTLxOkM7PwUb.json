@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 196696,
+  "num_followers": 196743,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMGU2ODVhM2M4N2Q3YzllNjM1NDE5N2VkYzcxMjI2YjQ4",
+  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMGU4MDI4MTQ2NTZhOTNhNTJhZTY3OThlZGE0NGU1MDZm",
   "tracks": [
     {
       "added_at": "2022-09-19 14:59:26",
@@ -699,46 +699,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Nunca Me Amo",
-        "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -759,6 +719,46 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
     },
     {
       "added_at": "2022-09-19 14:59:26",

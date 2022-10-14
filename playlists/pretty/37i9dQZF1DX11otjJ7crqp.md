@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: GAYLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,933 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,025 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 82 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 |
 | 83 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 |
 | 84 | [I'm Not Dead Yet](https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [I'm Not Dead Yet](https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT) | 2:58 |
-| 85 | [M&M's for Breakfast](https://open.spotify.com/track/4ZZXDm5YWOzHYtuH04OMFF) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/0YctuY3tDGIz4u64vNxUxt) | 3:00 |
+| 85 | [M&M's for Breakfast](https://open.spotify.com/track/3Gk5K27zIXTMqnbUEwzBmA) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1) | 3:00 |
 | 86 | [i don't wanna ruin ur party](https://open.spotify.com/track/1mYEAoHFaq4I5gJV0MvhSa) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i don't wanna ruin ur party](https://open.spotify.com/album/38ZS3InIKSDLYcKZpfm09m) | 2:22 |
 | 87 | [Cry](https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Cry](https://open.spotify.com/album/7h4rNt0Jka3I0D3wLBJqYG) | 3:49 |
 | 88 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Becoming](https://open.spotify.com/track/4cFgns2ecfWhXR7BTWYdtX) | [Austin Ward](https://open.spotify.com/artist/3iQH8Wnh2zRBvZEdoV2aHz) | [Becoming](https://open.spotify.com/album/3x2iJa0yBkNSG0S9iA2cI0) | 4:04 |
 | 100 | [Manhattan](https://open.spotify.com/track/1BbC5Ziws2nDOIFhPiVefD) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Manhattan](https://open.spotify.com/album/2Ec8ao91ENgzKn5g1pu91F) | 2:46 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGI0M2NkYWMyNGVjNGQ4YmVkMjllOWI1NmNmNjUxNzRi`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDA2YWMxMzY2N2I4MTEzYzRiYWRkOTlkNjMyMTk0YjZh`

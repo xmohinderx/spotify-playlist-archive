@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-166 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
+167 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 | 2021-12-02 |  |
 | [Just a Little Lovin'](https://open.spotify.com/track/7LohM56jH2aS3HZkwTKDFs) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Just A Little Lovin'](https://open.spotify.com/album/4zpIdArsKz8PmSXWDHUc5F) | 2:12 | 2021-12-02 |  |
 | [La Vie En Rose](https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [La Vie En Rose](https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg) | 1:45 | 2021-12-02 |  |
-| [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2021-12-02 |  |
+| [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 | 2022-10-07 |  |
+| [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2021-12-02 | 2022-10-14 |
 | [Leaping Up](https://open.spotify.com/track/2s9dOhFTlvqz4zGkelQ0Ro) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 7:33 | 2021-12-02 |  |
 | [Les Feuilles Mortes / Autumn Leaves](https://open.spotify.com/track/6G4YQSXUWP93OffVUTjzxr) | [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [Keeping Tradition \(Reissue\)](https://open.spotify.com/album/3RSkGYIsh6lrbBs82Omydg) | 6:49 | 2021-12-02 | 2022-09-15 |
 | [Les Feuilles Mortes / Autumn Leaves](https://open.spotify.com/track/7JoxuAMDX9BiQZKnjMlaHe) | [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [French Cafe](https://open.spotify.com/album/4Nhg2RiTf4USiTqAKsGL3z) | 6:50 | 2022-03-08 | 2022-08-04 |

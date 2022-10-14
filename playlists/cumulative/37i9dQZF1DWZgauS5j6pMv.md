@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-224 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+225 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 | 2022-06-17 |  |
 | [Serious](https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Serious](https://open.spotify.com/album/3yf6c1lKyyIBPu79loR1tf) | 4:04 | 2022-07-01 |  |
 | [Shoot My Shot](https://open.spotify.com/track/3GMh9TOiMjsojknjG9V2SJ) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Shoot My Shot](https://open.spotify.com/album/6XZimSaFBcnGbhKjBVm3vF) | 4:18 | 2021-07-02 | 2022-07-16 |
-| [Skate with Me](https://open.spotify.com/track/2qy4Rc8zGRRc73hbkPNJ5U) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/7KPUDwWlavclOS3ttpCuUG) | 1:53 | 2021-08-06 |  |
+| [Skate with Me](https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN) | 1:53 | 2021-08-06 |  |
+| [Skate with Me](https://open.spotify.com/track/2qy4Rc8zGRRc73hbkPNJ5U) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/7KPUDwWlavclOS3ttpCuUG) | 1:53 | 2021-08-06 | 2022-10-14 |
 | [Sleeping On My Dreams](https://open.spotify.com/track/1hVogn7kHppd5WkaWvFHIK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 3](https://open.spotify.com/album/6CmeXEt3IOROBw4E1U7APN) | 4:16 | 2020-11-20 | 2022-04-09 |
 | [Smoke](https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz) | [AJ McLean](https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl) | [Smoke](https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw) | 1:58 | 2022-07-15 |  |
 | [Snack Food](https://open.spotify.com/track/3jj5yMOcG5AwOGBwAUijff) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ) | [Snack Food](https://open.spotify.com/album/6gI8kzBjSkZN6DUTiDQhtZ) | 3:46 | 2022-02-18 | 2022-08-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 424559,
+  "num_followers": 424716,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMDJiYzExZTQ0MTYzMzQ2MjUzZWNhMDkwMmEyMWY2OGEz",
+  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMGM0NTg2MGUzYjFhODYyMTE5ZGY5NjQ0NDk4MTM4OTU5",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260533,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 207029,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260533,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
     },
     {
       "added_at": "2022-07-21 17:03:38",

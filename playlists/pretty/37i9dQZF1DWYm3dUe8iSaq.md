@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,315 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,375 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 2 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 3 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
 | 4 | [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 |
-| 5 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 |
+| 5 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 6 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 |
 | 7 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
 | 8 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 62 | [Someone's Daughter](https://open.spotify.com/track/0EnyrELYciaIPQCQKdElAz) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/09S56ScuJckcQwKscgYn3k) | 3:32 |
 | 63 | [Rest](https://open.spotify.com/track/1yxiUqnKMOBKtMa3qHme3V) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [I Have Hope](https://open.spotify.com/album/4nepn7zOSio2f9VYWBMsyy) | 2:31 |
 | 64 | [Mother In The Sky](https://open.spotify.com/track/7fyX5m7szAoc3xwgA8EbsL) | [Brigid Mae Power](https://open.spotify.com/artist/4uBunSqfCPl9OrLhRifPwK) | [Mother In The Sky](https://open.spotify.com/album/15NqFyaEbqXbxXReanWTyv) | 3:35 |
-| 65 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc) | 4:02 |
+| 65 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn) | 4:02 |
 | 66 | [I'll Be Fine](https://open.spotify.com/track/6hx56UpTxacCNBHR2iDOwN) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [I'll Be Fine](https://open.spotify.com/album/72ngbBpDHcAAzFGXJKQ4DE) | 4:08 |
 | 67 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 |
 | 68 | [Company Car](https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Cubicle](https://open.spotify.com/album/1AZnBpcbI5gTWkQlqoIhy3) | 3:02 |
 | 69 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 |
-| 70 | [Hope It Hurts You](https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/7jBtZEqyK3u48lhYTme83n) | 3:47 |
+| 70 | [Hope It Hurts You](https://open.spotify.com/track/4v5YxnilyEdntIZVfNVYJi) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/1RuUagBpjWf4K4r13ZBmGp) | 3:47 |
 | 71 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 |
 | 72 | [Spill](https://open.spotify.com/track/7dypjDl8BjW7DZTuPHdk53) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/5xT0WOgcXxOTYHvNY9TwtU) | 4:21 |
 | 73 | [Tie Dye Sky](https://open.spotify.com/track/5ULS4kXKJNRkG9mujwVk0l) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Silver Lake](https://open.spotify.com/album/2Nrtj9B5oaJjJh1fOpBtQZ) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 |
 | 80 | [Dream State](https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Dream State](https://open.spotify.com/album/6cdULH9wOqEHIfsOVcJkPX) | 3:27 |
 
-Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMDA1ZjAzMWUzYzljNzRkNzBjNTlkNTc4Y2UwMjY4MmQ0`
+Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMGMzZGE0OTgxMmQ2MWI3OTViZjY1ZjJlMWUzODBjY2Yx`

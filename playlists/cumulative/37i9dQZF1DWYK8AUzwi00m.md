@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-139 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+140 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Frosty Walk](https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:09 | 2021-12-20 |  |
 | [Grandma’s Cherry Yum Yum](https://open.spotify.com/track/5SfwqSF51zpyrARP4sJo6J) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Grandma's Cherry Yum Yum](https://open.spotify.com/album/38WcPnpRbpp8sAOAT84ZRR) | 2:07 | 2021-12-20 |  |
 | [HA! Santa!](https://open.spotify.com/track/0XvkcbKTbiXlK3wZVuqTzM) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/1D8rDE8V5nBdQClAWZRv4X) | 3:00 | 2021-12-20 | 2022-07-29 |
-| [HA! Santa!](https://open.spotify.com/track/23nJx0537xxLV9KeYE5AOR) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 3:00 | 2021-12-20 |  |
+| [HA! Santa!](https://open.spotify.com/track/23nJx0537xxLV9KeYE5AOR) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 3:00 | 2021-12-20 | 2022-10-14 |
+| [HA! Santa!](https://open.spotify.com/track/45PRMPtQ163u47G79aqFbG) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 3:00 | 2022-09-30 |  |
 | [Happy New Year](https://open.spotify.com/track/6kDk8ovTjSwHmhmp2TlPew) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Christmas Blues](https://open.spotify.com/album/3eQcZ7iihN1QVapxDip2Uu) | 1:27 | 2021-12-20 |  |
 | [Have Yourself a Cozy Christmas](https://open.spotify.com/track/4FHpuJMkrevo3UXWNZ3KfG) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Have Yourself a Cozy Christmas](https://open.spotify.com/album/1k3BRqUpJgNhhMk1pCPscf) | 3:18 | 2021-12-20 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/63R9mcsJilIGl2J3RhV51y) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Home for Christmas](https://open.spotify.com/album/2tMEEVhJ7i6NGRDTKxhg2T) | 1:55 | 2021-12-20 |  |

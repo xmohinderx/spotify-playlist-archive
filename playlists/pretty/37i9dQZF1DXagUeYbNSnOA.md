@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,223 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,222 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,22 +29,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 19 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 |
 | 20 | [nublado](https://open.spotify.com/track/5l9D9Uzeba8H3vVbEEoWnd) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [nublado](https://open.spotify.com/album/1XIcyGupJrLUYtX2JlElVr) | 3:23 |
 | 21 | [Pisoteo](https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:35 |
-| 22 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 |
-| 23 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
-| 24 | [Bandolera](https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Bandolera](https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3) | 4:34 |
-| 25 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
+| 22 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
+| 23 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 |
+| 24 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
+| 25 | [Bandolera](https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Bandolera](https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3) | 4:34 |
 | 26 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
 | 27 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
 | 28 | [Posguerra](https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Posguerra](https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF) | 4:11 |
-| 29 | [Palmeras](https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM) | [Palmeras](https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm) | 3:21 |
-| 30 | [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 |
+| 29 | [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 |
+| 30 | [Palmeras](https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM) | [Palmeras](https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm) | 3:21 |
 | 31 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
 | 32 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 |
 | 33 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
 | 34 | [Bambi](https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT) | [Koi Pali](https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33) | [Bambi](https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG) | 3:10 |
 | 35 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
-| 36 | [Medusa](https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Medusa](https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G) | 4:07 |
-| 37 | [Dos](https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Dos](https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n) | 2:54 |
+| 36 | [Dos](https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Dos](https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n) | 2:54 |
+| 37 | [Medusa](https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Medusa](https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G) | 4:07 |
 | 38 | [Flow Natty](https://open.spotify.com/track/7EDf9zG0Xan6ZT7QatIsYq) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Relax Buay](https://open.spotify.com/artist/3BRqgBejceV380iCe3RPAq), [Darnelt](https://open.spotify.com/artist/4LLUyAiSXJwDzoSCDa1q51), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [Flow Natty](https://open.spotify.com/album/0STCOjnotffOUHHmUnWzm7) | 3:06 |
 | 39 | [Perico](https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Perico](https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca) | 3:24 |
 | 40 | [Yendo](https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Yendo](https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj) | 3:14 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 56 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
 | 57 | [Es el Final Me Alejo](https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo) | [Hermanas](https://open.spotify.com/artist/6DhjvxaxmaX7X9WGAGnxSr), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Hermanas](https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54) | 3:21 |
 
-Snapshot ID: `MTY2NTAwMDE1MCwwMDAwMDAwMDM2M2QwNDJkNGVjYzNkMzQyODc1NGVhY2VkMDU0ZTdm`
+Snapshot ID: `MTY2NTAwMDE1MCwwMDAwMDAwMDAzNTlkY2ZlNzRmNGQ0NTI4ZWYyMDU0NWFlMjY1Yzg0`

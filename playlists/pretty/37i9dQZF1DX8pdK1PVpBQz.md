@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Vallé Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,796 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,811 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 59 | [Now Now](https://open.spotify.com/track/4WHwtUMjfcPdh40UsLRk7R) | [Chloe Dadd](https://open.spotify.com/artist/7uXyXCNAbNu5X6BdPFBWrj) | [Now Now](https://open.spotify.com/album/6kl5kBHRJJuoqRNZMJov9Z) | 3:45 |
 | 60 | [Hysteria](https://open.spotify.com/track/0p215U9sa25L7PbagGZePd) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/55UVzn8ia0Nk7mXodEejff) | 4:03 |
 | 61 | [Hoodie Girl](https://open.spotify.com/track/1dlblCTSdteXr9uuvAqycG) | [June Jones](https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8) | [Pop Music for Normal Women](https://open.spotify.com/album/2uCUgYgoPX7J6b6BTRCfPH) | 3:22 |
-| 62 | [Daisy](https://open.spotify.com/track/3w9vuwxS1KKV2uesqZPGWR) | [D.E.L](https://open.spotify.com/artist/0XCOqb0sQxtEjujH2yHNh1) | [Daisy](https://open.spotify.com/album/24aooAbLiDJKeKzbPm3sgA) | 3:15 |
+| 62 | [Daisy](https://open.spotify.com/track/58CNmcEtly0H1Viw52dO8b) | [D.E.L](https://open.spotify.com/artist/0XCOqb0sQxtEjujH2yHNh1) | [Daisy](https://open.spotify.com/album/6kHmcq1Lppm5otfjp5cpu7) | 3:15 |
 | 63 | [NICE TO KNOW YA](https://open.spotify.com/track/7sFzD64TIhOTxJwvcuIbud) | [Matilda Pearl](https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw) | [NICE TO KNOW YA](https://open.spotify.com/album/4zETLbpczakxNj0F8DOJZL) | 3:34 |
 | 64 | [make you mine](https://open.spotify.com/track/7crJEL4qv9SAlTUcbn8eSq) | [miniskirt](https://open.spotify.com/artist/4FeVjRfJv6IoeY4IBmXjSb) | [make you mine](https://open.spotify.com/album/5eWO6ERKcKIKoAtgGv8xgz) | 4:05 |
 | 65 | [Mad](https://open.spotify.com/track/1TBPNMm6q0zqCJ7rQa0Hwf) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Mad](https://open.spotify.com/album/0P1Ab55WHo8RlAJ01M7SjZ) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [SNOW](https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [SNOW](https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc) | 2:57 |
 | 100 | [Dreams](https://open.spotify.com/track/3Xeh5UjgDMFEk3VaY4PBmU) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [Dreams](https://open.spotify.com/album/7BtC5wUYfab3eIsfBACAVU) | 2:25 |
 
-Snapshot ID: `MTY2NTU0Mjc0MSwwMDAwMDAwMDYxYjkxNGZmYTU2OWIxNjA5ZGRjNGFlOWRhZDNjYzk4`
+Snapshot ID: `MTY2NTU0Mjc0MSwwMDAwMDAwMDcyYWMzN2RlNDJkODRjYmExNWRkYTAyOTA1NjdmNmYx`

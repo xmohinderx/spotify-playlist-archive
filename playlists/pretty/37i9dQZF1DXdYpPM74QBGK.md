@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 
 > Party on with these top children's tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182 likes - 53 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183 likes - 53 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 38 | [Bluey Theme Tune \(Instrument Parade\)](https://open.spotify.com/track/3CJILR96FAOiUMI28WgQ2E) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Bluey Theme Tune \(Instrument Parade\)](https://open.spotify.com/album/112x8xTSZ4FuxcaRtgGELc) | 2:12 |
 | 39 | [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 |
 | 40 | [Mood](https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 1:59 |
-| 41 | [PAW Patrol Opening Theme](https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf) | 0:40 |
+| 41 | [PAW Patrol Opening Theme](https://open.spotify.com/track/6J5tBYqpU2amNkTkIPHCHE) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1) | 0:40 |
 | 42 | [Just Sing \(Trolls World Tour\)](https://open.spotify.com/track/139tsLjqIp7RJo22lAaTPs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA), [Sam Rockwell](https://open.spotify.com/artist/6WPC3Dc27kiyJ14fZbDXMl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 4:00 |
 | 43 | [Say So](https://open.spotify.com/track/4cyJyQEHdQm7UvkFrvStSV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 3:06 |
 | 44 | [Attitude of Gratitude](https://open.spotify.com/track/5NxxULb19bVJdMts6BcKda) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Kelly Kale](https://open.spotify.com/artist/7EVuqx4qpKmizMvpTgtezN) | [Black to the Future](https://open.spotify.com/album/6HzrFf1o9fp3f5CSPI6YUb) | 3:45 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 52 | [I Can See Clearly Now](https://open.spotify.com/track/30WMRYHqSYfzrrp80t1fGv) | [Anika Moa](https://open.spotify.com/artist/0ty8H0HaqWvIW9tTLoBSGF) | [Songs for Bubbas 3](https://open.spotify.com/album/6VI0W5tx6WU9Jq5YIcxlVg) | 2:36 |
 | 53 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/3N6kzbnfpTPB5J9NAGc1rU) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:32 |
 
-Snapshot ID: `MTYzODQ2NjAyNSwwMDAwMDAwMDExZmU4OTk5NWI2YWEwYmM5MjM2ZmY1MWU5YjRlODlk`
+Snapshot ID: `MTYzODQ2NjAyNSwwMDAwMDAwMDhjMzM1YjZkZjY1ZGZmYmJiZThjYjc3NTZlMjU2ZTk0`

@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-107 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+108 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Echo Park](https://open.spotify.com/track/3vEIzJE4xGmfmufxa5QVGr) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [Echo Park](https://open.spotify.com/album/1NiFRjtKzHtLTX2yOGZ5Xm) | 3:15 | 2019-05-24 | 2022-07-27 |
 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 | 2019-05-24 |  |
 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 | 2018-12-11 | 2022-10-13 |
+| [Edition](https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4) | 1:55 | 2018-12-11 |  |
 | [Every High](https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High](https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl) | 3:33 | 2018-12-11 |  |
 | [Every High](https://open.spotify.com/track/7vLqTNvm9cBl74CeiWmcId) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High / Clear Air](https://open.spotify.com/album/49QehWRE2HdUglkzcysZW9) | 3:33 | 2018-12-11 | 2022-07-29 |
 | [Faces](https://open.spotify.com/track/56pbX11yH6Ud2nuprJ111k) | [Mantis Hands](https://open.spotify.com/artist/1iqF9deWyPSHS48JzVFUk4), [Takkin](https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d) | [Faces](https://open.spotify.com/album/5z0nZiOFUEMlewHJXY3ot4) | 3:30 | 2019-03-18 | 2022-07-29 |
@@ -66,7 +67,7 @@
 | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0) | 3:20 | 2018-12-11 |  |
 | [INT.](https://open.spotify.com/track/0PkdPVAAf35WruJQsj9OSb) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP](https://open.spotify.com/album/7nONNWbe5d7OrhVPzivguN) | 1:27 | 2018-12-11 | 2022-07-29 |
 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 | 2018-12-11 |  |
-| [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2018-12-11 |  |
+| [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2018-12-11 | 2022-10-14 |
 | [Loss](https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Loss](https://open.spotify.com/album/5p9mx2AX05jn6rzjzKUYNX) | 3:39 | 2018-12-11 | 2022-07-29 |
 | [Mercury](https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/7vajxfrenQypkMf4vXj5nI) | 5:35 | 2019-09-16 |  |
 | [Money](https://open.spotify.com/track/1Pvp3lLLxoc0qKBDUjHvvn) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Money](https://open.spotify.com/album/1o78NPweWzYF2cH9iWayZg) | 3:59 | 2018-12-11 | 2022-07-29 |

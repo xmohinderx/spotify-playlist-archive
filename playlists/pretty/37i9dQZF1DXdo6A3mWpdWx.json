@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 302644,
+  "num_followers": 303723,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ0NjQwMCwwMDAwMDAwMDJmNzY2ODM3ZTUyODlmMThlNTUwMjAwNGY1ZGI2ODdj",
+  "snapshot_id": "MTY2NTQ0NjQwMCwwMDAwMDAwMDcwZjk4MWM4NDg2OThlYTJhMzdiYzQ1OTBlOTIyNWE3",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 254933,
       "name": "Black or White",
       "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Totally Krossed Out",
         "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 195106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 285426,
       "name": "The Riddle",
       "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
       "artists": [
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+      "duration_ms": 290493,
+      "name": "Hey Boy Hey Girl",
+      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
         }
       ],
-      "duration_ms": 290493,
-      "name": "Hey Boy Hey Girl",
-      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Move It!",
-        "url": "https://open.spotify.com/album/4lXuOVx1V9uhjr0v6MWDRI"
-      },
-      "artists": [
-        {
-          "name": "Reel 2 Real",
-          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
-        },
-        {
-          "name": "The Mad Stuntman",
-          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
-        },
-        {
-          "name": "Erick Morillo",
-          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
-      "url": "https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1383,6 +1359,30 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Move It!",
+        "url": "https://open.spotify.com/album/4lXuOVx1V9uhjr0v6MWDRI"
+      },
+      "artists": [
+        {
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        },
+        {
+          "name": "Erick Morillo",
+          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
+      "url": "https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Saturday Night Single",
-        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
-      },
-      "artists": [
-        {
-          "name": "Whigfield",
-          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
-        }
-      ],
-      "duration_ms": 247405,
-      "name": "Saturday Night - Radio Mix",
-      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 217539,
-      "name": "We're Going To Ibiza!",
-      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
       "artists": [
         {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
         }
       ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+      "duration_ms": 217539,
+      "name": "We're Going To Ibiza!",
+      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 269973,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "No Time To Chill",
-        "url": "https://open.spotify.com/album/2lldMBYhZgr1mY7bg3bzKb"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "How Much Is The Fish?",
-      "url": "https://open.spotify.com/track/31JhTEAWmmhZIZTm40pQZr"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "To The Maxximum",
         "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 226773,
       "name": "Get A Way",
       "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "No Time To Chill",
+        "url": "https://open.spotify.com/album/2lldMBYhZgr1mY7bg3bzKb"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "How Much Is The Fish?",
+      "url": "https://open.spotify.com/track/31JhTEAWmmhZIZTm40pQZr"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Two Can Play That Game",
         "url": "https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 306000,
       "name": "Freestyler",
       "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "May The Forze Be With You",
-        "url": "https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Rainbow In The Sky - Radio Edit",
-      "url": "https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Now I'm Singin'... (And the Party Keeps on Rollin')",
         "url": "https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 214666,
       "name": "Dear Jessie",
       "url": "https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "May The Forze Be With You",
+        "url": "https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Rainbow In The Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 223535,
-      "name": "Dreamer - Janice Robinson Vocal",
-      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 223535,
+      "name": "Dreamer - Janice Robinson Vocal",
+      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
     },
     {
       "added_at": "2022-10-11 00:00:00",

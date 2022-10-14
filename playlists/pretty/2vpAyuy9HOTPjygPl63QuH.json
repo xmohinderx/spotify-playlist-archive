@@ -1,13 +1,29 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5311,
+  "num_followers": 5315,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NjE0MCw3MzM4MjNkYzBiZjBmYzYzODZmMGJlYWRkZmY0OGEwYjRmYjNmNjAz",
+  "snapshot_id": "NjE0Miw2OTUwMTk4YTRmNWNkNmYwNWRmZDFiY2M0ZjRmYWIwZTFmZGIyZTQ2",
   "tracks": [
+    {
+      "added_at": "2022-10-13 23:01:25",
+      "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 153350,
+      "name": "Never Say Never",
+      "url": "https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I"
+    },
     {
       "added_at": "2022-10-07 07:32:38",
       "album": {

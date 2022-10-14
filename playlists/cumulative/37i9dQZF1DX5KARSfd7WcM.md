@@ -4,7 +4,7 @@
 
 > The official playlist for Heartstopper\. Watch now on Netflix!
 
-40 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/0G1uVTUNlFPG93qLUAtTWg)
+41 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/0G1uVTUNlFPG93qLUAtTWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 | 2022-05-02 |  |
 | [Don’t Leave Me \(Chapter 1: Despair\)](https://open.spotify.com/track/7nhItOdjPls6dqewYNSXRT) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Don't Leave Me](https://open.spotify.com/album/5younwrp5jJoG1iopcoLRV) | 3:32 | 2022-05-02 |  |
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-05-02 |  |
-| [fever dream](https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 3:16 | 2022-05-02 |  |
+| [fever dream](https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:16 | 2022-05-02 |  |
+| [fever dream](https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 3:16 | 2022-05-02 | 2022-10-14 |
 | [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 | 2022-05-02 |  |
 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 | 2022-05-02 |  |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2022-05-02 | 2022-10-13 |

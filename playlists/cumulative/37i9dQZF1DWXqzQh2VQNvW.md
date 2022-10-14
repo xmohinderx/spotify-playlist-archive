@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-174 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+176 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-09-05 |  |
 | [5 MO' MINUTES](https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [5 MO' MINUTES](https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5) | 2:41 | 2022-09-16 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-25 |  |
-| [Addicted to Losing You](https://open.spotify.com/track/3H0zg6Ds3b54ogapWxya7Q) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/5vW820SQTJNhpuzQJhR1eo) | 2:29 | 2022-01-25 |  |
+| [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 | 2022-09-23 |  |
+| [Addicted to Losing You](https://open.spotify.com/track/3H0zg6Ds3b54ogapWxya7Q) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/5vW820SQTJNhpuzQJhR1eo) | 2:29 | 2022-01-25 | 2022-10-14 |
 | [Ain't Got Nothin' Figured Out](https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Ain't Got Nothin' Figured Out](https://open.spotify.com/album/0oTaygkYZPGj8dOvRqW6IB) | 3:25 | 2022-09-16 |  |
 | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/track/3i0CZ8RoNRrNoNkHzm8UYQ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/album/2KmGCyKY57BZUfuH33BZnV) | 2:51 | 2022-01-25 | 2022-09-24 |
 | [Almost Perfect Selection Of Words](https://open.spotify.com/track/0rSzHyZ5EEwtcQsC5Kd0fK) | [Rocket Pengwin](https://open.spotify.com/artist/0hBZ45qYES73gIuo5YkjOn) | [Planet Earth](https://open.spotify.com/album/2HsVnfwAceTu06SFRJzriV) | 3:58 | 2022-01-25 | 2022-07-12 |
@@ -120,7 +121,8 @@
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2022-01-25 |  |
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2022-01-25 |  |
 | [Northern Towns](https://open.spotify.com/track/689vwSsc5umNZaG4B4Zqhh) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/0rYpfUMgOBdTGe9Qpw4Ud1) | 2:56 | 2022-01-25 | 2022-07-29 |
-| [Northern Towns](https://open.spotify.com/track/6mDhfhAYl4FdNZIhQNq5yf) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/6cFbP9PdYmUSyCU8ezsIUK) | 2:56 | 2022-07-25 |  |
+| [Northern Towns](https://open.spotify.com/track/6mDhfhAYl4FdNZIhQNq5yf) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/6cFbP9PdYmUSyCU8ezsIUK) | 2:56 | 2022-07-25 | 2022-10-14 |
+| [Northern Towns](https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8) | 2:56 | 2022-09-23 |  |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-02-25 |  |
 | [Number One](https://open.spotify.com/track/644E5d35TEHlr7UeYSdFBe) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Number One](https://open.spotify.com/album/64YHT8TnZULAh0mlpA08GY) | 4:01 | 2022-01-25 | 2022-03-18 |
 | [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 | 2022-09-19 |  |

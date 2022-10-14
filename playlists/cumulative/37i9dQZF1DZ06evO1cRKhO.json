@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 1775066,
       "name": "1977 Performance",
       "url": "https://open.spotify.com/track/426VAuDnORB8piXMXkrbpK"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 948600,
       "name": "Duo for Accordion & Bandoneon",
       "url": "https://open.spotify.com/track/0Q7j4wnChUGkIhxVfmVzDv"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 129065,
       "name": "Gravity Wins",
       "url": "https://open.spotify.com/track/52QnTntelHXZDUCfDAZskY"
@@ -1158,6 +1158,32 @@
     },
     {
       "album": {
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282813,
+      "name": "Photonic Dance",
+      "url": "https://open.spotify.com/track/0dtNZJou6NptVMtC4DFsyn"
+    },
+    {
+      "album": {
         "name": "phase/transitions (vol. 2)",
         "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
       },
@@ -1257,7 +1283,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 330320,
       "name": "Pulling Rank",
       "url": "https://open.spotify.com/track/5ivWFisjOYaEdm0qhVtSUk"
@@ -1317,7 +1343,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 147973,
       "name": "Quartetto Telematico #5",
       "url": "https://open.spotify.com/track/7ys0YWoEWq7fddPr4pz7Eh"
@@ -1527,7 +1553,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 197920,
       "name": "Several Other Notions",
       "url": "https://open.spotify.com/track/2TaE1SwczjqKKVNxINSBQA"
@@ -1633,7 +1659,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 780466,
       "name": "Spin Density",
       "url": "https://open.spotify.com/track/5P5vf7XIvku60wurI5VZCI"
@@ -1747,7 +1773,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 1377840,
       "name": "Team and Desecrations Improvisation",
       "url": "https://open.spotify.com/track/3cRqpTWpQ0vm7kpix29RZ3"
@@ -1827,7 +1853,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 448306,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/0KKtoErDaqimf2hZfEw3VL"

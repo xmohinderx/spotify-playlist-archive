@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-179 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+182 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
 | [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 |  |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2022-04-15 |  |
+| [Antibes \(Edit\)](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP) | [Leo Lemón](https://open.spotify.com/artist/0UV1gZRx5rxnptMwUtFRqQ) | [Antibes \(Edit\)](https://open.spotify.com/album/6yYduz4N7FvAdHT4ZBJObY) | 2:37 | 2022-10-14 |  |
 | [Apollo](https://open.spotify.com/track/5sIlFL8mCj6AIrRDI1d6mT) | [Donkels](https://open.spotify.com/artist/6as2EDg4VeljtLbtgBy54P) | [Apollo](https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk) | 2:26 | 2022-04-15 | 2022-08-19 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2022-04-15 | 2022-05-11 |
 | [Attakai](https://open.spotify.com/track/31oZ4m7CyWTwpYD7R6NPTz) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Attakai](https://open.spotify.com/album/53wJqYooEt4qWtG8fzLNoQ) | 3:13 | 2022-08-19 |  |
@@ -56,6 +57,7 @@
 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 | 2022-04-15 |  |
 | [Doja Dojo](https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Doja Dojo](https://open.spotify.com/album/3oyC5IKHH1VdM7L9o18gfA) | 4:12 | 2022-04-15 |  |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2022-04-15 |  |
+| [Dress Code](https://open.spotify.com/track/4FAplJVLA4DZ021mNlQooP) | [Gridlocks](https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO) | [Dress Code](https://open.spotify.com/album/7tIzQ9i65nq4YsQCZznkHg) | 2:18 | 2022-10-14 |  |
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2022-04-15 | 2022-05-11 |
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2022-04-15 |  |
 | [Drops of Love in an Ocean of Hate](https://open.spotify.com/track/5Q4tISg9nqORTnOxVhdhar) | [Vossberg](https://open.spotify.com/artist/2aztkMjmS8uRYHVejM5QhD) | [Drops of Love in an Ocean of Hate](https://open.spotify.com/album/41HQqH2S2CItiVMNJ05cp2) | 2:55 | 2022-04-15 |  |
@@ -67,6 +69,7 @@
 | [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2022-04-15 |  |
 | [Femme](https://open.spotify.com/track/1ox6W1kkA1C6okKgpQK5e9) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Zanzibar](https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh) | 2:53 | 2022-07-08 |  |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 | 2022-09-02 |
+| [Float](https://open.spotify.com/track/4PlgKsJWBUiQRtqaYkqFZB) | [Brisaque](https://open.spotify.com/artist/1vlSEAUaqja6NwcQ94ASih) | [Float](https://open.spotify.com/album/0b0YFwzQsWlYN609iTYpOf) | 2:52 | 2022-10-14 |  |
 | [Floating](https://open.spotify.com/track/2z1Dv4pDF2J8s6aoV5OHzl) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Floating](https://open.spotify.com/album/75am8qk7ml4rMFqzHpELez) | 3:04 | 2022-05-10 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2022-04-15 | 2022-09-09 |
 | [Flower Burst](https://open.spotify.com/track/7oxc43kWwv1v2Q7N5QQQyX) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Flower Burst](https://open.spotify.com/album/3kBpoP2x8YAOZC3TYWdgPC) | 3:23 | 2022-08-05 |  |

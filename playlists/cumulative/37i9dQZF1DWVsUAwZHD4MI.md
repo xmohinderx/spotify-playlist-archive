@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
+82 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bicstan](https://open.spotify.com/track/0ijKkR37HK5zOX2hm5bOqv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:45 | 2022-09-05 |  |
 | [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 | 2022-09-05 |  |
 | [BREAK MY SOUL \- Nita Aviance Club Mix](https://open.spotify.com/track/4r5CZANZYfNIgAQDJiIMV5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Nita Aviance](https://open.spotify.com/artist/2iKgmLk2mJU1hqI9mGC43K) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 9:54 | 2022-09-05 |  |
-| [Catastral](https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/6BGSFd5qRboHBAEfF0q1Ig) | 3:13 | 2022-09-05 |  |
+| [Catastral](https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Catastral](https://open.spotify.com/album/72bJcpMKicXWaHt322G6as) | 3:13 | 2022-09-05 |  |
+| [Catastral](https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/6BGSFd5qRboHBAEfF0q1Ig) | 3:13 | 2022-09-05 | 2022-10-14 |
 | [Challenge](https://open.spotify.com/track/7FeHMHr520mXY7OXgpsK2Z) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue](https://open.spotify.com/album/0pSBEr0IQtQn2wxKRI4rKY) | 2:33 | 2022-09-05 |  |
 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2022-09-05 |  |
 | [Club GTA](https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 4:06 | 2022-09-05 |  |
@@ -72,7 +73,8 @@
 | [Su Payita \(Gramos\)](https://open.spotify.com/track/2WPFpC4oQxjBpSgsCoQrCf) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Su Payita \(Gramos\)](https://open.spotify.com/album/2kCottSg9MVr1WU5284qM4) | 2:20 | 2022-09-05 |  |
 | [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 | 2022-09-05 |  |
 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 | 2022-09-05 |  |
-| [Testarossa](https://open.spotify.com/track/4HfyaFz85yjeikeF3l6Y0W) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/0pIFnkzgnoGCpGvT7XQIYW) | 3:56 | 2022-09-05 |  |
+| [Testarossa](https://open.spotify.com/track/4HfyaFz85yjeikeF3l6Y0W) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/0pIFnkzgnoGCpGvT7XQIYW) | 3:56 | 2022-09-05 | 2022-10-14 |
+| [Testarossa](https://open.spotify.com/track/4NyxjOX2aMNPAmSmrxY9PJ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/7hcXy9jJgel4us2iha33uv) | 3:56 | 2022-09-05 |  |
 | [There You Go \- Sovereign Remix](https://open.spotify.com/track/1d7Y2isBtFHGUfGon9KjP9) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Can't Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/6PSOOxrBZuoLe88zn0wGQr) | 6:19 | 2022-09-05 |  |
 | [Tic](https://open.spotify.com/track/6rhaQghzTIhGhwebTAe0hD) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tic](https://open.spotify.com/album/0w92mMZkUdgkJIJWGaX83W) | 2:10 | 2022-09-05 |  |
 | [Total Eclipse of the Heart \- Alternative 7 Inch](https://open.spotify.com/track/4TeGZLhI6hIKCwiRCvEkwK) | [Nicki French](https://open.spotify.com/artist/1RfiRshRC2YlSG4Y1zNkAE) | [Total Eclipse of the Heart](https://open.spotify.com/album/5mra2vTBQLmEfPZwtV2alH) | 3:49 | 2022-09-05 |  |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127197,
+  "num_followers": 127198,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY4NyxiNGMwMzI3MThkMmMzZjMzNWExZjM5MTY2ZDE2NzQyN2Y4YTI5ZjA1",
+  "snapshot_id": "MzY4OSw1OGM3YWMyMjI3ODE3OWI0MzE1NjJkYzY5MjkxNDI0NDc1ZDk3NzE4",
   "tracks": [
+    {
+      "added_at": "2022-10-13 16:45:10",
+      "album": {
+        "name": "Invane",
+        "url": "https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW"
+      },
+      "artists": [
+        {
+          "name": "Spag Heddy",
+          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 222861,
+      "name": "Invane",
+      "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
+    },
     {
       "added_at": "2022-10-12 16:34:22",
       "album": {

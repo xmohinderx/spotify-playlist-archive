@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,131 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 | 10 | [Rock With You](https://open.spotify.com/track/0pvSLqJpsU3QrbIZR84uHY) | [Ekolu](https://open.spotify.com/artist/3DK8L6LNTwmg5l3KfzgcRx) | [Rock With You](https://open.spotify.com/album/2vbqleugguJdzAcDaBdOu1) | 3:42 |
 | 11 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 |
 | 12 | [4ever After](https://open.spotify.com/track/4aDA4gJJPDgP1LkBPXJsLs) | [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1), [Ace Hashimoto](https://open.spotify.com/artist/5Y8PCl4iNLDIHGkCMi5i76) | [Onethology: 2003\-2018](https://open.spotify.com/album/0wRU4F1ucOMN2lztZVSzuQ) | 3:04 |
-| 13 | [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 |
+| 13 | [FLOAT](https://open.spotify.com/track/06AzqBM9R9aw3BsyEjDC5F) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/0jxLIJPnHdAKemY2UNXujJ) | 3:03 |
 | 14 | [Danger](https://open.spotify.com/track/2SSgqGZluiStTfYgWRlSu1) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Lose Me](https://open.spotify.com/album/4WenhoWVTKHTu0v3WbsIX2) | 2:57 |
 | 15 | [Like A G6](https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC) | 3:36 |
 | 16 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 | 51 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 52 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 
-Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMDYyMmQ5MGYyN2UzOTMzYWJmMmMwNzAyZmJkM2Q3Yjdh`
+Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMDRiMDUxMWIxMjFlMzJkYWNjNmViNzY5YzQ3NmNhYmJk`

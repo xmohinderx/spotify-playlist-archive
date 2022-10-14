@@ -4,11 +4,12 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/6ekucn6Wbk3jh9UDmm3XTW)
+53 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/6ekucn6Wbk3jh9UDmm3XTW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Match Made In Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 | 2022-05-30 |  |
+| [a new moral low ground](https://open.spotify.com/track/2LqlhqFm6R4b455OGfsU81) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [a new moral low ground](https://open.spotify.com/album/3MIWFjKy0AuyJP2Z6PfNGy) | 3:31 | 2022-10-13 |  |
 | [A Wasted Hymn](https://open.spotify.com/track/7HxPeiu2gKZbGXWJA0bzHn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:34 | 2022-09-10 | 2022-09-12 |
 | [All Love is Lost](https://open.spotify.com/track/7mVy5TK92iX36crfo0hSWH) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 4:20 | 2022-06-01 | 2022-10-09 |
 | [Alpha Omega](https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:55 | 2022-05-30 |  |

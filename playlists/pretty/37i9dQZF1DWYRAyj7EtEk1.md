@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 
 > Éxitos del Pop Latino para que los disfrute toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,759 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,775 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 | 44 | [I Have Questions](https://open.spotify.com/track/3NgCzSW98SsqBdpYcnm4kv) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I Have Questions](https://open.spotify.com/album/5vZ3Yotbw61UDCcyIfMcrr) | 3:41 |
 | 45 | [Ni Una Sola Palabra](https://open.spotify.com/track/5xXYuYk2CzHfk3kLKYmRRb) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj) | 3:44 |
 | 46 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
-| 47 | [Díganle \- Tainy Remix](https://open.spotify.com/track/1l89iNLbzfFN9TsWJORolB) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Díganle \(Tainy Remix\)](https://open.spotify.com/album/6riomP8beIR2o5VENYyZDd) | 3:31 |
-| 48 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 |
+| 47 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 |
+| 48 | [Díganle \- Tainy Remix](https://open.spotify.com/track/1l89iNLbzfFN9TsWJORolB) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Díganle \(Tainy Remix\)](https://open.spotify.com/album/6riomP8beIR2o5VENYyZDd) | 3:31 |
 | 49 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 |
 | 50 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 |
 
-Snapshot ID: `MTY2MjM2NjYwMywwMDAwMDAwMGEyMTY2M2IyNmZlYmZmNmUzZTg4NjUzYmFhZDlhYTk1`
+Snapshot ID: `MTY2MjM2NjYwMywwMDAwMDAwMDcwN2FkNjdjMGVhMzg2NmU1ZDg5NWE0OWQ4NzExMzZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,822 likes - 101 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,991 likes - 101 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 68 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 |
 | 69 | [No Logic \(Acoustic\)](https://open.spotify.com/track/0kfg8qkgNNB13UZx7eJhRo) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic \(Acoustic\)](https://open.spotify.com/album/6BhR7hFBFu0MkS4jaq4xd7) | 2:50 |
 | 70 | [Good Job](https://open.spotify.com/track/3qHo2MASEJ79lbJcaDvhRE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:53 |
-| 71 | [Listen \- Acoustic Version](https://open.spotify.com/track/0T1G4VdmWe9rX37ekFNFJi) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/3YEOY0jQ0vjWKbMQ0vVJ1f) | 4:08 |
+| 71 | [Listen \- Acoustic Version](https://open.spotify.com/track/1ydwuEvDlCNt1IzDvTJI55) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/2pMR3D19EeE4juhM4bSwNA) | 4:08 |
 | 72 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 |
 | 73 | [Radio \- Acoustic](https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:24 |
 | 74 | [Trust in You](https://open.spotify.com/track/1pZjiq5wv1HLMX8RsWVVsr) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Light Will Find You](https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7) | 3:09 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 100 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 |
 | 101 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 |
 
-Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMDZiM2ZiNzM1ZjMxMGJjMDk1ZTU1NDA1ZjRiMGRjNDMx`
+Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMDI4NTcwZGJhOThkYmNjMzJlMzZmZTQ0YzY2OGZkZDE3`

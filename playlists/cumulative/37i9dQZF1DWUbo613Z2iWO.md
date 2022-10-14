@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Dylan Sinclair, JVCK JAMES and Destin Conrad.
 
-379 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+380 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 | 2022-07-29 | 2022-10-08 |
 | [Who's Loving U?](https://open.spotify.com/track/3WXvkQiB4DHUmb8Y6nPRKL) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Who's Loving U?](https://open.spotify.com/album/1MtvJd3KBWHNTgCsrmjs1C) | 2:43 | 2022-07-29 |  |
 | [Wicked](https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Wicked](https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs) | 2:07 | 2022-09-09 |  |
-| [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 |  |
+| [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2022-07-22 |  |
+| [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [Won't Judge](https://open.spotify.com/track/2gzUc6t44Qhl1GUfDgA5uF) | [Adrian Daniel](https://open.spotify.com/artist/0vnUJWW8wWDGcSdwFYCIB0) | [Crimson EP](https://open.spotify.com/album/15dwcK7sqy7EwtMXZVrcQ6) | 3:39 | 2022-04-08 | 2022-04-29 |
 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 | 2022-09-09 |  |
 | [Xtasy](https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Xtasy](https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV) | 2:58 | 2022-05-20 | 2022-08-06 |

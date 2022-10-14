@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend\. Cover: Michigander
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,142 likes - 107 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,226 likes - 107 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 56 | [ENTITLED MAN](https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [ENTITLED MAN](https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp) | 2:25 |
 | 57 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
 | 58 | [Oh Cecilia](https://open.spotify.com/track/6diHlXYoz0YgK3mZ8o1HNT) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Oh Cecilia](https://open.spotify.com/album/7DwaW8e6bF7dVm2eMtpxAF) | 3:20 |
-| 59 | [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 |
+| 59 | [Open Arms](https://open.spotify.com/track/4VXGsmZkyqUmF6ClElnd23) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/2Hg6UT7etsbVHEJLb6aqzg) | 2:32 |
 | 60 | [We Could Get High](https://open.spotify.com/track/1XP8ad1y8ZO2waW4w9gqrh) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [We Could Get High](https://open.spotify.com/album/3yQIForUmxKbu1trz4C2El) | 2:58 |
 | 61 | [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 |
 | 62 | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/track/33tVKYG73t7pCmafa3Yn9f) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/album/5ykzMuRih48Mm81Uf0kxRQ) | 3:51 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 106 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
 | 107 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 |
 
-Snapshot ID: `MTY2NTE2MDAwMiwwMDAwMDAwMDBmMzkyYzM1YmZmNGI3MzkwYzk4Y2JiOGVhYzQ0NzUw`
+Snapshot ID: `MTY2NTE2MDAwMiwwMDAwMDAwMGRmYjZjOWY5OTRkNzc3N2M5ZmZmZTIyYWEzZTJjYWUw`

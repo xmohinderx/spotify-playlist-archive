@@ -4,7 +4,7 @@
 
 > Let it simmer with some smooth R&amp;B.
 
-40 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/2DkFZ3ifqowOjtkTcUTEzD)
+41 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2DkFZ3ifqowOjtkTcUTEzD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [D.A.N.C.E.](https://open.spotify.com/track/2hQCzcb3qyZirWzOD5Yzoj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/3CWD6k4rJIG72OXkSk98tf) | 3:29 | 2015-07-25 | 2022-07-29 |
 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 | 2015-07-25 |  |
 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/46moTNsGydR2SEgHZuRe8R) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/album/2PkbbTjqRtVSY8bBRWBXGY) | 4:58 | 2015-07-25 | 2022-07-29 |
-| [Do What You Like](https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP) | 3:20 | 2015-07-25 |  |
+| [Do What You Like](https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP) | 3:20 | 2015-07-25 | 2022-10-14 |
+| [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 | 2015-07-25 |  |
 | [Feelin \- Original Mix](https://open.spotify.com/track/744oWcHqeWsMPqmw0Kk3nT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Foreign Language Remixes](https://open.spotify.com/album/7oWCvP7IBEsmna9jgYmHoy) | 6:16 | 2015-07-25 | 2022-07-29 |
 | [Feelin \- Original Mix](https://open.spotify.com/track/6XLSATCZY8hLodpoQrfx27) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Foreign Language \(Remixes\)](https://open.spotify.com/album/13vTyQaEtmVgYKrFthfNnx) | 6:16 | 2015-07-25 |  |
 | [Fiona Coyne](https://open.spotify.com/track/1sH2GeOsLFEw714Otu8P9i) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Fiona Coyne / Fall Harder](https://open.spotify.com/album/4QkPP6Rtc2XokIhgw5ieaE) | 4:04 | 2015-07-25 | 2022-07-29 |

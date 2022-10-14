@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Yvzid, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 818 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 828 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 4 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
 | 5 | [Nobody Pass You](https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Weyinmi](https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c) | [Nobody Pass You](https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3) | 2:39 |
 | 6 | [Motivational Quote](https://open.spotify.com/track/4MhpTyGa1IH01zlFuy99aN) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Motivational Quote](https://open.spotify.com/album/0TNNXEi9P8wgb4g26VJ3om) | 3:33 |
-| 7 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/3Hsg7WOEMVJPOXLXWbG2iy) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 |
+| 7 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/38XCa5T2vison2QekvDvWN) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 |
 | 8 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
 | 9 | [Strange Goodbyes](https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB) | [Anou](https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc) | [Strange Goodbyes](https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq) | 4:32 |
 | 10 | [Summer Falls](https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Summer Falls](https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0) | 2:48 |

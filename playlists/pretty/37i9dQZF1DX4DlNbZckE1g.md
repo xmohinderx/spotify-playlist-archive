@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 
 > Lose yourself in the summer daze...
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,498 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,497 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 39 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 |
 | 40 | [Swing of Things](https://open.spotify.com/track/75HWviLbrVpv3MMiAo0ylA) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 2:58 |
 | 41 | [FLARE](https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [FLARE](https://open.spotify.com/album/3xTwXIBYS3w4LjFtIi7hIO) | 3:18 |
-| 42 | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/track/77rik3rlCuVcKVrz7UAzt2) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m), [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/album/4Av2nQdwgjKFFBynZsQkTs) | 3:06 |
+| 42 | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/track/5rm1Ol1UINESXCZyfe6o1S) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m), [Mel Blue](https://open.spotify.com/artist/3swZbHSi8DEZonC120qG4V) | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/album/0o7q7fwphIGBw6bqYyvhyX) | 3:06 |
 | 43 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
 | 44 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |
 | 45 | [I Need a Doctor](https://open.spotify.com/track/5h7QCIkrAcCbdxILyK4pxF) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Journey to the Center of Myself, Vol\. 3](https://open.spotify.com/album/1cS2zM7E9G94LQgat1ANTR) | 2:12 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 76 | [Pineapple Pizza](https://open.spotify.com/track/5GY7EgrHztoGJkGXDdhQCR) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/7rBmAvloiKVHIOHpC5g1ni) | 2:26 |
 | 77 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 |
 | 78 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 |
-| 79 | [Weakness](https://open.spotify.com/track/045scjsVsgs4fJtvUgmWtz) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Weakness](https://open.spotify.com/album/5TJt7cpgQmAxuMkrbFvRif) | 3:27 |
+| 79 | [Weakness](https://open.spotify.com/track/4cQl7fTLLpCbf4g0DpsNDM) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Weakness](https://open.spotify.com/album/2nZIZSq3BVInZoyo9BLVpe) | 3:27 |
 | 80 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 81 | [Never Been More Sure](https://open.spotify.com/track/2SR4wh5i4o2XnKXeCvZ3Tz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Campus](https://open.spotify.com/album/4JQblfPa9FvrUF18GFFNbh) | 4:55 |
 | 82 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 106 | [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 |
 | 107 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 |
 
-Snapshot ID: `MTY0NDQ2NDcwNiwwMDAwMDAwMDgwMDQzMTQ2OTc3YjUwYzA5NWNkMDgwZTgyODUwZTI1`
+Snapshot ID: `MTY0NDQ2NDcwNiwwMDAwMDAwMGRiYjhkZDI5OWY1ZTBmYWM0Y2Q0NjA2Yzc5NTk5Y2Yw`

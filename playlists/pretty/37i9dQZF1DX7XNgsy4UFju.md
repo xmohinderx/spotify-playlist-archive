@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Alvvays
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,264 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,282 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 61 | [Fever Pitch](https://open.spotify.com/track/3hUIWeIiRr12i4afab6fcX) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Fever Pitch](https://open.spotify.com/album/5qhUycMgSZpz0VjJwtowXa) | 3:26 |
 | 62 | [Oh Cecilia](https://open.spotify.com/track/6diHlXYoz0YgK3mZ8o1HNT) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Oh Cecilia](https://open.spotify.com/album/7DwaW8e6bF7dVm2eMtpxAF) | 3:20 |
 | 63 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 |
-| 64 | [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 |
+| 64 | [Open Arms](https://open.spotify.com/track/4VXGsmZkyqUmF6ClElnd23) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/2Hg6UT7etsbVHEJLb6aqzg) | 2:32 |
 | 65 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 |
 | 66 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
 | 67 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Puzzled Thought](https://open.spotify.com/track/3oH3wjuNC6VCS9rj50vO81) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [You're The Boss](https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e) | 4:16 |
 | 100 | [Survivor's Guilt](https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Survivor's Guilt](https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm) | 3:30 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGRlNDU5Y2Q4M2YzZmIyMzI2NmMzZmE3MDVlNWIxYWQz`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGY3NjVhOWI4N2E0Mjc0MmZlMWFlYzJhODE1YjRmNWYw`

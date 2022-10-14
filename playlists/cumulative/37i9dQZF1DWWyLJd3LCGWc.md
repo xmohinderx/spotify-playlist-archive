@@ -4,12 +4,13 @@
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-52 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/513tfrlbDdecPO8RvqG20y)
+53 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/513tfrlbDdecPO8RvqG20y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A No No](https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:07 | 2021-06-01 |  |
-| [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 | 2021-06-01 |  |
+| [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 | 2021-06-01 | 2022-10-14 |
+| [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 | 2021-06-01 |  |
 | [Bad Habits](https://open.spotify.com/track/5MOeskxHd3tFXAm2GbO3Rl) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly) | 3:30 | 2021-06-01 |  |
 | [Bad Habits](https://open.spotify.com/track/6byIdjgogY3Cl9PKw6UnVw) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1NVT1CyJZdyLVPYoBJtWoX) | 3:30 | 2021-06-01 | 2022-07-31 |
 | [Bashiri](https://open.spotify.com/track/52shYYi6lVYuGy1jFNCkgK) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Bashiri](https://open.spotify.com/album/4rxGDBJaJlQacS7KFvBKCu) | 3:19 | 2021-06-01 |  |

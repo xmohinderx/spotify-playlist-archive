@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,229 likes - 230 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,308 likes - 230 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 80 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 |
 | 81 | [Winter Summer](https://open.spotify.com/track/5m38Gw5jWEsaWGLi6ogSmF) | [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Winter Summer](https://open.spotify.com/album/4Gf3zFl4xUzN11HbjzIwz2) | 2:12 |
 | 82 | [Wrong with u](https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Wrong with u](https://open.spotify.com/album/7EYr5e6Qg0RBzLHMhWgZul) | 2:32 |
-| 83 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 |
+| 83 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 |
 | 84 | [July for the Whole Year](https://open.spotify.com/track/2le82Hay56I8TWF8SvQuS0) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Party For One](https://open.spotify.com/album/1JbMn4r3fL5O427ke7rIZb) | 3:24 |
 | 85 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 |
 | 86 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 127 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 |
 | 128 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 129 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 |
-| 130 | [I Wish I Never Met You](https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:31 |
+| 130 | [I Wish I Never Met You](https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU) | 3:31 |
 | 131 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 |
 | 132 | [Handful of Water](https://open.spotify.com/track/4ieunk0Q7WADWYoZMSolwG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura \(Extended\)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 2:31 |
 | 133 | [Nothing Gold Can Stay](https://open.spotify.com/track/3uvvpRZsgVAHJjKMYMJ72w) | [Edison Song](https://open.spotify.com/artist/0oZJQjSMqH0BRibttDsySO) | [Nothing Gold Can Stay](https://open.spotify.com/album/7IoUs1g1jLzpVzhffjREki) | 3:30 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 229 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 |
 | 230 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 |
 
-Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMGE2Y2VlYjU0MWVmYjdmMTU1ZjZkNWVmNTA3MGUzNDQy`
+Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMGFlNzU3ZjE3ZWY5MjgzMjc2NzJjNzMwNzcyYTQ3MmQ0`

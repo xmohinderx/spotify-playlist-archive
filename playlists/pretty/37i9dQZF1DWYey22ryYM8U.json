@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 528698,
+  "num_followers": 528748,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDE2ZGU2MzA4NjUwM2EyZGRiNDAzNGQxM2NjMTQ1YzAx",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGY3ODAyOTBlMTQwMzk2MThhNDIxYTkyZjgzNjBjM2Jm",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 276433,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Cartas Sobre La Mesa",
+        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 191081,
+      "name": "Cartas Sobre La Mesa",
+      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Cuando Te Toco",
+        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 246759,
+      "name": "Cuando Te Toco",
+      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "T\u00fa 1ero",
         "url": "https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 200895,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Cuando Te Toco",
-        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 246759,
-      "name": "Cuando Te Toco",
-      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Friends & Legends",
+        "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Una Mentirita",
+      "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Epicentro",
         "url": "https://open.spotify.com/album/0NHcVoYTR8wZPu7m6DEQXb"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 342932,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/5GJvia553eOd1scNuZJjha"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Friends & Legends",
-        "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Una Mentirita",
-      "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 231333,
       "name": "Cobarde - Remix",
       "url": "https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Comienzos",
-        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 212045,
-      "name": "Me Tienes Mal",
-      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+        "name": "Comienzos",
+        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
         }
       ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
+      "duration_ms": 212045,
+      "name": "Me Tienes Mal",
+      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "La Latina",
-        "url": "https://open.spotify.com/album/54cmjFWKuTIFuvknQlrcVe"
-      },
-      "artists": [
-        {
-          "name": "Michael Stuart",
-          "url": "https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe"
-        }
-      ],
-      "duration_ms": 210528,
-      "name": "La Latina",
-      "url": "https://open.spotify.com/track/2PpsZRMsFNDcJPJul0khH4"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Comienzos",
         "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 238701,
       "name": "Imaginarme Sin Ti - Remix",
       "url": "https://open.spotify.com/track/6b5hDov3xiT6uALZn78GUu"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Ziriguidum",
+        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Ziriguidum",
+      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
     }
   ],
   "unique_name": "Tropical Hits",

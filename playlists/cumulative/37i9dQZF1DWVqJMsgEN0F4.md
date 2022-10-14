@@ -4,7 +4,7 @@
 
 > Mäneskin along with the top Alternative songs of today.
 
-202 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
+203 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Wretched](https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wretched](https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS) | 3:49 | 2022-07-22 |  |
 | [You asked for this](https://open.spotify.com/track/1JbS3r3gT4pK5qWBEShIJU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 4:25 | 2021-08-30 | 2022-01-15 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-05 | 2022-04-02 |
-| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-09-16 |  |
+| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-09-16 | 2022-10-14 |
+| [•NOTDEAD!•](https://open.spotify.com/track/6fRVwblLIfC5DrVH8swfFs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/708yI3q56JA8P8seT9V2zE) | 3:10 | 2022-10-07 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

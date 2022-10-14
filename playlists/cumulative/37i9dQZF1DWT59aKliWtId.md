@@ -4,7 +4,7 @@
 
 > The highest quality blend\. Cover: Michigander
 
-515 songs - 1 day 7 hr 26 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+516 songs - 1 day 7 hr 29 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,8 @@
 | [Only Good Things](https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Only Good Things](https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt) | 3:15 | 2022-08-26 | 2022-10-08 |
 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-08-26 | 2022-09-17 |
 | [Only The Lonely](https://open.spotify.com/track/4oXzEYYm7ZQ3CCmSukXOmo) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ) | 3:52 | 2022-09-16 |  |
-| [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 | 2022-09-16 |  |
+| [Open Arms](https://open.spotify.com/track/4VXGsmZkyqUmF6ClElnd23) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/2Hg6UT7etsbVHEJLb6aqzg) | 2:32 | 2022-10-07 |  |
+| [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 | 2022-09-16 | 2022-10-14 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-26 |  |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-12-10 | 2022-06-04 |
 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-15 |  |

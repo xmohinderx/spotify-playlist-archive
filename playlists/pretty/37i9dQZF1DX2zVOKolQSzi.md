@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,292 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,357 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flow with It \(You Got Me Feeling Like\)](https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:16 |
-| 2 | [Funky Duck](https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 2:10 |
+| 2 | [Funky Duck](https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/0IZRnFA7QE1IbZJOQodEDA) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 2:10 |
 | 3 | [Work It Out](https://open.spotify.com/track/62cr4T5CnlHhRVPLQQ3Var) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Cory Wong and the Green Screen Band](https://open.spotify.com/album/4GMMDXVjbUwzospZCb8Uy9) | 5:39 |
 | 4 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 5 | [Holding On \- Gus Pirelli VIP 7" Disco Mix](https://open.spotify.com/track/5R4Z0iKvKJ70ab2Y1dmgRT) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Gus Pirelli](https://open.spotify.com/artist/3sKGlKlAS9uj2yVVCzT3KO) | [Holding On \(The Remixes\)](https://open.spotify.com/album/0KqeLeHGEvhviC19w8vIEC) | 3:12 |

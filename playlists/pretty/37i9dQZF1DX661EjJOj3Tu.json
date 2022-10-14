@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 479144,
+  "num_followers": 479247,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMDRhOTVmZGMwY2FjNzQxYWQ5N2RkN2MzNGUwYjdiYmE0",
+  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMGZjMmQ4MzQ5ODU1YzgxYzdmOTAxNzUwYjBiZmQyOTg1",
   "tracks": [
     {
       "added_at": "2022-08-31 07:18:00",
@@ -471,18 +471,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
       "artists": [
         {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
+      "duration_ms": 388426,
+      "name": "People",
+      "url": "https://open.spotify.com/track/3g1SiGNM4Rul2vemces7Pp"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -503,22 +507,18 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
       "artists": [
         {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 388426,
-      "name": "People",
-      "url": "https://open.spotify.com/track/3g1SiGNM4Rul2vemces7Pp"
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
       },
       "artists": [
         {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7"
+      "duration_ms": 439893,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/6GV4qDo0rsamI1XitBnFCs"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
         }
       ],
-      "duration_ms": 439893,
-      "name": "Caravan",
-      "url": "https://open.spotify.com/track/6GV4qDo0rsamI1XitBnFCs"
+      "duration_ms": 181733,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Latin Fever",
-        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
-      },
-      "artists": [
-        {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
-        }
-      ],
-      "duration_ms": 314546,
-      "name": "Batida diferente",
-      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 287986,
       "name": "Granada",
       "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Latin Fever",
+        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
+      },
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+        }
+      ],
+      "duration_ms": 314546,
+      "name": "Batida diferente",
+      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+      },
+      "artists": [
+        {
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+        }
+      ],
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "A Donde Voy",
         "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 259853,
       "name": "Don\u00b4t You Worry 'Bout A Thing",
       "url": "https://open.spotify.com/track/5SSN8J2KnrpW1CLpKJhXXO"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
-      },
-      "artists": [
-        {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
-        }
-      ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Ser\u00eda Una Pena",
         "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 261881,
       "name": "Ser\u00eda Una Pena",
       "url": "https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1767,30 +1767,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "ONCE: Concierto para Dos",
-        "url": "https://open.spotify.com/album/4XRSFTsWfCYb8XaOSGYM6I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Sosa",
-          "url": "https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        },
-        {
-          "name": "Dany Leis",
-          "url": "https://open.spotify.com/artist/3OW30xu7VWd5FZprAF4oE9"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "Me Has Echado al Olvido",
-      "url": "https://open.spotify.com/track/7HdnmmBjTOb66oKs8LeqY0"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
@@ -1811,6 +1787,30 @@
       "duration_ms": 311920,
       "name": "En Esta Tarde Gris",
       "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "ONCE: Concierto para Dos",
+        "url": "https://open.spotify.com/album/4XRSFTsWfCYb8XaOSGYM6I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Sosa",
+          "url": "https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        },
+        {
+          "name": "Dany Leis",
+          "url": "https://open.spotify.com/artist/3OW30xu7VWd5FZprAF4oE9"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Me Has Echado al Olvido",
+      "url": "https://open.spotify.com/track/7HdnmmBjTOb66oKs8LeqY0"
     },
     {
       "added_at": "2022-08-31 07:18:00",

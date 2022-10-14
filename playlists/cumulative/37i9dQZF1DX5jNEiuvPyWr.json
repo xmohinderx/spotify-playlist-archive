@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moji x Sboy",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -23,6 +23,24 @@
       "duration_ms": 209503,
       "name": "0 Lucidit\u00e9",
       "url": "https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0"
+    },
+    {
+      "album": {
+        "name": "prepa21",
+        "url": "https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw"
+      },
+      "artists": [
+        {
+          "name": "Simili Gum",
+          "url": "https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "1jour",
+      "url": "https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb"
     },
     {
       "album": {
@@ -405,7 +423,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 169160,
       "name": "Encre noire",
       "url": "https://open.spotify.com/track/0bk75qIrxgJ0FEGbgOzJUg"
@@ -503,6 +521,24 @@
       "duration_ms": 140917,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf"
+    },
+    {
+      "album": {
+        "name": "Follow me",
+        "url": "https://open.spotify.com/album/3xR9aS1Ofxxjvm4iNGT1s4"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Follow me",
+      "url": "https://open.spotify.com/track/4e31rlOaeBSQ4lHj3kFzeM"
     },
     {
       "album": {
@@ -756,6 +792,24 @@
     },
     {
       "album": {
+        "name": "L'AVANCE",
+        "url": "https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125825,
+      "name": "L'AVANCE",
+      "url": "https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W"
+    },
+    {
+      "album": {
         "name": "La Fin",
         "url": "https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef"
       },
@@ -897,7 +951,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 185880,
       "name": "Ma Nana",
       "url": "https://open.spotify.com/track/5gbxLiDOBUTIEKpIxKMeNe"
@@ -1093,7 +1147,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 201879,
       "name": "Nouvelle lune",
       "url": "https://open.spotify.com/track/05Z7wN8UkxnWWpuwL6PptI"
@@ -1111,10 +1165,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 171392,
       "name": "OMERT\u00c0",
       "url": "https://open.spotify.com/track/13eTAuzyWBzGOi6uM8712G"
+    },
+    {
+      "album": {
+        "name": "OTREMOND",
+        "url": "https://open.spotify.com/album/3BXqdqLGMeVCEXKVOzir2e"
+      },
+      "artists": [
+        {
+          "name": "Magnar",
+          "url": "https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "OTREMOND",
+      "url": "https://open.spotify.com/track/2nXui3vCCRdX9Egbsn5Irx"
     },
     {
       "album": {
@@ -1411,7 +1483,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 146573,
       "name": "Sch\u00e9mas Monotones",
       "url": "https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV"
@@ -1451,6 +1523,24 @@
       "duration_ms": 197200,
       "name": "Tapion",
       "url": "https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw"
+    },
+    {
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179962,
+      "name": "TARZAN",
+      "url": "https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-357 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+358 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,8 @@
 | [Tugboats](https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Tugboats \- EP](https://open.spotify.com/album/4YWD3lW1stJ601JlsaBOJ5) | 3:47 | 2022-03-21 | 2022-06-08 |
 | [Turntable](https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:16 | 2022-06-07 | 2022-09-07 |
 | [Two Turtle Doves](https://open.spotify.com/track/3x1cqywJSAokVupnJ6Cjn5) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/2pOgv6Ehh8LcJ6VuSyXVeB) | 4:10 | 2021-12-20 | 2022-03-22 |
-| [Vagabond](https://open.spotify.com/track/3HAgxyWGeJtIVabS2mTREt) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 2:09 | 2022-09-06 |  |
+| [Vagabond](https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 2:09 | 2022-09-06 |  |
+| [Vagabond](https://open.spotify.com/track/3HAgxyWGeJtIVabS2mTREt) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 2:09 | 2022-09-06 | 2022-10-14 |
 | [Walk Me Home](https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Walk Me Home](https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4) | 4:37 | 2022-09-06 |  |
 | [Wayside](https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Been on Your Side](https://open.spotify.com/album/6PuVP3H5LwsKWUy9wytMVo) | 2:37 | 2022-06-07 | 2022-07-29 |
 | [Wayside](https://open.spotify.com/track/5awVHbrgmCrvvK3xOAFI4N) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Been on Your Side](https://open.spotify.com/album/54FwhTptoGEctEZdKjYTc4) | 2:37 | 2022-06-07 | 2022-09-07 |

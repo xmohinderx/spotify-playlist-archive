@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "The Disorder of Appearances",
+        "url": "https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394293,
+      "name": "An Interior of Strange Beauty",
+      "url": "https://open.spotify.com/track/12Ao5gXC6kg8MkL8j7Jn78"
+    },
+    {
+      "album": {
         "name": "An Interior of Strange Beauty / Incoming Call",
         "url": "https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 394293,
       "name": "An Interior of Strange Beauty",
       "url": "https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG"
@@ -338,7 +356,7 @@
       "artists": [
         {
           "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX"
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
         }
       ],
       "date_added": "2020-10-20",

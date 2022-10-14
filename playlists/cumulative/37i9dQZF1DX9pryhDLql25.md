@@ -4,7 +4,7 @@
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-164 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/77F99slL8XuYqo0FuKXNMN)
+165 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/77F99slL8XuYqo0FuKXNMN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Just One of the Guys](https://open.spotify.com/track/2tmL6BDmK6SwOt2ETIgmfo) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Just One of the Guys](https://open.spotify.com/album/7E8KQTfLUnl1NRv515nliJ) | 3:51 | 2019-06-07 | 2022-07-29 |
 | [Just One of the Guys](https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:51 | 2019-06-07 | 2022-07-08 |
 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 | 2019-06-07 |  |
-| [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2019-06-07 |  |
+| [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2019-06-07 | 2022-10-14 |
 | [Lost In My Mind](https://open.spotify.com/track/6AQGlm2uDrOVXPVJE4hrNu) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/490NgrGvR5PX8hWK6bUNsy) | 4:19 | 2019-06-07 | 2022-07-28 |
 | [Lost in My Mind](https://open.spotify.com/track/77hI6DJ12C9WohWk8XUhto) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/4sRUr5XaJYlc17t4jUrqYB) | 4:19 | 2019-06-07 | 2022-07-29 |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2019-06-07 | 2022-07-29 |
@@ -123,6 +123,7 @@
 | [Rhythm & Blues](https://open.spotify.com/track/5bAJhDTVCWVScr5Ev4LnB2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 4:00 | 2019-06-07 |  |
 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 | 2019-06-07 |  |
 | [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 | 2019-06-07 | 2022-10-13 |
+| [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 | 2019-06-07 |  |
 | [Rivers and Roads](https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:44 | 2019-06-07 | 2022-07-29 |
 | [Rye Whiskey](https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Antifogmatic](https://open.spotify.com/album/2C37EWVmuBXjXqxhGwJM5c) | 3:29 | 2019-06-07 |  |
 | [Sedona](https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:59 | 2019-06-07 | 2022-07-29 |

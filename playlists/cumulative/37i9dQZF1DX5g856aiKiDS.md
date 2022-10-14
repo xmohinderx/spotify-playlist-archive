@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-232 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
+233 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/3lwK9QgbybtcQdnp8W1GCQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 | 2022-07-22 |  |
 | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/track/1mVOSArJrcBS0ruOaHVMqK) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f) | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/album/4mUhnVHvEaTwu3yVfX7ede) | 3:19 | 2022-06-20 | 2022-06-26 |
 | [Gloomy Star \(feat\. 1ho & Chan\)](https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:07 | 2022-04-12 |  |
+| [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-10-14 |  |
 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 | 2022-07-04 | 2022-07-23 |
 | [GREEN](https://open.spotify.com/track/3gpLvfmxRFV7HjnC4iQPFb) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [GREEN](https://open.spotify.com/album/4V2QOe9G0YV5vXLHfY6b7J) | 2:54 | 2022-08-12 | 2022-10-06 |
 | [happen](https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F) | [more](https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM) | [Island Island!](https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD) | 2:55 | 2022-07-08 | 2022-07-23 |
@@ -81,7 +82,7 @@
 | [Hello Tutorial](https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X) | 3:22 | 2022-06-20 | 2022-06-28 |
 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-09-05 |  |
 | [Home \(away from home\)](https://open.spotify.com/track/3XEeAlrVUxxS23NOJaF6CC) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [Home \(away from home\)](https://open.spotify.com/album/1O7cZLq8I2Aq2M1n603g10) | 4:48 | 2022-07-04 | 2022-07-09 |
-| [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-08 |  |
+| [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-08 | 2022-10-14 |
 | [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 | 2022-07-23 |
 | [Hug Me Silently 말 없이 안아줘 \(feat\. Crucial Star\)](https://open.spotify.com/track/78kl659eYAIUCkt6LZ4fGE) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Hug Me Silently 말 없이 안아줘 \(feat\. Crucial Star\)](https://open.spotify.com/album/65341el3J8XVp20K1glcRU) | 4:09 | 2022-04-12 | 2022-04-21 |
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-12 |  |

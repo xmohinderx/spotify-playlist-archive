@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 287466,
+  "num_followers": 287565,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDViZmEzNjAxNWY1OTY5NWViNDZlZWQyYjg4ZWYwYjdk",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDcyYzQwMTdmOWQyNmUyNzhhNWQzYWZiNDMwMTQxOGRj",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Bite Me (Acoustic)",
-        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 185955,
       "name": "How Did You Love - Acoustic",
       "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Bite Me (Acoustic)",
+        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Bite Me - Acoustic",
+      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Crooked Shadows",
-        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Heart Beat Here",
-      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 99226,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Heart Beat Here",
+      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
     },
     {
       "added_at": "2022-09-23 04:01:00",

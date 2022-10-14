@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-348 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+351 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 | 2021-12-08 |  |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 |  |
 | [Black Orpheus](https://open.spotify.com/track/1F3JVqEYMtyfSDbdVPlXrW) | [Acoustic Connection](https://open.spotify.com/artist/4G9idcODSdGDMhkGJOIvFl) | [Black Orpheus](https://open.spotify.com/album/7rseTHCACqGwogO4FUmDWI) | 3:32 | 2021-12-08 | 2022-07-08 |
-| [Blame It On My Youth](https://open.spotify.com/track/4fNVjILYK5Qcaqh4N7HOye) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua), [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Blame It On My Youth](https://open.spotify.com/album/2SZYaprEBU5XyEHIT9jrKB) | 2:23 | 2021-12-08 |  |
+| [Blame It On My Youth](https://open.spotify.com/track/4fNVjILYK5Qcaqh4N7HOye) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua), [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Blame It On My Youth](https://open.spotify.com/album/2SZYaprEBU5XyEHIT9jrKB) | 2:23 | 2021-12-08 | 2022-10-14 |
 | [Blue Dreams](https://open.spotify.com/track/2dmBK2WqOlTk39HAs9ghBS) | [Lucas Van Houten](https://open.spotify.com/artist/17Kex2gSw0cTJc6YsDJSCK) | [Blue Dreams](https://open.spotify.com/album/2ohuQT9emUQocJPvKGYBho) | 2:51 | 2021-12-08 |  |
 | [Blue Fins](https://open.spotify.com/track/4zxdRHRpOayb4rlWjKVdie) | [Marina Olivia](https://open.spotify.com/artist/5dDxlodunTX989MWnro1vp) | [Blue Fins](https://open.spotify.com/album/1vGTVD8ZNCiR5DpbXnEbsk) | 3:23 | 2021-12-08 | 2022-08-05 |
 | [Blue Nights](https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Blue Nights](https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO) | 2:38 | 2022-10-07 |  |
@@ -109,6 +109,7 @@
 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 | 2021-12-08 | 2022-04-22 |
 | [Estate](https://open.spotify.com/track/5ypMr7lTJ0WVl1pqIbpAtj) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA), [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Estate](https://open.spotify.com/album/4OJeHNgDlMEbFM0KMwdXG7) | 2:43 | 2021-12-08 |  |
 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 | 2021-12-08 | 2022-06-10 |
+| [Everything and Always](https://open.spotify.com/track/7g6ZfNxy0m8kCJpg6Z7x9T) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Everything and Always](https://open.spotify.com/album/0Q6oKuoURWbiLL1exesmDW) | 3:10 | 2022-10-14 |  |
 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 | 2021-12-08 |  |
 | [Fallen Fruit](https://open.spotify.com/track/7L95JfWMXTT8k3cVTbTE8O) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Fallen Fruit](https://open.spotify.com/album/4FMJXaMvC7ZlkV3DmsyNre) | 3:45 | 2022-09-09 |  |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-01-19 |  |
@@ -169,7 +170,7 @@
 | [Leme](https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:53 | 2021-12-08 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 |  |
 | [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 |  |
-| [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 |  |
+| [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 | 2022-10-14 |
 | [Levitating](https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Levitating](https://open.spotify.com/album/565nU3fGdYAnH8eH7gOuZc) | 4:18 | 2021-12-08 | 2022-05-27 |
 | [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2022-08-19 |  |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2021-12-08 | 2022-06-03 |
@@ -257,6 +258,7 @@
 | [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 2:25 | 2021-12-08 |  |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2021-12-08 |  |
 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 | 2021-12-08 | 2022-06-10 |
+| [Sapphire](https://open.spotify.com/track/7Iil1UUDVl8lHs1t4XtblP) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Sapphire](https://open.spotify.com/album/5RKqIrbcvGmC1SPDN9X6l1) | 1:59 | 2022-10-14 |  |
 | [Sarabande In A Major](https://open.spotify.com/track/7MnFIm6VgmpsvN0Ont5Wsd) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Sarabande In A Major](https://open.spotify.com/album/0cOdJ0RJ6AaWWPqEhap8G0) | 1:39 | 2021-12-08 |  |
 | [Satellites](https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:36 | 2021-12-08 |  |
 | [Second Wind](https://open.spotify.com/track/0L6DEqH0thu3joOOC9Sd4E) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Second Wind](https://open.spotify.com/album/4zb2sYov4uCPxnDgfvxsJO) | 3:02 | 2021-12-08 |  |
@@ -325,6 +327,7 @@
 | [Verlorenes Glück](https://open.spotify.com/track/4cAT9a3DWt0smBFsmC7WEt) | [Lisa Tutti](https://open.spotify.com/artist/3l6n7qWmVJ0c8XquSgiFNX) | [Regental](https://open.spotify.com/album/6NGhehTZxgqdp8yZGHao3F) | 3:04 | 2021-12-08 | 2022-02-02 |
 | [Viento Verde](https://open.spotify.com/track/5RQeIDANgnsWqY9rqHgFG6) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:18 | 2021-12-08 | 2022-09-03 |
 | [Vieques](https://open.spotify.com/track/6CGR3tEuN7SpgKphMgX29Y) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Vieques](https://open.spotify.com/album/7a3lu2zOOxadhzI3Z2cRpV) | 2:43 | 2021-12-08 |  |
+| [Viktoria](https://open.spotify.com/track/0CPpze3C7NCI1djQKMebSR) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Viktoria](https://open.spotify.com/album/5hjsoNapAD0V3Tmk4ueXSw) | 2:43 | 2022-10-14 |  |
 | [Viola](https://open.spotify.com/track/5RV00BhineeA8Pridv87II) | [R.J\. Smith](https://open.spotify.com/artist/0ViPLqxFKIDH5MH3YaTN28) | [Viola](https://open.spotify.com/album/2lWNoK5SqMEQw5DmmohMr9) | 3:09 | 2021-12-08 | 2022-09-09 |
 | [Virginia Roads](https://open.spotify.com/track/4mvPV4OfTqTr3BphyM4Rz1) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 3:21 | 2021-12-08 | 2022-08-05 |
 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-08 | 2022-09-03 |

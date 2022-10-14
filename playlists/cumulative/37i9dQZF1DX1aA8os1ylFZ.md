@@ -4,7 +4,7 @@
 
 > Me and bae = love
 
-158 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
+159 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Uh Baby \- Sad Version](https://open.spotify.com/track/7nu2Wb4OPkH5ISWotOKSrb) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Uh Baby \(Sad Version\)](https://open.spotify.com/album/7AIChYb5phmJN3nOGFnjsT) | 2:43 | 2022-05-06 |  |
 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 | 2022-03-25 |  |
 | [Use Me](https://open.spotify.com/track/1lCuIWvYcXXxLheYI3wgyq) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF) | [Use Me](https://open.spotify.com/album/6JxNpOwdjprJWXSMJGJT5J) | 2:14 | 2022-02-10 |  |
-| [Vibe Doesn't Lie](https://open.spotify.com/track/5sQ8edicOdj8xHNP0bIfx2) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/0h5cShxWVXZL92q4IlDwP2) | 3:18 | 2022-03-10 |  |
+| [Vibe Doesn't Lie](https://open.spotify.com/track/1k0y6lbJZ2YRIbDBECYTNF) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/2RVOqPHzhLkoVoBXX6J2mF) | 3:18 | 2022-07-22 |  |
+| [Vibe Doesn't Lie](https://open.spotify.com/track/5sQ8edicOdj8xHNP0bIfx2) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/0h5cShxWVXZL92q4IlDwP2) | 3:18 | 2022-03-10 | 2022-10-14 |
 | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/track/3cMAS9DjZHrAnKvPrTIw7Z) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F) | 2:33 | 2021-12-16 | 2022-01-21 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2022-03-25 | 2022-07-29 |
 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-22 |  |

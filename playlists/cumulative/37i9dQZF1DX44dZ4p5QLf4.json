@@ -2379,6 +2379,24 @@
     {
       "album": {
         "name": "The In and Out of Love Tape",
+        "url": "https://open.spotify.com/album/1HGjV64pCowXYDK1Tb2tUa"
+      },
+      "artists": [
+        {
+          "name": "Funky DL",
+          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "Kicked to the Curb",
+      "url": "https://open.spotify.com/track/0RG3L67GqmTBBX0kfSAXE8"
+    },
+    {
+      "album": {
+        "name": "The In and Out of Love Tape",
         "url": "https://open.spotify.com/album/2L9YPeuEgWPyFmRbq5JWsD"
       },
       "artists": [
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 233933,
       "name": "Kicked to the Curb",
       "url": "https://open.spotify.com/track/4yzRABpnrtTV3HxOQPzzv7"

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=MXl2ELIYSK2NPKxOWIxTFw\" >Elaine</a> ",
-  "num_followers": 126316,
+  "num_followers": 126471,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNzkxNywwMDAwMDAwMDgxMzhjOTdjMzg2ZThhNmYxOWVhMTYyOTAyMDFmZWFi",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDcwODdiM2U5Y2NhMjRlYTU0MTRjODYxZmViNjVlODJk",
   "tracks": [
     {
       "added_at": "2022-09-23 00:35:05",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "On Yah (Intro)",
+        "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "On Yah - Intro",
+      "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
+    },
+    {
       "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "Made In Lagos",
@@ -235,30 +251,6 @@
     {
       "added_at": "2022-06-08 08:17:06",
       "album": {
-        "name": "Catch A Vibe",
-        "url": "https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        },
-        {
-          "name": "Higo",
-          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
-        },
-        {
-          "name": "Mpho Sebina",
-          "url": "https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN"
-        }
-      ],
-      "duration_ms": 202186,
-      "name": "Paths",
-      "url": "https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
         "name": "Stalling",
         "url": "https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG"
       },
@@ -287,6 +279,22 @@
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Would You Like That",
+        "url": "https://open.spotify.com/album/186IK7qexy8GehSPPOW5PF"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "duration_ms": 148627,
+      "name": "Would You Like That",
+      "url": "https://open.spotify.com/track/7l3TCgaa7no82h2jc4jML5"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -423,6 +431,26 @@
       "duration_ms": 206077,
       "name": "Love, Today",
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Unpopular Opinion",
+        "url": "https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK"
+      },
+      "artists": [
+        {
+          "name": "Bayku",
+          "url": "https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK"
+        },
+        {
+          "name": "Adina Thembi",
+          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
+        }
+      ],
+      "duration_ms": 191778,
+      "name": "Unpopular Opinion",
+      "url": "https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -761,26 +789,6 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
-      "added_at": "2022-08-19 11:34:16",
-      "album": {
-        "name": "Did Enough",
-        "url": "https://open.spotify.com/album/2UoPpnuwA2vT59iIau6NCw"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        },
-        {
-          "name": "Elijah Waters",
-          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Did Enough",
-      "url": "https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW"
-    },
-    {
       "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "A Night In Cocody",
@@ -895,8 +903,8 @@
     {
       "added_at": "2022-07-22 04:35:32",
       "album": {
-        "name": "Wickedest (feat. Haile)",
-        "url": "https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65"
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
       },
       "artists": [
         {
@@ -909,8 +917,8 @@
         }
       ],
       "duration_ms": 195976,
-      "name": "Wickedest (feat. Haile)",
-      "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -1063,26 +1071,6 @@
       "duration_ms": 172621,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
-        "name": "Chinese",
-        "url": "https://open.spotify.com/album/6g0V4asspKqOCxVOYl8NjT"
-      },
-      "artists": [
-        {
-          "name": "OchoForeign",
-          "url": "https://open.spotify.com/artist/4rr4pqnoEJYZSLUSh4S699"
-        },
-        {
-          "name": "Waje",
-          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
-        }
-      ],
-      "duration_ms": 200418,
-      "name": "Chinese",
-      "url": "https://open.spotify.com/track/1UpkXyE8cMfXCq8eEY40BK"
     },
     {
       "added_at": "2022-07-07 23:00:00",

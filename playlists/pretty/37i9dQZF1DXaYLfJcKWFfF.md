@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=a96SvZ2zRaOYehcx75YnXg"> Bien</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,074 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,095 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 8 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
 | 9 | [Smile Before You Sleep](https://open.spotify.com/track/566lx0Fuz2OwQqmdr0PkIX) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 |
 | 10 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 |
-| 11 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 |
-| 12 | [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 |
+| 11 | [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 |
+| 12 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 |
 | 13 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 |
-| 14 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 |
-| 15 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 |
+| 14 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 |
+| 15 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 |
 | 16 | [Titi Dor](https://open.spotify.com/track/1pxGR2ebLpKBC2bS35aYdA) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [Titi Dor](https://open.spotify.com/album/0d36iSQ4Z8SYTIPI9wEGAG) | 5:38 |
 | 17 | [No More Wars](https://open.spotify.com/track/2jTkWgm19fYZgfxxt9eTY3) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [No More Wars](https://open.spotify.com/album/36CHxQaUH868DavFDk71QV) | 3:40 |
 | 18 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Memories \- Remix](https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Remix Tape](https://open.spotify.com/album/5p7mlL4Sx5QaOmPFL0Lyxu) | 3:00 |
 | 50 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 |
 
-Snapshot ID: `MTY2NDUxNzk3MCwwMDAwMDAwMGFmMjdkNDk2YWIzMGE5MjdjNmZiOWJhY2JmYzJjMzI5`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDIxZTBiZjQyMGI5YWVlZDM5NmE3YWE4NDkyZTFjNzQ5`

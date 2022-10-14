@@ -99,7 +99,7 @@
     {
       "album": {
         "name": "Astronaut",
-        "url": "https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM"
+        "url": "https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O"
       },
       "artists": [
         {
@@ -110,6 +110,24 @@
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202966,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/39XuhccP5xec13dC02yIS0"
+    },
+    {
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM"
+      },
+      "artists": [
+        {
+          "name": "Katie Toupin",
+          "url": "https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 202966,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS"
@@ -318,6 +336,24 @@
     },
     {
       "album": {
+        "name": "If My Wife New I\u2019d Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288026,
+      "name": "Every Bottle (Is My Boyfriend)",
+      "url": "https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s"
+    },
+    {
+      "album": {
         "name": "Every Bottle (Is My Boyfriend)",
         "url": "https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP"
       },
@@ -329,7 +365,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 288026,
       "name": "Every Bottle (Is My Boyfriend)",
       "url": "https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3"

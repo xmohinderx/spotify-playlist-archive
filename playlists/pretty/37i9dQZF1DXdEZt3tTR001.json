@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 80423,
+  "num_followers": 80547,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU0MTM2MiwwMDAwMDAwMGNhZDYyZmMzMmI0YzljOGMyMjBjZjNjYWFkMDU1N2Ji",
+  "snapshot_id": "MTY2NTU0MTM2MiwwMDAwMDAwMDJiODFlMGRkZjEyZDMxMmI1ZmU0OTExMzkxODkxN2Yy",
   "tracks": [
     {
       "added_at": "2022-10-12 02:22:42",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Whoa",
+      "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
@@ -1111,6 +1127,22 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 211597,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
         "name": "elephant in the room",
         "url": "https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y"
       },
@@ -1127,18 +1159,22 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
       "artists": [
         {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 211597,
-      "name": "Lay",
-      "url": "https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb"
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -1171,46 +1207,6 @@
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
-        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 238965,
-      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
-        "name": "Communication",
-        "url": "https://open.spotify.com/album/6ttLLA2T9nDaqDyTAaxudU"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9onie Barbot",
-          "url": "https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA"
-        },
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Communication",
-      "url": "https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG"
     }
   ],
   "unique_name": "floating",

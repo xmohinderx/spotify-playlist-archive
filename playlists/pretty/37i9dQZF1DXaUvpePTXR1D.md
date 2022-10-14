@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 
 > Sway your way through the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,546 likes - 140 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,613 likes - 140 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 107 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
 | 108 | [Michigan](https://open.spotify.com/track/4M8po6ZyjH7zL2dyDS3EhF) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 4:47 |
 | 109 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
-| 110 | [Say It Now](https://open.spotify.com/track/0UkwLJL3rIop8vwAwGHjDd) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Say It Now](https://open.spotify.com/album/1eKlnFGyckKc4P06mfzJyK) | 3:23 |
+| 110 | [Say It Now](https://open.spotify.com/track/0L9okesRET4xfjv1HKxFAj) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Say It Now](https://open.spotify.com/album/5271ZmrrDPu0nFOA24zp62) | 3:23 |
 | 111 | [Mirror](https://open.spotify.com/track/5G2Q4Vx9zwBAdQoEWgM8uX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Mirror](https://open.spotify.com/album/1JrRrStvJ9LpCYgYaMUOMH) | 3:14 |
 | 112 | [She's Mine](https://open.spotify.com/track/5MnmTKjatNTY3BJ2DURVjE) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [So Much More \(Special Edition\)](https://open.spotify.com/album/0SEisHFLEEBvCdWMpFcqH7) | 4:32 |
 | 113 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 139 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 140 | [Halfway Up](https://open.spotify.com/track/5HsJGA8P5fPzR06i9FQKBr) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 3:55 |
 
-Snapshot ID: `MTY0Mjc0MTIwMCwwMDAwMDAwMDljOGEzNTRkYjExYjA5ZTFmNWYxMjkwMTczNzA5MzBh`
+Snapshot ID: `MTY0Mjc0MTIwMCwwMDAwMDAwMDY1MWRmZjRhMDcyZmI3OGU3MjEyZjc2YmM0NzdlODg3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 GAYLE in cover",
+  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 con la reunion dei blink!",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -472,6 +472,28 @@
     },
     {
       "album": {
+        "name": "Anima Persa",
+        "url": "https://open.spotify.com/album/41hETtBNsistPUEAtqyXKV"
+      },
+      "artists": [
+        {
+          "name": "As We Are",
+          "url": "https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ"
+        },
+        {
+          "name": "xDiemondx",
+          "url": "https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181574,
+      "name": "Anima Persa",
+      "url": "https://open.spotify.com/track/3TV4zkCQNOaYQc4HccvZSq"
+    },
+    {
+      "album": {
         "name": "Anime Lady",
         "url": "https://open.spotify.com/album/6grvdZizkXcb7rGDaoOG7n"
       },
@@ -581,7 +603,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 149605,
       "name": "BABY GODDAMN",
       "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
@@ -814,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Carrello di SHEIN",
+        "url": "https://open.spotify.com/album/3kg8uZIHCjGWZw0XHi0URV"
+      },
+      "artists": [
+        {
+          "name": "Hydra Shinigami",
+          "url": "https://open.spotify.com/artist/3GyMWEA5C0XEa7CxhaO7jY"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129198,
+      "name": "Carrello di SHEIN",
+      "url": "https://open.spotify.com/track/1T0Tdb0AfVIzbDfnuyJpGC"
+    },
+    {
+      "album": {
         "name": "Che ce ne fotte",
         "url": "https://open.spotify.com/album/513N1be9b9WpVgTT9crAet"
       },
@@ -913,6 +953,24 @@
       "duration_ms": 143906,
       "name": "CIELO DRIVE",
       "url": "https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP"
+    },
+    {
+      "album": {
+        "name": "Coccinelle nere",
+        "url": "https://open.spotify.com/album/5QtI2HPqjpsheqdkj3IPEX"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126274,
+      "name": "Coccinelle nere",
+      "url": "https://open.spotify.com/track/0wmcchV8IeTT5YmRcrgyDW"
     },
     {
       "album": {
@@ -1149,7 +1207,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 116483,
       "name": "Don't Feel Like Feeling Sad Today",
       "url": "https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g"
@@ -1269,6 +1327,24 @@
       "duration_ms": 210413,
       "name": "Dreams Never Die",
       "url": "https://open.spotify.com/track/0XtW8Je8gK2IlOGPktMG68"
+    },
+    {
+      "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
     },
     {
       "album": {
@@ -1537,7 +1613,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -1639,7 +1715,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 164000,
       "name": "Gioia",
       "url": "https://open.spotify.com/track/1NRb0lKQziCaqrl0r2rEBs"
@@ -1780,6 +1856,28 @@
     },
     {
       "album": {
+        "name": "Lilith",
+        "url": "https://open.spotify.com/album/0wdS4kOAxrrnJNyyEqBe3S"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "EDD BATEMAN",
+          "url": "https://open.spotify.com/artist/5TRJP3i4wWKHFVbULeuUUC"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Gotham City",
+      "url": "https://open.spotify.com/track/6DLsle6lTv5zbtZIglRFGU"
+    },
+    {
+      "album": {
         "name": "Guarderai la luna",
         "url": "https://open.spotify.com/album/4S1tJnDu1QWd2nGh95WzZo"
       },
@@ -1897,6 +1995,24 @@
       "duration_ms": 219846,
       "name": "Horror",
       "url": "https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH"
+    },
+    {
+      "album": {
+        "name": "Hot All the Time",
+        "url": "https://open.spotify.com/album/4gAXGVFBGfDnYQL1KVEkej"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181962,
+      "name": "Hot All the Time",
+      "url": "https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh"
     },
     {
       "album": {
@@ -2825,7 +2941,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 160385,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz"
@@ -3159,7 +3275,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 182307,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj"
@@ -3995,7 +4111,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 123239,
       "name": "SBADIGLI - Rearranged",
       "url": "https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh"
@@ -4233,7 +4349,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 221492,
       "name": "SO CHI SEI",
       "url": "https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj"
@@ -4351,7 +4467,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 143110,
       "name": "SOTTOTERRA//",
       "url": "https://open.spotify.com/track/5rnHCNcAvweaHKlq3o3a2u"
@@ -4369,7 +4485,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 173837,
       "name": "Sparami un colpo al cuore",
       "url": "https://open.spotify.com/track/1O7o3tlXWEmNNrjWKQwseI"
@@ -4435,7 +4551,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 136391,
       "name": "STANOTTE",
       "url": "https://open.spotify.com/track/3XfC4Z9zd7zqumicT5ncwZ"
@@ -4677,7 +4793,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 171563,
       "name": "SUMMERSAD 3",
       "url": "https://open.spotify.com/track/3ya2HVjnFFV9y52uhj3qch"
@@ -4859,6 +4975,32 @@
       "duration_ms": 165393,
       "name": "ti dir\u00f2",
       "url": "https://open.spotify.com/track/5vlA0S3wArEk2g3rusAjAB"
+    },
+    {
+      "album": {
+        "name": "Ti voglio richiamare",
+        "url": "https://open.spotify.com/album/0sS1aj3RamIlXyCGkTxzde"
+      },
+      "artists": [
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
+        },
+        {
+          "name": "blame",
+          "url": "https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8"
+        },
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Ti voglio richiamare",
+      "url": "https://open.spotify.com/track/2QV3CdSjJEEXY1koTLZ30q"
     },
     {
       "album": {
@@ -5189,7 +5331,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 196433,
       "name": "Venuto da Vivere",
       "url": "https://open.spotify.com/track/5ybCFXpfeH37QPhaAfgB8X"
@@ -5211,6 +5353,28 @@
       "duration_ms": 144000,
       "name": "Vestita Di Fiori",
       "url": "https://open.spotify.com/track/2bHsanZayVWXyMvtTYS3rZ"
+    },
+    {
+      "album": {
+        "name": "VIOLA (feat. Salmo)",
+        "url": "https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182338,
+      "name": "VIOLA (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L"
     },
     {
       "album": {

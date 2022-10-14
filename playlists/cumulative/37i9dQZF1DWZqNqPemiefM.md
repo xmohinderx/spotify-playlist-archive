@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-432 songs - 1 day 10 hr 47 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+434 songs - 1 day 10 hr 56 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [By The Window](https://open.spotify.com/track/3JWwz9vA04xErfWcZQuccm) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Minor Planet](https://open.spotify.com/album/2w9oe23evWlt31fPXYjkHa) | 4:46 | 2022-03-30 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/5Ux0zCT223DmKcjzISvSDW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Dreaming](https://open.spotify.com/album/6H6xD7PAqpdD7UU6MWbwb2) | 4:39 | 2022-03-30 | 2022-07-29 |
 | [Can You Hear a New World](https://open.spotify.com/track/5aokmmaTYynuYr1yNHealA) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Bishintai](https://open.spotify.com/album/00lHRf4ZxhpGzxtSguayFX) | 3:36 | 2022-03-31 | 2022-06-26 |
+| [Cat and Bird](https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/5VukdAoxbJX1hVb8Jp1VMU) | 4:19 | 2022-10-13 |  |
 | [Catenary](https://open.spotify.com/track/4K5Ip7ZljdnSl3dedcLTft) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Ambient Sleeping Pill Compilation 1](https://open.spotify.com/album/6djoZyqVo0I70OLbq8bJzL) | 10:43 | 2022-03-31 | 2022-04-04 |
 | [Chiaroscuro](https://open.spotify.com/track/3dtlMAmpTUSYETfDEcUY6Q) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [Chiaroscuro](https://open.spotify.com/album/4sNceOj0dZ0LzTRbMMuYKc) | 4:17 | 2022-04-07 | 2022-07-24 |
 | [Childhood](https://open.spotify.com/track/7oji3HikVnxmuOoD1lQedg) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:56 | 2022-03-31 | 2022-07-28 |
@@ -163,8 +164,9 @@
 | [Houseplants While You Are Away on Vacation](https://open.spotify.com/track/4JmuiBI4ERgjUq5VuQpceX) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Houseplant Music](https://open.spotify.com/album/0G7hXY1pGBG7ZbhciEhZyo) | 3:23 | 2022-03-30 | 2022-07-29 |
 | [How Do You Do](https://open.spotify.com/track/1Pl0J7BbchfU8P06XHnnYw) | [Daisuke Hinata](https://open.spotify.com/artist/2gAq9nGIWZwUNFBty6eacu) | [ターザン・ランド \~快適ライフ・ミュージック](https://open.spotify.com/album/3ULdnayIV5SptFzpBT0UWp) | 6:35 | 2022-03-31 | 2022-07-26 |
 | [Huit](https://open.spotify.com/track/0j1cR9gGFvzlA6nFjgzf4D) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/29oEVx1KwMEjdK0bsT2IZu) | 3:50 | 2022-03-31 | 2022-04-17 |
-| [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 | 2022-07-28 |  |
+| [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 | 2022-07-28 | 2022-10-14 |
 | [hum](https://open.spotify.com/track/69AcNc2JDHYq7IqKzVZz4W) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [diario \(2018 remaster\)](https://open.spotify.com/album/7hrtuzagTLeI9Nxitw7N6w) | 5:24 | 2022-04-07 | 2022-07-29 |
+| [Hypha](https://open.spotify.com/track/5d3vScntfWOniIlqiV02SC) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Hypha](https://open.spotify.com/album/6eGFbzsy7oouymykAURlpN) | 5:04 | 2022-10-13 |  |
 | [ice](https://open.spotify.com/track/40wbMmxezAsXctvtAPiqO2) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [out of noise](https://open.spotify.com/album/2ZSDBISEYILWQJipew0pvh) | 3:33 | 2022-03-30 | 2022-04-13 |
 | [Icefall](https://open.spotify.com/track/0Phxp3zSTKDT5D2JtOLvY3) | [Rhythmy](https://open.spotify.com/artist/5OjEKdUndOsD0Msr1Hc26C) | [Icefall](https://open.spotify.com/album/0bRbyB6t9KM4EkjeiQxXoi) | 4:08 | 2022-03-30 | 2022-05-26 |
 | [If I Were \(His Prehistoric Past\)](https://open.spotify.com/track/7ggRWGRW7vZGMVDeTl5U4Q) | [Hoshiko Yamane](https://open.spotify.com/artist/2bz4jlt1M26TmDDQOBbyJT) | [Sketches \(Stories of 100 Years Ago\)](https://open.spotify.com/album/2pACNIcYdMC26mIGtgACuL) | 2:14 | 2022-03-30 | 2022-07-28 |
@@ -312,7 +314,7 @@
 | [Shimmering Lake Emblaze the Shady Trees.](https://open.spotify.com/track/6tHjusOqbHBxr5LEKYXTwe) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Opitope](https://open.spotify.com/artist/5GhcNZictH4RHb1qWXHs4f) | [The Crepuscular Grove](https://open.spotify.com/album/7kM1y74RIDRGD931Sh0uRP) | 7:19 | 2022-03-31 | 2022-06-24 |
 | [Shiosai \- Remix](https://open.spotify.com/track/4nXHTDn9XzPT2xOH2DbEdo) | [Cokiyu](https://open.spotify.com/artist/7zxbGCI5DeZCwpbYXn20it), [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [Shiosai \(Remix\)](https://open.spotify.com/album/6wI4pRNq4SV8LZ4OWJuMHk) | 4:14 | 2022-04-07 | 2022-07-28 |
 | [SHUFFER](https://open.spotify.com/track/6oB6CSjxPe9Vfn9g178Oa2) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:48 | 2022-03-31 | 2022-07-25 |
-| [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2022-03-31 |  |
+| [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2022-03-31 | 2022-10-14 |
 | [Sigh](https://open.spotify.com/track/6Hg7OuJjadElBW1LnLPzpW) | [Motohiro Nakashima](https://open.spotify.com/artist/47PsFNDJiKR2giXf3ey9zG) | [I Dreamt Constellation Sang](https://open.spotify.com/album/6oMpfNSAjseW2Xgxo478Yy) | 3:58 | 2022-03-31 | 2022-05-28 |
 | [Silent Love \- In Search of Something](https://open.spotify.com/track/6AbAuy7NZ3rCPLmAhDAADF) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [A Scene at the Sea \(Takeshi Kitano's Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EKnm3kGWlq1AVco4Fp4F2) | 1:09 | 2022-04-07 | 2022-05-07 |
 | [SLEEP](https://open.spotify.com/track/4hNzwEykt9DWUiU7KRf6Pr) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:25 | 2022-03-31 | 2022-07-26 |

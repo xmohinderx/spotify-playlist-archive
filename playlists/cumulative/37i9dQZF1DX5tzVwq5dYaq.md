@@ -4,7 +4,7 @@
 
 > Musica che, come la primavera, rende tutto più bello.
 
-172 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
+173 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Little Bit of Love](https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:46 | 2021-06-25 |  |
 | [Lockdown Blues](https://open.spotify.com/track/297lodzUenH6moOcg8XXTE) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Lockdown Blues](https://open.spotify.com/album/2NF4aGRD7UiWf2i7zIBRhu) | 3:33 | 2021-06-25 | 2022-07-29 |
 | [Look For The Good \- Single Version](https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy) | 3:59 | 2021-06-25 |  |
-| [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2021-06-25 |  |
+| [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2021-06-25 | 2022-10-14 |
 | [Lot to Learn](https://open.spotify.com/track/3TRFq09DUgYj1mug6RRqJW) | [Luke Christopher](https://open.spotify.com/artist/787bCXOIvGeBw0Bc4kEjhD) | [TMRW](https://open.spotify.com/album/6dgQDrfjCOe7E8ruh1ruWa) | 4:08 | 2021-06-25 |  |
 | [Love On Display](https://open.spotify.com/track/4kdar6ZbJg3lT0rVVNsUyv) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Love On Display](https://open.spotify.com/album/1qRaP04UbnvSHdLMHfmDbv) | 3:03 | 2021-06-25 | 2022-07-29 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 | 2021-06-25 |  |
@@ -131,7 +131,7 @@
 | [Sanctuary](https://open.spotify.com/track/4w5nZwiTpDMTVQdugsXWW7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Sanctuary](https://open.spotify.com/album/20lfleUVkws7cTsMiPD1aF) | 4:26 | 2021-06-25 | 2022-07-27 |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2021-06-25 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 | 2021-06-25 |  |
-| [Seasons](https://open.spotify.com/track/2CEEKREL8eUBhNvsafRAsb) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Seasons](https://open.spotify.com/album/5pYxp6NKGkEZK8E9e6vvox) | 3:19 | 2021-06-25 | 2022-08-22 |
+| [Seasons](https://open.spotify.com/track/2CEEKREL8eUBhNvsafRAsb) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Seasons](https://open.spotify.com/album/5pYxp6NKGkEZK8E9e6vvox) | 3:19 | 2021-06-25 |  |
 | [Secret Tattoo](https://open.spotify.com/track/4wSYUVY7goMZyonPdDwHD3) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Millionaire](https://open.spotify.com/album/75hgrz4Px3jLt7So35zmbw) | 3:47 | 2021-06-25 | 2022-07-29 |
 | [Senti che musica \(feat\. Roy Paci\)](https://open.spotify.com/track/2KwiANo9naMWx4zss6iD8C) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Roy Paci](https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb) | [Senti che musica \(feat\. Roy Paci\)](https://open.spotify.com/album/4HQfaCDfDEaUNrmsXd50g4) | 2:46 | 2021-06-25 | 2022-07-29 |
 | [Shades In The Rain](https://open.spotify.com/track/1ZcF0e6OGoHI4GIaCINUqZ) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Weird & Talkative](https://open.spotify.com/album/7yaKvLwS4P5bLfFdQpcRyJ) | 3:15 | 2021-06-25 | 2022-07-29 |
@@ -143,7 +143,8 @@
 | [Somebody To You](https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps](https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa) | 3:05 | 2021-06-25 | 2022-07-29 |
 | [Somebody To You](https://open.spotify.com/track/2BWWsCwuHAZFE1scLyP6Qe) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Meet The Vamps](https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P) | 3:02 | 2021-06-25 |  |
 | [Spirits](https://open.spotify.com/track/6yDXmurL5FA9Rjn94cRp2g) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3dK4m8ozvewgKyyYVQHWLY) | 3:23 | 2021-06-25 | 2022-07-28 |
-| [Spirits](https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 3:23 | 2021-06-25 |  |
+| [Spirits](https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 3:23 | 2021-06-25 | 2022-10-14 |
+| [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 | 2022-09-21 |  |
 | [Stay Awake](https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:05 | 2021-06-25 |  |
 | [Stay Awake](https://open.spotify.com/track/6iey2E15nqKQ60KW8vBQQi) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Stay Awake](https://open.spotify.com/album/4Zp3hXLnKbv3XdCWqi04Qw) | 3:05 | 2021-06-25 | 2022-07-29 |
 | [Stay With Me \(feat\. Jeremy Zucker\)](https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [In the Shape of a Dream](https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz) | 3:09 | 2021-06-25 |  |

@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 214226,
       "name": "Hate You When You Party",
       "url": "https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj"
@@ -3907,7 +3907,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 185600,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t"
@@ -6736,6 +6736,24 @@
     },
     {
       "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "album": {
         "name": "There's Only One (feat. Genesis Owusu)",
         "url": "https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt"
       },
@@ -7353,6 +7371,24 @@
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
+    },
+    {
+      "album": {
+        "name": "ACT I & II",
+        "url": "https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn"
     },
     {
       "album": {

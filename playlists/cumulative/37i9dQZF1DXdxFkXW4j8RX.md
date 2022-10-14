@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-130 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
+131 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 | 2022-07-15 |  |
 | [La Paz](https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [La Paz](https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH) | 2:53 | 2022-07-15 |  |
 | [LA SAGA](https://open.spotify.com/track/6lvEBpVnTAlRhHrBNU8Ucx) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [DA KNOWLEDGE](https://open.spotify.com/album/2VwBIqWTKUGuuCkvipiRw7) | 3:53 | 2022-05-23 |  |
-| [Laberinto](https://open.spotify.com/track/3SVsaWSOdbVQNVPENhoeSr) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s) | [Laberinto](https://open.spotify.com/album/1L2ZnFigtkQROEaHkp1ixu) | 2:08 | 2022-01-06 |  |
+| [Laberinto](https://open.spotify.com/track/3SVsaWSOdbVQNVPENhoeSr) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s) | [Laberinto](https://open.spotify.com/album/1L2ZnFigtkQROEaHkp1ixu) | 2:08 | 2022-01-06 | 2022-10-14 |
+| [Laberinto](https://open.spotify.com/track/3T1mSEsNK8OgUTx5xkOzUP) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s) | [Laberinto](https://open.spotify.com/album/5J3SwZ3xkDUpyCAWtVIewx) | 2:08 | 2022-10-06 |  |
 | [Laif Is Tu Short](https://open.spotify.com/track/45twljxHOjZ00JqdsOLbzQ) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:36 | 2022-01-06 |  |
 | [Libro Abierto \- Remix](https://open.spotify.com/track/5QkL07mCaEIJc34kD5RbUJ) | [Lenwa Dura](https://open.spotify.com/artist/6mV5lAVMELv6TOmkSzxjfG), [Sol](https://open.spotify.com/artist/0svIG0axNVK6pUoJtmI6pb) | [Libro Abierto \(Remix\)](https://open.spotify.com/album/6aDQLsdyYqTZjq3g3reNXb) | 2:53 | 2022-01-06 |  |
 | [Lil Dangerous](https://open.spotify.com/track/3nPsTFDqICgVcwVu9CyDD0) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Excelencia Prehispana](https://open.spotify.com/artist/0l35vP0Pl9zkdVYVoYasmQ) | [Lil Dangerous](https://open.spotify.com/album/2J0u9ZopD8P36P9Dw3ImCf) | 3:36 | 2022-01-06 |  |

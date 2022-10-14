@@ -1,15 +1,15 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 642010,
+  "num_followers": 642112,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2NTI4NiwwMDAwMDAwMDMxMGEwODUzYTQxNjdiNGFhMDQzOTY0ZmVlMGUzNGFm",
+  "snapshot_id": "MTY2NDQ2NTI4NiwwMDAwMDAwMGM0NTNjMGYzM2VhZWI2NWEzMWYxZWZiODBmYWJmZGZh",
   "tracks": [
     {
-      "added_at": "2022-10-13 01:36:58",
+      "added_at": "2022-10-14 01:46:07",
       "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
     },
     {
-      "added_at": "2022-10-13 01:36:58",
+      "added_at": "2022-10-14 01:46:07",
       "album": {
         "name": "Travelling Like The Light",
         "url": "https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
-      "added_at": "2022-10-13 01:36:58",
+      "added_at": "2022-10-14 01:46:07",
       "album": {
         "name": "Fefe Dobson",
         "url": "https://open.spotify.com/album/12PDdl6duI4nUZJZzQuNdK"
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
-        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Home - 2019 - Remaster",
-      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
-    },
-    {
-      "added_at": "2021-11-15 21:20:03",
-      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 228800,
       "name": "Sing",
       "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+    },
+    {
+      "added_at": "2021-11-15 21:20:03",
+      "album": {
+        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Home - 2019 - Remaster",
+      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
     },
     {
       "added_at": "2021-11-15 21:20:03",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
-    },
-    {
-      "added_at": "2021-11-15 21:20:03",
-      "album": {
         "name": "Turn On The Bright Lights",
         "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 251293,
       "name": "Obstacle 1",
       "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
+    },
+    {
+      "added_at": "2021-11-15 21:20:03",
+      "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
     },
     {
       "added_at": "2021-11-15 21:20:03",
@@ -971,18 +971,18 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+        "name": "Youth And Young Manhood",
+        "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
+      "duration_ms": 134906,
+      "name": "Molly's Chambers",
+      "url": "https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04"
     },
     {
       "added_at": "2021-11-15 21:20:03",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "Youth And Young Manhood",
-        "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 134906,
-      "name": "Molly's Chambers",
-      "url": "https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04"
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2021-11-15 21:20:03",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
-      },
-      "artists": [
-        {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
-    },
-    {
-      "added_at": "2021-11-15 21:20:03",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 203506,
       "name": "Naive",
       "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
+    },
+    {
+      "added_at": "2021-11-15 21:20:03",
+      "album": {
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2021-11-15 21:20:03",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+        "name": "The Back Room",
+        "url": "https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+      "duration_ms": 226426,
+      "name": "Munich",
+      "url": "https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo"
     }
   ],
   "unique_name": "Alternative 00s",

@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-291 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+292 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [You're Not Standing Like You Used To](https://open.spotify.com/track/30Mry92NnWKj6ImQFyvS4n) | [Kate Wolf](https://open.spotify.com/artist/0WisBVzWAcOpZtdUf23TiC) | [Lines on the Paper](https://open.spotify.com/album/0ep1RsI72M0CW9scB8TgzI) | 3:46 | 2020-08-30 | 2020-09-11 |
 | [You're Not You](https://open.spotify.com/track/5XpRmDP5d1k42YUFO6zmNX) | [The Good Life](https://open.spotify.com/artist/7MDjyeL85p0NwMIpu96o1l) | [Album Of The Year](https://open.spotify.com/album/2ArwvDNZVeIKpha6iiCKZX) | 5:38 | 2020-08-30 | 2020-09-11 |
 | [You've Changed](https://open.spotify.com/track/6pyIYkI6eckBahwLKnAfHG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:17 | 2020-08-30 | 2020-09-11 |
-| [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2019-09-29\* |  |
+| [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-09-02 |  |
+| [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2019-09-29\* | 2022-10-14 |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

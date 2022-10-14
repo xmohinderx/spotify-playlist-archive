@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,279 likes - 98 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,358 likes - 98 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 71 | [Sink](https://open.spotify.com/track/2sIqJEaOkljoxWkK6xeCXz) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Escapism](https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE) | 6:24 |
 | 72 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 |
 | 73 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 |
-| 74 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 |
+| 74 | [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 |
 | 75 | [Time](https://open.spotify.com/track/6vY9hR2JMxFoWncntRAG2p) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Size](https://open.spotify.com/album/4fic5J6NkTKLcb93LcnfR9) | 3:02 |
 | 76 | [Sea \- Roméo Poirier Rework](https://open.spotify.com/track/3XYZajjpjRFg2H2RJ1K9pY) | [Kumi Takahara](https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5), [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [See\-Through Remixes](https://open.spotify.com/album/34R46SN6KOHMqcTJP0HSXV) | 3:22 |
 | 77 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 97 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 | 98 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 |
 
-Snapshot ID: `MTY2NTQwNzI0MywwMDAwMDAwMDEyOTViZjAxMmYzNTA3OGZlYTg1M2E3MmNlMTA1ZTFi`
+Snapshot ID: `MTY2NTQwNzI0MywwMDAwMDAwMGQ2MjY1MmRkNjEyNDgyNWYzY2FhOGEwODk4YjM1MmZi`

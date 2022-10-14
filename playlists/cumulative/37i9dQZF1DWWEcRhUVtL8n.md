@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lizzy Mcalpine
 
-1,367 songs - 2 day 23 hr 55 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,369 songs - 3 day 0 hr 1 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Boy U R The Only One](https://open.spotify.com/track/1yXAsmil8kwEI5OEzwtCOE) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Boy U R The Only One](https://open.spotify.com/album/2CUIKGi1ngqHIVCQ28xmAY) | 2:54 | 2021-12-04 | 2021-12-06 |
 | [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-10-22 | 2022-08-06 |
 | [Boys Cry](https://open.spotify.com/track/3N9wM13u8XFj8mqGPZ2Vwc) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/4dXFKvaVqrjEqp5wE7cBjp) | 3:37 | 2021-02-28 | 2021-10-14 |
-| [Boys Who Kiss You In Their Car](https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn) | 2:44 | 2022-09-23 |  |
+| [Boys Who Kiss You In Their Car](https://open.spotify.com/track/0mFM1XxrkVkKTmuzwwa2IO) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/3gqu6hSCAet5nUZWhkwAi1) | 2:44 | 2022-09-30 |  |
+| [Boys Who Kiss You In Their Car](https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn) | 2:44 | 2022-09-23 | 2022-10-14 |
 | [Boys Will Be Boys](https://open.spotify.com/track/70exbZDzS34CgTHZv4GMZK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Boys Will Be Boys](https://open.spotify.com/album/2rX8Den6I6W43KO8FaNL1L) | 2:35 | 2021-02-27 | 2021-05-27 |
 | [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 | 2022-03-18 | 2022-08-06 |
 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 | 2021-11-13 | 2021-11-20 |
@@ -221,7 +222,7 @@
 | [Can I Leave Me Too?](https://open.spotify.com/track/7gJNP36MQMaE3HyyKkwgAO) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 3:43 | 2021-10-08 | 2022-07-29 |
 | [Can't Sleep](https://open.spotify.com/track/35xowRCEDithOJLl0A1XcU) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/7CRBrLgKYp3sWbNO4T5zqv) | 3:20 | 2020-10-16 | 2021-01-15 |
 | [Can't Wait To Be Dead](https://open.spotify.com/track/0gqGNbqhZ0RLp3ypz51cHY) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Can't Wait To Be Dead](https://open.spotify.com/album/2pGFIqzeHkIzEdGlORMsTr) | 2:55 | 2020-11-10 | 2021-06-03 |
-| [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-06-01 |  |
+| [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-06-01 | 2022-10-14 |
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-05-05 | 2021-05-27 |
 | [Castaway](https://open.spotify.com/track/69wolqsoM2iep99SK53FpN) | [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [Castaway](https://open.spotify.com/album/1Hfo8EEoxWLnP9Rqhc8ppP) | 3:13 | 2022-04-01 | 2022-04-14 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 |  |
@@ -229,7 +230,8 @@
 | [Caught in the Middle](https://open.spotify.com/track/7aKCwhBjb8zuTEBGzf48Qm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet/Caught in the Middle](https://open.spotify.com/album/6hPjqER5erz9bS5C3fxq1L) | 2:42 | 2020-10-16 | 2022-04-11 |
 | [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-06 | 2022-04-07 |
 | [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 | 2022-09-16 |  |
-| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-09-23 |  |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-09-30 |  |
+| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-09-23 | 2022-10-14 |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/14uO4OgGwGBg5VxbAiRhL7) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/2BAlop08zZqQ2mxGHGqxlw) | 3:30 | 2021-02-22 | 2021-10-11 |
 | [Certified Fool](https://open.spotify.com/track/3TSSJEpfQo6AbtvxlmUyVe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Certified Fool](https://open.spotify.com/album/0NbqJMh9LSvt3dmqwiotYK) | 4:06 | 2021-11-12 | 2022-04-13 |
 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 | 2021-02-22 | 2021-05-28 |
@@ -718,7 +720,7 @@
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2020-10-20 | 2021-06-03 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
-| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2022-09-10 |
+| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-06-02 | 2022-06-15 |
 | [Lightning In A Bottle](https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Lightning In A Bottle](https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm) | 2:38 | 2022-06-17 | 2022-06-21 |
 | [Lights On](https://open.spotify.com/track/4pbKp6lF5XuBMSKVpSySmc) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Lights On](https://open.spotify.com/album/6AdKzEgpmht7QUDbRfsWUt) | 3:56 | 2022-04-15 | 2022-04-20 |

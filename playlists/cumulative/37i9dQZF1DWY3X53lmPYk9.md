@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-176 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+179 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Almost Like Being In Love](https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Almost Like Being In Love](https://open.spotify.com/album/67oPqr2P9tzmMLNsa6Y4wb) | 2:38 | 2022-09-08 |  |
 | [Angel Eyes](https://open.spotify.com/track/3xy6OojnbfqihCYayRFXhG) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:49 | 2022-03-10 | 2022-04-27 |
 | [as time goes by](https://open.spotify.com/track/7a6iQySheFxla0uEF4tt74) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 3:21 | 2021-12-14 | 2022-08-18 |
+| [As Time Goes By](https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [As Time Goes By](https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA) | 3:52 | 2022-10-13 |  |
 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 | 2021-12-14 |  |
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn In New York](https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Autumn In New York](https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz) | 4:19 | 2022-09-29 |  |
@@ -47,6 +48,7 @@
 | [Days of Wine and Roses](https://open.spotify.com/track/0bCwxcB99DGOg6OK9if6c9) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Days of Wine and Roses](https://open.spotify.com/album/1mDaXUoWzlSxRkn8Griz53) | 3:03 | 2021-12-14 |  |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-04-26 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2021-12-14 |  |
+| [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-02-16 |  |
 | [Embraceable You](https://open.spotify.com/track/6U8ptAVrs4QsCxORfUlRZc) | [Simon Schott](https://open.spotify.com/artist/4aj82EQm1aU8rsxLYtB91d) | [Bar Piano:Plays Your Favorite Evergreens, Vol.1](https://open.spotify.com/album/5vmr4xkrAQOdQzHw5gIn2l) | 1:04 | 2021-12-14 |  |
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-11 |  |
@@ -65,7 +67,7 @@
 | [I Can't Get Started \(With You\)](https://open.spotify.com/track/0vpZnqfPR7ztK1iYUdRI4P) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Can't Get Started \(With You\)](https://open.spotify.com/album/61gEEgRzs3Rl0QB7X4lk7D) | 4:39 | 2022-08-11 |  |
 | [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2022-06-14 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/2EK1XaWVi0Liv6StLX8K34) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [I Fall In Love Too Easily](https://open.spotify.com/album/2JNk5cCjXIj7VAx91jMIGP) | 2:52 | 2021-12-14 |  |
-| [I Got It Bad And That Ain't Good](https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 7:06 | 2022-03-10 |  |
+| [I Got It Bad And That Ain't Good](https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 7:06 | 2022-03-10 | 2022-10-14 |
 | [I loves you Porgy](https://open.spotify.com/track/1BXfufGuarf9zIDlq8Lbud) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [I left my heart in San Francisco](https://open.spotify.com/album/2MGGSNeNpJWgxqw48z0IV2) | 3:27 | 2022-01-13 |  |
 | [I Only Have Eyes for You](https://open.spotify.com/track/2ripUOoce7Cc9A26fQAoxE) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 3:27 | 2022-01-13 | 2022-08-12 |
 | [I Remember Clifford](https://open.spotify.com/track/3UXUeSaBLCmwlNekfs4AQh) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [I Remember Clifford](https://open.spotify.com/album/49wPHJPN2SBWhiWPiBpgcR) | 4:05 | 2022-08-31 |  |
@@ -158,6 +160,7 @@
 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/5RmbmVNTYmbRHB55UayS3n) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Midnight Sun Will Never Set](https://open.spotify.com/album/2huBri0orubku9NvzOqWbw) | 4:48 | 2022-03-10 | 2022-08-18 |
 | [The Nearness Of You](https://open.spotify.com/track/2eFOuwEBv8SRLL5QJgoKMH) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Nearness Of You](https://open.spotify.com/album/1zcCFnzUu34kwvF3Fl6nPa) | 3:14 | 2021-12-14 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-11 |  |
+| [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 |  |
 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 | 2022-10-06 |  |
 | [The Shadow Of Your Smile \- From The Sandpiper](https://open.spotify.com/track/1JXImcBMjydCrUc9ClAEwO) | [Bill Mays](https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ) | [Cinematic Jazz \#16: The Piano](https://open.spotify.com/album/5ceVKHppWUQt2xkA1wbxdG) | 4:09 | 2021-12-14 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/6pmSLP6FNkn7eNaHBFHSZI) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [SOLO 1976 A Tribute to Duke Ellington](https://open.spotify.com/album/6BwXDrTA7w4Y4ZzZJSQPYi) | 3:38 | 2022-03-10 |  |
@@ -170,7 +173,7 @@
 | [Unforgettable](https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Unforgettable](https://open.spotify.com/album/5E4LIM4elfmb0vKJShZP7X) | 1:57 | 2022-08-11 |  |
 | [Violet](https://open.spotify.com/track/3Uamgl7T764IfRw9mI6URZ) | [Steve Dobrogosz](https://open.spotify.com/artist/1DS1wubFnTOJQxtX1CeYGo) | [Balladear](https://open.spotify.com/album/7hSckxvndRyYonozrZBj7S) | 1:57 | 2022-10-06 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2022-08-11 |  |
-| [Violets for Your Furs](https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Violets for Your Furs](https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM) | 3:24 | 2022-05-18 |  |
+| [Violets for Your Furs](https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Violets for Your Furs](https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM) | 3:24 | 2022-05-18 | 2022-10-14 |
 | [We'll Be Together Again](https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [We'll Be Together Again](https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU) | 4:22 | 2022-10-06 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-11 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-31 |  |

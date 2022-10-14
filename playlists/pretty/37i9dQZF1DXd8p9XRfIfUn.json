@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Alu Mix, Yoss Bones",
-  "num_followers": 59203,
+  "num_followers": 59236,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMGJiYjM1M2E2NTcxYjlkNGQ3YTc2YThlNWU5YzNhN2Vm",
+  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMGFjN2U2YjNmNzQxYmUwMTY0NWY2M2QwY2Y4Y2JkMmM5",
   "tracks": [
     {
       "added_at": "2022-09-30 03:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Q-Lito",
-        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Q-Lito",
-      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Q-Lito",
+        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Q-Lito",
+      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Tus Besos (Remix)",
-        "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
-      },
-      "artists": [
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Tus Besos - Remix",
-      "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 223283,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Tus Besos (Remix)",
+        "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Tus Besos - Remix",
+      "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
+        "name": "La Pr\u00e1ctica",
+        "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         }
       ],
-      "duration_ms": 220284,
-      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
+      "duration_ms": 164002,
+      "name": "La Pr\u00e1ctica",
+      "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "La Pr\u00e1ctica",
-        "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
+        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
       },
       "artists": [
         {
-          "name": "Nath",
-          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         }
       ],
-      "duration_ms": 164002,
-      "name": "La Pr\u00e1ctica",
-      "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
+      "duration_ms": 220284,
+      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
     },
     {
       "added_at": "2022-09-30 03:00:00",

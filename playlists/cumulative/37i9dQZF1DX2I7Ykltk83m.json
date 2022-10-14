@@ -225,6 +225,24 @@
     {
       "album": {
         "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "album": {
+        "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
       },
       "artists": [
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/7CbNx8d9y7K60FONoUc82v"
@@ -1173,6 +1191,24 @@
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6"
+    },
+    {
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
     },
     {
       "album": {
@@ -2253,7 +2289,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 275013,
       "name": "I Don't Recognise You",
       "url": "https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG"
@@ -2463,6 +2499,24 @@
       "duration_ms": 162624,
       "name": "Interstate Vision",
       "url": "https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl"
+    },
+    {
+      "album": {
+        "name": "Head of Roses: Phantom Limb",
+        "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213217,
+      "name": "It Just Goes On",
+      "url": "https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my"
     },
     {
       "album": {
@@ -3649,7 +3703,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 243381,
       "name": "Reinvent",
       "url": "https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa"

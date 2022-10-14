@@ -4,7 +4,7 @@
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz?si=IrA26cUAS5W88Q9mtXvX2A&nd=1">Mickey Guyton,</a> Emma\-Lee, and Karen Kosowski.
 
-396 songs - 22 hr 13 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+397 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Crystal Clear](https://open.spotify.com/track/7EJZ0Vf9K7b0d8jNq0C3zV) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [Crystal Clear](https://open.spotify.com/album/1aegXvcv0ujElqAmhh7xO0) | 3:12 | 2022-01-05 | 2022-07-07 |
 | [CRZY](https://open.spotify.com/track/6Dwtha2FtZFoMEBh5GR2sq) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:11 | 2022-02-02 | 2022-09-09 |
 | [CU L8R](https://open.spotify.com/track/2k3v2UvufG3UV7QH3Q8jwG) | [TAY](https://open.spotify.com/artist/124brnNKXdM8FFxZuRhV30) | [modern talk](https://open.spotify.com/album/4hkfqWBX93dESnGXxHNEHd) | 3:18 | 2021-12-08 | 2022-01-06 |
-| [dance around](https://open.spotify.com/track/48CrjgOJbefsqOMuUgGIdf) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:27 | 2022-10-05 |  |
+| [dance around](https://open.spotify.com/track/0E2qrXXGhi6Aje9Dxx4BG2) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/0bgCvlryOs9JHw0alDKqdS) | 2:27 | 2022-10-05 |  |
+| [dance around](https://open.spotify.com/track/48CrjgOJbefsqOMuUgGIdf) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:27 | 2022-10-05 | 2022-10-14 |
 | [Dancing In The Living Room](https://open.spotify.com/track/1Y2drdMPyCwRxTCnUmadFh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:16 | 2021-12-08 | 2022-04-07 |
 | [Dawning](https://open.spotify.com/track/7J26EqLv16TDThsVM7YfOo) | [Jenifa Mayanja](https://open.spotify.com/artist/1Uj6ufFIvozfi5RfsAr9i3) | [First Light \(Volume II\)](https://open.spotify.com/album/2dMHq7J4Lb1b47smh6mpAF) | 5:56 | 2022-09-07 | 2022-10-06 |
 | [December](https://open.spotify.com/track/1Nj8MB0m0Neq0QWodv9JGB) | [Willa Amai](https://open.spotify.com/artist/0iP3BGoRpnHIZRVnEQLlHF) | [December](https://open.spotify.com/album/1p06PRgEHSoEz0wSco56D3) | 2:57 | 2021-12-08 | 2022-01-06 |

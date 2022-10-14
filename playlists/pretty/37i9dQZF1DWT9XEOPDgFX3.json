@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Adam Melchor",
-  "num_followers": 50945,
+  "num_followers": 50977,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDJjOWU2NGIyODIyMzUyNGE1MjczZmQ5YTlhNzAxMTE3",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDAyNTBlOWE1OWJhNThlMTU2ZDIwOTEzZDc1YWZmMjhi",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 210173,
       "name": "Is There Something in the Movies?",
       "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Air Forces",
+        "url": "https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Air Forces",
+      "url": "https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Air Forces",
-        "url": "https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn"
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
       },
       "artists": [
         {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 178393,
-      "name": "Air Forces",
-      "url": "https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW"
+      "duration_ms": 141946,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Dr. Johann Averies",
         "url": "https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 166033,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "needy",
-        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 232419,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 229501,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "needy",
+        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 232419,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1323,6 +1339,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1"
       },
@@ -1351,22 +1383,6 @@
       "duration_ms": 267870,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Fever Dreams",
-        "url": "https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Circles In The Firing Line - Edit",
-      "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Let It Be",
         "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Spitting Image",
-        "url": "https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb"
-      },
-      "artists": [
-        {
-          "name": "Sharon Silva",
-          "url": "https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S"
-        }
-      ],
-      "duration_ms": 259674,
-      "name": "Spitting Image",
-      "url": "https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1497,20 +1481,36 @@
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Valley",
-        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
+        "name": "Fever Dreams",
+        "url": "https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr"
       },
       "artists": [
         {
-          "name": "Racoma",
-          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Valley",
-      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
+      "duration_ms": 207786,
+      "name": "Circles In The Firing Line - Edit",
+      "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 235587,
+      "name": "Gossamer",
+      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1531,18 +1531,34 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "the sum of the in-between",
-        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
+        "name": "Spitting Image",
+        "url": "https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb"
       },
       "artists": [
         {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+          "name": "Sharon Silva",
+          "url": "https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S"
         }
       ],
-      "duration_ms": 167426,
-      "name": "eight hours",
-      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+      "duration_ms": 259674,
+      "name": "Spitting Image",
+      "url": "https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Valley",
+        "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
+      },
+      "artists": [
+        {
+          "name": "Racoma",
+          "url": "https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1563,6 +1579,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "the sum of the in-between",
+        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "eight hours",
+      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "VBS",
         "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
@@ -1575,22 +1607,6 @@
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
-      },
-      "artists": [
-        {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
-        }
-      ],
-      "duration_ms": 235587,
-      "name": "Gossamer",
-      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Till The Moon Don't Shine",
-        "url": "https://open.spotify.com/album/0pD1d9bNZTOG2glLcdXlhH"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "Till The Moon Don't Shine - Cover",
-      "url": "https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Whole New Mess",
         "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 232160,
       "name": "Waving, Smiling",
       "url": "https://open.spotify.com/track/4hJEhCACCeA8U4CyTP4BDw"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Till The Moon Don't Shine",
+        "url": "https://open.spotify.com/album/0pD1d9bNZTOG2glLcdXlhH"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "Till The Moon Don't Shine - Cover",
+      "url": "https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW"
       },
@@ -1819,6 +1819,22 @@
       "duration_ms": 355366,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -2007,22 +2023,6 @@
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Calling The Shots",
-        "url": "https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97"
-      },
-      "artists": [
-        {
-          "name": "Jamie B.",
-          "url": "https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ"
-        }
-      ],
-      "duration_ms": 231382,
-      "name": "Calling The Shots",
-      "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
     },
     {
       "added_at": "2022-04-29 04:00:00",

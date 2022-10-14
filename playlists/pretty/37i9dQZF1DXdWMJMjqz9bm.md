@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,006 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,119 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 66 | [Upper Hand](https://open.spotify.com/track/4BIXStJCdslgGUnuoz87JC) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [No Love Is Ever Wasted](https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ) | 2:52 |
 | 67 | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 |
 | 68 | [Loved You Since I Was Young](https://open.spotify.com/track/4ayHZpebCShYtJuSL8701H) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/7u4FHNJdVRLDLuum8iJnkd) | 3:03 |
-| 69 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 |
+| 69 | [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 |
 | 70 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 71 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 |
 | 72 | [I Literally Never Think About You](https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [I Literally Never Think About You](https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [Flat Tire](https://open.spotify.com/track/592UtxyRpf6eOrjS6b2Jur) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Flat Tire](https://open.spotify.com/album/1L1AthYINK9Shv4lgYxIEw) | 2:16 |
 | 100 | [wonder why](https://open.spotify.com/track/6R6IEZgAq8clMRlm7KjnwS) | [Aizayah Hills](https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt) | [wonder why](https://open.spotify.com/album/5gH0RB9P5hrZyvHcHBWHRB) | 1:56 |
 
-Snapshot ID: `MTY2NTQ5ODA2MSwwMDAwMDAwMDA0YTM3ZjQ1MTg2ZGE5NTYyMGQ0Y2QzZTgxODA1NWEx`
+Snapshot ID: `MTY2NTQ5ODA2MSwwMDAwMDAwMDQ3ZGRlODM2OGM0YjBjMDI4NzNkNGIwYzkxMGI4MmIz`

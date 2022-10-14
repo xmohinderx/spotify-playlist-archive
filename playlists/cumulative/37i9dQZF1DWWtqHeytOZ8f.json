@@ -1041,15 +1041,11 @@
         {
           "name": "DARK",
           "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        },
-        {
-          "name": "The Surrealist",
-          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
         }
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 186685,
       "name": "ava_",
       "url": "https://open.spotify.com/track/40PBYI3cLbrKRwZMaH1TlM"
@@ -3831,7 +3827,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 145954,
       "name": "Helix Nebula",
       "url": "https://open.spotify.com/track/604PudOrpJqx6kGDqjR4Ek"

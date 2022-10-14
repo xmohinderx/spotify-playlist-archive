@@ -472,6 +472,24 @@
     },
     {
       "album": {
+        "name": "The Story Of Hugo",
+        "url": "https://open.spotify.com/album/7bdEP7J8ePNrO9tdENVJIZ"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156706,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/1nBVHNr7KSYHNj6BdhlNx3"
+    },
+    {
+      "album": {
         "name": "Best Thing",
         "url": "https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs"
       },
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 168447,
       "name": "Candyfloss",
       "url": "https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i"
@@ -1462,6 +1480,24 @@
     },
     {
       "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208746,
+      "name": "Dollar",
+      "url": "https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy"
+    },
+    {
+      "album": {
         "name": "Don't Be Afraid (Blu DeTiger Remix)",
         "url": "https://open.spotify.com/album/0cDUXuLLLRuB8rs7mixcep"
       },
@@ -1761,7 +1797,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/4efHJDBcmhJYs8n9hJcVC8"

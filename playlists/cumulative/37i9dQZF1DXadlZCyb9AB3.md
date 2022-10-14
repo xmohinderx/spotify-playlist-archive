@@ -4,7 +4,7 @@
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-111 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
+112 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Method](https://open.spotify.com/track/6web3LJgjemXdisaTVgHx9) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 4:20 | 2021-06-11 |  |
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2021-06-11 |  |
 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 | 2021-06-11 | 2022-07-29 |
-| [Not Too Soon](https://open.spotify.com/track/0gvjs4NDHjwlC8fyWoOTUz) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS) | 3:10 | 2021-06-11 |  |
+| [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 | 2021-06-11 |  |
+| [Not Too Soon](https://open.spotify.com/track/0gvjs4NDHjwlC8fyWoOTUz) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS) | 3:10 | 2021-06-11 | 2022-10-14 |
 | [Oh Me I'm Never](https://open.spotify.com/track/3QkXPqDZ1iGFxc1A2LVBAV) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/1mXYp6A3liyKgvsrgt0b1y) | 2:57 | 2021-06-11 |  |
 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 | 2021-06-11 | 2022-07-29 |
 | [Pay Day](https://open.spotify.com/track/1nhR7KIUkseo34qydXcNAU) | [Gauche](https://open.spotify.com/artist/6GVrQ3dvXPc2VcEslMAgk4) | [Pay Day](https://open.spotify.com/album/1zIhUyCkOyRGo9aEc4c5de) | 2:50 | 2021-06-11 | 2022-07-29 |

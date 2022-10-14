@@ -766,6 +766,28 @@
     },
     {
       "album": {
+        "name": "Feeling It",
+        "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
+      },
+      "artists": [
+        {
+          "name": "Swappi",
+          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
+        },
+        {
+          "name": "Ultimate Rejects",
+          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Feeling It",
+      "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
+    },
+    {
+      "album": {
         "name": "Gal Policy",
         "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
       },
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 235000,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/57vT8YfFjsllsHxqF1KGLR"

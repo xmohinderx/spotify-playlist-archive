@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle Maciel en portada.",
-  "num_followers": 44568,
+  "num_followers": 44614,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1Njk5NywwMDAwMDAwMDkwZDNhYjQwY2I0NTM3NmVjMGIxYjM2MWY5NzQ1MzZm",
+  "snapshot_id": "MTY2NTE1Njk5NywwMDAwMDAwMGQ5OTU1MjU4NTdlNDA5ZTExYWJmMjllNDMzOGJmODYz",
   "tracks": [
     {
       "added_at": "2022-09-23 19:34:49",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 198040,
       "name": "Tiempo Fuera",
       "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 277105,
-      "name": "El Robot",
-      "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
-    },
-    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Fuimos Un Fracaso",
@@ -587,6 +571,22 @@
       "duration_ms": 198661,
       "name": "Fuimos Un Fracaso",
       "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 277105,
+      "name": "El Robot",
+      "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
     },
     {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Soy Infante",
+        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        }
+      ],
+      "duration_ms": 154750,
+      "name": "Soy Infante",
+      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Ya Los Miraron Pasar",
@@ -957,38 +973,6 @@
       "url": "https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "11: 11",
-        "url": "https://open.spotify.com/album/5ZuV7NA7e2albgIzv4FZT6"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "11: 11",
-      "url": "https://open.spotify.com/track/58iqJkgLGdfiDkadJqGYny"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Soy Infante",
-        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
-        }
-      ],
-      "duration_ms": 154750,
-      "name": "Soy Infante",
-      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Era Mia",
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "1942",
-        "url": "https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb"
+        "name": "11: 11",
+        "url": "https://open.spotify.com/album/5ZuV7NA7e2albgIzv4FZT6"
       },
       "artists": [
         {
-          "name": "Izzy La Reina",
-          "url": "https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 138448,
-      "name": "1942",
-      "url": "https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m"
+      "duration_ms": 211208,
+      "name": "11: 11",
+      "url": "https://open.spotify.com/track/58iqJkgLGdfiDkadJqGYny"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1041,6 +1025,42 @@
       "url": "https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t"
     },
     {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "No S\u00e9 Que Tengas",
+        "url": "https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        },
+        {
+          "name": "Luis Mex\u00eda",
+          "url": "https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "No S\u00e9 Que Tengas",
+      "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb"
+      },
+      "artists": [
+        {
+          "name": "Izzy La Reina",
+          "url": "https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi"
+        }
+      ],
+      "duration_ms": 138448,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "A Pesar De Todo",
@@ -1055,6 +1075,26 @@
       "duration_ms": 181524,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Viaje Verde",
+        "url": "https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88"
+      },
+      "artists": [
+        {
+          "name": "Joan Y Su Elite",
+          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
+        },
+        {
+          "name": "Brian Landa",
+          "url": "https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "Viaje Verde",
+      "url": "https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1093,46 +1133,6 @@
       "url": "https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Viaje Verde",
-        "url": "https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88"
-      },
-      "artists": [
-        {
-          "name": "Joan Y Su Elite",
-          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
-        },
-        {
-          "name": "Brian Landa",
-          "url": "https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "Viaje Verde",
-      "url": "https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "No S\u00e9 Que Tengas",
-        "url": "https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        },
-        {
-          "name": "Luis Mex\u00eda",
-          "url": "https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "No S\u00e9 Que Tengas",
-      "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Es Pura Envidia",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "nuestro amor sacrificado",
-        "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        }
-      ],
-      "duration_ms": 82500,
-      "name": "nuestro amor",
-      "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Santa Mota (En Vivo)",
@@ -1199,6 +1183,22 @@
       "duration_ms": 253170,
       "name": "Santa Mota",
       "url": "https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "nuestro amor sacrificado",
+        "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
+      },
+      "artists": [
+        {
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+        }
+      ],
+      "duration_ms": 82500,
+      "name": "nuestro amor",
+      "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M"
     },
     {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Otra Oportunidad",
@@ -1263,22 +1279,6 @@
       "duration_ms": 208919,
       "name": "De Eso Se Trata",
       "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Casa en Llamas",
-        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Casa en Llamas",
-      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
       "added_at": "2022-09-23 19:34:49",

@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Smino
 
-1,702 songs - 3 day 23 hr 34 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,704 songs - 3 day 23 hr 40 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,7 +612,8 @@
 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 | 2022-07-15 | 2022-08-27 |
 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 | 2021-07-17 | 2021-11-20 |
 | [Get Sun \(feat\. Arthur Verocai\) \- Pocket Size Radio Edit](https://open.spotify.com/track/0xXis9GsPdbB1aBwlFRfV9) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX) | 4:40 | 2021-03-19 | 2021-08-28 |
-| [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 | 2022-08-05 |  |
+| [GHOST](https://open.spotify.com/track/0IeXfesZzA5Qmr5Y74an40) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/5JLmTTHBCVrpvwMh7UHEax) | 2:43 | 2022-08-05 |  |
+| [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 | 2022-08-05 | 2022-10-14 |
 | [GHOST \(feat\. Navy Blue\)](https://open.spotify.com/track/1sewSKbrkUSrCa7raClgbV) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [FEET OF CLAY \(Deluxe\)](https://open.spotify.com/album/1RWgm4YvRL0YN1iX1Mto7b) | 1:49 | 2020-07-24 | 2020-08-21 |
 | [Ghostride](https://open.spotify.com/track/6mnYXjuK0CDzqem4eR5JGU) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ghostride](https://open.spotify.com/album/7lCfuNDA72LdCBY011LZs3) | 2:06 | 2019-07-30\* | 2019-12-13 |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-04-18 | 2020-10-24 |
@@ -1311,7 +1312,8 @@
 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 | 2021-07-24 | 2021-10-30 |
 | [School](https://open.spotify.com/track/2WIUbg8CiAsKuQMw9DzZ1d) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:02 | 2020-03-14 | 2020-06-12 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2019-09-06 | 2020-04-02 |
-| [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 | 2022-08-26 |  |
+| [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 | 2022-08-26 | 2022-10-14 |
+| [Seasons Change](https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u) | 2:29 | 2022-08-26 |  |
 | [Second Guessing](https://open.spotify.com/track/0RqVERbWbIT2fVvOOvqcjr) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Second Guessing](https://open.spotify.com/album/70V6CskkJwrwwVVuFYnfok) | 3:02 | 2019-09-26 | 2020-02-21 |
 | [Self Care](https://open.spotify.com/track/0jkTUqi2dO5SQLnnfTag4M) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Self Care](https://open.spotify.com/album/3MqLhEzKBRO4cwJYQCebwJ) | 2:59 | 2022-09-23 | 2022-10-13 |
 | [Self Care](https://open.spotify.com/track/4Ds6xHWHN5tU8Rxg7na56i) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Self Care](https://open.spotify.com/album/6o2MTShQYYTNBJj4LAK9xf) | 2:59 | 2022-09-23 |  |

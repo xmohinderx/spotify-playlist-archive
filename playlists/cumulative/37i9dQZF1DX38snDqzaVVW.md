@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-133 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+134 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 | 2021-10-21 |  |
 | [Eghass Malan](https://open.spotify.com/track/6XfJZKrb14QWubXAQzKngU) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/2I4WOuSnQzkxC4tbKpg7B1) | 4:49 | 2021-10-21 | 2022-04-01 |
 | [Eghass Malan](https://open.spotify.com/track/79ewF7kpGeCwdZBuj8I8KN) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn) | 4:49 | 2022-10-06 |  |
-| [El\-Eid](https://open.spotify.com/track/58kXj7LtX3jnEiDHrDi8Up) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7omcE48OJuP5tSMHETMvu2) | 0:27 | 2021-10-21 |  |
+| [El\-Eid](https://open.spotify.com/track/58kXj7LtX3jnEiDHrDi8Up) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7omcE48OJuP5tSMHETMvu2) | 0:27 | 2021-10-21 | 2022-10-14 |
+| [El\-Eid](https://open.spotify.com/track/6wpPRFQ1kVlwfw1CyQJzaX) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7KCZDVv5YUkewQ8DgOS2RT) | 0:27 | 2022-10-06 |  |
 | [Fi Hadret El Naby](https://open.spotify.com/track/3xbAmCdLUQcvaaYVXRtPae) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Fi Hadret Al Mahboob](https://open.spotify.com/album/5fsIdlEAh41isQn4vq7XIf) | 2:57 | 2022-03-31 | 2022-04-18 |
 | [Friday](https://open.spotify.com/track/5IGnoUdp0ZCwOwkK62EPGp) | [Enfant Libya](https://open.spotify.com/artist/54B1txPNBqgBrbgpixSRbF) | [Music from Saharan Cellphones, Vol\. 2](https://open.spotify.com/album/6ZpWlc0Q1OM8VEjcsS2RPF) | 1:01 | 2022-10-06 |  |
 | [Friday](https://open.spotify.com/track/73tIJHETXreaZaleUrn0Tp) | [Enfant Libya](https://open.spotify.com/artist/54B1txPNBqgBrbgpixSRbF) | [Music from Saharan Cellphones, Vol\. 2](https://open.spotify.com/album/2ec7StRUkm51joitBXItbK) | 1:01 | 2021-10-21 | 2022-04-01 |

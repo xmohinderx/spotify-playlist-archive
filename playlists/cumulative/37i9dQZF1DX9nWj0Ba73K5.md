@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
 
-211 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+212 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/17E5XweAlvnU7pkghMgvMs) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:19 | 2022-02-28 |  |
 | [My Little Girl \(feat\. Tim McGraw\)](https://open.spotify.com/track/2BLRBXXR0Rg24YDpDMisVk) | [Tom Douglas](https://open.spotify.com/artist/4gw3hsOJ9ruPCU8EVQhxEp), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Love, Tom \(Inspired By The Motion Picture\)](https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK) | 3:38 | 2022-02-25 |  |
 | [My Next Thirty Years](https://open.spotify.com/track/1WymSpaye4wkxta54wL8Bf) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Greatest Hits Volume 1](https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM) | 3:32 | 2022-01-01 |  |
-| [My Poor Mama](https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4) | 3:01 | 2022-01-01 |  |
+| [My Poor Mama](https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/72dBMGHSenphYYr0Sv0wUf) | 3:01 | 2022-10-01 |  |
+| [My Poor Mama](https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4) | 3:01 | 2022-01-01 | 2022-10-14 |
 | [My Town](https://open.spotify.com/track/4GM3EYcV2XGSvNI2vE0p2J) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 4:14 | 2022-01-01 |  |
 | [Nashville, TN](https://open.spotify.com/track/0fLeL6TVmrMgDMW1iC1puo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:35 | 2022-02-28 |  |
 | [Neon](https://open.spotify.com/track/51oFJ8Q2KufbTRnBSfsDjX) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:40 | 2022-02-28 |  |

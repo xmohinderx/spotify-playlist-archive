@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Orochi",
-  "num_followers": 79465,
+  "num_followers": 79581,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMjc2NiwwMDAwMDAwMDgyNDRlZTcwOTYzN2MwYmFjYTM5ZDgwM2NjNjkxMTQx",
+  "snapshot_id": "MTY2NTExMjc2NiwwMDAwMDAwMGJmYjZhZmYyYTljYjZjOWIyMGIxYzQ0M2ViNjBkMjY3",
   "tracks": [
     {
       "added_at": "2022-10-07 03:19:26",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2022-10-07 03:19:26",
       "album": {
+        "name": "Pelos Acessos",
+        "url": "https://open.spotify.com/album/5Lb8r5i2uJfiS0KhamAO5S"
+      },
+      "artists": [
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "Pelos Acessos",
+      "url": "https://open.spotify.com/track/1IlPtjYsF2PzEKIDty5UPU"
+    },
+    {
+      "added_at": "2022-10-07 03:19:26",
+      "album": {
         "name": "Set Dj Br da Tijuca",
         "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
       },
@@ -1379,30 +1403,6 @@
       "duration_ms": 432000,
       "name": "Set Dj Br da Tijuca",
       "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
-    },
-    {
-      "added_at": "2022-10-07 03:19:26",
-      "album": {
-        "name": "Pelos Acessos",
-        "url": "https://open.spotify.com/album/5Lb8r5i2uJfiS0KhamAO5S"
-      },
-      "artists": [
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        }
-      ],
-      "duration_ms": 168019,
-      "name": "Pelos Acessos",
-      "url": "https://open.spotify.com/track/1IlPtjYsF2PzEKIDty5UPU"
     },
     {
       "added_at": "2022-10-07 03:19:26",

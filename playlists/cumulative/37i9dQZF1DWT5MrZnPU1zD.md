@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-544 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+545 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Disrespectful](https://open.spotify.com/track/2ei1YRwttbDMc80SlVSHUQ) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [Disrespectful](https://open.spotify.com/album/4paE5X52ytc41gSY7bOZXi) | 2:17 | 2021-09-03 | 2022-04-23 |
 | [Distant](https://open.spotify.com/track/3mDaCneJoPlAexIC7cXCFV) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Mirrors In A Dark Room](https://open.spotify.com/album/3BK4u957KIbGWwCei94bgO) | 2:55 | 2021-09-03 | 2022-07-17 |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-05-27 |  |
+| [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 | 2022-10-07 |  |
 | [Do The Most](https://open.spotify.com/track/6ZBqCuo8fUGSZJGYR9LNwL) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Do The Most](https://open.spotify.com/album/1l0LngTiAHc8RvL3nqZ9Z4) | 2:24 | 2022-03-25 | 2022-04-21 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 |  |
 | [Don't Deserve Me](https://open.spotify.com/track/63yKdcTxH8RGhQhaZVnFkm) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Don't Deserve Me](https://open.spotify.com/album/6JkvvMIZZqXmZHlLhbN4Hf) | 2:40 | 2022-07-08 | 2022-07-24 |
@@ -243,7 +244,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-09-03 | 2022-03-18 |
 | [Internet Shooter \(Remix\)](https://open.spotify.com/track/2ZiOGHk2rjvfNUqIUPtR8B) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Internet Shooter \(Remix\)](https://open.spotify.com/album/0SvfiyHkKuPSMu4t6o6BFM) | 2:46 | 2022-08-05 | 2022-08-13 |
 | [It Could Be Worse](https://open.spotify.com/track/1pn9N05evZd09npQBnsC31) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [It Could Be Worse](https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw) | 2:24 | 2021-09-03 | 2022-07-29 |
-| [It's All on U](https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [It's All on U](https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy) | 2:46 | 2022-08-05 |  |
+| [It's All on U](https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [It's All on U](https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy) | 2:46 | 2022-08-05 | 2022-10-14 |
 | [Jay & Twan 1](https://open.spotify.com/track/3gpV8e51dn62yi8lXBfpDO) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Jay & Twan 1](https://open.spotify.com/album/4oTxLAf3ejQmyhdV02VrXR) | 2:53 | 2022-09-23 |  |
 | [Jiddy](https://open.spotify.com/track/5aHyqjgdpNHWYh2hqbKgJE) | [RETRO](https://open.spotify.com/artist/5JQ5QsmDCpzhi6StRcYxqf) | [Jiddy](https://open.spotify.com/album/3jMR8DBR6IJY2nGWzGTGNR) | 2:46 | 2021-09-03 | 2022-01-19 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-17 |  |

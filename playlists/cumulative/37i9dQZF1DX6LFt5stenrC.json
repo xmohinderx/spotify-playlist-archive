@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 47274,
       "name": "Ada Twist, Scientist Theme Song (From \"Ada Twist, Scientist\")",
       "url": "https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 38863,
       "name": "Bubble Guppies Theme Song",
       "url": "https://open.spotify.com/track/7u5zwVTZDkcAxu3N3z1NVI"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 65549,
       "name": "It's a Beautiful Day in the Neighborhood",
       "url": "https://open.spotify.com/track/3iJWxiZFXAZodMuZdNCgVY"
@@ -1127,7 +1127,7 @@
     {
       "album": {
         "name": "PAW Patrol Official Theme Song & More",
-        "url": "https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf"
+        "url": "https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1"
       },
       "artists": [
         {
@@ -1138,6 +1138,42 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 48544,
+      "name": "PAW Patrol on a Roll",
+      "url": "https://open.spotify.com/track/5assM1ZJxva5nnj8nT44sa"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40593,
+      "name": "PAW Patrol Opening Theme",
+      "url": "https://open.spotify.com/track/6J5tBYqpU2amNkTkIPHCHE"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 40593,
       "name": "PAW Patrol Opening Theme",
       "url": "https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH"
@@ -1329,7 +1365,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 91482,
       "name": "Santiago of the Seas Theme - Extended",
       "url": "https://open.spotify.com/track/7494gF82bPmJYFYQFQsGra"
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 165160,
       "name": "The Bha Bha Song - We Baby Bears Theme",
       "url": "https://open.spotify.com/track/4V8udbNRFRxdMOpAt9XhY8"
@@ -1571,7 +1607,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 82836,
       "name": "The Casagrandes Theme Song",
       "url": "https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb"
@@ -1589,7 +1625,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 80755,
       "name": "The Loud House Theme Song",
       "url": "https://open.spotify.com/track/3lpc0zUmr89UthmpDAycG6"

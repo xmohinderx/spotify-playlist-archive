@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Walk Off the Earth, Tenille Townes
 
-432 songs - 1 day 0 hr 16 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+434 songs - 1 day 0 hr 22 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Awakening](https://open.spotify.com/track/4JbhkzpHuOliTceuvjw2p2) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Awakening](https://open.spotify.com/album/14OKNfHmQNaA04OyB1e99M) | 3:02 | 2022-04-01 | 2022-06-25 |
 | [BABY GIRL](https://open.spotify.com/track/7MqW3UHQAwkcqHV9yQBEnT) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Justine Tyrell](https://open.spotify.com/artist/0X4fb30ZeZnyuYILaXTxDd) | [BABY GIRL](https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf) | 2:40 | 2022-07-29 | 2022-08-27 |
 | [Back in Bed](https://open.spotify.com/track/5ukj5LamvwlSh0cYAkQ5by) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Back in Bed](https://open.spotify.com/album/47bzBG5kB4H9ohJJwbC3dy) | 2:38 | 2022-07-22 | 2022-08-27 |
-| [back to you](https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3) | 2:49 | 2022-09-16 |  |
+| [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 | 2022-10-07 |  |
+| [back to you](https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3) | 2:49 | 2022-09-16 | 2022-10-14 |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-02-11 | 2022-08-20 |
 | [Bad Loving](https://open.spotify.com/track/5tvJ4AfdeClxErNbMP3FXq) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Bad Loving](https://open.spotify.com/album/2iJd3alubkBjrAYo6sSfwV) | 2:21 | 2021-12-17 | 2022-07-09 |
 | [Beat of My Own Drum](https://open.spotify.com/track/1AosyNUuaaQb82uNk993Fk) | [Julia Gartha](https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs) | [Beat of My Own Drum](https://open.spotify.com/album/62jBY46CXFM1JNcLmnyvzD) | 3:13 | 2022-08-05 |  |
@@ -142,7 +143,8 @@
 | [Fire](https://open.spotify.com/track/6uDnDG2QenoT0oJuisqcjC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Fire](https://open.spotify.com/album/0GDkha1Z5nXTHs7bP9CuX8) | 2:51 | 2022-07-19 |  |
 | [Fireflies](https://open.spotify.com/track/0Vh1Z9Mhr6okJrb62DjNR4) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Fireflies](https://open.spotify.com/album/1yBXDxUrjS0GnH7903tpWo) | 3:31 | 2022-06-24 |  |
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-07-27 |  |
-| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 |  |
+| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 | 2022-10-14 |
+| [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 | 2022-10-07 |  |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 | 2022-07-30 |
 | [Flowers Need Rain \- Acoustic](https://open.spotify.com/track/15sxJRnKRkra0qn2rFwiqu) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain \(Acoustic\)](https://open.spotify.com/album/5pLSaocUXLhgsCiik83tQP) | 3:45 | 2022-07-22 |  |
 | [Focus](https://open.spotify.com/track/1qgjat37cpmJqzfu3ZKT66) | [What If Elephants](https://open.spotify.com/artist/0omoEveNDVFKDTDPpAMtdm) | [Focus](https://open.spotify.com/album/2dITcFhol1sJpKGYxOTOgr) | 3:03 | 2021-12-17 | 2022-06-04 |

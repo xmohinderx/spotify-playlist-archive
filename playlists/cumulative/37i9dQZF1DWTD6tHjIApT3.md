@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-793 songs - 2 day 4 hr 26 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+794 songs - 2 day 4 hr 30 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,7 @@
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-06-02 | 2022-07-27 |
 | [夜風](https://open.spotify.com/track/6Ml6Al2FULhS5MmKHX5HGO) | [笹生実久](https://open.spotify.com/artist/0rV9s5ykUdPnpBWYoGVFeY) | [She was a girl](https://open.spotify.com/album/7sgwDnLuYnrgxdh0AiDANx) | 4:06 | 2022-06-25 | 2022-06-28 |
 | [夢うらら](https://open.spotify.com/track/3OMpSwsfADNdcCnyE8bjzT) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [夢うらら](https://open.spotify.com/album/4OdbtCRb5hZUE9legqRuF7) | 4:07 | 2022-09-01 | 2022-09-07 |
-| [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 | 2022-05-29 |  |
+| [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 | 2022-05-29 | 2022-10-14 |
 | [大切な風景](https://open.spotify.com/track/6evYRPgpmEc342g0quy8Ij) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [大切な風景](https://open.spotify.com/album/5gBjca9nQS5uqwplEWOIt5) | 4:43 | 2022-07-12 | 2022-07-16 |
 | [天国](https://open.spotify.com/track/2fsdF5wmRf34jJEaWoEaIM) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [天国](https://open.spotify.com/album/6gdC0J09Uv87Wuqc3eVBJq) | 4:11 | 2022-09-06 | 2022-09-09 |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 |  |
@@ -752,6 +752,7 @@
 | [絶対](https://open.spotify.com/track/2TsxnvrERFElzCEZ1FnIZ1) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [絶対](https://open.spotify.com/album/1sO6sSqKL4CVKfOQzUCppf) | 4:08 | 2022-06-07 | 2022-07-21 |
 | [織姫](https://open.spotify.com/track/6s747WsJxI43kAJvJmsJDz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [織姫](https://open.spotify.com/album/35hFKiDi1Qmjex9jdxxwRh) | 2:44 | 2022-06-02 | 2022-07-29 |
 | [羽の上の眠り姫](https://open.spotify.com/track/7DrKbbJ5sbJRW78dWxKq6m) | [s\-o\-a](https://open.spotify.com/artist/06PBkMDgYKYZ5DfN021QKV) | [羽の上の眠り姫](https://open.spotify.com/album/4smK29LaJhDB1RcqgER7vz) | 4:38 | 2022-07-07 | 2022-07-13 |
+| [翼をください](https://open.spotify.com/track/2YY2NC3YWyagyTnt3LzXRg) | [Anne](https://open.spotify.com/artist/6DFoZlEPrlWz7bNXfNZr0i) | [翼をください](https://open.spotify.com/album/6p4QK7a29s3SERURjPwpsl) | 4:08 | 2022-10-13 |  |
 | [翼をください](https://open.spotify.com/track/5dLnHCcMxfonAwwxvddYmW) | [比嘉歌子](https://open.spotify.com/artist/1VOlbNGFRks8N598A1ukfe) | [翼をください](https://open.spotify.com/album/71hPTOsdbwPtS8pFWLLrbH) | 3:44 | 2022-06-30 | 2022-07-12 |
 | [耳をすます](https://open.spotify.com/track/5y56dgniQ2Ai7FCW3foQGr) | [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [耳をすます](https://open.spotify.com/album/3bE5saoLwKQIdPPNVEs0r9) | 5:34 | 2022-08-17 | 2022-08-24 |
 | [背伸び](https://open.spotify.com/track/6S9hUNHDxAfJavmC16FyT1) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [背伸び](https://open.spotify.com/album/694IZpVis7LuvjPGrPfo2e) | 4:33 | 2022-06-02 | 2022-07-04 |

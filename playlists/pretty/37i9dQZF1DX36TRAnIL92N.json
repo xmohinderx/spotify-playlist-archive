@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 43114,
+  "num_followers": 43603,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDRiZDU1NTg0NjIyMGFkYzRhMTk0NDVhYWM2YzIwY2Ri",
+  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDMyZGYxMmFhNzUzZjM5YTM0NzFkYTVkMzkyNzMxYzFl",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -227,21 +227,21 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
       "artists": [
         {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
-      "added_at": "2022-10-13 01:42:03",
+      "added_at": "2022-10-14 01:51:56",
       "album": {
         "name": "Lonely Traveller",
         "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
@@ -255,22 +255,6 @@
       "duration_ms": 366038,
       "name": "Lonely Traveller",
       "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -297,7 +281,23 @@
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
-      "added_at": "2022-10-13 01:42:03",
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2022-10-14 01:51:56",
       "album": {
         "name": "Human Race",
         "url": "https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD"
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Sex and the Machine",
+        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 240123,
+      "name": "Sex and the Machine",
+      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "ME/AN",
         "url": "https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 229545,
       "name": "ME/AN",
       "url": "https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Sex and the Machine",
-        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 240123,
-      "name": "Sex and the Machine",
-      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Sentinel",
         "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 388500,
       "name": "Sentinel - Original Mix",
       "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
     },
     {
       "added_at": "2022-09-09 16:00:00",

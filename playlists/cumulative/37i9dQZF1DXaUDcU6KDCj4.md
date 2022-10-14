@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Courtney Marie Andrews
 
-812 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+813 songs - 2 day 1 hr 59 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,8 @@
 | [Tres Hermanos](https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Tres Hermanos](https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4) | 3:21 | 2022-08-19 |  |
 | [Truckers and Troubadours](https://open.spotify.com/track/4VlHoGo21bbhYr9BNU85sL) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Dark Enough to See the Stars](https://open.spotify.com/album/0sYjIkRscDMGA8x663vWnZ) | 3:47 | 2022-06-03 | 2022-07-23 |
 | [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 | 2022-04-29 | 2022-07-23 |
-| [True to Ourselves](https://open.spotify.com/track/1zpfxv4XGfQhOr0qTsr9mE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [True to Ourselves](https://open.spotify.com/album/77ffIio0GX3zq8Jayu0qLX) | 3:34 | 2022-07-15 |  |
+| [True to Ourselves](https://open.spotify.com/track/1zpfxv4XGfQhOr0qTsr9mE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [True to Ourselves](https://open.spotify.com/album/77ffIio0GX3zq8Jayu0qLX) | 3:34 | 2022-07-15 | 2022-10-14 |
+| [True to Ourselves](https://open.spotify.com/track/60jMeLKUGjuqIWrojXK0um) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [True to Ourselves](https://open.spotify.com/album/0evRmaaDcL1fKcXZnB2YkW) | 3:34 | 2022-10-07 |  |
 | [Tuesday Grey](https://open.spotify.com/track/7vDPE6NEKI7M8XqkVVXm1B) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [The Idea Of You](https://open.spotify.com/album/3PWYjE9JqMGLtxRgMSU7iX) | 5:02 | 2021-11-12 | 2022-02-19 |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-05 | 2022-09-10 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-30 |  |

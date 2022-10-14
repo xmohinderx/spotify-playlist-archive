@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-907 songs - 2 day 7 hr 31 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
+908 songs - 2 day 7 hr 36 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [De Lejos](https://open.spotify.com/track/3euhzCSxuwd6SnZFAWE6AP) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Volvió una Noche](https://open.spotify.com/album/1wZ5gsF8jo50qweeSGcqGz) | 4:31 | 2022-04-01 | 2022-04-16 |
 | [De Su Color](https://open.spotify.com/track/6FAXy5xgpO7pf44h4CDZX7) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM), [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ) | [De Su Color](https://open.spotify.com/album/0cdxs77Nn7uT0q7mlrgdpT) | 4:19 | 2022-02-18 | 2022-07-29 |
 | [De Ti](https://open.spotify.com/track/1G4blOR671oPTfalkEIabL) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [De Ti](https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj) | 3:44 | 2022-03-28 | 2022-04-21 |
+| [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-10-07 |  |
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 | 2022-07-20 |
 | [Debe Haber](https://open.spotify.com/track/0cRAMf7FEpTjLdVbsJBCZU) | [Gigio&spiker](https://open.spotify.com/artist/2wxDtL8blvAzPuZsXT6qdO) | [Debe Haber](https://open.spotify.com/album/4UKYI4j1euthMJJgJyszo6) | 3:16 | 2022-03-28 | 2022-04-15 |
 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 | 2021-12-24 | 2022-05-26 |
@@ -893,7 +894,7 @@
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2022-04-08 | 2022-04-15 |
 | [We Found Love](https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3), [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [We Found Love](https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO) | 2:53 | 2022-03-24 | 2022-04-18 |
 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 | 2022-03-24 | 2022-04-19 |
-| [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2022-04-13 |  |
+| [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2022-04-13 | 2022-10-14 |
 | [Wherever You Will Go](https://open.spotify.com/track/2JrSlOdxkzlJEAOPgIUhAj) | [Le Vitates](https://open.spotify.com/artist/5ao5cOf9lGP6pyIESuiaf1), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Wherever You Will Go](https://open.spotify.com/album/59MYGCo3YrAhdNkOomscha) | 3:43 | 2022-04-01 | 2022-04-07 |
 | [Whisky](https://open.spotify.com/track/3YNtQ1j13MNwbOY1KxtTcS) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Whisky](https://open.spotify.com/album/4HYSkSJVXmPqv7gIt6cSTq) | 3:15 | 2022-03-28 | 2022-04-03 |
 | [wish you were gay \- acoustic](https://open.spotify.com/track/5fnFcby5yxUodS7loPSufH) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [wish you were gay \(acoustic\)](https://open.spotify.com/album/2msPa9tds8J3jztSa1OZJK) | 3:39 | 2022-04-08 | 2022-04-19 |

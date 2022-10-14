@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 139636,
       "name": "Gye Nyame",
       "url": "https://open.spotify.com/track/3hOXkEML9Nnqr7Zkc5tRv0"
@@ -773,6 +773,24 @@
       "duration_ms": 164211,
       "name": "Live From 233",
       "url": "https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf"
+    },
+    {
+      "album": {
+        "name": "LOWKEY",
+        "url": "https://open.spotify.com/album/47HqwTpphpRCUrhgvT2H7r"
+      },
+      "artists": [
+        {
+          "name": "Jo.Real",
+          "url": "https://open.spotify.com/artist/6AukcisQx35JShJCQvxCW2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "LOWKEY",
+      "url": "https://open.spotify.com/track/47Xn4zouOd54MPkJW0b0WL"
     },
     {
       "album": {
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 208572,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA"
@@ -1021,6 +1039,32 @@
       "duration_ms": 172173,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1tCD72gxYMjtPcWeuBOBL2"
+      },
+      "artists": [
+        {
+          "name": "Kojo Loki",
+          "url": "https://open.spotify.com/artist/0FK086itIMJLIcYnZGf1Bw"
+        },
+        {
+          "name": "Akola Kituwa",
+          "url": "https://open.spotify.com/artist/1kcpQRC6ZsprIfhrtaom5l"
+        },
+        {
+          "name": "Freeza Gigs",
+          "url": "https://open.spotify.com/artist/1fkPHUbvQGPgsHgPHfeKOo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194612,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/4nnqdKMZmJm6M5UhCjh0Fo"
     },
     {
       "album": {

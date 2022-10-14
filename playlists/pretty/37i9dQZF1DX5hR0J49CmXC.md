@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > The Real hip\-hop\. Cover: Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,371 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,475 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 4 | [Racketeering Influenced and Corrupt Organizations](https://open.spotify.com/track/5iFmwkyfWOcsStwdQBRY61) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Racketeer Influenced and Corrupt Organizations](https://open.spotify.com/album/3vTnjUeipikb2PXuRQAS90) | 4:18 |
 | 5 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
 | 6 | [Money](https://open.spotify.com/track/2RXn2FXwRVlHDrs0CZnWEi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 4:26 |
-| 7 | [Timeless](https://open.spotify.com/track/40GyCVDK3MSjYhSdleQ1nb) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Incrementum](https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR) | 3:06 |
+| 7 | [Timeles](https://open.spotify.com/track/40GyCVDK3MSjYhSdleQ1nb) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Incrementum](https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR) | 3:06 |
 | 8 | [El Rey](https://open.spotify.com/track/3gRORNyWayVDXK29rK7rTY) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [El Rey](https://open.spotify.com/album/1uYbRaVTWCufObhxqlsV8R) | 2:24 |
 | 9 | [Better Days](https://open.spotify.com/track/2UHCOYxGP6J9hBs450OFSo) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 3:36 |
 | 10 | [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 |

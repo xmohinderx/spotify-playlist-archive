@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-154 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+155 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2021-12-12 |  |
 | [Winter Wonderland](https://open.spotify.com/track/0bfM3OhwHsqIJqF6m04En3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:18 | 2021-12-12 |  |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2021-12-12 |  |
-| [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2021-12-12 |  |
+| [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2021-12-12 | 2022-10-14 |
+| [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 | 2021-12-12 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

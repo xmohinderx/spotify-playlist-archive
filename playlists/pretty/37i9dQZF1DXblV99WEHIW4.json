@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 139255,
+  "num_followers": 139517,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDcwZmYzNGRjZDUyYWVmYWU3MTk2NjhiZDBiYjQ3YTE5",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGExMmIyYjJhYzRlNTY4NGZmMTlkMTRmYTAxN2U3NDAy",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
-      },
-      "artists": [
-        {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 100533,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 277969,
-      "name": "Nothing Left to Love",
-      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 153666,
       "name": "All We Have Is Now",
       "url": "https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 277969,
+      "name": "Nothing Left to Love",
+      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Sap",
-        "url": "https://open.spotify.com/album/4b0EWRIWecUztiLiaoEN4K"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "This Place Will Become Your Tomb",
         "url": "https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 200946,
       "name": "Missing Limbs",
       "url": "https://open.spotify.com/track/5sCll6ttgoCHYPI36Hn1h6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Sap",
+        "url": "https://open.spotify.com/album/4b0EWRIWecUztiLiaoEN4K"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Toothpick",
+      "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 228847,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Skinny Dipping",
-        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Toothpick",
-      "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1087,22 +1087,6 @@
       "duration_ms": 236059,
       "name": "Whatever Lets You Cope",
       "url": "https://open.spotify.com/track/1GlQsidelzGk9ljW0DQH4n"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "End of Suffering",
-        "url": "https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf"
-      },
-      "artists": [
-        {
-          "name": "Frank Carter & The Rattlesnakes",
-          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/0nSo7AFdw4vrz7nPGKMOWr"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 160266,
       "name": "Graduating Life",
       "url": "https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Crescent-Shaped Depression",
+        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "Crescent-Shaped Depression",
+      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
     }
   ],
   "unique_name": "Blood, Shred & Tears",

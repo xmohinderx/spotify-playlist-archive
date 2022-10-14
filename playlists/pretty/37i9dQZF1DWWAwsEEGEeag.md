@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,463 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,470 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 60 | [Bon Ami](https://open.spotify.com/track/6pEYLzi93TnYLa32J6chXA) | [Franky Fade](https://open.spotify.com/artist/7dzjLatIXL9tEJINuAk1pE) | [CONTRADICTIONS](https://open.spotify.com/album/54DM3A0nrfTNoR1HJqywrJ) | 3:12 |
 | 61 | [Samba do Boncy](https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Samba do Boncy](https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg) | 3:24 |
 | 62 | [Bahia](https://open.spotify.com/track/3URszLxGSmpX2dHXyLG0eD) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tropi\-cléa 2](https://open.spotify.com/album/5Md5sV8vltZmZYT6AQtL0c) | 3:20 |
-| 63 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 |
+| 63 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
 | 64 | [Jeanne\-Mance](https://open.spotify.com/track/0kE9iw4bjbli8ViwVboNc5) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Summer Pack!](https://open.spotify.com/album/05Y8cMVteSJRy1kLNRXQGy) | 3:02 |
 | 65 | [C'EST BEAU](https://open.spotify.com/track/1wMFt4BeA4ItpowAsOzO8S) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:50 |
 | 66 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 98 | [Way to be Loved](https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Picture You Staring](https://open.spotify.com/album/4z3LIKiUlP8T192JheUI1U) | 4:23 |
 | 99 | [Recto Verso \- Mall Grab Remix](https://open.spotify.com/track/5FVdng1BLqLy5Q1u71LuY6) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Recto Versions](https://open.spotify.com/album/0OwJqkCyb1CLLcIvauh1Uo) | 5:54 |
 | 100 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
-| 101 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 |
+| 101 | [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMDIxZjc5NTMzMDA4Yjk2NGU1ZjZhZDZjODIyYmMyMjQ5`
+Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMGZmZjdmMjE3MjZhMjkxNzFiYWQzMWVlMjYwOWVmNGJi`

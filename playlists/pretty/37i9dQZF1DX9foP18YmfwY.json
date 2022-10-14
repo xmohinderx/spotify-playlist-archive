@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 277774,
+  "num_followers": 277831,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMDdjYTdmOTA1OWFmMzdiM2FmNTU4NGQ5OWRiNzRkMTFj",
+  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMDY2MzUxNDEzZDgxYTdjNDMxYzg5NzcxODVmNmQ3YzAw",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Deus \u00c9 Poderoso pra Fazer: Live Session",
-        "url": "https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 518067,
-      "name": "Queima de Novo - Live",
-      "url": "https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/0ii9sn33qDORUI8FZsWRFk"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 299159,
       "name": "Casa",
       "url": "https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Deus \u00c9 Poderoso pra Fazer: Live Session",
+        "url": "https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 518067,
+      "name": "Queima de Novo - Live",
+      "url": "https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        }
+      ],
+      "duration_ms": 309660,
+      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Quero Nascer de Novo",
         "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 370000,
       "name": "Quero Nascer de Novo",
       "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        }
-      ],
-      "duration_ms": 309660,
-      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -539,18 +539,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
+        "name": "Nada Temerei",
+        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
+      "duration_ms": 286000,
+      "name": "Nada Temerei",
+      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -639,22 +643,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Nada Temerei",
-        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Nada Temerei",
-      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
+      "duration_ms": 237000,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Quando o Sono Bater",
-        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
+        "name": "O Sagrado Que H\u00e1 Aqui",
+        "url": "https://open.spotify.com/album/3PL9nZBid3NIbcZPDpqTv4"
       },
       "artists": [
         {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+          "name": "Comunidade CAJU",
+          "url": "https://open.spotify.com/artist/1brshHPBEdYJSqVgYCpW0q"
         },
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Arthur Sampaio",
+          "url": "https://open.spotify.com/artist/4qeKJNVyywIq125X9zhRjc"
         }
       ],
-      "duration_ms": 267058,
-      "name": "Quando o Sono Bater",
-      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
+      "duration_ms": 238478,
+      "name": "O Sagrado Que H\u00e1 Aqui",
+      "url": "https://open.spotify.com/track/2YBFupp0OR2HpD0rncxpc6"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "O Sagrado Que H\u00e1 Aqui",
-        "url": "https://open.spotify.com/album/3PL9nZBid3NIbcZPDpqTv4"
+        "name": "Quando o Sono Bater",
+        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
       },
       "artists": [
         {
-          "name": "Comunidade CAJU",
-          "url": "https://open.spotify.com/artist/1brshHPBEdYJSqVgYCpW0q"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
         },
         {
-          "name": "Arthur Sampaio",
-          "url": "https://open.spotify.com/artist/4qeKJNVyywIq125X9zhRjc"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 238478,
-      "name": "O Sagrado Que H\u00e1 Aqui",
-      "url": "https://open.spotify.com/track/2YBFupp0OR2HpD0rncxpc6"
+      "duration_ms": 267058,
+      "name": "Quando o Sono Bater",
+      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
     },
     {
       "added_at": "2022-09-02 03:00:00",

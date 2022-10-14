@@ -857,7 +857,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 165710,
       "name": "cloudy",
       "url": "https://open.spotify.com/track/4uN3fqx0mRqf61RemIFhIq"
@@ -3880,6 +3880,28 @@
     },
     {
       "album": {
+        "name": "Planet Cyclops",
+        "url": "https://open.spotify.com/album/74Mm5t56WdmZSKUjiyIbEf"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193659,
+      "name": "Resist - Original Mix",
+      "url": "https://open.spotify.com/track/4hUrZwwsih1IwlOf7XmIlV"
+    },
+    {
+      "album": {
         "name": "Blissful Patterns",
         "url": "https://open.spotify.com/album/31OQ50zkCqjiM5hrsuaMZ0"
       },
@@ -5793,7 +5815,7 @@
     {
       "album": {
         "name": "\u200ekinder \u200eopposites",
-        "url": "https://open.spotify.com/album/6O3emw9f3lKSgDvNabPT9B"
+        "url": "https://open.spotify.com/album/6BVsvhJucDYyb9LhM1MzcQ"
       },
       "artists": [
         {
@@ -5804,6 +5826,24 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 102400,
+      "name": "\u200ekinder \u200eopposites",
+      "url": "https://open.spotify.com/track/3MYGkr4LPB4erhr97GnHbI"
+    },
+    {
+      "album": {
+        "name": "\u200ekinder \u200eopposites",
+        "url": "https://open.spotify.com/album/6O3emw9f3lKSgDvNabPT9B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 102400,
       "name": "\u200ekinder \u200eopposites",
       "url": "https://open.spotify.com/track/6DH5NhDzhtSyQ6eRtHcPX8"

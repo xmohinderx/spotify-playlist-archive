@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 3468,
+  "num_followers": 3473,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDgxMzIxYjczM2ExNGJjYzJmZGM3OTFmMzMwYTk1ZTNk",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDFhNzA4YzRhYjUyYjdlYjUyZGY2OThmYTg3YzA0MmI1",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -59,22 +59,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Vega [Street Fighter II]",
-        "url": "https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv"
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
       },
       "artists": [
         {
           "name": "Mariachi Entertainment System",
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
-        },
-        {
-          "name": "The OneUps",
-          "url": "https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp"
         }
       ],
-      "duration_ms": 159138,
-      "name": "Vega [Street Fighter II]",
-      "url": "https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV"
+      "duration_ms": 140250,
+      "name": "Dragon Roost Island (from \"The Legend of Zelda: Wind Waker\")",
+      "url": "https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -207,18 +203,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+        "name": "Vega [Street Fighter II]",
+        "url": "https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv"
       },
       "artists": [
         {
           "name": "Mariachi Entertainment System",
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+        },
+        {
+          "name": "The OneUps",
+          "url": "https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp"
         }
       ],
-      "duration_ms": 140250,
-      "name": "Dragon Roost Island (from \"The Legend of Zelda: Wind Waker\")",
-      "url": "https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5"
+      "duration_ms": 159138,
+      "name": "Vega [Street Fighter II]",
+      "url": "https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV"
     },
     {
       "added_at": "2021-07-28 19:40:38",

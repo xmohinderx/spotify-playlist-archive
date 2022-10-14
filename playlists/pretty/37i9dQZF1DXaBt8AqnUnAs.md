@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,946 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,014 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 57 | [Lua](https://open.spotify.com/track/6dv0kYjuj6YjSHm4y1GPYU) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn) | [Lua](https://open.spotify.com/album/7hG5lVX3IIk4NzL3Jhw8Es) | 3:05 |
 | 58 | [Convite](https://open.spotify.com/track/1LWGL9Clf8rzbvgr2mXHCB) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6) | [Convite](https://open.spotify.com/album/4iax4ep3hIh3q5YesIiqdv) | 3:47 |
 | 59 | [Eu Gosto Dela](https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cohen](https://open.spotify.com/artist/6YANUKWAHOVnWhG0wnvm2M) | [Emicidio](https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs) | 3:17 |
-| 60 | [Procuro Alguém](https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Thiago Braga](https://open.spotify.com/artist/332BX60yn7fPIR2ivr8TxM) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:33 |
+| 60 | [Procuro Alguém](https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:33 |
 | 61 | [Segundo Andar](https://open.spotify.com/track/1yCRKdKQzfT0Yc8bQU35OF) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/4nm7SKKXzMr6p098vzJOKh) | 3:54 |
 | 62 | [Apaixonadin](https://open.spotify.com/track/0rocmkucHNcpgoClAQNlWu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Apaixonadin](https://open.spotify.com/album/4XCSej2LVgk2PWNvVIXZtJ) | 2:12 |
 | 63 | [Rubi](https://open.spotify.com/track/1YumR6MJyfkoHarpg2oL19) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [Rubi](https://open.spotify.com/album/2lf9zogvZ4DKBWomGkoisi) | 3:27 |

@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-307 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+309 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Crystal Clear](https://open.spotify.com/track/0Ogm2QwgnGabdYA24p59Q4) | [Luminous](https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u) | [Crystal Clear](https://open.spotify.com/album/1tfeajzxADOTdv6bISDtqP) | 3:46 | 2022-04-05 | 2022-07-01 |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
+| [David's House](https://open.spotify.com/track/3C2jaCNb0zckFTRiogJrmW) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [David's House](https://open.spotify.com/album/76saSRyM5eymCJFacvJYed) | 2:50 | 2022-10-14 |  |
 | [Deep \- Dirk 81 Remix](https://open.spotify.com/track/23OHsWIvFTqOc8fOHBdTfp) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi), [DIRK 81](https://open.spotify.com/artist/4q7ST2CYBFIK4TTL1sNCpk) | [Deep \(Dirk 81 Remix\)](https://open.spotify.com/album/6B02NazCKfqv0JZY7Yhrx3) | 4:42 | 2022-05-20 | 2022-05-27 |
 | [Deep Breathing](https://open.spotify.com/track/0oXG5zbpP09PiSXMp8cmnp) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Deep Breathing](https://open.spotify.com/album/1kXgBAdzlspc1qzyVo74G4) | 2:59 | 2022-04-05 | 2022-09-02 |
 | [Delta\-Omicron](https://open.spotify.com/track/4y3vErFuRlu6i2SyO0nkD1) | [Loell](https://open.spotify.com/artist/3jDHiq5XFmo97S6L5NtGsn) | [Delta\-Omicron](https://open.spotify.com/album/53NmGCs59O0EYT2uRNDW5x) | 2:51 | 2022-04-05 | 2022-05-20 |
@@ -154,6 +155,7 @@
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2022-04-05 |  |
 | [Lifted](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:38 | 2022-09-02 |  |
 | [Lisboa](https://open.spotify.com/track/4im9kPVTBfV5n7iR3sHwu1) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Lisboa](https://open.spotify.com/album/1lPu8vPvymLsCC5xH2DF10) | 2:34 | 2022-09-02 |  |
+| [locking lips](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [locking lips](https://open.spotify.com/album/28M6S2X1BaPQI0IcJ6ju55) | 3:37 | 2022-10-14 |  |
 | [Long Time No See](https://open.spotify.com/track/4am2IwoKTQxH1yiHQWDbBF) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Long Time No See](https://open.spotify.com/album/5W9lOAVWxcyxbxi2nSX0Qv) | 3:36 | 2022-09-23 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-04-05 |  |
 | [Lost Sea](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D) | [Mandy Mars](https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9) | [Lost Sea](https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe) | 3:07 | 2022-05-13 |  |

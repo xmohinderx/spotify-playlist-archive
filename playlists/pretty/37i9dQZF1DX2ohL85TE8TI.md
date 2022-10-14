@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Golden Spoon \(금수저\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,760 likes - 107 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,075 likes - 107 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

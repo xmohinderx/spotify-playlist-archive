@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,674 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,686 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 8 | [It's Bad You Know](https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:58 |
 | 9 | [Beauty Beats](https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m) | [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm) | [Collide](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52) | 3:45 |
 | 10 | [Honeybee Blues](https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT) | [The Tao Of Groove](https://open.spotify.com/artist/66nWqKHAI8Q8w72wfUqmZa) | [Fresh Goods](https://open.spotify.com/album/3cTRg8cy3cBIDWhN1XYrxZ) | 3:31 |
-| 11 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 |
-| 12 | [I Had a Woman](https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [By Any Beats Necessary](https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab) | 2:39 |
+| 11 | [I Had a Woman](https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [By Any Beats Necessary](https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab) | 2:39 |
+| 12 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 |
 | 13 | [Seeing Red](https://open.spotify.com/track/27CSMEytwIjbQJG0118q4a) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Shamanaid](https://open.spotify.com/album/2Itmzzv39Z7w6mL8WVeU3x) | 4:56 |
 | 14 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 |
 | 15 | [A Blues Thang](https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv) | [Basement Freaks](https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ) | [Funk from the Trunk](https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl) | 3:23 |
 | 16 | [This Is For Everyone \- Original Mix](https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 3:49 |
 | 17 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 |
 | 18 | [That's Alright](https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS) | [Fab Samperi](https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte), [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Moonshine Crossroads](https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG) | 2:41 |
-| 19 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 |
-| 20 | [A Blues Malfunktion](https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw) | [Beat Fatigue](https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ) | [Malfunktionality Part One](https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2) | 4:18 |
+| 19 | [A Blues Malfunktion](https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw) | [Beat Fatigue](https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ) | [Malfunktionality Part One](https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2) | 4:18 |
+| 20 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 |
 | 21 | [I'm Back With Trouble](https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [I'm Back With Trouble](https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn) | 3:18 |
 | 22 | [Tale of A.G\. Smith](https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Deja Booze](https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2) | 3:37 |
 | 23 | [The Fire](https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 38 | [Back Against The Wall](https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV) | [Euphoria](https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ) | [Precious Time](https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8) | 5:19 |
 | 39 | [Hurricane](https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 4:15 |
 | 40 | [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 |
-| 41 | [Psycho Sam](https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Who Else!](https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm) | 4:55 |
-| 42 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
+| 41 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
+| 42 | [Psycho Sam](https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Who Else!](https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm) | 4:55 |
 | 43 | [Good & Gone \- Original Mix](https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Good & Gone / The Observer](https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87) | 4:12 |
 | 44 | [Please Don't Stay](https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 2:58 |
 | 45 | [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
 | 50 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGE5MjI5OTFhODU1N2IwZDMxMWExOGU4NGFkN2VlZTIx`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDU3ZjE3M2ZjYjNlYTZlM2I1OTljNzViNTA5NzQwMTk0`

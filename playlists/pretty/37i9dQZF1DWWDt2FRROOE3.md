@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,468 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,473 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cancion Del Mariachi](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) | [Antonio Banderas/los Lobos](https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn) | [Mexico and Mariachis](https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju) | 2:07 |
 | 2 | [La Cucaracha](https://open.spotify.com/track/5fCCJgB3XbG5mqVZBYLqOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 2:45 |
 | 3 | [Bohemian Rhapsody \- Instrumental](https://open.spotify.com/track/1ikHG5XBAjPWxCYlMjkTcN) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 5:48 |
-| 4 | [Vega \[Street Fighter II\]](https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX), [The OneUps](https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp) | [Vega \[Street Fighter II\]](https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv) | 2:39 |
+| 4 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 |
 | 5 | [Eye of the Tiger](https://open.spotify.com/track/0q9BEc2ph335v37QaqHSNq) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:12 |
 | 6 | [Crazy Train](https://open.spotify.com/track/4GIhMr21KbdGGBlN9VBj1Y) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:32 |
 | 7 | [Viva La Vida](https://open.spotify.com/track/4hI8sKg524kUczaWwFYp9r) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:06 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 10 | [Rock and Roll All Nite](https://open.spotify.com/track/5IfLw9fO0JnoPdXMSlP1yH) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Tres](https://open.spotify.com/album/7gn4wimMjqxFD4Qd6JuKCw) | 4:52 |
 | 11 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 |
 | 12 | [Tequila](https://open.spotify.com/track/13g2NasYoNmLlzXpesH48Z) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 3:18 |
-| 13 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 |
+| 13 | [Vega \[Street Fighter II\]](https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX), [The OneUps](https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp) | [Vega \[Street Fighter II\]](https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv) | 2:39 |
 | 14 | [We Will Rock You \- Instrumental](https://open.spotify.com/track/40qLT0EWRDmmC6inQjcpag) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 1:57 |
 | 15 | [Despacito](https://open.spotify.com/track/2unpmSGxxlwo39H6DKAL6v) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:23 |
 | 16 | [Somebody That I Used To Know](https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 49 | [The Final Countdown](https://open.spotify.com/track/1vLw8Ns5fqzXzkPQYhmR6i) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:18 |
 | 50 | [Michelle \- Instrumental](https://open.spotify.com/track/3QSpwlTu9gXxyrUAVKwzDh) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:47 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDgxMzIxYjczM2ExNGJjYzJmZGM3OTFmMzMwYTk1ZTNk`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDFhNzA4YzRhYjUyYjdlYjUyZGY2OThmYTg3YzA0MmI1`

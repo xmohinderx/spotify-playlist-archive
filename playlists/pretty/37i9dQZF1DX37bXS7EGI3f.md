@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,321 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,438 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 57 | [What Was Dreamt and Lived](https://open.spotify.com/track/3mJvoWmfeg8zUjdjCqHlqv) | [Opera Magna](https://open.spotify.com/artist/4XfEU7U94G33udFPTPwLbC), [Fabio Lione](https://open.spotify.com/artist/1toJ8R36bFALH06xycfaJp) | [What Was Dreamt and Lived](https://open.spotify.com/album/73RiO9eVYKd9USOzuhoqnZ) | 11:34 |
 | 58 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 |
 | 59 | [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 5:14 |
-| 60 | [Second Nature](https://open.spotify.com/track/6aowG3sH4hV3KmX0InI4PR) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/0gWm0MZIxCIjOtY2Gk1xyI) | 4:36 |
+| 60 | [Second Nature](https://open.spotify.com/track/4xMGEdt0h9iONzUsyHrbwI) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/6XcfrSUhi6QPivcula5bpO) | 4:36 |
 | 61 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 62 | [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 |
 | 63 | [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 |
 | 80 | [Kraven the Hunter \- Single Edit](https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y) | [Power Paladin](https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB) | [Kraven The Hunter](https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma) | 4:42 |
 
-Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMDk2YTRlNWUzNDc3YTRmNjk4Nzk0NDc1YjI2MjU4OTM3`
+Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMDBiZDYxMWVkNWFhNTEwMTJlYjRhMGU0YjU3ZDMzNjYx`

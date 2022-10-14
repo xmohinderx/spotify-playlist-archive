@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,564 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,624 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 20 | [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 |
 | 21 | [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 |
 | 22 | [REVIVED](https://open.spotify.com/track/2Cqr74oA90iffydKmgjwhp) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Records of the SMP](https://open.spotify.com/album/2DwYcQ2DCT7qvG67mM5KLN) | 2:33 |
-| 23 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 |
-| 24 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 |
+| 23 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
+| 24 | [Papercut](https://open.spotify.com/track/4tgBtQ3NMuD1ME3hDRyevI) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/7bxC7x40cvBxquniFJ03Hn) | 3:13 |
 | 25 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 |
 | 26 | [R U Looking 4 Me Now](https://open.spotify.com/track/5FHmzUJo5djke3CM1UcJ5e) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [R U Looking 4 Me Now](https://open.spotify.com/album/4AxaQkhxbVMENx0jFWR01Y) | 3:01 |
 | 27 | [HELLSLIDE](https://open.spotify.com/track/5cVQkTrXlij5odCiRQ3Np1) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [HELLSLIDE](https://open.spotify.com/album/2kkWAJpP6cI3qGOP4aR3yM) | 2:21 |
 | 28 | [Dear Goth](https://open.spotify.com/track/1pSQLQAj7xy6CybmqUnHax) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Dear Goth](https://open.spotify.com/album/7mWd8LS3zZWlFMPvuMNpIb) | 3:29 |
 | 29 | [hi, my name is lonely.](https://open.spotify.com/track/4TKrQI3vyPH31FdOd4WOve) | [stef](https://open.spotify.com/artist/3Tqps31ekhHVR7ylpNUzSj) | [A Glitch in Our Virtual Reality](https://open.spotify.com/album/0Z982C1sqouyogCsQqkrwx) | 2:50 |
 | 30 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
-| 31 | [Religion](https://open.spotify.com/track/41mPsIQNdpq6al1eobzgjD) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Shurk](https://open.spotify.com/artist/0NDgB30D7P2gt1qCS2qfIx) | [Religion](https://open.spotify.com/album/2dt3akdTzN7C0NzPoKrV4n) | 3:05 |
+| 31 | [Religion](https://open.spotify.com/track/1z5ln1WTq4FhMrclpBi8iD) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Shurk](https://open.spotify.com/artist/0NDgB30D7P2gt1qCS2qfIx) | [Religion](https://open.spotify.com/album/06M1TiDDnJTwP9nUsMWxCm) | 3:05 |
 | 32 | [Day I Die](https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 2:57 |
 | 33 | [HEAVY METAL](https://open.spotify.com/track/35ZDgSGHRkV04aYdkP1VfI) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [HEAVY METAL](https://open.spotify.com/album/22M4UMtjicyvAs4fwX91AG) | 2:39 |
 | 34 | [verbal warnings](https://open.spotify.com/track/02JZIF70F9dpOCdenwFwH3) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [verbal warnings](https://open.spotify.com/album/71884HMgAShpsgBO7aR26P) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 |
 | 50 | [White Lie](https://open.spotify.com/track/7B1Lenkjs00lgpFhiaw1fd) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/3AOMfjc6UEQRS29dzlLltv) | 3:33 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDE2NjU3YzNjMjM5ZjU1NWQyNjlhYmQzMGVhODYzNzMz`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDhhNTEwYjNmN2ZlN2M3ZDMwMTMzYmQzNzIyNDg2ODBh`

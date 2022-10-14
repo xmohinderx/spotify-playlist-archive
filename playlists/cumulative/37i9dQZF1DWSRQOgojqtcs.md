@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-131 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
+132 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 | 2022-09-14 |  |
 | [Sweet Sweet, So Sweet](https://open.spotify.com/track/0AjPf0VlaUXQMDIxguOEnI) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j) | [Sweet Sweet, So Sweet](https://open.spotify.com/album/5QZVAFAqkhs26qV1OoOJ5m) | 2:05 | 2022-09-14 |  |
 | [Tasteflash](https://open.spotify.com/track/6Q3XmKqHl6d1cXogRLhQNG) | [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Tasteflash](https://open.spotify.com/album/6nF1GZ3SlWUahRUUTkTmva) | 4:33 | 2022-09-14 |  |
-| [Tear the House Up \- Edit](https://open.spotify.com/track/5mrDwQ85b5WGRsyub91Jn9) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 3:15 | 2022-09-14 |  |
+| [Tear the House Up \- Edit](https://open.spotify.com/track/3hUFfczurka7zLdj2JnSLS) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da) | 3:15 | 2022-09-15 |  |
+| [Tear the House Up \- Edit](https://open.spotify.com/track/5mrDwQ85b5WGRsyub91Jn9) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 3:15 | 2022-09-14 | 2022-10-14 |
 | [Teenage Birdsong](https://open.spotify.com/track/4onzxTzKgnSrKUmA2YydJB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:25 | 2022-09-14 |  |
 | [Teeth](https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:09 | 2022-09-14 |  |
 | [Thank You](https://open.spotify.com/track/1ychA86oJ3V1UqmFOVhu8U) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Thank You](https://open.spotify.com/album/3zVJkyQpwxJvKGLpuscxZR) | 5:50 | 2022-09-14 |  |

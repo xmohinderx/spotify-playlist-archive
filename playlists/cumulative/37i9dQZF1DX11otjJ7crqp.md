@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: GAYLE
 
-1,705 songs - 3 day 13 hr 10 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,706 songs - 3 day 13 hr 13 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,7 +961,8 @@
 | [Lover, You Don't Know Me](https://open.spotify.com/track/2e8LIQeraPt43wrA1KnedC) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 3:18 | 2022-04-22 | 2022-04-29 |
 | [LOVERBOY](https://open.spotify.com/track/1n0t5gXA3oGwKeNWYJjA4T) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [LOVERBOY](https://open.spotify.com/album/0BD3MSFocflDbw99kdbqj9) | 2:55 | 2022-02-11 | 2022-02-26 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-04-02 |
-| [M&M's for Breakfast](https://open.spotify.com/track/4ZZXDm5YWOzHYtuH04OMFF) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/0YctuY3tDGIz4u64vNxUxt) | 3:00 | 2022-09-30 |  |
+| [M&M's for Breakfast](https://open.spotify.com/track/3Gk5K27zIXTMqnbUEwzBmA) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1) | 3:00 | 2022-10-07 |  |
+| [M&M's for Breakfast](https://open.spotify.com/track/4ZZXDm5YWOzHYtuH04OMFF) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/0YctuY3tDGIz4u64vNxUxt) | 3:00 | 2022-09-30 | 2022-10-14 |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-09-17 |
 | [made for you](https://open.spotify.com/track/3OVfWzWkl7RqsOkysmc5kg) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [made for you](https://open.spotify.com/album/1wMh6vF11HQUcmW45Fwh6k) | 2:52 | 2022-04-01 | 2022-04-23 |
 | [Made Up Story](https://open.spotify.com/track/7z04NIE3gIdxdnRQHJkuxw) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Made Up Story](https://open.spotify.com/album/1PvelZzPFUUxhGtdbFt8U2) | 3:08 | 2022-03-04 | 2022-03-18 |

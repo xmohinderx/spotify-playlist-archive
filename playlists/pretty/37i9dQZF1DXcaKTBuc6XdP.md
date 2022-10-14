@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,865 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,878 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 15 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
 | 16 | [The Great Adventure](https://open.spotify.com/track/3Qpx3cHP6XMmf8comtpjkT) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [Sherri Shepherd](https://open.spotify.com/artist/006eSnqZrWRa4Z7jhlCt4J), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 3:42 |
 | 17 | [Big House](https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Don't Censor Me](https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C) | 3:31 |
-| 18 | [Above All](https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 4:36 |
-| 19 | [Joy Of The Lord](https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As Family We Go](https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn) | 3:46 |
+| 18 | [Joy Of The Lord](https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As Family We Go](https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn) | 3:46 |
+| 19 | [Above All](https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 4:36 |
 | 20 | [I've Got Peace Like A River](https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:33 |
 | 21 | [Trading My Sorrows \(Yes Lord\)](https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC) | [Darrell Evans](https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO) | [Freedom](https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA) | 6:01 |
 | 22 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMGI3ODJlN2RkOWEzZGQ2YzE4ZTMxODgxMjI2NDg3NWIy`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDJiYjY1MWI1ZTczN2U1YTllNWM5MDgwM2M5NDBiZGI5`

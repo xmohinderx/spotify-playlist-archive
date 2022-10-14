@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-120 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+122 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 | 2022-04-26 | 2022-07-29 |
 | [Arrow](https://open.spotify.com/track/0uVEYY44hSFpA7czgNooR9) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Sombre](https://open.spotify.com/album/4j8NxXtdsYzudnOzeEQwxm) | 3:33 | 2022-04-26 |  |
 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 | 2022-04-26 |  |
+| [Batida Diferente](https://open.spotify.com/track/3MF97DSrXO444itt0SOyCB) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Batida Diferente](https://open.spotify.com/album/6TEAtBVoHbOdOM0hyqSiCv) | 4:05 | 2022-10-13 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2022-04-26 |  |
 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 | 2022-04-26 |  |
 | [Black Orpheus](https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Black Orpheus](https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P) | 3:24 | 2022-05-10 |  |
@@ -105,6 +106,7 @@
 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Quizás, Quizás, Quizás](https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg) | 3:21 | 2022-05-24 | 2022-08-11 |
 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2022-04-26 |  |
 | [Rio Lindo](https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Rio Lindo](https://open.spotify.com/album/0aC2r9F9VoEBhYa5MYUVq6) | 3:43 | 2022-08-17 |  |
+| [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 | 2022-10-13 |  |
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-04-26 |  |
 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 | 2022-04-26 |  |
 | [Something In The Air Between Us](https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 4:12 | 2022-04-26 | 2022-08-11 |
@@ -126,7 +128,7 @@
 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 | 2022-04-26 |  |
 | [Wave](https://open.spotify.com/track/06KuVQzDb5YGVR8i8szfUI) | [Pink Street Quartet](https://open.spotify.com/artist/3j4EV6PB3eAfxlbYZG3A4K) | [Unforgettable](https://open.spotify.com/album/0DXtYqgqPbMb0glE7h2mET) | 3:20 | 2022-04-26 | 2022-08-11 |
 | [Wave](https://open.spotify.com/track/36kfJw6wpEm34AcTrOQqpn) | [Quarteto ilha grande](https://open.spotify.com/artist/4FUgUq2s87clLndwIIqcO3) | [Once I Loved](https://open.spotify.com/album/4FX2RCNuuxdLzMiN1CtOxi) | 5:11 | 2022-04-26 |  |
-| [When Autumn Calls](https://open.spotify.com/track/5fYdYTmBkY1KaxnIyVLW2x) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 3:32 | 2022-04-26 |  |
+| [When Autumn Calls](https://open.spotify.com/track/5fYdYTmBkY1KaxnIyVLW2x) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 3:32 | 2022-04-26 | 2022-10-14 |
 | [Woodblock Print](https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Green Grapes](https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ) | 3:44 | 2022-04-26 |  |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

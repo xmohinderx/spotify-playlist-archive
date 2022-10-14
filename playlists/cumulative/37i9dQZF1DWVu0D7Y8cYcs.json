@@ -220,6 +220,24 @@
     },
     {
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "album": {
         "name": "Do You See",
         "url": "https://open.spotify.com/album/2k8B3PeBWVB1y2RQx0ADav"
       },
@@ -235,10 +253,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 235160,
       "name": "Do You See",
       "url": "https://open.spotify.com/track/5YRQDSlUCBFcevXm3CMpr8"
+    },
+    {
+      "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Jemere Morgan",
+          "url": "https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212267,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6C76s0vqIxMnVH7ZOsdtS2"
     },
     {
       "album": {
@@ -1207,7 +1247,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 295333,
       "name": "Warm & Easy",
       "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"

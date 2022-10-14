@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 36580,
+  "num_followers": 36603,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzE4MjkyMCwwMDAwMDAwMDczNGFhMmU0OTJiNzUzYjkxNDFjYzNlYWE1ZmY2MjBj",
+  "snapshot_id": "MTY1NzE4MjkyMCwwMDAwMDAwMDJlMzExZTI5ZWY4NzE4YmQyNDU4NzBlMTUwZWQ0ZGVi",
   "tracks": [
     {
       "added_at": "2022-07-07 08:35:20",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+        "name": "Vadya Sangamam",
+        "url": "https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo"
       },
       "artists": [
         {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+          "name": "Vadya Sangamam",
+          "url": "https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or"
         }
       ],
-      "duration_ms": 257561,
-      "name": "Enna Thavam Seithanai - Instrumental",
-      "url": "https://open.spotify.com/track/2Hn8wghPZIGwluTF0feE9o"
+      "duration_ms": 446587,
+      "name": "Jagadodharana (Kadri Gopalnath-Sax)",
+      "url": "https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Vadya Sangamam",
-        "url": "https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo"
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
       },
       "artists": [
         {
-          "name": "Vadya Sangamam",
-          "url": "https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or"
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
         }
       ],
-      "duration_ms": 446587,
-      "name": "Jagadodharana (Kadri Gopalnath-Sax)",
-      "url": "https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp"
+      "duration_ms": 257561,
+      "name": "Enna Thavam Seithanai - Instrumental",
+      "url": "https://open.spotify.com/track/2Hn8wghPZIGwluTF0feE9o"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
-      },
-      "artists": [
-        {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
-        }
-      ],
-      "duration_ms": 324878,
-      "name": "Nagavulu Nijamani - Instrumental",
-      "url": "https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Raghuvamsa Sudha Vol.1",
         "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 961280,
       "name": "Vatapi - Hamsadwani - Adi - Live",
       "url": "https://open.spotify.com/track/5JIjifK1fZKvP4BOn1z0ne"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        }
+      ],
+      "duration_ms": 324878,
+      "name": "Nagavulu Nijamani - Instrumental",
+      "url": "https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Vasantha (Violin Solo)",
-      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
+      "duration_ms": 404551,
+      "name": "Hamir Kalyani (Violin Solo)",
+      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
         }
       ],
-      "duration_ms": 404551,
-      "name": "Hamir Kalyani (Violin Solo)",
-      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
+      "duration_ms": 317000,
+      "name": "Vasantha (Violin Solo)",
+      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Jugalbandi",
-        "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
-      },
-      "artists": [
-        {
-          "name": "Kadri Gopalnath",
-          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
-        },
-        {
-          "name": "V Narasinhalu Wadvati",
-          "url": "https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs"
-        }
-      ],
-      "duration_ms": 3604133,
-      "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
-      "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Edakka Kacheri (Instrumental - Edakka)",
         "url": "https://open.spotify.com/album/4aA55UkB9BSBrWaQ1imxHZ"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 373826,
       "name": "Himagirithanaye - Shudha Dhanyasi - Adi",
       "url": "https://open.spotify.com/track/04Nbr3UunpGJBseWKwfOyJ"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Jugalbandi",
+        "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        },
+        {
+          "name": "V Narasinhalu Wadvati",
+          "url": "https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs"
+        }
+      ],
+      "duration_ms": 3604133,
+      "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
+      "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Laya Vinyas",
-        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
-      },
-      "artists": [
-        {
-          "name": "Trichy Sankaran",
-          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Kriti: Padavini with Vina and Mrdangam",
-      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "South Indian Classical Music",
-        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+        "name": "Laya Vinyas",
+        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
       },
       "artists": [
         {
-          "name": "Kadri Gopalnath",
-          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+          "name": "Trichy Sankaran",
+          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
         }
       ],
-      "duration_ms": 589200,
-      "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
-      "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
+      "duration_ms": 233693,
+      "name": "Kriti: Padavini with Vina and Mrdangam",
+      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1163,6 +1147,38 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Music of India: Traditional & Classical",
+        "url": "https://open.spotify.com/album/7LcyYDD8MmvwARFuFIxzN5"
+      },
+      "artists": [
+        {
+          "name": "T.N. Rajarathnam Pillai",
+          "url": "https://open.spotify.com/artist/25JW590YfuB6SigAifDrCc"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Nravadhi Sugadha",
+      "url": "https://open.spotify.com/track/7a3ZnJVKO66APNbbV9a18g"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        }
+      ],
+      "duration_ms": 589200,
+      "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
+      "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Classical Icons - U. Srinivas",
         "url": "https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 1609960,
       "name": "Srikanthimati - Raga Hemavati - Adi",
       "url": "https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Music of India: Traditional & Classical",
-        "url": "https://open.spotify.com/album/7LcyYDD8MmvwARFuFIxzN5"
-      },
-      "artists": [
-        {
-          "name": "T.N. Rajarathnam Pillai",
-          "url": "https://open.spotify.com/artist/25JW590YfuB6SigAifDrCc"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Nravadhi Sugadha",
-      "url": "https://open.spotify.com/track/7a3ZnJVKO66APNbbV9a18g"
     },
     {
       "added_at": "2022-07-07 08:35:20",

@@ -1,12 +1,12 @@
 {
   "description": "Representando la cultura con orgullo. Representing with pride! Cover: Feid",
-  "num_followers": 492412,
+  "num_followers": 492590,
   "original_name": "Made in Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5Nzg2NCwwMDAwMDAwMDIxOTRmODc3N2MzZjI3Nzg5YWNjZTk0MWU0ZGFmYmQ4",
+  "snapshot_id": "MTY2NTY3NDU3NSwwMDAwMDAwMGM3MTI4ZmRlNmQ3YzcxNmExNWFlYzQ3ZGFkZWI5MWYw",
   "tracks": [
     {
       "added_at": "2022-10-11 14:17:44",
@@ -75,6 +75,26 @@
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2022-10-13 15:22:55",
+      "album": {
+        "name": "De Carne Y Hueso",
+        "url": "https://open.spotify.com/album/1ELqyXbIsxDmQw8lLNssLo"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "duration_ms": 187930,
+      "name": "De Carne Y Hueso",
+      "url": "https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7"
     },
     {
       "added_at": "2022-10-11 14:17:44",
@@ -455,26 +475,6 @@
       "duration_ms": 180779,
       "name": "Q\u00b4Hubo Beb\u00e9",
       "url": "https://open.spotify.com/track/2TPWn36SvcFXT2lEfEvm0p"
-    },
-    {
-      "added_at": "2022-10-11 14:17:44",
-      "album": {
-        "name": "Mojando Asientos (feat. Feid)",
-        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
     },
     {
       "added_at": "2022-10-11 14:17:44",

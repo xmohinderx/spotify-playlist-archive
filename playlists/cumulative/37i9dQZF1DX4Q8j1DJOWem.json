@@ -229,6 +229,24 @@
     {
       "album": {
         "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE"
       },
       "artists": [
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 221052,
       "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9"
@@ -265,6 +283,24 @@
     {
       "album": {
         "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e43\u0e08\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276802,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e43\u0e08\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e43\u0e08\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4"
       },
       "artists": [
@@ -275,7 +311,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 276802,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e43\u0e08\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ"
@@ -809,10 +845,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 235058,
       "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/0LLETxISOeZVam4l0RwcpV"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235058,
+      "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
     },
     {
       "album": {

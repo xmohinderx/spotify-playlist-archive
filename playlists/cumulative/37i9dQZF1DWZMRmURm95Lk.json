@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. In cover, Nex Cassel con \"Brothers Cavalera\" feat. Noyz.",
+  "description": "Beat e rime, oggi come una volta. In cover, Deda.",
   "name": "Radici Hip Hop",
   "published_playlist_ids": [
     "4N3m0KkyvafB7QizhgRop2"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 185142,
       "name": "17:00",
       "url": "https://open.spotify.com/track/17kAQXRqK1uf6l7atW5Xcl"
@@ -1262,6 +1262,36 @@
     },
     {
       "album": {
+        "name": "Mercato nero",
+        "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Warez",
+          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "F35",
+      "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
+    },
+    {
+      "album": {
         "name": "Fari Spenti.",
         "url": "https://open.spotify.com/album/4OjBdQH7u5K77VpMefe8e8"
       },
@@ -1597,7 +1627,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
@@ -3551,10 +3581,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 134463,
       "name": "Portami con Te.",
       "url": "https://open.spotify.com/track/1WWAYAfHPrtxCgllHjZEdm"
+    },
+    {
+      "album": {
+        "name": "Posta prioritaria",
+        "url": "https://open.spotify.com/album/3Fw5B9mBJNQfp9koxry50F"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Posta prioritaria",
+      "url": "https://open.spotify.com/track/2QLkW2ujH61eoqYLxSQJc3"
     },
     {
       "album": {
@@ -4851,6 +4899,32 @@
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+    },
+    {
+      "album": {
+        "name": "Universo (feat. Neffa & Fabri Fibra)",
+        "url": "https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93"
+      },
+      "artists": [
+        {
+          "name": "Deda",
+          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "Universo (feat. Neffa & Fabri Fibra)",
+      "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
     },
     {
       "album": {

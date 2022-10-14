@@ -4,7 +4,7 @@
 
 > Tracks popping off in the global Afro scene\. Cover: Ayra Starr
 
-82 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
+85 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-13 | 2022-08-06 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-25 |  |
 | [Control](https://open.spotify.com/track/33aYQD8u61dxbkvYatDWa5) | [Dante Moris](https://open.spotify.com/artist/7d42wwAzJlkmO6nvo70tTa) | [Control](https://open.spotify.com/album/6PDTbnQyukMCnD94FO1Uuu) | 2:22 | 2022-09-08 |  |
+| [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-10-13 |  |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-07-13 |  |
 | [Curvy Waistline](https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Ghana Must Go](https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi) | 3:00 | 2022-07-28 |  |
 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-07-13 |  |
@@ -58,6 +59,7 @@
 | [Man Of The Year](https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Man Of The Year](https://open.spotify.com/album/0wx7vhMKi20ejhghIHYkHA) | 2:15 | 2022-07-13 |  |
 | [Mexican Girl](https://open.spotify.com/track/2ufffe9fIe123XR3YvpQO5) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Sheny](https://open.spotify.com/artist/4pD42rt571GLYtLZxn24Mt) | [Mexican Girl](https://open.spotify.com/album/0iczvaW9REVqI5fbR6OYBI) | 3:31 | 2022-07-13 |  |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-07-13 |  |
+| [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-13 |  |
 | [Never Let Go \- Remix](https://open.spotify.com/track/7LOZ9ogL9heo1JiA7Va175) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Never Let Go Remix](https://open.spotify.com/album/4fV1WkpgkI1eeisnKQjohB) | 4:17 | 2022-10-06 |  |
 | [NISHALEWA](https://open.spotify.com/track/7BYBqKKbJclOWJXUwZINle) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [NISHALEWA](https://open.spotify.com/album/4YtJE09qGavW9e84Hst1qS) | 1:50 | 2022-07-13 | 2022-08-26 |
 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 | 2022-07-13 |  |
@@ -67,6 +69,7 @@
 | [ODG](https://open.spotify.com/track/7MVWJodTHuubI1eGFlKrMy) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body of Work \(Deluxe Edition\)](https://open.spotify.com/album/67v6c0gBbBW5EGjT3uvMM3) | 3:13 | 2022-09-15 |  |
 | [ODG](https://open.spotify.com/track/4PgMRk7oJmRzJOngQlONBa) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body Of Work](https://open.spotify.com/album/4GiQ8qKGKc79hjyMshrhVt) | 3:13 | 2022-07-13 | 2022-07-29 |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2022-07-13 |  |
+| [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 |  |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-13 |  |
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-25 |  |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-25 |  |

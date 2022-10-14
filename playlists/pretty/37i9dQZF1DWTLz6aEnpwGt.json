@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 29898,
+  "num_followers": 29931,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMDkyZTVjN2JlMmViYTdjYTM2NDU0MmY0M2Y5YWQxMjk0",
+  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMGU2NjIzY2M4OTA0OGFhYmM5MWM1N2I3OTlhYTg2MjU2",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -687,6 +687,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 389706,
+      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
+      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 410160,
       "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
       "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 389706,
-      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
-      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.s.: From The W.f. Bach Notebook / 5 Little Preludes",
-        "url": "https://open.spotify.com/album/7xSObzYExuN0kkixkfSXTo"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 67573,
-      "name": "Preambulum In C Major, BWV 924",
-      "url": "https://open.spotify.com/track/0BELP51MLTMyd3ip7Nbo6K"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.s.: From The W.f. Bach Notebook / 5 Little Preludes",
+        "url": "https://open.spotify.com/album/7xSObzYExuN0kkixkfSXTo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 67573,
+      "name": "Preambulum In C Major, BWV 924",
+      "url": "https://open.spotify.com/track/0BELP51MLTMyd3ip7Nbo6K"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach, J.S.: English Suites Nos. 4-6, Bwv 809-811",
         "url": "https://open.spotify.com/album/3Bcig5Swn4x4KrHea3b2ab"
       },
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: The Well-Tempered Clavier, Vol. I",
-        "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Dina Ugorskaja",
-          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
-        }
-      ],
-      "duration_ms": 85599,
-      "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
-      "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
         "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 252786,
       "name": "Partita No. 5 in G major, BWV 829 : II. Allemande",
       "url": "https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: The Well-Tempered Clavier, Vol. I",
+        "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dina Ugorskaja",
+          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
+        }
+      ],
+      "duration_ms": 85599,
+      "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
+      "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
     }
   ],
   "unique_name": "Bach Piano",

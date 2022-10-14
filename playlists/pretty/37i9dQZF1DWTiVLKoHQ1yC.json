@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 120144,
+  "num_followers": 120256,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDIzZmVhZWMyYmUzYTgwYjY1YjVkM2MxZDkxMjA0MTlk",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDAxMDc2M2I5Y2E2MWFhOGMzN2RkOTAwYzlmZGVmYWEz",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -259,26 +259,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Cold Light",
-        "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Cold Light",
-      "url": "https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Cold Light",
+        "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 179060,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Lost Gravity EP",
-        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 305401,
-      "name": "Lost Gravity",
-      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Floral Decor",
         "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 248000,
       "name": "Floral Decor",
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Lost Gravity EP",
+        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 305401,
+      "name": "Lost Gravity",
+      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "I Saw Good",
-        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
+        "name": "Ascendance / Give It Up",
+        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
         }
       ],
-      "duration_ms": 187500,
-      "name": "I Saw Good",
-      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
+      "duration_ms": 230673,
+      "name": "Ascendance",
+      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Ascendance / Give It Up",
-        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
+        "name": "I Saw Good",
+        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
       },
       "artists": [
         {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 230673,
-      "name": "Ascendance",
-      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
+      "duration_ms": 187500,
+      "name": "I Saw Good",
+      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Unite",
+      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "The Old You",
         "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 195701,
       "name": "The Old You",
       "url": "https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
-      },
-      "artists": [
-        {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 188157,
-      "name": "Unite",
-      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Froozen / Balloons",
-        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
-      },
-      "artists": [
-        {
-          "name": "Hosini",
-          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
-        }
-      ],
-      "duration_ms": 234744,
-      "name": "Balloons",
-      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Better Place (Super Flu Remix)",
         "url": "https://open.spotify.com/album/56hJYPMJvT1VmVmpzYb9ve"
       },
@@ -1179,22 +1163,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Satisfied (Qrion Remix)",
-        "url": "https://open.spotify.com/album/7Aqx2HgGpIP8dmyMO3pbwQ"
+        "name": "Froozen / Balloons",
+        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
         }
       ],
-      "duration_ms": 266099,
-      "name": "Satisfied - Qrion Remix",
-      "url": "https://open.spotify.com/track/75s1E7gtxXQaKkHMyOOtOp"
+      "duration_ms": 234744,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1215,6 +1195,26 @@
       "duration_ms": 432000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1ofk2QRTFucPmG4Xo90T9E"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Satisfied (Qrion Remix)",
+        "url": "https://open.spotify.com/album/7Aqx2HgGpIP8dmyMO3pbwQ"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 266099,
+      "name": "Satisfied - Qrion Remix",
+      "url": "https://open.spotify.com/track/75s1E7gtxXQaKkHMyOOtOp"
     },
     {
       "added_at": "2022-01-14 10:50:05",

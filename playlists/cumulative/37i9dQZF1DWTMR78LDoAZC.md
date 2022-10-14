@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQQIA+ artists\. Cover: serpentwithfeet
 
-149 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
+151 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dead Weight](https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:27 | 2022-06-01 |  |
 | [death proof](https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:56 | 2022-06-01 |  |
 | [Dick in the Air](https://open.spotify.com/track/638UHVZeUJiDVQxb7PQ1u4) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Rub](https://open.spotify.com/album/3cFBqKdxDfZUDCOtOytHeB) | 3:10 | 2021-06-22 | 2022-06-01 |
+| [Did You Come?](https://open.spotify.com/track/0vOJBOg4bqd5PSY8k4DYny) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:10 | 2022-06-06 |  |
 | [Did You Come?](https://open.spotify.com/track/7Gg3K1voAqySrOMh9DPjAX) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:10 | 2021-06-22 | 2022-10-13 |
 | [Don't Freak](https://open.spotify.com/track/6IDf8qhBUUi8BUWYRqk1mB) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Don't Freak](https://open.spotify.com/album/5xv8mQtOVEPHSmzUgqKlAx) | 2:46 | 2021-06-22 |  |
 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/0XpV3XJRiOD26mSUbEBgny) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/album/4S4Uyd4EjdrlmDNkzou92g) | 4:21 | 2021-06-22 | 2022-07-29 |
@@ -56,7 +57,7 @@
 | [Help Myself](https://open.spotify.com/track/0GBgnbJII17LGSXjIjVHT7) | [Evvol](https://open.spotify.com/artist/21drkL18eajEqlnqSAphJm) | [The Power](https://open.spotify.com/album/18p9w3i4FrHnbJVteUocya) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [How to Be Successful](https://open.spotify.com/track/4U6A6DQmPhQa80d8NdRu48) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 2:45 | 2021-06-22 | 2022-06-02 |
 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 | 2021-06-22 |  |
-| [I Wanna Be Your Girlfriend](https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Twelve Nudes](https://open.spotify.com/album/5Pm5mcnn8gRxiY4b4qXD1P) | 3:29 | 2021-06-22 |  |
+| [I Wanna Be Your Girlfriend](https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Twelve Nudes](https://open.spotify.com/album/5Pm5mcnn8gRxiY4b4qXD1P) | 3:29 | 2021-06-22 | 2022-10-14 |
 | [I'm Happy Now](https://open.spotify.com/track/4A74rEokmBC1nXf1wtMmqi) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I'M HAPPY NOW](https://open.spotify.com/album/2RizbLChfs7zN9k0CU5gTW) | 4:31 | 2021-06-22 | 2022-07-29 |
 | [if we lived on the moon](https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6vKGgTS4yEAm8DlnQd5c7P) | 2:31 | 2022-06-01 | 2022-10-13 |
 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 | 2022-06-06 |  |
@@ -144,13 +145,14 @@
 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 | 2022-06-01 |  |
 | [Time I Love to Waste](https://open.spotify.com/track/7v6rH68U9wPAzRzYNmgtCx) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love to Waste](https://open.spotify.com/album/70RPD5nHqcFwQMJFs6hBsU) | 3:17 | 2021-06-22 | 2022-06-01 |
 | [True Love](https://open.spotify.com/track/4P8ZXHQkYsHpmz6MDMtoQd) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:45 | 2021-06-22 | 2022-06-01 |
-| [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-22 |  |
+| [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-22 | 2022-10-14 |
 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 | 2021-06-22 |  |
 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 | 2022-06-01 |  |
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2022-06-24 |  |
 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2022-06-01 |  |
 | [Where the Bodies are Buried](https://open.spotify.com/track/0xG35t62RlS74P1ReAgew9) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Where The Bodies Are Buried](https://open.spotify.com/album/3nVtNC85YkvrxYWmaJJ22M) | 3:06 | 2021-06-22 | 2022-07-29 |
 | [Wish You Were Gay](https://open.spotify.com/track/6fgjMZJlIACwYqC1b0yyiP) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wish You Were Gay](https://open.spotify.com/album/0Hh5Iu5zm6nSnvjGmOM07g) | 3:11 | 2021-06-22 | 2022-06-01 |
+| [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 | 2022-06-24 |  |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-24 | 2022-10-13 |
 | [You!](https://open.spotify.com/track/1QrFCs420kYCvpv6T9CGLq) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:55 | 2022-06-01 | 2022-07-29 |
 | [You're Still The One](https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [You're Still The One](https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4) | 2:44 | 2022-06-06 |  |

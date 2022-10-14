@@ -4,7 +4,7 @@
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-130 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+131 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bula Boot](https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il) | 5:32 | 2019-02-03 | 2022-10-05 |
 | [Burn Out](https://open.spotify.com/track/1wzXBdFFWIOEKzVG9JmbEm) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/19uCaDMs2fpsvwG5eMqaFG) | 4:54 | 2018-09-23 | 2022-09-25 |
 | [Burn Out](https://open.spotify.com/track/38AtqB4TsqKPnE8yl9xnVh) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Best Of](https://open.spotify.com/album/5I0B6IcTYae0LW5gkLW1Ko) | 4:54 | 2018-09-23 | 2022-07-29 |
-| [Burn Out](https://open.spotify.com/track/42pZrEQeTK8wFryruynyhP) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/2ugAbmeyoFb9qTNQRwcOSe) | 4:54 | 2021-06-27 |  |
+| [Burn Out](https://open.spotify.com/track/42pZrEQeTK8wFryruynyhP) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/2ugAbmeyoFb9qTNQRwcOSe) | 4:54 | 2021-06-27 | 2022-10-14 |
 | [Caracara](https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Kid X](https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf) | [Skhanda Republic](https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf) | 3:46 | 2019-07-12 |  |
 | [Congratulate](https://open.spotify.com/track/2LgLbExDtMKJhEf4nWqCYS) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Congratulate](https://open.spotify.com/album/0WajbtAUUOxGMVSC8SSEoq) | 3:48 | 2019-02-03 | 2022-07-29 |
 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 | 2019-02-03 |  |
@@ -49,6 +49,7 @@
 | [How Do You Feel](https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 5:06 | 2018-09-23 |  |
 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 | 2018-09-23 |  |
 | [Impi](https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc) | [Johnny Clegg & Juluka](https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q), [Sipho Mchunu](https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc) | [African Litany](https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t) | 4:45 | 2019-02-03 |  |
+| [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 | 2018-09-23 |  |
 | [Ingoma](https://open.spotify.com/track/21woA8x2ePfr9Sjd7qIrlG) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe \(Deluxe Edition\)](https://open.spotify.com/album/34SnxHj62W1HWpTD8qKvQd) | 6:12 | 2018-09-23 | 2022-07-29 |
 | [Ingoma](https://open.spotify.com/track/6AohFdqxAVO7xCpLTuHVvd) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/1lLexWslJpsjdF75f9IviG) | 6:12 | 2018-09-23 | 2022-09-25 |
 | [Is Vokol Is Niks](https://open.spotify.com/track/4DrKHhSnbT9k9Efpmw4B8W) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Hey Kop](https://open.spotify.com/album/0Lv870EFecsFjyGbH9oHKd) | 5:20 | 2019-02-03 | 2022-07-29 |

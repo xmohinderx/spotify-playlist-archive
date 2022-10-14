@@ -4,7 +4,7 @@
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=6wgTaCM3Qde3b2sNrIjAMw"> Elaine </a>
 
-160 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
+161 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Walk Away](https://open.spotify.com/track/3qpvQqhd8fLkTv9BsZmpGJ) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ) | [Love Supreme](https://open.spotify.com/album/0Erpf9zdbahSonL0cQ0NC6) | 3:01 | 2022-03-08 | 2022-04-06 |
 | [Want](https://open.spotify.com/track/6vcL12JWIzSjpxxqFPmh9L) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Want](https://open.spotify.com/album/46ZtJ3n0Z1Ux2BhcaGqfKQ) | 2:59 | 2022-07-05 |  |
 | [Where You Dey Go \(feat\. Naira Marley\)](https://open.spotify.com/track/0Dxn6EaJKcjQuLg8gzviIH) | [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Where You Dey Go](https://open.spotify.com/album/29cX6p9D3Aw6GRbsoeOldR) | 3:13 | 2022-04-05 | 2022-08-03 |
-| [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-08-02 |  |
+| [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2022-08-02 |  |
+| [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-08-02 | 2022-10-14 |
 | [Woman](https://open.spotify.com/track/1ODftV7ocihBwY9CJcCvD1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Woman](https://open.spotify.com/album/6bqDVBfkBUuMy56zc91rR6) | 2:48 | 2021-10-15 | 2022-03-08 |
 | [Yatch](https://open.spotify.com/track/0Fzu7jMb9pqjMf94sd2Iqn) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [Yatch](https://open.spotify.com/album/7iDgKrhtaM6sHpuY1edwPM) | 3:37 | 2022-02-02 | 2022-03-08 |
 | [You're Gonna Make It](https://open.spotify.com/track/4zOagWbKDpnA5yowFNZXfd) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [You're Gonna Make It](https://open.spotify.com/album/1DnzvNxJJ2JjUbwPdrcjIr) | 3:03 | 2022-03-08 | 2022-04-06 |

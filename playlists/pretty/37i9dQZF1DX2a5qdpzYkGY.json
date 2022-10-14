@@ -1,12 +1,12 @@
 {
   "description": "Music for Imaginary Films",
-  "num_followers": 6008,
+  "num_followers": 6027,
   "original_name": "Nocturna Cinematica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDcyMiwwMDAwMDAwMDhjNmNjMjBhYjZjMzhhODg5MTY0ZDU1ZmQwMzM1OTM3",
+  "snapshot_id": "MTY2NDUxMDcyMiwwMDAwMDAwMDVhMjc5MDZkYTFlZWRjODMwNGVkNWUzOWU2ZGM0MWU5",
   "tracks": [
     {
       "added_at": "2022-09-11 03:52:54",
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6HD2CBxIxy8ONoSvpZgvCj"
     },
     {
-      "added_at": "2022-10-13 01:41:22",
+      "added_at": "2022-10-14 01:50:37",
       "album": {
         "name": "In These Times",
         "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/6ZjiUUaTWTeKCkHZK3NBQs"
     },
     {
-      "added_at": "2022-10-13 01:41:22",
+      "added_at": "2022-10-14 01:50:37",
       "album": {
         "name": "NAQI Vol.1",
         "url": "https://open.spotify.com/album/0bP4C9ouNGhdzAeJBY39dJ"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/4Y8AYSux9E0ZSTHq9YpetR"
     },
     {
-      "added_at": "2022-10-13 01:41:22",
+      "added_at": "2022-10-14 01:50:37",
       "album": {
         "name": "Guaguansoul",
         "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/3nm4xjJMrrJWzmmorzFRIm"
     },
     {
-      "added_at": "2022-05-18 00:18:47",
-      "album": {
-        "name": "Machinarium Soundtrack",
-        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
-        }
-      ],
-      "duration_ms": 304186,
-      "name": "By the Wall",
-      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Get Sun (feat. Arthur Verocai)",
@@ -695,6 +679,22 @@
       "duration_ms": 337626,
       "name": "Get Sun (feat. Arthur Verocai)",
       "url": "https://open.spotify.com/track/4WdUMgVMYdn1xeu3X2z9Ai"
+    },
+    {
+      "added_at": "2022-05-18 00:18:47",
+      "album": {
+        "name": "Machinarium Soundtrack",
+        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+        }
+      ],
+      "duration_ms": 304186,
+      "name": "By the Wall",
+      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/2kBonSflRzcJY7Xndvvtl3"
     },
     {
-      "added_at": "2022-02-23 18:08:16",
-      "album": {
-        "name": "Marginalia III",
-        "url": "https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Marginalia #48",
-      "url": "https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Second Spring OST",
@@ -763,6 +747,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2022-02-23 18:08:16",
+      "album": {
+        "name": "Marginalia III",
+        "url": "https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Marginalia #48",
+      "url": "https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/7JQaw1W3H6JD3LJ1yDvnS8"
     },
     {
+      "added_at": "2022-08-03 04:08:36",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "duration_ms": 232723,
+      "name": "Go Through the Night",
+      "url": "https://open.spotify.com/track/6NdiQtxFYkcoo3NDxqOIiV"
+    },
+    {
       "added_at": "2022-08-09 18:38:04",
       "album": {
         "name": "Tukumtak",
@@ -847,22 +863,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2022-08-03 04:08:36",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
-      },
-      "artists": [
-        {
-          "name": "Elephant Gym",
-          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
-        }
-      ],
-      "duration_ms": 232723,
-      "name": "Go Through the Night",
-      "url": "https://open.spotify.com/track/6NdiQtxFYkcoo3NDxqOIiV"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -997,24 +997,20 @@
       "url": "https://open.spotify.com/track/4ciVbZoIxygY9mNaJWzkZd"
     },
     {
-      "added_at": "2022-04-23 03:37:43",
+      "added_at": "2022-01-13 01:08:52",
       "album": {
-        "name": "Taina",
-        "url": "https://open.spotify.com/album/5zjwRiG6UwUqKtBnJCaTlY"
+        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
+        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
       },
       "artists": [
         {
-          "name": "Schepetkov",
-          "url": "https://open.spotify.com/artist/0MRze6X3tOV76bQXUupBtK"
-        },
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Taina",
-      "url": "https://open.spotify.com/track/1ZW0uQWkcZsqdh1wkVk0uL"
+      "duration_ms": 150681,
+      "name": "Wing Rowing (K08)",
+      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1049,36 +1045,20 @@
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
-      "added_at": "2022-01-13 01:08:52",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
-        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
+        "name": "Timeslips & Chimeras",
+        "url": "https://open.spotify.com/album/3so5da4nu96kLa2tndnJ0u"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "Tangents",
+          "url": "https://open.spotify.com/artist/76rNPeXwFcvii9vnKMDnn0"
         }
       ],
-      "duration_ms": 150681,
-      "name": "Wing Rowing (K08)",
-      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
-    },
-    {
-      "added_at": "2022-08-03 04:26:51",
-      "album": {
-        "name": "Swampland / Cava",
-        "url": "https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE"
-      },
-      "artists": [
-        {
-          "name": "Bokoya",
-          "url": "https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA"
-        }
-      ],
-      "duration_ms": 75293,
-      "name": "Swampland",
-      "url": "https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf"
+      "duration_ms": 384386,
+      "name": "Ossicles",
+      "url": "https://open.spotify.com/track/0eL6WnAXZf7q8HOAwcrJEI"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1097,6 +1077,22 @@
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
     },
     {
+      "added_at": "2022-08-03 04:26:51",
+      "album": {
+        "name": "Swampland / Cava",
+        "url": "https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE"
+      },
+      "artists": [
+        {
+          "name": "Bokoya",
+          "url": "https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA"
+        }
+      ],
+      "duration_ms": 75293,
+      "name": "Swampland",
+      "url": "https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf"
+    },
+    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -1111,22 +1107,6 @@
       "duration_ms": 458693,
       "name": "Maximum Black",
       "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Timeslips & Chimeras",
-        "url": "https://open.spotify.com/album/3so5da4nu96kLa2tndnJ0u"
-      },
-      "artists": [
-        {
-          "name": "Tangents",
-          "url": "https://open.spotify.com/artist/76rNPeXwFcvii9vnKMDnn0"
-        }
-      ],
-      "duration_ms": 384386,
-      "name": "Ossicles",
-      "url": "https://open.spotify.com/track/0eL6WnAXZf7q8HOAwcrJEI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1199,22 +1179,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "The Last Retention",
-      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "The Emancipation Procrastination",
         "url": "https://open.spotify.com/album/7edttukwBaQEAiPtS0rnmV"
       },
@@ -1229,20 +1193,20 @@
       "url": "https://open.spotify.com/track/6uRppXyfrizmakYnp39kus"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+        "name": "The Last Retention",
+        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Ronnie & Clyde",
+          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
         }
       ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+      "duration_ms": 244773,
+      "name": "The Last Retention",
+      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     },
     {
       "added_at": "2022-01-07 01:26:10",
@@ -1261,20 +1225,20 @@
       "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
-      "added_at": "2022-08-09 01:47:40",
+      "added_at": "2022-09-03 03:50:05",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1305,20 +1269,20 @@
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2022-08-09 01:47:40",
       "album": {
-        "name": "Sobrevolando Instrumental",
-        "url": "https://open.spotify.com/album/47OSRvZFU2wRfQy0UX68Xa"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 327525,
-      "name": "La Fibra Humana - Instrumental",
-      "url": "https://open.spotify.com/track/4a5gvEMnfw3OIRmQYyykY1"
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
     },
     {
       "added_at": "2022-02-18 04:38:12",
@@ -1335,6 +1299,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Sobrevolando Instrumental",
+        "url": "https://open.spotify.com/album/47OSRvZFU2wRfQy0UX68Xa"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 327525,
+      "name": "La Fibra Humana - Instrumental",
+      "url": "https://open.spotify.com/track/4a5gvEMnfw3OIRmQYyykY1"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1405,22 +1385,6 @@
       "url": "https://open.spotify.com/track/7ixpTPiiHE0WROrLLvz9a6"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Logue",
-        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
-      },
-      "artists": [
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 234292,
-      "name": "Jinja Encounters",
-      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
-    },
-    {
       "added_at": "2022-05-17 23:06:45",
       "album": {
         "name": "Genesis",
@@ -1435,6 +1399,22 @@
       "duration_ms": 199058,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Logue",
+        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
+      },
+      "artists": [
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 234292,
+      "name": "Jinja Encounters",
+      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
     },
     {
       "added_at": "2022-01-07 01:28:34",
@@ -1633,6 +1613,22 @@
       "url": "https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "INWANE",
+        "url": "https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF"
+      },
+      "artists": [
+        {
+          "name": "ECHT!",
+          "url": "https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Charlier",
+      "url": "https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR"
+    },
+    {
       "added_at": "2022-05-24 01:08:19",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -1651,18 +1647,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "INWANE",
-        "url": "https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF"
+        "name": "Natura Morta",
+        "url": "https://open.spotify.com/album/2id7gpZfzmQYQRymRazBpQ"
       },
       "artists": [
         {
-          "name": "ECHT!",
-          "url": "https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei"
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
         }
       ],
-      "duration_ms": 231853,
-      "name": "Charlier",
-      "url": "https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR"
+      "duration_ms": 162648,
+      "name": "En Plein Air",
+      "url": "https://open.spotify.com/track/0WpKHdlpxAiyHlbGyXz8s7"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1679,22 +1675,6 @@
       "duration_ms": 207407,
       "name": "Green Phase, Part One",
       "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Natura Morta",
-        "url": "https://open.spotify.com/album/2id7gpZfzmQYQRymRazBpQ"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 162648,
-      "name": "En Plein Air",
-      "url": "https://open.spotify.com/track/0WpKHdlpxAiyHlbGyXz8s7"
     },
     {
       "added_at": "2021-10-26 02:42:20",
@@ -1755,6 +1735,30 @@
       "duration_ms": 276172,
       "name": "Inspiral",
       "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
+    },
+    {
+      "added_at": "2022-05-24 01:10:33",
+      "album": {
+        "name": "Tloque Nahuaque",
+        "url": "https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N"
+      },
+      "artists": [
+        {
+          "name": "Uriel VIllalobos Alva",
+          "url": "https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA"
+        },
+        {
+          "name": "Uriel Villalobos",
+          "url": "https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu"
+        },
+        {
+          "name": "Orquesta Invisible de Lagos de Moreno",
+          "url": "https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW"
+        }
+      ],
+      "duration_ms": 391899,
+      "name": "Tloque Nahuaque",
+      "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
     }
   ],
   "unique_name": "Nocturna Cinematica",

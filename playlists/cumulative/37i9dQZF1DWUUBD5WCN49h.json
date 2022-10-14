@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH?si=KCZK6jN9SAianhPy9puMCQ\"> Kemuel </a> ",
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=OUWYxk0ySGe5m_n13WKeQA\"> Dami Oniru</a> ",
   "name": "Sizzlers ",
   "published_playlist_ids": [
     "2KdrLZRa87xIWjORQ3USHT"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 224171,
       "name": "Avoid Things",
       "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179762,
       "name": "Bad4u",
       "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
@@ -222,6 +222,32 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/2pvpi4OiBdrFqAzhWmL4s1"
+      },
+      "artists": [
+        {
+          "name": "Deyon Agoi",
+          "url": "https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT"
+        },
+        {
+          "name": "Phaemous",
+          "url": "https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ"
+        },
+        {
+          "name": "Mona Lee",
+          "url": "https://open.spotify.com/artist/2TgJbYG1Xj4Pyh8hVnIdYR"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157233,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0BO57WBcIJXNgGI4X4nMxp"
+    },
+    {
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -241,6 +267,36 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u"
+      },
+      "artists": [
+        {
+          "name": "Black Girls Glow",
+          "url": "https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK"
+        },
+        {
+          "name": "Lindsey Abudei",
+          "url": "https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK"
+        },
+        {
+          "name": "Lily Asia",
+          "url": "https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j"
     },
     {
       "album": {
@@ -281,6 +337,32 @@
       "duration_ms": 160851,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL"
+    },
+    {
+      "album": {
+        "name": "27 in Accra Town",
+        "url": "https://open.spotify.com/album/45b0DqkIiLicB6YcNHea52"
+      },
+      "artists": [
+        {
+          "name": "DJ Yamz",
+          "url": "https://open.spotify.com/artist/7r7jLkop1QhNvbiD9iWG5D"
+        },
+        {
+          "name": "Prince Hakeem Matthews",
+          "url": "https://open.spotify.com/artist/3VR8K8yMdHiA5lmKKMSCCt"
+        },
+        {
+          "name": "Rama Brew",
+          "url": "https://open.spotify.com/artist/21UP1AGVLvaDd2bNaHnpRf"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284117,
+      "name": "Blue Film",
+      "url": "https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C"
     },
     {
       "album": {
@@ -339,7 +421,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 237391,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9"
@@ -397,7 +479,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 224857,
       "name": "Colours",
       "url": "https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh"
@@ -527,7 +609,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 164365,
       "name": "Every Girl\u2019s Boyfriend",
       "url": "https://open.spotify.com/track/236uspPWnM0MLm6dHooe34"
@@ -785,7 +867,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 162352,
       "name": "Heartburn (Sooibrand)",
       "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
@@ -1024,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Iyawo",
+        "url": "https://open.spotify.com/album/4WDJcN86No1uvndKdAAEaa"
+      },
+      "artists": [
+        {
+          "name": "Dolapo Martins",
+          "url": "https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Iyawo",
+      "url": "https://open.spotify.com/track/3NWezymOetNeOSvNbseYP5"
+    },
+    {
+      "album": {
         "name": "Juju pt. 2 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI"
       },
@@ -1057,7 +1157,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
@@ -1549,7 +1649,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 143034,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/13hEc2MitD87ehwMgyI59n"
@@ -1610,6 +1710,32 @@
     },
     {
       "album": {
+        "name": "Say You Love Me (Remix)",
+        "url": "https://open.spotify.com/album/6E7dFfCB9s1gsWAt3Wt2QO"
+      },
+      "artists": [
+        {
+          "name": "Deribb",
+          "url": "https://open.spotify.com/artist/0jD0caYgYpVXcYcV6dbuj4"
+        },
+        {
+          "name": "Singah",
+          "url": "https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe"
+        },
+        {
+          "name": "Teeklef",
+          "url": "https://open.spotify.com/artist/67jX2jOOMD68Pn0d49TxnJ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Say You Love Me (Remix)",
+      "url": "https://open.spotify.com/track/1Bj6WRSHoDN00UMqdCn1Yq"
+    },
+    {
+      "album": {
         "name": "SMALL WINS",
         "url": "https://open.spotify.com/album/2fCDdDPpepMIAtMPw1926c"
       },
@@ -1625,6 +1751,46 @@
       "duration_ms": 254399,
       "name": "SMALL WINS",
       "url": "https://open.spotify.com/track/6B6Sqo3ipPs4bpvCb9ZsJc"
+    },
+    {
+      "album": {
+        "name": "Smooth Criminal",
+        "url": "https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
+    },
+    {
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ"
+      },
+      "artists": [
+        {
+          "name": "Dami Oniru",
+          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168205,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
     },
     {
       "album": {
@@ -1745,6 +1911,28 @@
       "duration_ms": 150588,
       "name": "time (with my ex)",
       "url": "https://open.spotify.com/track/1zIOhLm0hlzXjUrwVEzAbW"
+    },
+    {
+      "album": {
+        "name": "Unpopular Opinion",
+        "url": "https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK"
+      },
+      "artists": [
+        {
+          "name": "Bayku",
+          "url": "https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK"
+        },
+        {
+          "name": "Adina Thembi",
+          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191778,
+      "name": "Unpopular Opinion",
+      "url": "https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY"
     },
     {
       "album": {

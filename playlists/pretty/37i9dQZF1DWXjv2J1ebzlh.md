@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,178 likes - 1,195 songs - 3 day 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,220 likes - 1,195 songs - 3 day 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -918,7 +918,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 908 | [Somos los Mirlos](https://open.spotify.com/track/108gTh3OIF4bQmB0Y2Jdrr) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Los Charapas de Oro](https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY) | 3:18 |
 | 909 | [Artasu Nartasu](https://open.spotify.com/track/0XJytLWrCZ8z8dFEpewihC) | [Ali Hassan Kuban](https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm) | [Walk like a Nubian](https://open.spotify.com/album/3ALfXPb23DQsEPoQL66vSO) | 5:43 |
 | 910 | [El Diablo](https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS) | [Compay Quinto](https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ) | [El Diablo](https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY) | 2:47 |
-| 911 | [Ilaló](https://open.spotify.com/track/6lkBUo1eF422uPCrFJrVEQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Bienaventuranza](https://open.spotify.com/album/76BZ7Sf6cZOweCJNHB0uiY) | 5:00 |
+| 911 | [Ilaló](https://open.spotify.com/track/18xTGfFgpWylovhgC0GYyZ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Bienaventuranza](https://open.spotify.com/album/1qptkW44vDksHHjQh4mY5O) | 5:00 |
 | 912 | [Afro Disco Beat](https://open.spotify.com/track/0tzvR9hZYdOBveJlgVz6Sy) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Africa 70](https://open.spotify.com/artist/7kYstKl5Wka7rDtdFlvbNz) | [Racubah \(A Collection of Modern Afro Rhythms\)](https://open.spotify.com/album/1G9VuNrWXkCmcbUBUwdkFQ) | 11:56 |
 | 913 | [Curious Story](https://open.spotify.com/track/4ULM7v9nBZx1DZsjgSRErp) | [Ry\-Co Jazz](https://open.spotify.com/artist/3umj1fcfDdwdTiv6YvAsO9) | [Dansons Avec …](https://open.spotify.com/album/0ILijiU4aiWOgHAz9h6K5J) | 3:23 |
 | 914 | [Cadê Tereza \- \(Faixa Bônus\) \[Sterio Mix\]](https://open.spotify.com/track/53QvhwdWPltr79wPCoigsC) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [Os Originais Do Samba](https://open.spotify.com/album/72ITnY3eflQkRLbLYkRkaZ) | 3:37 |
@@ -1042,7 +1042,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1032 | [Roda](https://open.spotify.com/track/3HShBNV3YuaHtp0LLgbtoe) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Samba, Jazz & Bossa](https://open.spotify.com/album/5K9kSr6Nb2DZuf0Ic7t6qZ) | 2:34 |
 | 1033 | [Simple Song](https://open.spotify.com/track/1TSL5m2IBYQU9lyVyiHCw6) | [Zebra](https://open.spotify.com/artist/5pZz2HoA0qpucy3anZGCJH) | [Simple Song](https://open.spotify.com/album/36MfLU1IGYxyzvIOcNGO4Z) | 3:14 |
 | 1034 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
-| 1035 | [Cumbia Sobre el Mar \(El Búho Remix\)](https://open.spotify.com/track/0HdHd5mJlqFqv8PqAGDsEw) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 5:12 |
+| 1035 | [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 5:12 |
 | 1036 | [Dalkavuk \- Barış K Edit](https://open.spotify.com/track/0vNFCqtFXELQ7k9N8xHUUL) | [Şenay](https://open.spotify.com/artist/70C9Hem4LtSZElO9GTp42g), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.5](https://open.spotify.com/album/3cTxSyG6EOTTkzcOE3XQS2) | 5:27 |
 | 1037 | [Ecology](https://open.spotify.com/track/0xilsk1U8P0bEgoYKfI43H) | [Anubis](https://open.spotify.com/artist/4fhyQnc4W80p5HEIxD6InR) | [Ecology](https://open.spotify.com/album/4PSuRfE6I4iCoH1qD5GABM) | 3:58 |
 | 1038 | [I Know You Rider](https://open.spotify.com/track/3v85BrHUuCDd7Xwp04vMzB) | [Gale Garnett](https://open.spotify.com/artist/5cJgEhhKGk7kiSA6O8Qzyc) | [My Kind of Folk Songs](https://open.spotify.com/album/6oOUyNNmvvz3jwp7QRGbrt) | 2:23 |
@@ -1097,7 +1097,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1087 | [Mais Que Nada](https://open.spotify.com/track/1GZRStU369eKvmWB59b826) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl) | 2:29 |
 | 1088 | [Mama](https://open.spotify.com/track/2GXA1T0GBh3pXZMTA50OhL) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Mama](https://open.spotify.com/album/5qYsPCBNbccUvmCydUf0aL) | 3:43 |
 | 1089 | [No Meio do Pitiú](https://open.spotify.com/track/4MTI8hXnpnBaNXXYbhozWS) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/2Yk9S6JRuYk9ILMUDGnpOI) | 4:08 |
-| 1090 | [Chicha Nola](https://open.spotify.com/track/36Gpj79kRacipf8R98ADJC) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Saint Claude Dash / Chicha Nola](https://open.spotify.com/album/6kXcQq7QPwmK3zxYFMBWvR) | 3:36 |
+| 1090 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/7ossK2yjI5VzrYWMF8E57F) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:34 |
 | 1091 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 | 1092 | [Juanita Bonita](https://open.spotify.com/track/1Yv0a8yZssRlMp5U9Kwvag) | [Quantic Presenta: Flowering Inferno](https://open.spotify.com/artist/690akGFwqC3Y3DMXwAZ2YN), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Juanita Bonita](https://open.spotify.com/album/37YqA8uqboxVaOq9YpmMXG) | 6:05 |
 | 1093 | [Set It Out](https://open.spotify.com/track/3PavFQkXDAYkVB2N4KwksH) | [In Flagranti](https://open.spotify.com/artist/7JmWc7RWsx9ga8HNet7sjx) | [One Night Stands](https://open.spotify.com/album/2DBQ20k1VoROHw6iQ0xR9m) | 6:14 |
@@ -1204,4 +1204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1194 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1195 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMDkwNjVmMjc3MTlhYTBkMjEyOGQzZmM5YjY2ODFjNmI5`
+Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMGRjNTBlMTVmODU2OTRjYmNjZmE1NmE4M2Q3YjEyODI4`

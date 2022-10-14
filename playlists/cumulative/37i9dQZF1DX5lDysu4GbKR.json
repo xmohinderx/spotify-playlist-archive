@@ -1565,10 +1565,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 248181,
       "name": "Listen - Acoustic Version",
       "url": "https://open.spotify.com/track/0T1G4VdmWe9rX37ekFNFJi"
+    },
+    {
+      "album": {
+        "name": "Listen (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2pMR3D19EeE4juhM4bSwNA"
+      },
+      "artists": [
+        {
+          "name": "Tana\u00eb",
+          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "Listen - Acoustic Version",
+      "url": "https://open.spotify.com/track/1ydwuEvDlCNt1IzDvTJI55"
     },
     {
       "album": {

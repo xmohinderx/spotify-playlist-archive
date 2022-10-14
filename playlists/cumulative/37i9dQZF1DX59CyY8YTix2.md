@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: The Wisely Brothers
 
-621 songs - 1 day 16 hr 3 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+622 songs - 1 day 16 hr 6 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,11 +124,11 @@
 | [Laid back \(feat\. Kazma Kobayashi\)](https://open.spotify.com/track/5EwJvQdjjvBbKrZQzShYIR) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s), [Kazuma Kobayashi](https://open.spotify.com/artist/2Alp7bBEvBhzmxDaiHtSXZ) | [Bearwear/The tiva](https://open.spotify.com/album/5XAIEWhmdFMVt6Cagjd8BN) | 3:54 | 2022-05-26 | 2022-07-16 |
 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 | 2022-05-26 |  |
 | [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-28 | 2022-06-30 |
-| [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 | 2022-09-21 |
+| [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 |  |
 | [Leon](https://open.spotify.com/track/0ctWWj9EtgPRx61Z6nw06r) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Reveal](https://open.spotify.com/album/0hK64US1J7Tt2F07xNsxsS) | 3:33 | 2022-06-16 | 2022-07-29 |
 | [LiE LiE LiE](https://open.spotify.com/track/6XH4XZRcMAKfCE3fjyM6vI) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [LiE LiE LiE](https://open.spotify.com/album/3LgdW4j5F11p7tfDPfGjaD) | 2:55 | 2022-07-12 | 2022-07-15 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-26 | 2022-07-27 |
-| [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 | 2022-06-07 |  |
+| [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 | 2022-06-07 | 2022-10-14 |
 | [Lonely Dance Club \- Intl\. version](https://open.spotify.com/track/6VqZ5nHpLxn4me6Wfb2yWL) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [Lonely Dance Club \(Intl\. version\)](https://open.spotify.com/album/00aItxI4oI5REviSQwMdID) | 3:53 | 2022-05-26 | 2022-07-07 |
 | [Long thinking](https://open.spotify.com/track/07aasnU390f8WHXDeKauKP) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [REIMEI](https://open.spotify.com/album/5kKCwtofiTJiEEPpUWKhGa) | 3:48 | 2022-06-07 | 2022-06-09 |
 | [Love Drive](https://open.spotify.com/track/2LplyZgcSGMJp7MZhZVyKZ) | [And Summer Club](https://open.spotify.com/artist/7esTGz7zpYTyeGXoHe1LBT) | [Love Drive](https://open.spotify.com/album/3j1LRLwDx6UYclUtrUdXfj) | 1:57 | 2022-07-07 | 2022-07-10 |
@@ -293,7 +293,7 @@
 | [ずっとずっとずっと](https://open.spotify.com/track/2He9deEfdXYWxnTUi0oOb0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ずっとずっとずっと](https://open.spotify.com/album/0M301Q5tEcjOINfUsJGiyo) | 3:48 | 2022-07-28 | 2022-08-11 |
 | [ずっとそばで見守っているよ](https://open.spotify.com/track/2hRL9QgUZsAUiARFRLL3WZ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [オールライト](https://open.spotify.com/album/7Hirw8RFBkBw1MGwnQxNOz) | 3:59 | 2022-09-08 | 2022-09-15 |
 | [そうでもない](https://open.spotify.com/track/4svOEHaaMeRCntdV57WpNL) | [ayutthaya](https://open.spotify.com/artist/0rTubhDFni3uMrx2nSK9WG) | [そうでもない](https://open.spotify.com/album/17FJ746taJ3sAEHwhMGDXA) | 3:18 | 2022-06-07 | 2022-07-20 |
-| [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 | 2022-07-28 |  |
+| [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 | 2022-07-28 | 2022-10-14 |
 | [たそがれは空](https://open.spotify.com/track/6M3nhBKOnP3bCFQCXWQNZn) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [たそがれは空](https://open.spotify.com/album/5e6g2ad5EcMVQB4weArTbC) | 4:03 | 2022-05-26 | 2022-07-13 |
 | [たたかわないらいおん](https://open.spotify.com/track/6kXeKTkCXwI30TZSWZ7vJv) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [たたかわないらいおん](https://open.spotify.com/album/0oUhCjuj0OzdwR5xmGZ09D) | 2:38 | 2022-05-26 | 2022-07-28 |
 | [だれかとぼくら](https://open.spotify.com/track/32rUUAJsELuwpkWm7udFhs) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [MEMORIES2](https://open.spotify.com/album/0ILBvw7Y5Q5Ubu5riIbHTn) | 3:02 | 2022-06-14 | 2022-06-22 |
@@ -593,6 +593,7 @@
 | [翳りの讃歌](https://open.spotify.com/track/1ooEP43vhuSp40jp047Yg8) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [翳りの讃歌](https://open.spotify.com/album/6X4Kn0PT5xURCgaAIgOq0C) | 4:15 | 2022-05-26 | 2022-07-29 |
 | [老人と海](https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [老人と海](https://open.spotify.com/album/4OPPGeANb1N0H7qqPtghFA) | 4:15 | 2022-05-26 | 2022-07-20 |
 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 | 2022-06-23 | 2022-07-09 |
+| [花々](https://open.spotify.com/track/7DBUFvfmZY7D1ZYJUEWaq7) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [花々](https://open.spotify.com/album/6LM4knFXG12tbLqyfE6seU) | 3:09 | 2022-10-13 |  |
 | [花咲く君の滑走路](https://open.spotify.com/track/4yEyxgbDM0S3J55ECcUXEz) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [花咲く君の滑走路](https://open.spotify.com/album/2Welq5m1RXmGjJNe6w47Lo) | 3:11 | 2022-05-31 | 2022-07-29 |
 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 | 2022-06-16 |  |
 | [蜃気楼](https://open.spotify.com/track/6CLXb5vecXnX64ZjXVFFgC) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:38 | 2022-06-23 | 2022-06-27 |

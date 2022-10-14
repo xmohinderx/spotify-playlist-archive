@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby:\)
 
-127 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/5ph78wovnBw6RiEm4pplkV)
+129 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5ph78wovnBw6RiEm4pplkV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,9 @@
 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 | 2021-12-29 |  |
 | [Our Devices Own](https://open.spotify.com/track/0PhdahpDZ1bTXo7KyByzNj) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Van Arro](https://open.spotify.com/artist/439Y7cCZKrYYToCxmrxiLg) | [Our Devices Own](https://open.spotify.com/album/4Kc8mvpbOy8ZKggA0QO2LO) | 3:53 | 2021-12-29 | 2022-07-28 |
 | [Para No Verte Más](https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Para No Verte Más](https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus) | 3:05 | 2021-12-29 |  |
-| [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-12-29 |  |
+| [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-12-29 | 2022-10-14 |
 | [Park Ave](https://open.spotify.com/track/3PwZAzJ9NiYojvVC2WyxMX) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Colour](https://open.spotify.com/album/1eximXgBemioPPvQAmIc18) | 3:14 | 2021-12-29 | 2022-07-29 |
-| [Park Ave](https://open.spotify.com/track/3U6dS9TILCdKqIhqURcmzU) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Colour](https://open.spotify.com/album/3j6l2AzsdJYRtNJqNx5JCo) | 3:14 | 2022-06-15 |  |
+| [Park Ave](https://open.spotify.com/track/3U6dS9TILCdKqIhqURcmzU) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Colour](https://open.spotify.com/album/3j6l2AzsdJYRtNJqNx5JCo) | 3:14 | 2022-06-15 | 2022-10-14 |
 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 | 2021-12-29 |  |
 | [Pausa](https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Gian Rojas](https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU) | [Pausa](https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93) | 3:52 | 2022-01-26 |  |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2021-12-29 |  |
@@ -111,6 +111,7 @@
 | [Si Te Portas Mal \(Be Bad\)](https://open.spotify.com/track/5cxGETg09kiVEMDMJ3qW0G) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn) | 3:37 | 2021-12-29 |  |
 | [Soltera](https://open.spotify.com/track/54eU7KkafnxQUioXKrWCNm) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Soltera](https://open.spotify.com/album/0Y2d8ymerPASyiF6pDKjO1) | 2:58 | 2021-12-29 |  |
 | [Story To Tell](https://open.spotify.com/track/3iRKNC4HKum4pEalSb5NxI) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:15 | 2021-12-29 | 2022-10-13 |
+| [Story To Tell](https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:15 | 2022-08-17 |  |
 | [Sugarbaby](https://open.spotify.com/track/0RqNKk4AsheWCb5YuDVI1I) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/0tjQIZZJ88dpSatbbjqCiW) | 2:32 | 2021-12-29 | 2022-07-29 |
 | [Sugarbaby](https://open.spotify.com/track/5SWV7wIgPfqhBVdbcCENXI) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/10HAYqpjDPleULre8nXrl8) | 2:32 | 2022-06-15 |  |
 | [Summer Girl](https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:41 | 2021-12-29 |  |
@@ -129,6 +130,7 @@
 | [Un Animal \(Divina Existencia\)](https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs) | 3:01 | 2021-12-29 |  |
 | [Una Noche Más](https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Una Noche Más](https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ) | 3:31 | 2022-01-26 |  |
 | [Universe](https://open.spotify.com/track/5S5S5oiwdGS4ppgXmF2w0V) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:30 | 2021-12-29 | 2022-10-13 |
+| [Universe](https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:30 | 2022-08-17 |  |
 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 | 2021-12-29 |  |
 | [Vibras](https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Vibras](https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk) | 2:33 | 2022-08-17 |  |
 | [Vibras](https://open.spotify.com/track/7cwy2dah2hIrFVfvX3a7zO) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Vibras](https://open.spotify.com/album/3IlIw3Yojkm2tjTirsbILw) | 2:33 | 2021-12-29 | 2022-07-29 |

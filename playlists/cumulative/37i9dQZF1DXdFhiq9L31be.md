@@ -4,13 +4,13 @@
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: girl in red.
 
-162 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
+163 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 | 2021-10-21 |  |
 | [2002 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:12 | 2021-10-21 |  |
-| [8 Letters \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4N8CuFtyo4UanLTEW0EkBb) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 3:14 | 2021-10-21 |  |
+| [8 Letters \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4N8CuFtyo4UanLTEW0EkBb) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 3:14 | 2021-10-21 | 2022-10-14 |
 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 | 2021-10-21 |  |
 | [All Love \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/2DLFwe8no6XgJfhrPJJzkf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:24 | 2021-10-21 | 2022-07-29 |
 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 | 2021-10-21 |  |
@@ -75,6 +75,7 @@
 | [I Don't Wanna Know \- Live from Spotify Studios NYC](https://open.spotify.com/track/4dMvtp8p5mzCCaA18dgzQy) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:35 | 2021-10-21 |  |
 | [I Feel It Coming \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB) | 4:03 | 2022-03-09 |  |
 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 | 2021-10-21 | 2022-07-29 |
+| [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:22 | 2022-03-09 |  |
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 | 2021-10-21 | 2022-10-13 |
 | [I Won't Back Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 3:47 | 2021-10-21 |  |
 | [I'd Rather Be With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5rlrzjYgAmxUi799A6Z5Wd) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Spotify Singles](https://open.spotify.com/album/7fxMPqE6oOmNwKMmMIOxaP) | 2:47 | 2021-10-21 | 2022-07-28 |

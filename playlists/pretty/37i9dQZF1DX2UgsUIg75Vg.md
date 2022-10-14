@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Amaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,270,985 likes - 101 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,271,310 likes - 101 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 60 | [Growth](https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Under the Sun](https://open.spotify.com/album/6pX51CcNApLFwXeyMKrRXO) | 3:21 |
 | 61 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 |
 | 62 | [Feelings 4 You](https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 4:16 |
-| 63 | [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 |
+| 63 | [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 |
 | 64 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 65 | [Luv Me Back](https://open.spotify.com/track/3IT44O4KU7gFFrnLYbLsUG) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 3:06 |
 | 66 | [Harder](https://open.spotify.com/track/2naTAenfZdW6fEhbwtqK0b) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 3:08 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 100 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
 | 101 | [Love Again](https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Love Again](https://open.spotify.com/album/2D2BkKNfNhLHnBAz6kNlVN) | 2:34 |
 
-Snapshot ID: `MTY2NTIzOTQ0OSwwMDAwMDAwMDBhZGZlZmE1MTg0NDMzMTgyMjZkYTRlNGY1NjUxMDI1`
+Snapshot ID: `MTY2NTIzOTQ0OSwwMDAwMDAwMGY1NjcwZDBlNmI4M2NiYjIxYTI1NzIxZWY4MGQ1MTg0`

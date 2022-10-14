@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "If it's indie and it's hot, it's here. Cover: LEISURE",
+  "description": "If it's indie and it's hot, it's here. Cover: Royel Otis",
   "name": "Front Left",
   "published_playlist_ids": [
     "5RqnN0oKCcJKCYYq3GeJkr"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 203521,
       "name": "1994",
       "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
@@ -2422,6 +2422,24 @@
     },
     {
       "album": {
+        "name": "Low Altitude Living",
+        "url": "https://open.spotify.com/album/4liDg8UR2VK9etnZmhHEXG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293751,
+      "name": "Double Vision",
+      "url": "https://open.spotify.com/track/5k2RORXwvAZgZnCXfx7Zv0"
+    },
+    {
+      "album": {
         "name": "draw you inside my book (feat. KMays)",
         "url": "https://open.spotify.com/album/0w5Q4bGIpbvmEzTgAtDt72"
       },
@@ -3632,6 +3650,24 @@
     },
     {
       "album": {
+        "name": "Go Wrong",
+        "url": "https://open.spotify.com/album/0m1sQ9BNtrZCVtl4meMJ5N"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150893,
+      "name": "Go Wrong",
+      "url": "https://open.spotify.com/track/3TDCeZ766KE6hjUa1zdrLB"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
       },
@@ -4189,7 +4225,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 188613,
       "name": "Hey",
       "url": "https://open.spotify.com/track/7oHpeKNritBgbBMm93Dx62"
@@ -5476,6 +5512,24 @@
     },
     {
       "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
+    },
+    {
+      "album": {
         "name": "Ladybird",
         "url": "https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs"
       },
@@ -6233,7 +6287,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 208328,
       "name": "Maybe I'm In Love With You (feat. Talib Kweli)",
       "url": "https://open.spotify.com/track/4EooqGOIIQTCKnMRYiD5QX"
@@ -7035,6 +7089,24 @@
       "duration_ms": 202360,
       "name": "Ocean Blue",
       "url": "https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5"
+    },
+    {
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
     },
     {
       "album": {
@@ -9931,7 +10003,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
@@ -9953,6 +10025,24 @@
       "duration_ms": 183906,
       "name": "Theworstthing",
       "url": "https://open.spotify.com/track/2zcqL8jheETC85OYOgaBl8"
+    },
+    {
+      "album": {
+        "name": "This Mess",
+        "url": "https://open.spotify.com/album/41XOYxOw1DyZMd17parL7f"
+      },
+      "artists": [
+        {
+          "name": "Shannen James",
+          "url": "https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210563,
+      "name": "This Mess",
+      "url": "https://open.spotify.com/track/7KoXw1V9kAp84CswRtRnsa"
     },
     {
       "album": {
@@ -10325,7 +10415,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"

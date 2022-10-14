@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-186 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+187 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Guarnieri](https://open.spotify.com/track/0rWUcQHJNWLZ4tkCJGhfpg) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Foi Assim](https://open.spotify.com/album/0tA8gFpl3KiocUkvLWAtQH) | 2:57 | 2022-09-02 |  |
 | [Hanna\`s Waltz](https://open.spotify.com/track/3qnrlBE2EdCb0lbVm7jjWQ) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Hanna\`s Waltz](https://open.spotify.com/album/11hzf8FQ7RhyLBKC5C2tsT) | 2:22 | 2022-03-04 | 2022-05-27 |
 | [Happy Faces](https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G) | [Juno Harrell](https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY) | [Happy Faces](https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy) | 3:20 | 2022-03-04 | 2022-04-06 |
+| [Headed to the Hillside](https://open.spotify.com/track/0SRfTC8lmnaVrmzrGxkmMN) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Brave New Promises](https://open.spotify.com/album/5wgqxwzeY7WL0BbAdMliHj) | 2:47 | 2022-10-14 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-03-04 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-04 |  |
 | [Home](https://open.spotify.com/track/6xidiG4MYukn4scIc8z9ya) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Pacecamp](https://open.spotify.com/album/6Zqz556VwtsGihABRGb30i) | 2:16 | 2022-03-04 | 2022-04-22 |

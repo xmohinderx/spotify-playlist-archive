@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\. Cover Bree Runway
 
-121 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
+122 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Own Lane](https://open.spotify.com/track/6ce3Xw27POBaMKat3r6qxw) | [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn) | [Sweatin' Gold](https://open.spotify.com/album/62i2u21jWNKds9DVXtDl8R) | 2:43 | 2022-02-04 | 2022-02-12 |
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-02-25 |  |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-03-18 |  |
-| [Pissed Black Girl](https://open.spotify.com/track/3gpvNLzrHy0iIQj5kKBt5T) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/0YkjOg7NOJGypT2bHK1rjA) | 3:25 | 2022-04-22 |  |
+| [Pissed Black Girl](https://open.spotify.com/track/3gpvNLzrHy0iIQj5kKBt5T) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/0YkjOg7NOJGypT2bHK1rjA) | 3:25 | 2022-04-22 | 2022-10-14 |
+| [Pissed Black Girl](https://open.spotify.com/track/5SbFDvlgHmNcG8QkaZKG5I) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/0TaL8kqF5xhhA6XYcpqLOM) | 3:25 | 2022-04-22 |  |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-02-04 | 2022-03-26 |
 | [Post Nut Clarity](https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f) | 1:53 | 2022-02-25 | 2022-10-08 |
 | [Post Nut Clarity](https://open.spotify.com/track/6ZqYNVWAseR8ySw7oR8eId) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/43pHwudMD8sBnNart82tfO) | 1:53 | 2022-04-22 |  |

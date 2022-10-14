@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,777 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,810 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 70 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 | 71 | [I'll Be Home for Christmas](https://open.spotify.com/track/13VqMQNpRUaEHFqerPibVo) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I'll Be Home for Christmas](https://open.spotify.com/album/0ggYChoRsfiOvD1h266pFV) | 2:45 |
 | 72 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/6SvzJUQd3FnuOJI1KWl9hq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:39 |
-| 73 | [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 |
+| 73 | [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 |
 | 74 | [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/5NLIV0WyV9gkgCnakiG19L) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/6MSgdNZM56vwflTVYcOdrO) | 3:25 |
 | 75 | [Christmas, Happy You're Here](https://open.spotify.com/track/6hBO1FYDIYYjS8V25L40ll) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Christmas, Happy You're Here](https://open.spotify.com/album/4XdLB3zXOYdqXZvx9wkkPP) | 3:19 |
 | 76 | [This Time Of Year](https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [This Time Of Year](https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP) | 3:42 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 121 | [True Love](https://open.spotify.com/track/4NRF1B6kriUmtXflcVmed7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:46 |
 | 122 | [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 |
 
-Snapshot ID: `MTY2NDIwMjEzMCwwMDAwMDAwMGYzNGVhOGQ2MWEyOTU2MjkwMjg5NjM2MmE0YzJkODU1`
+Snapshot ID: `MTY2NDIwMjEzMCwwMDAwMDAwMGZlMzQ2YzY5MTNhZGUzMWVkYzE2NDNjYjE3MjM4NWUz`

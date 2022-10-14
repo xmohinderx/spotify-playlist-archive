@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-128 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+131 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bennie And The Jets](https://open.spotify.com/track/3FiFSEZe57AAeQe2hPznXs) | [Tato Isaac](https://open.spotify.com/artist/3zwvnI5xyM632CM2nz1IuR) | [Bennie And The Jets](https://open.spotify.com/album/3phxTCqzyvEqFrksliJIOO) | 2:58 | 2022-07-29 |  |
 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 |  |
 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 | 2022-05-27 | 2022-07-22 |
+| [Canopy](https://open.spotify.com/track/0jHu8QbSuwABUWnf1nQxFd) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Moriah Wolfe](https://open.spotify.com/artist/0CYYj8G2owqzuC8Ysa8u2t), [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [A Place To Call Home](https://open.spotify.com/album/1cMd7URSyipZLbHSxiXM5G) | 1:12 | 2022-10-14 |  |
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 | 2022-07-08 |
 | [Cheese and Wine](https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Cheese and Wine](https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW) | 2:31 | 2022-09-02 |  |
 | [Chimes](https://open.spotify.com/track/5SUEH5VIVUmIDyynFsjFgb) | [Anona Helene](https://open.spotify.com/artist/489KvuYBhHiNJYYnb2d2l2) | [Chimes](https://open.spotify.com/album/0FVTcnV3vxODYuvgviCTaU) | 2:47 | 2021-12-10 |  |
@@ -70,6 +71,7 @@
 | [La Vida Toma Su Tiempo](https://open.spotify.com/track/504WEMo59nRahLl5NShft9) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 4:02 | 2021-12-10 | 2022-05-27 |
 | [La Vigie](https://open.spotify.com/track/0rZm326H0WhDCntVeZkoWa) | [Duo Torrnatorés](https://open.spotify.com/artist/42LtbhP12SfMhVRjtJIW5z) | [La Vigie](https://open.spotify.com/album/2LZMJpmMgVUSdp9mK6nHlG) | 2:43 | 2021-12-10 | 2022-04-06 |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-07 |  |
+| [Largo](https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Largo](https://open.spotify.com/album/6uN9lAKq2SWb9NKeyVuZWG) | 2:05 | 2022-10-14 |  |
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2022-01-11 |  |
 | [Lettre encore](https://open.spotify.com/track/7fMaXYCcmEt2rDcXcGpYMl) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Elena Papandreou](https://open.spotify.com/artist/79nEvQEOGsm8elVnhpeiP3) | [Dyens: Guitar Music](https://open.spotify.com/album/6gNJf8Eb2dGtKWWkmjJdGq) | 1:39 | 2021-12-10 | 2022-07-22 |
 | [Live just one more moment](https://open.spotify.com/track/3a2YKVcHmyXPZvWGofVTZ6) | [Brogan Doyle](https://open.spotify.com/artist/1Vefdiw82VOjbwc5y7iQyg) | [Live just one more moment](https://open.spotify.com/album/52cRGasaOFSkOte69HO7Yf) | 2:22 | 2022-03-03 |  |
@@ -79,6 +81,7 @@
 | [Mar en Calma](https://open.spotify.com/track/3ixw6dc0jP30Vw8WmV36tT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Mar en Calma](https://open.spotify.com/album/2w5M7NjPdfKtcNjknLwHuV) | 2:15 | 2021-12-10 |  |
 | [Midnight Sun](https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Midnight Sun](https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9) | 1:50 | 2022-05-27 | 2022-07-22 |
 | [Midsommarblomster](https://open.spotify.com/track/1m5RLwW0Bkmkb5yeCn33du) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Midsommarblomster](https://open.spotify.com/album/61xdS2VlEuTV5Qy0VvoPCv) | 3:07 | 2022-06-10 | 2022-07-29 |
+| [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 |  |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2021-12-10 |  |
 | [Of Late](https://open.spotify.com/track/4evlwCXiSNsnuaFwWuHXge) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Of Late](https://open.spotify.com/album/3zSOTg5EL4xTzLjYJf3ETP) | 2:04 | 2022-04-22 |  |
 | [Old Harbor Road](https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:05 | 2021-12-10 |  |

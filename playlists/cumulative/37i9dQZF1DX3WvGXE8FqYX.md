@@ -4,7 +4,7 @@
 
 > Celebrating songwriter and pop powerhouse Bebe Rexha!
 
-491 songs - 1 day 5 hr 35 min - [published](https://open.spotify.com/playlist/6hHKwc1YaDccLadJSMfgv7)
+492 songs - 1 day 5 hr 39 min - [published](https://open.spotify.com/playlist/6hHKwc1YaDccLadJSMfgv7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Is It Really Me You're Missing](https://open.spotify.com/track/1WO6kvO7P8TOsuhBaqun5w) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/3LfWFLY5JrPbzuGVbBzwS3) | 3:52 | 2019-08-31 | 2022-04-17 |
 | [Issues](https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues](https://open.spotify.com/album/1FulpD9JiAPbqP2F31pmUP) | 2:56 | 2019-05-26\* | 2022-04-20 |
 | [It Must Have Been Love](https://open.spotify.com/track/2julHzta3pq6E1ugxyvsbj) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2XUnzfH9UxXfubUQaD60bh) | 4:19 | 2021-03-22 | 2022-04-18 |
+| [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 | 2022-09-02 |  |
 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 | 2022-03-25 | 2022-07-05 |
 | [It's Only Love, Nobody Dies](https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 3:04 | 2022-03-25 | 2022-07-29 |
 | [It's Too Late](https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 3:53 | 2021-03-08 | 2022-04-21 |
@@ -283,7 +284,7 @@
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-03-25 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/0IF0vGwaJQ8ZCh0QxhW6OV) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:53 | 2021-03-17 | 2022-04-08 |
 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 | 2022-03-25 | 2022-04-20 |
-| [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2021-03-02 |  |
+| [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2021-03-02 | 2022-10-14 |
 | [Maybe It’s My First Time](https://open.spotify.com/track/2952fALz8E96WGTaVdsTsQ) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Low Blows](https://open.spotify.com/album/6ShsZvRGx3dU6s0WXs7DfT) | 3:33 | 2019-06-21 | 2022-04-18 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-12 |  |
 | [Me Too](https://open.spotify.com/track/1m4dXbkplvaOO4Wbdjbwxs) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:01 | 2019-06-23 | 2019-06-25 |

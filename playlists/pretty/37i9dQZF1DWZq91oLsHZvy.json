@@ -1,12 +1,12 @@
 {
   "description": "Run to indie and alternative hits.",
-  "num_followers": 217289,
+  "num_followers": 217369,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NzU0MSwwMDAwMDAwMGU3MWZjNDFlZDU4NWExOTEyYmY2MWViYmY1NjM1ZDgy",
+  "snapshot_id": "MTY2NDU0NzU0MSwwMDAwMDAwMGQ3ZmY2MjI5OTA1MjA5ZWEwNmM3YTNlNTc0NTdlM2Ez",
   "tracks": [
     {
       "added_at": "2022-09-30 14:19:01",
@@ -135,22 +135,6 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -363,22 +347,6 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
         "name": "Junk Of The Heart",
         "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 187253,
       "name": "Junk Of The Heart (Happy)",
       "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -627,6 +611,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -739,22 +723,6 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Temple",
-      "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
         "name": "Two Vines",
         "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
@@ -767,6 +735,22 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -855,22 +839,6 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
-        "name": "Our Own House",
-        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Our Own House",
-      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
         "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi"
       },
@@ -887,6 +855,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "Our Own House",
+        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Our Own House",
+      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 257786,
       "name": "Colours",
       "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1119,6 +1135,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "Church Of Scars",
         "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
       },
@@ -1183,6 +1215,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "A Temporary High",
+      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "Little Dark Age",
         "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
@@ -1211,22 +1259,6 @@
       "duration_ms": 285565,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "A Temporary High",
-      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -1379,6 +1411,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
       },
@@ -1443,6 +1491,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H"
       },
@@ -1487,6 +1551,22 @@
       "duration_ms": 161533,
       "name": "tell ur friends",
       "url": "https://open.spotify.com/track/25RmznGaoSP8tjCLeU2iG2"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
+        "name": "Is This What It Feels Like to Feel Like This?",
+        "url": "https://open.spotify.com/album/6sxU6FxUwBONwo2zsbD2v8"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Is This What It Feels Like to Feel Like This?",
+      "url": "https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -1551,86 +1631,6 @@
       "duration_ms": 172307,
       "name": "Call A Friend",
       "url": "https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "Dirtball",
-        "url": "https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4"
-      },
-      "artists": [
-        {
-          "name": "Modern Nun",
-          "url": "https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "Dirtball",
-      "url": "https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "Love Is An Only Child",
-        "url": "https://open.spotify.com/album/0ocLHXKcQGYosbl8jgyAtw"
-      },
-      "artists": [
-        {
-          "name": "Monico Blonde",
-          "url": "https://open.spotify.com/artist/7sBhf0gQzkwJ4XZ4K8vWF1"
-        }
-      ],
-      "duration_ms": 144921,
-      "name": "Love Is An Only Child",
-      "url": "https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "Reptile Youth",
-        "url": "https://open.spotify.com/album/70diW1bHdn1h7FUvjz7W2o"
-      },
-      "artists": [
-        {
-          "name": "Reptile Youth",
-          "url": "https://open.spotify.com/artist/0XoZwt2DsmzVvOe5GRSYDC"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Speeddance",
-      "url": "https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ"
     }
   ],
   "unique_name": "Indie x Running",

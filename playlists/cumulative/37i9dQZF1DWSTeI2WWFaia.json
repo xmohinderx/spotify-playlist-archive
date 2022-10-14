@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 189773,
       "name": "CORSA",
       "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
@@ -1903,6 +1903,28 @@
       "duration_ms": 226800,
       "name": "Fake Flowers",
       "url": "https://open.spotify.com/track/6kdYgh9p7t8wlxljk8KGJg"
+    },
+    {
+      "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117211,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
     },
     {
       "album": {

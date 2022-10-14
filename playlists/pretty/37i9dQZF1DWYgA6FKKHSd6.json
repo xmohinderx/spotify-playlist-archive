@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 206129,
+  "num_followers": 206149,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDQ4ZWE2YTdlYzI5NjJlNzM1ZGE3NDVlYWE0YTlhYTk0",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDkzNjZkNTk3MzA2MGUyMTM2YjY0ZDYxYzk0YWE2MjIy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Chocolate Vibez",
         "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 254011,
       "name": "Crown Royal",
       "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 253946,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "Right Back Atcha",
-      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
-    },
-    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Embrace",
@@ -827,6 +811,22 @@
       "duration_ms": 258706,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "Right Back Atcha",
+      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Poetry In Motion",
-        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 280613,
-      "name": "Stratosphere",
-      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "My One And Only One",
         "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Poetry In Motion",
+        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 280613,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "There's A Riot Goin' On",
         "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 190866,
       "name": "Luv N' Haight",
       "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Steppin' Up",
+        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ward",
+          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "City Vibe",
+      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1225,6 +1225,54 @@
       "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
+        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Barack's Groove",
+      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "G (Bonus Version)",
+        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Taking Control",
+      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
+    },
+    {
       "added_at": "2022-08-05 04:02:00",
       "album": {
         "name": "Funky Fridays, Vol. 2",
@@ -1247,54 +1295,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
-        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Barack's Groove",
-      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "G (Bonus Version)",
-        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Taking Control",
-      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Undeniable",
         "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 258275,
       "name": "Issa Party",
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 217022,
+      "name": "You're My Joy",
+      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1331,22 +1347,6 @@
       "duration_ms": 410753,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
       "added_at": "2021-07-12 18:09:21",

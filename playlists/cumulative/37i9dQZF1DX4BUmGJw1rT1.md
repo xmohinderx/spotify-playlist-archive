@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-131 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
+132 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-07-08 |  |
 | [Blues Deluxe](https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/2POTy8KiRigEg16A0cUDjx) | 7:20 | 2022-05-25 | 2022-07-29 |
 | [Blues Music](https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love And Special Sauce](https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek) | 4:15 | 2022-06-14 |  |
-| [Breadwinner](https://open.spotify.com/track/2nT0mY6172fHVa71weoplF) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Breadwinner](https://open.spotify.com/album/31rWdk9uDmDdhpMSSi8Ar2) | 3:50 | 2022-10-03 |  |
+| [Breadwinner](https://open.spotify.com/track/2nT0mY6172fHVa71weoplF) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Breadwinner](https://open.spotify.com/album/31rWdk9uDmDdhpMSSi8Ar2) | 3:50 | 2022-10-03 | 2022-10-14 |
 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 | 2022-05-25 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/68ixAqZIHxaLsyehgzknzz) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 3:10 | 2022-05-25 | 2022-07-29 |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-18 |  |
@@ -77,6 +77,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 5:00 | 2022-07-08 |  |
 | [I'll Take Care Of You](https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 5:13 | 2022-05-25 |  |
 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 | 2022-10-11 |  |
+| [If You're Gonna Leave Me](https://open.spotify.com/track/1XtppgAPSCRwfDlLy2Rv4a) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby](https://open.spotify.com/album/6RBGSFosTgAdFOP99lFvgK) | 5:32 | 2022-10-03 |  |
 | [In From The Cold](https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Tough Love](https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP) | 6:08 | 2022-05-25 |  |
 | [It Hurts Me Too](https://open.spotify.com/track/6dEtTt8266eoCPhgaD2iDw) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/6eVIb9RFFRgvdxKlOXmmxm) | 4:49 | 2022-05-25 | 2022-07-29 |
 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 | 2022-10-03 |  |

@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-149 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+150 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 | 2021-12-09 |  |
 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 | 2022-04-14 |  |
 | [Like I Want You \- Acoustic](https://open.spotify.com/track/0qXu4pFQSIwkfTUgkE6WzF) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:05 | 2021-12-09 |  |
-| [Listen \- Acoustic Version](https://open.spotify.com/track/0T1G4VdmWe9rX37ekFNFJi) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/3YEOY0jQ0vjWKbMQ0vVJ1f) | 4:08 | 2021-12-09 |  |
+| [Listen \- Acoustic Version](https://open.spotify.com/track/0T1G4VdmWe9rX37ekFNFJi) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/3YEOY0jQ0vjWKbMQ0vVJ1f) | 4:08 | 2021-12-09 | 2022-10-14 |
+| [Listen \- Acoustic Version](https://open.spotify.com/track/1ydwuEvDlCNt1IzDvTJI55) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/2pMR3D19EeE4juhM4bSwNA) | 4:08 | 2022-09-29 |  |
 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 | 2021-12-09 |  |
 | [Love No Limit \(For Lisa\)](https://open.spotify.com/track/3cHaDV8U7srUIF4MeBubXf) | [Ernie Halter](https://open.spotify.com/artist/5B8M0EkuUFr6fGN66BO8H8) | [Acoustic Throwback \- Nineties Rhythm and Blues](https://open.spotify.com/album/1fvArybR5Lu1ShVdZKq3VX) | 3:05 | 2021-12-09 | 2022-01-26 |
 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 | 2021-12-09 |  |

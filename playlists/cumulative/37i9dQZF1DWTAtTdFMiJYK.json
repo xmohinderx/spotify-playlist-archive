@@ -858,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Ek Pal",
+        "url": "https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "Ek Pal",
+      "url": "https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE"
+    },
+    {
+      "album": {
         "name": "Everything's Fine?",
         "url": "https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8"
       },
@@ -3207,7 +3225,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 290526,
       "name": "Tanha Rahun Main",
       "url": "https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7"

@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-170 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/3N3y8hpOLcf4lHcrRM7Jsi)
+171 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/3N3y8hpOLcf4lHcrRM7Jsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Calaveras y Diablitos](https://open.spotify.com/track/6OOYmmUw3jcF51g3iMpvXA) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveras y Diablitos](https://open.spotify.com/album/0ArxTs4EwDUAR6hPIBLOle) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Calaveras y Diablitos](https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Eureka](https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf) | 3:55 | 2022-01-01 |  |
 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 | 2021-12-09 |  |
-| [Caliente](https://open.spotify.com/track/5sTSeo2f3Rjo7eMV1AdlEM) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/1tWaj0v0w6h9M9PRmh8BQe) | 4:54 | 2021-12-09 |  |
+| [Caliente](https://open.spotify.com/track/5sTSeo2f3Rjo7eMV1AdlEM) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/1tWaj0v0w6h9M9PRmh8BQe) | 4:54 | 2021-12-09 | 2022-10-14 |
 | [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 | 2021-12-09 | 2022-07-27 |
 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-12-09 |  |
 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 | 2021-12-09 |  |
@@ -104,6 +104,7 @@
 | [Me gustas tu](https://open.spotify.com/track/7tIzEqfD8SONXtdI5KE9uk) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Once Upon a Time in Mexico](https://open.spotify.com/album/4bNrOExXvKw1xjgwmVHSjk) | 3:49 | 2021-12-09 | 2022-07-29 |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2022-01-01 |  |
 | [Me Llaman Nella](https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Santiago Periné](https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj) | [Me Llaman Nella](https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb) | 3:18 | 2021-12-09 |  |
+| [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 | 2022-08-31 |  |
 | [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2022-01-01 | 2022-10-13 |
 | [Mi Swing Es Tropical \- feat\. Nickodemus, Tempo & The Candela All\-Stars](https://open.spotify.com/track/7gwDfgLHTlH0SnXKPPTvCj) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The Best of Quantic](https://open.spotify.com/album/6M6zSe2XmL5bv4SU9SG7aW) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Mofongo](https://open.spotify.com/track/09FxzLf2KRfDpXbJWIdmE3) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Mofongo](https://open.spotify.com/album/02f0PqumrnL0YhbcxtxgLU) | 2:51 | 2021-12-09 | 2022-07-29 |

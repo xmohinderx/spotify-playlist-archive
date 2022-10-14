@@ -1086,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Cat and Bird",
+        "url": "https://open.spotify.com/album/5VukdAoxbJX1hVb8Jp1VMU"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Cat and Bird",
+      "url": "https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM"
+    },
+    {
+      "album": {
         "name": "Ambient Sleeping Pill Compilation 1",
         "url": "https://open.spotify.com/album/6djoZyqVo0I70OLbq8bJzL"
       },
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 230608,
       "name": "Huit",
       "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
@@ -2887,6 +2905,24 @@
       "duration_ms": 324866,
       "name": "hum",
       "url": "https://open.spotify.com/track/69AcNc2JDHYq7IqKzVZz4W"
+    },
+    {
+      "album": {
+        "name": "Hypha",
+        "url": "https://open.spotify.com/album/6eGFbzsy7oouymykAURlpN"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Hypha",
+      "url": "https://open.spotify.com/track/5d3vScntfWOniIlqiV02SC"
     },
     {
       "album": {
@@ -5611,7 +5647,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 185380,
       "name": "Shurayuki hime",
       "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"

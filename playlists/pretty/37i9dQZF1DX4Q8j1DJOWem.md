@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ที่สุดศิลปินรุ่นใหม่ของประเทศไทย ศิลปิน: Jeff Satur, YourMOOD, Blackbeans, The White Hair Cut, THEMOONWILLALWAYSBEWITHME, BELL WARISARA, HYBS, Saran, SPRITE, Only Monday
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,229 likes - 45 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,234 likes - 45 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 21 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 |
 | 22 | [Me](https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:29 |
 | 23 | [ปลอดภัย](https://open.spotify.com/track/4Fer8UPWzhbdyVnccMzPcr) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ปลอดภัย](https://open.spotify.com/album/6GKmt2zllDvt3wlBZeZ3HL) | 3:53 |
-| 24 | [แอบหวัง](https://open.spotify.com/track/0LLETxISOeZVam4l0RwcpV) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/1ldWFFPGu73WRha8M9P5Eg) | 3:55 |
+| 24 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 |
 | 25 | [ขอโทษที่เข้าไปเป็นเรื่องไม่ดีในชีวิตเธอ \(sunflower\)](https://open.spotify.com/track/5GIeJzSwYL4WOi1QcPrNUY) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ขอโทษที่เข้าไปเป็นเรื่องไม่ดีในชีวิตเธอ \(sunflower\)](https://open.spotify.com/album/1pqLqz2cxsWzCv6iz5DE23) | 3:44 |
 | 26 | [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 |
 | 27 | [ดวงตา \(Eyes\)](https://open.spotify.com/track/2cgk7fHnqkY7lhDP0F1KZb) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [LAVNDR](https://open.spotify.com/album/2oUXL1OYvl6rdGJInjBUkN) | 3:33 |
-| 28 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 |
+| 28 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu) | 3:41 |
 | 29 | [ลืมแทบไม่ไหว](https://open.spotify.com/track/7DNNJcCstLheOvqLsiq2Qz) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [MaiMhon](https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg) | [ลืมแทบไม่ไหว](https://open.spotify.com/album/0n7QgYSZ3K4Brs1K2SB9Fk) | 5:54 |
 | 30 | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/track/1T9p3fycDRc3KXl9nbhwkR) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/album/4p3UvZyHFLCwQLuA3fosr2) | 3:39 |
 | 31 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 40 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 41 | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/track/3fgZmdk4bvYyMuIanDoFKf) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/album/5UnGIM1LOtSJA7Q9OlVUhQ) | 4:24 |
 | 42 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 |
-| 43 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 |
+| 43 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 |
 | 44 | [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 |
 | 45 | [Locker](https://open.spotify.com/track/43rGeSTINiWovwNPiQGAXl) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Locker](https://open.spotify.com/album/6Z4hEV3oVdbCiJd4yYJqu7) | 2:29 |
 
-Snapshot ID: `MTY2NTYwMDEwOCwwMDAwMDAwMGVlYzE5Mjg2MDE0NzIzZmNkNmRhMmY2ZDhlZWI3ZWU2`
+Snapshot ID: `MTY2NTYwMDEwOCwwMDAwMDAwMDJkZmRjNWI3NmY1MGU2Y2MwMTgzNTBiNzFhYWZkMmNk`

@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-852 songs - 1 day 23 hr 48 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+854 songs - 1 day 23 hr 56 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [I Should Quit](https://open.spotify.com/track/0jmwOMMWFcLQQX7x11dOCO) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I Should Quit](https://open.spotify.com/album/6ZvRhxmhQdOkRsE25ALehT) | 2:30 | 2022-03-24 | 2022-08-02 |
 | [I Should've Known](https://open.spotify.com/track/6qUqlGZte3YuB64w4JprWW) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [I Should've Known](https://open.spotify.com/album/3hTnq2S41kSR8HYUm4ikl7) | 4:08 | 2022-02-03 | 2022-07-29 |
 | [I Should've Known](https://open.spotify.com/track/2d7BDniXFXApGT1ggmF7BN) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [I Should've Known](https://open.spotify.com/album/2zL7QvM658iVV9rLCsAfbb) | 4:09 | 2022-06-29 | 2022-08-02 |
-| [I Wish I Never Met You](https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:31 | 2022-04-07 |  |
+| [I Wish I Never Met You](https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU) | 3:31 | 2022-10-06 |  |
+| [I Wish I Never Met You](https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:31 | 2022-04-07 | 2022-10-14 |
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS) | 3:45 | 2022-02-03 |  |
 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 | 2022-02-03 | 2022-09-16 |
 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 | 2022-04-07 | 2022-06-18 |
@@ -757,7 +758,8 @@
 | [Нет дела](https://open.spotify.com/track/1jBkgehBXNIURp4ATVAbRp) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Когда были волны](https://open.spotify.com/album/2S6dLBYwOhyepLH33Fv6VJ) | 4:41 | 2022-03-24 | 2022-04-21 |
 | [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2022-03-24 | 2022-08-03 |
 | [Счастье](https://open.spotify.com/track/4yX76KyCqxcPdKWaxUIeZG) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Дальше](https://open.spotify.com/album/7EQBos4tq7LHQ7vzHswwuc) | 2:15 | 2022-03-24 | 2022-08-02 |
-| [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-02-03 |  |
+| [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 | 2022-10-06 |  |
+| [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-02-03 | 2022-10-14 |
 | [คนคนนึง](https://open.spotify.com/track/1uup0LxqqTU3uHrF7oqWux) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [คนคนนึง](https://open.spotify.com/album/4FnYMzU6ogFuuU5z9g5f5n) | 4:05 | 2022-09-08 |  |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-02-03 | 2022-09-16 |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2022-02-03 |  |

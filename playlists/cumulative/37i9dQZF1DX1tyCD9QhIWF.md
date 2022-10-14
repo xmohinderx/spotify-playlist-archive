@@ -4,7 +4,7 @@
 
 > Big riffs and pounding drums to help you strut the streets.
 
-87 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
+88 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-03-01 |  |
 | [Life Goes On!!](https://open.spotify.com/track/4BUMZqK5EvcqlRg1SfJ2v3) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Life Goes On!!](https://open.spotify.com/album/17wLO3F6j4PAW07uUVc7Ng) | 2:04 | 2021-11-30 | 2022-03-02 |
 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 | 2021-11-30 |  |
-| [MAKEMEFEELALIVE](https://open.spotify.com/track/6nh20AP8bdk1TPMvjFnfZo) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Adrenaline](https://open.spotify.com/album/2OEOyIC7abjuh39fyYTtLM) | 2:08 | 2021-11-30 |  |
+| [MAKEMEFEELALIVE](https://open.spotify.com/track/6nh20AP8bdk1TPMvjFnfZo) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Adrenaline](https://open.spotify.com/album/2OEOyIC7abjuh39fyYTtLM) | 2:08 | 2021-11-30 | 2022-10-14 |
+| [MAKEMEFEELALIVE](https://open.spotify.com/track/7tfGLLDpuOI7QhQdhEiqgN) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz) | 2:08 | 2022-09-13 |  |
 | [Natural Born Killer](https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:16 | 2022-09-13 |  |
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2021-11-30 |  |
 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 | 2021-11-30 |  |

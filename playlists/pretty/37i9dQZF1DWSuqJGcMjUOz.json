@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2112,
+  "num_followers": 2110,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGI0MzM0YzA3YzJmNWMxMWUxMWRmZGRiODA5MmYxOTRm",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDAzMTY3OGUwN2VmZDAxODRhMzQ5ZjljMmI4YTc4MDRk",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "A.M.I.E.S.A.M.O.U.R",
+        "url": "https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "duration_ms": 305723,
+      "name": "LA.BELLE.JOURN\u00c9E 1971",
+      "url": "https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "L'affaire Taktika",
         "url": "https://open.spotify.com/album/3xtr9wolduBAfl6VGezqiC"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 233986,
       "name": "Un \u00e9t\u00e9 chez nous",
       "url": "https://open.spotify.com/track/6k9i6yRP8UIxKhHJviALZQ"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "A.M.I.E.S.A.M.O.U.R",
-        "url": "https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX"
-      },
-      "artists": [
-        {
-          "name": "LUMI\u00c8RE",
-          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
-        }
-      ],
-      "duration_ms": 305723,
-      "name": "LA.BELLE.JOURN\u00c9E 1971",
-      "url": "https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo"
-      },
-      "artists": [
-        {
-          "name": "Hansom \u0112li",
-          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
-        },
-        {
-          "name": "Mike Clay",
-          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "40 Degr\u00e9s",
         "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
       },
@@ -963,22 +943,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Petite nature",
-        "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
-      },
-      "artists": [
-        {
-          "name": "\u00c9mile Bilodeau",
-          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "La jungle du capital",
-      "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Blue Volvo",
         "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
@@ -991,6 +955,22 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Petite nature",
+        "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "La jungle du capital",
+      "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1011,22 +991,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "The Ballad of the Runaway Girl",
-        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 281131,
-      "name": "Ton vieux nom",
-      "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -1039,6 +1003,22 @@
       "duration_ms": 149226,
       "name": "Entre mes jambes",
       "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 281131,
+      "name": "Ton vieux nom",
+      "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1203,38 +1183,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "L\u00e9g\u00e8rement",
-        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207338,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
-      },
-      "artists": [
-        {
-          "name": "Comment Debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Diorama",
         "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
       },
@@ -1247,6 +1195,22 @@
       "duration_ms": 202959,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 207338,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1267,18 +1231,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Airs pa\u00efens",
-        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+          "name": "Comment Debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
         }
       ],
-      "duration_ms": 149293,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1299,6 +1263,22 @@
       "duration_ms": 186128,
       "name": "Amazone (feat. Laurence Camille)",
       "url": "https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Airs pa\u00efens",
+        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1659,6 +1639,22 @@
       "duration_ms": 123000,
       "name": "Br\u00fbler des condos",
       "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "O\u00f9 nos corps s'en vont mourir",
+        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

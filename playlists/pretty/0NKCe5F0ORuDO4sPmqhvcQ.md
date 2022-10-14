@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,219 likes - 108 songs - 6 hr 6 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,218 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 101 | [Do You Want My Love](https://open.spotify.com/track/7jwdL5htUUWezSZllV5l23) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [This Can’t Be Everything](https://open.spotify.com/album/0S3K3wCAeOAzHueZHDlM1f) | 4:28 |
 | 102 | [See If I Care](https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [See If I Care](https://open.spotify.com/album/4aHIucrdo47tML4QIKXBle) | 2:39 |
 | 103 | [void](https://open.spotify.com/track/09RZdc0aGQIj2zyb533nT1) | [VILLA](https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 3:18 |
-| 104 | [THREE IN THE MORNING](https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [THREE IN THE MORNING](https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8) | 2:47 |
+| 104 | [THREE IN THE MORNING](https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [THREE IN THE MORNING](https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8) | 2:50 |
 | 105 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 |
 | 106 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 |
 | 107 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |

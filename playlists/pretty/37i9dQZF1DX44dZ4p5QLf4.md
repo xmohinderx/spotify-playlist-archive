@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Joya Mooi
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,575 likes - 121 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,695 likes - 121 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 86 | [Anger](https://open.spotify.com/track/3Ykugegz7ThqmJ3rLXjMq3) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Anger](https://open.spotify.com/album/4bqhj2QElfjpe2N2mIWBfT) | 2:37 |
 | 87 | [Introvert Hotline](https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Introvert Hotline](https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX) | 3:17 |
 | 88 | [Built My Home](https://open.spotify.com/track/3AD3MLwYNvon9yRs0V0RZq) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Miss Catharsis](https://open.spotify.com/album/6WXAkUlv4T6qjem1tANKZL) | 3:17 |
-| 89 | [Kicked to the Curb](https://open.spotify.com/track/4yzRABpnrtTV3HxOQPzzv7) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape](https://open.spotify.com/album/2L9YPeuEgWPyFmRbq5JWsD) | 3:53 |
+| 89 | [Kicked to the Curb](https://open.spotify.com/track/0RG3L67GqmTBBX0kfSAXE8) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape](https://open.spotify.com/album/1HGjV64pCowXYDK1Tb2tUa) | 3:53 |
 | 90 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 |
 | 91 | [All Day](https://open.spotify.com/track/1ZJwuvgiYusfPn8NVuUuSm) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [All Day](https://open.spotify.com/album/3ywlj8aHrRMcJrBYHCkW3g) | 2:01 |
 | 92 | [Ascension](https://open.spotify.com/track/6BnkcVCFZX3HCU9csLS6UR) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9) | [Birdhouse](https://open.spotify.com/album/1gCav3gJyQL0ShBQ2BLYMJ) | 3:49 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 120 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 |
 | 121 | [You Comfort Me \(with EARTHGANG\)](https://open.spotify.com/track/516Qt2A8vGrMBaMqafVOEm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [You Comfort Me \(with EARTHGANG\)](https://open.spotify.com/album/5rXXKTYEW34LQHzjUDpqkC) | 3:22 |
 
-Snapshot ID: `MTY2NTEyNjM4OSwwMDAwMDAwMGFlZDQ5NzkwNzlmMjVhODgyYzZmMWIyYzk5ODkzNDNh`
+Snapshot ID: `MTY2NTEyNjM4OSwwMDAwMDAwMGFmMjJlM2Q5MWMxOTk1ZWQxMjFlNGFmZmViNzk4MzA1`

@@ -2579,6 +2579,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
       },
       "artists": [
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
@@ -3677,7 +3695,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 197830,
       "name": "Don't Think Twice It's Alright - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4yjfib7L05XTjppPcTk29t"
@@ -3695,7 +3713,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 197830,
       "name": "Don't Think Twice It's Alright - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1GOwRXxYGZcUJ5TY88zk9l"
@@ -7613,7 +7631,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 167775,
       "name": "I'd Rather Be With You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5rlrzjYgAmxUi799A6Z5Wd"
@@ -7631,7 +7649,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 167775,
       "name": "I'd Rather Be With You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1DhVKEwDnsTsxGpD6SgjY5"
@@ -8819,10 +8837,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 221069,
       "name": "Ledaren - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2TPghTZ8xcT9EYlA0rUxBy"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5m1CwjyTanKdqqCKduZzYB"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221069,
+      "name": "Ledaren - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/3DZELcEJ8Aa4qiWhNSAseb"
     },
     {
       "album": {
@@ -9383,10 +9419,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 218993,
       "name": "Los Ageless - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/43GoXqcMIxcdrMk2ngVv17"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218993,
+      "name": "Los Ageless - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/7xJrE6TJdtZqsNij2D1O4r"
     },
     {
       "album": {
@@ -11393,6 +11447,24 @@
     {
       "album": {
         "name": "Nothing Scares Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Nothing Scares Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6"
+    },
+    {
+      "album": {
+        "name": "Nothing Scares Me - Spotify Singles",
         "url": "https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt"
       },
       "artists": [
@@ -11403,7 +11475,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 158048,
       "name": "Nothing Scares Me - Spotify Singles",
       "url": "https://open.spotify.com/track/49rILSmVLmGmknARFACh3N"
@@ -11873,6 +11945,24 @@
     {
       "album": {
         "name": "Singles (Live From Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210886,
+      "name": "Out of Focus - Live From Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/73cgpfQHxDw25IovaOjSjs"
+    },
+    {
+      "album": {
+        "name": "Singles (Live From Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv"
       },
       "artists": [
@@ -11883,7 +11973,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 210886,
       "name": "Out of Focus - Live From Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF"
@@ -16007,10 +16097,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 201652,
       "name": "Un Peu Menteur - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0Qa7pm5m2cy7UXfI5BfrIs"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4Xw3godmGRmZfTB8DeCVHh"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201652,
+      "name": "Un Peu Menteur - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5CntvOVOopWtBvKduJJwUi"
     },
     {
       "album": {
@@ -17279,6 +17387,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267493,
+      "name": "Wild Fire - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3SeqvlLbg9x3LuXvUD0Q0i"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w"
       },
       "artists": [
@@ -17289,7 +17415,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 267493,
       "name": "Wild Fire - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4aWsyx9WR3xQOQtoHXOX3t"

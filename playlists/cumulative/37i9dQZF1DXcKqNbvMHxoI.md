@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-140 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+142 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-07-19 | 2022-07-27 |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2022-07-19 | 2022-07-27 |
 | [Dawntown](https://open.spotify.com/track/1CaOMLZXTQxif7TVD9ieSd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:08 | 2022-02-04 |  |
-| [Deep End](https://open.spotify.com/track/58wBsn1tDEgUzgLu5wqI8E) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Current Blues](https://open.spotify.com/album/6leO7OdN8iBvw6sRyU8zLO) | 3:38 | 2022-02-04 |  |
+| [Deep End](https://open.spotify.com/track/3BicQmJN3NYNCtBwsLrpRL) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Current Blues](https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB) | 3:38 | 2022-07-26 |  |
+| [Deep End](https://open.spotify.com/track/58wBsn1tDEgUzgLu5wqI8E) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Current Blues](https://open.spotify.com/album/6leO7OdN8iBvw6sRyU8zLO) | 3:38 | 2022-02-04 | 2022-10-14 |
 | [Dermot \(see yourself in my eyes\)](https://open.spotify.com/track/1zAIRb8mTj8CcAUXW2FoMd) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:48 | 2022-02-04 |  |
 | [Do Something](https://open.spotify.com/track/2gvwO88pA1XfsPHYpH5jIQ) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Shaquille\-Aaron Keith](https://open.spotify.com/artist/0aefSIpCbBoPET8idD6WFk) | [Do Something](https://open.spotify.com/album/1vQmQoUeXn1L957qZ916qC) | 3:44 | 2022-02-04 |  |
 | [Dreams \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6WNksTFvo7VSeiP0UfNpWf) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Dreams \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/4aRvJ1Tc1Qi1mNT30QYpjw) | 5:04 | 2022-02-04 |  |
@@ -71,7 +72,8 @@
 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2022-02-04 |  |
 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 | 2022-07-19 | 2022-07-27 |
 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 | 2022-07-19 | 2022-07-27 |
-| [Light Up](https://open.spotify.com/track/3E4yJkELxoD49M4cd113EQ) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7p3Oql1lQymTJCpW9N7KoQ) | 3:48 | 2022-02-04 |  |
+| [Light Up](https://open.spotify.com/track/3E4yJkELxoD49M4cd113EQ) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7p3Oql1lQymTJCpW9N7KoQ) | 3:48 | 2022-02-04 | 2022-10-14 |
+| [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 | 2022-07-26 |  |
 | [Like a Ship](https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz) | 4:38 | 2022-07-19 | 2022-07-27 |
 | [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 | 2022-02-04 |  |
 | [Lone Raver](https://open.spotify.com/track/3557dpMjGiydWbB98MT6H5) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 4:17 | 2022-02-04 |  |

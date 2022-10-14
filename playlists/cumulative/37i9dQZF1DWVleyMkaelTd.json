@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Batida Diferente",
+        "url": "https://open.spotify.com/album/6TEAtBVoHbOdOM0hyqSiCv"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245063,
+      "name": "Batida Diferente",
+      "url": "https://open.spotify.com/track/3MF97DSrXO444itt0SOyCB"
+    },
+    {
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq"
       },
@@ -1758,6 +1776,24 @@
     },
     {
       "album": {
+        "name": "River of Dreams",
+        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183082,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
+    },
+    {
+      "album": {
         "name": "Sentido",
         "url": "https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa"
       },
@@ -2151,7 +2187,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 212045,
       "name": "When Autumn Calls",
       "url": "https://open.spotify.com/track/5fYdYTmBkY1KaxnIyVLW2x"

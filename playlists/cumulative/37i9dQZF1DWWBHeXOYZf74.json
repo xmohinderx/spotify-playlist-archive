@@ -12069,7 +12069,7 @@
     {
       "album": {
         "name": "GHOST",
-        "url": "https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ"
+        "url": "https://open.spotify.com/album/5JLmTTHBCVrpvwMh7UHEax"
       },
       "artists": [
         {
@@ -12084,6 +12084,28 @@
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163021,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/0IeXfesZzA5Qmr5Y74an40"
+    },
+    {
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 163021,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
@@ -25813,10 +25835,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 149524,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv"
+    },
+    {
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149524,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS"
     },
     {
       "album": {

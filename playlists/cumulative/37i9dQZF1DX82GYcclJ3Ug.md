@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Royal & the Serpent
 
-585 songs - 1 day 7 hr 13 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+586 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Your Touch](https://open.spotify.com/track/7GXzl1P7qswewR5aKKVFuA) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Your Touch](https://open.spotify.com/album/5rL0GCQlE2UYgsac0RzUDT) | 3:45 | 2021-11-26 | 2022-01-29 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-29 | 2022-09-02 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-29 | 2022-09-17 |
-| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-07-29 |  |
+| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-07-29 | 2022-10-14 |
+| [•NOTDEAD!•](https://open.spotify.com/track/6fRVwblLIfC5DrVH8swfFs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/708yI3q56JA8P8seT9V2zE) | 3:10 | 2022-10-07 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

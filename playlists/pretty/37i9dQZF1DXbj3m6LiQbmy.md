@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,721 likes - 73 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,723 likes - 73 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 47 | [UNA DONNA CHE CONTA](https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [UNA VITA IN CAPSLOCK](https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL) | 3:45 |
 | 48 | [Señoras Bien](https://open.spotify.com/track/0C60TsFeKSPCyTHolDUN0n) | [Las Bistecs](https://open.spotify.com/artist/2CR3phISm4GRBJ8YtqV4bn) | [Oferta](https://open.spotify.com/album/1DZl8V44ue9Z5mDqgvJTB2) | 3:30 |
 | 49 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
-| 50 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
-| 51 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
+| 50 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
+| 51 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
 | 52 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
 | 53 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
 | 54 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 72 | [Superomantico](https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Superomantico](https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa) | 2:41 |
 | 73 | [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGFkYTEwMDEyNDY4OTU1NGFjN2U4MTIzY2IwZDJlZTRh`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDgwMTA2YjEzMTQxYjkzYTJhZTI0NTdjNjAyMGUwYzM5`

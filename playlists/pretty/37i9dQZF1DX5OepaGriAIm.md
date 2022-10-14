@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,634 likes - 123 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,669 likes - 123 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 59 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
 | 60 | [Think of One](https://open.spotify.com/track/1EbO8MBWU2zU9z84gthz3l) | [Yoko Miwa Trio](https://open.spotify.com/artist/4xfIFGU467tYdyF6thGbLP), [Will Slater](https://open.spotify.com/artist/5TFMScwT4RBwdyrKZhxNm6), [Scott Goulding](https://open.spotify.com/artist/57Xj95lqfDAI8TpJCi5Q16) | [Think of One](https://open.spotify.com/album/2pZtCgkx4HYebqqQiwbTp0) | 8:03 |
 | 61 | [Prisoner of Love](https://open.spotify.com/track/7jB2MgZ6ljFZaB63kwoWer) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:16 |
-| 62 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 |
+| 62 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
 | 63 | [Stick It In Your Ear](https://open.spotify.com/track/2sno8z2lfzKUrBzdDL1Zpq) | [Jennifer Leitham](https://open.spotify.com/artist/0mmZkzRQaoA1sn7iB8XvbB) | [The Real Me](https://open.spotify.com/album/2BE1jX86yc2H5jMZUmspXq) | 4:24 |
 | 64 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 |
 | 65 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 122 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 123 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMDIzZWVmMmY2OTcxNmMzMmI1NzBlYjEwYWM4MTUzMTAy`
+Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMGQ2ZjViN2M2NjAyZWFiYWMwZWExZWQ3OThlNTkyZGM5`

@@ -4,7 +4,7 @@
 
 > The perfect tunes to accompany your lazy day in the garden.
 
-129 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
+131 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,8 +89,10 @@
 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 | 2020-05-18 |  |
 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 | 2020-05-18 |  |
 | [Porcelain](https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 3:58 | 2020-05-18 | 2022-07-29 |
-| [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2020-05-18 |  |
-| [Pretty Flamingo](https://open.spotify.com/track/5rohzp7Q1O6H9mzcSJEQOi) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Mann Made Hits](https://open.spotify.com/album/7tRHGtt1SDEOzRSweMn2yO) | 2:30 | 2020-05-18 |  |
+| [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2020-05-18 | 2022-10-14 |
+| [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 | 2020-05-18 |  |
+| [Pretty Flamingo](https://open.spotify.com/track/3LBik9Fp8tZiJLqerkFEJ1) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 2:29 | 2020-05-18 |  |
+| [Pretty Flamingo](https://open.spotify.com/track/5rohzp7Q1O6H9mzcSJEQOi) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Mann Made Hits](https://open.spotify.com/album/7tRHGtt1SDEOzRSweMn2yO) | 2:30 | 2020-05-18 | 2022-10-14 |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2020-05-18 |  |
 | [Pusherman](https://open.spotify.com/track/4FTC95WU1bbgeOP9IzsKnk) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Only The Best Of](https://open.spotify.com/album/0ncsCRYhRNyHSGzwHlUcaE) | 5:03 | 2020-05-18 |  |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2020-05-18 |  |

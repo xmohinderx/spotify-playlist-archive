@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-147 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+155 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cadaques](https://open.spotify.com/track/5W3UaSyEgTVZHA7OrGffPH) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Cadaques](https://open.spotify.com/album/6pVPsVMUDfwtcrU32LSqbH) | 2:55 | 2021-12-23 |  |
 | [Calvanda](https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu) | [Patrick Prescott](https://open.spotify.com/artist/4axTAgIeRFIlRTV9EoxLIu) | [Calvanda](https://open.spotify.com/album/6aagZIFwnFJbBnEq0E6csO) | 3:05 | 2021-12-09 |  |
 | [Caminando en junio](https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:54 | 2021-12-09 | 2022-05-27 |
+| [Clermont\-Ferrand](https://open.spotify.com/track/3ebmMzqWToAPoVGFOPispU) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Clermont\-Ferrand](https://open.spotify.com/album/4RgALF2EPsUJlZJ4PLGCli) | 2:09 | 2022-10-14 |  |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-09 |  |
 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-22 |  |
 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2021-12-09 |  |
@@ -42,6 +43,7 @@
 | [Ephemeral](https://open.spotify.com/track/3K6gdJlyZHsaYktMMHZo95) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Ephemeral](https://open.spotify.com/album/2nrjemHCDyyVFdL054h0km) | 2:56 | 2021-12-09 |  |
 | [Españoleta](https://open.spotify.com/track/49TT0zKYwZerufoxgYiohS) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Sleep and Relaxation](https://open.spotify.com/album/6GHknBEoAGG3UmypRtRLRy) | 2:05 | 2021-12-09 |  |
 | [Estrella clara](https://open.spotify.com/track/7IJ4FPYqUabB1cbWrMYn0q) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Estrella clara](https://open.spotify.com/album/761mDMnpM2KsejP3TuTtUn) | 1:37 | 2022-10-07 |  |
+| [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2022-10-14 |  |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-06-10 |  |
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 | 2021-12-09 |  |
@@ -55,6 +57,7 @@
 | [Goodnight Mr Bear](https://open.spotify.com/track/6fqOTn42xRhdjyT7ehcgTN) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [Goodnight Mr Bear](https://open.spotify.com/album/70txSGxRXOEyzlzgUubh45) | 1:57 | 2022-10-07 |  |
 | [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 | 2021-12-09 | 2022-04-22 |
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2021-12-09 |  |
+| [Gracefully Yours](https://open.spotify.com/track/4uhJxUjSz3xuVwS1yFjYQV) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Gracefully Yours](https://open.spotify.com/album/5VLzAXOg2SRt5OpJ3zDaPP) | 1:52 | 2022-10-14 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2021-12-09 | 2022-04-06 |
 | [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 | 2021-12-09 |  |
 | [guiding torch](https://open.spotify.com/track/498q55SF7VSIt5PCeagVGs) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [arrow clouds \| guiding torch](https://open.spotify.com/album/6ENT6YprbGElGS7XDkImeu) | 2:56 | 2022-07-29 | 2022-08-19 |
@@ -64,6 +67,7 @@
 | [Heads of the Valleys Road](https://open.spotify.com/track/0xNNyQG09OtHVd9BctjZ3j) | [Jess Morgan](https://open.spotify.com/artist/3sqUBL66V3rTDWwwG4XGaR) | [Heads of the Valleys Road](https://open.spotify.com/album/3MDqIoYtkq76CCK0FqcYKv) | 2:07 | 2021-12-09 |  |
 | [Hiver d'une femme](https://open.spotify.com/track/0cOLFPHlAKB6fmBY7pg8Oo) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [Hiver d'une femme](https://open.spotify.com/album/4sZGcsP19LvNokPhHaf1SR) | 2:15 | 2021-12-09 | 2022-09-09 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2021-12-09 |  |
+| [Hush Little Baby](https://open.spotify.com/track/0AQoulYov7Lbw1fuOiXYFT) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Hush Little Baby](https://open.spotify.com/album/6bETXLIIaW9PNZsU3XRMAF) | 1:53 | 2022-10-14 |  |
 | [I Found You](https://open.spotify.com/track/53hH9eXghbc7lbmGdfylX2) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:42 | 2021-12-09 |  |
 | [Ianthe](https://open.spotify.com/track/2ceHVcgNFK0mOTobgkfcKq) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Ianthe](https://open.spotify.com/album/6nj0buHhm6cNARNGzSlDeZ) | 2:07 | 2021-12-09 |  |
 | [In Between The Stars](https://open.spotify.com/track/4MIvfDDAclYoXXU90n2GpM) | [Sam Edwards](https://open.spotify.com/artist/4LPoFO74bCM3VqcLryqJqZ) | [Midnight Sailing](https://open.spotify.com/album/4ejMJnt2AlXecOgoV5aGaI) | 3:19 | 2021-12-09 |  |
@@ -72,6 +76,7 @@
 | [Kinderszenen, Op\. 15: No\. 7, Träumerei \(Arr\. for Guitar Solo\)](https://open.spotify.com/track/1JiY9LLalnplQAxweTXTUt) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Luise Walker](https://open.spotify.com/artist/3AYcgtMYsOooZwBF6vI4XI) | [Segovia & Contemporaries, Vol\. 3: Luise Walker](https://open.spotify.com/album/2O9whRvwQ5Mdq0T3q2lMP3) | 2:51 | 2021-12-09 |  |
 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 | 2021-12-09 |  |
 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 | 2021-12-09 |  |
+| [Largo](https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Largo](https://open.spotify.com/album/6uN9lAKq2SWb9NKeyVuZWG) | 2:05 | 2022-10-14 |  |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2021-12-09 | 2022-04-06 |
 | [Linens](https://open.spotify.com/track/0UwvM6Pn8jWh3cNWQunjt0) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:56 | 2021-12-09 |  |
 | [Lonely Prayer](https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Lonely Prayer](https://open.spotify.com/album/0dz5PGLVD6QEdPtYWJShbq) | 2:47 | 2021-12-09 | 2022-06-10 |
@@ -90,6 +95,7 @@
 | [Moments Like This](https://open.spotify.com/track/2R5OUBm0m9mbXfHaMpCGgD) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:33 | 2021-12-09 | 2022-05-27 |
 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 | 2022-08-19 |  |
 | [Murmur](https://open.spotify.com/track/0P24CykJ6WxN5WxgRYiTA2) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Murmur](https://open.spotify.com/album/6vh2k6aGdFOJoCecp8qlhh) | 2:55 | 2021-12-09 |  |
+| [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 |  |
 | [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 | 2022-07-15 |  |
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2022-06-17 |  |
 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 | 2022-10-07 |  |
@@ -107,6 +113,7 @@
 | [Phineas](https://open.spotify.com/track/6gchsDdOQFrkGBWQoel7Jh) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Phineas](https://open.spotify.com/album/3UzIbQNfxZb5ttHxR28d50) | 1:40 | 2021-12-09 |  |
 | [Plaisir](https://open.spotify.com/track/5st9nAlvjp9bd7MUq9tidJ) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Plaisir](https://open.spotify.com/album/4WpSzztK6nez8yWy6oKHXo) | 3:04 | 2021-12-09 |  |
 | [Porchside Wheat](https://open.spotify.com/track/3OdREuHZmpOwvxR4JTABhs) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:05 | 2021-12-09 |  |
+| [Quiet State](https://open.spotify.com/track/6ImUVu7qQW4O6t2EhdT7A9) | [Cindy Woon](https://open.spotify.com/artist/312AU52NUfI9iTdzynazpN) | [Quiet State](https://open.spotify.com/album/6pMPbS5MOWvNJD2swGQYmQ) | 2:46 | 2022-10-14 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-22 |  |
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2022-09-16 |  |
 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 | 2021-12-09 |  |
@@ -116,6 +123,7 @@
 | [Seed of Perfection](https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Seed of Perfection](https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI) | 2:39 | 2022-08-19 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-06 | 2022-06-10 |
 | [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2022-09-23 |  |
+| [Share My Burden](https://open.spotify.com/track/4zrE3bK51nBFR3lA32AADH) | [Pete Harris](https://open.spotify.com/artist/1lw09BJ43yAgXRP8EtUiQQ) | [Share My Burden](https://open.spotify.com/album/4StzfazKpweUdCP3Ei0QH8) | 3:49 | 2022-10-14 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
 | [Sirène](https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Sirène](https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3) | 2:48 | 2021-12-09 | 2022-04-06 |
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 |  |

@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-140 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+141 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Kauko](https://open.spotify.com/track/4I0ddznWdICBWy5RHRzsqE) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Kauko](https://open.spotify.com/album/0jjCPuzHwwjvrInsE6p4r5) | 4:27 | 2021-12-08 |  |
 | [L](https://open.spotify.com/track/4yX50PMifhGzVEo1wv3guc) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:37 | 2021-12-08 | 2022-07-29 |
 | [L](https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:37 | 2022-07-25 |  |
-| [La Luna](https://open.spotify.com/track/2co18Ij6kdf3kcfp5zm2Bv) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [RNSHW](https://open.spotify.com/artist/0vbnJYErPoTxFJsG59tSiP) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:57 | 2021-12-08 |  |
+| [La Luna](https://open.spotify.com/track/1gkGreJ6lZAk1fJRwlsinY) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [RNSHW](https://open.spotify.com/artist/6OnKgOYKuSO5KBakCfFeJO) | [Arkade Destinations Tulum](https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK) | 5:57 | 2022-09-16 |  |
+| [La Luna](https://open.spotify.com/track/2co18Ij6kdf3kcfp5zm2Bv) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [RNSHW](https://open.spotify.com/artist/0vbnJYErPoTxFJsG59tSiP) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:57 | 2021-12-08 | 2022-10-14 |
 | [Last Night](https://open.spotify.com/track/2PdsoiM7FtggHQTYicpQMi) | [Dexter Mars](https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR) | [Last Night](https://open.spotify.com/album/5XpjhYHq0iDhDcPyjEEb4A) | 3:16 | 2022-02-11 |  |
 | [Look At The Stars](https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH) | [The Purple Stripe](https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A) | [Look At The Stars](https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR) | 3:36 | 2022-08-03 |  |
 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 | 2022-05-31 |  |

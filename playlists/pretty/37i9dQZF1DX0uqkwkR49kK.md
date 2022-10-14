@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,838 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,927 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 9 | [Close to the Edge \(I\. The Solid Time of Change, II\. Total Mass Retain, III\. I Get up I Get Down, IV\. Seasons of Man\)](https://open.spotify.com/track/1oJ2a13bVN1RssKIWxKLe2) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Close to the Edge](https://open.spotify.com/album/252LyflX4wUeISSzgL392F) | 18:38 |
 | 10 | [The Court Of The Crimson King \- Including "The Return of the Fire Witch" and "The Dance of the Puppets"](https://open.spotify.com/track/05xYoVj6QuFk0U7PVl5Tf2) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 10:02 |
 | 11 | [Aqualung \- Steven Wilson Stereo Remix](https://open.spotify.com/track/3pexR2j9j8OJdlxZ9E4PV0) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung](https://open.spotify.com/album/4ABoepBMa9pG5ZRqWicwgW) | 6:35 |
-| 12 | [Karn Evil 9 1st Impression, Pt\. 2 \- Alternate Version](https://open.spotify.com/track/7dl8eQGk8e7ZN6vNLo4KAg) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1ktDHin7DUwgCxU463mz8n) | 4:48 |
+| 12 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remastered Version](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 |
 | 13 | [Catherine Of Aragon](https://open.spotify.com/track/3bFue3Ib0IsxhkvM7BsIiS) | [Rick Wakeman](https://open.spotify.com/artist/0mkcYaXUbJUs5mJointuzB) | [The Six Wives Of Henry VIII](https://open.spotify.com/album/7KqisP47OG3PCtbLknLJPT) | 3:49 |
 | 14 | [Firth of Fifth \- New Stereo Mix](https://open.spotify.com/track/6UpMG6BDOd5xecMTu5r3sj) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma) | 9:30 |
 | 15 | [Heart of the Sunrise \- 2003 Remaster](https://open.spotify.com/track/7gC6Rbllqf1yXNC02e5jz2) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 10:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMGFkMWQyMjQzYjljNWRmYzE4MWY3MWI5MGJiZTQ0NDQ3`
+Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMDZjOGMwZDhhNGFkY2Y3ZGI0N2VkZjE0NTJiYjg3ZWQy`

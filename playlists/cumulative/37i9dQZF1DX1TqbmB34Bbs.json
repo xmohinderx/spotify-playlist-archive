@@ -4716,6 +4716,32 @@
     },
     {
       "album": {
+        "name": "DAEMUGA",
+        "url": "https://open.spotify.com/album/0lhisOKVmr8phsuEkvpvyi"
+      },
+      "artists": [
+        {
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224665,
+      "name": "DAEMUGA",
+      "url": "https://open.spotify.com/track/5bGIMkueTLtAscHSrC4TcA"
+    },
+    {
+      "album": {
         "name": "changes",
         "url": "https://open.spotify.com/album/1a07XrJO3GAyW8TQFzp8PW"
       },
@@ -18493,7 +18519,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 170000,
       "name": "The Trapper",
       "url": "https://open.spotify.com/track/7KSo4suJ1r37GtTfG6hfuc"

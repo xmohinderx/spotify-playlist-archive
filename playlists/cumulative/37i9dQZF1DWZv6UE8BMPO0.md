@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-81 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+82 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 | 2021-12-21 |  |
 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 | 2021-12-21 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/3KuEPCnZC3SHQjwV0R8hSX) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [Jazz Piano Christmas](https://open.spotify.com/album/18ZbJ0B7OONpsM28cloOTk) | 5:04 | 2021-12-21 |  |
+| [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 | 2021-12-21 |  |
 | [Walking In A Winter Wonderland](https://open.spotify.com/track/7kWKkAC6yJwyrrNVeXAEMX) | [Jan Ullah](https://open.spotify.com/artist/5LtsQvgd7D0tJTq6K1cB35) | [Walking In A Winter Wonderland](https://open.spotify.com/album/6EAPnYnaQNTXthDRsqnuOt) | 2:21 | 2021-12-21 |  |
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2021-12-21 |  |

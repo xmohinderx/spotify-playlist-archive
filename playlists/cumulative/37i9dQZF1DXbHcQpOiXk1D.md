@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Oscar Jerome
 
-327 songs - 1 day 0 hr 11 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+328 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Do you](https://open.spotify.com/track/6XZsh0Z4pxcsFM788tHtXf) | [Alicia Kruger](https://open.spotify.com/artist/7FAVT7XBhYQCOq6VkQGGzS) | [Do you](https://open.spotify.com/album/2GGsMAKD6l4F6HFLPFy6F7) | 3:36 | 2022-03-08 | 2022-04-21 |
 | [Do You Want to Know a Secret](https://open.spotify.com/track/4NmevLdf0DjM22ASgnLrYh) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Do You Want to Know a Secret](https://open.spotify.com/album/3poKwA1VNvoXkRwULoaFJY) | 2:00 | 2022-03-08 | 2022-04-20 |
 | [Doesn't Matter Why](https://open.spotify.com/track/29MT6T2LkM0FeL2dNo68WY) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Doesn't Matter Why](https://open.spotify.com/album/0oasEKiLayMsAKVjpUIhtm) | 3:05 | 2022-03-24 | 2022-07-19 |
+| [Dough](https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Dough](https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw) | 2:31 | 2022-10-14 |  |
 | [Dreams](https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL), [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 4:10 | 2022-03-08 | 2022-03-09 |
 | [Dumont](https://open.spotify.com/track/0Rs70vYqQU3CYpYlHEv0mt) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Dumont](https://open.spotify.com/album/0VYZoeYn5gGAYzqE5aeIR1) | 5:40 | 2022-03-24 | 2022-04-21 |
 | [Early Hours](https://open.spotify.com/track/0t7NNWc2iaPJInAaKYCx4K) | [Ugolino](https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7) | [Early Hours](https://open.spotify.com/album/25o3AA79SplKRugLXGA7ja) | 4:02 | 2021-12-17 |  |
@@ -154,7 +155,7 @@
 | [Kiss Me In The Morning \(feat\. Jorja Smith\)](https://open.spotify.com/track/4IAqjZmjlOMQGsDyuiXA4d) | [The Eddy](https://open.spotify.com/artist/1X6uq7vU2DpIgXsNjpBFsu), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Kiss Me In The Morning \(From The Netflix Original Series\)](https://open.spotify.com/album/1xBW8cgYG916EaQ418xXcs) | 2:55 | 2022-01-14 | 2022-02-03 |
 | [Kyoto Rain](https://open.spotify.com/track/4WhojvMvXY107kbYjD2KvM) | [The Laszlo Project](https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c) | [Kyoto Rain](https://open.spotify.com/album/7JlPtr8IOZTJ9O6IEGfETE) | 5:33 | 2021-12-17 |  |
 | [La cumbia me está llamando \[Feat\. La Perla\] \- Kaidi Tatham Remix](https://open.spotify.com/track/2WXocqPMagvqGclaaMVXLA) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp), [Kaidi Tatham](https://open.spotify.com/artist/0vLij0xNgji2FO7QXjcaSR) | [La cumbia me está llamando \[Feat\. La Perla\] \(Kaidi Tatham Remix\)](https://open.spotify.com/album/7i19btj7l15brLPazHmuod) | 5:04 | 2021-12-17 |  |
-| [la danse](https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [la danse](https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL) | 2:57 | 2022-09-30 |  |
+| [la danse](https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [la danse](https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL) | 2:57 | 2022-09-30 | 2022-10-14 |
 | [la la la that’s how it goes \- Jordan Rakei Remix](https://open.spotify.com/track/1N1s75g3zd1hDqDtwROlAA) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [no song without you \(remixes\)](https://open.spotify.com/album/5inpbJ69LftnwUoXChmJ3n) | 4:17 | 2021-12-17 | 2022-07-17 |
 | [Labels](https://open.spotify.com/track/42MNRpMr4bwE5zIMzvcO3s) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Labels](https://open.spotify.com/album/1VmqCxNn7t42zRx566zVe7) | 5:21 | 2022-03-24 | 2022-07-26 |
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2021-12-17 | 2022-05-27 |

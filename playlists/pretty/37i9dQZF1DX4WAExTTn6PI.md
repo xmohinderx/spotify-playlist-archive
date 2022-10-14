@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,868 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,889 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 16 | [Hush](https://open.spotify.com/track/2A4439ueegEvIHcJKi7020) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:35 |
 | 17 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 |
 | 18 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 |
-| 19 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 |
+| 19 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:48 |
 | 20 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 |
 | 21 | [If You Look Hard Enough](https://open.spotify.com/track/0hoPD9npxJurbrUPS3baxB) | [Fort Frances](https://open.spotify.com/artist/1b2FE6oSOgzJ9dwNZi0Pqn) | [If You Look Hard Enough](https://open.spotify.com/album/44V9nDnRNQ0mznXzbJCqQa) | 3:25 |
 | 22 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 46 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 |
 | 47 | [I Still Believe in You](https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [A Horrible Beautiful Dream](https://open.spotify.com/album/4n7eKMhBd6yezgg46xeosc) | 3:31 |
 | 48 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 |
-| 49 | [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 |
+| 49 | [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 |
 | 50 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 |
 | 51 | [Sexy After Dark](https://open.spotify.com/track/5hOuD8UufsA8K2tqAtNj0d) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Sexy After Dark](https://open.spotify.com/album/0m467Jz2jf5yXmK3gpxBzO) | 3:50 |
 | 52 | [Shenandoah Shakedown](https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Shenandoah Shakedown](https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
 | 100 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
 
-Snapshot ID: `MTY0NTc2NTIwMCwwMDAwMDAwMDU5YjNlN2E1NzEyNTI0NzQzZWU3MjAwOGVhZmNiM2E2`
+Snapshot ID: `MTY0NTc2NTIwMCwwMDAwMDAwMDZkZjU5OTY0NmYzODY5Y2NjY2FmNzU5Mzk1NDQwODM1`

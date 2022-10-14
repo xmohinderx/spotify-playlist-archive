@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-400 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/1asloj9UtV8SBgxSK2ddXs)
+402 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/1asloj9UtV8SBgxSK2ddXs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2021-09-03 | 2022-07-20 |
 | [Chênh Vênh](https://open.spotify.com/track/2gIwaH2fAloC2cp1RJiMpk) | [Lê Cát Trọng Lý](https://open.spotify.com/artist/7hLz2ZikFy4ZwDZS12Z77n) | [Lê Cát Trọng Lý](https://open.spotify.com/album/1WIPlKo6WdavhjO89Dwilc) | 3:32 | 2022-03-08 | 2022-04-18 |
 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2021-09-03 |  |
+| [Clementine](https://open.spotify.com/track/4eQHehdMKD9zoHDrzWViHF) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:36 | 2022-03-08 |  |
 | [Clementine](https://open.spotify.com/track/5rpxIbX4f1q9ZpiIxGPeSl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Clementine](https://open.spotify.com/album/0Rn7zIvRdlXAcODx7C7IoX) | 3:36 | 2022-02-11 | 2022-07-29 |
 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 | 2022-03-08 |  |
 | [Clovers](https://open.spotify.com/track/3KCFmeudK7tTzshjxDl6m4) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Clovers](https://open.spotify.com/album/6n3JvVTmEAUS6uM33ZwLfq) | 4:14 | 2021-09-03 | 2022-07-28 |
@@ -140,7 +141,7 @@
 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 | 2021-09-03 | 2022-07-19 |
 | [Good Girls \(Don't Get Used\)](https://open.spotify.com/track/4ASZdm6CLLu0BnId42l5Gz) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don't Get Used\)](https://open.spotify.com/album/44vdfxCENptd63pAiHVAe5) | 3:35 | 2021-09-03 | 2022-07-26 |
 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 | 2022-03-08 |  |
-| [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-03-08 |  |
+| [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-03-08 | 2022-10-14 |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2021-09-03 | 2022-04-21 |
 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 | 2021-09-03 |  |
 | [Happy Girl](https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Happy Girl](https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh) | 3:03 | 2022-03-08 | 2022-07-24 |
@@ -170,7 +171,7 @@
 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-09-03 | 2022-07-29 |
 | [i think i wanna be alone](https://open.spotify.com/track/0uORqw0i7S97SG4dwb4Ett) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 1:42 | 2022-03-08 |  |
 | [i think i wanna be alone](https://open.spotify.com/track/1md2KOmyjGwQxuy5W39Lsz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [i think i wanna be alone](https://open.spotify.com/album/0QhJHjBtJmNy8sfdQU7XoJ) | 1:42 | 2021-09-03 | 2022-07-29 |
-| [I Wish I Never Met You](https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:31 | 2022-03-08 |  |
+| [I Wish I Never Met You](https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:31 | 2022-03-08 | 2022-10-14 |
 | [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2021-09-03 | 2022-07-26 |
 | [Iceland Moss](https://open.spotify.com/track/1zIiJ3ilqu8Ch46pSMpIk4) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Athena](https://open.spotify.com/album/4HOPqliDYxpuwdsRwXwpOJ) | 3:30 | 2021-09-03 | 2022-07-29 |
 | [Idaho](https://open.spotify.com/track/4Vz0Wt4ySnCJi7WJycnoNj) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 4:05 | 2021-09-03 | 2022-07-29 |
@@ -372,6 +373,7 @@
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2021-09-03 | 2022-07-29 |
 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 | 2022-03-08 | 2022-04-18 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-09-03 | 2022-10-13 |
+| [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-03-08 |  |
 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 | 2021-09-03 | 2022-05-19 |
 | [What You Don't Do](https://open.spotify.com/track/0gorODYIUfyg83lBPnPbZs) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 3:40 | 2022-03-08 | 2022-04-21 |
 | [What You're Thinking](https://open.spotify.com/track/51q8KeszKpVOWghI37pdWK) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:28 | 2022-03-08 | 2022-07-23 |

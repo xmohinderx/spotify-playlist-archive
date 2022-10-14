@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,289 likes - 174 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,298 likes - 174 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 108 | [Born This Way](https://open.spotify.com/track/3UyL65ZEorxxTA5DLzVhox) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 8](https://open.spotify.com/album/79chvauYTv83sd2Z8lS3TY) | 4:20 |
 | 109 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 |
 | 110 | [Uptown Funk](https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 3:44 |
-| 111 | [Worldwide Party](https://open.spotify.com/track/2XYRJ6PqDlje8IcoY6QXK8) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/13UcUuzRs2Sd13I3zuWapX) | 2:58 |
+| 111 | [Worldwide Party](https://open.spotify.com/track/554PU8Cg8dhsoLwZZirqKx) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/2zoLtD8CJX2IoXj6fen83X) | 2:58 |
 | 112 | [Havana](https://open.spotify.com/track/7dwiNsnIY3xOrE0k4kVDEl) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:35 |
 | 113 | [ME!](https://open.spotify.com/track/6BMeRg8jpvLqxGiWBX8igP) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 3:08 |
 | 114 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 173 | [Meant to Be](https://open.spotify.com/track/6UVyRn5CmTr2hXjC4mtmLK) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 2:45 |
 | 174 | [Mercy](https://open.spotify.com/track/5hx745zVn9ydtxVTPoRU6I) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y) | 3:10 |
 
-Snapshot ID: `MTY2NTEyODczOSwwMDAwMDAwMGQyMTg0ODJiMjk0NTdhN2M1MDM2ZGU0YTRhMGJhMWMy`
+Snapshot ID: `MTY2NTEyODczOSwwMDAwMDAwMDYwNWNjZWNlNmMyYzk4Njc1YTc3YWY1ODAxMmJjMWYw`

@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-201 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+204 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 | 2022-02-17 |  |
 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 | 2022-05-13 |  |
 | [As You Can \- Live](https://open.spotify.com/track/4vguRbzcA2Ewj7tai8jerX) | [Jesus People](https://open.spotify.com/artist/35UBfTl4RQiyBsrZTbIBmp), [Adam Smucker](https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr) | [As You Can \(Live\)](https://open.spotify.com/album/4CM3QMzL3U0zhxTflYL0dF) | 10:19 | 2022-05-27 |  |
+| [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 | 2022-10-13 |  |
 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 | 2022-03-18 | 2022-09-30 |
 | [Battle Belongs](https://open.spotify.com/track/6QNTTFtVslpomCt0sOQ7RJ) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Battle Belongs](https://open.spotify.com/album/6yPSq0owFKBgD6UKTrglA2) | 4:44 | 2022-02-17 |  |
 | [Beautiful People](https://open.spotify.com/track/4cqQWJKG4wD6fS0oDu5Jb7) | [Mannahouse Worship](https://open.spotify.com/artist/42z5UEkDoJlJ7QDJ1phGzN) | [Beautiful People](https://open.spotify.com/album/0vLDQv07AMn6PTuQT61I5G) | 3:38 | 2022-02-17 | 2022-04-05 |
@@ -155,7 +156,9 @@
 | [Rise And Shine \- Live](https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Rise And Shine \(Live\)](https://open.spotify.com/album/2TsFi72UiFcwYAWuDx88Jb) | 9:21 | 2022-05-20 |  |
 | [Rooftops \- Live](https://open.spotify.com/track/2NFYkgjUiiKgplnB7tgjoe) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Come Away \(Live\)](https://open.spotify.com/album/2L4TJGv4npQYBHpiU7tHMI) | 7:51 | 2022-05-27 |  |
 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 | 2022-02-17 |  |
+| [Set Me On Fire](https://open.spotify.com/track/7AwsTDt4RKJcPK7b6ptY54) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Set Me On Fire](https://open.spotify.com/album/7ogzgwf2864N656S654Oqo) | 4:13 | 2022-10-13 |  |
 | [Shine Like Stars](https://open.spotify.com/track/3PfewOCZm2VpGetWwZsZuU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 4:30 | 2022-02-17 | 2022-07-14 |
+| [Simple](https://open.spotify.com/track/43afkyZUN5gJEBd19zedx3) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Simple](https://open.spotify.com/album/43LOws1RaNJqWSDEf4JIp6) | 4:29 | 2022-10-13 |  |
 | [Simple Kingdom \(with Cody Carnes\) \- Live](https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Simple Kingdom \(with Cody Carnes\) \[Live\]](https://open.spotify.com/album/6cdFeMCCrgo9eU2jqLOvJk) | 6:24 | 2022-05-06 |  |
 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 | 2022-02-17 |  |
 | [Something About That Name](https://open.spotify.com/track/68qm1xj2QTa1aRO0qqN8Vx) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:32 | 2022-02-17 | 2022-03-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,683 likes - 47 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,741 likes - 47 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 28 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 |
 | 29 | [Paint It, Black](https://open.spotify.com/track/0hBZCHzVNvboVLWS7aNKRO) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:22 |
 | 30 | [Message In A Bottle](https://open.spotify.com/track/7A27Rj3872xK0LcUMI8aAl) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:49 |
-| 31 | [Karn Evil 9 1st Impression, Pt\. 2 \- Alternate Version](https://open.spotify.com/track/7dl8eQGk8e7ZN6vNLo4KAg) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1ktDHin7DUwgCxU463mz8n) | 4:48 |
-| 32 | [School \- Live At Pavillon de Paris/1979](https://open.spotify.com/track/7o4pyJOfb2LN6mLKqesGfF) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Paris](https://open.spotify.com/album/0LnGhdkTo5SEoIosiydUaR) | 5:41 |
-| 33 | [Madison Square](https://open.spotify.com/track/0W4kbKzbiZl3XV98Hb84tT) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:16 |
-| 34 | [First Tube](https://open.spotify.com/track/0pVKmDcMdrbiiGqsztIcL3) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Farmhouse](https://open.spotify.com/album/63pJMk3S5vS5e8wrInkDhi) | 6:45 |
-| 35 | [2112 Overture / The Temples Of Syrinx](https://open.spotify.com/track/6Po9FqcwIJq4xQtNZVXY6v) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Chronicles](https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM) | 6:45 |
-| 36 | [Funky Drummer \- Bonus Beat Reprise](https://open.spotify.com/track/0u84hZFHLRZc9TgdDIOXLU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 2:56 |
-| 37 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
+| 31 | [School \- Live At Pavillon de Paris/1979](https://open.spotify.com/track/7o4pyJOfb2LN6mLKqesGfF) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Paris](https://open.spotify.com/album/0LnGhdkTo5SEoIosiydUaR) | 5:41 |
+| 32 | [Madison Square](https://open.spotify.com/track/0W4kbKzbiZl3XV98Hb84tT) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:16 |
+| 33 | [First Tube](https://open.spotify.com/track/0pVKmDcMdrbiiGqsztIcL3) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Farmhouse](https://open.spotify.com/album/63pJMk3S5vS5e8wrInkDhi) | 6:45 |
+| 34 | [2112 Overture / The Temples Of Syrinx](https://open.spotify.com/track/6Po9FqcwIJq4xQtNZVXY6v) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Chronicles](https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM) | 6:45 |
+| 35 | [Funky Drummer \- Bonus Beat Reprise](https://open.spotify.com/track/0u84hZFHLRZc9TgdDIOXLU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 2:56 |
+| 36 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
+| 37 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remastered Version](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 |
 | 38 | [A Quick One While He's Away \- Live "Rock And Roll Circus" Version](https://open.spotify.com/track/0J2ykLMJWeJzc46T7mx0XW) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 7:24 |
 | 39 | [Him Belly No Go Sweet](https://open.spotify.com/track/23mGLE0XzRu6kwf3Phzvhc) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/2iS8BbypqWnaU4GlJQlJAF) | 6:55 |
-| 40 | [Scent of a Mule](https://open.spotify.com/track/4YNh0ccitCOE0kwp7cKvPY) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hoist](https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf) | 4:02 |
-| 41 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 |
+| 40 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 |
+| 41 | [Scent of a Mule](https://open.spotify.com/track/4YNh0ccitCOE0kwp7cKvPY) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hoist](https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf) | 4:02 |
 | 42 | [Keep Yourself Alive \- 2011 Mix](https://open.spotify.com/track/3LFcTYXWi9Z9hHfMyuwt1T) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set](https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ) | 3:46 |
 | 43 | [Umasha](https://open.spotify.com/track/0qi8Gbz1nchwhWmkMTQYmR) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [Supralingua](https://open.spotify.com/album/4PjB91ROZCOKRx783FLyoZ) | 5:22 |
 | 44 | [Don't Do It \- 2005 Remaster/24 Bit Mastering](https://open.spotify.com/track/3j3OB5PFy7FewVi8l881kN) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Best Of The Box\- A Musical History](https://open.spotify.com/album/6idKsZpZsfNfC6FFws8zL4) | 3:48 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 46 | [Soul Sacrifice \- Live](https://open.spotify.com/track/258S3Wyb21XJLasu0NcBUF) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/5GHkjPVlwVaHIqI5e2O9rV) | 4:52 |
 | 47 | [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGRmMGRiNDk3NTM1YTk5YTI3MDljMWJlNGQzZjExZDJj`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDNjMDRiZDc3NTM3Njg5ODc5MWU1NDc0OWY4MDE2NzE5`

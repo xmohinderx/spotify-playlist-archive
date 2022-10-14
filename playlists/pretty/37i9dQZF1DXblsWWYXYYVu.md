@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,403 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,465 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 64 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 | 65 | [The End](https://open.spotify.com/track/0jzMbBZ2cycxT6QwqaT6QD) | [Andrew Maxman](https://open.spotify.com/artist/2WDyVWhRhGWexG3ZheOLvO) | [The End](https://open.spotify.com/album/5MwK9uEKXO8ArwNzOOH3vF) | 3:36 |
 | 66 | [Troubled Soul](https://open.spotify.com/track/6jRlhzI3CNe4DOuEoF0rkw) | [Paper Wings](https://open.spotify.com/artist/42CYIYwKRNIYAHPrnjPvVn) | [Clementine](https://open.spotify.com/album/2xZS1wCPPJxPqRkTh8nhKB) | 3:54 |
-| 67 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 |
+| 67 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
 | 68 | [Secrets](https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr) | [Holly Auna](https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1) | [Love Shouldn't Be so Hard](https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1) | 3:45 |
 | 69 | [Waiting on a Ring](https://open.spotify.com/track/4U1pG0MZYc9OlPdpBx9Y3U) | [Roxan](https://open.spotify.com/artist/1oF4o7vpha3pVOrkH8KAT8) | [Waiting on a Ring](https://open.spotify.com/album/7p6FLb35eS8doM6Ndia7TN) | 2:33 |
 | 70 | [Jealous of Birds](https://open.spotify.com/track/5A6k7MKg3gUMwT1Z9TCRKb) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Jealous of Birds](https://open.spotify.com/album/3b1uVZTRJF71DRH1qhEEUG) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 |
 | 100 | [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDA2Mjk4NjMzOWQyMTU3MjU0ZTQ1YjI1NjAxODU5NzIy`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDg1NzJjOWQ5NTY1YTUzZWEzZWYzMzY0YWUzZmQ3YzVk`

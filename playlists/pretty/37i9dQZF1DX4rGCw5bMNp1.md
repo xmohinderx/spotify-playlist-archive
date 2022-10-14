@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,759 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,821 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 15 | [They call me the snake](https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx) | [Luther "Snake Boy" Johnson](https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM) | [They call me the snake](https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU) | 5:37 |
 | 16 | [She's Fine](https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW) | [A.C\. Reed](https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:18 |
 | 17 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 |
-| 18 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
-| 19 | [Driving Wheel](https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC) | [Johnny Laws](https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6) | [Blues Burnin' In My Soul](https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY) | 3:53 |
+| 18 | [Driving Wheel](https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC) | [Johnny Laws](https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6) | [Blues Burnin' In My Soul](https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY) | 3:53 |
+| 19 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
 | 20 | [Sittin' On Top Of The World](https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k) | [Eddie Shaw](https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO) | [Living Chicago Blues, Vol\. 1](https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu) | 3:42 |
 | 21 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 22 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 27 | [Someday \(Electric\)](https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Someday](https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9) | 3:26 |
 | 28 | [Lonesome Bedroom Blues](https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Blowin' Like Hell](https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp) | 5:45 |
 | 29 | [Last Night](https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:54 |
-| 30 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
-| 31 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
+| 30 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
+| 31 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
 | 32 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 |
 | 33 | [Gotta Move On](https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg) | [Eddy Clearwater](https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS) | [West Side Strut](https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k) | 4:40 |
 | 34 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMGJjZWMzYzYxMzIxYWFmMmRmODNiMWIwZjk3NmQwMGM2`
+Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMDM0ODhmZjA4M2FkZmE3MTFmMzY4YWEwMTYxZWMyNDhj`

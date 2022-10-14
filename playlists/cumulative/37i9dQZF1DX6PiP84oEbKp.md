@@ -4,7 +4,7 @@
 
 > A pride playlist for the whole family.
 
-42 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/3KLEVcPpbMJmbRBCH8WJUJ)
+43 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/3KLEVcPpbMJmbRBCH8WJUJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [OK Not To Be OK](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [OK Not To Be OK](https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2) | 2:39 | 2021-08-27 |  |
 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 | 2021-08-27 |  |
 | [On My Way](https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Mitchells vs The Machines \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gGPKURfX0FxDL0tgJsas1) | 3:05 | 2021-08-27 |  |
-| [Play It Loud](https://open.spotify.com/track/0PrCmeLBJHrXCvhV7HJbzu) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/08WKH7AdhNWNER1Y4BGxjm) | 0:53 | 2021-08-27 |  |
+| [Play It Loud](https://open.spotify.com/track/0PrCmeLBJHrXCvhV7HJbzu) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/08WKH7AdhNWNER1Y4BGxjm) | 0:53 | 2021-08-27 | 2022-10-14 |
+| [Play It Loud](https://open.spotify.com/track/6ydBBegR4TTlMEv3c9GqvK) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/0VvLWt3tTeXN875lAfk5GE) | 0:53 | 2022-06-02 |  |
 | [Rainbow Baby](https://open.spotify.com/track/58Fl2TnFkVvrOGT6Tf70TV) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Rainbow Baby](https://open.spotify.com/album/59ezSZpBp2d6BJv9mjBdMo) | 3:41 | 2021-08-27 |  |
 | [Snowpeople](https://open.spotify.com/track/1qFWXT8iWQIuDOAUXoqZV4) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 2:37 | 2021-08-27 |  |
 | [Some Girls Have Short Hair](https://open.spotify.com/track/0uaEO7D5FuGAOj8GeWGLFp) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 1:16 | 2022-06-02 |  |

@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-192 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/4Q5EZJbUbCT3HpL6GxMjPC)
+193 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4Q5EZJbUbCT3HpL6GxMjPC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Lover's Lane](https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Lover's Lane / The Years Tire On](https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe) | 3:02 | 2021-11-12 | 2022-07-29 |
 | [Lying in the Sun](https://open.spotify.com/track/7cvW4ayjsoS29xwgLImRzl) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Lying in the Sun](https://open.spotify.com/album/1BDkPA1VYoDMnHvWeTdFOz) | 3:51 | 2022-04-01 | 2022-04-21 |
 | [Make Way for Love](https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 3:55 | 2021-11-12 | 2022-07-28 |
-| [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 |  |
+| [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 | 2022-10-14 |
 | [Makin' Memories](https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:52 | 2022-02-18 |  |
 | [Mama Said](https://open.spotify.com/track/1G7COoZddkxeS4J9wp3aWM) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mama Said](https://open.spotify.com/album/0rbncsbptDoCmN28OHJAUt) | 3:33 | 2021-11-12 | 2022-07-28 |
 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 | 2022-04-01 |  |
@@ -153,6 +153,7 @@
 | [Right Time](https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:21 | 2021-11-12 |  |
 | [Road to Heaven](https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Road to Heaven](https://open.spotify.com/album/5RCUWKlWpbFjt5TgRns9aA) | 3:43 | 2021-11-12 |  |
 | [Roll On](https://open.spotify.com/track/2dCqBJAvSLdm5dyi3V2f24) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Roll On](https://open.spotify.com/album/05LL5ROXO3gDLScBf4A84C) | 2:57 | 2022-04-01 | 2022-04-18 |
+| [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 | 2022-04-01 |  |
 | [Run\-down Neighborhood](https://open.spotify.com/track/4d75miZVKZd75MiAVWZvDa) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 | 2022-04-01 |  |
 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 | 2021-11-12 | 2022-07-29 |

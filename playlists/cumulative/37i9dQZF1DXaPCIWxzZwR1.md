@@ -4,7 +4,7 @@
 
 > next gen pop cover: Nessa Barrett
 
-1,146 songs - 2 day 7 hr 40 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,147 songs - 2 day 7 hr 43 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Boyfriend](https://open.spotify.com/track/6EocnT21MWQjxsNNaQZSL1) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Boyfriend](https://open.spotify.com/album/18M7M6a4GjXxY1atkpsLQe) | 2:23 | 2021-03-14 | 2021-05-15 |
 | [Boys](https://open.spotify.com/track/4LUCg79fK00AuYV30QiP9n) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [Boys](https://open.spotify.com/album/3PZ3b92eeThfe2ficTUfQB) | 3:35 | 2021-05-29 | 2021-06-12 |
 | [Boys Don't Cry](https://open.spotify.com/track/0gQyvY0MQeuOYZBcpUQkbO) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Faking Sleep/Boys Don't Cry](https://open.spotify.com/album/6g9oaJUcvf443cH2fmOaXi) | 2:42 | 2021-02-19 | 2021-03-26 |
-| [Boys Who Kiss You In Their Car](https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn) | 2:44 | 2022-09-23 |  |
+| [Boys Who Kiss You In Their Car](https://open.spotify.com/track/0mFM1XxrkVkKTmuzwwa2IO) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/3gqu6hSCAet5nUZWhkwAi1) | 2:44 | 2022-10-07 |  |
+| [Boys Who Kiss You In Their Car](https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn) | 2:44 | 2022-09-23 | 2022-10-14 |
 | [BOYSHIT](https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [BOYSHIT](https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp) | 2:40 | 2021-02-16\* | 2021-06-12 |
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-09-11 | 2021-09-25 |
 | [Break Her Heart](https://open.spotify.com/track/0dN4xcgktuAmQNGaPQR5Fz) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Break Her Heart](https://open.spotify.com/album/2wFl2VCAHpU7eGqhwoF2Ye) | 2:59 | 2021-04-17 | 2021-10-16 |

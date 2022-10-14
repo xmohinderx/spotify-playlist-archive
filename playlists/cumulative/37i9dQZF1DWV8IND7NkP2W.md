@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-507 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+508 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 |  |
 | [Butterflies](https://open.spotify.com/track/17HildELPzUrRMOgs4FiHG) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Butterflies](https://open.spotify.com/album/2asHs1rwL8lirE0JagjVDt) | 2:04 | 2021-12-23 | 2022-07-25 |
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
+| [By The Sea](https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [CINEMA](https://open.spotify.com/album/1i4w92XNnwSw6gKaMyJu1j) | 2:18 | 2022-10-13 |  |
 | [Calm of Jazz](https://open.spotify.com/track/6z4ge4bEuNUuZ1jur3I0QG) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [Calm of Jazz](https://open.spotify.com/album/5yVN2JaIvmCThUoVH1tke6) | 2:58 | 2021-12-23 | 2022-06-18 |
 | [caravan](https://open.spotify.com/track/66j0QbHI6VRrDyIBKpj8cx) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [caravan](https://open.spotify.com/album/7J8kEw1gStQfSksAACR8qq) | 2:47 | 2022-01-13 | 2022-07-25 |
 | [Cat Alley](https://open.spotify.com/track/4y9mOkYt3R1VN4kIDbJyz0) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Cat Alley](https://open.spotify.com/album/5cAV9PNJYbpYFAst4vVUsy) | 1:29 | 2021-12-23 | 2022-07-21 |
@@ -371,7 +372,7 @@
 | [Ria](https://open.spotify.com/track/1KzyLuUcQgG4t7gw34hOTs) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Ria](https://open.spotify.com/album/6mt1y5wy8UGR56miDxql1e) | 2:03 | 2021-12-23 | 2022-07-29 |
 | [Ria](https://open.spotify.com/track/5ySEjcNGL8my5N9rYr52J2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Ria](https://open.spotify.com/album/6lNB21mNIhFWjo0RMDGi9s) | 2:03 | 2022-07-28 |  |
 | [Rivers and Stars](https://open.spotify.com/track/45LcTxCzjRMK6gNXHPwmoV) | [Kowrites](https://open.spotify.com/artist/6R9uA7YU7YjaqNotNJPyCb), [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Rivers and Stars](https://open.spotify.com/album/5ZOl50imMFSKntmmUyrpYQ) | 2:35 | 2021-12-23 | 2022-07-07 |
-| [Roses](https://open.spotify.com/track/4forOnJFDg4OZt8b7exjET) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Roses](https://open.spotify.com/album/2B1rGInAAoirvnJ8Bou7zt) | 2:01 | 2021-12-23 |  |
+| [Roses](https://open.spotify.com/track/4forOnJFDg4OZt8b7exjET) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Roses](https://open.spotify.com/album/2B1rGInAAoirvnJ8Bou7zt) | 2:01 | 2021-12-23 | 2022-10-14 |
 | [Round 8](https://open.spotify.com/track/4F1sAVtqsssL0XvHwrR2yY) | [Yaboy](https://open.spotify.com/artist/261tfDi8O7e45yOgAiukDl) | [Yaboy Vs One\-Verse Instrumental](https://open.spotify.com/album/3OZOr2VHTCPTm1LTZCORYu) | 2:37 | 2021-12-23 | 2022-07-27 |
 | [Rule of 12ths](https://open.spotify.com/track/757U1banGoAieZrGyaKVgJ) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Rule of 12ths](https://open.spotify.com/album/1nRnj1cc1aJEocrZs5qz3Z) | 2:10 | 2022-04-07 | 2022-04-17 |
 | [Rush Hour](https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [Rush Hour](https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU) | 3:17 | 2021-12-23 | 2022-07-27 |

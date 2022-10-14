@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-563 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+564 songs - 1 day 10 hr 33 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Forever](https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Forever](https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3) | 3:15 | 2022-09-22 |  |
 | [Forever Yours](https://open.spotify.com/track/228SCNyICAP1THsuLdzLW4) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Forever Yours](https://open.spotify.com/album/6uHQ0lm7VJwSqp7frFaSMk) | 3:02 | 2020-11-03 | 2021-06-11 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-03-26 | 2022-01-28 |
-| [Frail Moments, Same Page](https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Frail Moments, Same Page](https://open.spotify.com/album/2k2rgwK0WgzWFJDck4ixeS) | 3:44 | 2021-12-10 |  |
+| [Frail Moments, Same Page](https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Frail Moments, Same Page](https://open.spotify.com/album/2k2rgwK0WgzWFJDck4ixeS) | 3:44 | 2021-12-10 | 2022-10-14 |
 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 | 2022-05-09 |  |
 | [Free Fall](https://open.spotify.com/track/6VV2DOdeWTiDyRoweNhwZk) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Free Fall](https://open.spotify.com/album/5aS3e9Hpuj8tEEaZKsci1K) | 3:06 | 2021-06-25 | 2022-01-28 |
 | [FREEDOM](https://open.spotify.com/track/2JHHXGSC6Ra3IJOBNLbhS6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/7MmdRxtcFnN33C6MQLE61u) | 2:58 | 2021-11-26 | 2022-07-29 |
@@ -170,6 +170,7 @@
 | [FTP](https://open.spotify.com/track/3P5vb2d5YA9sQ6TqVZdKHC) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [FTP](https://open.spotify.com/album/2jUrkpZ0Wqm2fEIIqQaWyP) | 2:26 | 2022-02-03 | 2022-07-29 |
 | [Fuel to the Soul](https://open.spotify.com/track/4GYbEoWXcdQIlyGVXdtIT6) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Fuel to the Soul](https://open.spotify.com/album/4Bk6CMhMnHiEUPD7pP8Wxd) | 3:44 | 2022-04-01 | 2022-07-29 |
 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-25 |  |
+| [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-13 |  |
 | [Get It Right](https://open.spotify.com/track/3159fLoJc7neVqMUchcCin) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Get It Right](https://open.spotify.com/album/0UCzllaY9orr3hC1iZsim3) | 4:00 | 2021-04-23 | 2021-07-23 |
 | [Gidget](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2020-03-25\* | 2020-08-25 |
 | [Go](https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Go](https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b) | 4:12 | 2021-12-01 |  |

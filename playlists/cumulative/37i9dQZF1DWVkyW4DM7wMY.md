@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-130 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+132 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bleu](https://open.spotify.com/track/2gxJQDv1lGLZBkuIxFkqtx) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3), [Timothy Arinaitwe](https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH) | [Empty Spaces](https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq) | 3:35 | 2021-10-15 | 2022-03-11 |
 | [Call Me](https://open.spotify.com/track/1Z0n7t6tK0v5jVd4fEPHBa) | [T4 Choyce](https://open.spotify.com/artist/08oxpy9AeiGdX7hKfo1ccU), [J Raven](https://open.spotify.com/artist/5eTK1i7V5DC9bSYpNhoUM0) | [Call Me](https://open.spotify.com/album/5rdeeVtJoaWrNjJSFevwHB) | 3:32 | 2021-12-16 | 2022-06-25 |
 | [Camille](https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Camille](https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo) | 2:38 | 2022-01-27 |  |
+| [Catch\-22](https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0), [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3) | [Catch\-22](https://open.spotify.com/album/0ESSUNRDWfFE7oaqpjTaUV) | 3:01 | 2022-10-13 |  |
 | [Changed the Game \- Radio Edit](https://open.spotify.com/track/56Lv8Cn8pqBH0Rt8VkwtcR) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Changed the Game](https://open.spotify.com/album/0ElhbiaJqf836NlDDU1FcG) | 2:12 | 2021-10-15 | 2022-09-23 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-29 |  |
 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 | 2021-10-15 |  |
@@ -57,7 +58,7 @@
 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 | 2022-08-25 |  |
 | [Kampala](https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Kampala](https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH) | 2:38 | 2021-10-15 | 2022-03-26 |
 | [Kanyoni](https://open.spotify.com/track/6UZcrzuokSStY50hAG20dX) | [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Shorts \-EP](https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu) | 2:40 | 2021-10-15 | 2022-01-28 |
-| [Kash flow](https://open.spotify.com/track/5F5OaT1YRTUdDc3JaHX4wn) | [Kash Kaaria](https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi) | [Strings Attached](https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq) | 3:28 | 2022-01-13 |  |
+| [Kash flow](https://open.spotify.com/track/5F5OaT1YRTUdDc3JaHX4wn) | [Kash Kaaria](https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi) | [Strings Attached](https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq) | 3:28 | 2022-01-13 | 2022-10-14 |
 | [Keep Up With Your Heart](https://open.spotify.com/track/1IGf7JktjGKkdncPssMPk5) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Keep Up With Your Heart](https://open.spotify.com/album/1xUewGQXewylyf3iksJx4x) | 2:51 | 2021-10-15 | 2022-02-25 |
 | [Kilimanjaro](https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Diamond in the Trenches](https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47) | 5:08 | 2022-02-04 |  |
 | [Kiroko](https://open.spotify.com/track/4uuQPGD1JHLTmUkjWEXRhH) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Fire](https://open.spotify.com/album/2WrJzd9B9IAJhq9RfRxxZK) | 3:33 | 2021-10-15 | 2022-02-25 |
@@ -98,7 +99,7 @@
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2021-10-15 | 2022-03-18 |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-04-01 |  |
 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 | 2022-07-29 |
-| [Perfection // T r u s t](https://open.spotify.com/track/72d92oIlrhVcRILDWSk20R) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/5Kiuk1QzG3PmhDucI9M3Nw) | 4:00 | 2021-10-15 |  |
+| [Perfection // T r u s t](https://open.spotify.com/track/72d92oIlrhVcRILDWSk20R) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/5Kiuk1QzG3PmhDucI9M3Nw) | 4:00 | 2021-10-15 | 2022-10-14 |
 | [Pleasure Riddim](https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Pleasure Riddim](https://open.spotify.com/album/5RSh4SiFXncnAnheuqLp7i) | 2:10 | 2022-02-04 |  |
 | [Quick Fix](https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Quick Fix](https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV) | 3:13 | 2022-06-24 |  |
 | [rektless](https://open.spotify.com/track/53ieS7pA76pdBS3dig8Vuk) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [rektless](https://open.spotify.com/album/6IGKWpDBZDwntsLmdGIrCT) | 2:14 | 2021-10-15 | 2022-03-18 |
@@ -119,6 +120,7 @@
 | [Sweeta](https://open.spotify.com/track/4minQAokut1H7SBwPZKwtg) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Sweeta](https://open.spotify.com/album/4yzLR6HrG4b0lzjDqIXq8Y) | 2:47 | 2022-01-27 | 2022-07-30 |
 | [Switch Energy](https://open.spotify.com/track/7ihOawZIhBgY3txKEIGauf) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [21](https://open.spotify.com/album/2KecTQNTYIbN0Fyu6TCl68) | 2:48 | 2022-01-27 |  |
 | [Talk To Me](https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R), [Nala Ayieta](https://open.spotify.com/artist/7xGpddF3zGul2T2RSUMVlF) | [Talk To Me](https://open.spotify.com/album/0oQnFQEWTHTkL4n515ZkF0) | 2:37 | 2022-08-05 |  |
+| [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-10-13 |  |
 | [Tell Your Mother](https://open.spotify.com/track/71Ny6FDDEV4LG7WQ7lXYea) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Television](https://open.spotify.com/artist/1GSGf6ony1hg3S7saFkj8z) | [Tell Your Mother](https://open.spotify.com/album/2LW261abaIYKW2lse29gu6) | 3:27 | 2021-10-15 | 2022-06-03 |
 | [Terene](https://open.spotify.com/track/7AWNG9r1Rlv8YdLUd09AKi) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Kommanda Obbs](https://open.spotify.com/artist/1ZfZwBPYz6nAQK4H0Ybd2v) | [Terene](https://open.spotify.com/album/5t5G9vRwwqqaloR0DxSOTD) | 3:27 | 2021-10-15 | 2022-08-26 |
 | [The Yeah Yeah](https://open.spotify.com/track/24pqG5Vg6ImGrIPlWrlfLe) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [The Yeah Yeah](https://open.spotify.com/album/3CYD922quLZEwzqvSokO0I) | 2:19 | 2022-06-02 |  |

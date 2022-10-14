@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-181 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+182 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-05-13 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 |  |
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-05-13 |  |
-| [Sweet Night](https://open.spotify.com/track/3MqnHTCy6P5OH3Y6XIzeFj) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/0F6QXaOHbcDKl3iqZdrlbv) | 3:31 | 2022-05-27 |  |
+| [Sweet Night](https://open.spotify.com/track/0K32rol95QOdpWtg2G7msF) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/58PcVUWjDYJm3ji9ZNiqpP) | 3:31 | 2022-10-07 |  |
+| [Sweet Night](https://open.spotify.com/track/3MqnHTCy6P5OH3Y6XIzeFj) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/0F6QXaOHbcDKl3iqZdrlbv) | 3:31 | 2022-05-27 | 2022-10-14 |
 | [Søngleikur](https://open.spotify.com/track/5BvEzwZJeL2XIvoxT2zaOD) | [Elsa Selma](https://open.spotify.com/artist/6Xah5b0b62n9ozpTFFkvMo) | [Søngleikur](https://open.spotify.com/album/3PQYhV2ozQk3olZYqlFCQL) | 3:09 | 2022-05-13 |  |
 | [The Bones \- Acoustic Guitar](https://open.spotify.com/track/1t43AwBrCzl87i0L2G58bG) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/7EHVur55Mjkq7HLL1HlxNr) | 3:39 | 2022-05-13 |  |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2022-05-13 |  |

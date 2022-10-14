@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 96,538 likes - 40 songs - 2 hr 7 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 96,577 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 |
 | 40 | [CAMALEÓN](https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Camaleón](https://open.spotify.com/album/0jCM9KSax5G30ZScKCTvAG) | 2:55 |
 
-Snapshot ID: `NjAwMSw4NDYyMDI5ZjAzYThhNTNjNTIxOGRlNTNiZjZjZGY3MzA1Mzg4Y2Iz`
+Snapshot ID: `NjAwMiw4YjVmMTNjZWRlZDQzOTM5MWQwYjljY2FiZmQ1NjJlOTQ3Y2FhYmJj`

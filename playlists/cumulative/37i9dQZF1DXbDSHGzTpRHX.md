@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-150 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+152 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,13 +90,15 @@
 | [Leaving Me](https://open.spotify.com/track/64RqCqBxhey5mGq950yyxc) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Awake & Dreaming](https://open.spotify.com/album/7mrAOwvegT4oMij1p23pBE) | 2:55 | 2019-12-10 |  |
 | [Liar](https://open.spotify.com/track/3RZrvN10qqiNa9BIVd0d8w) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/1WGC3tZw74moco9cEfYKKw) | 2:26 | 2019-12-10 | 2022-07-29 |
 | [Liar](https://open.spotify.com/track/53yWQ1FObrwPlVYCZdR6es) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/55aI0Y84kAkGiqk8Y7BPGp) | 2:26 | 2019-12-10 |  |
-| [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 | 2019-12-10 |  |
+| [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 | 2019-12-10 |  |
+| [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 | 2019-12-10 | 2022-10-14 |
 | [Limbo](https://open.spotify.com/track/3QFoimz3M85b96Qo3UwfFN) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/0ZHHeDr94cRR3fitDONgge) | 3:44 | 2019-12-10 |  |
 | [Limbo](https://open.spotify.com/track/6VVr03DVlC6rqp8uFTPVUx) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/4ciSUimSqK6DSbeAuBDm5Q) | 3:44 | 2019-12-10 | 2022-10-13 |
 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 | 2019-12-10 |  |
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2019-12-10 | 2022-10-13 |
 | [Luzon](https://open.spotify.com/track/0vInsOPBHyqtF5KYmyiNsv) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Luzon](https://open.spotify.com/album/3uWdP1qbPaBmVx1BEEtSLc) | 3:01 | 2019-12-10 |  |
-| [Make You Wait](https://open.spotify.com/track/0s58Xx9kQFoujKAuWM5k04) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:00 | 2019-12-10 |  |
+| [Make You Wait](https://open.spotify.com/track/0s58Xx9kQFoujKAuWM5k04) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:00 | 2019-12-10 | 2022-10-14 |
+| [Make You Wait](https://open.spotify.com/track/37f7JmemPNdPEJajylUrFz) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/3PK5pxy5QNNqIPvvXtAvQr) | 3:00 | 2019-12-10 |  |
 | [Meaner Girl](https://open.spotify.com/track/75Ybs07OwRvhRE1kedAhv5) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 3:11 | 2019-12-10 |  |
 | [Meaner Girl](https://open.spotify.com/track/3mMxsC9GZanDd6c0lp2h7o) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Meaner Girl](https://open.spotify.com/album/7fkrmcwqKtnqyAHz0Mg52G) | 3:13 | 2019-12-10 | 2022-07-29 |
 | [mime](https://open.spotify.com/track/4sISzyWDHQQIOor9HokS7X) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:08 | 2019-12-10 |  |

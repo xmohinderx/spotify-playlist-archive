@@ -1,12 +1,12 @@
 {
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
-  "num_followers": 106233,
+  "num_followers": 106241,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMDE0NDc5NzYwNjFjMWQyY2RjZDAyMjZjN2Y1M2JiZWYx",
+  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMGJlZDQyMDgzOTAyODRjMDA4N2YzNGY2ZmM1OTJhYjYw",
   "tracks": [
     {
       "added_at": "2022-09-21 17:39:29",
@@ -307,6 +307,26 @@
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
     },
     {
       "added_at": "2022-09-21 17:39:29",
@@ -715,6 +735,22 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -783,22 +819,6 @@
       "duration_ms": 186781,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2022-09-21 17:39:29",
@@ -955,6 +975,22 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "Acid Dreams",
         "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
       },
@@ -971,22 +1007,6 @@
       "duration_ms": 183930,
       "name": "Acid Dreams",
       "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "i want war (BUT I NEED PEACE)",
-      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
     },
     {
       "added_at": "2022-09-21 17:39:29",
@@ -1087,26 +1107,6 @@
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "Songs For You",
-        "url": "https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "Save Room For Us",
-      "url": "https://open.spotify.com/track/0fj8OHLYnonkhlJsqmK2Cg"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

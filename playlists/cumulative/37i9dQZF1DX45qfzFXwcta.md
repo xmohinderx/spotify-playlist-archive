@@ -4,7 +4,7 @@
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-59 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
+60 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [seed](https://open.spotify.com/track/1nmqvyLwzIbdcmKKcUDKL5) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7) | 2:00 | 2022-07-22 |  |
 | [Shadowboxin' \- Instrumental](https://open.spotify.com/track/7rb4JTVMMK4bjDablnn9nb) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Liquid Swords \(Expanded Edition\)](https://open.spotify.com/album/1i4Ju3OL0Tq6QaAO2OUVdE) | 3:29 | 2022-07-22 |  |
 | [Skywalker OG](https://open.spotify.com/track/0nsy6CzRDmy51hOtNyri3F) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/2I2DTmcpsCJbC0cValamUf) | 1:54 | 2022-09-23 |  |
+| [Summertime](https://open.spotify.com/track/79MSVviX2SqqLS6murFaYB) | [tape joe](https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Summertime](https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq) | 3:35 | 2022-10-14 |  |
 | [Sunshine](https://open.spotify.com/track/5flCtFDMbtxnbc33pekd92) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5UWKVYrWjt1MrnUrQehaZ4) | 2:12 | 2022-07-22 |  |
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2022-07-22 |  |
 | [The Come up \(Instrumental\)](https://open.spotify.com/track/54AYyM0mxzfC7exwSSr3UU) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Greatest Beats \(Instrumentals\)](https://open.spotify.com/album/66JOOuwoKp7ACuHidfD5Nx) | 3:07 | 2022-07-22 |  |

@@ -4,7 +4,7 @@
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 
-77 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/36u71nhzxRama4yUmAOs97)
+78 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/36u71nhzxRama4yUmAOs97)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Stranger in Moscow](https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:43 | 2019-01-14 |  |
 | [The Girl Is Mine \(with Paul McCartney\)](https://open.spotify.com/track/1diEQsD8PJC9hXB5Gpfgtn) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 3:42 | 2019-01-14 |  |
 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 | 2019-01-14 |  |
-| [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 | 2019-01-14 |  |
+| [The Love You Save](https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:59 | 2022-08-03 |  |
+| [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 | 2019-01-14 | 2022-10-14 |
 | [The Love You Save](https://open.spotify.com/track/3IuNNnc5rCdyPnYc5cSXjO) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Very Best Of Michael Jackson With The Jackson 5](https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ) | 3:06 | 2019-01-14 | 2022-07-29 |
 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 | 2019-01-14 |  |
 | [They Don't Care About Us](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:44 | 2019-01-14 |  |

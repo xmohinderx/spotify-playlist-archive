@@ -4,7 +4,7 @@
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-61 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/3MN9RbNLxnegTx1j7fJ1zw)
+62 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3MN9RbNLxnegTx1j7fJ1zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [El Juego de las Verduras](https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:37 | 2020-04-22 |  |
 | [El Primer Día de Escuela](https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [El Primer Día de Escuela](https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX) | 2:38 | 2020-04-22 |  |
 | [Exercise Time](https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Gordon](https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:43 | 2020-04-22 |  |
+| [Family Time](https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:20 | 2020-04-22 |  |
 | [Family Time](https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 4:20 | 2020-04-22 | 2022-10-13 |
 | [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/6hHg2WvX0JYQt8Sw2qTAoP) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 4:20 | 2020-04-22 | 2022-07-29 |
 | [Fixin' My Hair](https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7) | [The Sesame Street Follicles](https://open.spotify.com/artist/6fFWIeOC1k2cboPOFDEDaQ), [Sesame Street's Kevin](https://open.spotify.com/artist/2ONAq9vAVfLxNm2HOmA8lv), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 1:32 | 2020-04-22 |  |
@@ -66,7 +67,7 @@
 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 | 2020-04-22 |  |
 | [Tres Pecesitos](https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav) | [Muñequitas Elizabeth](https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS) | [20 Éxitos 20 Aniversario](https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB) | 1:07 | 2020-04-22 |  |
 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 | 2020-04-22 |  |
-| [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 | 2020-04-22 |  |
+| [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 | 2020-04-22 | 2022-10-14 |
 | [Wash Your Hands with Baby Shark](https://open.spotify.com/track/5hf6QzXXpaJOzS7UHMXCXQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Wash Your Hands with Baby Shark](https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC) | 1:27 | 2020-04-22 |  |
 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 | 2020-04-22 |  |
 

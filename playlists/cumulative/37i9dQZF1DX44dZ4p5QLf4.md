@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Joya Mooi
 
-245 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+246 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-06-30 |  |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-16 |  |
 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 | 2021-12-16 |  |
-| [Kicked to the Curb](https://open.spotify.com/track/4yzRABpnrtTV3HxOQPzzv7) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape](https://open.spotify.com/album/2L9YPeuEgWPyFmRbq5JWsD) | 3:53 | 2022-02-10 |  |
+| [Kicked to the Curb](https://open.spotify.com/track/0RG3L67GqmTBBX0kfSAXE8) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape](https://open.spotify.com/album/1HGjV64pCowXYDK1Tb2tUa) | 3:53 | 2022-10-07 |  |
+| [Kicked to the Curb](https://open.spotify.com/track/4yzRABpnrtTV3HxOQPzzv7) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape](https://open.spotify.com/album/2L9YPeuEgWPyFmRbq5JWsD) | 3:53 | 2022-02-10 | 2022-10-14 |
 | [Killing Me](https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl) | 3:25 | 2021-12-16 | 2022-05-20 |
 | [KYWK](https://open.spotify.com/track/1q69yEnmc6Zobcj3IuddGa) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [KYWK](https://open.spotify.com/album/4ufPEY1lJ2o041483eS11L) | 2:47 | 2021-12-16 | 2022-04-09 |
 | [Lessons \- Remix](https://open.spotify.com/track/3k6Eu5Gq7PM7krNbCqkQUs) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Lessons \(Remix\)](https://open.spotify.com/album/78IsczI1FMVEkgbynVBvHl) | 6:37 | 2021-12-16 |  |

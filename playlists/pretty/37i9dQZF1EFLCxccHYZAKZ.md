@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 10 | [Hatar att vara kär](https://open.spotify.com/track/18MpuOSImIe1L4h9jZqXN0) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Hatar att vara kär](https://open.spotify.com/album/65EmbYRfiaajO4kftbC1N4) | 3:12 |
 | 11 | [Praying](https://open.spotify.com/track/4htljT3v7N8q5C1LFzE90g) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Praying](https://open.spotify.com/album/7lyiPlbNb8iZiR8cJsBrLI) | 2:57 |
 | 12 | [No Going Back](https://open.spotify.com/track/2vSgW76655sD8YdCqZ5bN7) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Antomage](https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ), [Bromage](https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS) | [No Going Back](https://open.spotify.com/album/0vp0e4m0DeTnouFtrE64w3) | 2:40 |
-| 13 | [body in my bed](https://open.spotify.com/track/35A0hbUL2Ey3mG2TbMHo0t) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/2b0dLMRLdninQEdHJpwTiA) | 3:23 |
+| 13 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
 | 14 | [Lava](https://open.spotify.com/track/2hs2PHJuYNmFCi6bnVmHNK) | [Leu Leu Land](https://open.spotify.com/artist/6lH8TyRSfitGTanY5N4k2J) | [Lava](https://open.spotify.com/album/7MuUrgeqiiW3cH0rGO3yqE) | 2:40 |
 | 15 | [Feel So Good](https://open.spotify.com/track/5uyJh3z8NrvRNry7YSNqQp) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Feel So Good](https://open.spotify.com/album/4KTk2TRMNMp9JN2JeUWC2i) | 3:05 |
 | 16 | [Moon \- Official Summerburst Anthem / 2016](https://open.spotify.com/track/5M4mJKwSHV5d8sTlrO4J8i) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Moon \(Official Summerburst Anthem / 2016\)](https://open.spotify.com/album/1kW9XcmMNIy4qwjncfViyX) | 3:30 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 30 | [your girlfriend´s in the bathroom, i´m trying to kiss you](https://open.spotify.com/track/2NHbMEJ3lozGJ4fRG8UIVl) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [mags](https://open.spotify.com/album/5RAlBASgQpO3Vuoq2KMHnX) | 2:26 |
 | 31 | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/track/4xNbZHwy05mDPp8aDJSVzG) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/album/4Tfp5bhONESSxLwwKFR9Jr) | 3:20 |
 | 32 | [Arcade Games](https://open.spotify.com/track/2A9dSXcHoFBZb978YuVg5J) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [all is not well in heaven](https://open.spotify.com/album/2P5RCDWAC8l1qmnrj6bch3) | 3:06 |
-| 33 | [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 |
+| 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjc3NjAzOTksMDAwMDAwMDBlNjQ3MjlkYzg2ZDFkOWMxZDU4ZjI4MjdlYjc4N2I2ZA==`
+Snapshot ID: `Mjc3NjE4MzksMDAwMDAwMDA2ZTE4N2U2ZDA2YTE3Yjc3NThhMTRmMmRhMWExOTQxMg==`

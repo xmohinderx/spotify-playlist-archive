@@ -138,6 +138,32 @@
     },
     {
       "album": {
+        "name": "A Man Of Many Words",
+        "url": "https://open.spotify.com/album/3n9fVFbgK4qtNRIOBvLjPd"
+      },
+      "artists": [
+        {
+          "name": "eiji",
+          "url": "https://open.spotify.com/artist/1wzqhHInXSYezJHke90Jeo"
+        },
+        {
+          "name": "Dreams For Two",
+          "url": "https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe"
+        },
+        {
+          "name": "just johnny",
+          "url": "https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "A Man Of Many Words",
+      "url": "https://open.spotify.com/track/4Xvvp4ZboynilmueoHOrtg"
+    },
+    {
+      "album": {
         "name": "A Place To Start",
         "url": "https://open.spotify.com/album/6pjmDVcyZDEmeF2SY1sVaa"
       },
@@ -229,6 +255,28 @@
       "duration_ms": 127817,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/4xIA6rtVQukSRpcYjsUS9A"
+    },
+    {
+      "album": {
+        "name": "airless",
+        "url": "https://open.spotify.com/album/1wMk0osZHmLq6SFU5Oy8j4"
+      },
+      "artists": [
+        {
+          "name": "msnthrp",
+          "url": "https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3"
+        },
+        {
+          "name": "Nalim",
+          "url": "https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106894,
+      "name": "airless",
+      "url": "https://open.spotify.com/track/0QSGGX0o7FnXZvjNiuTrKv"
     },
     {
       "album": {
@@ -953,7 +1001,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 155637,
       "name": "Charles Street",
       "url": "https://open.spotify.com/track/6gRDNWHqvQnLpclj2mtitO"
@@ -2184,6 +2232,24 @@
     },
     {
       "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/5DpioETgTIxvfYzSofjRT5"
+      },
+      "artists": [
+        {
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110142,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3p2MNFiiEni69ydO5fmEHI"
+    },
+    {
+      "album": {
         "name": "Changes in Time",
         "url": "https://open.spotify.com/album/3UpsBQyvhgxvTk8YVlTetN"
       },
@@ -2217,6 +2283,24 @@
       "duration_ms": 109608,
       "name": "hangover",
       "url": "https://open.spotify.com/track/3Aj99QBnPuowk3n6bkFciI"
+    },
+    {
+      "album": {
+        "name": "Haute Dreams",
+        "url": "https://open.spotify.com/album/7cuQUnR1vB5OrHR0ddZrSh"
+      },
+      "artists": [
+        {
+          "name": "Low Couture",
+          "url": "https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Haute Dreams",
+      "url": "https://open.spotify.com/track/38TURpPXTyCdAOaNrUJXdm"
     },
     {
       "album": {
@@ -2724,6 +2808,24 @@
     },
     {
       "album": {
+        "name": "Koya's adventure",
+        "url": "https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7"
+      },
+      "artists": [
+        {
+          "name": "Kumo City",
+          "url": "https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "Koya's adventure",
+      "url": "https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de"
+    },
+    {
+      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy"
       },
@@ -2897,7 +2999,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 95999,
       "name": "Light",
       "url": "https://open.spotify.com/track/35N0N8ezsPPblW9ISS8HnF"
@@ -3151,6 +3253,24 @@
       "duration_ms": 147920,
       "name": "madman pt.2",
       "url": "https://open.spotify.com/track/7vHYnKhPPPDBbUWHGavEtu"
+    },
+    {
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7cHRwTQLAEEcRlcMZEYiCu"
+      },
+      "artists": [
+        {
+          "name": "Major M\u00e9langer",
+          "url": "https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89628,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/12exH3zKBHGUAob63h2S9i"
     },
     {
       "album": {
@@ -3689,7 +3809,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 132972,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/7zQXU5vLt7xccnnR6AdiXs"
@@ -4441,7 +4561,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 125979,
       "name": "Pour the Blue",
       "url": "https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu"
@@ -4691,6 +4811,24 @@
       "duration_ms": 156329,
       "name": "Rolling By",
       "url": "https://open.spotify.com/track/3LK0gJqUKVqTpBIogxjak7"
+    },
+    {
+      "album": {
+        "name": "rosella",
+        "url": "https://open.spotify.com/album/0L0ln5Rz8Hv59Nxzlfx2ip"
+      },
+      "artists": [
+        {
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "rosella",
+      "url": "https://open.spotify.com/track/02lwEdTi7l63LhAd70SXmm"
     },
     {
       "album": {
@@ -5199,7 +5337,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179483,
       "name": "Sleeping City",
       "url": "https://open.spotify.com/track/2sdtHbNOJLXgOXpE77UzSq"
@@ -6146,6 +6284,24 @@
     },
     {
       "album": {
+        "name": "VIOLA",
+        "url": "https://open.spotify.com/album/4Z1TnXowi7IYsRv46Iy2KV"
+      },
+      "artists": [
+        {
+          "name": "Basilicc",
+          "url": "https://open.spotify.com/artist/32m5cYM4gLb5l8pCEx2dHJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101354,
+      "name": "VIOLA",
+      "url": "https://open.spotify.com/track/2UREdyM12J6A91KgFDT0ng"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1x9KqI3glYQeSwADyYKC3Z"
       },
@@ -6215,6 +6371,28 @@
       "duration_ms": 147023,
       "name": "Waxing",
       "url": "https://open.spotify.com/track/4xG6I54kv59NsbELXreqHT"
+    },
+    {
+      "album": {
+        "name": "what if you fly",
+        "url": "https://open.spotify.com/album/6ClOqKfpK2cZsVnMgpzg4N"
+      },
+      "artists": [
+        {
+          "name": "lostoutside",
+          "url": "https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89302,
+      "name": "what if you fly",
+      "url": "https://open.spotify.com/track/3aLbLjbcXA7TXbeJrLS4zi"
     },
     {
       "album": {

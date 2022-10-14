@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 266260,
+  "num_followers": 266341,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDQwY2FhN2M4YWJhZjM2ZWMwNDE4MWMxOTMyZDdjMTg4",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGNkMTRjM2NlNmU0MjE1OGY4NmZlMjc0MzU1ZTZmMTYw",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -231,6 +231,22 @@
       "duration_ms": 247968,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -655,22 +671,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Liquid",
-        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Jay II",
         "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 205225,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Liquid",
+        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "The Middle of Nowhere",
-        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 258876,
-      "name": "Jeune",
-      "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 273455,
       "name": "Detox",
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "The Middle of Nowhere",
+        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 258876,
+      "name": "Jeune",
+      "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "summer bruises",
-        "url": "https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 174387,
-      "name": "summer bruises",
-      "url": "https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "What Are You so Afraid Of",
         "url": "https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 147573,
       "name": "What Are You so Afraid Of",
       "url": "https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "summer bruises",
+        "url": "https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 174387,
+      "name": "summer bruises",
+      "url": "https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -947,22 +963,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Love Addict",
-        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
-      },
-      "artists": [
-        {
-          "name": "Sugar High",
-          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/12ehvPg4PDufuo4FhfAWgr"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 290000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1gczbgaCmw15h3ZG4awluK"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Love Addict",
+        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
+      },
+      "artists": [
+        {
+          "name": "Sugar High",
+          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "What We Left Behind",
         "url": "https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE"
+        "name": "Is This Where It Ends",
+        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
         }
       ],
-      "duration_ms": 190720,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh"
+      "duration_ms": 242943,
+      "name": "Is This Where It Ends",
+      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Is This Where It Ends",
-        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 242943,
-      "name": "Is This Where It Ends",
-      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Leviosa",
         "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 196985,
       "name": "De ma Tour",
       "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Hyper-normal",
-        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
-      },
-      "artists": [
-        {
-          "name": "GRAZER",
-          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
-        }
-      ],
-      "duration_ms": 195691,
-      "name": "Hyper-normal",
-      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Cosas Que Probablemente No Van a Pasar",
-        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
+        "name": "Hyper-normal",
+        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
       },
       "artists": [
         {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Cosas que probablemente no van a pasar",
-      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
+      "duration_ms": 195691,
+      "name": "Hyper-normal",
+      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Cosas Que Probablemente No Van a Pasar",
+        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cosas que probablemente no van a pasar",
+      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Lean Into Life",
         "url": "https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw"
       },
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     }
   ],
   "unique_name": "Dreampop",

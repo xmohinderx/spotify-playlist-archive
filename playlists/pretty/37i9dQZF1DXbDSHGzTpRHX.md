@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,128 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,137 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 23 | [Do Better](https://open.spotify.com/track/2q4YX9A2WafCCcqdZtKVIj) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/674GmlI4tJvUQ1W3sjYaay) | 3:33 |
 | 24 | [Harvard](https://open.spotify.com/track/6sqw8w1n1sopzGaNIwZL4N) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 3:26 |
 | 25 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 |
-| 26 | [Make You Wait](https://open.spotify.com/track/0s58Xx9kQFoujKAuWM5k04) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:00 |
+| 26 | [Make You Wait](https://open.spotify.com/track/37f7JmemPNdPEJajylUrFz) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/3PK5pxy5QNNqIPvvXtAvQr) | 3:00 |
 | 27 | [Luzon](https://open.spotify.com/track/0vInsOPBHyqtF5KYmyiNsv) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Luzon](https://open.spotify.com/album/3uWdP1qbPaBmVx1BEEtSLc) | 3:01 |
 | 28 | [dreamgurl](https://open.spotify.com/track/7l47dRm8jw7NMs0OFoQrrK) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX), [Keith Goodwin](https://open.spotify.com/artist/3Q1T3DDlR4lY9kqIQsDhMn) | [dreamgurl](https://open.spotify.com/album/5dfy4vYwLnM8RLpV0DpM36) | 2:58 |
 | 29 | [mind games](https://open.spotify.com/track/36KJMSaMTtDHkF3m90avQc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [mind games](https://open.spotify.com/album/2wCYKDy70ayKcRquGlg7T5) | 3:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 96 | [Type](https://open.spotify.com/track/0nQRHEFAmxrACvpJ2nEdKm) | [Joël](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [GRUNGE GOSPEL](https://open.spotify.com/album/1MRemdCQXbm08VgK6ZUxEl) | 3:01 |
 | 97 | [What I Do](https://open.spotify.com/track/0pSv8kfVtfIFGmo8jfCZ2W) | [LG Izz](https://open.spotify.com/artist/6QTXiCqm2kDOWnLqgyYi4y) | [What I Do](https://open.spotify.com/album/0aL2czw7s7TKTfCwVpE67G) | 2:54 |
 | 98 | [In My Head](https://open.spotify.com/track/7H5jn1FKEhUGbewLxXNGNE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Hasta La Vista](https://open.spotify.com/album/4orC5HDPd0VTsaWs5vNMtb) | 2:20 |
-| 99 | [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 |
+| 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGE3NzVkNWU1YTA5ZWY2ZmJlMjQ5Y2Y1ZGFlYTRkY2M4`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDYwZTMwNjQ4NTM5MzhhMjA4MzkxOTYwOWY5NzdjZTk4`

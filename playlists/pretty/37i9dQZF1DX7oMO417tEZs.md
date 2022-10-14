@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,500 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,517 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 10 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
 | 11 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 |
 | 12 | [Flowers](https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Flowers](https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa) | 3:13 |
-| 13 | [daydream](https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI) | 1:09 |
+| 13 | [daydream](https://open.spotify.com/track/1t0faf8iw1XbaJ0yznpPcB) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6uyX7aeHjV89017CRZ2CuU) | 1:09 |
 | 14 | [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 |
 | 15 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 16 | [Rude Boy 22 \- Spotify Singles](https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 2:15 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 33 | [Harvest Moon – Vandelux Remix](https://open.spotify.com/track/3OcV9XXExOdsVHYXSjSGNd) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Harvest Moon \(Vandelux Remix\)](https://open.spotify.com/album/7JOnm7NqCfCxJ9LCdaZXqB) | 4:34 |
 | 34 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
 | 35 | [It Could Be Nice](https://open.spotify.com/track/5lGoX0XHR2ystyz0OF3Kv5) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [It Could Be Nice](https://open.spotify.com/album/1s4VVB5nN16DfnSVKRx6NK) | 2:52 |
-| 36 | [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 |
+| 36 | [Seasons Change](https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u) | 2:29 |
 | 37 | [END OF AN ERA](https://open.spotify.com/track/4hE5FiwnpFjG6PEWF9SbED) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [END OF AN ERA](https://open.spotify.com/album/3C1PAj2sewEbNdIs8axBAM) | 1:56 |
 | 38 | [Hold On](https://open.spotify.com/track/6KMcmZsL1J0Dp2lmAQgKVy) | [TURNA](https://open.spotify.com/artist/3R2WIQW8Xbe0mvSXUS2u8Q), [Gillian Mapp](https://open.spotify.com/artist/4Hc65gJGYM3VxIY8bF7LpE) | [Hold On](https://open.spotify.com/album/4L8rz5GLBEYV7C2qv5iE4M) | 4:22 |
 | 39 | [Constrictor](https://open.spotify.com/track/60SqKl7HkUVzFkhKGNJrAJ) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb) | [Constrictor](https://open.spotify.com/album/3es6sDOdgv4pX0XThvsWuc) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Forever](https://open.spotify.com/album/4rubgFY3CcvXg0dqQd18LH) | 4:28 |
 | 100 | [LAWD](https://open.spotify.com/track/0G7FTrrupbGvXYPFfAPr7M) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [Tibe](https://open.spotify.com/artist/4AIBWTy1SuwnrbO2LhIZU2) | [LAWD](https://open.spotify.com/album/2C80TjyKrG3GFKnyYfEZHs) | 2:45 |
 
-Snapshot ID: `MTY2NTI0MjI4MywwMDAwMDAwMDhkYWVmMTI3NjM5YWI3MjBhYzliZTAwZmUzZWUzN2Nh`
+Snapshot ID: `MTY2NTI0MjI4MywwMDAwMDAwMGUxMDM3YzVmMTRjYmMzMDBiMzk3YjZmOWIwNWRhY2Jh`

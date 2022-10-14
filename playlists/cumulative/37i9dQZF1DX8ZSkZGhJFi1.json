@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "deer hunter",
+        "url": "https://open.spotify.com/album/6cqea1e3V3PP46AKNaZWUy"
+      },
+      "artists": [
+        {
+          "name": "Sylo Rader",
+          "url": "https://open.spotify.com/artist/6x0PT9I77BHEDWT6xxlaRS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "deer hunter",
+      "url": "https://open.spotify.com/track/1kAKUONgLaJfwYBmfFig25"
+    },
+    {
+      "album": {
         "name": "Big Little Man",
         "url": "https://open.spotify.com/album/22DORZ7yDp2y3bu4hIw7Wc"
       },

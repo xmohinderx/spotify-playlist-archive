@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então/Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,527 likes - 93 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,754 likes - 93 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1883,7 +1883,7 @@
     {
       "album": {
         "name": "jams 2",
-        "url": "https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI"
+        "url": "https://open.spotify.com/album/6uyX7aeHjV89017CRZ2CuU"
       },
       "artists": [
         {
@@ -1894,6 +1894,24 @@
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 69051,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/1t0faf8iw1XbaJ0yznpPcB"
+    },
+    {
+      "album": {
+        "name": "jams 2",
+        "url": "https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 69051,
       "name": "daydream",
       "url": "https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7"
@@ -2759,10 +2777,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 223925,
       "name": "First Thing Smokin'",
       "url": "https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA"
+    },
+    {
+      "album": {
+        "name": "First Thing Smokin'",
+        "url": "https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223925,
+      "name": "First Thing Smokin'",
+      "url": "https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT"
     },
     {
       "album": {

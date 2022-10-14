@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: BABYJOY",
-  "num_followers": 18381,
+  "num_followers": 18387,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDYxYjcxOWFhOWUzMjk2ZjkxNDc5YjcwN2IzODg0M2M1",
+  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMGQ5MGU0MWI4MzViNjgwYzk4YmJmMjgxZmNhYjRhMTFl",
   "tracks": [
     {
       "added_at": "2022-10-04 22:00:00",
@@ -371,38 +371,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Baby Blue",
-        "url": "https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV"
-      },
-      "artists": [
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR"
-      },
-      "artists": [
-        {
-          "name": "Sira",
-          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Adalam Va!",
         "url": "https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf"
       },
@@ -419,6 +387,22 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
         "name": "Delikat",
         "url": "https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 156000,
       "name": "Delikat",
       "url": "https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR"
+      },
+      "artists": [
+        {
+          "name": "Sira",
+          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Bl\u00fctenregen",
-        "url": "https://open.spotify.com/album/10M7zoyutxjNy5OT2tk3e5"
-      },
-      "artists": [
-        {
-          "name": "Kitana",
-          "url": "https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK"
-        },
-        {
-          "name": "Melik",
-          "url": "https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz"
-        }
-      ],
-      "duration_ms": 142620,
-      "name": "Bl\u00fctenregen",
-      "url": "https://open.spotify.com/track/3bMhFzRu1Ys5dmQlFENXgZ"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 175238,
       "name": "ORCA",
       "url": "https://open.spotify.com/track/09UjGnS0SrbxDxL4yD8ldG"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Bl\u00fctenregen",
+        "url": "https://open.spotify.com/album/10M7zoyutxjNy5OT2tk3e5"
+      },
+      "artists": [
+        {
+          "name": "Kitana",
+          "url": "https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK"
+        },
+        {
+          "name": "Melik",
+          "url": "https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz"
+        }
+      ],
+      "duration_ms": 142620,
+      "name": "Bl\u00fctenregen",
+      "url": "https://open.spotify.com/track/3bMhFzRu1Ys5dmQlFENXgZ"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Verlieren",
-        "url": "https://open.spotify.com/album/4rG1lto3LDuSRdDaD4iAsb"
-      },
-      "artists": [
-        {
-          "name": "Ish",
-          "url": "https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI"
-        }
-      ],
-      "duration_ms": 177962,
-      "name": "Verlieren",
-      "url": "https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Pleasure Pilgrim",
         "url": "https://open.spotify.com/album/4IobnsBjhAszwYA3fw4skh"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "In My Darkness",
-        "url": "https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2"
+        "name": "Verlieren",
+        "url": "https://open.spotify.com/album/4rG1lto3LDuSRdDaD4iAsb"
       },
       "artists": [
         {
-          "name": "Stella Sommer",
-          "url": "https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob"
+          "name": "Ish",
+          "url": "https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI"
         }
       ],
-      "duration_ms": 161120,
-      "name": "In My Darkness",
-      "url": "https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04"
+      "duration_ms": 177962,
+      "name": "Verlieren",
+      "url": "https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 208098,
       "name": "no words left",
       "url": "https://open.spotify.com/track/3G9LDlf9GULZAtdPKPiCzq"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "In My Darkness",
+        "url": "https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2"
+      },
+      "artists": [
+        {
+          "name": "Stella Sommer",
+          "url": "https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "In My Darkness",
+      "url": "https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04"
     },
     {
       "added_at": "2022-10-04 22:00:00",

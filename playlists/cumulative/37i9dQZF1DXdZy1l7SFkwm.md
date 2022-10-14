@@ -4,7 +4,7 @@
 
 > El aderezo que te falta.
 
-161 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/3uTOUzf7YyzIgGkcaTGudH)
+162 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/3uTOUzf7YyzIgGkcaTGudH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Maracangalha](https://open.spotify.com/track/7vMICBgMH80JfGFaGSi8Yp) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Eu Vou Pra Maracangalha](https://open.spotify.com/album/4eTrToCDAzjyjWOFECOhBW) | 2:47 | 2021-03-15 | 2022-07-29 |
 | [Mas Que Nada](https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Mas Que Nada](https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL) | 2:39 | 2021-03-15 | 2022-07-29 |
 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 | 2021-03-15 |  |
-| [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2021-03-15 |  |
+| [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 | 2021-03-15 |  |
+| [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2021-03-15 | 2022-10-14 |
 | [Minha Teimosia, Uma Arma Pra Te Conquistar](https://open.spotify.com/track/7eXRfKOGzMRe6P2jg0Nua6) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Puro Suingue](https://open.spotify.com/album/1ZuHENR1CaI9ApzDv4mSbv) | 2:42 | 2021-03-15 | 2022-07-27 |
 | [Na Tonga Da Mironga Do Kabulete](https://open.spotify.com/track/7lSuOz8LjZ73RPzZKZCHaH) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Simonal](https://open.spotify.com/album/4N9B7IlhnCxzFxF1f4JcVa) | 3:12 | 2021-03-15 | 2022-07-29 |
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 | 2021-03-15 |  |

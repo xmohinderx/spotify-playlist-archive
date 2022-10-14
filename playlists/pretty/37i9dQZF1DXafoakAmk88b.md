@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,631 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,686 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 52 | [Still \(feat\. 6LACK and Smino\)](https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:45 |
 | 53 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 |
 | 54 | [Little Lies \- A COLORS SHOW](https://open.spotify.com/track/3mKaY08m60EwKSx5sbsANC) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Little Lies \- A COLORS SHOW](https://open.spotify.com/album/7uiJKbfH5H4GHSC315IebW) | 3:09 |
-| 55 | [breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 |
+| 55 | [breakfast](https://open.spotify.com/track/2tD10DaQErTOW9snvrG2Yu) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 3:13 |
 | 56 | [Hi\-De\-Ho](https://open.spotify.com/track/3GkZwRXM2Dsd8c25qYSmGU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Hi\-De\-Ho](https://open.spotify.com/album/4oAHIlamiKhZ6wg1lXbAdG) | 3:56 |
 | 57 | [Fortified](https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Fortified](https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w) | 3:17 |
 | 58 | [Poison Ivy](https://open.spotify.com/track/2Qq4GCcB81IGr3krVQW84z) | [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni) | [Vert\(EGO\)](https://open.spotify.com/album/76bLAVnxfGADpQMjchrw5Z) | 2:04 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 71 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:14 |
 | 72 | [Break of Dawn](https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [YAMA//SATO](https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1) | [Break of Dawn](https://open.spotify.com/album/1ihFDbyCB1zQsKxwsQt3VN) | 3:53 |
 | 73 | [The Hearse](https://open.spotify.com/track/0rcoSjQLh5QXhCmBYBdNDW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:04 |
-| 74 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 |
+| 74 | [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 |
 | 75 | [Liquorice](https://open.spotify.com/track/5UEnl8IntXqIABMLOIrz2l) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Liquorice](https://open.spotify.com/album/5XT8Y2ZfswLOpgZE5lXfyy) | 2:17 |
 | 76 | [Mad](https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Mad](https://open.spotify.com/album/5SvEPJ6bl42bFGXEWNSvdA) | 3:17 |
 | 77 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 99 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 |
 | 100 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 |
 
-Snapshot ID: `MTY2NDgxMzUwNiwwMDAwMDAwMDg2YWZlMzQxYzk4YTlhOGMzNjA2MjY2YzYwOTEwNTZi`
+Snapshot ID: `MTY2NDgxMzUwNiwwMDAwMDAwMGFmMjAzNDQ3YzZkMzY4NzYzM2Y0MGRjZWQ2Yzk3N2Y3`

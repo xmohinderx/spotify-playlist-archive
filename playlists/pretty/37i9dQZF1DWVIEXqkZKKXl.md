@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,525 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,544 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 25 | [Madras Cafe Theme](https://open.spotify.com/track/0cJDxizZXI4mXhAIv3StRm) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Madras Cafe](https://open.spotify.com/album/7ggp9qSziSZxH0khHjJ6oy) | 4:04 |
 | 26 | [Andhadhun Theme 01](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 4:15 |
 | 27 | [The Don Waltz](https://open.spotify.com/track/5XcOoA1V7bj4g2I49dOXbk) | [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Don 2](https://open.spotify.com/album/567IupuTzzBF0cgmtucllU) | 3:28 |
-| 28 | [The Mood of Satya](https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Satya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR) | 2:20 |
+| 28 | [Rangoon Theme](https://open.spotify.com/track/3PkLK8b0tRTIgggmM1vwib) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 1:31 |
 | 29 | [Victory \- Instrumental](https://open.spotify.com/track/0k7Jl4wxnWZpsFsMOyr9Li) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 3:20 |
-| 30 | [Rangoon Theme](https://open.spotify.com/track/3PkLK8b0tRTIgggmM1vwib) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 1:31 |
+| 30 | [The Mood of Satya](https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Satya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR) | 2:20 |
 | 31 | [Sarbjit Theme](https://open.spotify.com/track/7i6ISlTSvgYFZFy7d9o8fO) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sarbjit](https://open.spotify.com/album/3gFdzTRV0jUP8da5miEWyU) | 2:56 |
 | 32 | [Charminar](https://open.spotify.com/track/3fbM7XnAJOF5S4W3cqJhJd) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Rajesh Vaidya](https://open.spotify.com/artist/4H83oUEiCke2zJcFbJAmCw) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 1:29 |
 | 33 | [Bombay Theme \- Bombay / Soundtrack Version](https://open.spotify.com/track/7n6YJCoiTHtdhytgAliYDu) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Crush The Rebels](https://open.spotify.com/track/5JES4hDzGsLOzfPQFpB9Uj) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 5:11 |
 | 50 | [Rockford Theme \- Instrumental](https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7), [Sangeeth Luke](https://open.spotify.com/artist/3MJZzdlZhRijyUHSMnaP5o) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 3:35 |
 
-Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMDE1OTI3YjA3NjVhNDE0YzMzMzcyMDA0Y2Q5NTc5Zjdl`
+Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMDBlODY1NjBiM2EyNmZkYWVlMzA5ZmQ3NTgwZDE4MTEx`

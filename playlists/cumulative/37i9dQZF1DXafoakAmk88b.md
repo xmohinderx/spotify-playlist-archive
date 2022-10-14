@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-172 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+174 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2022-05-13 |  |
 | [Blame](https://open.spotify.com/track/5j5bTgdWPU5h3MDhhaMbDX) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Blame](https://open.spotify.com/album/7gwnkG7m1cna7GPo2kUEud) | 2:50 | 2022-02-18 | 2022-07-29 |
 | [Break of Dawn](https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [YAMA//SATO](https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1) | [Break of Dawn](https://open.spotify.com/album/1ihFDbyCB1zQsKxwsQt3VN) | 3:53 | 2022-02-18 |  |
-| [breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 | 2022-02-18 |  |
+| [breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 | 2022-02-18 | 2022-10-14 |
+| [breakfast](https://open.spotify.com/track/2tD10DaQErTOW9snvrG2Yu) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 3:13 | 2022-05-13 |  |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-02-18 | 2022-10-13 |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 | 2022-05-13 |  |
 | [Burn Me Out](https://open.spotify.com/track/6EA7oUfwTlK4Uc5RIzAJrz) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc) | [Burn Me Out](https://open.spotify.com/album/4020PhRlGUOUZwRcU00Uc1) | 4:43 | 2022-02-18 |  |
@@ -148,7 +149,8 @@
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-18 |  |
 | [Someone to Chill With](https://open.spotify.com/track/3sAcsAVnlvrJK4R2PWliot) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:19 | 2022-02-18 |  |
 | [Spell on Me](https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq), [Hunter Yerrell](https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI) | [Spell on Me](https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S) | 2:42 | 2022-03-11 |  |
-| [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-02-18 |  |
+| [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-02-18 | 2022-10-14 |
+| [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 | 2022-05-13 |  |
 | [Starting To Get To You](https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Starting To Get To You](https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO) | 2:41 | 2022-03-25 |  |
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2022-10-03 |  |
 | [Stereo Driver](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Stereo Driver](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-10-03 |  |

@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-140 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+141 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2022-09-13 |  |
 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 | 2022-01-27 |  |
 | [haunt me \(x 3\)](https://open.spotify.com/track/4nsY0oW9IWBUqdoUXv1nUg) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/4YBOpXeNUJzCzLcsGucOMQ) | 2:45 | 2021-11-01 | 2022-07-29 |
-| [Head Over Heels](https://open.spotify.com/track/1QPWV0EWKa7GiKO7F7zcVs) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Head Over Heels](https://open.spotify.com/album/4yO8tU1Cu7Ry1dPLceo1Mf) | 3:57 | 2021-11-01 |  |
+| [Head Over Heels](https://open.spotify.com/track/1QPWV0EWKa7GiKO7F7zcVs) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Head Over Heels](https://open.spotify.com/album/4yO8tU1Cu7Ry1dPLceo1Mf) | 3:57 | 2021-11-01 | 2022-10-14 |
+| [Head Over Heels](https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Head Over Heels](https://open.spotify.com/album/2E708oixNbIE32J644UTEj) | 3:57 | 2022-09-25 |  |
 | [Heaven](https://open.spotify.com/track/4I4RDB7qNJNF3Yy0EOcsj4) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Legal Ghost / Heaven](https://open.spotify.com/album/4WJfbqq9X1UJHKtjoI9Uum) | 5:13 | 2022-01-27 | 2022-09-15 |
 | [Heaven](https://open.spotify.com/track/5bTDAZWncGRgs184ISoHIT) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Legal Ghost/Heaven](https://open.spotify.com/album/0sinuvgm6LIWPLqwnQ2UfJ) | 5:13 | 2021-11-01 | 2022-07-29 |
 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 | 2021-11-01 |  |

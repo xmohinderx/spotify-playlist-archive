@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,749 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,753 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 45 | [Waiting for Christmas](https://open.spotify.com/track/47ZGdDkt6Vq3L1k3HnMnkC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:35 |
 | 46 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 |
 | 47 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
-| 48 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 |
+| 48 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
 | 49 | [Blue Christmas](https://open.spotify.com/track/1SGNpO62EqT1KC1K8B8lFw) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Blue Christmas](https://open.spotify.com/album/4KRdBwVmISlc4j5EVmDBpe) | 2:28 |
 | 50 | [We Need a Little Christmas](https://open.spotify.com/track/2hM6yd9ZDPpKRVqDheFyoW) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Today Is Christmas](https://open.spotify.com/album/4p1Qw5G8LHuiV7Iz1cAyAj) | 2:59 |
 | 51 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/track/1O9ML3Bv8XvQ3xWUVL0jj7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/album/6qSiSv2qh4fTiqjvmSQLCy) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 69 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 | 70 | [Auld Lang Syne](https://open.spotify.com/track/1xLEZzyPlldPLRpbvQH3uO) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [The Christmas Album](https://open.spotify.com/album/3dtH58hWKPjBEiKXRs69PJ) | 1:44 |
 
-Snapshot ID: `MTY0MDI4MDUwNCwwMDAwMDAwMDJiMjVmNmE4NDIzZWI0MGQxNTgxNTJkYjYxM2ViMjhi`
+Snapshot ID: `MTY0MDI4MDUwNCwwMDAwMDAwMGMxNDE3YmQ0NGYyODk0MzA2ODk2MDhmNDJiYjg5ZTdj`

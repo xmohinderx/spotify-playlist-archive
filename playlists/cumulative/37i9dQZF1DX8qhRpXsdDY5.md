@@ -4,7 +4,7 @@
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: Luis Miguel
 
-123 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
+124 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2021-12-17 |  |
 | [White Christmas](https://open.spotify.com/track/6zHDSfn8RvgFY4fXuDGQTY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:38 | 2021-12-17 |  |
 | [Winter Wonderland \(Llegó la Navidad\) \- Deluxe Edition](https://open.spotify.com/track/4U5SUsTHpugGGbzDOJVVjb) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Navidad \(Deluxe Edition\)](https://open.spotify.com/album/6EJVhxPPu1fcs3s4aEmRms) | 2:19 | 2021-12-17 |  |
-| [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2021-12-17 |  |
+| [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2021-12-17 | 2022-10-14 |
+| [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 | 2021-12-17 |  |
 | [Ya es Navidad](https://open.spotify.com/track/0SAPlU0dDVr5FytQtRe5tc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/5zJg4BFzZNAoPfYcAqaLgx) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Ya es Navidad](https://open.spotify.com/track/2CZb2AfUdM9hhDyioxymTL) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 3:32 | 2021-12-17 |  |
 | [Ya Estamos en Navidad](https://open.spotify.com/track/2qTVcx30LDkAxUdOholrhT) | [Adexe & Nau](https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec) | [Ya Estamos en Navidad](https://open.spotify.com/album/46NVZWp4fXV8PCxbbWEMVH) | 3:10 | 2021-12-17 | 2022-07-29 |

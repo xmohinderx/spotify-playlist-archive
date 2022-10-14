@@ -1230,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0634\u0645\u0639\u0646\u0649 \u0627\u0646\u0627",
+        "url": "https://open.spotify.com/album/5dcH8fd9HOyQtT4xMDIvdA"
+      },
+      "artists": [
+        {
+          "name": "Wael Amer",
+          "url": "https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168254,
+      "name": "\u0627\u0634\u0645\u0639\u0646\u0649 \u0627\u0646\u0627",
+      "url": "https://open.spotify.com/track/4WKQOHnoexpv5eqJb2kGLR"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0633\u0631",
         "url": "https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW"
       },

@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 144000,
       "name": "Ache",
       "url": "https://open.spotify.com/track/4dd7mReOYiKAYjAEkNUTLD"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 146000,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5VMPixSvGFod1dZGHXG8XI"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 137556,
       "name": "Echoes In The Wind",
       "url": "https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS"
@@ -2943,7 +2943,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 190483,
       "name": "from the hills",
       "url": "https://open.spotify.com/track/1xPmKqrO1cjC34XQY6oV2Z"
@@ -4441,7 +4441,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179197,
       "name": "Late",
       "url": "https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx"
@@ -4571,6 +4571,24 @@
       "duration_ms": 133655,
       "name": "Les d\u00e9buts",
       "url": "https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e"
+    },
+    {
+      "album": {
+        "name": "Let the water in",
+        "url": "https://open.spotify.com/album/3YrzV39ZBwz7ywJk8beA7O"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173894,
+      "name": "Let the water in",
+      "url": "https://open.spotify.com/track/6sSjhXN1PhbfpD5u6V01WS"
     },
     {
       "album": {
@@ -4931,7 +4949,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX"
@@ -5763,10 +5781,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 143793,
       "name": "Once More",
       "url": "https://open.spotify.com/track/6fE1QsCn1UPxiXgOPvqKo0"
+    },
+    {
+      "album": {
+        "name": "Open Sail",
+        "url": "https://open.spotify.com/album/56DDWl85qAeO3r0FhsrYtq"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128608,
+      "name": "Open Sail",
+      "url": "https://open.spotify.com/track/5fOv8ynuVRniCFLQ48grdI"
     },
     {
       "album": {
@@ -6159,7 +6195,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 144576,
       "name": "Pour toujours",
       "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
@@ -7192,6 +7228,24 @@
     },
     {
       "album": {
+        "name": "Silent Bath",
+        "url": "https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv"
+      },
+      "artists": [
+        {
+          "name": "Juno Celeste",
+          "url": "https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155652,
+      "name": "Silent Bath",
+      "url": "https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6"
+    },
+    {
+      "album": {
         "name": "Silent joy",
         "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
       },
@@ -7934,6 +7988,24 @@
     },
     {
       "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/1xNjK58GyNcFMOyxJmOsZm"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/7JZrbwMQNDL0s1UeDoEDwR"
+    },
+    {
+      "album": {
         "name": "Testimony (EP)",
         "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
       },
@@ -8305,7 +8377,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 127582,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2"
@@ -8381,6 +8453,24 @@
       "duration_ms": 150951,
       "name": "Tra Di Noi",
       "url": "https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL"
+    },
+    {
+      "album": {
+        "name": "Tresillo",
+        "url": "https://open.spotify.com/album/7s3khjxdZY85Oxc2NlM0FL"
+      },
+      "artists": [
+        {
+          "name": "Nova Olsen",
+          "url": "https://open.spotify.com/artist/5DcRrjwhi3ujuxsTTZoF3f"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131812,
+      "name": "Tresillo",
+      "url": "https://open.spotify.com/track/0jen5uU56ghIk8EEDAnllp"
     },
     {
       "album": {
@@ -8690,6 +8780,24 @@
     },
     {
       "album": {
+        "name": "Vardo",
+        "url": "https://open.spotify.com/album/38TZDlWd5JHe6p75JyC035"
+      },
+      "artists": [
+        {
+          "name": "Ama Hemmah",
+          "url": "https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148941,
+      "name": "Vardo",
+      "url": "https://open.spotify.com/track/0pc9BoEkAuNoAcHyQcZ28E"
+    },
+    {
+      "album": {
         "name": "Vc\u030ceraj",
         "url": "https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9"
       },
@@ -8773,7 +8881,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 138717,
       "name": "Views Of Nature",
       "url": "https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi"
@@ -9155,7 +9263,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 125347,
       "name": "Who I Was",
       "url": "https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me"
@@ -9299,7 +9407,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 137000,
       "name": "With you",
       "url": "https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t"
@@ -9317,7 +9425,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 156374,
       "name": "Written in Stone",
       "url": "https://open.spotify.com/track/17My9MgcVSH9ABRiXtiZSv"
@@ -9411,6 +9519,24 @@
       "duration_ms": 123250,
       "name": "Zadar",
       "url": "https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O"
+    },
+    {
+      "album": {
+        "name": "Za\u0161to",
+        "url": "https://open.spotify.com/album/6ruV80tj4ul5kL8hbjYZI0"
+      },
+      "artists": [
+        {
+          "name": "Suzana Tomi\u0107",
+          "url": "https://open.spotify.com/artist/5MhlqMxEF4q8fUcxDLnPZL"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139803,
+      "name": "Za\u0161to",
+      "url": "https://open.spotify.com/track/7eiM2QUgzptSwtOAno0kVW"
     },
     {
       "album": {

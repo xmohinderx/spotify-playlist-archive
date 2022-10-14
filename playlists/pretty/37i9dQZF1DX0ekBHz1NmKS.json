@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 117685,
+  "num_followers": 117699,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMGVmYWIxMGNjYTFjNWU4MjZjZmZhNTFkOWFjNzFjMTgw",
+  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMDAzNzhmMGQzZTJjZGJjZjVlMTk2NzIwNmYyNWM4YWJh",
   "tracks": [
     {
       "added_at": "2022-10-06 22:00:00",
@@ -263,22 +263,18 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "V\u00e4lkommen \u00c5ter",
-        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
+        "name": "AREA 36",
+        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
       },
       "artists": [
         {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        },
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 175714,
-      "name": "V\u00e4lkommen \u00c5ter",
-      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
+      "duration_ms": 129985,
+      "name": "Samma gamla vanliga",
+      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -299,18 +295,22 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "AREA 36",
-        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
+        "name": "V\u00e4lkommen \u00c5ter",
+        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
       },
       "artists": [
         {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        },
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
         }
       ],
-      "duration_ms": 129985,
-      "name": "Samma gamla vanliga",
-      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
+      "duration_ms": 175714,
+      "name": "V\u00e4lkommen \u00c5ter",
+      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Karlavagnen",
         "url": "https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 190423,
       "name": "Karlavagnen",
       "url": "https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
-        "url": "https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188037,
-      "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
-      "url": "https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Till slutet av augusti (Live fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 250635,
       "name": "Till slutet av augusti - Live fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
+        "url": "https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 188037,
+      "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
+      "url": "https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "Musik Non Stop - Spotify Singles",
+        "url": "https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Musik Non Stop - Spotify Singles",
+      "url": "https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "Isabelle",
         "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Musik Non Stop - Spotify Singles",
-        "url": "https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Musik Non Stop - Spotify Singles",
-      "url": "https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Svanes\u00e5ng",
-        "url": "https://open.spotify.com/album/6lV5CFB3QiE3voHW1oO6ig"
-      },
-      "artists": [
-        {
-          "name": "Mares",
-          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
-        }
-      ],
-      "duration_ms": 232109,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 203039,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Svanes\u00e5ng",
+        "url": "https://open.spotify.com/album/6lV5CFB3QiE3voHW1oO6ig"
+      },
+      "artists": [
+        {
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+        }
+      ],
+      "duration_ms": 232109,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Got To Rise Up",
-        "url": "https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95"
-      },
-      "artists": [
-        {
-          "name": "Tusse",
-          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Got to Rise Up",
-      "url": "https://open.spotify.com/track/5aToZdZnp4n0wb4UXZWXsy"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "\u00c4lskling EP",
         "url": "https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 176640,
       "name": "Aldrig mer tillbaka",
       "url": "https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Got To Rise Up",
+        "url": "https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95"
+      },
+      "artists": [
+        {
+          "name": "Tusse",
+          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Got to Rise Up",
+      "url": "https://open.spotify.com/track/5aToZdZnp4n0wb4UXZWXsy"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Aldrig s\u00e4ga aldrig",
-        "url": "https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 190454,
-      "name": "Aldrig s\u00e4ga aldrig",
-      "url": "https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Djur och m\u00e4nniska",
         "url": "https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd"
       },
@@ -1367,42 +1351,6 @@
       "duration_ms": 183480,
       "name": "Om det \u00e4nd\u00e5 r\u00e4ckte att \u00e5ngra sig",
       "url": "https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Feels Like A Dream",
-        "url": "https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 172226,
-      "name": "Feels Like A Dream",
-      "url": "https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Tar det som det kommer",
-        "url": "https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU"
-      },
-      "artists": [
-        {
-          "name": "HON",
-          "url": "https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr"
-        }
-      ],
-      "duration_ms": 207142,
-      "name": "Tar det som det kommer",
-      "url": "https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -1427,6 +1375,58 @@
       "duration_ms": 283626,
       "name": "Landet i fj\u00e4rran",
       "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Feels Like A Dream",
+        "url": "https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 172226,
+      "name": "Feels Like A Dream",
+      "url": "https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Aldrig s\u00e4ga aldrig",
+        "url": "https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 190454,
+      "name": "Aldrig s\u00e4ga aldrig",
+      "url": "https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Tar det som det kommer",
+        "url": "https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU"
+      },
+      "artists": [
+        {
+          "name": "HON",
+          "url": "https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr"
+        }
+      ],
+      "duration_ms": 207142,
+      "name": "Tar det som det kommer",
+      "url": "https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
-        "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 179268,
-      "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
-      "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Too Late for Edelweiss",
         "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 247461,
       "name": "Tears Are In Your Eyes",
       "url": "https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
+        "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 179268,
+      "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
+      "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Ordning & Reda",
-        "url": "https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB"
-      },
-      "artists": [
-        {
-          "name": "STOR",
-          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "Ordning & Reda",
-      "url": "https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "EYEYE",
         "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 296960,
       "name": "HAPPY HURTS",
       "url": "https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Ordning & Reda",
+        "url": "https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Ordning & Reda",
+      "url": "https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "St\u00f6rre",
-        "url": "https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 183088,
-      "name": "St\u00f6rre",
-      "url": "https://open.spotify.com/track/00FlGPGBmC8kjtzBE0Yb1M"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 168750,
       "name": "Jag Lovar",
       "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Besvikelsens melodi",
+        "url": "https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        }
+      ],
+      "duration_ms": 161231,
+      "name": "Besvikelsens melodi",
+      "url": "https://open.spotify.com/track/2vMkLWQPmHXDy9vBD06KuP"
     }
   ],
   "unique_name": "Made in Sweden",

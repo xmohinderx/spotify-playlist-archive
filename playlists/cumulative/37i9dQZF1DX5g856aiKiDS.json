@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "LUV SIGN",
+        "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Got U",
+      "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
+    },
+    {
+      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 169599,
       "name": "how can i do (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"

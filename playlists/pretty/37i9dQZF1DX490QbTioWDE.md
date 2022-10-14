@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,534 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,762 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 25 | [Dejame Estar En Su Lugar](https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dejame Estar En Su Lugar](https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT) | 3:14 |
 | 26 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 |
 | 27 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 |
-| 28 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
+| 28 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
 | 29 | [Ex de Verdad](https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Ex de Verdad](https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB) | 2:58 |
-| 30 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
+| 30 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 31 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
 | 32 | [Que Bonito](https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/3LPgoY2iN8kCmKhXp16NuN) | 3:58 |
 | 33 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 97 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 |
 | 98 | [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 |
 | 99 | [Los Infieles](https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pleno](https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr) | 3:29 |
-| 100 | [Dónde](https://open.spotify.com/track/695KiRLxI1e49JKP5WCh22) | [Negro Videla](https://open.spotify.com/artist/5BlpN6p3oOtHgvTNwsAVpJ) | [Vigencia](https://open.spotify.com/album/1Qjyr4cWyDWLStIviRmhXw) | 3:48 |
+| 100 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
 
-Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMGJmNjUyMWZjN2RjYmViY2E4MDM2ZDY1MTRmNDUxMWIw`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDU0YmJmMDNiMTE0MDRkMjUxM2Q0ZDBlMDE1MWRmOTE2`

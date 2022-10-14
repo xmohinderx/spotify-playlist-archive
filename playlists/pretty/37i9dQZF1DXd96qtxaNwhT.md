@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,096 likes - 86 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,095 likes - 86 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 73 | [Sentimental](https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/3hIHz8gFHs3P1TTOE6WhAV) | 3:11 |
 | 74 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 |
 | 75 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 |
-| 76 | [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 |
+| 76 | [Movie](https://open.spotify.com/track/61iHQQn1NT0nqvqLdO5jjY) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:07 |
 | 77 | [Darling](https://open.spotify.com/track/39nc7C7C7iIJtVAlNznst7) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:02 |
 | 78 | [Panic at the Party](https://open.spotify.com/track/24vkQwXidlMB5SEoZEU2pi) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/4b7o70zLLuzU6s304X3R2e) | 3:27 |
 | 79 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 85 | [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 |
 | 86 | [Lose Myself](https://open.spotify.com/track/53luLYwmUbed7o5GyaapIo) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Lose Myself](https://open.spotify.com/album/6xebwTs10OktQp1jCuNpQ8) | 3:19 |
 
-Snapshot ID: `MTY2NDM0NzY3MiwwMDAwMDAwMDhkNDJhNzk4MGIyYTI4OTU2YTI4NTk4YjA3YmE4Njhj`
+Snapshot ID: `MTY2NDM0NzY3MiwwMDAwMDAwMDA5NWJkMDk2ZGU1OWJmNDcxN2EyYTcxMzliOTU2YWM0`

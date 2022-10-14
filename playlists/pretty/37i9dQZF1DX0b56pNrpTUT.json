@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 287,
+  "num_followers": 311,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGNiZTFjODIxNjVjMWJjODdhZWE2MGQ3YjVhZjI3ZDRh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDFlMTE2MDFjMGI0ZWNlMzI0YTdjODg2ODhjYTVmNDEz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -723,6 +723,38 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Out the Way",
+        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out the Way",
+      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Serial",
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Rocks (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
       },
@@ -771,38 +803,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Rocks (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
-      },
-      "artists": [
-        {
-          "name": "Sharna Bass",
-          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Buss A 9",
-      "url": "https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Serial",
-        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 227535,
-      "name": "Serial",
-      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Out the Way",
-        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
+        "name": "Rocks (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
       },
       "artists": [
         {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
         }
       ],
-      "duration_ms": 155414,
-      "name": "Out the Way",
-      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
+      "duration_ms": 200800,
+      "name": "Buss A 9",
+      "url": "https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX"
     }
   ],
   "unique_name": "Eve Fairley-Chickwe's Taste ",

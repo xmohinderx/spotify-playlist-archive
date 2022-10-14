@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-440 songs - 1 day 2 hr 43 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+441 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Inspiration Information](https://open.spotify.com/track/6qH6xP8tzxvZlCcmHit4AL) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [INSPIRATION INFORMATION](https://open.spotify.com/album/5EvsfavFbWpzcg3VNLQEOF) | 4:12 | 2022-03-30 | 2022-05-07 |
 | [Intergalactic Love Song](https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK) | [The Diddys](https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr), [Paige Douglas](https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt) | [Agony and Extasy](https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2) | 4:38 | 2022-01-07 | 2022-04-21 |
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2022-03-30 |  |
-| [It Runs Through Me](https://open.spotify.com/track/0p92TJPcRHCbcSk3wCwWBz) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [It Runs Through Me](https://open.spotify.com/album/5xwjUoVyZTxDN0P9D2GXFd) | 4:21 | 2021-12-16 |  |
+| [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-09-26 |  |
+| [It Runs Through Me](https://open.spotify.com/track/0p92TJPcRHCbcSk3wCwWBz) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [It Runs Through Me](https://open.spotify.com/album/5xwjUoVyZTxDN0P9D2GXFd) | 4:21 | 2021-12-16 | 2022-10-14 |
 | [It Takes a Lot](https://open.spotify.com/track/13AYQK0HEtYCMGo0yKebeD) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [It Takes a Lot](https://open.spotify.com/album/4lGwQlZzNfkdP1A3JUbENH) | 3:58 | 2021-12-16 | 2022-04-21 |
 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 | 2022-04-18 |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |

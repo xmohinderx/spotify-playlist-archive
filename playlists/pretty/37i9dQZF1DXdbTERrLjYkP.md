@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,763 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,830 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 36 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 |
 | 37 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 |
 | 38 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 |
-| 39 | [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 |
+| 39 | [can't breathe](https://open.spotify.com/track/2bobQfCbPqFBOgGRF4XU0S) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy) | 2:43 |
 | 40 | [Bedroom Floor](https://open.spotify.com/track/2GjPJVgqtF8uSyoedh5Inf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/1UdFJz9ptrLSmsTI87B2Ym) | 4:09 |
 | 41 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 |
 | 42 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 45 | [Thinking Of Her](https://open.spotify.com/track/4Xfi3MOi2UMx0vJAePqr2A) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Thinking Of Her](https://open.spotify.com/album/7FbH0Gs0LAx17e3fA7T3Bo) | 3:27 |
 | 46 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 |
 | 47 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
-| 48 | [Love Me Back](https://open.spotify.com/track/6gbk2Uxer4YJ1uJ9TKt9EI) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3FSnxrJFGEaDSo0pddtkbh) | 2:28 |
+| 48 | [Love Me Back](https://open.spotify.com/track/6p95Fy7WYNpxeAaId7WLGk) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3CIxFuXTFzzoFk6BRqbcs5) | 2:28 |
 | 49 | [Ordinary Love](https://open.spotify.com/track/0cFQYjYEgpoY0iP0vnOOoI) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/56fSzLOj5xwc4nNLGUl51S) | 3:15 |
 | 50 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 51 | [used to love girls](https://open.spotify.com/track/6g8H6zcEjkQKoKrorN92h7) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [used to love girls](https://open.spotify.com/album/1aCojGKRcnIPz5XvokeKkX) | 3:10 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 |
 | 85 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDJmNmVlMThlYzBjM2RiMDk3ZjBmMzQ2OGJjNjM1ZTdl`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGEwM2Q0ZmE3NGZjMjg0NThiMTNhYTBkNzQ2NTIyZDc2`

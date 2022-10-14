@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Smino, J\. Cole
 
-732 songs - 1 day 19 hr 12 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+733 songs - 1 day 19 hr 15 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2020-09-18 | 2020-10-16 |
 | [Deeper Dark](https://open.spotify.com/track/3cvKUJL7vSRgV5cWh7czXW) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Deeper Dark](https://open.spotify.com/album/6W9FWE4TcPOa3cdIk6F7ny) | 3:09 | 2020-02-19 | 2020-02-20 |
 | [delicate](https://open.spotify.com/track/3u5YVrRR2usgmdNz2eBwFV) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [souvenir](https://open.spotify.com/album/7A0N0maEJ8ZwVAPKzYS416) | 3:16 | 2020-06-30 | 2022-07-29 |
+| [delicate](https://open.spotify.com/track/4rHSTlvxBGn8clY6aEaHeq) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [souvenir](https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq) | 3:16 | 2022-10-07 |  |
 | [Desert Flower](https://open.spotify.com/track/4fT4kJxP3QfmktqB6hxDhE) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:54 | 2020-12-11 | 2022-04-21 |
 | [Diamond Dreams](https://open.spotify.com/track/6qhuqciifFd2bZvivsypsk) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0), [Kadeshia](https://open.spotify.com/artist/0IpGKmzQ2Gl1wj5XVFXoh5) | [Pompette](https://open.spotify.com/album/2pDqdWecnduil8PsR6UZEz) | 3:31 | 2020-03-04 | 2020-05-01 |
 | [Die for You \(feat\. Serious Klein\)](https://open.spotify.com/track/4ZwWHEhdxsVOsVaF4TMrMD) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D), [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Die for You \(feat\. Serious Klein\)](https://open.spotify.com/album/2t91FExxOUBMyo13cQkiNy) | 4:14 | 2019-09-29\* | 2019-11-22 |
@@ -231,7 +232,7 @@
 | [Filatelie](https://open.spotify.com/track/5hJt4v9AY8zxxETgtMorIl) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 3](https://open.spotify.com/album/2LhtNwawbvaB8CTvnRcprx) | 2:38 | 2022-09-09 | 2022-09-12 |
 | [Filatelie](https://open.spotify.com/track/5kv3o8QvGHhjxh9STzsclu) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 3](https://open.spotify.com/album/0MQTjFKFbTqgdheKbrpuSw) | 2:38 | 2021-04-18 | 2022-07-24 |
 | [Fingers Crossed](https://open.spotify.com/track/6I5tLDKIqdv3qf1t4k60W8) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [Fingers Crossed](https://open.spotify.com/album/2ksiY6O0XyfxR5iO5yQWtm) | 3:38 | 2020-06-29 | 2021-10-16 |
-| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 |  |
+| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 | 2022-10-14 |
 | [Fix Yo' Crown](https://open.spotify.com/track/6kRNTMM1UZ3FvqC3BSiErH) | [Skypp](https://open.spotify.com/artist/2BqhkoSEUa4o73MvVMTdKM), [Rhymefest](https://open.spotify.com/artist/1SUFqa4aXxvMrGdOnqiMmR), [Allison Victoria](https://open.spotify.com/artist/7nu5tPOxq6fjVUxQOUQkZx), [Jared Thompson](https://open.spotify.com/artist/3DJcjVMvtQpoeqgWvc1MQK) | [Fix Yo' Crown](https://open.spotify.com/album/6ZLWoTvTpWiNE7XG2y5svx) | 4:19 | 2021-04-19 | 2021-05-10 |
 | [Flashback](https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j) | 2:33 | 2019-10-02 | 2019-11-01 |
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2019-11-20 | 2020-04-24 |

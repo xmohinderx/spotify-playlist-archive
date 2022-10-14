@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
+  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
   "name": "Rock Colombia",
   "published_playlist_ids": [
     "11Mc0pmsFxafTtRY7OU2qP"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 276986,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 157621,
       "name": "LA KAGASTE",
       "url": "https://open.spotify.com/track/397xwirGVub2jfXfHlJnha"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179239,
       "name": "Lejos De Aqui",
       "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
@@ -2570,6 +2570,24 @@
     },
     {
       "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
+    },
+    {
+      "album": {
         "name": "Nocturna (Premium)",
         "url": "https://open.spotify.com/album/1IjpvrtKhXRv4d50occqpH"
       },
@@ -2765,7 +2783,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 211746,
       "name": "Sangre de Pr\u00f3fugo",
       "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
@@ -3277,7 +3295,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "T\u00fanel",
       "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"

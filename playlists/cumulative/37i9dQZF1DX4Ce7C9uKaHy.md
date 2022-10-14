@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-123 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
+124 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 | 2020-05-06 |  |
 | [Transcend](https://open.spotify.com/track/0rPj7S7wJ7IF4PiUXlRRfY) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Perpetual](https://open.spotify.com/album/22cGIyIDKV7ZcOMuiBqf8R) | 2:01 | 2020-05-06 |  |
 | [Transcend](https://open.spotify.com/track/3jJCljhwWE6w5lOUWAxI7c) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Perpetual](https://open.spotify.com/album/2amoU2ZANcmAiZW6YMUORZ) | 2:01 | 2020-05-06 | 2022-07-29 |
-| [Tripwire](https://open.spotify.com/track/4n8IYtgioSqtdcOvFsz7hI) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Tripwire](https://open.spotify.com/album/3W0Gm5LJOJUktZaaJYToAr) | 2:48 | 2020-05-06 |  |
+| [Tripwire](https://open.spotify.com/track/4n8IYtgioSqtdcOvFsz7hI) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Tripwire](https://open.spotify.com/album/3W0Gm5LJOJUktZaaJYToAr) | 2:48 | 2020-05-06 | 2022-10-14 |
+| [Tripwire](https://open.spotify.com/track/6T0qIYWEBLSik4UL4zrsQv) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Habitual Haze](https://open.spotify.com/album/5lJUqo5mEcYgcCnbADkfvO) | 2:48 | 2020-05-06 |  |
 | [u said we were meant to be](https://open.spotify.com/track/6CwlhVokKRt6QwtiBCSL2x) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi) | [u said we were meant to be](https://open.spotify.com/album/3AgsfwB7xhnhyhalAifcNg) | 1:35 | 2020-05-06 | 2022-07-29 |
 | [u said we were meant to be](https://open.spotify.com/track/5VXZcOrPWCSVeCAqiYSBOK) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi), [IWL](https://open.spotify.com/artist/0WCI8FhrRg1eGElGlN6vD4) | [u said we were meant to be](https://open.spotify.com/album/38RGBr2aAetZq0iw5dVvrq) | 1:35 | 2020-05-06 |  |
 | [Vondelpark](https://open.spotify.com/track/2eZ1y3eY02Twb00rYOsUhr) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/6DUWrh2rpN32GmWYv1qXT4) | 2:00 | 2020-05-06 |  |

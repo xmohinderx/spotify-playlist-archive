@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-164 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+166 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,9 +28,11 @@
 | [BLACK MAGIC](https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:05 | 2022-09-02 |  |
 | [Blessed \- Virgil Abloh Future\-Jazz Remix](https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Blessed / Cleopatra Remixes](https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg) | 6:38 | 2022-05-06 | 2022-07-28 |
 | [Boylife in EU](https://open.spotify.com/track/1WA5dWFBwokGf1dIRLYwVD) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 3:36 | 2022-05-06 | 2022-10-13 |
+| [Boylife in EU](https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A) | 3:36 | 2022-09-27 |  |
 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 | 2022-05-06 |  |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2022-05-06 |  |
-| [Catwalk](https://open.spotify.com/track/6mhD9IOxgWMb1E1Q0MBwrn) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Catwalk](https://open.spotify.com/album/2XVJ6DdHlyxnwylsPHPOdb) | 3:03 | 2022-05-06 |  |
+| [Catwalk](https://open.spotify.com/track/1v2VVRjWAZRHso5etkftcI) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt\. 2](https://open.spotify.com/album/5fxVy50kYGajDUpAksWhRz) | 3:03 | 2022-09-27 |  |
+| [Catwalk](https://open.spotify.com/track/6mhD9IOxgWMb1E1Q0MBwrn) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Catwalk](https://open.spotify.com/album/2XVJ6DdHlyxnwylsPHPOdb) | 3:03 | 2022-05-06 | 2022-10-14 |
 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 | 2022-05-06 |  |
 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 | 2022-05-06 | 2022-07-29 |
 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 | 2022-05-06 |  |
@@ -41,7 +43,7 @@
 | [Crispy Bacon](https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [30](https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn) | 5:52 | 2022-06-14 |  |
 | [Dance Tonight Revolution Tomorrow](https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb) | 7:32 | 2022-05-06 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-05-06 |  |
-| [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K) | [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr) | 3:18 | 2022-05-06 |  |
+| [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K) | [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr) | 3:18 | 2022-05-06 | 2022-10-14 |
 | [District 8](https://open.spotify.com/track/3oXiddNGiWhpmlQCWkJoJ9) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS02](https://open.spotify.com/album/1hWdAnaS9tsIcwYM3hC48Y) | 5:01 | 2022-05-06 |  |
 | [Domestic Tasks](https://open.spotify.com/track/2GNljwVh9HSEIAReooDJnL) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Domestic Tasks](https://open.spotify.com/album/0zsC5dskHff7Zk8Gb5Anzh) | 5:25 | 2022-05-06 | 2022-07-29 |
 | [E](https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 4:12 | 2022-05-06 | 2022-07-29 |

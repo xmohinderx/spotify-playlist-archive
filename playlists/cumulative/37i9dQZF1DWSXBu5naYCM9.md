@@ -4,7 +4,7 @@
 
 > Timeless melodies from your favourite artists, both old and new.
 
-124 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/5WRsL9vjIxcRWm9K2mzwBF)
+125 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/5WRsL9vjIxcRWm9K2mzwBF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Broke Boy](https://open.spotify.com/track/3838GU9hh6VrvDi1f8jaU9) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Broke Boy](https://open.spotify.com/album/41JJ9tFO5YyZycfEUhzv0F) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [Broke Boy](https://open.spotify.com/track/7IFFuUYZTa5CUNz099dUqB) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Broke Boy \(Stripped\)](https://open.spotify.com/album/2ucYRTvbEdi5ThvEZ4kUBe) | 2:53 | 2022-04-05 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-12-17 |  |
-| [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-09-23 |  |
+| [Candyfloss](https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 2:48 | 2022-10-11 |  |
+| [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-09-23 | 2022-10-14 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-11 |  |
 | [Chew On My Heart](https://open.spotify.com/track/6t7089pe4VklogK683LdPM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart](https://open.spotify.com/album/35CBeD16aEGo0xnm5ov6pM) | 3:15 | 2021-12-17 | 2022-01-19 |
 | [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 | 2021-12-17 | 2022-09-24 |

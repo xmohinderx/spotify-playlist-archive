@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 119592,
+  "num_followers": 119692,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMDg2ODAwOTliNzc4MzJlODE1OTkwOTQ0YjU3Y2NmMzhk",
+  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMDE1MjMxODBjNTMzMmJmZDdmZGZjNzgyYmQzMTRkMjcz",
   "tracks": [
     {
       "added_at": "2022-05-30 14:46:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Tinderbox",
         "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 231573,
       "name": "Cities In Dust",
       "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
     },
     {
       "added_at": "2021-09-28 03:14:02",

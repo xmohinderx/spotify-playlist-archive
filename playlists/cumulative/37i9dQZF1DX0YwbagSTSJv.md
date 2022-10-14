@@ -4,12 +4,13 @@
 
 > Let it all go.
 
-131 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+132 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Am Reflective](https://open.spotify.com/track/0IjLq8vY7kzTDuqoI8nz9L) | [Sonnu Prufondu](https://open.spotify.com/artist/6JTFXMxmPUAPdynYVBQvWi) | [1 Am Reflective](https://open.spotify.com/album/2Fk7QuGSaeaCDmVMWphuNl) | 3:03 | 2021-12-23 |  |
-| [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-23 |  |
+| [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-23 | 2022-10-14 |
+| [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 | 2022-10-07 |  |
 | [Abditory](https://open.spotify.com/track/0sHAK04QYBqPdPL5BUP4aS) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Abditory](https://open.spotify.com/album/1g8cPZhYVIx3srH6kEduj4) | 2:27 | 2021-12-23 |  |
 | [Abrazo Mirando](https://open.spotify.com/track/4mwBTAuzjtXNsjfUDqe7fn) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Nothing Is Objective](https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu) | 5:14 | 2021-12-23 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-19 |  |

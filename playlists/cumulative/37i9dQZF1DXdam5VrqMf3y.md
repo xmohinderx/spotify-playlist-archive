@@ -4,7 +4,7 @@
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: jxdn
 
-89 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6ra7ildIw0y4orWkx6YTYg)
+90 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/6ra7ildIw0y4orWkx6YTYg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 | 2021-12-15 |  |
 | [Santa Claus Is Comin' To Town \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles \- Christmas](https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6) | 2:46 | 2021-12-15 |  |
 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 | 2021-12-15 |  |
-| [Silent Night \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ncaQoSxuTsEQbkDRc9sIs) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Silent Night \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/0rEnMdmj2xSV3E3G2bt0Rt) | 4:23 | 2021-12-15 |  |
+| [Silent Night \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ncaQoSxuTsEQbkDRc9sIs) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Silent Night \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/0rEnMdmj2xSV3E3G2bt0Rt) | 4:23 | 2021-12-15 | 2022-10-14 |
+| [Silent Night \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6VfL1VmTLZDVtTbxWMvmtj) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Silent Night \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/3HLtBaCRyg6J3Axd585iWS) | 4:23 | 2021-12-15 |  |
 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \(Spotify Singles\)](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 | 2021-12-15 |  |
 | [Sleigh Ride](https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 3:04 | 2021-12-15 |  |
 | [The Christmas Song \- Spotify Singles \- Holiday, Recorded at Spotify Studios NYC](https://open.spotify.com/track/7beYBowpIMDjpdfXi2GH4S) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Christmas Song \(Spotify Singles \- Holiday, Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/0aVdIL0fUe5iaGQcvto0Sy) | 2:56 | 2021-12-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=NLue8GotQvWr87ZS6141aA\">Drega</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9?si=P1VKomJwQVa0K2hcYMs3ng\">Vanco</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 368217,
       "name": "A Prayer (Re - Rub)",
       "url": "https://open.spotify.com/track/4PzgMT48qqTnWdrxtaHX9b"
@@ -1268,6 +1268,24 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/0bREzrhznz4oWTorxsbcHL"
+      },
+      "artists": [
+        {
+          "name": "Mark DVB",
+          "url": "https://open.spotify.com/artist/0nmXD5cuTDfvVHceT0bXb6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138811,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3aKzcToMfpswBNceqkz7Qx"
+    },
+    {
+      "album": {
         "name": "BackGround (Main HT)",
         "url": "https://open.spotify.com/album/0JxIpnjFXyfIV7igPXdW6a"
       },
@@ -1944,6 +1962,28 @@
     },
     {
       "album": {
+        "name": "Breaking Away",
+        "url": "https://open.spotify.com/album/2ZQHdrmd41J62aBd8Unbsi"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "Bobbi Fallon",
+          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244262,
+      "name": "Breaking Away",
+      "url": "https://open.spotify.com/track/2XsrImizq3YjPuMyTVY6rH"
+    },
+    {
+      "album": {
         "name": "Breaking Hearts feat. Amos",
         "url": "https://open.spotify.com/album/42Qi6nkOLmcUoMK3tJI7Ah"
       },
@@ -2231,7 +2271,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 191219,
       "name": "Can't Wait (feat. Aubrey Qwana)",
       "url": "https://open.spotify.com/track/4DLuYtFnbYWIIH6piTnu74"
@@ -2297,6 +2337,24 @@
       "duration_ms": 296129,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/7FAufXWcuqAYs9Uw5ZpgLg"
+    },
+    {
+      "album": {
+        "name": "Cha Cha",
+        "url": "https://open.spotify.com/album/5pBkJGXpmw47rVO9E7yL4G"
+      },
+      "artists": [
+        {
+          "name": "Jst Sako",
+          "url": "https://open.spotify.com/artist/7bAt7MYd2N3dRMrXVMvOug"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256663,
+      "name": "Cha Cha",
+      "url": "https://open.spotify.com/track/0XMWqGPQnf58vRTPl41VFa"
     },
     {
       "album": {
@@ -2369,6 +2427,32 @@
       "duration_ms": 392067,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/5pjdf866qmNg2RMMOC1np6"
+      },
+      "artists": [
+        {
+          "name": "Iraj\u00e1",
+          "url": "https://open.spotify.com/artist/4FMTGkOjozsv1N6aMiR6nw"
+        },
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR"
+        },
+        {
+          "name": "Luc Rushmere",
+          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6PCkmEG2qnLbewSW1cN1rD"
     },
     {
       "album": {
@@ -3286,6 +3370,28 @@
     },
     {
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/5h9vQ3VqmtHGb1rRsXyrlr"
+      },
+      "artists": [
+        {
+          "name": "Yan Solo",
+          "url": "https://open.spotify.com/artist/1Oiea2hzGgw6aH7cATn1zi"
+        },
+        {
+          "name": "Apple Gule",
+          "url": "https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193278,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/0sh6JAgzoiQxz8bqr6ovwp"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/748rrZ0mCvCQ6a1iTOfRKn"
       },
@@ -3491,6 +3597,28 @@
       "duration_ms": 261000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/42JdN5sBkvSd2xAWEecbRB"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3puyriMFd361JmJR7PnaVh"
+      },
+      "artists": [
+        {
+          "name": "ADJUMA",
+          "url": "https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio"
+        },
+        {
+          "name": "Laise Sanches",
+          "url": "https://open.spotify.com/artist/2Me0AHsFcxnAbhQngtK621"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398500,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6K87itLS0K3aUYLVIlxQdX"
     },
     {
       "album": {
@@ -4069,7 +4197,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 152111,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6DYVgqr6amEUyIrVaQmj09"
@@ -5239,7 +5367,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 450437,
       "name": "iVolovolo",
       "url": "https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM"
@@ -5469,7 +5597,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 392000,
       "name": "Keep On Going",
       "url": "https://open.spotify.com/track/7gJqRd0HNJRm6T4Y8h6dP5"
@@ -6734,6 +6862,32 @@
     },
     {
       "album": {
+        "name": "Me",
+        "url": "https://open.spotify.com/album/5hieK7sq53PJBO1TnqknG6"
+      },
+      "artists": [
+        {
+          "name": "Ethiopian Chyld",
+          "url": "https://open.spotify.com/artist/55i7t2UY0RG0Yrj3nJXXt0"
+        },
+        {
+          "name": "Ashes Deep",
+          "url": "https://open.spotify.com/artist/40BTPmGCtL5iMM6jCewVZ9"
+        },
+        {
+          "name": "Angela Gooden",
+          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413793,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/0kFyQUrguYNNQ3qXXiXV3z"
+    },
+    {
+      "album": {
         "name": "Melanin",
         "url": "https://open.spotify.com/album/1oHJYIR1FdKcxBwYMcLWXE"
       },
@@ -7394,6 +7548,32 @@
     },
     {
       "album": {
+        "name": "Never Good Enough (feat. Scarlett)",
+        "url": "https://open.spotify.com/album/30n5m4guLxS5MHAMaCTT2a"
+      },
+      "artists": [
+        {
+          "name": "Colin Crooks",
+          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
+        },
+        {
+          "name": "Sledge",
+          "url": "https://open.spotify.com/artist/0QVVlLSw9zbtD8GcsntS4h"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186983,
+      "name": "Never Good Enough (feat. Scarlett)",
+      "url": "https://open.spotify.com/track/4m1DYlYA9srxNsVHVjE9Zv"
+    },
+    {
+      "album": {
         "name": "Africa Gets Physical, Vol. 4",
         "url": "https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V"
       },
@@ -8000,6 +8180,24 @@
     },
     {
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/64xiKVxVjVC4snJQJD1R8O"
+      },
+      "artists": [
+        {
+          "name": "James Deacon",
+          "url": "https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121111,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5rw4S37VPZkVnenRLi0bLq"
+    },
+    {
+      "album": {
         "name": "Papa God",
         "url": "https://open.spotify.com/album/1iGrMO2AxDruqyvqnSiCCZ"
       },
@@ -8081,6 +8279,32 @@
       "duration_ms": 325502,
       "name": "Pata Pata Saguquka",
       "url": "https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5I726QYyOg9cksEYOxSWBo"
+      },
+      "artists": [
+        {
+          "name": "Cammora",
+          "url": "https://open.spotify.com/artist/7go67dUO3nn247glvhln3a"
+        },
+        {
+          "name": "Gregorio",
+          "url": "https://open.spotify.com/artist/2HscKJPIk9nvJERnbcui9t"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0N2WM0kZIYq5mMa0G6uh2E"
     },
     {
       "album": {
@@ -8777,7 +9001,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 147500,
       "name": "Sand Traveller",
       "url": "https://open.spotify.com/track/0JG10oQ3FOWDWX2C7aukqr"
@@ -9499,7 +9723,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 453314,
       "name": "Siyabonga",
       "url": "https://open.spotify.com/track/7aD1gP83nhNeORZkh1nMqK"
@@ -9995,7 +10219,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179954,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/344rxxwpTcgtNgEH7jp56Y"
@@ -10404,6 +10628,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/14gHbAEkpVCErlMmFMkjR4"
+      },
+      "artists": [
+        {
+          "name": "Xavier Dragner",
+          "url": "https://open.spotify.com/artist/25DLgS5KimLaA06q3NOh1u"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4KbB26sId0vupvYnOvi0nX"
+    },
+    {
+      "album": {
         "name": "The Lost",
         "url": "https://open.spotify.com/album/5CldtmXGSx2IL7SbnTd6t7"
       },
@@ -10587,7 +10829,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 156059,
       "name": "There\u2019s No Escape (feat. Reverse Prime)",
       "url": "https://open.spotify.com/track/2uDxYAwmCpsBSCn1BIALmi"
@@ -10755,7 +10997,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179037,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju"
@@ -11511,7 +11753,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 353000,
       "name": "Vuvuzela",
       "url": "https://open.spotify.com/track/28QivzTXBahunPN2l5c00w"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,278 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,300 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 21 | [D Way You Do Me \(Prod\. Plata\)](https://open.spotify.com/track/0VfPpXQUmi1i6mUOac5VLi) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:50 |
 | 22 | [Horns](https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [XTC \(The Lost Scrolls\)](https://open.spotify.com/album/0PBqzcm8XBZ873Ib5OWGdM) | 2:09 |
 | 23 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 |
-| 24 | [Catastral](https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/6BGSFd5qRboHBAEfF0q1Ig) | 3:13 |
+| 24 | [Catastral](https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Catastral](https://open.spotify.com/album/72bJcpMKicXWaHt322G6as) | 3:13 |
 | 25 | [Head on Fire \- Danny L Harle Remix](https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Head on Fire \(Danny L Harle Remix\)](https://open.spotify.com/album/1jh1ugyuAmyGDQ5MYyAjAI) | 3:05 |
 | 26 | [Six Seven Times](https://open.spotify.com/track/2jknEB3TLUX5vEaLI4gttE) | [Flunk](https://open.spotify.com/artist/1Tz1kM5vFyBpzD22fHW609) | [Morning Star](https://open.spotify.com/album/5CcQRGb2CV6AofHROdyvHg) | 4:38 |
 | 27 | [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 50 | [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 |
 | 51 | [Love Story](https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn) | 5:12 |
 | 52 | [Gotta Let You Go \- Original '95 Club Mix](https://open.spotify.com/track/5hVAk39jFzjiYUPULpKkel) | [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR) | 6:22 |
-| 53 | [Testarossa](https://open.spotify.com/track/4HfyaFz85yjeikeF3l6Y0W) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/0pIFnkzgnoGCpGvT7XQIYW) | 3:56 |
+| 53 | [Testarossa](https://open.spotify.com/track/4NyxjOX2aMNPAmSmrxY9PJ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/7hcXy9jJgel4us2iha33uv) | 3:56 |
 | 54 | [Lo tek massacre](https://open.spotify.com/track/0B0e0FZ8FYGJ6uqUc3lEN7) | [Kim](https://open.spotify.com/artist/0VgI6DYUxqxSQ110X1Na3s) | [Improvisations à la galerie du pop up](https://open.spotify.com/album/5QoU3qy0qdMfoOVGdWEHLR) | 9:24 |
 | 55 | [Silver Surfer \- Original Short Mix](https://open.spotify.com/track/1gP8rVBBao6qibrpqxKFWM) | [Hardy Hard](https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9) | [Silver Surfer](https://open.spotify.com/album/5wAmqHwD5TGM7ETiJnwFPT) | 3:28 |
 | 56 | [Play](https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Play](https://open.spotify.com/album/20sS6wKU6D5dQfps6dGh41) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 79 | [Ice Cold Lady Pimp](https://open.spotify.com/track/3QP2g16UJEk45TT8jdaGHI) | [Slim Guerilla](https://open.spotify.com/artist/1Odn7pOeUdEoOZeuox6nql) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/0gQzibHYxLtoQ4xTRvrY4X) | 1:30 |
 | 80 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 
-Snapshot ID: `MTY2MjM2OTUyMCwwMDAwMDAwMDc1YmI2ODcxZTE2N2NiZDhjMzEzYWU1OGI2MzhmNTY2`
+Snapshot ID: `MTY2MjM2OTUyMCwwMDAwMDAwMGE2Y2ViMDZmODAzZGQzMTAyMWIzYTg4YzhkMjA1ZmY0`

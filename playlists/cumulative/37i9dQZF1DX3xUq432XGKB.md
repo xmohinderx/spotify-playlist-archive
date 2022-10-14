@@ -4,15 +4,16 @@
 
 > The electro revival with Dawn Richard.
 
-41 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+42 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2021-03-16 |  |
 | [Ache](https://open.spotify.com/track/0nNh57CedtpSjca7uhbrtg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EP1](https://open.spotify.com/album/44keDDETPLFK48WCykPKit) | 5:00 | 2021-03-16 |  |
-| [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2021-03-16 |  |
+| [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2021-03-16 |  |
 | [Body Pump \- UNIIQU3 Remix](https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Renaissance \(Remixes\)](https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ) | 3:56 | 2021-03-16 |  |
-| [Booty 3000](https://open.spotify.com/track/1ou1ijurTcoe8lSB23rZxP) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:09 | 2021-03-16 |  |
+| [Booty 3000](https://open.spotify.com/track/1VOspg0lYIjuV6kmIAiFEY) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/73rCTj22iO75ygdt5uoj31) | 2:09 | 2021-03-16 |  |
+| [Booty 3000](https://open.spotify.com/track/1ou1ijurTcoe8lSB23rZxP) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:09 | 2021-03-16 | 2022-10-14 |
 | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/track/7oSrcgoO342j9xQ3wrOvJt) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/album/3JKNKGFJJX5tIX4sHIHLTZ) | 4:05 | 2021-03-16 |  |
 | [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 | 2021-03-16 | 2022-07-29 |
 | [Bussifame](https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 4:33 | 2021-03-16 |  |

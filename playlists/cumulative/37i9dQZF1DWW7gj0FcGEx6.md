@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-182 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+183 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [25 Years](https://open.spotify.com/track/277WR3fUAz1T1QNkede17l) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/2OJB0s2qrMpoKFNGFIunHi) | 2:17 | 2021-12-20 | 2022-07-29 |
 | [A New Era](https://open.spotify.com/track/76xQe9hXJSoGmrZ1ruNsqv) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Downton Abbey: A New Era \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nLWrA6Mke8UMLPCRCZpFO) | 5:22 | 2022-04-29 |  |
 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 |  |
-| [Aelis Arrives \- from the Amazon Original Movie "Catherine Called Birdy"](https://open.spotify.com/track/2YrgBuGgNZNYJZ6aQpXIfY) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Aelis Arrives \(from the Amazon Original Movie "Catherine Called Birdy"\)](https://open.spotify.com/album/3nCRIjQiYn1IzVAE4YZhzc) | 1:55 | 2022-09-30 |  |
+| [Aelis Arrives \- from the Amazon Original Movie "Catherine Called Birdy"](https://open.spotify.com/track/0Go1pDClKbn8J3wW4kEIxL) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Catherine Called Birdy \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13XZ1YxWguloTwHYXjcskB) | 1:55 | 2022-10-07 |  |
+| [Aelis Arrives \- from the Amazon Original Movie "Catherine Called Birdy"](https://open.spotify.com/track/2YrgBuGgNZNYJZ6aQpXIfY) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Aelis Arrives \(from the Amazon Original Movie "Catherine Called Birdy"\)](https://open.spotify.com/album/3nCRIjQiYn1IzVAE4YZhzc) | 1:55 | 2022-09-30 | 2022-10-14 |
 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 | 2022-09-16 |  |
 | [Amsterdam \(Ending\)](https://open.spotify.com/track/739N66ZkmRHrLdiLNA2qe3) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Amsterdam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3buBOPR7JMvIlCvoAmUACa) | 5:25 | 2022-10-07 |  |
 | [Antiphon](https://open.spotify.com/track/7Hhq3Ejf01wyOMjuKRrRR7) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The King \(Original Score from the Netflix Film\)](https://open.spotify.com/album/1JwpzZlvXcne1s9SNXhiEW) | 2:16 | 2021-12-20 | 2022-07-09 |

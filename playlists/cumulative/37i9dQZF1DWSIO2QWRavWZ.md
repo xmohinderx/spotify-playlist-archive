@@ -4,7 +4,7 @@
 
 > For all the beautiful queens! Guest curated by Mary J\. Blige
 
-59 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1tinTdr9pJiClutwPgTlAD)
+60 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/1tinTdr9pJiClutwPgTlAD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 | 2021-11-24 | 2022-02-12 |
 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2021-11-24 | 2022-02-12 |
 | [Whipped Cream](https://open.spotify.com/track/56IszkEOG5lFShWevvEH3R) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 4:48 | 2022-02-11 |  |
-| [Whoa](https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:19 | 2022-02-11 |  |
+| [Whoa](https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:19 | 2022-02-11 | 2022-10-14 |
+| [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 | 2022-02-11 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

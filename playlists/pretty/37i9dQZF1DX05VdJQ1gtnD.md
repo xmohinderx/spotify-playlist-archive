@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,690 likes - 156 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,773 likes - 156 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 80 | [The Bones \- Acoustic Guitar](https://open.spotify.com/track/1t43AwBrCzl87i0L2G58bG) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/7EHVur55Mjkq7HLL1HlxNr) | 3:39 |
 | 81 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Benjamin Fitzpatrick](https://open.spotify.com/artist/3IXaliW54FH8AanaBHlqnW) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 |
 | 82 | [If I Can Make It To The Hill](https://open.spotify.com/track/4CMxXvhCI8kVTsHqdmN2IZ) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [If I Can Make It To The Hill](https://open.spotify.com/album/7Cd8BWAq74gw22EGkK8HIu) | 4:04 |
-| 83 | [Sweet Night](https://open.spotify.com/track/3MqnHTCy6P5OH3Y6XIzeFj) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/0F6QXaOHbcDKl3iqZdrlbv) | 3:31 |
+| 83 | [Sweet Night](https://open.spotify.com/track/0K32rol95QOdpWtg2G7msF) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/58PcVUWjDYJm3ji9ZNiqpP) | 3:31 |
 | 84 | [Another Year](https://open.spotify.com/track/3cpghClYBVWb7SjRZS6xtu) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/5LsS0b99IKvCpkWKvKTZ1d) | 2:07 |
 | 85 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 |
 | 86 | [Crowns](https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Crowns](https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA) | 2:15 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 155 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 |
 | 156 | [Fine](https://open.spotify.com/track/20OtNAS1rEsQFcLaaNZzTj) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Fine](https://open.spotify.com/album/5DoF619iMc4eb6HDfNu7Yt) | 1:52 |
 
-Snapshot ID: `MTY2NTEwMDg2MCwwMDAwMDAwMDBhMThhZTNlYTc3MWI3YmQ2MDJlMTZiOTczMTE1MjBi`
+Snapshot ID: `MTY2NTEwMDg2MCwwMDAwMDAwMGM1ODI1NzNiMTIyZTczY2ExYzQ4NmJhNzIzNjllMTdm`

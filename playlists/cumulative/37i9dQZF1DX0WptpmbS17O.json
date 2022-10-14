@@ -641,10 +641,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 291761,
       "name": "So Long, Honey",
       "url": "https://open.spotify.com/track/11HXGSToW21uxNRl8kKBbu"
+    },
+    {
+      "album": {
+        "name": "Caamp",
+        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291761,
+      "name": "So Long, Honey",
+      "url": "https://open.spotify.com/track/5lgLYRy0KTluByvOQbCucp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. Foto: Priscilla Alc\u00e2ntara",
-  "num_followers": 253832,
+  "num_followers": 253848,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0NDI0MCwwMDAwMDAwMDAwNjA0N2MzMWU1OTBkNjBjMzM4NGM3NjUzMWUzYmJm",
+  "snapshot_id": "MTY2NTE0NDI0MCwwMDAwMDAwMGE2MTljNTU1ZTU1YmIxNmY0YTU0ZTlmMDE0MjAyY2M3",
   "tracks": [
     {
       "added_at": "2022-10-07 12:04:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-10-07 12:04:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
+        "name": "Arcade (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
         }
       ],
-      "duration_ms": 237653,
-      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
+      "duration_ms": 199237,
+      "name": "Arcade - Acoustic Version",
+      "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
     },
     {
       "added_at": "2022-10-07 12:04:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-10-07 12:04:00",
       "album": {
-        "name": "Arcade (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
       },
       "artists": [
         {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 199237,
-      "name": "Arcade - Acoustic Version",
-      "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
+      "duration_ms": 237653,
+      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
     },
     {
       "added_at": "2022-10-07 12:04:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-07 12:04:00",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 252716,
+      "name": "Exist for Love",
+      "url": "https://open.spotify.com/track/09fAL7YwPV3YzVmQDzLY8d"
+    },
+    {
+      "added_at": "2022-10-07 12:04:00",
+      "album": {
         "name": "Acoustic In Nashville - Bootleg No. 2",
         "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 246000,
       "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY"
-    },
-    {
-      "added_at": "2022-10-07 12:04:00",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 252716,
-      "name": "Exist for Love",
-      "url": "https://open.spotify.com/track/09fAL7YwPV3YzVmQDzLY8d"
     },
     {
       "added_at": "2022-10-07 12:04:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-10-07 12:04:00",
       "album": {
+        "name": "Dance All Over Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 214884,
+      "name": "Dance All Over Me - Acoustic",
+      "url": "https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh"
+    },
+    {
+      "added_at": "2022-10-07 12:04:00",
+      "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 232650,
       "name": "Rise - Acoustic",
       "url": "https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7"
-    },
-    {
-      "added_at": "2022-10-07 12:04:00",
-      "album": {
-        "name": "Dance All Over Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 214884,
-      "name": "Dance All Over Me - Acoustic",
-      "url": "https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh"
     },
     {
       "added_at": "2022-10-07 12:04:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-10-07 12:04:00",
       "album": {
+        "name": "Ver\u00e3o Ac\u00fastico",
+        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
+    },
+    {
+      "added_at": "2022-10-07 12:04:00",
+      "album": {
         "name": "Live Acoustic EP",
         "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 131830,
       "name": "What A Shame - Acoustic",
       "url": "https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1"
-    },
-    {
-      "added_at": "2022-10-07 12:04:00",
-      "album": {
-        "name": "Ver\u00e3o Ac\u00fastico",
-        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
     },
     {
       "added_at": "2022-10-07 12:04:00",

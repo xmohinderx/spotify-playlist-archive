@@ -5323,10 +5323,28 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 195534,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/3w9vuwxS1KKV2uesqZPGWR"
+    },
+    {
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6kHmcq1Lppm5otfjp5cpu7"
+      },
+      "artists": [
+        {
+          "name": "D.E.L",
+          "url": "https://open.spotify.com/artist/0XCOqb0sQxtEjujH2yHNh1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195534,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/58CNmcEtly0H1Viw52dO8b"
     },
     {
       "album": {

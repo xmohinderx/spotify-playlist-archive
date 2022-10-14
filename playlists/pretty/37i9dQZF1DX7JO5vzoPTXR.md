@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz?si=IrA26cUAS5W88Q9mtXvX2A&nd=1">Mickey Guyton,</a> Emma\-Lee, and Karen Kosowski.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,116 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,130 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 12 | [Falling](https://open.spotify.com/track/5PejeZZbqEQRxDNd4XSUNg) | [Adele Etheridge Woodson](https://open.spotify.com/artist/0gDgO3vo0NXKndxDKV6Rzl), [Cassidy Hilgers](https://open.spotify.com/artist/71cEIQRoMD1BB00x2n0Jhs) | [Sunday in the Park](https://open.spotify.com/album/2K9UsNjQ1LcHTJZIyguxbJ) | 4:11 |
 | 13 | [Is It Cold In The Water?](https://open.spotify.com/track/292h0AOEEmddv9wIWnrDl4) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:32 |
 | 14 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 |
-| 15 | [dance around](https://open.spotify.com/track/48CrjgOJbefsqOMuUgGIdf) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:27 |
+| 15 | [dance around](https://open.spotify.com/track/0E2qrXXGhi6Aje9Dxx4BG2) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/0bgCvlryOs9JHw0alDKqdS) | 2:27 |
 | 16 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 |
 | 17 | [Jolene](https://open.spotify.com/track/4I2OyiSq1VNUiMZBTney3q) | [The Butterfly Effect](https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY) | [Sailing Away](https://open.spotify.com/album/2s0GF8LbbHNVurh5MpZP1I) | 3:00 |
 | 18 | [Treat You Better](https://open.spotify.com/track/2WGCtCxVwf1UmnKHA0SxrQ) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Treat You Better](https://open.spotify.com/album/57k05KUQxcqrf4ibcWepXB) | 2:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 |
 | 40 | [If He Wanted to He Would](https://open.spotify.com/track/7dORAUbJ8pGvB4SaH0KbUx) | [Sarah Catharine](https://open.spotify.com/artist/78iX5058y1HoOivCzmz8Av) | [If He Wanted to He Would](https://open.spotify.com/album/49fQeumi6IE0Dppm5JQbK6) | 3:47 |
 
-Snapshot ID: `MTY2NDk4NjcxNiwwMDAwMDAwMDQzOGMzZjdiYTQ1OGZiM2JiNWJiYjFlNGNmZGZmMGEx`
+Snapshot ID: `MTY2NDk4NjcxNiwwMDAwMDAwMDM3NzcwNjM5OGFjMjk1NTBhMWFhNjlmM2U4OThjZDMw`

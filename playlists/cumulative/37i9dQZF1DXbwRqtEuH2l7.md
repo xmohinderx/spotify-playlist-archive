@@ -4,7 +4,7 @@
 
 > Long, dark and sustained.
 
-155 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+156 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [expiation](https://open.spotify.com/track/0XinJFSpCjVI5nFSWCvw7X) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Dead Silence](https://open.spotify.com/album/01tMpXBJd0dhGOeRYvSgj8) | 4:48 | 2022-05-25 |  |
 | [Famous Last Names](https://open.spotify.com/track/0bcZi3K9Lm8sU81GMt7b5I) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [4\-Track Guitar Music](https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW) | 7:49 | 2022-05-25 | 2022-07-29 |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-05-25 |  |
+| [Fragments of the Mosaic](https://open.spotify.com/track/7DhSg85SZepXG7Q2pmo0y1) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Fragments of the Mosaic](https://open.spotify.com/album/5CbUyfXv1nFnn9vPuwjCIU) | 3:53 | 2022-10-14 |  |
 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 | 2022-05-25 |  |
 | [Getting Ready to Say Goodbye](https://open.spotify.com/track/0JxPSe1YeUwQZLuhiSvK6r) | [Hatsü](https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd) | [Cycles](https://open.spotify.com/album/4dbsWGtWgEkWqJMvRyx4bL) | 4:05 | 2022-05-25 |  |
 | [Hair Painted With Copper](https://open.spotify.com/track/704YanLK0sJpJvSVE28f5r) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [But All Spiked](https://open.spotify.com/album/3RViTFvlOX9A3KesPgqgt1) | 6:48 | 2022-05-25 | 2022-07-28 |
@@ -140,7 +141,7 @@
 | [Submersible](https://open.spotify.com/track/157hM4Kifc9ZeVR3IxOmKh) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4Wq9kfnBR0npGfsuQl8kDW) | 3:50 | 2022-05-25 | 2022-07-26 |
 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 | 2022-07-08 |  |
 | [Sunrise in the Third System](https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Alpha Centauri](https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK) | 4:21 | 2022-05-25 |  |
-| [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 | 2022-05-25 |  |
+| [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 | 2022-05-25 | 2022-10-14 |
 | [Tensión Hacia Tres](https://open.spotify.com/track/0tzujIWyPv8t9LqQQ7PTy2) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Tensión Hacia Tres](https://open.spotify.com/album/4iDLZ4aJLc4ZbiRwzvCx2s) | 15:52 | 2022-05-25 | 2022-07-27 |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-05-25 | 2022-07-29 |
 | [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 | 2022-07-24 |

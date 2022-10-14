@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-323 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+324 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,8 +288,9 @@
 | [This Love \- Acoustic](https://open.spotify.com/track/3d7pK1CqZaj5xbIGPy85rD) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:15 | 2022-04-22 |  |
 | [This Love \- Acoustic](https://open.spotify.com/track/3uYzfyifC7J1j1IEjN1xz6) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW) | 4:15 | 2021-03-12 | 2022-07-29 |
 | [Thumbs \- Acoustic](https://open.spotify.com/track/1soAeZZbjaECAC5IH0CNiL) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Thumbs \(Acoustic\)](https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8) | 3:24 | 2021-03-12 |  |
-| [Together \- Acoustic Mix](https://open.spotify.com/track/0LwYTEEEmVe04HkH1vfW9H) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Together \(Acoustic Pack\)](https://open.spotify.com/album/2dhfJH6IAxb6KdRbgWrSQN) | 3:57 | 2022-04-22 |  |
+| [Together \- Acoustic Mix](https://open.spotify.com/track/0LwYTEEEmVe04HkH1vfW9H) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Together \(Acoustic Pack\)](https://open.spotify.com/album/2dhfJH6IAxb6KdRbgWrSQN) | 3:57 | 2022-04-22 | 2022-10-14 |
 | [Together \- Acoustic Mix](https://open.spotify.com/track/24IqsPNvTSBZvDSTn17a1O) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Together \(Acoustic Pack\)](https://open.spotify.com/album/4aFk8IccHDPkHq52Dhyiim) | 3:57 | 2021-03-12 | 2022-07-29 |
+| [Together \- Acoustic Mix](https://open.spotify.com/track/51C20lcDkg9p8BYo7ugzfS) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Together \(Acoustic Pack\)](https://open.spotify.com/album/1x3eMvSkVLSNdeFMlUQXYl) | 3:57 | 2022-04-22 |  |
 | [Too Good \- Acoustic](https://open.spotify.com/track/03OnNoSXz2T93JKlE4JCh1) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [DEADTHEACOUSTIC](https://open.spotify.com/album/2bA9q1Cy1t8AHZDteuEij8) | 2:06 | 2021-03-12 |  |
 | [Treasure](https://open.spotify.com/track/0PtrSBrpgoKpC3aHxW4VNW) | [Alyssa Bernal](https://open.spotify.com/artist/1ekwJGDxnfBFXcSLSgmNj8), [Andy Lange](https://open.spotify.com/artist/5wfWWoLIdI5DBXds0eNKzJ) | [Treasure](https://open.spotify.com/album/0tjjpAzSDFMtBJlEXgFMeL) | 2:59 | 2021-03-12 |  |
 | [Turn Out the Lights](https://open.spotify.com/track/3JFeaupbz1zMukrzCTURyB) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/0T5oDfLwS6oWPTrzVRmOFB) | 3:23 | 2021-03-12 | 2022-07-29 |

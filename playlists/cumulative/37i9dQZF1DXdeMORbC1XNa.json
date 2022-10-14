@@ -2099,7 +2099,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 156923,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz"
@@ -3319,7 +3319,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 197000,
       "name": "kolomental",
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
@@ -3577,7 +3577,7 @@
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164400,
@@ -3617,7 +3617,7 @@
           "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185191,
@@ -4462,6 +4462,28 @@
     },
     {
       "album": {
+        "name": "Nyash (Current & Savings)",
+        "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "Nyash (Current & Savings)",
+      "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
+    },
+    {
+      "album": {
         "name": "Oh Lawd",
         "url": "https://open.spotify.com/album/2hasU2D343uip0hGECzdhb"
       },
@@ -4489,7 +4511,7 @@
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149537,
@@ -6079,7 +6101,7 @@
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181557,
@@ -6103,6 +6125,28 @@
       "duration_ms": 181557,
       "name": "Soja",
       "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
+    },
+    {
+      "album": {
+        "name": "Soldier (feat. Tion Wayne)",
+        "url": "https://open.spotify.com/album/04ZtNp3g6UDAZttdhge7AC"
+      },
+      "artists": [
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150901,
+      "name": "Soldier (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/54PIzfYXuwLwRklIMNhQ1t"
     },
     {
       "album": {
@@ -6911,7 +6955,7 @@
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151510,
@@ -6977,7 +7021,7 @@
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147511,

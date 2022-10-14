@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,888 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,983 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 85 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 |
 | 86 | [Express](https://open.spotify.com/track/75Mp8SoON8fbpcOtNx3PwN) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [All In The Family](https://open.spotify.com/album/2DUBK14GtWoErG8eTy6fqI) | 3:13 |
 | 87 | [Patrick Swayze](https://open.spotify.com/track/0jf7jehC9YDd49ipvJDzFS) | [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Patrick Swayze](https://open.spotify.com/album/6BZSvgXRCnf3WjaaOafAwJ) | 3:55 |
-| 88 | [Skate with Me](https://open.spotify.com/track/2qy4Rc8zGRRc73hbkPNJ5U) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/7KPUDwWlavclOS3ttpCuUG) | 1:53 |
+| 88 | [Skate with Me](https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN) | 1:53 |
 | 89 | [Where's My Money?](https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW) | [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [JAMS](https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY) | 2:44 |
 | 90 | [Your Sweet Power](https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Sweet Power](https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD) | 2:50 |
 | 91 | [Stone Cold Lover](https://open.spotify.com/track/0S5odtCg5QVBkKCVu3vsrl) | [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn) | [Aura](https://open.spotify.com/album/2TbHzkncYSsWB5xTyl4MtN) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [You Got Me](https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/2cogfCjxAEmXoWHFex4gDN) | 3:00 |
 | 100 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDI4YTFhNDZhMGUyOTNhMzI4NzNmZmE1YTk5MmZkNjFm`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDJhODQyYTBlNmE0MzE0NDNlMWFkZWQ3Y2Q5YWI0YzVm`

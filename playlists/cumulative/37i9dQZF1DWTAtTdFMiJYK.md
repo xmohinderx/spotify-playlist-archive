@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Tanmaya Bhatnagar
 
-182 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+183 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Easy Bake Easy Wake](https://open.spotify.com/track/37jlSwK5rjIOTvkzAeV21B) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Easy Bake Easy Wake](https://open.spotify.com/album/7oPrvDPosF3XdPCnhTIM0I) | 5:03 | 2022-01-10 | 2022-04-15 |
 | [Ehsaas](https://open.spotify.com/track/7jY3iEgqKEnVJLLYhkPex3) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ehsaas](https://open.spotify.com/album/00Png6WHwGSedQksDn24w4) | 3:48 | 2022-04-07 |  |
 | [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 | 2022-08-05 |  |
+| [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 | 2022-10-13 |  |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2021-12-06 | 2022-01-11 |
 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2022-01-31 |  |
 | [Faasle](https://open.spotify.com/track/3vKclvEn6o2UyHl9WR6958) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Bitter Sweet](https://open.spotify.com/album/1x1xYzNzlziGfjTGmYCKUl) | 3:08 | 2022-01-10 | 2022-03-11 |
@@ -168,7 +169,7 @@
 | [sweet nothings](https://open.spotify.com/track/7babGnGqzxPLHKplZC7VEB) | [Aaditya Rakheja](https://open.spotify.com/artist/75fpoyZLrlkMVxbYeWRc74) | [sweet nothings](https://open.spotify.com/album/4eC9S0c2tZ6HgeYuxyD3KL) | 4:19 | 2021-12-06 | 2022-01-11 |
 | [Taare](https://open.spotify.com/track/4jflaxgK10KuHI9hzxsT1C) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [DJ Strings](https://open.spotify.com/artist/5dK1U4fQotxj5QCVyC7wJD) | [Taare](https://open.spotify.com/album/7n3mLvH0HLnuykbdAaR3ib) | 3:28 | 2022-03-21 |  |
 | [Taare](https://open.spotify.com/track/5tlYQMx8GyEnkrZBO77YZW) | [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Taare](https://open.spotify.com/album/7jd1UU6S0dAKbssg4ShOkc) | 2:34 | 2021-12-06 | 2022-01-18 |
-| [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2022-01-10 |  |
+| [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2022-01-10 | 2022-10-14 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-07-22 |  |
 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 | 2022-01-10 |  |
 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 | 2022-01-31 |  |

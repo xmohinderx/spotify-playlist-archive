@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-122 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+123 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Hostages \- Alternate](https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8) | 4:21 | 2021-12-10 | 2022-10-13 |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2021-12-10 |  |
 | [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 | 2022-02-18 |  |
-| [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 | 2021-12-10 |  |
+| [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 | 2021-12-10 | 2022-10-14 |
+| [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-08-19 |  |
 | [I'm Kissing You](https://open.spotify.com/track/3dRDxa4STStR3mVU80S1Vb) | [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [bshp](https://open.spotify.com/album/5ZKuFLAWxdSwlMVhiryCC1) | 4:53 | 2021-12-10 | 2022-04-02 |
 | [If I Met Your Shadow](https://open.spotify.com/track/5ruq5kWHENUzVNoclz1UtJ) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [If I Met Your Shadow](https://open.spotify.com/album/33upVlBPSnf3oSjK0e9RCF) | 2:14 | 2021-12-10 |  |
 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 | 2021-12-10 |  |

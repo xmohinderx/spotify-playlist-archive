@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-310 songs - 19 hr 16 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+312 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2019-11-19\* | 2020-11-06 |
 | [Boys Got to Go](https://open.spotify.com/track/3tD1Woe9cOS3pF8eUGMIMC) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/0ak4UjGlHdaae0fPn8cgCi) | 2:55 | 2020-12-22 | 2021-03-06 |
 | [Brillo](https://open.spotify.com/track/5Mvi4VJVhPKPn3OxumkRI6) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Brillo](https://open.spotify.com/album/5GHe6nkqz9cE4dS76BmPuR) | 4:20 | 2020-12-11 | 2020-12-22 |
-| [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 | 2022-07-06 |  |
+| [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 | 2022-07-06 | 2022-10-14 |
 | [Bubblegum](https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Liquid](https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps) | 2:46 | 2022-07-06 |  |
 | [Bubblegum](https://open.spotify.com/track/5XaJdpwi6KoKHzxYS3wDcH) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Bubblegum](https://open.spotify.com/album/47AJ4yZfbQni0cUn6NNyM1) | 2:46 | 2021-09-10 | 2022-07-29 |
 | [Burnout!](https://open.spotify.com/track/6aBl8UezkCSSORPvG5l9Kt) | [Blushh](https://open.spotify.com/artist/6gwYYlD3bgZOHGYGrTGFz5) | [Burnout!](https://open.spotify.com/album/6dIw0ywe3wwTifjy57eHG8) | 2:18 | 2022-04-13 | 2022-06-25 |
 | [Cactus](https://open.spotify.com/track/0vuoVqMQdCgCJ0FGFMpoyk) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Homesick](https://open.spotify.com/album/75EEV1rn2FNwYwxsqXW6Qw) | 5:52 | 2021-04-29 | 2022-07-29 |
 | [Cada Cosa](https://open.spotify.com/track/4sTsDgE88ELCJJeliRiHn7) | [Elia Ezker](https://open.spotify.com/artist/4oXlT8L4CQfox2udsEFUHB) | [Cada Cosa](https://open.spotify.com/album/2C05745cglANhtqlDHCVKS) | 3:27 | 2021-02-26 | 2021-03-06 |
+| [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-07-06 |  |
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2020-08-09 | 2022-10-13 |
 | [Cassette](https://open.spotify.com/track/5EdpixfJpL4XF4tB8fSYn7) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Cassette](https://open.spotify.com/album/0CAblx2b8lHRCRndUxVFgR) | 3:38 | 2021-04-29 | 2022-07-29 |
 | [Cave Vaults on the Moon in New Mexico](https://open.spotify.com/track/5j375wUE1V53HpkKtiDKT2) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Cave Vaults on the Moon in New Mexico](https://open.spotify.com/album/5aJVPNr3eO8GHU0AXbLSIa) | 4:25 | 2019-11-19\* | 2022-07-29 |
@@ -67,6 +68,7 @@
 | [Crossroads](https://open.spotify.com/track/4wf0EYJDLjaHoRXJ7fAvxm) | [Haleiwa](https://open.spotify.com/artist/46IokpOf5xVXtw6RAPKZRi) | [Crossroads](https://open.spotify.com/album/5aS6AGAE1T6Mz7bpjFYTnK) | 2:53 | 2019-11-19\* | 2020-12-22 |
 | [Crushin'](https://open.spotify.com/track/2rl3qVhTopu9De51tKCDUM) | [Film School](https://open.spotify.com/artist/3Q5JOuj2Zs59ujPp1njIWS) | [Crushin'](https://open.spotify.com/album/0fx54uQWyxEcStCm4jKRVO) | 3:50 | 2019-11-19\* | 2020-11-06 |
 | [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 |  |
+| [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 | 2022-07-06 |  |
 | [Daisy](https://open.spotify.com/track/3w2C7ISKBH9yhjHK4VjyFb) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Daisy](https://open.spotify.com/album/4rqRIEmsDFgu8eKKg4aEi6) | 2:15 | 2022-04-13 | 2022-04-21 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2021-12-22 |  |
 | [Daydream](https://open.spotify.com/track/3fWRTY5QF86NW3oXFrXcYi) | [Colour Tongues](https://open.spotify.com/artist/2j8bQo4EjmbwyVjQLsArgx) | [Daydream](https://open.spotify.com/album/6MzRQU7TJITpyjhuFvPx8s) | 5:15 | 2022-04-13 | 2022-04-27 |
@@ -85,7 +87,7 @@
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-12-22 |  |
 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 | 2020-08-09 |  |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-01 | 2022-08-26 |
-| [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 |  |
+| [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 | 2022-10-14 |
 | [Du pouvoir/Power](https://open.spotify.com/track/2Y0xdEsWhfDAsvtMzFqJ73) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Du pouvoir](https://open.spotify.com/album/5otAnfZLjI3n5zsx8eOPKY) | 3:20 | 2019-11-19\* | 2020-08-09 |
 | [Dumb](https://open.spotify.com/track/6kCQsjFV3SubIrNTDkGrdr) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Dumb](https://open.spotify.com/album/0N42Coxg2wBuzP1LyB2mkq) | 3:21 | 2019-11-19\* | 2020-08-09 |
 | [Duwies y Dre](https://open.spotify.com/track/2OP0X9P8khKcUDtWUzCLHv) | [Carwyn Ellis & Rio 18](https://open.spotify.com/artist/6L2FmhX67tsAe4o7TrVR3b) | [Duwies y Dre](https://open.spotify.com/album/3Qq7jddEYE6U1hBZOxY0h3) | 3:36 | 2019-11-19\* | 2020-11-06 |

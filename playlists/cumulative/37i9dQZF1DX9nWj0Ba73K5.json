@@ -2235,6 +2235,24 @@
     {
       "album": {
         "name": "My Poor Mama",
+        "url": "https://open.spotify.com/album/72dBMGHSenphYYr0Sv0wUf"
+      },
+      "artists": [
+        {
+          "name": "Corey Crowder",
+          "url": "https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181837,
+      "name": "My Poor Mama",
+      "url": "https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v"
+    },
+    {
+      "album": {
+        "name": "My Poor Mama",
         "url": "https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4"
       },
       "artists": [
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 181837,
       "name": "My Poor Mama",
       "url": "https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl"

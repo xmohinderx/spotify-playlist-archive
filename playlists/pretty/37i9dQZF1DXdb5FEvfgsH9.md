@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,531 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,568 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 52 | [Cherry On The Top](https://open.spotify.com/track/0hP7EN4IJ57vtvuLcpIshG) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Cherry On The Top](https://open.spotify.com/album/0q0RKHpJIHpNM1QDjnBCht) | 5:18 |
 | 53 | [Every Word \- Radio Edit](https://open.spotify.com/track/145kUDDfoiTzNGVPvem4Xm) | [Darryl Jordan](https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt), [Giman](https://open.spotify.com/artist/75nakAajlHkjK1yMhNPoB1), [Chic\_Ago](https://open.spotify.com/artist/2O0TP0gKFhi1L3T6m2BJXG) | [Every Word](https://open.spotify.com/album/0liZQlGjXRohYLNk5jkquK) | 4:06 |
 | 54 | [I'm Not the One](https://open.spotify.com/track/1VLugWWESJhyDzMNmjrUBw) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Maribelle](https://open.spotify.com/artist/21943SyDN6jvPKcwyV5WnN) | [The High \- EP](https://open.spotify.com/album/6Ba2ugeP6fBSEazCTIx2Ff) | 3:50 |
-| 55 | [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 |
+| 55 | [Fool For You](https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/3eHSZLaNryhqzy0d5dUaOH) | 2:55 |
 | 56 | [Fantasize](https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:19 |
 | 57 | [Body, Mind & Soul](https://open.spotify.com/track/3gnwOISx8zFb04hcaWh1YR) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Body, Mind & Soul](https://open.spotify.com/album/7pAQp1KNUBToUb6QWezL0v) | 4:10 |
 | 58 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 79 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 |
 | 80 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGM0YWE0MzJlZGMyNzBlNjhlZTFmMDBjMTU2YzU4ZDc5`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDA1ZjA3NmI4Zjg1NDYxNmY3MDBiYjlhNzQ4ZWMyZGUx`

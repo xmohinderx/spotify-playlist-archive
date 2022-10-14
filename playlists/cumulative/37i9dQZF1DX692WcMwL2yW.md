@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-305 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+309 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Cognac Carousel](https://open.spotify.com/track/1kMW4G825Ch7Ba6kps51Wp) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [A Year Down](https://open.spotify.com/album/2XkYfq0Sq0kOrGUCuMZS0g) | 1:59 | 2021-04-26\* | 2021-06-18 |
 | [Come Over](https://open.spotify.com/track/02SZNC6HRyEuFSWwvDHvGr) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/64RIVMQaMTlWzDpAymXzFa) | 4:00 | 2022-04-22 |  |
 | [comfort](https://open.spotify.com/track/4E7cWFhbicXsOLpPTVyrvc) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [comfort](https://open.spotify.com/album/3pR0S6P46htwQIpRtbvkaT) | 2:58 | 2022-05-13 |  |
-| [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-04-26\* |  |
+| [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-04-26\* | 2022-10-14 |
 | [Costly Silence](https://open.spotify.com/track/4Zzrbigy09BEjWsaywDGLq) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Costly Silence](https://open.spotify.com/album/0F11j0q6SRtoshUbPZ3WO7) | 1:30 | 2022-04-08 | 2022-07-29 |
 | [Costly Silence](https://open.spotify.com/track/68hsCvLYrVg1YhqfveM0FO) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Costly Silence](https://open.spotify.com/album/6mwaYkKqqaeU2eJY0AD1SH) | 1:30 | 2022-07-29 |  |
 | [Cote d'Ivoire](https://open.spotify.com/track/6I28Qty7Qk4Xhh7FbWPLLL) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Move Ya Body](https://open.spotify.com/album/61L9RCKpU8NJkrqidv3Fj9) | 3:07 | 2021-06-04 | 2022-07-22 |
@@ -71,7 +71,7 @@
 | [Diamond](https://open.spotify.com/track/76eugDRGuXdmmewhJtCuU0) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Diamond](https://open.spotify.com/album/3RVyMhWyrEqRwkWkaBD2cI) | 2:36 | 2021-04-26\* | 2021-08-26 |
 | [Dimes](https://open.spotify.com/track/0lvgCep2yv7x6eQlT5Xanu) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [Big Little Man](https://open.spotify.com/album/22DORZ7yDp2y3bu4hIw7Wc) | 3:36 | 2021-11-10 | 2022-07-22 |
 | [Dior](https://open.spotify.com/track/5taACEkO7njxSO6J6vJKvN) | [Lofi Chill Hip Hop Beat](https://open.spotify.com/artist/67zHwgyDYiE73CKWv5rMHT) | [Certified Lover Boy](https://open.spotify.com/album/2gY1mHdwqG8sA9lkaBMbiA) | 3:39 | 2021-07-09 | 2021-10-14 |
-| [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 | 2021-06-04 |  |
+| [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 | 2021-06-04 | 2022-10-14 |
 | [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/709ObnJx4qIQEbdukVVCnQ) | 1:38 | 2022-04-22 |  |
 | [Don't Quit](https://open.spotify.com/track/3hWnx9sV4Tssynrnl8oM7k) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Muses](https://open.spotify.com/album/1An4K6esv5QVy2loqhRyKb) | 2:26 | 2021-08-26 |  |
 | [Donnie DarKo](https://open.spotify.com/track/2KGATOvaBe8tw2hvB2Suc1) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Donnie DarKo](https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG) | 2:14 | 2021-04-26\* | 2022-05-14 |
@@ -89,7 +89,7 @@
 | [Entropy](https://open.spotify.com/track/441YIkP32be2LQ2Ol6LMmT) | [BassEQ](https://open.spotify.com/artist/4w4B079eb5jukk7o2nvL49) | [BassEQ Beats](https://open.spotify.com/album/147Elkn8P9wvep6M4kqsf0) | 5:03 | 2021-04-26\* | 2021-09-10 |
 | [Escape](https://open.spotify.com/track/7loBMJPuSrISlENdY3nuVR) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [Escape](https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB) | 3:42 | 2021-04-26\* | 2022-08-19 |
 | [Espionage](https://open.spotify.com/track/1mFmFZRC6mMSeMioZ5MfRh) | [Inteus](https://open.spotify.com/artist/19NNBW45HcAOPkYzJMeMNN) | [Espionage](https://open.spotify.com/album/6D7XC9r5x45DXCUDfjS0m1) | 5:29 | 2022-04-08 | 2022-07-29 |
-| [Eternal Lounge](https://open.spotify.com/track/4KPaY49SIzHQSE7y9J3typ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Even When It Hurts](https://open.spotify.com/album/60WED4aWktTTkbqw36QGa3) | 2:53 | 2021-08-26 |  |
+| [Eternal Lounge](https://open.spotify.com/track/4KPaY49SIzHQSE7y9J3typ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Even When It Hurts](https://open.spotify.com/album/60WED4aWktTTkbqw36QGa3) | 2:53 | 2021-08-26 | 2022-10-14 |
 | [everlasting](https://open.spotify.com/track/45te5r880nl86sqoPIfB2X) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [everlasting](https://open.spotify.com/album/6doZlIgO3A1TgWGJVq55Z6) | 2:32 | 2022-07-08 |  |
 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 | 2021-08-26 |  |
 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 | 2021-04-26\* | 2022-09-09 |
@@ -99,6 +99,7 @@
 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 | 2021-11-10 |  |
 | [Far From Here](https://open.spotify.com/track/217ChWMhQc6TWGBa350i7m) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 1:52 | 2022-06-24 |  |
 | [Fatso](https://open.spotify.com/track/0NzWqeHz2wnYvEJYy5D7l0) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [158 Texas](https://open.spotify.com/album/47HGt4wZttlPBYItTZURXi) | 3:05 | 2022-09-02 |  |
+| [Feathers](https://open.spotify.com/track/1bGvdepxFFYASYyjl4fgzp) | [Memoreece](https://open.spotify.com/artist/2cxOWj380KkEEUMVyHtrHn) | [Feathers](https://open.spotify.com/album/7vD9XAefjuLyVgStigf54l) | 2:43 | 2022-10-14 |  |
 | [ficus](https://open.spotify.com/track/2QBsNCb5Ih9bjHtvrsVkef) | [killtino](https://open.spotify.com/artist/3R6MCwWHzfbzkPqBIp4Pyg) | [ficus](https://open.spotify.com/album/7ur1AExkPSE4YsO1Kr4apo) | 2:49 | 2021-09-10 |  |
 | [Filamento](https://open.spotify.com/track/0h17Z7xCj791Q6tYLy9Vt8) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Brizna](https://open.spotify.com/album/5MwVgzNW3j5XmJcIYtGmt6) | 1:38 | 2021-04-26\* | 2022-05-14 |
 | [Final Call](https://open.spotify.com/track/1gyxf3SMn2fTGb1NjAkjCi) | [Nololom](https://open.spotify.com/artist/4WrAPVebfnZwW9udoZNoIp) | [Final Call](https://open.spotify.com/album/7dCOeRY0GBW5x1VTDYfGiM) | 1:36 | 2021-04-26\* | 2022-05-14 |
@@ -122,6 +123,7 @@
 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 | 2021-11-10 |  |
 | [GQ](https://open.spotify.com/track/1u1Vm4cXZC6obgukTjYPX7) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:22 | 2021-06-04 | 2021-10-14 |
 | [Happy Trap](https://open.spotify.com/track/3NKRNH11HPKqw9LUC7QeVR) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Happy Trap](https://open.spotify.com/album/3VK7GQ7jFQSU5JsiruhBrM) | 2:14 | 2022-09-16 |  |
+| [hard times](https://open.spotify.com/track/1Kx2DFFrntzEZk7ksPbAsl) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [8\-bit Roads](https://open.spotify.com/album/4d1EpSYALcBPzLSrfgH4S0) | 2:35 | 2022-10-14 |  |
 | [Haute](https://open.spotify.com/track/3lvxTsa881E4gc6GHEOKGL) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Haute](https://open.spotify.com/album/0Y5EmDx0BdNzVkZxyGGy5i) | 2:05 | 2022-08-12 |  |
 | [Hear Me](https://open.spotify.com/track/7dAzaQXqBqSTPfzC1rINqB) | [Sonliks](https://open.spotify.com/artist/2Y4KIlGIRi4REFRLuJ3uiq) | [Hear Me](https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1) | 2:48 | 2021-08-26 |  |
 | [Hear Me Now](https://open.spotify.com/track/42Le6tvNm5uoO2XLutwPeG) | [Ahmet Sarlak](https://open.spotify.com/artist/2zrnDU6HAQ6gRiTY3EKFKh) | [Wrong Time](https://open.spotify.com/album/5YWKhzrtxDX5MdxnTf9Kmo) | 2:16 | 2021-04-26\* | 2021-08-26 |
@@ -188,6 +190,7 @@
 | [Mortal Combat](https://open.spotify.com/track/5H7PA4uJFSHXYJMo7nPirq) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 2:48 | 2022-06-24 |  |
 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 | 2021-11-10 |  |
 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 | 2021-09-10 |  |
+| [mp44](https://open.spotify.com/track/5LXi1MulVPbxBSyX142i6e) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [mp44](https://open.spotify.com/album/3H9cddPoAxaFXViTFe6ePR) | 3:28 | 2022-10-14 |  |
 | [My Days](https://open.spotify.com/track/7KaZU6sgOOhnuFGBZx6gdb) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/6T5MOLNV6KF0wI0gAmGVrh) | 3:12 | 2021-04-26\* | 2022-05-14 |
 | [My Treasure](https://open.spotify.com/track/2VMVr3w3VkbQzj5oAiN3ws) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [Moods](https://open.spotify.com/album/3oT7U6gyD3mvDz92R8RqOG) | 2:00 | 2021-04-26\* | 2021-04-28 |
 | [Needless to Say](https://open.spotify.com/track/2L564Gg8T5QvE3I9qc4Okr) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Needless to Say](https://open.spotify.com/album/7ooLEVtJYscAdXs1dZGHJz) | 3:07 | 2021-04-26\* | 2022-04-22 |
@@ -248,7 +251,7 @@
 | [Snowy Mountains](https://open.spotify.com/track/0lyXasy5SI3Fq0Y7JUSlcU) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Snowy Mountains](https://open.spotify.com/album/0eD8rydulpTAJESZr4z65R) | 2:42 | 2022-01-27 |  |
 | [Somehow](https://open.spotify.com/track/07eNGKDQ9eMuZETnO3B3IW) | [Xilo Xaxo](https://open.spotify.com/artist/2K4dC388oTw9qfuGhsK0ba) | [Old Life](https://open.spotify.com/album/5xwUo1oCtRrzKZECwFGL9X) | 4:29 | 2021-07-09 | 2022-07-15 |
 | [Something Lite](https://open.spotify.com/track/7KkEtOKkGLZ68sM4LGXx0f) | [B Beatz](https://open.spotify.com/artist/60QsCAk0l6m5xNnz0PnOEF) | [Something Lite](https://open.spotify.com/album/5IPuCPKTNd25X9xr9grvqd) | 4:52 | 2021-08-26 | 2022-09-09 |
-| [Sonic Bullet](https://open.spotify.com/track/1rWp6WpAxtCyCJ4Ky4GrHC) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Sonic Bullet](https://open.spotify.com/album/7JOyaA4REAnvjxoJ6wxX9q) | 3:28 | 2021-11-10 |  |
+| [Sonic Bullet](https://open.spotify.com/track/1rWp6WpAxtCyCJ4Ky4GrHC) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Sonic Bullet](https://open.spotify.com/album/7JOyaA4REAnvjxoJ6wxX9q) | 3:28 | 2021-11-10 | 2022-10-14 |
 | [Sorrow](https://open.spotify.com/track/7GJQGSD9r681721nvXGAAx) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Sorrow](https://open.spotify.com/album/3u9L5MdB8Q16LWDyABClMO) | 2:34 | 2021-04-26\* | 2022-05-20 |
 | [Soundtrack the World!](https://open.spotify.com/track/2ORTnfqcHyGGzlZ14wpqrT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [New Elevations](https://open.spotify.com/album/4q0Mu1FbIzqKqqgPBuAnWa) | 3:16 | 2021-08-26 | 2021-10-14 |
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2021-04-26\* | 2022-05-14 |
@@ -262,6 +265,7 @@
 | [Sweeping Grounds](https://open.spotify.com/track/2xkdCkb2yZAjvj8YlIF3bs) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Sweeping Grounds](https://open.spotify.com/album/4c9pGOnqLMtXZ3aMgTCNZk) | 2:40 | 2022-05-13 |  |
 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 | 2021-09-10 | 2022-08-19 |
 | [Sympathy](https://open.spotify.com/track/4QRkERS0ZsDkbmL9KnPyqD) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Sympathy](https://open.spotify.com/album/2yfxZKhk4V4NDHEQrQIx7t) | 2:51 | 2021-04-26\* | 2021-09-10 |
+| [São Paulo Nights](https://open.spotify.com/track/5qECwqCFPBMMmiPZrt8WKW) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [São Paulo Nights](https://open.spotify.com/album/1TSEQJnPE8q2bgprYZhtxH) | 2:16 | 2022-10-14 |  |
 | [Targets](https://open.spotify.com/track/5T34t5XWmwI4J8GPk55DhW) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:18 | 2021-10-14 | 2022-02-19 |
 | [Taters & Maters](https://open.spotify.com/track/7emsl5MkKpnYqdKJKHSnfy) | [Søcrates](https://open.spotify.com/artist/4GtbjBaGbpeCsSVu1spfDZ) | [Taters & Maters](https://open.spotify.com/album/5KumjFUDye6q5jnzJiUCzd) | 2:48 | 2022-07-29 |  |
 | [Teasing](https://open.spotify.com/track/06y4oLttJhpSAOPAhjuCTY) | [Nololom](https://open.spotify.com/artist/4WrAPVebfnZwW9udoZNoIp) | [Final Call](https://open.spotify.com/album/7dCOeRY0GBW5x1VTDYfGiM) | 1:36 | 2021-04-26\* | 2021-09-10 |

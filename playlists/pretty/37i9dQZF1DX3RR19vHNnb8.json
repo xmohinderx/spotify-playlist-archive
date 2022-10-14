@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 4413,
+  "num_followers": 4447,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzNDU4MiwwMDAwMDAwMDRhNjI5ODdjMDU1YTQ0ZTA3MmE4YjNmZjk2NTM0NGM2",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGEzYjJlYWY0MjVjZTYyYjQ5ZGQwNDc1YjZlYzdkMTE3",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Problem No Dey Finish (Remix)",
+        "url": "https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd"
+      },
+      "artists": [
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 121558,
+      "name": "Problem No Dey Finish - Remix",
+      "url": "https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF"
+    },
+    {
       "added_at": "2022-01-27 23:00:00",
       "album": {
         "name": "Rumors (feat. Lil Durk)",
@@ -191,26 +211,6 @@
       "duration_ms": 185855,
       "name": "Rumors (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
-    },
-    {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Do We Have A Problem?",
-        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 207065,
-      "name": "Do We Have A Problem?",
-      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
     },
     {
       "added_at": "2021-07-09 00:00:00",
@@ -255,6 +255,26 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
+    },
+    {
+      "added_at": "2022-02-03 23:02:00",
+      "album": {
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
     },
     {
       "added_at": "2021-09-09 23:00:00",
@@ -321,23 +341,7 @@
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
-      "added_at": "2022-04-14 23:00:00",
-      "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
-    },
-    {
-      "added_at": "2022-10-13 01:42:20",
+      "added_at": "2022-09-30 10:43:02",
       "album": {
         "name": "Yenda",
         "url": "https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp"
@@ -361,6 +365,22 @@
       "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"
     },
     {
+      "added_at": "2022-04-14 23:00:00",
+      "album": {
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
       "added_at": "2021-08-13 00:00:00",
       "album": {
         "name": "We're All Alone In This Together",
@@ -379,6 +399,26 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Nyash (Current & Savings)",
+        "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Nyash (Current & Savings)",
+      "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
     },
     {
       "added_at": "2022-02-11 00:00:00",
@@ -415,26 +455,6 @@
       "duration_ms": 181058,
       "name": "Wid It",
       "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
-    },
-    {
-      "added_at": "2021-10-01 05:37:36",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2022-06-23 23:09:00",
@@ -479,6 +499,26 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+    },
+    {
+      "added_at": "2021-10-01 05:37:36",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2022-02-11 00:00:00",
@@ -657,6 +697,22 @@
       "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
     },
     {
+      "added_at": "2022-01-27 23:00:00",
+      "album": {
+        "name": "Cold Shoulder",
+        "url": "https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Cold Shoulder",
+      "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
+    },
+    {
       "added_at": "2021-02-22 19:09:40",
       "album": {
         "name": "Made In Lagos",
@@ -675,38 +731,6 @@
       "duration_ms": 239893,
       "name": "Longtime (feat. Skepta)",
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
-    },
-    {
-      "added_at": "2022-01-27 23:00:00",
-      "album": {
-        "name": "Cold Shoulder",
-        "url": "https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Cold Shoulder",
-      "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
-    },
-    {
-      "added_at": "2021-07-16 00:00:00",
-      "album": {
-        "name": "Second Sermon",
-        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 166147,
-      "name": "Second Sermon",
-      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -731,6 +755,22 @@
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
+    },
+    {
+      "added_at": "2021-07-16 00:00:00",
+      "album": {
+        "name": "Second Sermon",
+        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 166147,
+      "name": "Second Sermon",
+      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -849,22 +889,6 @@
       "url": "https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB"
     },
     {
-      "added_at": "2021-06-07 14:17:55",
-      "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
       "added_at": "2021-12-02 23:01:00",
       "album": {
         "name": "Connecting the Dots",
@@ -895,6 +919,22 @@
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
+    },
+    {
+      "added_at": "2021-06-07 14:17:55",
+      "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2021-02-22 19:09:40",
@@ -957,30 +997,6 @@
       "url": "https://open.spotify.com/track/6hUoVMWls2K9oYSNBFlYU6"
     },
     {
-      "added_at": "2021-11-18 23:01:00",
-      "album": {
-        "name": "Assignment",
-        "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
-      },
-      "artists": [
-        {
-          "name": "KiddBlack",
-          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "DJ FortuneDJ",
-          "url": "https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9"
-        }
-      ],
-      "duration_ms": 137472,
-      "name": "Assignment",
-      "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
-    },
-    {
       "added_at": "2022-09-30 06:48:44",
       "album": {
         "name": "O Di Dan Dan",
@@ -999,22 +1015,6 @@
       "duration_ms": 135000,
       "name": "O Di Dan Dan",
       "url": "https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu"
-    },
-    {
-      "added_at": "2022-04-21 23:00:00",
-      "album": {
-        "name": "SKI",
-        "url": "https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "SKI",
-      "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
     }
   ],
   "unique_name": "Pump it Up ",

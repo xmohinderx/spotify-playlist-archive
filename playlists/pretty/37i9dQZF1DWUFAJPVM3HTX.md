@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,581 likes - 110 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,703 likes - 110 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 25 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 |
 | 26 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 |
 | 27 | [Gone Away](https://open.spotify.com/track/20TQFjdslMaSvYRJkBYxNA) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Gone Away](https://open.spotify.com/album/7EMYsTL9x51BD6szWpUmP6) | 4:50 |
-| 28 | [We Gon Live It](https://open.spotify.com/track/2noKVjaWZqMeZP4x4Js6ZT) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [We Gon Live It](https://open.spotify.com/album/0LNu0icTx9vNCp0JQWL1tn) | 2:29 |
+| 28 | [We Gon Live It](https://open.spotify.com/track/0lKQ6pyG4UBquhrR99czHt) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [We Gon Live It](https://open.spotify.com/album/1MgovECVKOjpkN8xCcM0lT) | 2:29 |
 | 29 | [Wait for Me \(Promise\)](https://open.spotify.com/track/0ZryIn32OSd6f3wDF1GABY) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wait for Me \(Promise\)](https://open.spotify.com/album/3eIkE8sBAZFbCVVZGKzHyO) | 2:48 |
 | 30 | [Maybe](https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE) | 3:28 |
 | 31 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 58 | [The Ride \- Acoustic Mix](https://open.spotify.com/track/3V3MxtJxs9tFWBgtGJFDkq) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Caleb Taylor](https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH) | [The Ride \(Acoustic Mix\)](https://open.spotify.com/album/5S2z5mOiOJHLo4MG0sC09y) | 3:34 |
 | 59 | [illusions](https://open.spotify.com/track/0XplRkuNJ1pG0j4Gz9Iu0D) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [illusions](https://open.spotify.com/album/72zl9QKEnc7TKAx9Y1IWmO) | 3:44 |
 | 60 | [REFILL](https://open.spotify.com/track/7kZo2VfYKAdrOyez2KtGCt) | [Puku](https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9) | [REFILL](https://open.spotify.com/album/07xAxEUVVrxYwCLo7ExFt8) | 2:25 |
-| 61 | [Oceans](https://open.spotify.com/track/2uV5lDCkyAL6l47LpIWV6X) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/67bnPOMQ5dS0wfhy9sD7WW) | 2:17 |
+| 61 | [Oceans](https://open.spotify.com/track/618wwrGrOAIPP2dISTsc0i) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/6FS5dua45VW0Ej9BmbVuay) | 2:17 |
 | 62 | [Happy Day](https://open.spotify.com/track/4qmtSd1NGeeNy2VLKg9BDC) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Happy Day](https://open.spotify.com/album/5xAR0MYfHSt1RcauB3Yag6) | 2:56 |
 | 63 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
 | 64 | [Desire](https://open.spotify.com/track/3DVXjW5D4mPCS7lcUdkuq4) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl) | 1:48 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 78 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 |
 | 79 | [Carry\-on](https://open.spotify.com/track/70e1O0WgWtRIvbtAayyMqo) | [Akira Ræ](https://open.spotify.com/artist/5NFVnZpuhjaFnBHKtLnDds) | [Carry\-on](https://open.spotify.com/album/0PJLt0JfPj6GmbsAAMehom) | 2:14 |
 | 80 | [Seconds](https://open.spotify.com/track/7brqqadnLsTc56YzyQ1QQk) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Seconds](https://open.spotify.com/album/0DXyNcS7WjGAVJsCMv6Pco) | 2:49 |
-| 81 | [Rain Falls](https://open.spotify.com/track/4IZKu1dmdvjKE6gUpvfx5Z) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Rain Falls](https://open.spotify.com/album/58bZzAN7pWB0IKuhVaSCLA) | 2:09 |
+| 81 | [Rain Falls](https://open.spotify.com/track/3xtrDOEsbccLH2jTTJl8Br) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Rain Falls](https://open.spotify.com/album/5GaHNMmZZ8yoqlBLSX4jFt) | 2:09 |
 | 82 | [Bad Decisions](https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Bad Decisions](https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK) | 2:47 |
 | 83 | [Game Day](https://open.spotify.com/track/3d1kYnggNQ2W9SAIL56ry4) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Game Day](https://open.spotify.com/album/1xuGHcFfBgKVUZ8L0WkMDF) | 2:47 |
 | 84 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 109 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 |
 | 110 | [Link Up](https://open.spotify.com/track/22Lpeq9oezftwqZQ3p5L9v) | [Brianna Knight](https://open.spotify.com/artist/5CnW6JHWxmeApnMuuYxw6O) | [Link Up](https://open.spotify.com/album/3fYWkX4JhKpwSbCnZuuFmm) | 2:48 |
 
-Snapshot ID: `MTY2NTIzOTE5MCwwMDAwMDAwMDhmMmZlMmYyYjRkNzhmNjQ2N2JjYWJjOTdmYzZjNGVh`
+Snapshot ID: `MTY2NTIzOTE5MCwwMDAwMDAwMDMyYTQwOGExZGQ4NWRhYmNmOGM3MTNhMGJkMzM5MGZk`

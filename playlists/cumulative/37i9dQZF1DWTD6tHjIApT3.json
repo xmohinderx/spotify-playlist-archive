@@ -12159,7 +12159,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 240031,
       "name": "\u5927\u4eba\u306b\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl"
@@ -14125,6 +14125,24 @@
       "duration_ms": 278177,
       "name": "\u7fbd\u306e\u4e0a\u306e\u7720\u308a\u59eb",
       "url": "https://open.spotify.com/track/7DrKbbJ5sbJRW78dWxKq6m"
+    },
+    {
+      "album": {
+        "name": "\u7ffc\u3092\u304f\u3060\u3055\u3044",
+        "url": "https://open.spotify.com/album/6p4QK7a29s3SERURjPwpsl"
+      },
+      "artists": [
+        {
+          "name": "Anne",
+          "url": "https://open.spotify.com/artist/6DFoZlEPrlWz7bNXfNZr0i"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u7ffc\u3092\u304f\u3060\u3055\u3044",
+      "url": "https://open.spotify.com/track/2YY2NC3YWyagyTnt3LzXRg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Pocah e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,623 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,640 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [Liga pro Samu](https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Liga pro Samu](https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm) | 2:20 |
 | 35 | [É o Poder](https://open.spotify.com/track/2BCiFaDZ3oZdVRxet12Lga) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [É o Poder](https://open.spotify.com/album/0Fdps7yyNESfqZsISQSsOc) | 3:36 |
 | 36 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
-| 37 | [Perdeu](https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Perdeu](https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX) | 2:06 |
-| 38 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 |
+| 37 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 |
+| 38 | [Perdeu](https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Perdeu](https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX) | 2:06 |
 | 39 | [Queima](https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Queima](https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo) | 2:23 |
 | 40 | [Miga Solteira](https://open.spotify.com/track/6s0MGAStr7PlUGelpUlwWx) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Miga Solteira](https://open.spotify.com/album/55xfR02s40wZ2elK1PukB0) | 2:20 |
 | 41 | [Pontinho Indecente](https://open.spotify.com/track/1A4F3Lpva1NbGQIGhwc5Il) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Pontinho Indecente](https://open.spotify.com/album/2yaaprhWkCv8u5p4dkv7Kh) | 2:20 |
 | 42 | [A Preta é Braba](https://open.spotify.com/track/0vVB8pPr1OIHailckAAqFo) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [A Preta é Braba](https://open.spotify.com/album/6Roitz5RcHXsRTEOTUYZa7) | 2:34 |
 | 43 | [TO PRONTA!](https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:43 |
-| 44 | [Chama a Beleza](https://open.spotify.com/track/5jo8Tnkz0BkATyXMiMl5Jm) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Chama a Beleza](https://open.spotify.com/album/30N9qwNvwjfwxpTooot4jd) | 2:38 |
-| 45 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 |
-| 46 | [Entre Tu e Meu Som](https://open.spotify.com/track/7JNMwXX07GdA5hAK0IGrSA) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Entre Tu e Meu Som](https://open.spotify.com/album/2cjr3p101x8ba5EgQncL7q) | 2:47 |
+| 44 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 |
+| 45 | [Entre Tu e Meu Som](https://open.spotify.com/track/7JNMwXX07GdA5hAK0IGrSA) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Entre Tu e Meu Som](https://open.spotify.com/album/2cjr3p101x8ba5EgQncL7q) | 2:47 |
+| 46 | [Chama a Beleza](https://open.spotify.com/track/5jo8Tnkz0BkATyXMiMl5Jm) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Chama a Beleza](https://open.spotify.com/album/30N9qwNvwjfwxpTooot4jd) | 2:38 |
 | 47 | [Malandro](https://open.spotify.com/track/3F55EUqw7dagj5HuijCPWh) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Malandro](https://open.spotify.com/album/4rklYAr7eEhe972Rk9P2yo) | 2:28 |
 | 48 | [TROPA DAS SOLTINHAS](https://open.spotify.com/track/4etXC5VxPrwczXt1ln2RlH) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [FACES](https://open.spotify.com/album/5qoJNQSzp7NlGdxWuzzbKN) | 2:26 |
 | 49 | [Voltei](https://open.spotify.com/track/5xM24ffgOwCwJ9bYyNlQMW) | [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Voltei](https://open.spotify.com/album/1cWeUMEeeityWPHsjU5Nbb) | 2:03 |
 | 50 | [Nocaute](https://open.spotify.com/track/61jYnAUclCOarbNsNWDYS4) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Nocaute](https://open.spotify.com/album/72xcNZ9fxb3V7dw5u2zHNT) | 2:04 |
 
-Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMGRiZTMwYmQ3YWRiYjY4OGFiZGY0NjU1MTIzNmZiNGVi`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDViNjMzNTViM2RhY2Q4YjFiMGFlOGZmMWE0YzY0NjZk`

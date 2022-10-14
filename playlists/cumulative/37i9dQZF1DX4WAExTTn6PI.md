@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-116 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+118 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [All I Got](https://open.spotify.com/track/6d7GTp3lmBXFK2vo1ZeKOf) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 3:23 | 2022-01-28 |  |
 | [Amen](https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Back Down Home](https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w) | 3:20 | 2022-01-28 |  |
 | [Annie](https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 2:43 | 2022-01-28 |  |
-| [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 | 2022-01-28 |  |
+| [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2022-01-28 |  |
+| [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 | 2022-01-28 | 2022-10-14 |
 | [Astronaut](https://open.spotify.com/track/6TScLvRqvsdRx2pTL9e5Xm) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/03IH4nkQznlX4NU1j8OiC5) | 3:22 | 2022-01-28 | 2022-07-29 |
 | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/album/1GW90bLLXpce59MOoYyz6B) | 3:48 | 2022-01-28 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2022-01-28 |  |
@@ -25,7 +26,8 @@
 | [Dallas](https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Dallas / Reverie](https://open.spotify.com/album/79g9mgaxvBBH2352pThhaB) | 4:01 | 2022-01-28 |  |
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 |  |
 | [Eden and Her Borderlands](https://open.spotify.com/track/4bkQi6kVXsm2tbIJruVfDz) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc) | [Eden and Her Borderlands](https://open.spotify.com/album/0HDAngkED519CKHJGdjTCR) | 5:17 | 2022-01-28 |  |
-| [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-02-25 |  |
+| [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:48 | 2022-02-25 |  |
+| [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-02-25 | 2022-10-14 |
 | [False Gods](https://open.spotify.com/track/3yP5h28oeRzAphURxUruUt) | [Evan Bartels](https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd) | [Lonesome](https://open.spotify.com/album/4Tb5K95mAHziwCorYbpFOt) | 3:42 | 2022-01-28 |  |
 | [Feelin' the Miles](https://open.spotify.com/track/6sBhfRlQWEGJ8QyEvZMX0v) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Feelin' the Miles](https://open.spotify.com/album/1StvJe5JR5Sx96l4hAw0Xv) | 4:17 | 2022-01-28 | 2022-07-29 |
 | [Feelin' the Miles](https://open.spotify.com/track/4cwBUZPtZpS4RqUFUZdr96) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 4:17 | 2022-01-28 |  |

@@ -82,6 +82,28 @@
     },
     {
       "album": {
+        "name": "Artificial Love",
+        "url": "https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D"
+      },
+      "artists": [
+        {
+          "name": "Part Native",
+          "url": "https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX"
+        },
+        {
+          "name": "Oly",
+          "url": "https://open.spotify.com/artist/46schiPKx3WhuYpa4XykpL"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Artificial Love",
+      "url": "https://open.spotify.com/track/2f0rA5PoORaLqHd6OghZsC"
+    },
+    {
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX"
       },

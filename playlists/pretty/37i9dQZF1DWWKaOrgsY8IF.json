@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 121234,
+  "num_followers": 121258,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDRkN2M3MmEyYTA1ODRiOTA4N2FlMTdmMGNiOTcwM2Mz",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMGVkOWVmOTRjNTY5ZDI2YzY5NmE1MGMzOTdlOGUxZmMz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -795,30 +795,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Santer\u00eda",
-        "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Santer\u00eda",
-      "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Pa Olvidarte (feat. Manuel Turizo) [Remix]",
         "url": "https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Santer\u00eda",
+        "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Santer\u00eda",
+      "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
     },
     {
       "added_at": "2020-12-01 05:03:00",

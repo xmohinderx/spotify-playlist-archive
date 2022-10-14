@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,216 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,249 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 66 | [Way It Is](https://open.spotify.com/track/0TvcmPpFvMpj88NFnX4FCt) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Way It Is](https://open.spotify.com/album/4mSaUD7NdvOzGnYjRGugDU) | 3:27 |
 | 67 | [Wherever You Go](https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Wherever You Go](https://open.spotify.com/album/33zJ4SIK5Tf8YXlYSsvelT) | 2:49 |
 | 68 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 |
-| 69 | [back to you](https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3) | 2:49 |
+| 69 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
 | 70 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
 | 71 | [I Remember](https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Remember](https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF) | 2:48 |
 | 72 | [21 Days](https://open.spotify.com/track/0KChbh9zPLQNOxkG20cWTN) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [21 Days](https://open.spotify.com/album/2nfbP4RNeTZQNfcD6qgqa2) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 |
 | 100 | [It All Comes Back to You](https://open.spotify.com/track/2mR18y6MvfCUIrWs5PkZQL) | [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [It All Comes Back to You](https://open.spotify.com/album/6HDK8EIuntb34yRiVDNwk4) | 2:45 |
 
-Snapshot ID: `MTY2NTE1OTk4NCwwMDAwMDAwMDc4ZjNkMWZhZDAzZGI0NGI3NTFiYWNkMGEzZTQ3N2Iz`
+Snapshot ID: `MTY2NTE1OTk4NCwwMDAwMDAwMDE0ODMzMmI1NWIwMjk2ZTRhNGE1MTFlYTZhNTQyYzA0`

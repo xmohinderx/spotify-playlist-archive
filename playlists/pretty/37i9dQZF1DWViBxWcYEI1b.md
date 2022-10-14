@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Walk Off the Earth, Tenille Townes
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,549 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,565 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 14 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 | 15 | [21 Days](https://open.spotify.com/track/0KChbh9zPLQNOxkG20cWTN) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [21 Days](https://open.spotify.com/album/2nfbP4RNeTZQNfcD6qgqa2) | 3:06 |
 | 16 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 |
-| 17 | [back to you](https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3) | 2:49 |
+| 17 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
 | 18 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 |
 | 19 | [My Dying Spirit](https://open.spotify.com/track/3eTvyX4x5tBaXBBQsVKTHh) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1) | 4:01 |
 | 20 | [WTF \- Spotify Singles](https://open.spotify.com/track/1tef7JF2U9w7Z02GOgXLKN) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:21 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 54 | [Better](https://open.spotify.com/track/0JHKOlL6X1BG2nigAlfI45) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Better](https://open.spotify.com/album/0lEAuFnxxO1j2umUmgrz5h) | 2:35 |
 | 55 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 |
 | 56 | [Cross Your Mind](https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:32 |
-| 57 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 |
+| 57 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 | 58 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 |
 | 59 | [Manic Pixie Dream Girl](https://open.spotify.com/track/1zCdV5mHCIbG513weaqgAw) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Manic Pixie Dream Girl](https://open.spotify.com/album/1nyDgnM4HsSKfVhwfl0oAg) | 3:05 |
 | 60 | [Walking Away](https://open.spotify.com/track/3hjceC6B76wOAd7q72gpzL) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Walking Away](https://open.spotify.com/album/6sJTdTvUyZUduZeP2QDDe7) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 |
 | 100 | [This Kind Of Love](https://open.spotify.com/track/3QyyIBuuY8yXlGox5Bhh71) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [This Kind Of Love](https://open.spotify.com/album/66DsYVnmcviZORiwGqCWls) | 3:17 |
 
-Snapshot ID: `MTY2NTM2MjY1MywwMDAwMDAwMDE2OTc3ZTA5YzljN2FhNjcxYzY3Y2RmNTIzMTNlNzc3`
+Snapshot ID: `MTY2NTM2MjY1MywwMDAwMDAwMGYxN2QxYWU4MDlkNzI0ZWVlYzMzOTQ0MzRlMTEzNDZi`

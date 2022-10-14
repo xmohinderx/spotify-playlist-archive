@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: TREASURE
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,609 likes - 58 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,789 likes - 58 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 29 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 | 30 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 |
 | 31 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 |
-| 32 | [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 |
+| 32 | [BTBT](https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH) | 3:39 |
 | 33 | [ONE AND A HALF](https://open.spotify.com/track/0yfhVon5XPlCRYNihFIUwu) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [ONE AND A HALF](https://open.spotify.com/album/1JcWNzQIdI3hbCfWbH4Sib) | 3:29 |
 | 34 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 |
 | 35 | [Without You](https://open.spotify.com/track/5Yxizu2LeHTpSHvf3zANWY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:01 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 57 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
 | 58 | [Undo](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:48 |
 
-Snapshot ID: `MTY2NTU1MTI1NiwwMDAwMDAwMDkyOWEyZWI0ZTVmMWYxMTY2YzAzMzNjNTZlNDUxNjk3`
+Snapshot ID: `MTY2NTU1MTI1NiwwMDAwMDAwMDhmYTJkZDBhM2RhMDllYzJjNGE1ZWMyYTcxMTNjMzkz`

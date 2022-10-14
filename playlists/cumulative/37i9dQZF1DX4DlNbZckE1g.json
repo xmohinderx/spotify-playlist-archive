@@ -863,6 +863,28 @@
     {
       "album": {
         "name": "i wanted to call her but i'm tragic and she's overseas (8 months)",
+        "url": "https://open.spotify.com/album/0o7q7fwphIGBw6bqYyvhyX"
+      },
+      "artists": [
+        {
+          "name": "Lola Scott",
+          "url": "https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m"
+        },
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/3swZbHSi8DEZonC120qG4V"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186702,
+      "name": "i wanted to call her but i'm tragic and she's overseas (8 months)",
+      "url": "https://open.spotify.com/track/5rm1Ol1UINESXCZyfe6o1S"
+    },
+    {
+      "album": {
+        "name": "i wanted to call her but i'm tragic and she's overseas (8 months)",
         "url": "https://open.spotify.com/album/4Av2nQdwgjKFFBynZsQkTs"
       },
       "artists": [
@@ -877,7 +899,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 186702,
       "name": "i wanted to call her but i'm tragic and she's overseas (8 months)",
       "url": "https://open.spotify.com/track/77rik3rlCuVcKVrz7UAzt2"
@@ -2109,10 +2131,32 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 207786,
       "name": "Weakness",
       "url": "https://open.spotify.com/track/045scjsVsgs4fJtvUgmWtz"
+    },
+    {
+      "album": {
+        "name": "Weakness",
+        "url": "https://open.spotify.com/album/2nZIZSq3BVInZoyo9BLVpe"
+      },
+      "artists": [
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        },
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Weakness",
+      "url": "https://open.spotify.com/track/4cQl7fTLLpCbf4g0DpsNDM"
     },
     {
       "album": {

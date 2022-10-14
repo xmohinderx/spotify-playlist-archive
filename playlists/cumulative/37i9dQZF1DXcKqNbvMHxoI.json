@@ -529,6 +529,24 @@
     {
       "album": {
         "name": "Current Blues",
+        "url": "https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3BicQmJN3NYNCtBwsLrpRL"
+    },
+    {
+      "album": {
+        "name": "Current Blues",
         "url": "https://open.spotify.com/album/6leO7OdN8iBvw6sRyU8zLO"
       },
       "artists": [
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 218120,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/58wBsn1tDEgUzgLu5wqI8E"
@@ -1253,10 +1271,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 228577,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/3E4yJkELxoD49M4cd113EQ"
+    },
+    {
+      "album": {
+        "name": "Rooms on the Ark",
+        "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228577,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k"
     },
     {
       "album": {

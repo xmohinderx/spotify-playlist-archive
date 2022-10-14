@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > Dark and dreamy while you wait for your wings to grow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,636 likes - 64 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,108 likes - 64 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 33 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 |
 | 34 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/7wmtiUjDliyuM6dA2OSAnZ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 3:51 |
 | 35 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
-| 36 | [Dream, Ivory](https://open.spotify.com/track/3QX3hxUM76cNIwzC1gj8vF) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY) | 3:08 |
+| 36 | [Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/4aMcxxMheE6r3FC4a4JLhv) | 3:08 |
 | 37 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 38 | [Hansel and Gretel](https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC) | [Mercy Necromancy](https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d) | [Hansel and Gretel](https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z) | 3:02 |
 | 39 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 63 | [Prism of Feeling](https://open.spotify.com/track/4skeJN6yWo5wSRgPjRNFUp) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Prism of Feeling](https://open.spotify.com/album/50C6PlqgTU8iZpbzowiCCc) | 4:45 |
 | 64 | [Promise](https://open.spotify.com/track/0ZAtjrHxLKio4iq3X1uz2M) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Promise](https://open.spotify.com/album/5Rz73oELdSL11MPc8Q5sqD) | 4:47 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGYzNzM0NDJjMTA5NjMyYTI1NDM3Yzc4MTE3Y2VkMGJi`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGU3MTU1MDZmYmQ2NDQ3ZmIzMDM1YWIzMmQxNjY2MWQ0`

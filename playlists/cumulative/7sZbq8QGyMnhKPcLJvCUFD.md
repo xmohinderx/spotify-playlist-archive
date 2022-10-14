@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-112 songs - 5 hr 48 min - not published yet
+113 songs - 5 hr 52 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 |  |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 |  |
+| [Artificial Love](https://open.spotify.com/track/2f0rA5PoORaLqHd6OghZsC) | [Part Native](https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX), [Oly](https://open.spotify.com/artist/46schiPKx3WhuYpa4XykpL) | [Artificial Love](https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D) | 3:21 | 2022-10-13 |  |
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 |  |
 | [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 |  |
 | [AWOL](https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [AWOL](https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr) | 3:35 | 2022-07-22 |  |

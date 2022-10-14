@@ -1029,7 +1029,7 @@
     {
       "album": {
         "name": "Kauai",
-        "url": "https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy"
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
       "artists": [
         {
@@ -1040,6 +1040,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 252026,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W"

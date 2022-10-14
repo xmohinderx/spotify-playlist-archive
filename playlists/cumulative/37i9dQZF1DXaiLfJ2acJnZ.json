@@ -3102,6 +3102,24 @@
     },
     {
       "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "album": {
         "name": "Through the Phone",
         "url": "https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2"
       },
@@ -3293,7 +3311,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 186053,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K"

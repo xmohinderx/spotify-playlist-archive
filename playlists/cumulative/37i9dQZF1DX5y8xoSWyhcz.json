@@ -3175,6 +3175,24 @@
     {
       "album": {
         "name": "Highway",
+        "url": "https://open.spotify.com/album/2DNRfz3BaPR4rvOkNJBEX1"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/1bR0if1jm3ZEbKYr0wTUFD"
+    },
+    {
+      "album": {
+        "name": "Highway",
         "url": "https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB"
       },
       "artists": [
@@ -3185,7 +3203,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 206800,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe"
@@ -4089,10 +4107,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 181250,
       "name": "Don't Know How to Girlfriend",
       "url": "https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl"
+    },
+    {
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8"
+      },
+      "artists": [
+        {
+          "name": "GRAE",
+          "url": "https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Don't Know How to Girlfriend",
+      "url": "https://open.spotify.com/track/3V85ifdF1As9rpzJl0m916"
     },
     {
       "album": {
@@ -13247,10 +13283,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 184377,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/6kG8HRKKUAmhYVybHuumQs"
+    },
+    {
+      "album": {
+        "name": "Birthdays In July",
+        "url": "https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184377,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/7GB1amheHeYKw6Kqeatn9Q"
     },
     {
       "album": {

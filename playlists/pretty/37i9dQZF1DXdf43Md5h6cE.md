@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,136 likes - 89 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,260 likes - 89 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 14 | [in motion](https://open.spotify.com/track/1SJAJFXAh3qMeVcMfRXrWa) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 3:57 |
 | 15 | [retreat](https://open.spotify.com/track/72IyK6qGDgNeLlpqS5BsNS) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [retreat](https://open.spotify.com/album/5RzMEYZDsUGeyqCw6azdAg) | 4:10 |
 | 16 | [Nebula](https://open.spotify.com/track/0U4ueXuj5RV1szpREx3ow0) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Nebula](https://open.spotify.com/album/1zXUiNnIWZdgVQ0EacLlQe) | 3:17 |
-| 17 | [glowing aura](https://open.spotify.com/track/2Oln7IKNcflZzS8Z9WMj5f) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/1stXAsb8qN1pDW5FLj1Kd9) | 3:29 |
+| 17 | [glowing aura](https://open.spotify.com/track/2UPdvPrgmcRo9bJjaQl2u2) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/23RjYjNtjkFYYlUk793H3Q) | 3:29 |
 | 18 | [Your Way](https://open.spotify.com/track/6FDJwjtEaug5O8F8R1j5A4) | [Old Futures](https://open.spotify.com/artist/6GqHocik7Id2Em8f7Gv0Z1) | [Your Way](https://open.spotify.com/album/0k28sUPUtxguPEe9Ww9ruO) | 2:42 |
 | 19 | [Consolation](https://open.spotify.com/track/6aZui1qCJi7owqT0AANuHb) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Consolation](https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd) | 3:16 |
 | 20 | [watching the stars \(Slowed + Reverb\)](https://open.spotify.com/track/6V3bFXfMuKX7xJ3v2ate2J) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars \(Remixes\)](https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy) | 1:57 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 88 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 | 89 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
 
-Snapshot ID: `MTY2NDg4MjEzOSwwMDAwMDAwMGI1MDA2YjZkMGE1ZjJmYzM2MWI0NjA5ZGZhNDE1MTkx`
+Snapshot ID: `MTY2NDg4MjEzOSwwMDAwMDAwMDA2NDE2MzQ3ZWMyNThkZDRiMjY2MGY4MTNhMDQ2NjFh`

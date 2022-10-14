@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-138 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
+142 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/5aZhRbJSzAuedzUF3Rv78q) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/73cx7CQjHEROjjzUGP3UpQ) | 3:06 | 2020-12-01 | 2022-07-29 |
 | [35.31](https://open.spotify.com/track/4vS4FB3HXgOSmICeqEY0Gh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 3:56 | 2020-12-01 |  |
 | [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 | 2020-12-01 |  |
-| [Acid at 7/11](https://open.spotify.com/track/3L60fLXCpeTF4jRL8a7kk9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 3:12 | 2020-12-01 |  |
+| [Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A) | 3:12 | 2020-12-01 |  |
+| [Acid at 7/11](https://open.spotify.com/track/3L60fLXCpeTF4jRL8a7kk9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 3:12 | 2020-12-01 | 2022-10-14 |
 | [All My Dogs](https://open.spotify.com/track/72l2v2PLx6dh0xgAfpu57S) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/5ZkmPYypvQicKYGCoOdkzx) | 2:52 | 2020-12-01 |  |
 | [All My Dogs](https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 2:52 | 2020-12-01 | 2022-07-29 |
 | [alley\-oop](https://open.spotify.com/track/6IERGfMBe3csfANIuQ74D9) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [How Do You Feel About Getting Married?](https://open.spotify.com/album/2Ff38vAray2gR1xfw8z12S) | 2:53 | 2020-12-01 |  |
@@ -50,7 +51,8 @@
 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 | 2020-12-01 |  |
 | [Fire](https://open.spotify.com/track/2QUEBOSGpKpL6bzzbQiwwo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:37 | 2020-12-01 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 | 2020-12-01 |  |
-| [First Aid](https://open.spotify.com/track/3y2Dktpll4t3zPlgpCnUCy) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:28 | 2020-12-01 |  |
+| [First Aid](https://open.spotify.com/track/0hrM7JpE7n6mz5vMB7on2f) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:28 | 2020-12-01 |  |
+| [First Aid](https://open.spotify.com/track/3y2Dktpll4t3zPlgpCnUCy) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:28 | 2020-12-01 | 2022-10-14 |
 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 | 2020-12-01 |  |
 | [For Props](https://open.spotify.com/track/4ONnqJEwXq3RRoQBm2CuYH) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [For Props](https://open.spotify.com/album/37qOG7Mcy601w1oVaLd3Nc) | 3:43 | 2020-12-01 | 2022-07-29 |
 | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/track/47v4uUtj5AukJmCbMq4Kry) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 3:11 | 2020-12-01 |  |
@@ -104,9 +106,11 @@
 | [QADIR \- Single Version](https://open.spotify.com/track/42Ul22w633eGjYj59b9nwv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [QADIR](https://open.spotify.com/album/1uV0IhVjPSe88XugMAFsmT) | 4:01 | 2020-12-01 | 2022-07-29 |
 | [QADIR \- Single Version](https://open.spotify.com/track/4SGV6Us8HHNY4d1ysiq2cZ) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [QADIR](https://open.spotify.com/album/5ZcRc43rvb2C63lCG54Ph5) | 4:01 | 2020-12-01 |  |
 | [rangerover \- Bonus Track](https://open.spotify.com/track/2IM2fs9rVuDbqtuXpycvam) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Ricky Music](https://open.spotify.com/album/4jJInzmsXFB6WfoWNqKMH5) | 2:15 | 2020-12-01 |  |
-| [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-12-01 |  |
+| [Reinvent](https://open.spotify.com/track/27nWuh0p5XEDNSKOxLmOmr) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/556YHFgQJKRRoXyDzRZlDO) | 4:03 | 2020-12-01 |  |
+| [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-12-01 | 2022-10-14 |
 | [Room](https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Room](https://open.spotify.com/album/2eOU1jfnTXVVH14YJRkqz9) | 3:30 | 2020-12-01 |  |
-| [Rue](https://open.spotify.com/track/6lhuBaygBqxBjdcXrM685k) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Rue](https://open.spotify.com/album/0wwsKyplQfWHtLxlMvVkvP) | 3:36 | 2020-12-01 |  |
+| [Rue](https://open.spotify.com/track/4EoE743bWWiZ4ttkdPCNbA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:36 | 2020-12-01 |  |
+| [Rue](https://open.spotify.com/track/6lhuBaygBqxBjdcXrM685k) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Rue](https://open.spotify.com/album/0wwsKyplQfWHtLxlMvVkvP) | 3:36 | 2020-12-01 | 2022-10-14 |
 | [Savior Complex](https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:01 | 2020-12-01 | 2022-07-29 |
 | [Savior Complex](https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:01 | 2020-12-01 |  |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2020-12-01 |  |

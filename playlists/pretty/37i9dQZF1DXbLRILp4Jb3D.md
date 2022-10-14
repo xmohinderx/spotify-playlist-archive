@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,798 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,838 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 15 | [Agua](https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa) | [Magdalena Fleitas](https://open.spotify.com/artist/7vUHOeU5ADsenylCCvlaQV) | [Risas Del Sol](https://open.spotify.com/album/1PxnhW7McgHUjAUlF8q9md) | 3:04 |
 | 16 | [Duerme negrito](https://open.spotify.com/track/7HMHqxqrr1exm1O5QuyPI0) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:36 |
 | 17 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 |
-| 18 | [Baby Shark](https://open.spotify.com/track/5k71IudErIAnPklwCbgbgR) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Baby Shark](https://open.spotify.com/album/2a6Jc7yO9JJw870sjR8dbq) | 1:37 |
-| 19 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
+| 18 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
+| 19 | [Baby Shark](https://open.spotify.com/track/5k71IudErIAnPklwCbgbgR) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Baby Shark](https://open.spotify.com/album/2a6Jc7yO9JJw870sjR8dbq) | 1:37 |
 | 20 | [The Bath Song](https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:01 |
 | 21 | [Tu Guardián](https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:25 |
 | 22 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 |
 | 50 | [Esta Noche Es Para Amar](https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Esta Noche Es Para Amar](https://open.spotify.com/album/4fbnK0iTPsM3XweHucKYV3) | 4:01 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDYyN2U0MGU4YmM1YzUzMWZhMmVjMDM0ZGY4NTI2ZDhl`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDc5NTVhMGFjNDU2MzZjOGQyMTM0ZTZlY2EzMGZmZGMx`

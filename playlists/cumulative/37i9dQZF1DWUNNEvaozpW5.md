@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Viva Suecia.
+> Lo mejor del rock de aquí, como Loquillo.
 
-184 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+185 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 | 2022-07-29 |
 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 | 2022-08-25 |  |
 | [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 | 2022-09-01 | 2022-09-30 |
+| [Luna](https://open.spotify.com/track/1YRuKNFkQeyECwYvsrDCH6) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Luna](https://open.spotify.com/album/4Gt59MqebxfNX2RYg4Deeu) | 3:42 | 2022-10-13 |  |
 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 | 2022-05-19 |  |
 | [Malas Noticias \(En Directo\)](https://open.spotify.com/track/0Z8d26MEynF542z5TIZGp7) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Malas Noticias \(En Directo\)](https://open.spotify.com/album/7rfiUVDE8q7b7YGbaVmjoY) | 3:24 | 2022-05-19 | 2022-06-17 |
 | [Malicia 1 \- Demo](https://open.spotify.com/track/6v7y5EddXfbd5JNnukIghN) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Malicia 1 \(Demo\)](https://open.spotify.com/album/3mGBD7Frblo0ZZGNho3UMc) | 3:16 | 2022-09-08 | 2022-09-23 |
@@ -142,7 +143,7 @@
 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 | 2022-05-26 | 2022-06-17 |
 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 | 2022-06-16 | 2022-06-18 |
 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 | 2022-07-21 |  |
-| [Pero igual](https://open.spotify.com/track/1WJMMDwWDoY92YIPEdu85X) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Pero igual](https://open.spotify.com/album/6gPnDp8sPQFIKCenarEM3p) | 3:18 | 2022-09-29 |  |
+| [Pero igual](https://open.spotify.com/track/1WJMMDwWDoY92YIPEdu85X) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Pero igual](https://open.spotify.com/album/6gPnDp8sPQFIKCenarEM3p) | 3:18 | 2022-09-29 | 2022-10-14 |
 | [Perr@](https://open.spotify.com/track/6ZgbAKNcD6RpSTA3Iw6J0n) | [Javier Corcobado](https://open.spotify.com/artist/38euAah4YlEfvxaaa6kYmg), [Culto Oculto](https://open.spotify.com/artist/2WEYGiEpun91aWUiTY2XRa), [Aintzane con G de Gloria](https://open.spotify.com/artist/02i7Z9rORoCbkleLsFm4Do) | [Somos Demasiados \(Edición Deluxe\)](https://open.spotify.com/album/3M1mh5gwgz0SL1WMpdtnIi) | 2:58 | 2022-05-19 | 2022-05-27 |
 | [Perros Románticos](https://open.spotify.com/track/6K0OujXjXCdkBNUp181kkh) | [Carlos Vudú](https://open.spotify.com/artist/7HmCc2l8NOT3VjhjKGj8dQ) | [Perros Románticos](https://open.spotify.com/album/095kVg9ctC3jlnEmIExWov) | 3:57 | 2022-05-26 | 2022-06-10 |
 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 | 2022-05-26 | 2022-07-29 |

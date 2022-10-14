@@ -4,7 +4,7 @@
 
 > indie pop when ur crushing so hard it hurts
 
-243 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
+244 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-28 | 2022-04-20 |
 | [Be Around Me](https://open.spotify.com/track/5MzNoRzcRrXH6kDtwnEAJD) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Be Around Me](https://open.spotify.com/album/4dJ5NmLGNjEfIxRMyS0SRa) | 3:01 | 2021-08-13 | 2022-04-16 |
 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 | 2021-04-30 |  |
-| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 | 2022-10-07 |
+| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 |  |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-03-04 | 2022-07-10 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2021-04-30 | 2022-04-21 |
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2021-04-30 | 2022-10-13 |
@@ -84,7 +84,7 @@
 | [Dms](https://open.spotify.com/track/3TEnlfSGINwgo84RXrQ3ta) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [Dms](https://open.spotify.com/album/1ZxhVhQ8qO9W1dljcAgIqq) | 3:43 | 2022-09-09 |  |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-29 | 2022-07-29 |
 | [Don't Be A Fool](https://open.spotify.com/track/16PeweyKsslOd2wnueVNFI) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 3:26 | 2022-09-09 | 2022-10-07 |
-| [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 | 2021-04-30 |  |
+| [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 | 2021-04-30 | 2022-10-14 |
 | [Dopamine](https://open.spotify.com/track/0bBTBGo3FvLDIbt2bl8wE3) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Dopamine](https://open.spotify.com/album/5ijMMFiB7itadRb19AIWIB) | 3:40 | 2021-04-30 | 2022-07-25 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-06-30 |  |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2021-08-17 | 2022-07-29 |
@@ -208,7 +208,7 @@
 | [STAY IN \(feat\. LoveLeo\)](https://open.spotify.com/track/2smYox7uyoZCKgMHoqfg4X) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [STAY IN](https://open.spotify.com/album/0xO1o1vjzil8Nch5mNjjox) | 2:08 | 2021-04-30 | 2022-06-28 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2021-04-30 | 2022-09-09 |
 | [striptease](https://open.spotify.com/track/2g0Bmi3kYEntusDP6xlAGZ) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/6NhhRbU9p26mbn5byjZ34h) | 2:40 | 2021-09-15 | 2022-07-29 |
-| [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 | 2022-06-30 |  |
+| [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 | 2022-06-30 | 2022-10-14 |
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-05-25 | 2022-04-21 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-10-18 | 2022-04-21 |
 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 | 2021-04-30 |  |
@@ -232,6 +232,7 @@
 | [voicemail](https://open.spotify.com/track/5CsdNmE7ESC2bZnRwgmiUt) | [DAVIN](https://open.spotify.com/artist/09RjELlXo48h84xDdXzvlP) | [voicemail](https://open.spotify.com/album/3fTVzf17JB0xuCcqj2W09g) | 2:23 | 2021-07-02 | 2022-07-11 |
 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2022-05-23 |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-30 | 2022-10-13 |
+| [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-10-06 |  |
 | [We Met On The Internet](https://open.spotify.com/track/3GIZN6vaMVBt8euR2ZGFTV) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [We Met On The Internet](https://open.spotify.com/album/7gYD3jx2jeLdCE14S4DWQM) | 1:37 | 2021-04-30 | 2022-05-20 |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2021-04-30 | 2022-07-27 |
 | [what was the last thing u said](https://open.spotify.com/track/7j8Pum7QmJNtFR5mjniLMu) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 3:47 | 2022-01-28 | 2022-07-27 |

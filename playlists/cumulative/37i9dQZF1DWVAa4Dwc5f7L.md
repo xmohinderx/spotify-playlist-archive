@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Limi\-T 21
 
-141 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
+142 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Mi Conuco](https://open.spotify.com/track/5Qijv9Ynhn9lJCkVmeARkN) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Mi Conuco](https://open.spotify.com/album/0sRfh8ipQ85qmixIoIhj9n) | 3:38 | 2022-01-20 | 2022-07-18 |
 | [Mi Forma De Amar](https://open.spotify.com/track/0jkkUpEiaeiDj3GFhLx4nb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Mi Forma De Amar](https://open.spotify.com/album/7yWwYLalSXv8mCogb6UV3k) | 3:42 | 2022-01-20 |  |
 | [Mi Reina](https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [La Makina..\. A Mil](https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn) | 4:10 | 2022-01-20 |  |
-| [Mi Tonto Amor](https://open.spotify.com/track/0J9FvTTIftLg9Zply3THgB) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Otra Vez!](https://open.spotify.com/album/5KXzQXhEmEX6eJMLoukZWk) | 3:52 | 2022-01-20 |  |
+| [Mi Tonto Amor](https://open.spotify.com/track/0J9FvTTIftLg9Zply3THgB) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Otra Vez!](https://open.spotify.com/album/5KXzQXhEmEX6eJMLoukZWk) | 3:52 | 2022-01-20 | 2022-10-14 |
 | [Morena Ven](https://open.spotify.com/track/19LNUkJNfLznlidzLtD7YA) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/7FCEGdY1gVowEqvyhoY7IT) | 4:21 | 2022-01-20 |  |
 | [Muchacho malo](https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Mujer De Fuego](https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ) | 4:27 | 2022-01-20 |  |
 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 | 2022-01-20 |  |
@@ -110,7 +110,7 @@
 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 | 2022-01-20 |  |
 | [No Vale la Pena Sufrir \- Pop Version](https://open.spotify.com/track/4f8zYSaFyVA3kd9Bdbk0kK) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [No Vale la Pena Sufrir \(Pop Version\)](https://open.spotify.com/album/6oCXgAq3JmEjDyz9XksiCW) | 2:45 | 2022-01-20 |  |
 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 | 2022-01-20 |  |
-| [Ojalá Que Llueva Café](https://open.spotify.com/track/34hdSVv86pIWQ0ObwgMnHl) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/5EvVUz8eHCRe0dYw6Eewbr) | 4:13 | 2022-01-20 |  |
+| [Ojalá Que Llueva Café](https://open.spotify.com/track/34hdSVv86pIWQ0ObwgMnHl) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/5EvVUz8eHCRe0dYw6Eewbr) | 4:13 | 2022-01-20 | 2022-10-14 |
 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 | 2022-01-20 |  |
 | [Oye](https://open.spotify.com/track/4kHWi013mIzQoyNNFxzJmm) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Exitos De Rasputín](https://open.spotify.com/album/4COmudqnWG1tJtT9jGzN2T) | 4:25 | 2022-01-20 |  |
 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 | 2022-01-20 |  |
@@ -145,9 +145,10 @@
 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 | 2022-01-20 |  |
 | [Vale la Pena](https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:27 | 2022-01-20 |  |
 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 | 2022-01-20 |  |
-| [Visa Para un Sueño](https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/5EvVUz8eHCRe0dYw6Eewbr) | 3:28 | 2022-01-20 | 2022-07-29 |
+| [Visa Para un Sueño](https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/5EvVUz8eHCRe0dYw6Eewbr) | 3:28 | 2022-01-20 |  |
 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 | 2022-01-20 |  |
 | [Ya Viene el Lunes](https://open.spotify.com/track/5KxarQE7YBYSAoEoYDcpZR) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Mania ¡Éxitos Latino!](https://open.spotify.com/album/6h5Heh7520a8sEM1f479Qi) | 4:46 | 2022-01-20 | 2022-07-29 |
+| [Ya Viene el Lunes](https://open.spotify.com/track/6BUuusRTBZcjTR3mGIo3jX) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb) | 4:50 | 2022-09-09 |  |
 | [Ñangala Fuangala](https://open.spotify.com/track/2bkIe2K7qMJO7Ai5OVPdBI) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Ñangala Fuangala](https://open.spotify.com/album/0k2ttHsnz3o8Xjt9Fi44sU) | 3:48 | 2022-01-20 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

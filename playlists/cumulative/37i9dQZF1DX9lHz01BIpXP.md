@@ -4,13 +4,13 @@
 
 > Die beste in Afrikaanse Hip Hop Cover: <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA">Jack Parow</a>
 
-50 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
+51 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Asemrowers](https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le) | [Bittereinder](https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F) | [Asemrowers](https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv) | 3:37 | 2022-09-08 |  |
 | [Awe](https://open.spotify.com/track/1rNWkKVhuRBqwJ6nsjQIgw) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [Cream Machine](https://open.spotify.com/artist/3ogDnSPAOIkeH3EJgkw6sd) | [Awe](https://open.spotify.com/album/0uikFOqO0GXZKxzs3Nab8Y) | 2:08 | 2022-09-08 |  |
-| [Awe My Ma Se Kind](https://open.spotify.com/track/0Ht2LLaQovMRWaQSRdGD9t) | [Pret Kadet](https://open.spotify.com/artist/6HViHb4IhV0UAMVV1KMUIk), [Foksie Konyn](https://open.spotify.com/artist/12VZK2SvbJyoOw5OYKee5a) | [Awe My Ma Se Kind](https://open.spotify.com/album/40nAWEdpwiLQLdzqWTQB17) | 3:08 | 2022-09-08 |  |
+| [Awe My Ma Se Kind](https://open.spotify.com/track/0Ht2LLaQovMRWaQSRdGD9t) | [Pret Kadet](https://open.spotify.com/artist/6HViHb4IhV0UAMVV1KMUIk), [Foksie Konyn](https://open.spotify.com/artist/12VZK2SvbJyoOw5OYKee5a) | [Awe My Ma Se Kind](https://open.spotify.com/album/40nAWEdpwiLQLdzqWTQB17) | 3:08 | 2022-09-08 | 2022-10-14 |
 | [Bons](https://open.spotify.com/track/27rWp1eK0aH82c8Uo9nJAB) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Katinka Band](https://open.spotify.com/artist/4KQ5Y1mDvgEUSxKk5FT7pS) | [The Party Starter](https://open.spotify.com/album/1Rzyo8ixVvtCt3ygXclytD) | 3:06 | 2022-09-08 |  |
 | [Breinsuiker \- Remix](https://open.spotify.com/track/20CX51tTFlht4gXK1loswW) | [Jitsvinger](https://open.spotify.com/artist/0Mn0ce5OUNmCtxfiT3TmZr), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Zomer '17](https://open.spotify.com/album/1CP6a9AvPbfDL4FiK49ViT) | 4:23 | 2022-09-08 |  |
 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 | 2022-09-08 |  |
@@ -55,6 +55,7 @@
 | [T\. D\. K\. S](https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv), [TY Mxjor](https://open.spotify.com/artist/6jRREpnzwzBkDjT6QPtlLv) | [T\. D\. K\. S](https://open.spotify.com/album/6fdkcLJyX2csmHE6byABjX) | 3:30 | 2022-09-08 |  |
 | [There It Is](https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:03 | 2022-09-08 |  |
 | [Ware Meddies](https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ) | [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Ware Meddies](https://open.spotify.com/album/77nrr4W0AzamfbN3BhAJXc) | 3:39 | 2022-09-08 |  |
+| [Werkhom 2.0 \(Bonus Track\)](https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [The Goats Ep](https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D) | 3:35 | 2022-10-13 |  |
 | [Wesbank Bloei](https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Wesbank Bloei](https://open.spotify.com/album/0bo1Peg9WhB0rV0HNRK5Ss) | 3:13 | 2022-09-08 |  |
 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 | 2022-09-08 |  |
 | [Windgat](https://open.spotify.com/track/6bttyQEk8x8i4pzNfqEjtd) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW) | [Windgat](https://open.spotify.com/album/28pC9cAetccJKHDpIjsCnd) | 4:35 | 2022-09-08 |  |

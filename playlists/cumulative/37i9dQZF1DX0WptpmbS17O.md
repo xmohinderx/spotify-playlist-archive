@@ -4,7 +4,7 @@
 
 > I'd come back if you'd just call
 
-50 songs - 3 hr 21 min - not published yet
+51 songs - 3 hr 25 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Ohio Forever](https://open.spotify.com/track/2DPTXclMay45uBj9bKEq9B) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Anniversary II](https://open.spotify.com/album/1fOUybYJNec1lhpwWIln83) | 3:22 | 2022-10-12 |  |
 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 | 2022-10-12 |  |
 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 | 2022-10-12 |  |
-| [So Long, Honey](https://open.spotify.com/track/11HXGSToW21uxNRl8kKBbu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 4:51 | 2022-10-12 |  |
+| [So Long, Honey](https://open.spotify.com/track/11HXGSToW21uxNRl8kKBbu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 4:51 | 2022-10-12 | 2022-10-14 |
+| [So Long, Honey](https://open.spotify.com/track/5lgLYRy0KTluByvOQbCucp) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 4:51 | 2022-10-12 |  |
 | [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/7lNmcW2wW6ciV9Rhh8YOMe) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 4:14 | 2022-10-12 |  |
 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 | 2022-10-12 |  |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-10-12 |  |

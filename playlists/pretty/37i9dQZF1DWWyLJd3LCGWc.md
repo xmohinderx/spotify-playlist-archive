@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,167 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,175 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 22 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
 | 23 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 |
 | 24 | [Nitevision](https://open.spotify.com/track/5z9Odpd6Dxm4E59hVyXUSS) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Pamputtae](https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF) | [Nitevision](https://open.spotify.com/album/5y8xwWSEoJKTC0HrMBbNBH) | 2:13 |
-| 25 | [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 |
+| 25 | [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 |
 | 26 | [Little Lotto](https://open.spotify.com/track/3RT7nhA6KgsGC1ueLYM2PV) | [Alo Wala](https://open.spotify.com/artist/4mYDn1R8xbWE4WhRPlr1IG), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Little Lotto](https://open.spotify.com/album/0gDY61ZPg18gY8XT8pRE7L) | 3:56 |
 | 27 | [Classroom](https://open.spotify.com/track/5OPYrpZPzcyfBNzKnDRihe) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Classroom](https://open.spotify.com/album/379F7rTQ1KTTdbZZumT9ad) | 8:36 |
 | 28 | [My Name is Shhh](https://open.spotify.com/track/0RryeDY1e0hTjIN4oa2fNb) | [Manara](https://open.spotify.com/artist/3SLHgM7u02zr0Hfkm0Yn4R), [Bok Bok](https://open.spotify.com/artist/2qUNVIgjpwhQ3gGpM1Nrok) | [Manara International Presents: The Ultimate Spice Mix](https://open.spotify.com/album/1Ibm7cEZrtnTc8T5STUXlw) | 3:20 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 45 | [Bling Bling](https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Satisfaction Guaranteed](https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez) | 2:45 |
 | 46 | [IN THE AIR](https://open.spotify.com/track/63Nh9nDjrK0YB3BaMDN9v6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [CRY 4 HELP](https://open.spotify.com/album/3a9TkAd9pVKebwqaGrQw0n) | 4:21 |
 
-Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDE4NTM0YmIzYjU3MDFiZmUyZjlkMTRmYTc2ZDAwYjZm`
+Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDIwMjk3YmMzMzIwNTg2Y2UxNDYyOTNiN2JiYmI1ZDc2`

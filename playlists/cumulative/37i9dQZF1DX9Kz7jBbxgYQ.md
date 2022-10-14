@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Mitraz
 
-116 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+117 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Duur](https://open.spotify.com/track/12GcQC9YI2VWwPGxnmrSlJ) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Duur](https://open.spotify.com/album/1osbbEkkZTnW5cUA44YoVz) | 3:06 | 2022-05-20 |  |
 | [Duur Se](https://open.spotify.com/track/3ODxqsvcsdmG7ucehNSxn1) | [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Duur Se](https://open.spotify.com/album/6Ly24eStpe3CeK0YcOxVio) | 4:22 | 2022-05-20 |  |
 | [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 | 2022-09-01 |  |
+| [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 | 2022-10-13 |  |
 | [EKDOUTEENCHAAR](https://open.spotify.com/track/1D0DhyKF5GEKs58Kgj9rh2) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [EKDOUTEENCHAAR](https://open.spotify.com/album/6KOL4aMwXbjeO7FH7HSrxG) | 2:53 | 2022-07-15 | 2022-09-02 |
 | [Faasla](https://open.spotify.com/track/3TB0OtQMzrPoNcmXfUMVzC) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:19 | 2022-05-20 | 2022-07-16 |
 | [Faaslay](https://open.spotify.com/track/34MruoNGQNNy5OZJ9czg0x) | [Miracle Mangal](https://open.spotify.com/artist/2V1XXUtkW6Xr9pUSqoggfI), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Wali Aleem](https://open.spotify.com/artist/4yAZWHrBK6G6d7gOzJJqlF) | [MM005](https://open.spotify.com/album/5k5Pm7PhTPmxOY6RfYMUxF) | 4:29 | 2022-05-20 | 2022-07-16 |

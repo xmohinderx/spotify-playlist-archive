@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-261 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+264 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,10 @@
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-10-07 |  |
 | [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 | 2021-07-30 | 2022-01-15 |
 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 | 2021-07-30 |  |
-| [Drown Out the World](https://open.spotify.com/track/397bbBQ4grzXqyWLuFk8iM) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/2c31KcrBsECElK5kRYFH08) | 3:02 | 2022-06-24 |  |
-| [drugs with god](https://open.spotify.com/track/4X9fFaZhmYL6Qcf281GSra) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [drugs with god](https://open.spotify.com/album/3ZBnmsrLoGQYhwQMaoQoqD) | 3:15 | 2022-01-21 |  |
+| [Drown Out the World](https://open.spotify.com/track/397bbBQ4grzXqyWLuFk8iM) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/2c31KcrBsECElK5kRYFH08) | 3:02 | 2022-06-24 | 2022-10-14 |
+| [Drown Out the World](https://open.spotify.com/track/4iz9Fyqp9yxhBsqTQTQlXK) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/6kyArpK138TjC0MPVYAug3) | 3:02 | 2022-10-07 |  |
+| [drugs with god](https://open.spotify.com/track/4X9fFaZhmYL6Qcf281GSra) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [drugs with god](https://open.spotify.com/album/3ZBnmsrLoGQYhwQMaoQoqD) | 3:15 | 2022-01-21 | 2022-10-14 |
+| [drugs with god](https://open.spotify.com/track/5Os1lig4bx8kFCaDj6imty) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [drugs with god](https://open.spotify.com/album/7lOq3wyZZ4GiooPOSVIfa6) | 3:15 | 2022-10-07 |  |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-03-04 |  |
 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 | 2022-08-19 |  |
 | [Entropy](https://open.spotify.com/track/5Dp8m5EWFkNc3TbCSxKSzu) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:41 | 2022-06-24 |  |
@@ -80,7 +82,8 @@
 | [Fear the Sun](https://open.spotify.com/track/2MOk3NNDzsEnNllOlzAhSK) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Fear the Sun](https://open.spotify.com/album/5hJVy5PfgPrVRbX8sREhKx) | 2:46 | 2022-10-07 |  |
 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 | 2022-06-24 |  |
 | [Femme Fatale](https://open.spotify.com/track/6cPCWtg5cWyj0tcUzPiNrJ) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Femme Fatale](https://open.spotify.com/album/1Aed74ojHOeAITkTGa5s4X) | 3:02 | 2021-09-10 | 2022-02-05 |
-| [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/4eAB96x6wsijid73UsHfbO) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv) | 2:48 | 2021-10-01 |  |
+| [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/4eAB96x6wsijid73UsHfbO) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv) | 2:48 | 2021-10-01 | 2022-10-14 |
+| [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG) | 2:48 | 2022-10-07 |  |
 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 | 2021-08-20 | 2022-10-08 |
 | [Forgot Your Meds](https://open.spotify.com/track/2A1kDYSq09jKRjQGndfrMj) | [D'Arcy Spiller](https://open.spotify.com/artist/7o5WFn4X3YuycrDdoEXqaO) | [Disarray](https://open.spotify.com/album/0zrLIWxulSIBUMrinFdEhE) | 3:51 | 2021-08-06 | 2022-10-08 |
 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 | 2021-07-30 |  |

@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232266,
       "name": "Mi Tonto Amor",
       "url": "https://open.spotify.com/track/0J9FvTTIftLg9Zply3THgB"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 253333,
       "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
       "url": "https://open.spotify.com/track/34hdSVv86pIWQ0ObwgMnHl"
@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208013,
       "name": "Visa Para un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk"
@@ -2585,6 +2585,24 @@
       "duration_ms": 286080,
       "name": "Ya Viene el Lunes",
       "url": "https://open.spotify.com/track/5KxarQE7YBYSAoEoYDcpZR"
+    },
+    {
+      "album": {
+        "name": "Juntos Con Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290800,
+      "name": "Ya Viene el Lunes",
+      "url": "https://open.spotify.com/track/6BUuusRTBZcjTR3mGIo3jX"
     },
     {
       "album": {

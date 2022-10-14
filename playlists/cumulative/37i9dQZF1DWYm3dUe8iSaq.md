@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-126 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+129 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Bullet](https://open.spotify.com/track/02xiL1bRrT2lEtrxul4JzB) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Bullet](https://open.spotify.com/album/7bUTtLWrkKLsntpZTcacGR) | 3:51 | 2022-10-07 |  |
 | [Butterfly](https://open.spotify.com/track/2husMCUsF2HdWmGKhr0lo2) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Butterfly](https://open.spotify.com/album/7vDC6freFYc73J5YHbBzvh) | 3:13 | 2022-10-07 |  |
 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 | 2022-04-08 |  |
-| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-10-07 |  |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-10-07 |  |
+| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-10-07 | 2022-10-14 |
 | [Cold Water Swimming](https://open.spotify.com/track/2ht5pkjS9mcShiPGcOmfM3) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/083ZuJO8xStRW0sXozuPhm) | 4:26 | 2022-04-08 | 2022-07-29 |
 | [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 | 2022-07-01 | 2022-08-27 |
 | [Company Car](https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Cubicle](https://open.spotify.com/album/1AZnBpcbI5gTWkQlqoIhy3) | 3:02 | 2022-07-01 |  |
@@ -57,8 +58,9 @@
 | [Hearts That Pound Like Yours](https://open.spotify.com/track/5pv7m6jR9YanJsOelgPXXt) | [Joschko](https://open.spotify.com/artist/2e0VwUHIkR3USVL6GomQ0i) | [Hearts That Pound Like Yours](https://open.spotify.com/album/4J7zHXQyKKUSOpha3swQle) | 3:46 | 2022-04-08 | 2022-10-08 |
 | [High Moon](https://open.spotify.com/track/1p3wVXamX3ceuO8cCPy5fa) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:51 | 2022-07-01 |  |
 | [High Moon](https://open.spotify.com/track/5g7kNKE5PK1XNBuVQ6mVyf) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [High Moon](https://open.spotify.com/album/4lId9PZ1NyhAb3Tk1NfetV) | 3:51 | 2022-04-08 | 2022-07-29 |
+| [Hope It Hurts You](https://open.spotify.com/track/4v5YxnilyEdntIZVfNVYJi) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/1RuUagBpjWf4K4r13ZBmGp) | 3:47 | 2022-10-07 |  |
 | [Hope It Hurts You](https://open.spotify.com/track/7AA8ioyHWFGVuW1hcb900E) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/1dcCeMxT5OzEHTaor778jp) | 3:47 | 2022-04-08 | 2022-07-29 |
-| [Hope It Hurts You](https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/7jBtZEqyK3u48lhYTme83n) | 3:47 | 2022-07-01 |  |
+| [Hope It Hurts You](https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/7jBtZEqyK3u48lhYTme83n) | 3:47 | 2022-07-01 | 2022-10-14 |
 | [How Long?](https://open.spotify.com/track/2qbfPXoNy8SKPtf8rgciXB) | [Will Killen](https://open.spotify.com/artist/53mpvc3wWbaO6a7LKWQ73N) | [How Long?](https://open.spotify.com/album/6DwbMXqXZDNdmtIhvfldHK) | 3:55 | 2022-07-01 |  |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2022-04-08 |  |
 | [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 | 2022-04-08 |  |
@@ -71,7 +73,8 @@
 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 | 2022-04-08 |  |
 | [Lava Lamps](https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Lava Lamps](https://open.spotify.com/album/45zGYTaMmmAXbYhfVFQcMk) | 2:53 | 2022-04-08 |  |
 | [Lay My Heart](https://open.spotify.com/track/1SCnDY0ACXbgOI1tNGAii7) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Lay My Heart](https://open.spotify.com/album/2gVuq83HoNYj37he1sYLsz) | 6:35 | 2022-04-08 | 2022-10-08 |
-| [Lightly Looms \- 7" Version](https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc) | 4:02 | 2022-04-08 |  |
+| [Lightly Looms \- 7" Version](https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn) | 4:02 | 2022-10-07 |  |
+| [Lightly Looms \- 7" Version](https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc) | 4:02 | 2022-04-08 | 2022-10-14 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-04-08 |  |
 | [Love, The Time Is Now](https://open.spotify.com/track/2X2ltpPYs3HykJgy4aLEPx) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Love, The Time Is Now](https://open.spotify.com/album/46HlGccHfYbuywxnAMhEUw) | 2:23 | 2022-10-07 |  |
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2022-04-08 |  |

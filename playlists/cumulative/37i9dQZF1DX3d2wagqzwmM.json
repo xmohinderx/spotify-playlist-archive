@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 153276,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/2FxJX5c1FkfLpladsgoLAD"
@@ -2398,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "Myriad",
+        "url": "https://open.spotify.com/album/4I2XNQakcuBrCmvPb9VSDc"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207358,
+      "name": "Myriad",
+      "url": "https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm"
+    },
+    {
+      "album": {
         "name": "Narco",
         "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
       },
@@ -2417,6 +2435,28 @@
       "duration_ms": 208634,
       "name": "Narco",
       "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
+    },
+    {
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176804,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N"
     },
     {
       "album": {
@@ -2581,7 +2621,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 231750,
       "name": "Odin",
       "url": "https://open.spotify.com/track/2ObmmBBAAQ4KxfAiXf3Fxi"
@@ -3849,7 +3889,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 168251,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1mA59ka5t7zodO1FO0Xzzj"
@@ -4105,6 +4145,28 @@
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
+    },
+    {
+      "album": {
+        "name": "We Go Out",
+        "url": "https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170010,
+      "name": "We Go Out",
+      "url": "https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,682 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,932 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 83 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 |
 | 84 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 |
 | 85 | [Pawns & Kings](https://open.spotify.com/track/3MNZ79grelbBXsQcKUQZAh) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Pawns & Kings](https://open.spotify.com/album/4GdmE5jEDgN7bI8H4BphBT) | 6:18 |
-| 86 | [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 |
+| 86 | [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 |
 | 87 | [You Made Me Want To Live](https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/6ZWvYdM0tNMw4GmE6YIQv0) | 4:31 |
 | 88 | [Cage](https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Cage](https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ) | 2:48 |
 | 89 | [Passenger](https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Passenger](https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4) | 3:26 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 112 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 |
 | 113 | [Money Spent](https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:36 |
 | 114 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 115 | [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/track/4Yg3nF8svtZsmNw9iUOtBM) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/album/3vE2gbz9yzHbWESicfDrFZ) | 2:53 |
+| 115 | [War Inside of Me](https://open.spotify.com/track/5Ikzq8g78raDl7brDayxCk) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me](https://open.spotify.com/album/0c2tRUa9zzsyRp0tFbGdPG) | 2:53 |
 | 116 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 |
 | 117 | [Divided](https://open.spotify.com/track/4X5wQ6IHdm37cOR7ZBBozz) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Divided](https://open.spotify.com/album/1BTfhcdGakBLSOOHejwqnT) | 4:12 |
 | 118 | [Behind Your Walls](https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:21 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [American Dream](https://open.spotify.com/track/1Fl5pNT0nM667ugiC08mPd) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [American Dream](https://open.spotify.com/album/52EG4cU5zsXOZZrKRl2ixV) | 3:05 |
 | 150 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDJjNzkzMzliZmZlNzcyNjVmNmQ0MzRmZWFjZjRjZTMw`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGI3YmEyMTBlMjM3YTk2YTFhZWMzM2MyMjUyMDkzYjNm`

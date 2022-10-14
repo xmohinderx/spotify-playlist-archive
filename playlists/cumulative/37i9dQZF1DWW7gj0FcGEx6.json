@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Catherine Called Birdy (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13XZ1YxWguloTwHYXjcskB"
+      },
+      "artists": [
+        {
+          "name": "Carter Burwell",
+          "url": "https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV"
+        },
+        {
+          "name": "Roomful of Teeth",
+          "url": "https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115384,
+      "name": "Aelis Arrives - from the Amazon Original Movie \"Catherine Called Birdy\"",
+      "url": "https://open.spotify.com/track/0Go1pDClKbn8J3wW4kEIxL"
+    },
+    {
+      "album": {
         "name": "Aelis Arrives (from the Amazon Original Movie \"Catherine Called Birdy\")",
         "url": "https://open.spotify.com/album/3nCRIjQiYn1IzVAE4YZhzc"
       },
@@ -99,7 +121,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 115384,
       "name": "Aelis Arrives - from the Amazon Original Movie \"Catherine Called Birdy\"",
       "url": "https://open.spotify.com/track/2YrgBuGgNZNYJZ6aQpXIfY"

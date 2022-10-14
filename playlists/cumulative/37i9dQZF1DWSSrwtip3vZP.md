@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-126 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+128 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2022-08-22 |  |
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-04-19 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/7lE9rczJypEToogdpOkJ2P) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [NOCTURNAL HOURS](https://open.spotify.com/album/6ASdDSPXkJSi5EFtaGkiOh) | 3:14 | 2022-04-19 | 2022-06-16 |
-| [Love Me Right](https://open.spotify.com/track/0knpN0bAYu21Zh1YV4bYJU) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/2pte1bb27ncC6ljxyvvMzP) | 4:19 | 2022-04-19 |  |
+| [Love Me Right](https://open.spotify.com/track/0knpN0bAYu21Zh1YV4bYJU) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/2pte1bb27ncC6ljxyvvMzP) | 4:19 | 2022-04-19 | 2022-10-14 |
+| [Love Me Right](https://open.spotify.com/track/3HwzxCloueo5NI5XLSUru4) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/4NUBd7Wpgtl44cmesmgPT9) | 4:19 | 2022-09-12 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-24 | 2022-08-12 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-11 |  |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-04-19 |  |
@@ -116,7 +117,8 @@
 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 | 2022-08-11 |  |
 | [Sooner](https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Sooner](https://open.spotify.com/album/5786eFf3UrHXrA1KEnuYDM) | 2:38 | 2022-04-19 | 2022-06-24 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-04-19 | 2022-07-29 |
-| [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 | 2022-08-18 |  |
+| [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 | 2022-08-18 | 2022-10-14 |
+| [Superspreader](https://open.spotify.com/track/7FaIUgTqeTJuoCJRDVsrK9) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/12u39OKDmbqClm1M5JhkHS) | 3:20 | 2022-09-12 |  |
 | [Surface](https://open.spotify.com/track/4GVhluLOWE1vUZTTkNAhSP) | [pinkiscool](https://open.spotify.com/artist/7ifsYRH5zL4543bRoEKkOE) | [Surface](https://open.spotify.com/album/0hCSS2Dry6j7SeJgG8woUs) | 3:08 | 2022-04-19 |  |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-04-19 | 2022-07-09 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2022-04-19 |  |

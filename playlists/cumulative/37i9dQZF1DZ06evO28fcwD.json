@@ -752,6 +752,42 @@
     },
     {
       "album": {
+        "name": "Long Walk to Freedom",
+        "url": "https://open.spotify.com/album/2u9Mxw79FAjQ5MXCNRLY4f"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292386,
+      "name": "Inkanyezi Nezazi (The Star and the Wiseman)",
+      "url": "https://open.spotify.com/track/773hkgxhgixwqNLKE6AdIT"
+    },
+    {
+      "album": {
+        "name": "In Harmony",
+        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66760,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/0jsZz3MRyYyACXfzleO8MV"
+    },
+    {
+      "album": {
         "name": "Chillout Sessions",
         "url": "https://open.spotify.com/album/4aZdSqdLXMHnLt3A6ZTfIj"
       },
@@ -1305,7 +1341,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 342880,
       "name": "Oh Happy Day",
       "url": "https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt"
@@ -1491,7 +1527,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 292386,
       "name": "Shosholoza",
       "url": "https://open.spotify.com/track/2O32KTWp8w2JO0v58wuNQa"

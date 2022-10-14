@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Avenoir
 
-749 songs - 1 day 15 hr 5 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+752 songs - 1 day 15 hr 12 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,8 @@
 | [Oasis](https://open.spotify.com/track/6RD9VzliQUDASSWdClnrPX) | [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Oasis](https://open.spotify.com/album/1wXLHkpMRGzEJU6bVpRHPf) | 2:40 | 2022-05-04 | 2022-08-11 |
 | [OBiNRiN](https://open.spotify.com/track/34HdupoNXwiGPFthiBJ9mD) | [DIVINEANGEL](https://open.spotify.com/artist/2P2NByJDCB5VUHkKVVnOtX), [Angel Seka](https://open.spotify.com/artist/3YqnEjLCU7wmiG51vnUlC0), [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [OBiNRiN](https://open.spotify.com/album/2IKoeMAEUBOvnkLwx3h8v4) | 4:08 | 2022-02-09 | 2022-04-07 |
 | [OBSESSION](https://open.spotify.com/track/2CAiK7cI4zlEoi59jsJMUl) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [OBSESSION](https://open.spotify.com/album/3T3w7S32mdBdI8xwjSB3Ty) | 3:32 | 2022-04-06 | 2022-06-10 |
-| [Oceans](https://open.spotify.com/track/2uV5lDCkyAL6l47LpIWV6X) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/67bnPOMQ5dS0wfhy9sD7WW) | 2:17 | 2022-09-21 |  |
+| [Oceans](https://open.spotify.com/track/2uV5lDCkyAL6l47LpIWV6X) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/67bnPOMQ5dS0wfhy9sD7WW) | 2:17 | 2022-09-21 | 2022-10-14 |
+| [Oceans](https://open.spotify.com/track/618wwrGrOAIPP2dISTsc0i) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/6FS5dua45VW0Ej9BmbVuay) | 2:17 | 2022-09-21 |  |
 | [Off The Drugs \- acoustic](https://open.spotify.com/track/0Oq6ca7BZOyiXmAm7K2geG) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [Off The Drugs \(acoustic\)](https://open.spotify.com/album/0KwUUyOFpY8nM7J16US5Oj) | 2:49 | 2022-09-07 | 2022-10-06 |
 | [Offline](https://open.spotify.com/track/02MtATIEnBgyzvoQqlH5hG) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Offline](https://open.spotify.com/album/0ZWNoe1pGWvequQRiBw7mu) | 3:01 | 2022-02-16 | 2022-04-14 |
 | [OH MY GOD](https://open.spotify.com/track/7u0nMMBCsmZUFLZwIv6jKO) | [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [OH MY GOD](https://open.spotify.com/album/0CqwF4JgIAVpJgIvqoKjoF) | 3:06 | 2022-04-27 | 2022-07-02 |
@@ -538,7 +539,8 @@
 | [Queen St](https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Queen St](https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls) | 3:04 | 2022-08-10 | 2022-10-06 |
 | [Questions](https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Questions](https://open.spotify.com/album/5L42oPqaQXz45v2Buz3x5W) | 3:15 | 2022-07-01 | 2022-08-27 |
 | [RAGGA](https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RAGGA](https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld) | 2:42 | 2022-09-01 | 2022-09-29 |
-| [Rain Falls](https://open.spotify.com/track/4IZKu1dmdvjKE6gUpvfx5Z) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Rain Falls](https://open.spotify.com/album/58bZzAN7pWB0IKuhVaSCLA) | 2:09 | 2022-09-09 |  |
+| [Rain Falls](https://open.spotify.com/track/3xtrDOEsbccLH2jTTJl8Br) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Rain Falls](https://open.spotify.com/album/5GaHNMmZZ8yoqlBLSX4jFt) | 2:09 | 2022-09-09 |  |
+| [Rain Falls](https://open.spotify.com/track/4IZKu1dmdvjKE6gUpvfx5Z) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Rain Falls](https://open.spotify.com/album/58bZzAN7pWB0IKuhVaSCLA) | 2:09 | 2022-09-09 | 2022-10-14 |
 | [raindrops](https://open.spotify.com/track/0opAHADyfECeBJIjIHj429) | [gab • brie](https://open.spotify.com/artist/2R9d5jPXwo9Soa0LhWPhVk) | [raindrops](https://open.spotify.com/album/6NgXWw9WPijXal0q72Y0rA) | 2:59 | 2022-02-09 | 2022-03-12 |
 | [Rearrange](https://open.spotify.com/track/1APcu1K9e8tT6gqcxZ8PZS) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 4:26 | 2022-05-27 | 2022-09-03 |
 | [Reason \(Acoustic\)](https://open.spotify.com/track/6Sdx6AbvTXsA5ZqtAOzHHz) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Reason \(Acoustic\)](https://open.spotify.com/album/6PnAL7KrzBGtrQxgjpHVOg) | 2:42 | 2022-09-14 |  |
@@ -719,7 +721,8 @@
 | [Waves Of Love](https://open.spotify.com/track/7FKHOjtCDh4kv3npLlqx3e) | [Kennedy Rd.](https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu) | [Waves Of Love \- Vol 1](https://open.spotify.com/album/21ry79SyedhRneG6N2ghOY) | 2:45 | 2022-01-19 | 2022-04-07 |
 | [Way I Like](https://open.spotify.com/track/5msgUaS4MMn0gHpdsRemgU) | [TRP.P](https://open.spotify.com/artist/44W1i1CmiwzwvMMBKoRpEA) | [Way I Like](https://open.spotify.com/album/26puHppOKSVpHx0yyh8szX) | 4:13 | 2022-04-13 | 2022-05-27 |
 | [Way Too Late](https://open.spotify.com/track/5kGksdV9PwoR6bJ0JuyrF9) | [MiMi](https://open.spotify.com/artist/2eO5amGdfMGkheRmBPVEnR) | [Way Too Late](https://open.spotify.com/album/4ZhrTJnNMWCf1a8nXneuvg) | 2:57 | 2022-08-26 |  |
-| [We Gon Live It](https://open.spotify.com/track/2noKVjaWZqMeZP4x4Js6ZT) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [We Gon Live It](https://open.spotify.com/album/0LNu0icTx9vNCp0JQWL1tn) | 2:29 | 2022-09-28 |  |
+| [We Gon Live It](https://open.spotify.com/track/0lKQ6pyG4UBquhrR99czHt) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [We Gon Live It](https://open.spotify.com/album/1MgovECVKOjpkN8xCcM0lT) | 2:29 | 2022-09-28 |  |
+| [We Gon Live It](https://open.spotify.com/track/2noKVjaWZqMeZP4x4Js6ZT) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [We Gon Live It](https://open.spotify.com/album/0LNu0icTx9vNCp0JQWL1tn) | 2:29 | 2022-09-28 | 2022-10-14 |
 | [We Got This](https://open.spotify.com/track/5jzV13ovjoArYwbVHfn3jk) | [Iman Jordan](https://open.spotify.com/artist/06HBe4UB9JJvG2eKmcPQ5f) | [We Got This](https://open.spotify.com/album/5ORoKNQ7nLxBCGKsyOmBY3) | 2:43 | 2022-07-27 | 2022-09-15 |
 | [What Are We](https://open.spotify.com/track/49R7HAhvbPaa5Rsste3sWn) | [Ginette Claudette](https://open.spotify.com/artist/44FcajG2fONeWG1KEy0DBt) | [What Are We](https://open.spotify.com/album/1eYfw6AIeYFXvGSzS1OH2u) | 4:03 | 2022-02-02 | 2022-03-17 |
 | [What It Taste Like](https://open.spotify.com/track/67DaVkKniNRuYQ7gzGuOOX) | [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [Natasha Mosley](https://open.spotify.com/album/2QrEk9roj6HAch2GL1nRU4) | 3:21 | 2022-06-09 | 2022-08-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,399 likes - 114 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,430 likes - 114 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 55 | [Sleep](https://open.spotify.com/track/1UYojuIrBcwtyoOEpGYWCy) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Land of Dreams](https://open.spotify.com/album/0ws1Hx2UOl1SPyN84QgWzE) | 3:19 |
 | 56 | [Amplector](https://open.spotify.com/track/3rL6i7GokWtuOwZQ3bWcV9) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:03 |
 | 57 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 |
-| 58 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 |
+| 58 | [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 |
 | 59 | [Praise](https://open.spotify.com/track/6JPkvrIXIROTBKMg6fZTKC) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Praise](https://open.spotify.com/album/6lkZbG6qQljcbdT4UrUDuh) | 3:06 |
 | 60 | [Slumbers](https://open.spotify.com/track/6uqlR64MywWP2zE0Dj5PlA) | [La Torre Infinita](https://open.spotify.com/artist/6DZZrqjeWGzPgM7BTp9YeB) | [La Torre Infinita](https://open.spotify.com/album/5mhZaTQqPkSSjB4iRyvx9Q) | 3:03 |
 | 61 | [Bloom Bliss](https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:39 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 113 | [Tamashi Journey](https://open.spotify.com/track/3bB0KwVk8ZZi4qzGoWhJ3h) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Tamashi Journey](https://open.spotify.com/album/7oTeFssIU9rzERwXP3sBv7) | 3:05 |
 | 114 | [Brightest Blue](https://open.spotify.com/track/2e7bUVyj8XHkxQ3IKCyrMh) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Brightest Blue](https://open.spotify.com/album/7d3sWCM4E49hHDmQUStSpC) | 3:38 |
 
-Snapshot ID: `MTY2NTE2MDAwNiwwMDAwMDAwMGQ5NDA2NTZlYWVhMGMyY2UxZmZiZTJjZjMyNGUxNGIy`
+Snapshot ID: `MTY2NTE2MDAwNiwwMDAwMDAwMGE5YjE5YTU2NzY2OWIzM2UxNWUwYzU3ZWEyODJiODhi`

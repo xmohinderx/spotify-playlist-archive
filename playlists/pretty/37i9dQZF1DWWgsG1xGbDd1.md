@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,472 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,547 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 7 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
 | 8 | [Never Give Your Heart Away](https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi) | 3:05 |
 | 9 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
-| 10 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S) | 4:10 |
+| 10 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
 | 11 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
-| 12 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
+| 12 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S) | 4:10 |
 | 13 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
 | 14 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 15 | [Gumma](https://open.spotify.com/track/48lJI0zX6WopGcgmwv22kv) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 1:51 |
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 17 | [Jah Jah Go Before Us](https://open.spotify.com/track/1R0XkmUBzSOqiWV8XSZ1if) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di) | 2:41 |
 | 18 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
 | 19 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw) | 2:01 |
-| 20 | [Heavenless](https://open.spotify.com/track/2s4U4ZCLqSWMrekCakqlBl) | [Don Drummond & The Skatalites — Heavenless](https://open.spotify.com/artist/1VmIFcBGFy0M17OBzIAe2X) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 6:12 |
-| 21 | [Rocking Time](https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:47 |
+| 20 | [Mark My Word](https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:14 |
+| 21 | [Heavenless](https://open.spotify.com/track/2s4U4ZCLqSWMrekCakqlBl) | [Don Drummond & The Skatalites — Heavenless](https://open.spotify.com/artist/1VmIFcBGFy0M17OBzIAe2X) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 6:12 |
 | 22 | [Stir It Up \- Jamaican Version](https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
-| 23 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 |
-| 24 | [Give Me a Little Sign](https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB) | [Owen Gray](https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:07 |
-| 25 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
-| 26 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
-| 27 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
-| 28 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
-| 29 | [Mark My Word](https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:14 |
+| 23 | [Rocking Time](https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:47 |
+| 24 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 |
+| 25 | [Give Me a Little Sign](https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB) | [Owen Gray](https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:07 |
+| 26 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
+| 27 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
+| 28 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
+| 29 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 | 30 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
 | 31 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
 | 32 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
 | 60 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDdkYjRlOGZhNjc4MWU0ZjIyZTIyZGM1MTgxMzc3YmY3`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDkyNWM1NmMyZDkyZDA2NDhmNWFjOTM0NTY3MDAwYTZh`

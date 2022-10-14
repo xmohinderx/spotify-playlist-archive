@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-103 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/35ZH6ULtFwpziVm8cNibCl)
+104 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/35ZH6ULtFwpziVm8cNibCl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 | 2022-09-05 |  |
 | [Bubbles](https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Wandering](https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg) | 5:47 | 2022-09-05 |  |
 | [C\-Side](https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:43 | 2022-09-05 |  |
-| [Café Com Leite](https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 4:22 | 2022-09-05 |  |
+| [Café Com Leite](https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 4:22 | 2022-09-05 | 2022-10-14 |
 | [Café de Flore](https://open.spotify.com/track/3GyEeD1p5I2TahbhjxCxUU) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/2nSk8BrJiRnY18B87flhAw) | 8:25 | 2022-09-05 |  |
 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 | 2022-09-05 |  |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2022-09-05 |  |
@@ -45,6 +45,7 @@
 | [Get It Up For Love](https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 4:41 | 2022-09-05 |  |
 | [Gobi](https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 5:57 | 2022-09-05 |  |
 | [Hablame](https://open.spotify.com/track/5zOUieF8uLE90U0cJDn2pL) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Hablame](https://open.spotify.com/album/1mzMF0AB5CBiwaNOIq6tZS) | 6:19 | 2022-09-05 |  |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-05 |  |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-09-05 | 2022-10-13 |
 | [Hard To Say Goodbye](https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Mister Mellow](https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm) | 4:12 | 2022-09-05 |  |
 | [Heartbreaker](https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [When We On](https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM) | 5:26 | 2022-09-05 |  |

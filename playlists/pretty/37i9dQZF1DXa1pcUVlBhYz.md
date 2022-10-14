@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,762 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,782 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 46 | [The Floor Is Ours](https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [The Floor Is Ours](https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1) | 3:29 |
 | 47 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 |
 | 48 | [Ceci n'est pas un cliché](https://open.spotify.com/track/4siEGldODDzVHfEJnlmwnr) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Ceci n'est pas un cliché](https://open.spotify.com/album/0R731B5GBbKMcWrkG5sixY) | 3:46 |
-| 49 | [Natives](https://open.spotify.com/track/4MEgPSYPPBEyW10WLsHKkq) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Natives](https://open.spotify.com/album/5Z2BDycTPxBJ5tW58AzsNc) | 4:42 |
+| 49 | [Natives](https://open.spotify.com/track/6jtYFspv3oFdy6zwt8sKDb) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Natives](https://open.spotify.com/album/3pMT1NMsRVQYuiN9mxrMsc) | 4:42 |
 | 50 | [Promise To Keep](https://open.spotify.com/track/3J8CjJWVaDbM9oE2XDyncj) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Promise To Keep](https://open.spotify.com/album/4tSNagHpiYip5XqF3SZzAa) | 4:48 |
 | 51 | [Sailors' Superstition \- Bmore Club Remix](https://open.spotify.com/track/2HkFQRcNbymYFNrhEIOJW8) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [SDOT MUSIC](https://open.spotify.com/artist/5ruvWpLs2aMVuibVXpsJwL) | [Sailors' Superstition \(Bmore Club Remix\)](https://open.spotify.com/album/23mwk7S0raIWPZoYIAAKRl) | 2:48 |
 | 52 | [Waiting For The Day](https://open.spotify.com/track/19WKcEuuC6QVm6C2DdJmQA) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Waiting For The Day](https://open.spotify.com/album/1s7vhmyQbJxsmdGlZOeNyr) | 4:28 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 85 | [These Days](https://open.spotify.com/track/20vHCWboPFuhfLVYWyL27T) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [These Days](https://open.spotify.com/album/6guB22g2F0QDgRuQCT57DK) | 3:03 |
 | 86 | [Play](https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Play](https://open.spotify.com/album/20sS6wKU6D5dQfps6dGh41) | 3:21 |
 | 87 | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/track/6Z6TBLPEQbQBWH7H5pnsKv) | [Pologeff](https://open.spotify.com/artist/3iHdatC6QKi6NRQdZ7XgZj) | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/album/1msgtXkVkBmp54hJTXmQ4c) | 3:05 |
-| 88 | [Wrong Breed](https://open.spotify.com/track/3XFQEMEaKwU6MOm9JFdw5B) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Frame of a Fauna](https://open.spotify.com/album/0ifU4vmffYR8nMs3DJ9elw) | 4:06 |
+| 88 | [Wrong Breed](https://open.spotify.com/track/0a8eV4f7SRViOMwqGYyQai) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Frame of a Fauna](https://open.spotify.com/album/3LPiHM4N1vvRyXYTo1oUB2) | 4:06 |
 | 89 | [What Chu Waiting For?](https://open.spotify.com/track/6FpJyIZaQiRFQliaMnJIyK) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Heartbeats](https://open.spotify.com/album/0ZR5JXKysRQEEAZ0oWrxmJ) | 3:20 |
 | 90 | [NYCE](https://open.spotify.com/track/5hU9asdarIOC0eposo4uge) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Pamputtae](https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF) | [MUSIC LIBERATES MUSIC](https://open.spotify.com/album/0yAEJ6HyRQaHuuVF60I4pr) | 2:44 |
 | 91 | [Dindon](https://open.spotify.com/track/6qPNkMZwvdlUUD3s1fXDQs) | [Love Lokombe](https://open.spotify.com/artist/1oiTM6RUjVUAmDXDpbv6ob), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Dindon](https://open.spotify.com/album/0GqeIb1eJrv7ihFpVb0y7z) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 99 | [Keep You Close](https://open.spotify.com/track/3xYWczqcz54jMm3K7vD9zu) | [Monsieur Frazier](https://open.spotify.com/artist/3hHJfet2F71jJl9FE7WALQ), [Nick Garcia](https://open.spotify.com/artist/6bYqAD7QrVbEFYtlqvvlsG) | [Monsieur Frazier EP](https://open.spotify.com/album/79jwkyOfXm3NDYkFsMhapz) | 4:43 |
 | 100 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGMxMmZjY2YyYjAyZGRjZjQxYzgwZjZmNzk2MjI4YTA4`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGNiZjRmZjIyZGQ2NmE4ZjY3OTZjMjY3NGMzZDYzNDEy`

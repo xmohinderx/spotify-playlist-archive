@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-279 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+280 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 | 2020-10-17 |  |
 | [Baby Blue](https://open.spotify.com/track/5PC9pAUZns03tp7SxXjVgo) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [blablablue](https://open.spotify.com/album/1cyCmy6etmUKPWqmfAxrOz) | 2:12 | 2022-02-25 | 2022-07-18 |
 | [Beautiful](https://open.spotify.com/track/4zK1WjkD3srlJX4Fq1Gtcq) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/4XibEeMTF3nDZK8zpUXDoS) | 4:22 | 2020-10-17 | 2022-04-21 |
-| [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-26 |  |
+| [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-26 | 2022-10-14 |
 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 | 2022-09-01 |
 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 | 2020-10-17 | 2022-07-04 |
 | [Believe](https://open.spotify.com/track/26UKqa0ZbJKqPCos6kke1B) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/5sirXG61pe7mBq8g6IlNxG) | 3:54 | 2020-10-17 | 2022-04-20 |
@@ -76,7 +76,7 @@
 | [Fire Away](https://open.spotify.com/track/3zaTwp8DrM5a3Ap9PZXNHD) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [1856](https://open.spotify.com/album/5DVvuVOVMErY1OEitbiitn) | 4:43 | 2020-10-17 | 2022-04-21 |
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fly \(For Mike\) Feat\. Brittany Howard](https://open.spotify.com/album/41YY1uiKkpKySBWEpqzWpj) | 4:01 | 2021-07-21 | 2022-07-29 |
 | [for life](https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [magnolia](https://open.spotify.com/album/4lUystyYlQEstc79Eic2Q6) | 3:31 | 2020-10-17 | 2022-07-31 |
-| [For Me, It's You](https://open.spotify.com/track/2odYUJ9LhwDVVPxXL3NxuB) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [For Me, It's You](https://open.spotify.com/album/14U9vSKFIUzR7pebXtQhi8) | 4:00 | 2020-10-17 | 2022-08-26 |
+| [For Me, It's You](https://open.spotify.com/track/2odYUJ9LhwDVVPxXL3NxuB) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [For Me, It's You](https://open.spotify.com/album/14U9vSKFIUzR7pebXtQhi8) | 4:00 | 2020-10-17 |  |
 | [For Now](https://open.spotify.com/track/27rRvaQoDLLziMOZZGsACX) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:53 | 2022-08-26 | 2022-09-10 |
 | [For So Long \(Brittle\)](https://open.spotify.com/track/51sYB5jn8WyVL1xJRKOtMb) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [A Voyager's Motion](https://open.spotify.com/album/6azHq3i8KJgKWUH5LTEP8N) | 3:58 | 2020-10-17 | 2022-05-03 |
 | [Forever \[Feat\. PJ Morton & India.Arie\]](https://open.spotify.com/track/2IXLSYxZBRa7KiQm6yyFYo) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 5:45 | 2022-02-25 | 2022-04-21 |
@@ -187,7 +187,8 @@
 | [New Start](https://open.spotify.com/track/7ywmf8Yz7s7erljhh06QGl) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [New Start](https://open.spotify.com/album/2y1oMqGnG9WyLcuwVJSPz8) | 4:42 | 2020-10-17 | 2022-06-11 |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 |  |
 | [No Fooling Me](https://open.spotify.com/track/60j0tXalnpq8iWnh4RyaSQ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [No Fooling Me](https://open.spotify.com/album/0zuuaG3siQ3MBXDYef8I7g) | 2:46 | 2020-10-17 | 2022-04-17 |
-| [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2020-10-17 |  |
+| [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2020-10-17 |  |
+| [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2020-10-17 | 2022-10-14 |
 | [Nothing](https://open.spotify.com/track/6AxRGtu8gdKPeynxdHsmzC) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Nothing](https://open.spotify.com/album/6vxh3eBU46aqiwersrZ090) | 2:42 | 2020-10-17 | 2022-07-24 |
 | [Now You're Here](https://open.spotify.com/track/2iAzigOFf61dLLPaiEDAcZ) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:08 | 2021-07-30 | 2022-07-29 |
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-08 |  |

@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-345 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+349 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Atotoztli](https://open.spotify.com/track/48dZLnPkYNhuUZHl36A24f) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Atotoztli](https://open.spotify.com/album/1uHAS3TEeN3yPGB2nxJZSf) | 2:03 | 2022-07-08 |  |
 | [Avalanche](https://open.spotify.com/track/0VMEBEpEWY56jW7ud5aT94) | [Dreams For Two](https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe) | [Avalanche](https://open.spotify.com/album/1Y2H8LXdK9uu2rfk1em2Lg) | 1:44 | 2022-04-15 |  |
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 |  |
-| [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-11-10 |  |
+| [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-11-10 | 2022-10-14 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-11-10 |  |
 | [Baines Brains](https://open.spotify.com/track/4mYZMVHrAEVQUexcjwuHHa) | [Onedin](https://open.spotify.com/artist/7KrGMuULLxPvuxjbfmUSyj) | [Baines Brains](https://open.spotify.com/album/10oADYbyibQzzhvtqKLyjv) | 3:21 | 2021-11-10 | 2022-05-20 |
 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 | 2021-11-10 |  |
@@ -44,6 +44,7 @@
 | [Bloomin'](https://open.spotify.com/track/4V84CYLnNvkP3YzhL5cpLx) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Bloomin'](https://open.spotify.com/album/6lgNSOo9OivZS0jLaWeXwB) | 2:16 | 2022-01-21 |  |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-10 |  |
 | [bubble beach](https://open.spotify.com/track/7uwZt4cO0n0d0aI3VaiSGf) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [bubble beach](https://open.spotify.com/album/7ASNeFNx3Eg0kYgUHzNAR1) | 3:13 | 2022-10-07 |  |
+| [Business Class](https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Business Class](https://open.spotify.com/album/39RDYR5qrgDJoYlfX3qIrc) | 2:14 | 2022-10-14 |  |
 | [Bye Felicia!](https://open.spotify.com/track/3DJj5RlFWUokYJ1qjvTZof) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Bye Felicia!](https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf) | 2:27 | 2021-11-10 |  |
 | [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 |  |
 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 | 2022-01-21 |  |
@@ -67,7 +68,7 @@
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-10 | 2022-02-11 |
 | [Cosmic Trip](https://open.spotify.com/track/5vvKcQkqVa10CxOzOylWWv) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Cosmic Trip](https://open.spotify.com/album/5cGfxg4XucEAk4yYy5PYg2) | 2:00 | 2022-04-15 |  |
 | [Couple Lattes](https://open.spotify.com/track/01RxJZ9GhysTABL6fB5KpC) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Bodies of Water](https://open.spotify.com/album/5mu4aOQFavVQ1gfbZGepkt) | 2:40 | 2021-11-10 | 2022-09-24 |
-| [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2021-11-10 |  |
+| [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2021-11-10 | 2022-10-14 |
 | [Creative Waves](https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Creative Waves](https://open.spotify.com/album/6vRILbTFu1ArfbdVdrRzDB) | 3:16 | 2022-05-20 | 2022-09-02 |
 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 | 2022-02-10 |  |
 | [Daisy\-Chain](https://open.spotify.com/track/6Bk42XX8jPED540IlNEvsr) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Daisy\-Chain](https://open.spotify.com/album/3cKoDYDdo4OnTRWydsyWCt) | 2:10 | 2022-09-16 |  |
@@ -108,7 +109,7 @@
 | [FLAVOURS](https://open.spotify.com/track/3GCKncswL5O0MZfCuYaJWG) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [FLAVOURS](https://open.spotify.com/album/2kesWSxxpRTAMPSTQDpAiH) | 2:13 | 2022-09-02 |  |
 | [Flic\-en\-Flac](https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Flic\-en\-Flac](https://open.spotify.com/album/2BynXAAYqXtPpbAclrbb7u) | 3:05 | 2021-11-10 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-11-10 | 2022-10-07 |
-| [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 | 2021-11-10 |  |
+| [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 | 2021-11-10 | 2022-10-14 |
 | [Flutters](https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:39 | 2022-06-17 |  |
 | [Focused Projections](https://open.spotify.com/track/1W2z4uJzZuA0r0MDQWJvex) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Clusters](https://open.spotify.com/album/7mPBccYXc1Wkx45EGsN0ir) | 3:25 | 2021-11-10 | 2022-07-08 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-10 |  |
@@ -122,6 +123,7 @@
 | [Free As Dogs](https://open.spotify.com/track/3AtSwMiONFjvK8pFDxNqUT) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Famous](https://open.spotify.com/album/56AG1YCUB35Mbe8rqJV2iH) | 3:12 | 2022-06-10 | 2022-09-02 |
 | [Fruity Flavor](https://open.spotify.com/track/4a5zK2frFoJIH7MsJvC7Lp) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [ENGL](https://open.spotify.com/album/1TlcUSr83vfKHkQ2RCsnWI) | 1:52 | 2021-11-10 | 2022-07-08 |
 | [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 | 2022-08-05 |  |
+| [Future Lovers](https://open.spotify.com/track/3SORHgn6Gj7qBzQuZLv7N7) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Move It Slower](https://open.spotify.com/album/5HRAg8TbMGIpE1yJXBLQAL) | 2:28 | 2022-10-14 |  |
 | [gather around](https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f) | [Starzero](https://open.spotify.com/artist/2WmS1I4SYqnO6zLSXMpIlj) | [gather around](https://open.spotify.com/album/3DmutGlmDC8W3Ie9PLQiZ4) | 2:35 | 2021-11-10 | 2022-05-11 |
 | [Get A Grip](https://open.spotify.com/track/3ij4NFa0nre7Y3XFZ9QQyM) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Get A Grip](https://open.spotify.com/album/0PJtdZKqdrQXJmhjZmrVk6) | 2:42 | 2022-06-10 | 2022-09-02 |
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2021-11-10 | 2022-05-11 |
@@ -191,6 +193,7 @@
 | [Magische Farben](https://open.spotify.com/track/4gvMBplqidY6XU4ZK5ITUQ) | [Karl Rosskopf](https://open.spotify.com/artist/4kpLFREUgmoCqpRrAjYhRw), [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Magische Farben](https://open.spotify.com/album/1NRFEGZ63qdhitJWNIyALL) | 2:48 | 2021-11-10 | 2022-07-08 |
 | [Make It Count](https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Make It Count](https://open.spotify.com/album/2cRKaFS1CgsSizxPQC6ca6) | 3:03 | 2021-11-10 |  |
 | [making mixtapes](https://open.spotify.com/track/3zFvlfTZuoM8yYpDGqBQWm) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [making mixtapes](https://open.spotify.com/album/78d1kuIGISTSexice5zMFV) | 1:49 | 2022-05-10 |  |
+| [Manhattan \(Edit\)](https://open.spotify.com/track/2XVuE0BCV1bkoOwTZdT0sk) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [Manhattan \(Edit\)](https://open.spotify.com/album/53Mdl4dpD3yyI14OpQn0XG) | 2:54 | 2022-10-14 |  |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2021-11-10 |  |
 | [Marcus in Toyland](https://open.spotify.com/track/6QXotvrkA7vnx1qYULqamc) | [Lost In Los Angeles](https://open.spotify.com/artist/7hNdZmdfhLH5qi7Fr0Q7mO) | [Marcus in Toyland](https://open.spotify.com/album/2erTiHvq1ndlXSyJGmxlB5) | 2:46 | 2021-11-10 | 2022-05-20 |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-10 | 2022-07-08 |
@@ -224,6 +227,7 @@
 | [Nothing but trouble](https://open.spotify.com/track/7JUoKddqlQCvbRNHKEDFcg) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nothing but trouble](https://open.spotify.com/album/4o6aQi9SruqMNfKDLG2xXx) | 2:29 | 2022-09-23 |  |
 | [nothingness](https://open.spotify.com/track/5zdn3L5GzeQ4kXiE0d1WdZ) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [nothingness](https://open.spotify.com/album/6sRcugHIXJevonu7O4TCkU) | 2:23 | 2021-11-10 | 2022-04-15 |
 | [Nuages](https://open.spotify.com/track/5zABvoRurfZ456yMRvqjZ7) | [Stanton](https://open.spotify.com/artist/2bFESEkcjm4jaMnLd3ROM5) | [Nuages](https://open.spotify.com/album/7Jd7l8nFnClLENTSnAde8L) | 2:37 | 2021-11-10 | 2022-10-07 |
+| [Number\#](https://open.spotify.com/track/48db71uT5mlzqtkBG5BOtJ) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Number\#](https://open.spotify.com/album/0vCDjbfYpMvookIZDrLXvl) | 2:15 | 2022-10-14 |  |
 | [Obo](https://open.spotify.com/track/7qOBaSjMFcdfUfDQ7IbrZo) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Rate 44](https://open.spotify.com/album/4n0F4gBSVeM5k6kYXpSrsd) | 2:41 | 2022-07-01 |  |
 | [Observatorium](https://open.spotify.com/track/7pkJcdFG05UdO4LfUWJind) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Observatorium](https://open.spotify.com/album/2E1EWP032eVX5MqtUxUkGM) | 8:05 | 2021-11-10 | 2022-05-27 |
 | [Obsidian](https://open.spotify.com/track/4v4yJdcwrLzNE2dEPGPsev) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Infinite Sustain](https://open.spotify.com/album/4bLXZwh88rBBy6bgFFBhVg) | 2:43 | 2021-11-10 | 2022-07-08 |
@@ -345,7 +349,7 @@
 | [Weave](https://open.spotify.com/track/4iYFb2ChzBJ2CvgtePMpSM) | [Kyra Mora](https://open.spotify.com/artist/25XZKnvJlYGzMYE0qty5OM) | [Weave](https://open.spotify.com/album/1Pv9MqpZohiDQ8lKOWhLnP) | 2:33 | 2021-11-10 | 2022-07-08 |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-10 |  |
 | [When the lights are out](https://open.spotify.com/track/0dHjcYFbChsnfp1gD1leue) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Night Vibes](https://open.spotify.com/album/2MJHtNfn9mlrogJJ7seBJO) | 2:40 | 2022-08-19 |  |
-| [Why, Rose?](https://open.spotify.com/track/0gSirh7kcMYR6wkFkOyJ6y) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 1:47 | 2021-11-10 |  |
+| [Why, Rose?](https://open.spotify.com/track/0gSirh7kcMYR6wkFkOyJ6y) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 1:47 | 2021-11-10 | 2022-10-14 |
 | [Window in Time](https://open.spotify.com/track/45M34uxWB4RGb9Nh16luLs) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Window in Time](https://open.spotify.com/album/59rKbmjCHpwkGniq34qANA) | 3:07 | 2022-10-07 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-11-10 | 2022-04-06 |
 | [Wonderland](https://open.spotify.com/track/7zo53YenWv2I2cSRxkM24D) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Wonderland](https://open.spotify.com/album/1IJODkkOhE5bBgcGoev3sZ) | 2:27 | 2022-05-27 |  |

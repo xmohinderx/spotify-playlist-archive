@@ -519,6 +519,24 @@
     {
       "album": {
         "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190884,
+      "name": "Did You Come?",
+      "url": "https://open.spotify.com/track/0vOJBOg4bqd5PSY8k4DYny"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
       },
       "artists": [
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 209160,
       "name": "I Wanna Be Your Girlfriend",
       "url": "https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE"
@@ -2527,7 +2545,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 155762,
       "name": "umbrellar",
       "url": "https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J"
@@ -2639,6 +2657,24 @@
       "duration_ms": 191304,
       "name": "Wish You Were Gay",
       "url": "https://open.spotify.com/track/6fgjMZJlIACwYqC1b0yyiP"
+    },
+    {
+      "album": {
+        "name": "You Might Not Like Her",
+        "url": "https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "You Might Not Like Her",
+      "url": "https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Kalash & Damso au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -244,7 +244,7 @@
     },
     {
       "album": {
-        "name": "94 bois, vol. 2",
+        "name": "94 bois, Vol. 2",
         "url": "https://open.spotify.com/album/6WELqgG0dapTfZXNUnOHKC"
       },
       "artists": [
@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179386,
       "name": "CANADA",
       "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
@@ -1156,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146118,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH"
+    },
+    {
+      "album": {
         "name": "Louis V",
         "url": "https://open.spotify.com/album/1BYuCRO2VsdMLNCTirNUMr"
       },
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 194360,
       "name": "Parapluie (feat. Maes)",
       "url": "https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI"
@@ -1627,6 +1645,28 @@
       "duration_ms": 157040,
       "name": "Platine o Plomo",
       "url": "https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d"
+    },
+    {
+      "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Quand j'y repense",
+      "url": "https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0"
     },
     {
       "album": {

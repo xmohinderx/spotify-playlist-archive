@@ -5209,10 +5209,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 247289,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH"
+    },
+    {
+      "album": {
+        "name": "A World Gone By",
+        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247289,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/61iHQQn1NT0nqvqLdO5jjY"
     },
     {
       "album": {

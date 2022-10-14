@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: TREASURE
 
-666 songs - 1 day 13 hr 4 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+667 songs - 1 day 13 hr 8 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Breathe Again](https://open.spotify.com/track/5bAgMDRLG5YKdXwOU7KVAe) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [CHECK\-IN](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) | 3:34 | 2021-05-19 | 2021-06-25 |
 | [Bring it on](https://open.spotify.com/track/6w4nlTYyrzB5kYhiABzBsQ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [TRICKSTER](https://open.spotify.com/album/3SexPtGPRSuzvjawaByl2G) | 3:24 | 2022-05-18 | 2022-07-14 |
 | [Broken Me](https://open.spotify.com/track/6PiOBvjLSb1UD9wtqwplUG) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Broken Me](https://open.spotify.com/album/26iymt2wG3Bw53mmX5AbvB) | 3:24 | 2021-06-11 | 2021-08-05 |
-| [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 | 2022-05-31 |  |
+| [BTBT](https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH) | 3:39 | 2022-10-06 |  |
+| [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 | 2022-05-31 | 2022-10-14 |
 | [bugAboo](https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [bugAboo](https://open.spotify.com/album/4eXw2D722tMVage8wwtsOR) | 3:50 | 2021-10-30 | 2022-01-04 |
 | [BUMP BUMP](https://open.spotify.com/track/3DuDC17OWfngzNa0dyK4Nj) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [WOOPS!](https://open.spotify.com/album/34PBDKuurgUDpAudAbOt9C) | 3:02 | 2020-11-17 | 2021-03-19 |
 | [Burn It](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 5th Mini Album \[YES.\]](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2021-01-25 | 2021-03-08 |

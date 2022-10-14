@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-199 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+202 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 |  |
 | [Ballad Of The Sad Young Men \- Live](https://open.spotify.com/track/7KUTZdBEWzHjdf9Hwr5FHT) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:02 | 2021-12-14 | 2022-09-15 |
 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 | 2021-12-14 |  |
-| [Beautiful Love](https://open.spotify.com/track/1oT0zC6lxsNHITyexFwQIM) | [Lenox Livingroom Sessions](https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t) | [VOL.1](https://open.spotify.com/album/4o4YAUFAzbwczGbbDgyrUR) | 2:36 | 2021-12-14 |  |
+| [Beautiful Love](https://open.spotify.com/track/1oT0zC6lxsNHITyexFwQIM) | [Lenox Livingroom Sessions](https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t) | [VOL.1](https://open.spotify.com/album/4o4YAUFAzbwczGbbDgyrUR) | 2:36 | 2021-12-14 | 2022-10-14 |
 | [Bella's Smile](https://open.spotify.com/track/2YDm0hVUj1JGWqyRK6ERpP) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Baldwin's Tune](https://open.spotify.com/album/7BkeW5r0rPvAuIgnCLQD7F) | 3:11 | 2022-05-03 | 2022-08-11 |
 | [Black Forest Rose](https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Black Forest Rose](https://open.spotify.com/album/6uCZP5InNgoKOxh8WPQkYz) | 4:29 | 2022-09-29 |  |
 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 | 2022-05-31 |  |
@@ -61,6 +61,7 @@
 | [Farewell](https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Farewell](https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5) | 3:59 | 2021-12-14 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-14 |  |
 | [Foggy Sunday](https://open.spotify.com/track/331aspu4164ZfUMcaWzc8C) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Foggy Sunday](https://open.spotify.com/album/3U2D6KS4rrUHvaFHY5w9P4) | 3:47 | 2022-05-31 |  |
+| [Follow Me Till the End of Time](https://open.spotify.com/track/52nDbEu1rxpAIjy3h00Wfo) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Follow Me Till the End of Time](https://open.spotify.com/album/7HrCFkxJPSwS5Ku61EiiDc) | 2:58 | 2022-10-13 |  |
 | [For Heavens Sake](https://open.spotify.com/track/3L94Y3LMCAW65sKrZs1bz7) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [For Heavens Sake](https://open.spotify.com/album/2hfGoUNu7M0B1bTs35GJou) | 4:51 | 2022-06-14 |  |
 | [Gone With The Wind](https://open.spotify.com/track/328DcmekpxrhOL4SYI6t9V) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:18 | 2021-12-14 | 2022-10-07 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 |  |
@@ -109,6 +110,7 @@
 | [Lover For The Day](https://open.spotify.com/track/1IpTomdIM4HvZI2CnaPszo) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 3:31 | 2022-05-24 |  |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
 | [Madison](https://open.spotify.com/track/4XJwaQOwqrfkiXkAuxZSNd) | [The Late Nighters](https://open.spotify.com/artist/22RipbQQrUasT0JEHZLOFa) | [Madison](https://open.spotify.com/album/0rzTWa0urikuszTgERM9Jd) | 2:33 | 2021-12-14 |  |
+| [Margaret Dances](https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:30 | 2022-10-13 |  |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-08-10 |  |
 | [Midnight midtown](https://open.spotify.com/track/23SM99bJ0j6IejFfLXkUoA) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Midnight midtown](https://open.spotify.com/album/0zCX7YfKIsb7SmiDl93KZi) | 4:33 | 2021-12-14 |  |
 | [Miles and Miles](https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Miles and Miles](https://open.spotify.com/album/1Gl5EDLgmZ5qFglvsJUCSX) | 4:31 | 2022-09-20 |  |
@@ -120,7 +122,7 @@
 | [Monkish](https://open.spotify.com/track/6lIFlb3HdNzErgonZQ4m9Z) | [Joseph Drilbit](https://open.spotify.com/artist/0GSGmZyJOTo4POWJvJtvy0) | [Monkish](https://open.spotify.com/album/4iJrUAgOmmHa1eYL6wz1MR) | 3:47 | 2022-06-14 |  |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-04-26 |  |
 | [Morning Star](https://open.spotify.com/track/7pu7cn7U9lvHYXRc2yrKBC) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Morning Star](https://open.spotify.com/album/6WZgJAHNWZCDLVVOOiM4py) | 3:44 | 2022-08-10 |  |
-| [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2021-12-14 |  |
+| [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2021-12-14 | 2022-10-14 |
 | [My Foolish Heart](https://open.spotify.com/track/4mHo5Z7SZA6nynbGOirSrA) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [My Foolish Heart](https://open.spotify.com/album/460v4rKXEU7AFP6YOgVc8L) | 3:37 | 2021-12-14 |  |
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2022-08-10 |  |
 | [Myren](https://open.spotify.com/track/0ndyWE3s5txZ0p4YXMiVDj) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Myren](https://open.spotify.com/album/32wLo8nPlRDWr2aBvqStje) | 2:35 | 2021-12-14 | 2022-06-09 |
@@ -187,6 +189,7 @@
 | [Turn Down the Lights](https://open.spotify.com/track/0ogRwGa7KtCUBF2PKJKO3F) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 2:57 | 2022-09-13 |  |
 | [Turn Out the Stars](https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Turn Out the Stars](https://open.spotify.com/album/0uioB9VBjFggpQITMYMIeQ) | 3:23 | 2021-12-14 |  |
 | [Under the same roof](https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ) | [Krista Lake Band](https://open.spotify.com/artist/3WVZp2cbKWXh2PzmQEOx9D) | [Old Habits](https://open.spotify.com/album/1fco2lBvgsVH2R0xsklBaZ) | 3:58 | 2021-12-14 |  |
+| [Vindarna Sucka](https://open.spotify.com/track/0gZNX4cHmPQMlnTcWgulRU) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Vindarna Sucka](https://open.spotify.com/album/336YK4Ss9MpzHEmxMCTSZQ) | 2:31 | 2022-10-13 |  |
 | [Waiting](https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Waiting](https://open.spotify.com/album/0Y36HrqDhG2FiVQlNzkgRD) | 3:21 | 2022-09-20 |  |
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-08-30 |  |
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-04-26 |  |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,301 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,364 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nansa](https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 4:10 |
 | 2 | [Teblina](https://open.spotify.com/track/62BTtJMH55mNZWkt7bsiN2) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Teblina](https://open.spotify.com/album/1lCnDpXNlxvQ3Pw8WgxDAm) | 3:30 |
 | 3 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 |
-| 4 | [KI NKHAMMEM FIK](https://open.spotify.com/track/1IfYpioyU828cGgXJK44Bi) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [KI NKHAMMEM FIK](https://open.spotify.com/album/3957FwIBCahzUaxaboTkLO) | 4:06 |
-| 5 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 |
-| 6 | [Zydi](https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy) | [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Zydi](https://open.spotify.com/album/2gijwfmnPlKT61VSEUOFxY) | 4:59 |
-| 7 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 |
-| 8 | [La Loum](https://open.spotify.com/track/7pL1hO8qcS60CqWNqGAsZX) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [La Loum](https://open.spotify.com/album/3V5xcUcgTtSELeMEplZYO9) | 3:53 |
-| 9 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 |
-| 10 | [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 |
-| 11 | [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 |
+| 4 | [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 |
+| 5 | [KI NKHAMMEM FIK](https://open.spotify.com/track/1IfYpioyU828cGgXJK44Bi) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [KI NKHAMMEM FIK](https://open.spotify.com/album/3957FwIBCahzUaxaboTkLO) | 4:06 |
+| 6 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 |
+| 7 | [Zydi](https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy) | [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Zydi](https://open.spotify.com/album/2gijwfmnPlKT61VSEUOFxY) | 4:59 |
+| 8 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 |
+| 9 | [La Loum](https://open.spotify.com/track/7pL1hO8qcS60CqWNqGAsZX) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [La Loum](https://open.spotify.com/album/3V5xcUcgTtSELeMEplZYO9) | 3:53 |
+| 10 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 |
+| 11 | [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 |
 | 12 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 |
 | 13 | [هكا نعيش](https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7) | [Walid Salhi](https://open.spotify.com/artist/3eWsdDqacW8AmlYfonweYL) | [هكا نعيش](https://open.spotify.com/album/6VKkxrt6xSlztxBbkWeZtE) | 4:49 |
 | 14 | [Ana Weyak](https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [أنا وياك](https://open.spotify.com/album/4y49FwQLBB611add8CodNd) | 2:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 50 | [Njik Nzour](https://open.spotify.com/track/58oVWjYLjemAvRIIb2lDWS) | [Amon](https://open.spotify.com/artist/4nOP7DBb86tiEXS1NqQ2bw) | [Njik Nzour](https://open.spotify.com/album/3Cq4ZZHahM2IZNt2AnhaCo) | 3:18 |
 | 51 | [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 |
 
-Snapshot ID: `MTY2NTQwMzU2OSwwMDAwMDAwMDhkOWEwMWI1YjJmNTFlZWQ3OTliZWUwNjdiMjY2MDEx`
+Snapshot ID: `MTY2NTY0NTcxMywwMDAwMDAwMDVkM2Y3MmFkNzU1NTYyNzdhYTc4ZjNlNGUwMGU2ZWJi`

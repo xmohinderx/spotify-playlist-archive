@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,245 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,247 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 37 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
 | 38 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 39 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
-| 40 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 |
+| 40 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
 | 41 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
 | 42 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
 | 43 | [Dziewczyna z NASA](https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai), [Panilas](https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa) | [Dziewczyna z NASA](https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX) | 3:40 |
 | 44 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
 | 45 | [Lont](https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Lont](https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX) | 3:48 |
-| 46 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
+| 46 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 |
 | 47 | [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 |
 | 48 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 | 49 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
-| 50 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
-| 51 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 |
+| 50 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 |
+| 51 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMGNhOTMyYmVmM2IyYmM3MmE0YTg0YTZiNGM5NTgyNjIx`
+Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMGVlNzI0ZmZlYzA0MGYwYTY3ZDNlYTA2NmI0NTM0ZmZl`

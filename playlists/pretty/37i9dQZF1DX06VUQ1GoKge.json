@@ -1,15 +1,15 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 414314,
+  "num_followers": 414682,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMDQ0YTFkZDBhNjA4MDk0MDE5ZjM4ZTA2Zjc2NTI0OGE3",
+  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMGI1NzQ4OTkzM2EyY2FhMTg0YTg3OGY1MDFhNDJiMWRm",
   "tracks": [
     {
-      "added_at": "2022-10-13 01:35:07",
+      "added_at": "2022-10-14 01:44:32",
       "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
     },
     {
-      "added_at": "2022-10-13 01:35:07",
+      "added_at": "2022-10-14 01:44:32",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
-      "added_at": "2022-10-13 01:35:07",
+      "added_at": "2022-10-14 01:44:32",
       "album": {
         "name": "A Devil More Damned / Choke / Mind Right",
         "url": "https://open.spotify.com/album/3VpuG1Z9YmhjOBK77CMdro"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
     },
     {
-      "added_at": "2022-10-13 01:35:07",
+      "added_at": "2022-10-14 01:44:32",
       "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
@@ -301,38 +301,6 @@
       "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
     },
     {
-      "added_at": "2021-08-11 12:23:17",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 374453,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 260773,
-      "name": "Unsainted",
-      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
-    },
-    {
       "added_at": "2021-03-29 12:26:54",
       "album": {
         "name": "Sehnsucht",
@@ -351,6 +319,38 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Unsainted",
+      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
+    },
+    {
+      "added_at": "2021-08-11 12:23:17",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 374453,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
       },
@@ -365,20 +365,20 @@
       "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
     },
     {
-      "added_at": "2021-10-12 08:24:18",
+      "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Runnin' Wild (Special Edition)",
-        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
+        "name": "The Concrete Confessional",
+        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
       },
       "artists": [
         {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 222240,
-      "name": "Runnin' Wild",
-      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
+      "duration_ms": 161626,
+      "name": "Looking Down the Barrel of Today",
+      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -397,20 +397,20 @@
       "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
-      "added_at": "2021-03-29 12:26:54",
+      "added_at": "2021-10-12 08:24:18",
       "album": {
-        "name": "The Concrete Confessional",
-        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
+        "name": "Runnin' Wild (Special Edition)",
+        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
       },
       "artists": [
         {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Looking Down the Barrel of Today",
-      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
+      "duration_ms": 222240,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 153613,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "added_at": "2022-03-16 21:08:09",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Countdown To Extinction",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 327040,
-      "name": "Sweating Bullets - Remastered 2004",
-      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+        "name": "Countdown To Extinction",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+      "duration_ms": 327040,
+      "name": "Sweating Bullets - Remastered 2004",
+      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Great War",
-      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Great War",
+      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
       "artists": [
         {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 243913,
-      "name": "The Remedy",
-      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
+      "duration_ms": 223655,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
         }
       ],
-      "duration_ms": 223655,
-      "name": "Letting You Go",
-      "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
+      "duration_ms": 243913,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "Black Flame",
+        "url": "https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 233964,
+      "name": "Black Flame - Single Edit",
+      "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Black Eyes Blue / CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
         "url": "https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy"
       },
@@ -1599,34 +1615,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Black Flame",
-        "url": "https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I"
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK"
       },
       "artists": [
         {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 233964,
-      "name": "Black Flame - Single Edit",
-      "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "T\u016b",
-        "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
-      },
-      "artists": [
-        {
-          "name": "Alien Weaponry",
-          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
-        }
-      ],
-      "duration_ms": 395500,
-      "name": "Kai Tangata",
-      "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
+      "duration_ms": 196464,
+      "name": "Down To Hell",
+      "url": "https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX"
     }
   ],
   "unique_name": "Metal Charge",

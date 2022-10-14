@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-232 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+234 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-11 |  |
 | [Five Points](https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo) | [Lo & Fozzi](https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW) | [Five Points](https://open.spotify.com/album/2YQst9sLvIkUD9ti0UWAp6) | 3:14 | 2021-11-11 | 2022-04-15 |
 | [Fives](https://open.spotify.com/track/13UEDh7Imgd0BTOY0n4wnr) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Fives](https://open.spotify.com/album/0lr9HrEbGPxh0JSllsGsMM) | 1:58 | 2022-08-16 |  |
+| [Floating](https://open.spotify.com/track/3SgM20S55489CkaaN90OeO) | [Lanle](https://open.spotify.com/artist/781sU1hUwd3HcKDumLJ5dS) | [Floating](https://open.spotify.com/album/7iMKVgYSDilPviVJ6nAOeb) | 2:53 | 2022-10-14 |  |
 | [foamy](https://open.spotify.com/track/6g3fCAc9ql4fmYAorTLuUw) | [Milk Malone](https://open.spotify.com/artist/4hkSi4HSY18rlKi0oWX049) | [foamy](https://open.spotify.com/album/4fYioHIsP8bXNUy0xM0SbQ) | 3:05 | 2022-06-10 |  |
 | [Follow you to the end](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [Follow you to the end](https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF) | 2:33 | 2022-06-17 |  |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 | 2022-09-09 |
@@ -129,10 +130,11 @@
 | [Lunar Eclipse](https://open.spotify.com/track/5DUNwt1A9BmKM0mWhufyAn) | [Serge Rey](https://open.spotify.com/artist/0KKCxS6r36wfKylvGK1gSy) | [Lunar Eclipse](https://open.spotify.com/album/4OeQwVd6QMFEtYordZZJV8) | 3:12 | 2021-11-11 | 2022-01-22 |
 | [luscious](https://open.spotify.com/track/7I7Y9ZPGOLbtpjs39VVH2o) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [luscious](https://open.spotify.com/album/4w7NyepbdBl8SVahPqD2O9) | 2:51 | 2022-05-13 |  |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2021-11-11 | 2022-02-11 |
-| [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-29 |  |
+| [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-29 | 2022-10-14 |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-11 |  |
 | [Meadow Elves](https://open.spotify.com/track/2aBIhGvgolIDZX9MdRUOmX) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Meadow Elves](https://open.spotify.com/album/3ziTYR8sKeEGcqTtD4iqXf) | 2:30 | 2021-11-11 |  |
 | [Mellow Flow](https://open.spotify.com/track/71mNlLD1Aq01GOkyR2besV) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Mellow Flow](https://open.spotify.com/album/3Kpo78HLS8dxwSqrdH7gzS) | 3:33 | 2021-11-11 | 2022-07-01 |
+| [mellow move](https://open.spotify.com/track/5aGti5R9GRmjkm7pRnOYTZ) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [mellow move](https://open.spotify.com/album/0H3XaTc8o0uCiFU7TBlJda) | 2:59 | 2022-10-14 |  |
 | [Messages](https://open.spotify.com/track/5Xl97YwxMDsvdmKeCBe6eT) | [Peter Fredricks](https://open.spotify.com/artist/24XjiT9Nb7Pi0he0imzMdU) | [Blissitude](https://open.spotify.com/album/7C7moBfJcWaelaXL5ep6Wl) | 2:46 | 2021-11-11 | 2022-02-11 |
 | [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 | 2021-11-11 | 2022-09-02 |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2021-11-11 |  |
@@ -148,7 +150,7 @@
 | [My Guitar Gently Beeps](https://open.spotify.com/track/5cCU1vF7kwZDveCsSeEFSO) | [Leandi](https://open.spotify.com/artist/6s4kY85iUHP3nFjmuMbxUH) | [Paradise Sub](https://open.spotify.com/album/2KdzvnbDgx3hAfHpk2UJAn) | 1:36 | 2021-11-11 | 2022-04-15 |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2021-11-11 |  |
 | [New Home](https://open.spotify.com/track/3fOHXAfr6vkw7E4rbTs97y) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Home Sweet Home](https://open.spotify.com/album/1U9SC6WxvpISBIgnlpYaKB) | 2:14 | 2022-09-23 |  |
-| [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-11-11 |  |
+| [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-11-11 | 2022-10-14 |
 | [no huzzle](https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo) | [lucy m](https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA) | [no huzzle](https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR) | 2:32 | 2022-06-03 | 2022-09-02 |
 | [noice](https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [noice](https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT) | 1:48 | 2021-11-11 | 2022-09-02 |
 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 | 2022-06-03 |  |

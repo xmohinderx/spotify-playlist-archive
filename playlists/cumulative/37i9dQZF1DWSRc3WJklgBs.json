@@ -9583,6 +9583,24 @@
     {
       "album": {
         "name": "IN TOO DEEP",
+        "url": "https://open.spotify.com/album/1GKef1XAvpb9xnyRUs8GYt"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "IN TOO DEEP",
+      "url": "https://open.spotify.com/track/0aSk0QVYN4DjZ33gPP5xnV"
+    },
+    {
+      "album": {
+        "name": "IN TOO DEEP",
         "url": "https://open.spotify.com/album/2uIDS0BENME252QVzy7vQt"
       },
       "artists": [
@@ -9593,7 +9611,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 183870,
       "name": "IN TOO DEEP",
       "url": "https://open.spotify.com/track/6X4Xy1lGpei1QwmH0jP8Xu"
@@ -10504,6 +10522,28 @@
     },
     {
       "album": {
+        "name": "Fire & Ice v3",
+        "url": "https://open.spotify.com/album/5RkEOMGonDpzB3BAGhlRe9"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Cayson Renshaw",
+          "url": "https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240120,
+      "name": "Lessons In Love v3",
+      "url": "https://open.spotify.com/track/2nMt4SLvhxTRbh1xtHBEWF"
+    },
+    {
+      "album": {
         "name": "Lessons In Love v3",
         "url": "https://open.spotify.com/album/1YfxnTXiwi92YojN0HB3gi"
       },
@@ -10519,7 +10559,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 240120,
       "name": "Lessons In Love v3",
       "url": "https://open.spotify.com/track/2uBwusfzbuqmr3WXkOkuIX"
@@ -20075,6 +20115,28 @@
     {
       "album": {
         "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
         "url": "https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO"
       },
       "artists": [
@@ -20089,7 +20151,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m"

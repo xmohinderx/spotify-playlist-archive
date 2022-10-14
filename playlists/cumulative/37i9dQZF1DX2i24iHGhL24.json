@@ -1143,6 +1143,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
       },
       "artists": [
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
@@ -6145,6 +6163,28 @@
     {
       "album": {
         "name": "Semicolon & Parentheses (Deluxe)",
+        "url": "https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS"
+      },
+      "artists": [
+        {
+          "name": "Dylan Rockoff",
+          "url": "https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5"
+        },
+        {
+          "name": "Caroline Kole",
+          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172782,
+      "name": "You're the One That I Want",
+      "url": "https://open.spotify.com/track/1oC2QTCvlBKfgzaPn2G4tC"
+    },
+    {
+      "album": {
+        "name": "Semicolon & Parentheses (Deluxe)",
         "url": "https://open.spotify.com/album/2e3gKhMqzbDQBuB8ZRbLXl"
       },
       "artists": [
@@ -6159,7 +6199,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 172782,
       "name": "You're the One That I Want",
       "url": "https://open.spotify.com/track/3XfctDFgPl4vA6aCCXb1KW"

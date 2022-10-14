@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-58 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/4NjL2b04S4u48PKHjzlyC6)
+59 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/4NjL2b04S4u48PKHjzlyC6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Only My Honesty Matters](https://open.spotify.com/track/2ips2RYfSiOdfDQMctNXIb) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ), [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [B.E.D](https://open.spotify.com/album/0iej9ho9Aro520crqw0Lzf) | 2:31 | 2022-05-24 |  |
 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 | 2022-05-24 |  |
 | [Petrichor](https://open.spotify.com/track/5e2QHek93FrcaKfH9znqZE) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Temp](https://open.spotify.com/album/3bN8zyo2OS44ePXdNaGv2T) | 3:31 | 2022-05-24 |  |
-| [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 | 2022-05-24 |  |
+| [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 | 2022-05-24 | 2022-10-14 |
+| [Pretty](https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe) | 2:46 | 2022-05-24 |  |
 | [pretty girls](https://open.spotify.com/track/3vEkBzAP09A4MEitPzWKWL) | [Sumwun](https://open.spotify.com/artist/3p6Sps6tkzvz5YzDqAZgu5), [LoVibe.](https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc) | [pretty girls](https://open.spotify.com/album/4s8fbAnwt0z7SM8SjkxWqn) | 1:30 | 2022-05-24 |  |
 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 | 2022-05-24 |  |
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2022-05-24 |  |

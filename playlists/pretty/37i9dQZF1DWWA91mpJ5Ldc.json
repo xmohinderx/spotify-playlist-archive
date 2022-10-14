@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 103668,
+  "num_followers": 103700,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4NjA4OSwwMDAwMDAwMDIzZmRiOGUwYWVjZDRmNTU2YjNiOTZlZDlmMTNlNDk2",
+  "snapshot_id": "MTY2MjQ4NjA4OSwwMDAwMDAwMDRmZTBmMGUxM2RlYmI2ZjhjNTZkMTkyNmU3NWMzNzMz",
   "tracks": [
     {
       "added_at": "2022-09-06 17:41:29",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
-        "name": "Nonsense, Vol. 1",
-        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Onde Estar\u00e1",
-      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 217110,
+      "name": "Onde Estar\u00e1",
+      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
     },
     {
       "added_at": "2022-09-06 17:41:29",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
         "name": "Samba de Novela",
         "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 198018,
       "name": "Samba de Novela",
       "url": "https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2022-09-06 17:41:29",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
-        "name": "Rua Tr\u00eas",
-        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 154647,
-      "name": "Rua Tr\u00eas",
-      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
         "name": "Seu Fim em Mim",
         "url": "https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 218655,
       "name": "Seu Fim em Mim",
       "url": "https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
+        "name": "Rua Tr\u00eas",
+        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 154647,
+      "name": "Rua Tr\u00eas",
+      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
     },
     {
       "added_at": "2022-09-06 17:41:29",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
         "name": "AMAR \u00e9 para os FORTES",
         "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 254200,
       "name": "DEPOIS DA TEMPESTADE}",
       "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
     },
     {
       "added_at": "2022-09-06 17:41:29",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
+        "name": "Sem Medo",
+        "url": "https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
         "name": "Andar Sozinho (feat. J\u00e3o)",
         "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
-        "name": "Sem Medo",
-        "url": "https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds"
     },
     {
       "added_at": "2022-09-06 17:41:29",

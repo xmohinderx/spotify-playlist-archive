@@ -4,7 +4,7 @@
 
 > New music from Quavo & Takeoff, A Boogie Wit da Hoodie and G Herbo.
 
-1,385 songs - 2 day 23 hr 16 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,386 songs - 2 day 23 hr 22 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [Look Ma I Did It](https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz) | 3:27 | 2022-09-02 |  |
 | [Look Over Your Shoulder \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5aULAy3NUfelCYKub4mOS9) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Look Over Your Shoulder \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2HXNzxTADIP8471UeJXDWw) | 4:08 | 2020-10-30 | 2020-11-13 |
 | [Lord Above](https://open.spotify.com/track/7q0VdsXafFQIYfk3eZpwTq) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Dre](https://open.spotify.com/artist/2YKqI0pz6dY15GpzxT66HD), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Family Ties](https://open.spotify.com/album/3H4fSwQCPxXkVS10z9er8t) | 4:54 | 2019-12-06 | 2019-12-13 |
+| [Lose Yourself \- From "8 Mile" Soundtrack](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 | 2022-10-13 |  |
 | [Losses \- Bonus](https://open.spotify.com/track/3bAzFi7wGuOXJdgOYyFDSW) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Losses \(Bonus\)](https://open.spotify.com/album/7Lf0ye6btdu3rXvelpEC7u) | 3:15 | 2020-10-30 | 2021-02-12 |
 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2022-03-25 | 2022-04-09 |
 | [Lost Me \(feat\. Lil Mosey, iann dior & Lil Skies\)](https://open.spotify.com/track/4nTIY6vSiw19IzzPKKqCU9) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [B4 The Storm](https://open.spotify.com/album/6U5j597olXfdjtd6wHd3Cu) | 2:58 | 2020-09-11 | 2020-09-19 |

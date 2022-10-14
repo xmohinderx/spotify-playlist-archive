@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-149 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
+150 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Croatia](https://open.spotify.com/track/6szwMsK5XKtgFbuFBn2ZjJ) | [GEO\-X](https://open.spotify.com/artist/5VjntCrceRx7AkVib6leeR) | [Amerique](https://open.spotify.com/album/3AXGoiP3LaBfOIC0Z8QnBd) | 3:52 | 2022-02-17 |  |
 | [danyyye](https://open.spotify.com/track/5gJ9rmN0ix8XkyX7FhxTso) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [danyyye / rowdy](https://open.spotify.com/album/0Rtjj04prMwTFjlREiwKHH) | 2:44 | 2022-09-16 |  |
 | [Daz](https://open.spotify.com/track/6P4UKqyzjaIXSVgaBKy2pn) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Daz](https://open.spotify.com/album/5Y6wMfvkvKWYyHhhSaXpmH) | 2:47 | 2022-02-17 |  |
+| [deer hunter](https://open.spotify.com/track/1kAKUONgLaJfwYBmfFig25) | [Sylo Rader](https://open.spotify.com/artist/6x0PT9I77BHEDWT6xxlaRS) | [deer hunter](https://open.spotify.com/album/6cqea1e3V3PP46AKNaZWUy) | 3:07 | 2022-10-14 |  |
 | [Dimes](https://open.spotify.com/track/0lvgCep2yv7x6eQlT5Xanu) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [Big Little Man](https://open.spotify.com/album/22DORZ7yDp2y3bu4hIw7Wc) | 3:36 | 2022-02-17 |  |
 | [Distorcido](https://open.spotify.com/track/1veEROQqh83r67W1gthulY) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 1:18 | 2022-02-17 | 2022-09-17 |
 | [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 | 2022-02-17 |  |

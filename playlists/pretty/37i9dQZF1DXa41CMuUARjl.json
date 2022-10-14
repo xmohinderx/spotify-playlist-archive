@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from ACRAZE & Goodboys.",
-  "num_followers": 403399,
+  "num_followers": 403527,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5ODg1NiwwMDAwMDAwMDAyMTRjMzU0OWVkOWNmMzYwNTdjNDhhMjIwMmNiNzEz",
+  "snapshot_id": "MTY2NTQ5ODg1NiwwMDAwMDAwMDMzYTNmNTkyYjQ0ZGVhNmE0YzQyOGYxMGZkZWM3NzA4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4xiFocLVSRz0H1hxizkWOT"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 193420,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Easy Lover (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/1DoFMDyPXjAyfELfxzx0gx"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4xiFocLVSRz0H1hxizkWOT"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 193420,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/0UcTfpucBo28GwZrYVMYOO"
       },
@@ -567,30 +567,6 @@
       "duration_ms": 171692,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/2zmzEwlmb5wtGvTuS2Sjrg"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/1ez9K0s4OR2V0f8tttDv75"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "MELON",
-          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
-        },
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/60CYnFHLQl836wjbkchOsn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -619,6 +595,30 @@
       "duration_ms": 198800,
       "name": "Sad Girls (feat. Rema) - MOTi Remix",
       "url": "https://open.spotify.com/track/1KepQ8aCgeS1sXFpXzbmJ8"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/1ez9K0s4OR2V0f8tttDv75"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
+        },
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/60CYnFHLQl836wjbkchOsn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "State Of My Heart",
+        "url": "https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Nat Dunn",
+          "url": "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
+        }
+      ],
+      "duration_ms": 176122,
+      "name": "State Of My Heart",
+      "url": "https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Howl (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 289156,
       "name": "Howl - Logic1000 Remix",
       "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "State Of My Heart",
-        "url": "https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Nat Dunn",
-          "url": "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
-        }
-      ],
-      "duration_ms": 176122,
-      "name": "State Of My Heart",
-      "url": "https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -891,30 +891,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "More Horses feat. Tegan & Sara",
-        "url": "https://open.spotify.com/album/7bjHoL0Ndu3UVAkocYOQ3x"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Matthew Dear",
-          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
-        },
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 333125,
-      "name": "More Horses",
-      "url": "https://open.spotify.com/track/1rFFWztyr2N5REyljmQjgb"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "But U (feat. Izzy Bizu)",
         "url": "https://open.spotify.com/album/1EiXLu3sDxrN5py9HkbXIY"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 151729,
       "name": "But U (feat. Izzy Bizu)",
       "url": "https://open.spotify.com/track/4mAQv4VWJAtzYDRXU6ijCu"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "More Horses feat. Tegan & Sara",
+        "url": "https://open.spotify.com/album/7bjHoL0Ndu3UVAkocYOQ3x"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        },
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 333125,
+      "name": "More Horses",
+      "url": "https://open.spotify.com/track/1rFFWztyr2N5REyljmQjgb"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "Frontier",
-      "url": "https://open.spotify.com/track/10MxEAlZuBPiidcQ9cNyvx"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Fundamentals",
         "url": "https://open.spotify.com/album/3Fg2bjkd8gLAhJAV5w9800"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 201290,
       "name": "Don't Stop It Now",
       "url": "https://open.spotify.com/track/0SYcg3DsOg11avMngG92Kk"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Frontier",
+      "url": "https://open.spotify.com/track/10MxEAlZuBPiidcQ9cNyvx"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "In The Morning (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/5dZTmad2sFy99yMUJll9xG"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 252822,
+      "name": "In The Morning - Helsloot Remix - Edit",
+      "url": "https://open.spotify.com/track/3qvpycMkBgtDL7OGQqwn2M"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Red Hot",
         "url": "https://open.spotify.com/album/1bR5C8y4mFq3m3BA7g3IUp"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 256907,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/105ChM3Z5mxLh3YJwdskS1"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "In The Morning (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/5dZTmad2sFy99yMUJll9xG"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 252822,
-      "name": "In The Morning - Helsloot Remix - Edit",
-      "url": "https://open.spotify.com/track/3qvpycMkBgtDL7OGQqwn2M"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Multi Tool EP",
+        "url": "https://open.spotify.com/album/33OAsh3NSFNucOqEmN5NdT"
+      },
+      "artists": [
+        {
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+        }
+      ],
+      "duration_ms": 369429,
+      "name": "Broken Clock",
+      "url": "https://open.spotify.com/track/4rBEAI1ZyZiLnE5zhSD2qn"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Wait A Minute (Dixon Extension)",
         "url": "https://open.spotify.com/album/2bkhNP3qpPZFAEK6me4hoT"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 387096,
       "name": "Wait A Minute - Dixon Extension",
       "url": "https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Multi Tool EP",
-        "url": "https://open.spotify.com/album/33OAsh3NSFNucOqEmN5NdT"
-      },
-      "artists": [
-        {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
-        }
-      ],
-      "duration_ms": 369429,
-      "name": "Broken Clock",
-      "url": "https://open.spotify.com/track/4rBEAI1ZyZiLnE5zhSD2qn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Holiday (Fatboy Slim Remix)",
+        "url": "https://open.spotify.com/album/6bl6OPS9VIsreP77VGeSia"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Holiday - Fatboy Slim Remix",
+      "url": "https://open.spotify.com/track/4W2UN69mLTVHnidhZyCHzB"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/1Ap4fL7irXlphPx9XIMkwq"
       },
@@ -1359,6 +1383,38 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Talking To Myself",
+        "url": "https://open.spotify.com/album/6sjoh5VtzLxBw7y13KHy0b"
+      },
+      "artists": [
+        {
+          "name": "Vanrip",
+          "url": "https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Talking To Myself",
+      "url": "https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Burning Night",
+        "url": "https://open.spotify.com/album/681lRPzHRsGecSCZWVx0KT"
+      },
+      "artists": [
+        {
+          "name": "Carly Wilford",
+          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "Burning Night",
+      "url": "https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Reminders Remixed",
         "url": "https://open.spotify.com/album/7qrRypp0z6o9MWzOOgh9ns"
       },
@@ -1403,38 +1459,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Talking To Myself",
-        "url": "https://open.spotify.com/album/6sjoh5VtzLxBw7y13KHy0b"
-      },
-      "artists": [
-        {
-          "name": "Vanrip",
-          "url": "https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Talking To Myself",
-      "url": "https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Burning Night",
-        "url": "https://open.spotify.com/album/681lRPzHRsGecSCZWVx0KT"
-      },
-      "artists": [
-        {
-          "name": "Carly Wilford",
-          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
-        }
-      ],
-      "duration_ms": 206129,
-      "name": "Burning Night",
-      "url": "https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Building Something Beautiful For Me",
         "url": "https://open.spotify.com/album/5gFtEuIbE2pwS5qnvUQeak"
       },
@@ -1451,22 +1475,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Bloshy",
-        "url": "https://open.spotify.com/album/22MlqokE7lXJkkq8YsDInk"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 235847,
-      "name": "Bloshy",
-      "url": "https://open.spotify.com/track/6FL6A0NV5CI5Dfv7Q9qnWY"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Fall In",
         "url": "https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL"
       },
@@ -1479,6 +1487,22 @@
       "duration_ms": 200119,
       "name": "Fall In",
       "url": "https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Bloshy",
+        "url": "https://open.spotify.com/album/22MlqokE7lXJkkq8YsDInk"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 235847,
+      "name": "Bloshy",
+      "url": "https://open.spotify.com/track/6FL6A0NV5CI5Dfv7Q9qnWY"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1507,18 +1531,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Swallow Me",
-        "url": "https://open.spotify.com/album/6jLS18y1cCwi7TTy8ljUBU"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3WUZRq9I8ki4hQGh95wpSv"
       },
       "artists": [
         {
-          "name": "Call Super",
-          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
+          "name": "Stund",
+          "url": "https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk"
         }
       ],
-      "duration_ms": 490000,
-      "name": "Swallow Me",
-      "url": "https://open.spotify.com/track/44ZTXLhsvi5vaXTDhQsm33"
+      "duration_ms": 279677,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/10PrnkYAVa90S27nMDPps9"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1559,18 +1583,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3WUZRq9I8ki4hQGh95wpSv"
+        "name": "Swallow Me",
+        "url": "https://open.spotify.com/album/6jLS18y1cCwi7TTy8ljUBU"
       },
       "artists": [
         {
-          "name": "Stund",
-          "url": "https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk"
+          "name": "Call Super",
+          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
         }
       ],
-      "duration_ms": 279677,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/10PrnkYAVa90S27nMDPps9"
+      "duration_ms": 490000,
+      "name": "Swallow Me",
+      "url": "https://open.spotify.com/track/44ZTXLhsvi5vaXTDhQsm33"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1599,30 +1623,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Holiday (Fatboy Slim Remix)",
-        "url": "https://open.spotify.com/album/6bl6OPS9VIsreP77VGeSia"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Holiday - Fatboy Slim Remix",
-      "url": "https://open.spotify.com/track/4W2UN69mLTVHnidhZyCHzB"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "WIZZ (DJ Q REMIX)",
         "url": "https://open.spotify.com/album/1UFfibqWSkn08xvkrvLsMD"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 182625,
       "name": "WIZZ - DJ Q REMIX",
       "url": "https://open.spotify.com/track/2WHD6O0v3Q9TFozuIsXe7g"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Since I Laid My Eyes on U",
+        "url": "https://open.spotify.com/album/6sRpBU72HY8n0sQXKHf8oZ"
+      },
+      "artists": [
+        {
+          "name": "Young Community",
+          "url": "https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR"
+        }
+      ],
+      "duration_ms": 201475,
+      "name": "Since I Laid My Eyes on U",
+      "url": "https://open.spotify.com/track/5Ll1fMSA6ns9fO0f72h7OI"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1663,6 +1679,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/5FLdMMMJ5koUtGk8SG3l9F"
+      },
+      "artists": [
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 211057,
+      "name": "Someone To Talk To",
+      "url": "https://open.spotify.com/track/0FfiuBoOAAHrvlPh2tLkPT"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
       },
@@ -1683,18 +1715,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Since I Laid My Eyes on U",
-        "url": "https://open.spotify.com/album/6sRpBU72HY8n0sQXKHf8oZ"
+        "name": "It's On Fire",
+        "url": "https://open.spotify.com/album/4DqECgdlJp6wXWWsl4EVCg"
       },
       "artists": [
         {
-          "name": "Young Community",
-          "url": "https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR"
+          "name": "Maxinne",
+          "url": "https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq"
+        },
+        {
+          "name": "Jordano Roosevelt",
+          "url": "https://open.spotify.com/artist/0ogLGZX9wtUfbgotgKRfm8"
         }
       ],
-      "duration_ms": 201475,
-      "name": "Since I Laid My Eyes on U",
-      "url": "https://open.spotify.com/track/5Ll1fMSA6ns9fO0f72h7OI"
+      "duration_ms": 250393,
+      "name": "It's On Fire - Original Edit",
+      "url": "https://open.spotify.com/track/5tuhxKlP0La0YMvMLHQbzw"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1755,42 +1791,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "It's On Fire",
-        "url": "https://open.spotify.com/album/4DqECgdlJp6wXWWsl4EVCg"
-      },
-      "artists": [
-        {
-          "name": "Maxinne",
-          "url": "https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq"
-        },
-        {
-          "name": "Jordano Roosevelt",
-          "url": "https://open.spotify.com/artist/0ogLGZX9wtUfbgotgKRfm8"
-        }
-      ],
-      "duration_ms": 250393,
-      "name": "It's On Fire - Original Edit",
-      "url": "https://open.spotify.com/track/5tuhxKlP0La0YMvMLHQbzw"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/5FLdMMMJ5koUtGk8SG3l9F"
-      },
-      "artists": [
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 211057,
-      "name": "Someone To Talk To",
-      "url": "https://open.spotify.com/track/0FfiuBoOAAHrvlPh2tLkPT"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Extrasense",
         "url": "https://open.spotify.com/album/7nVQmAZnEcNF4yp5ZQFnem"
       },
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Cheeky Monkey",
-        "url": "https://open.spotify.com/album/1YP4xoYbVoVpJx7Cdl4LN3"
-      },
-      "artists": [
-        {
-          "name": "Justin Jay",
-          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
-        }
-      ],
-      "duration_ms": 268480,
-      "name": "Cheeky Monkey",
-      "url": "https://open.spotify.com/track/2bRDHt5CP41t96z6V1A9j4"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/6kh10pfqwMB1FNmFNvOa9n"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 420001,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/2Py5mwVwgCHMXXUnPhj0QL"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Cheeky Monkey",
+        "url": "https://open.spotify.com/album/1YP4xoYbVoVpJx7Cdl4LN3"
+      },
+      "artists": [
+        {
+          "name": "Justin Jay",
+          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+        }
+      ],
+      "duration_ms": 268480,
+      "name": "Cheeky Monkey",
+      "url": "https://open.spotify.com/track/2bRDHt5CP41t96z6V1A9j4"
     },
     {
       "added_at": "2022-10-07 04:00:00",

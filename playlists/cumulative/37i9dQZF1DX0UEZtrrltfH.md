@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-61 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
+62 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5th New Century \- Instrumental version](https://open.spotify.com/track/6xY8dWstE3rFzi3kknT8hH) | [Philipp Gorbachev](https://open.spotify.com/artist/6eY2REoBPKZ4CnJD0sFdfP) | [Unlock The Box](https://open.spotify.com/album/29phuOIOOWD6LOUW7WdbXa) | 6:03 | 2022-03-31 |  |
-| [Amygdala](https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6) | 2:10 | 2022-03-31 |  |
+| [Amygdala](https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6) | 2:10 | 2022-03-31 | 2022-10-14 |
+| [Amygdala](https://open.spotify.com/track/7z4a9JihC3kZh8Hdt0tqOR) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/7IUUaatsZEC81o9uWHJ1Nv) | 2:10 | 2022-03-31 |  |
 | [another night](https://open.spotify.com/track/3T6uMRGP8y3LV2KpNZyOAl) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:42 | 2022-03-31 |  |
 | [Auto Salon](https://open.spotify.com/track/5Xw5KbzT7LuvTv07LukrOE) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873), [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [Auto Salon](https://open.spotify.com/album/4osvPLfw5tgtAbdxO6pp7q) | 2:33 | 2022-03-31 |  |
 | [Beautiful](https://open.spotify.com/track/2NyST1PrdhrIySjgKG8fop) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/6v7bvadPuidJL6o6kepl1f) | 3:49 | 2022-03-31 |  |

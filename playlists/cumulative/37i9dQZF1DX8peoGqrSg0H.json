@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/5w8irJm7unlKJ6gIzlTaLe"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184422,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN"
+    },
+    {
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS"
       },

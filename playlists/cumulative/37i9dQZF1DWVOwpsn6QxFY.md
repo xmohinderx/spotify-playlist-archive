@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-215 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+217 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,11 +38,12 @@
 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 | 2022-06-23 |  |
 | [Blue Hours](https://open.spotify.com/track/1StG1oKqWmy9wxNHC6GE2T) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/16kw5fg6gBS4b8Uz2ve4cH) | 3:53 | 2022-03-31 | 2022-07-29 |
 | [Blue Hours](https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:53 | 2022-08-12 |  |
-| [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2021-11-12 |  |
+| [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2021-11-12 | 2022-10-14 |
+| [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2022-08-12 |  |
 | [Break Away](https://open.spotify.com/track/4VsaZjVwzYkXw4DYVmeHlF) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Break Away](https://open.spotify.com/album/2JXrKtvFPznTIYTJDAtCbE) | 2:50 | 2022-03-31 | 2022-04-16 |
 | [Brother To You](https://open.spotify.com/track/0u9keTpHsXa73izEri7AJV) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Brother To You](https://open.spotify.com/album/7Dir6KrvfI1hu8rVctB3DP) | 3:11 | 2022-06-06 |  |
 | [Canary In A Coalmine](https://open.spotify.com/track/1oLJWs1DxtpDcRRZuzh4Ya) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [To Carry A Whale](https://open.spotify.com/album/6Yq40Q0Kvz9PXdja9i2Yxb) | 3:01 | 2021-11-12 | 2022-07-16 |
-| [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2022-06-23 |  |
+| [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2022-06-23 | 2022-10-14 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2021-11-12 | 2022-07-29 |
 | [Caroline](https://open.spotify.com/track/4jFmHwPcwIjEtEBuKOPoKG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Caroline](https://open.spotify.com/album/1PD0O1Y9RZWynRLk0je4TA) | 4:10 | 2021-11-12 | 2022-07-29 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-11-12 | 2022-07-29 |
@@ -108,6 +109,7 @@
 | [If I Don’t Hear From You Tonight](https://open.spotify.com/track/661gsg4lHFXpeOGA6SUHNu) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [If I Don't Hear From You Tonight](https://open.spotify.com/album/2hgcgaZZ4dEZfIdq6X02pa) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [Isabella](https://open.spotify.com/track/6IKuSOJhP26cbh9Ke1G22l) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY) | [The Loves of Your Life](https://open.spotify.com/album/4kBc87iwT7HAqZx8A0aC1f) | 4:09 | 2021-11-12 | 2022-07-25 |
 | [It Ain't Me, It's You](https://open.spotify.com/track/4bp0LGj4ahCGni2UG2j7rD) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Slow Motion](https://open.spotify.com/album/57QFaTFPSvhVGvWvMUJhGl) | 3:41 | 2022-03-31 | 2022-04-21 |
+| [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-08-12 |  |
 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 | 2021-11-12 |  |
 | [January Summers](https://open.spotify.com/track/3yO22faLpP5kU10HO5eBLQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [January Summers](https://open.spotify.com/album/4IUUW4hq9g4FaoMKlaJJ2M) | 3:23 | 2021-11-12 | 2022-07-07 |
 | [Jenny](https://open.spotify.com/track/3qGXA1STZ4yUVIJjxAT6we) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Jenny](https://open.spotify.com/album/1zmGAssIf3oI1RptERx5p9) | 3:06 | 2021-11-12 | 2022-07-29 |

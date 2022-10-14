@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1699668,
+  "num_followers": 1699918,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGZjNmFlYmZkNjg2NjNlNjc2ZTcxNmZiMDIxYWI2MmUy",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGRlMjNiYTQ5OGNmNTE0OTlhMzNkYjQzMDllNGRlYTg2",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -783,22 +783,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Lo siento (feat. Sof\u00eda Reyes)",
-        "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
+        "name": "Te echo de menos",
+        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
       },
       "artists": [
         {
           "name": "Beret",
           "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 232655,
-      "name": "Lo siento (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
+      "duration_ms": 194986,
+      "name": "Te echo de menos",
+      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -895,18 +891,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Te echo de menos",
-        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
+        "name": "Lo siento (feat. Sof\u00eda Reyes)",
+        "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
       },
       "artists": [
         {
           "name": "Beret",
           "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Te echo de menos",
-      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+      "duration_ms": 232655,
+      "name": "Lo siento (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "A\u00fan me amas",
-        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "A\u00fan me amas",
-      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
         "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 244802,
       "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
       "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "A\u00fan me amas",
+        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "A\u00fan me amas",
+      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Cuerno",
+        "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 178199,
+      "name": "Cuerno",
+      "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Cuerno",
-        "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 178199,
-      "name": "Cuerno",
-      "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Impulso",
-        "url": "https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2"
-      },
-      "artists": [
-        {
-          "name": "Dvicio",
-          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Cap\u00edtulos",
-      "url": "https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189240,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Impulso",
+        "url": "https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2"
+      },
+      "artists": [
+        {
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Cap\u00edtulos",
+      "url": "https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs"
     },
     {
       "added_at": "2022-08-31 06:52:27",

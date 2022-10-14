@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,733 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,778 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [This Girl \- Instrumental](https://open.spotify.com/track/01zGD4HoAR90snBfA0yMCu) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(Special Edition\)](https://open.spotify.com/album/4Fan1WsiMLAtgeycJNvzs4) | 4:01 |
+| 1 | [This Girl \- Instrumental](https://open.spotify.com/track/5i7UCAOx9N6F6LIuVtEpRP) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(Special Edition\)](https://open.spotify.com/album/5cHvz35TwKvzmdald8wL8E) | 4:01 |
 | 2 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 |
 | 3 | [Fonnegra](https://open.spotify.com/track/1NlcTmZSe7Nbd1KClwmx51) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Indiana Jones](https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6) | 3:09 |
 | 4 | [Fool's Gold](https://open.spotify.com/track/2qMOAJmGCJhUOJoZhtPAIb) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Fool's Gold](https://open.spotify.com/album/0fn9HuJ6H8wuIW4a1Yt9uH) | 1:35 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 18 | [I Still Got It \(Instrumental\)](https://open.spotify.com/track/1Fq9IQT0vGQrCQ0DsQtQuz) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Faithful Man \(Instrumentals\)](https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG) | 3:36 |
 | 19 | [Ladies \(Instrumental\)](https://open.spotify.com/track/1SGQDxceZAPK4IWffYCw8c) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World \(Instrumentals\)](https://open.spotify.com/album/3SFxXvZr27fS5fpOWPckrI) | 4:17 |
 | 20 | [Cream On Chrome](https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef) | 4:15 |
-| 21 | [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 |
+| 21 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
 | 22 | [You're the Kind of Girl \(Instrumental\)](https://open.spotify.com/track/6gZkoHTufo7bTuMHFyppWv) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Faithful Man \(Instrumentals\)](https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG) | 4:00 |
 | 23 | [Catalyze Conciousness](https://open.spotify.com/track/0ZStPeLfNLMH1EacArPO5W) | [Ackryte](https://open.spotify.com/artist/54xP4Co5hBxt3KDOeF9WqA) | [Realize](https://open.spotify.com/album/2WGk8lQFbPpRdecsNUCVlQ) | 2:42 |
 | 24 | [C.R.E.A.M.](https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Enter The 37th Chamber](https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 60 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 
-Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMGEwZmE3NDdmZTA2ODE2NjM3ZDQzMzI1ZDc4NWVjNTg0`
+Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMDNjYzA0ZDcyYTJmOGUzZDgyNTZmZWQ2ZTA4MzQ1OTI0`

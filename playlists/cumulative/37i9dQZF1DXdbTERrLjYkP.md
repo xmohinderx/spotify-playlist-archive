@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-284 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+286 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [california from the backseat](https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [california from the backseat](https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9) | 3:12 | 2022-07-01 |  |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-01-14 | 2022-04-29 |
 | [Call My Own](https://open.spotify.com/track/2Tp03ZfNBqXL8Ny0g9e8sM) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Call My Own](https://open.spotify.com/album/6fKaC3BsUu5DeKzcvrg7ko) | 2:55 | 2022-03-25 | 2022-04-23 |
-| [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 | 2022-09-02 |  |
+| [can't breathe](https://open.spotify.com/track/2bobQfCbPqFBOgGRF4XU0S) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy) | 2:43 | 2022-09-09 |  |
+| [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 | 2022-09-02 | 2022-10-14 |
 | [can't hate you yet](https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [can't hate you yet](https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP) | 3:22 | 2022-02-25 | 2022-04-29 |
 | [Carsick](https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Carsick](https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz) | 3:07 | 2022-07-01 |  |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-04-29 |
@@ -152,7 +153,8 @@
 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 | 2022-09-16 |  |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 |  |
 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 | 2022-04-22 |  |
-| [Love Me Back](https://open.spotify.com/track/6gbk2Uxer4YJ1uJ9TKt9EI) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3FSnxrJFGEaDSo0pddtkbh) | 2:28 | 2022-08-12 |  |
+| [Love Me Back](https://open.spotify.com/track/6gbk2Uxer4YJ1uJ9TKt9EI) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3FSnxrJFGEaDSo0pddtkbh) | 2:28 | 2022-08-12 | 2022-10-14 |
+| [Love Me Back](https://open.spotify.com/track/6p95Fy7WYNpxeAaId7WLGk) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3CIxFuXTFzzoFk6BRqbcs5) | 2:28 | 2022-09-09 |  |
 | [Love of My Life](https://open.spotify.com/track/1KiJFIMQrRH14WF5ntkZbf) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [The Kids Table](https://open.spotify.com/album/6BUjnH6B8ZQH1CGhPT4UGJ) | 3:52 | 2022-09-09 |  |
 | [Love of My Life](https://open.spotify.com/track/2KC89XSvZn9EEk8Dt7VuG9) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Love of My Life](https://open.spotify.com/album/2aH0R3lc7cJVwjiQTzoBYp) | 3:52 | 2022-05-20 | 2022-10-13 |
 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 | 2022-01-14 | 2022-02-26 |

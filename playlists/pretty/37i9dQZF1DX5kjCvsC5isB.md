@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,845 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,037 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 45 | [Eraser](https://open.spotify.com/track/0nkAPLYLJpOkIDY8AvGQ1e) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Eraser](https://open.spotify.com/album/4FLgMLbRhhZ1qOUV0T4mDn) | 2:30 |
 | 46 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 |
 | 47 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 |
-| 48 | [Drown Out the World](https://open.spotify.com/track/397bbBQ4grzXqyWLuFk8iM) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/2c31KcrBsECElK5kRYFH08) | 3:02 |
+| 48 | [Drown Out the World](https://open.spotify.com/track/4iz9Fyqp9yxhBsqTQTQlXK) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/6kyArpK138TjC0MPVYAug3) | 3:02 |
 | 49 | [100 Little Deaths](https://open.spotify.com/track/3MgIvPwRJQ3H02Pg2R361m) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:33 |
 | 50 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
 | 51 | [Cruise Control](https://open.spotify.com/track/7yJxtJ1Oi62vfmhFmtNqVh) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Cruise Control](https://open.spotify.com/album/2KWXc9Ja79kenCq55S9S7m) | 2:34 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 76 | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 |
 | 77 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 |
 | 78 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
-| 79 | [drugs with god](https://open.spotify.com/track/4X9fFaZhmYL6Qcf281GSra) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [drugs with god](https://open.spotify.com/album/3ZBnmsrLoGQYhwQMaoQoqD) | 3:15 |
+| 79 | [drugs with god](https://open.spotify.com/track/5Os1lig4bx8kFCaDj6imty) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [drugs with god](https://open.spotify.com/album/7lOq3wyZZ4GiooPOSVIfa6) | 3:15 |
 | 80 | [Come Down](https://open.spotify.com/track/29IhHw9QqXhMLfCEB1eHPt) | [Carah Faye](https://open.spotify.com/artist/5qRh9A0k3qLWYncaxDEUzB), [bandofyou](https://open.spotify.com/artist/3mOo6FxdoeRp0XCfrmjRQ3) | [Come Down](https://open.spotify.com/album/3HTKq8urUKFim3m4GyJWPz) | 3:22 |
 | 81 | [Not Dead Yet](https://open.spotify.com/track/4OpjCYRi3joROpjBZUNFwv) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY) | [Not Dead Yet](https://open.spotify.com/album/2DXUrAR46Rh2HDe8CKsvbm) | 4:12 |
 | 82 | [Angels](https://open.spotify.com/track/5YcnOx0WQ5rZdu4iA79Ick) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Angels](https://open.spotify.com/album/3Y8XZKT1Vky7DPCaufbInp) | 3:39 |
-| 83 | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/4eAB96x6wsijid73UsHfbO) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv) | 2:48 |
+| 83 | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG) | 2:48 |
 | 84 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 |
 | 85 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
 | 86 | [will i always feel this way?](https://open.spotify.com/track/6llEdJDzgf748LMz3j49ps) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [will i always feel this way?](https://open.spotify.com/album/0QhjuX45xK8bSCYIfGXsVe) | 3:12 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGExYzNlOGExOTVhNDllZDc1YjZhYWE3MjJlMmI1NmUz`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDQ2NTI5MTI5YmQ0MWI4NDQ0YTYzYmRkOGM4ZDdjNTI2`

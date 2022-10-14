@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: Kang Min Kyung & Choi Jung Hoon\(강민경 & 최정훈\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: Kwon Jin Ah\(권진아\)\) \(당신의 감성에 발라드, 려요\)
 
-564 songs - 1 day 12 hr 38 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+566 songs - 1 day 12 hr 46 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |
 | [After we broke up](https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Bravo, My Life OST Part.20](https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q) | 3:41 | 2022-07-07 | 2022-09-30 |
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-01 |  |
+| [All day](https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/1TKsdmVqMISXkxRWhAqG13) | 3:42 | 2022-10-13 |  |
 | [All I Have is My Heart](https://open.spotify.com/track/3VqPDP2g1wR8F0J4utm3yX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Ghost Doctor, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Y9r0IoRE4uftS7lSprK8e) | 3:17 | 2022-01-26 | 2022-04-06 |
 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2021-12-23 | 2022-05-08 |
 | [Aloha](https://open.spotify.com/track/6TitBrzYhD1mTxqXADFo7v) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/0xXh2BdSfwmNk3JjwuuaqG) | 4:04 | 2021-12-20 | 2022-07-06 |
@@ -445,6 +446,7 @@
 | [Stay](https://open.spotify.com/track/3MyKAA6J1bkyeFig45sPmk) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Jirisan \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/22bajKywj9pBWoiYFayx64) | 3:40 | 2022-01-17 | 2022-07-07 |
 | [Stay With Me](https://open.spotify.com/track/17qoIHNHmxUu4YjeAs0Prh) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Stay With Me](https://open.spotify.com/album/58GDtLSSF7VjO9xjjaADbP) | 3:21 | 2022-02-10 | 2022-02-17 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 |  |
+| [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 |  |
 | [such a man](https://open.spotify.com/track/3W1gtxKzKQR4fufWXZ670j) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [such a man](https://open.spotify.com/album/1WbRJyCcnFkHAVCj2hOnUW) | 4:23 | 2022-07-07 | 2022-09-30 |
 | [Such a thing](https://open.spotify.com/track/1YR0ivxbjdQBzp3eYP3p3z) | [Park Min Hye](https://open.spotify.com/artist/0rFLNocK3XicCj7JZs63h4) | [Such a thing](https://open.spotify.com/album/4l29ZCHanvEhGA5xZdPZDK) | 4:26 | 2022-07-07 | 2022-08-13 |
 | [summer rain](https://open.spotify.com/track/6t4gXrmMmZ0rPXvyaP7VC7) | [JIN JU](https://open.spotify.com/artist/6vmnjbKZsgDFzGJEYZ9YFI) | [summer rain](https://open.spotify.com/album/38o1YPBuMbaBb5Ahqhkc9c) | 4:10 | 2022-07-07 | 2022-08-19 |

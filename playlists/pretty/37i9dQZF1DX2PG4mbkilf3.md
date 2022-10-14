@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Chxrry22
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,794 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,819 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 3 | [ALL EARS](https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [ALL EARS](https://open.spotify.com/album/0cUuScs99kjjb19BeDqB25) | 3:15 |
 | 4 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 |
 | 5 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
-| 6 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 |
+| 6 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 | 7 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 |
 | 8 | [Many Men \- Spotify Singles](https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:36 |
 | 9 | [Stages](https://open.spotify.com/track/2k7Xg0C7DkioPHtbB77rLA) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Every Lie is Two Lies](https://open.spotify.com/album/3bfxgzdQ84efmbinTHGali) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 |
 | 100 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDI1NGMwOTRiOTVmZjk3MTc1NzgxNWY5NDAwMmY0YWMy`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGZiMmFjZTAxZTYxYTBhNzc0OWJiNzZiZTE5MmY5Y2E4`

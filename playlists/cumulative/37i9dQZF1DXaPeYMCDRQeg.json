@@ -1550,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
+      "album": {
         "name": "N Side",
         "url": "https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq"
       },
@@ -2427,7 +2445,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 289000,
       "name": "Use Your Heart",
       "url": "https://open.spotify.com/track/1iXtpeHC0i6c7JBrKi3yaq"

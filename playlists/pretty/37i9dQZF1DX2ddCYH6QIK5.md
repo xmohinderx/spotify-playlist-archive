@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: ISAIAH, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,225 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,256 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 6 | [VERY SAD OPFERTYP](https://open.spotify.com/track/78E7hEa5130fVJMwQYCiO3) | [AUGN](https://open.spotify.com/artist/1kgwADR31NnmIwAfqffBo4) | [VERY SAD OPFERTYP](https://open.spotify.com/album/054y1HNR796eDAZsXbEMAn) | 2:47 |
 | 7 | [Unruhe](https://open.spotify.com/track/3jpM2iPMEEYbGb0wrG3kVO) | [Mira Mann](https://open.spotify.com/artist/49F1sXCUxwblViHic7XuJ4) | [Unruhe](https://open.spotify.com/album/598A78ybotoNKq85DjETFo) | 4:00 |
 | 8 | [Cuts](https://open.spotify.com/track/6zgVXwAMPAmKBlSxuIAYAR) | [Head Under Water](https://open.spotify.com/artist/2EVz8ejKIkvxXwSGK3sC86) | [Cuts](https://open.spotify.com/album/4kfJubn02wb5fPG0vzKvig) | 3:35 |
-| 9 | [Mich](https://open.spotify.com/track/5fsuJIbKoH7e6U7g7oJ59C) | [Enpal](https://open.spotify.com/artist/400vV7Vs9cXxCa0PWBqOrS) | [Hab schon](https://open.spotify.com/album/4HDLiYxuYulZULlogWhz7L) | 2:44 |
+| 9 | [Mich](https://open.spotify.com/track/5fsuJIbKoH7e6U7g7oJ59C) | [Enpal](https://open.spotify.com/artist/4Ntuik2JrTOJV6qM1r6PSv) | [Hab schon](https://open.spotify.com/album/4HDLiYxuYulZULlogWhz7L) | 2:44 |
 | 10 | [Die schönste Misere](https://open.spotify.com/track/4C7Ws7OAAfZq5dYZZ2W9aa) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Die schönste Misere](https://open.spotify.com/album/4cYGjze1LpkmR0IzHVYYHu) | 3:40 |
 | 11 | [Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [Nur zu weit](https://open.spotify.com/album/1kRSNpQb8JDBBH5g4scIg1) | 3:46 |
 | 12 | [Cheerful Pessimist](https://open.spotify.com/track/1zRjEdR28LqVJDWYVYoTes) | [Alehlokapi](https://open.spotify.com/artist/5fRz1MzBBDipLeNsguEn0x) | [Cheerful Pessimist](https://open.spotify.com/album/5z5LpevdN0rM7mfQ99VwUd) | 3:32 |

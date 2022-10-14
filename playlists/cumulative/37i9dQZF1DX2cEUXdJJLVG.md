@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-182 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
+183 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Am Ta](https://open.spotify.com/track/1kxD9cHzYspr92wMjTyUIu) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Am Ta EP](https://open.spotify.com/album/3jWRdeKMHeSFTBzYvxWV9K) | 4:30 | 2022-09-29 |  |
 | [Amazing](https://open.spotify.com/track/37Atk9zfwLjfdCfgNOwqEX) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Amazing](https://open.spotify.com/album/5QgofZ3fgy3XQ4sWw9ZkuN) | 3:01 | 2022-09-09 |  |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-09-09 |  |
-| [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2022-09-09 |  |
+| [Baby Who](https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp) | 3:07 | 2022-10-12 |  |
+| [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2022-09-09 | 2022-10-14 |
 | [Backpack](https://open.spotify.com/track/7hAhUocEpwCc91YlDkhHCP) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Backpack](https://open.spotify.com/album/23VitqlOhg49f9RSxVNqAF) | 5:11 | 2022-09-09 |  |
 | [Be Mine Tonight](https://open.spotify.com/track/37TmjR8M8jWOCZp9YqHJkB) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Delafleur](https://open.spotify.com/artist/7FdVxrLShXIz1P2mWMKuOX) | [Be Mine Tonight](https://open.spotify.com/album/6QfbCqUEbhG3L4dXBOS3JN) | 2:50 | 2022-09-09 |  |
 | [Be Thankful For What You’ve Got](https://open.spotify.com/track/3UfyMJ6JzeBNqjLUgGHKR2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Be Thankful For What You’ve Got](https://open.spotify.com/album/1hrfBmXwtZo4X82uEayn3M) | 3:50 | 2022-09-09 |  |

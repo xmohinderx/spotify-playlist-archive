@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-484 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+485 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Needle To The Record \- Radio Mix](https://open.spotify.com/track/30AEy7GJuhMPn5dYxhMgQt) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Needle to the Record](https://open.spotify.com/album/5hGngrT5fSYjiqowDNR9m6) | 3:06 | 2022-06-24 | 2022-07-02 |
 | [Never Ever](https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Never Ever](https://open.spotify.com/album/5gYdpQEHqsfd8y0rvakbw6) | 2:48 | 2022-05-13 | 2022-05-30 |
 | [Never Give Up](https://open.spotify.com/track/20tK6eailPEZssAD7OkTul) | [Bravetone](https://open.spotify.com/artist/6HLUmL9wto0WP9G8wIoZD7) | [Never Give Up](https://open.spotify.com/album/6TE3mJCsYLsJtS9jYacHxI) | 3:38 | 2022-07-09 | 2022-07-16 |
+| [Never Say Never](https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Never Say Never](https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX) | 2:33 | 2022-10-13 |  |
 | [Nice & Cool Trigga](https://open.spotify.com/track/0OlWzP96Z55gz59HeLnqPK) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Nice & Cool Trigga](https://open.spotify.com/album/2YJCTZdRVzQcg7YlTYuh01) | 5:19 | 2022-09-23 | 2022-10-01 |
 | [Nightmares](https://open.spotify.com/track/5xARo31Sdr6Kmk2g9j4t3x) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Nightmares](https://open.spotify.com/album/3FcSS6YhR6HiGx8T0RZ7qy) | 2:45 | 2022-05-13 | 2022-05-30 |
 | [Nights Feel Heavy](https://open.spotify.com/track/1LfZDT1U83y2Ez7wL8f1lf) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [D.N.A](https://open.spotify.com/album/3t5y67SV2Ce4S7QtRy6DIC) | 4:41 | 2022-06-17 | 2022-06-25 |

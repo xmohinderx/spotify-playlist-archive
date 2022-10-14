@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-838 songs - 1 day 7 hr 47 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+839 songs - 1 day 7 hr 50 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,7 +808,8 @@
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2022-01-27 | 2022-07-01 |
 | [Wavelenght](https://open.spotify.com/track/27qmIjf5nzZXiTAz2mVp06) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:27 | 2022-01-27 | 2022-04-22 |
 | [Waves](https://open.spotify.com/track/1cGVlkqnGEI1G5YrkNDput) | [A.T Reed](https://open.spotify.com/artist/7icTb9O3aej4trbeuD9yBc) | [Waves](https://open.spotify.com/album/67mCWi7kNXVMnHuL1vHRPW) | 2:03 | 2022-10-08 |  |
-| [Waving Gods](https://open.spotify.com/track/1exRQDIHfy6ACNjEr6LC0s) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic 3 Jazzstrumentals](https://open.spotify.com/album/0eheS0eNtkrB1HgMy0fqLT) | 3:22 | 2022-08-19 |  |
+| [Waving Gods](https://open.spotify.com/track/1exRQDIHfy6ACNjEr6LC0s) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic 3 Jazzstrumentals](https://open.spotify.com/album/0eheS0eNtkrB1HgMy0fqLT) | 3:22 | 2022-08-19 | 2022-10-14 |
+| [Waving Gods](https://open.spotify.com/track/30A2EwuEQeJppU550PumGT) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic 3 Jazzstrumentals](https://open.spotify.com/album/5DQVOe8ayIf99axGEQS0uU) | 3:22 | 2022-10-08 |  |
 | [Wavy Gravy](https://open.spotify.com/track/5LnlrBspSm1uBdOcei7vVN) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Wavy Gravy](https://open.spotify.com/album/5eZtTgkN1mOuCmPICJpuuS) | 3:30 | 2022-01-27 | 2022-10-09 |
 | [ways of lofi](https://open.spotify.com/track/3JH9aeScyGeXQxvwOJvwGk) | [trainer](https://open.spotify.com/artist/3VVx8RffIbZieWTsYgDDuD) | [soho polylines](https://open.spotify.com/album/36XaNzLiyDLutAOhW4vGcT) | 2:00 | 2022-01-27 |  |
 | [What's For Dessert?](https://open.spotify.com/track/3yGIwZB68iW9gjK0ggNG7S) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [What's For Dessert?](https://open.spotify.com/album/2F7iRgvwoFXOvgpK4tCNNZ) | 2:43 | 2022-06-03 |  |

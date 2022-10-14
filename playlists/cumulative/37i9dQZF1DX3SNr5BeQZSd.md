@@ -4,13 +4,14 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-91 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+92 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 | 2022-09-09 |  |
 | [\[oops\]](https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V) | 2:22 | 2022-09-09 |  |
 | [Affection](https://open.spotify.com/track/7MdZQXUBijQxcBkYz4G1Z5) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/52qF0r4f9WihHYUDcINmmC) | 1:57 | 2022-09-09 |  |
+| [Amend](https://open.spotify.com/track/7LOR8Rdc5n2EkduOXZeTp6) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Spoils](https://open.spotify.com/album/6k5ksX8Bwr3gVGq4VtadyG) | 1:44 | 2022-10-14 |  |
 | [animal crossing \~ new horizons lofi](https://open.spotify.com/track/3LQTJhA1bJpKNwEzwpdJzk) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [animal crossing \~ new horizons lofi](https://open.spotify.com/album/0z0eXgUqLEI4SxJt30cU33) | 1:07 | 2022-09-09 |  |
 | [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-09-09 |  |
 | [Can't Take My Eyes off You](https://open.spotify.com/track/2InH5NvwoEymOEeUhpUq48) | [Craymer](https://open.spotify.com/artist/14FalyPBwXYg2XLauocHaU), [AIIVAWN](https://open.spotify.com/artist/7qYVVP9RdHRKzElE6EZQsn) | [Can't Take My Eyes off You](https://open.spotify.com/album/76GPbP7KEgSGqDsyJ2FN1T) | 4:00 | 2022-09-09 |  |

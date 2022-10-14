@@ -2551,6 +2551,24 @@
     {
       "album": {
         "name": "Say It Now",
+        "url": "https://open.spotify.com/album/5271ZmrrDPu0nFOA24zp62"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203489,
+      "name": "Say It Now",
+      "url": "https://open.spotify.com/track/0L9okesRET4xfjv1HKxFAj"
+    },
+    {
+      "album": {
+        "name": "Say It Now",
         "url": "https://open.spotify.com/album/1eKlnFGyckKc4P06mfzJyK"
       },
       "artists": [
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 203489,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/0UkwLJL3rIop8vwAwGHjDd"

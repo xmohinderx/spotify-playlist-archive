@@ -4,7 +4,7 @@
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-58 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
+59 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 | 2021-11-30 |  |
 | [Idiot Day](https://open.spotify.com/track/1Sizsyh5IFxCldO3vyNTn4) | [Antony Jeffares](https://open.spotify.com/artist/7iG6YfPIDZS6ZwbnCf56of) | [When Twilight Comes \(I Am Still Yearning\)](https://open.spotify.com/album/3z7s2nqsEcdmQiQzw5qaDm) | 2:36 | 2021-11-30 |  |
 | [In My Arms](https://open.spotify.com/track/13RNv4OHDHgjlHgYhzzD3O) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:03 | 2021-11-30 |  |
-| [Inner City Lights](https://open.spotify.com/track/5Ho9jqSETTmHIMpwWRE7Ts) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/1QkN9kDH7LUUgGuGRsGIJB) | 4:21 | 2021-11-30 |  |
+| [Inner City Lights](https://open.spotify.com/track/5Ho9jqSETTmHIMpwWRE7Ts) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/1QkN9kDH7LUUgGuGRsGIJB) | 4:21 | 2021-11-30 | 2022-10-14 |
+| [Inner City Lights](https://open.spotify.com/track/7gWddNhFG1IbqNsFlnQBGQ) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/7CY4x6g4SqIOXzzAFqtdHw) | 4:21 | 2021-11-30 |  |
 | [Journey Home](https://open.spotify.com/track/5Lo2hiUPj7z32oB3XSHb29) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Journey Home](https://open.spotify.com/album/0eHppmZysZlFDqXqdzr9cM) | 4:31 | 2021-11-30 |  |
 | [Kinder](https://open.spotify.com/track/3laEqX58fkjwQQeftYWtfu) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir) | 3:26 | 2021-11-30 |  |
 | [Lay In The Sun \- Acoustic](https://open.spotify.com/track/3DhcCcb1Dtio6m7TWtrpXZ) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Lay In The Sun \(Acoustic\)](https://open.spotify.com/album/2Pej2KgeAEZUC0YcsxK81V) | 4:18 | 2021-11-30 |  |

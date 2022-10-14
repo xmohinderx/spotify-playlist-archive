@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-84 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
+85 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Eight\-Nine](https://open.spotify.com/track/4UWWVgwWdWZHJrUoqcwuau) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:16 | 2021-07-26 |  |
 | [Every Word \- Radio Edit](https://open.spotify.com/track/145kUDDfoiTzNGVPvem4Xm) | [Darryl Jordan](https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt), [Giman](https://open.spotify.com/artist/75nakAajlHkjK1yMhNPoB1), [Chic\_Ago](https://open.spotify.com/artist/2O0TP0gKFhi1L3T6m2BJXG) | [Every Word](https://open.spotify.com/album/0liZQlGjXRohYLNk5jkquK) | 4:06 | 2021-07-26 |  |
 | [Fantasize](https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:19 | 2021-07-26 |  |
-| [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2021-07-26 |  |
+| [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2021-07-26 | 2022-10-14 |
+| [Fool For You](https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/3eHSZLaNryhqzy0d5dUaOH) | 2:55 | 2021-07-26 |  |
 | [Forever Blue](https://open.spotify.com/track/6UmDgEOlz63QgZFPn0Xn9K) | [Starletta](https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi) | [Forever Blue](https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt) | 3:34 | 2022-09-30 |  |
 | [Get It Together](https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4) | [Moniquea](https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Get It Together](https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI) | 3:35 | 2022-08-19 |  |
 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 | 2021-07-26 |  |

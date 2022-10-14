@@ -4,13 +4,14 @@
 
 > The sweet sounds of Algeria.
 
-85 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+87 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3ach9ek Criminel](https://open.spotify.com/track/6Y3hqLC16tJUEI4PDsusoT) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [3ach9ek Criminel](https://open.spotify.com/album/5CYq5YmDbgtM0ys9xBxYiL) | 2:52 | 2021-12-09 |  |
 | [3alam Tani](https://open.spotify.com/track/2vCQ9IZyXbjeDBLsYFOFUx) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [3alam Tani](https://open.spotify.com/album/5HBu7VCzKwtPbtUzf8Rpe1) | 3:51 | 2021-12-09 | 2022-01-01 |
-| [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 | 2021-12-09 |  |
+| [Abracadabra](https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ) | 4:18 | 2022-10-09 |  |
+| [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 | 2021-12-09 | 2022-10-14 |
 | [Achfa](https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE) | 3:40 | 2022-06-02 | 2022-07-29 |
 | [Achfa](https://open.spotify.com/track/5t1doPqDqgFotgdXezDeea) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/6OOqXK1DmU094IBelKPdha) | 3:40 | 2022-07-27 |  |
 | [Adieu c'est fini](https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Sofiane DMC](https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u) | [Adieu c'est fini](https://open.spotify.com/album/4cWQhb83fr3KYK0sg99e3Q) | 6:32 | 2022-05-26 | 2022-08-20 |
@@ -31,7 +32,8 @@
 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 | 2021-12-09 |  |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-05-31 |  |
 | [Dounia](https://open.spotify.com/track/0RuXUc6UeufJkqvk8LIrIx) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Dounia](https://open.spotify.com/album/6wENSfn6GWCxj5gF8N4mFP) | 3:09 | 2022-03-10 | 2022-06-03 |
-| [El Walida](https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [El Walida](https://open.spotify.com/album/5BUWjVJMOXZkOl6gN2pEBc) | 4:12 | 2021-12-09 |  |
+| [El Walida](https://open.spotify.com/track/72IaF2DNQpXfYVG349uPI6) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [El Walida](https://open.spotify.com/album/6KZu4hCRZdB3dtQc8ABbE2) | 4:10 | 2022-10-09 |  |
+| [El Walida](https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [El Walida](https://open.spotify.com/album/5BUWjVJMOXZkOl6gN2pEBc) | 4:12 | 2021-12-09 | 2022-10-14 |
 | [Engagé](https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Engagé](https://open.spotify.com/album/7z4Os1feFjBgWHdQlEv5xD) | 4:44 | 2021-12-09 |  |
 | [Entourage](https://open.spotify.com/track/1B3Ol7QWDUh2H9E12QLFXD) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Entourage](https://open.spotify.com/album/5nGn5Cpeaci7vkEJ6U4L5m) | 3:16 | 2021-12-09 |  |
 | [Faillite](https://open.spotify.com/track/19uf48N6aaHgupOuQgJEhT) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Faillite](https://open.spotify.com/album/7cEuBiqJ9MUWNg5FUGWqpv) | 3:22 | 2021-12-09 | 2022-07-28 |

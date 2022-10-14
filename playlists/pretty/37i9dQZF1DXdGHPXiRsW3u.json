@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s. Cover: Rihanna.",
-  "num_followers": 355698,
+  "num_followers": 356024,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNjE5MCwwMDAwMDAwMDM2M2FlZGIyN2VjMWU3MzE5ODIxZmU5NzExNjE3MTMw",
+  "snapshot_id": "MTY1MzkxNjE5MCwwMDAwMDAwMDg3YWFmYmE3MDRkOGVkNDE1ZmZhYzZkNjVmY2JmZTc3",
   "tracks": [
     {
       "added_at": "2022-05-30 13:09:50",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
-      },
-      "artists": [
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Jordin Sparks",
         "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 210506,
       "name": "Chasing Pavements",
       "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308933,
-      "name": "Thank You For Loving Me",
-      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 284760,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308933,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Take It All Away (U.S. Version)",
-        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Cabrera",
-          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "True",
-      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 261426,
       "name": "Go On Girl",
       "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Take It All Away (U.S. Version)",
+        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Cabrera",
+          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "True",
+      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 207506,
       "name": "Stickwitu",
       "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -2207,18 +2223,18 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+      "duration_ms": 231066,
+      "name": "I'm Not a Girl, Not Yet a Woman",
+      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -2239,22 +2255,6 @@
       "duration_ms": 222293,
       "name": "Love Like This (feat. Sean Kingston)",
       "url": "https://open.spotify.com/track/49ppqF73rOz5Nyt1paRxIF"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Not a Girl, Not Yet a Woman",
-      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Shayne Ward (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5OVa321qfDoIKRFaYxjZNC"
-      },
-      "artists": [
-        {
-          "name": "Shayne Ward",
-          "url": "https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "No Promises",
-      "url": "https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 236400,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Shayne Ward (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5OVa321qfDoIKRFaYxjZNC"
+      },
+      "artists": [
+        {
+          "name": "Shayne Ward",
+          "url": "https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D"
     },
     {
       "added_at": "2022-05-30 13:09:50",

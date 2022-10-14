@@ -813,7 +813,7 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "date_added": "2022-10-04",
+      "date_added": "2022-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157017,
@@ -1685,7 +1685,7 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "date_added": "2022-10-04",
+      "date_added": "2022-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168601,
@@ -1721,7 +1721,7 @@
           "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "date_added": "2022-10-04",
+      "date_added": "2022-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162637,
@@ -1847,7 +1847,7 @@
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "date_added": "2022-10-04",
+      "date_added": "2022-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 154628,
@@ -2769,7 +2769,7 @@
           "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "date_added": "2022-10-04",
+      "date_added": "2022-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258298,
@@ -2791,7 +2791,7 @@
           "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "date_added": "2022-10-04",
+      "date_added": "2022-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198880,
@@ -3559,8 +3559,8 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
       "date_added": "2022-05-06",
@@ -3659,6 +3659,28 @@
       "duration_ms": 273053,
       "name": "Tu Sonrisa",
       "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
+    },
+    {
+      "album": {
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
+      },
+      "artists": [
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177397,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
     },
     {
       "album": {
@@ -3783,7 +3805,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 205746,
       "name": "Whine Up (feat. Elephant Man) - English Version",
       "url": "https://open.spotify.com/track/6Avndj1UPQLwR2qqzDwZBc"
@@ -3799,7 +3821,7 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "date_added": "2022-10-04",
+      "date_added": "2022-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219320,

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rei.
 
-309 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
+310 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,8 +283,9 @@
 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 | 2022-07-08 |  |
 | [Tranquila](https://open.spotify.com/track/0EKb4wjBgn26iU6eYnGAqx) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Tranquila](https://open.spotify.com/album/4Up8dxf1iRmtcHHCJYCpIm) | 2:46 | 2022-03-04 | 2022-07-29 |
 | [Tranquila](https://open.spotify.com/track/7A0uUOdqyFPTigJxMywYch) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [Tranquila](https://open.spotify.com/album/28nZzqhD6ToY7huYN0LzrD) | 3:25 | 2022-07-01 | 2022-07-08 |
-| [Trato de Olvidarte](https://open.spotify.com/track/7qlNg7nyyrU4weeD7GVfO6) | [Alex Tisien](https://open.spotify.com/artist/2bPiMXabGAZUTZvXdsIMnb), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Trato de Olvidarte](https://open.spotify.com/album/2Q92KYVBNsiMIG4Zkgnzxb) | 2:41 | 2022-10-07 |  |
+| [Trato de Olvidarte](https://open.spotify.com/track/7qlNg7nyyrU4weeD7GVfO6) | [Alex Tisien](https://open.spotify.com/artist/2bPiMXabGAZUTZvXdsIMnb), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Trato de Olvidarte](https://open.spotify.com/album/2Q92KYVBNsiMIG4Zkgnzxb) | 2:41 | 2022-10-07 | 2022-10-14 |
 | [Travesuras / Se Me Ha Perdido un Corazon](https://open.spotify.com/track/4rVhs9LlKB2ofHKnHR3FSw) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Travesuras / Se Me Ha Perdido un Corazon](https://open.spotify.com/album/5k6rSJ7G8N7HJpFOXsplUm) | 2:54 | 2022-01-03 | 2022-07-29 |
+| [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2022-10-13 |  |
 | [Tu Error](https://open.spotify.com/track/0fLdDZsFAmCs5zOCj516UK) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Tu Error](https://open.spotify.com/album/0SOv5dYYLIHeXB7kiYe1jQ) | 2:24 | 2022-03-04 | 2022-04-28 |
 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 | 2021-12-23 |  |
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2022-01-03 | 2022-08-26 |

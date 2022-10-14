@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 857473,
+  "num_followers": 857760,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGVhMTZmOTI0MmY5NmU5M2Q2NDkwYmI4NzhhYjM5NDll",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDcxYzNjYmNjY2Q4ZGMxOGRiZmZkMjhiNmZhYzg2NmU0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "We Don\u2019t Need",
-        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "We Don\u2019t Need",
-      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Don't Say You Love Me",
         "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 184266,
       "name": "Don't Say You Love Me",
       "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -637,10 +637,10 @@
       "url": "https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+        "name": "2 Things",
+        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
+      "duration_ms": 191250,
+      "name": "2 Things",
+      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -825,10 +825,10 @@
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "2 Things",
-        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 191250,
-      "name": "2 Things",
-      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Joi",
-        "url": "https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT"
-      },
-      "artists": [
-        {
-          "name": "Funkin Matt",
-          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
-        }
-      ],
-      "duration_ms": 216340,
-      "name": "Joi",
-      "url": "https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Cathedral (Piece Of Me) [feat. JEN]",
@@ -1013,24 +997,20 @@
       "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
+        "name": "Joi",
+        "url": "https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT"
       },
       "artists": [
         {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
         }
       ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+      "duration_ms": 216340,
+      "name": "Joi",
+      "url": "https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1055,6 +1035,26 @@
       "duration_ms": 217142,
       "name": "Disco Tool (Taiki Nulight Remix)",
       "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1347,26 +1347,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "demolition (Ruined by Glass Petals)",
-        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
       "artists": [
         {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
         }
       ],
-      "duration_ms": 226440,
-      "name": "demolition (Ruined by Glass Petals)",
-      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
+      "duration_ms": 242343,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1411,22 +1407,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
+        "name": "demolition (Ruined by Glass Petals)",
+        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
       "artists": [
         {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
         },
         {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
         }
       ],
-      "duration_ms": 242343,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
+      "duration_ms": 226440,
+      "name": "demolition (Ruined by Glass Petals)",
+      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Something's about to go down",
         "url": "https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 215090,
       "name": "Something's about to go down",
       "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 204160,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1901,6 +1901,26 @@
       "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Set The Tempo (feat. HQA)",
+        "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
+      },
+      "artists": [
+        {
+          "name": "PBH & JACK",
+          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
+        },
+        {
+          "name": "HQA",
+          "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
+        }
+      ],
+      "duration_ms": 183434,
+      "name": "Set The Tempo (feat. HQA)",
+      "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Funky Sound",
@@ -1919,30 +1939,6 @@
       "duration_ms": 139921,
       "name": "Funky Sound",
       "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Same Stars",
-        "url": "https://open.spotify.com/album/2I0s6uRil1Yhkq7nLkGt93"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        },
-        {
-          "name": "Reja Jay",
-          "url": "https://open.spotify.com/artist/0DjUxHauWoZAVYPhEDJEyf"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Same Stars",
-      "url": "https://open.spotify.com/track/2fXIiMWnBLfPBxpQ7DTvMO"
     }
   ],
   "unique_name": "Shuffle Syndrome",

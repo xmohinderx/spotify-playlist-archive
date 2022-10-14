@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The sweet sounds of Algeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,901 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,967 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 18 | [Babour Ellouh \- Waves Edit](https://open.spotify.com/track/4yTsqKht7TgflJTNAhEtm9) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Babour Ellouh \(Waves Edit\)](https://open.spotify.com/album/1rpR2Xk0gSPO48EuRFzbaA) | 3:09 |
 | 19 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 |
 | 20 | [Balak](https://open.spotify.com/track/0WQqJD52PqOmSVtEYiX4NC) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Balak](https://open.spotify.com/album/58TtNp2W6dXurKZd23H0nL) | 3:47 |
-| 21 | [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 |
+| 21 | [Abracadabra](https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ) | 4:18 |
 | 22 | [Manimane](https://open.spotify.com/track/6cVOmhvrfTFGw6h8bEU3Rl) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Manimane](https://open.spotify.com/album/7D3aSf7ErYyKl2OOkBCLI9) | 3:09 |
 | 23 | [Balek](https://open.spotify.com/track/6y6ogtH99BJiEiBlEIY77A) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Balek](https://open.spotify.com/album/4De1zo3rJdvKQ0XAUndtOe) | 3:41 |
 | 24 | [Yaba \- Radio Edit](https://open.spotify.com/track/2rGB8lhemhyqt9iGh6ywqE) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Yaba \(Radio Edit\)](https://open.spotify.com/album/0TNsKfKeDyinPTmywsMk4H) | 2:59 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 41 | [3ach9ek Criminel](https://open.spotify.com/track/6Y3hqLC16tJUEI4PDsusoT) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [3ach9ek Criminel](https://open.spotify.com/album/5CYq5YmDbgtM0ys9xBxYiL) | 2:52 |
 | 42 | [Entourage](https://open.spotify.com/track/1B3Ol7QWDUh2H9E12QLFXD) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Entourage](https://open.spotify.com/album/5nGn5Cpeaci7vkEJ6U4L5m) | 3:16 |
 | 43 | [Baby Baby](https://open.spotify.com/track/0xgP0lR6VpAl4ruqu6bE45) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby](https://open.spotify.com/album/59ilTq126YceY3mWtoTcbg) | 3:30 |
-| 44 | [El Walida](https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [El Walida](https://open.spotify.com/album/5BUWjVJMOXZkOl6gN2pEBc) | 4:12 |
+| 44 | [El Walida](https://open.spotify.com/track/72IaF2DNQpXfYVG349uPI6) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [El Walida](https://open.spotify.com/album/6KZu4hCRZdB3dtQc8ABbE2) | 4:10 |
 | 45 | [Nouveaux parrains](https://open.spotify.com/track/4ycyOBm9iFoiNVkafhb1WW) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Nouveaux parrains](https://open.spotify.com/album/6gXYP4nPpC5k6B25h3upDa) | 2:45 |
 | 46 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 |
 | 47 | [Ma3lich ya 9albi](https://open.spotify.com/track/70EOQVKqRBIU9mfibNLltJ) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ma3lich ya 9albi](https://open.spotify.com/album/1pFjyyY15J1iChq4xAMJYW) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Tir Ellil](https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Larbi Maestro](https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT) | [Tir Ellil](https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq) | 4:06 |
 | 50 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 |
 
-Snapshot ID: `MTY2NTMwMDkyNywwMDAwMDAwMDBjOTA1NGE5ZGY0MTQyOWE1YWM3MzY5Y2IwYzhhMzhh`
+Snapshot ID: `MTY2NTMwMDkyNywwMDAwMDAwMDU4NzgxYTkzNDc5NTFkNmQyNWFmZmE5OGM5NzA1Zjdh`

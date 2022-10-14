@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > ¡SOULFIA y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,522 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,525 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 12 | [Cosas De La Vida](https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Cosas De La Vida](https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4) | 2:44 |
 | 13 | [Báilalo Mujer](https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 |
 | 14 | [Miénteme](https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Miénteme](https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w) | 3:24 |
-| 15 | [Dar y Dar](https://open.spotify.com/track/07h6A732FnyXHpJWcmdd5n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:40 |
-| 16 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 |
+| 15 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 |
+| 16 | [Dar y Dar](https://open.spotify.com/track/07h6A732FnyXHpJWcmdd5n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:40 |
 | 17 | [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 |
 | 18 | [Besame](https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Besame](https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B) | 2:58 |
 | 19 | [Religiosa](https://open.spotify.com/track/2KfTQFFLpZhzlZATYS9job) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Religiosa](https://open.spotify.com/album/6d6tiuczqJEHoP5jL9Qn15) | 2:40 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 35 | [Siempre Nice](https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Back to Basics](https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY) | 3:11 |
 | 36 | [Jui$y](https://open.spotify.com/track/1XJzGcSYymkPVa0kUtvZrL) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Jui$y](https://open.spotify.com/album/6ut6g96uQwB6sIz3CjEHYI) | 3:26 |
 | 37 | [No más me dio](https://open.spotify.com/track/2EjZ0hlW8Pk4VE0adAgckR) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [No más me dio](https://open.spotify.com/album/69K23XEPiqueK7o88Kdgdk) | 3:13 |
-| 38 | [Flip Flops](https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Flip Flops](https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0) | 2:35 |
-| 39 | [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 |
-| 40 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 |
-| 41 | [Miedo](https://open.spotify.com/track/43obEvBKQz14FjoM90fdxX) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Ruzica Flores](https://open.spotify.com/artist/1Z8ZBF6ppxP6jxks36IK0a) | [Miedo](https://open.spotify.com/album/7sTmkgNE2XTQmyuTalJLKj) | 4:07 |
+| 38 | [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 |
+| 39 | [Flip Flops](https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Flip Flops](https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0) | 2:35 |
+| 40 | [Miedo](https://open.spotify.com/track/43obEvBKQz14FjoM90fdxX) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Ruzica Flores](https://open.spotify.com/artist/1Z8ZBF6ppxP6jxks36IK0a) | [Miedo](https://open.spotify.com/album/7sTmkgNE2XTQmyuTalJLKj) | 4:07 |
+| 41 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 |
 | 42 | [No me dejaré caer](https://open.spotify.com/track/4pv1VaZa5hxAWsdn1NFLlE) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [No me dejaré caer](https://open.spotify.com/album/29PpuwqvwZEOJP1eEsDmqR) | 2:36 |
 | 43 | [Código Bitches](https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb) | [Fran Mazu](https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Código Bitches](https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6) | 2:47 |
 | 44 | [Ella Fuma](https://open.spotify.com/track/20wEgAkUOnlAHmE2rk36xY) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Ella Fuma](https://open.spotify.com/album/12Dj1ZmEQvvjCaAH5G4NqT) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
 | 50 | [MIÉNTEME](https://open.spotify.com/track/5JpvJ0qPVJ1uyC3Y5g68zy) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 3:24 |
 
-Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMDhhNTRmZmYwMWQ4M2UzY2ZiYTc1Yjk4YmUzMjkyYjQ2`
+Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMDU4MThmMzJkZWFiMjk4NjAyYzE4MzlmM2IwOGJjMjMz`

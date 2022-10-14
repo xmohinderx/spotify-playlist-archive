@@ -4,7 +4,7 @@
 
 > Disco, house, funk and soul for the good times.
 
-86 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
+87 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [The Best Rapper Alive](https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [The Best Rapper Alive](https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm) | 8:07 | 2021-07-24 |  |
 | [The Sea](https://open.spotify.com/track/0vDyt6VTJtFzyfnE9il1pf) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT) | [The Sea](https://open.spotify.com/album/5GutsKyXeAmABV8n6xM3Ea) | 3:14 | 2021-07-24 |  |
 | [This Moment](https://open.spotify.com/track/5dg97Wk0dj5LsywKrVEdRH) | [tade kop](https://open.spotify.com/artist/3hRZovynAos5EBfchVKP1X) | [This Moment](https://open.spotify.com/album/4yJmLaVjw7boUufKOxKHkb) | 7:56 | 2021-07-24 |  |
-| [Tokyo](https://open.spotify.com/track/5ZSqGX8UtroLgLwdvcihmg) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [On a Different Page](https://open.spotify.com/album/1tVCrfSA85W4NAeo5vgATR) | 3:55 | 2021-07-24 |  |
+| [Tokyo](https://open.spotify.com/track/04kqFUNkLsqiGBdzeXDqGJ) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [On a Different Page](https://open.spotify.com/album/2xswfjdRu4tJ3bQTlpWVmo) | 3:55 | 2022-06-20 |  |
+| [Tokyo](https://open.spotify.com/track/5ZSqGX8UtroLgLwdvcihmg) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [On a Different Page](https://open.spotify.com/album/1tVCrfSA85W4NAeo5vgATR) | 3:55 | 2021-07-24 | 2022-10-14 |
 | [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2021-07-24 |  |
 | [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-06-20 |  |
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-06-20 |  |

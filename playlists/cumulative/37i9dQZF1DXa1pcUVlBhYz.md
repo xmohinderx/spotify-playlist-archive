@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
-180 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
+182 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Murder](https://open.spotify.com/track/5gIEBVBMo82RxHQIHW2aeD) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Murder](https://open.spotify.com/album/5yNwpK71K5BUv4SeSePUI7) | 2:33 | 2022-03-04 |  |
 | [My Cheri](https://open.spotify.com/track/2KMGtmMG9ECmayTeqtb3YY) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [My Cheri](https://open.spotify.com/album/6ZUEW9WFB8WK1ullIjAmUn) | 2:31 | 2022-02-01 | 2022-04-02 |
 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 | 2022-04-29 | 2022-09-17 |
-| [Natives](https://open.spotify.com/track/4MEgPSYPPBEyW10WLsHKkq) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Natives](https://open.spotify.com/album/5Z2BDycTPxBJ5tW58AzsNc) | 4:42 | 2022-04-01 |  |
+| [Natives](https://open.spotify.com/track/4MEgPSYPPBEyW10WLsHKkq) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Natives](https://open.spotify.com/album/5Z2BDycTPxBJ5tW58AzsNc) | 4:42 | 2022-04-01 | 2022-10-14 |
+| [Natives](https://open.spotify.com/track/6jtYFspv3oFdy6zwt8sKDb) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Natives](https://open.spotify.com/album/3pMT1NMsRVQYuiN9mxrMsc) | 4:42 | 2022-09-16 |  |
 | [New Balance \- Remix](https://open.spotify.com/track/1Sd4k94hozcfCVF4rf4ALQ) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [New Balance \(Remix\)](https://open.spotify.com/album/5PZ6LzdCYLNG1xJjqrPN6W) | 3:14 | 2022-02-01 | 2022-08-06 |
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2022-02-25 |  |
 | [No Atlas](https://open.spotify.com/track/41zA33xErWnQTK7W6gj3da) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [No Atlas](https://open.spotify.com/album/1KTanq3HZYExUz3I7pa07f) | 3:30 | 2022-02-01 | 2022-02-26 |
@@ -182,7 +183,8 @@
 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 | 2022-09-16 |  |
 | [Wild Side \(feat\. KAYTRANADA\) \- KAYTRANADA Remix](https://open.spotify.com/track/2smDPFcFsLTxDrckkOL2gR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Wild Side \(feat\. KAYTRANADA\) \[KAYTRANADA Remix\]](https://open.spotify.com/album/2VzKdDTQMJ8VReWnmEOiSN) | 4:24 | 2022-02-25 |  |
 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 | 2022-02-01 |  |
-| [Wrong Breed](https://open.spotify.com/track/3XFQEMEaKwU6MOm9JFdw5B) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Frame of a Fauna](https://open.spotify.com/album/0ifU4vmffYR8nMs3DJ9elw) | 4:06 | 2022-02-01 |  |
+| [Wrong Breed](https://open.spotify.com/track/0a8eV4f7SRViOMwqGYyQai) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Frame of a Fauna](https://open.spotify.com/album/3LPiHM4N1vvRyXYTo1oUB2) | 4:06 | 2022-09-16 |  |
+| [Wrong Breed](https://open.spotify.com/track/3XFQEMEaKwU6MOm9JFdw5B) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Frame of a Fauna](https://open.spotify.com/album/0ifU4vmffYR8nMs3DJ9elw) | 4:06 | 2022-02-01 | 2022-10-14 |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 |  |
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2022-02-01 |  |
 | [You Wanna?](https://open.spotify.com/track/6BRJxAgTCr7zCOmTkZuY2Q) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [CircoLoco Records & NEZ Present CLR 002](https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C) | 3:35 | 2022-02-25 |  |

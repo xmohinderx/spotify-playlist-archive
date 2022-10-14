@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-236 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+239 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Alter Ego](https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:08 | 2022-06-17 |  |
 | [Alter Ego](https://open.spotify.com/track/6wENHzpfTcBZkrJYxT2WAS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Backbone](https://open.spotify.com/album/3qKhKWdMfWfpxhUgUh0vt0) | 4:08 | 2020-12-11 | 2022-07-29 |
 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 | 2020-12-11 |  |
-| [Asleep at the Wheel](https://open.spotify.com/track/2VnkxWob7ooT5NrN9WtctI) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 4:06 | 2020-12-11 |  |
+| [Asleep at the Wheel](https://open.spotify.com/track/2VnkxWob7ooT5NrN9WtctI) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 4:06 | 2020-12-11 | 2022-10-14 |
+| [Asleep at the Wheel](https://open.spotify.com/track/5C0wlC8WJeiGbuI2THoG1U) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/6ynw5YQyZBVK9UPoVJuEeQ) | 4:06 | 2022-10-07 |  |
 | [Atta Blues](https://open.spotify.com/track/1szDKbUMeO9mGFG4YEGCJ4) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Atta Blues](https://open.spotify.com/album/4MrwLAfWx5UderzcPA7ExA) | 3:28 | 2020-12-11 |  |
 | [Baby I Call Hell](https://open.spotify.com/track/3LBkRFoMoyWzhdUeIMJKrc) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Sistrionix](https://open.spotify.com/album/3OSEuYClxGH6gW7vvqBj04) | 3:00 | 2020-12-11 |  |
 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 | 2020-12-11 |  |
@@ -34,14 +35,16 @@
 | [Brave New World \- Radio Edit](https://open.spotify.com/track/2yX9z46JItbv2BP5cr79zb) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Radio Edit\)](https://open.spotify.com/album/11hodYczPYdxNgWc0UGHZJ) | 2:39 | 2020-12-11 | 2022-07-29 |
 | [Bright Lights](https://open.spotify.com/track/2NTDt9Fiqp5wTBM6cLO6Bu) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu](https://open.spotify.com/album/0YCTY6KpkPWp2etKx9ZNyM) | 5:24 | 2020-12-11 | 2022-07-29 |
 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 | 2022-06-17 |  |
-| [Bring It On](https://open.spotify.com/track/1sdWSEGmB3FYml1iPDvvDM) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Bring It On](https://open.spotify.com/album/1ZNRatAi2xYtzRVAvAlSxN) | 2:59 | 2020-12-11 |  |
+| [Bring It On](https://open.spotify.com/track/1sdWSEGmB3FYml1iPDvvDM) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Bring It On](https://open.spotify.com/album/1ZNRatAi2xYtzRVAvAlSxN) | 2:59 | 2020-12-11 | 2022-10-14 |
+| [Bring It On](https://open.spotify.com/track/5jagZTtWOjehhhr9whpn0Z) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Bring It On](https://open.spotify.com/album/5mRIy2iRsza9AfvwJDGU1C) | 2:59 | 2022-10-07 |  |
 | [Broken Bones](https://open.spotify.com/track/0fnYEb4IPNMlv46bZweUu8) | [CRX](https://open.spotify.com/artist/4NfVXEoTZVX7rpJSZEVGLg) | [Broken Bones](https://open.spotify.com/album/30gnL7UUcLHZsXYtMsxgfE) | 3:31 | 2020-12-11 | 2022-09-24 |
 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 | 2020-12-11 |  |
 | [Cabin Fever \(Garage Recording\)](https://open.spotify.com/track/0lDUzCYvE8hXIQ5VrC01BK) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Cabin Fever \(Garage Recording\)](https://open.spotify.com/album/4hebiZjcKUFEGiW3bpqLfA) | 2:24 | 2020-12-11 | 2022-06-18 |
 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 4:38 | 2020-12-11 |  |
 | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/track/126giU8BEn5WzeJGkFhD0d) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/album/5XVZRM83dfA9YGj2hsaOSs) | 4:20 | 2020-12-11 |  |
 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 | 2020-12-11 |  |
-| [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 | 2022-08-26 |  |
+| [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 | 2022-10-07 |  |
+| [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 | 2022-08-26 | 2022-10-14 |
 | [Currency](https://open.spotify.com/track/1kdKw9kOzfBglaRbF0NUsV) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Currency](https://open.spotify.com/album/1AZNe8cmbx8iXEN2pxJJGC) | 5:16 | 2020-12-11 |  |
 | [daphne did it](https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M) | 3:22 | 2022-06-17 |  |
 | [daphne did it](https://open.spotify.com/track/4TtPiVz5MmvhNwWDVFvtWc) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/1Uoy5aF4pU8WvUDe07tfva) | 3:22 | 2020-12-11 | 2022-07-29 |

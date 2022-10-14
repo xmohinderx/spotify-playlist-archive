@@ -1601,7 +1601,7 @@
     {
       "album": {
         "name": "songs from 3am",
-        "url": "https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH"
+        "url": "https://open.spotify.com/album/0bgCvlryOs9JHw0alDKqdS"
       },
       "artists": [
         {
@@ -1612,6 +1612,24 @@
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147125,
+      "name": "dance around",
+      "url": "https://open.spotify.com/track/0E2qrXXGhi6Aje9Dxx4BG2"
+    },
+    {
+      "album": {
+        "name": "songs from 3am",
+        "url": "https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH"
+      },
+      "artists": [
+        {
+          "name": "carobae",
+          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 147125,
       "name": "dance around",
       "url": "https://open.spotify.com/track/48CrjgOJbefsqOMuUgGIdf"

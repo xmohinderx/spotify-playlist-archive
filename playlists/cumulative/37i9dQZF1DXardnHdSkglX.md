@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-158 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+159 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2021-12-09 |  |
 | [Hard Woman](https://open.spotify.com/track/5CnJxBqumusw9dIbCqZ28B) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [A New Beginning](https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT) | 3:54 | 2021-12-09 |  |
 | [Hazard](https://open.spotify.com/track/0h62LobkzlOtaLekngojE9) | [Calore Amore](https://open.spotify.com/artist/404FUFalLSmGrSm81VXc6W) | [Hazard](https://open.spotify.com/album/0bFwIcFExIJ1JEMcMDA0wD) | 4:36 | 2021-12-09 |  |
+| [Here Comes the Sun](https://open.spotify.com/track/4lGneSloc1ac2MjEx7nBgt) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Here Comes the Sun](https://open.spotify.com/album/3oXDBWtwUbumiEvre3Oq2O) | 3:27 | 2022-10-13 |  |
 | [Here Comes the Sun](https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 2:32 | 2021-12-09 |  |
 | [Hey Brother](https://open.spotify.com/track/6KjeFfePSDrlvsOb1aXqwy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid) | 3:41 | 2021-12-09 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3cEOZA4s90JCEiShSDHKhG) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D), [Bossanova Covers](https://open.spotify.com/artist/11FyPK488W0qoA3jpUj4oq) | [Bossa Nova Covers](https://open.spotify.com/album/4WWtF9vuBBzIcIITcynYNY) | 3:16 | 2021-12-09 |  |

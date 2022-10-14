@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Rahma Riad
 
-314 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+316 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [AlRawabi Anthem](https://open.spotify.com/track/59d9AtqxlI7GQOut4ys3fq) | [AlRawabi Choir](https://open.spotify.com/artist/4Ac0GE4iof62Xfs9yCiW9F) | [AlRawabi Anthem](https://open.spotify.com/album/6ppcAbcHyAjrgnZswicB7a) | 1:55 | 2021-12-23 | 2022-03-02 |
 | [AlRawabi Anthem Remix](https://open.spotify.com/track/6Zw3tNHV9RTfaVjkXVIoi9) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [AlRawabi Anthem Remix](https://open.spotify.com/album/6yJAn4msXZ5WNsbyNBVHek) | 1:57 | 2021-12-30 | 2022-03-02 |
 | [Ana Aghar](https://open.spotify.com/track/4RIYFfuJ80QpWaufFwDrl2) | [Joan Husssein](https://open.spotify.com/artist/35hdPES6rNnAfwx4b2Tze7) | [Ana Aghar](https://open.spotify.com/album/6kkhEalG1bDhUpVkZxwB6v) | 4:20 | 2022-03-01 | 2022-07-29 |
-| [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-11 |  |
+| [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-11 | 2022-10-14 |
 | [Ana Men](https://open.spotify.com/track/0t0wTAuASealrrHyrkYdF6) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Ana Men](https://open.spotify.com/album/4iCFKHnPhLPceHgpAuF4ZO) | 3:34 | 2021-12-23 | 2022-02-27 |
 | [Anger](https://open.spotify.com/track/2ewErT1UdO14jpk8I7WK6U) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Anger](https://open.spotify.com/album/0aGn0YLlsHxsNdBCcuRv01) | 2:45 | 2022-01-20 | 2022-02-18 |
 | [Ann Alawan](https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ann Alawan](https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg) | 3:45 | 2022-03-01 |  |
@@ -55,10 +55,12 @@
 | [Ba3d Al Frak](https://open.spotify.com/track/01KJufb1Qt3s3xeiRZll1z) | [Deema Cam](https://open.spotify.com/artist/6r28s3Wv8IIIQgKptX71zj) | [Ba3d Al Frak](https://open.spotify.com/album/0iHOLK0SOIEP4YnNi6wG7S) | 3:54 | 2021-12-23 | 2022-03-01 |
 | [Ba9i](https://open.spotify.com/track/1oTZuVigsvGyUHM9zMOKFM) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ba9i](https://open.spotify.com/album/0zQqQuBMkh7xratGdm5cwW) | 3:37 | 2021-12-23 | 2022-03-02 |
 | [Bad Trip](https://open.spotify.com/track/5Yn8SZfv3IYoS49jpomqS3) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Bad Trip](https://open.spotify.com/album/6LZMuljvaHpZKQx8raK0Zq) | 2:32 | 2021-12-23 | 2022-03-02 |
+| [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-13 |  |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-03-01 |  |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 |  |
 | [Batalet Haiatik](https://open.spotify.com/track/3uOTeUzSg0pBIx5xDd2ARv) | [Alia Awwe](https://open.spotify.com/artist/67tXfOypohX8DzjnZDDXOm) | [Batalet Haiatik](https://open.spotify.com/album/7CvbpdJR1gk1Q3TnluIWkZ) | 3:01 | 2021-12-23 | 2022-03-02 |
 | [Beast](https://open.spotify.com/track/4INdqXD8eGGHUfgQuFchSs) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Beast](https://open.spotify.com/album/5K830E45fZvNPhCKbFZQJl) | 3:46 | 2021-12-23 | 2022-03-02 |
+| [Bedi e7kik / بدي احكيك \- Remix by DJ JO MK](https://open.spotify.com/track/66iwWLfDAvp2DVDE33fhKR) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [DJ JO MK](https://open.spotify.com/artist/3WOC13QE3Jgx1MGaM8tIAL) | [Bedi e7kik / بدي احكيك \(Remix by DJ JO MK\)](https://open.spotify.com/album/38d60nfn1G0W8tlzfvSUAY) | 2:33 | 2022-10-13 |  |
 | [Bel Mukhtsar](https://open.spotify.com/track/5UDj8FpgnvAAgFEYhrFU9a) | [Sanaa Al Alami](https://open.spotify.com/artist/7o5hnekeakdew02SBU4w5D) | [Bel Mukhtsar](https://open.spotify.com/album/6Vp4pfEkr3ck0ecLyfomvg) | 2:27 | 2021-12-23 | 2022-02-26 |
 | [Betateb Khialak](https://open.spotify.com/track/0YiPfcpDYfPfQ3mTgATAtj) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Betateb Khialak](https://open.spotify.com/album/1ErPBre7sIpdaVPLJgpuUq) | 4:51 | 2022-03-08 |  |
 | [Bizarre](https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Bizarre](https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n) | 2:40 | 2022-03-03 |  |
@@ -79,7 +81,7 @@
 | [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 | 2022-07-21 |  |
 | [El koun](https://open.spotify.com/track/6tBhitRgOcmxOjjBHNpep6) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [El koun](https://open.spotify.com/album/6kwQCrZIz01woHNniUtNua) | 4:06 | 2022-03-01 |  |
 | [El Mehwar](https://open.spotify.com/track/72Um6QDY59HCpgpNjFq14r) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [El Mehwar](https://open.spotify.com/album/0fIo6JnxKEyRToMfvIboAN) | 3:32 | 2021-12-23 | 2022-03-01 |
-| [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 | 2022-03-07 |  |
+| [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 | 2022-03-07 | 2022-10-14 |
 | [El Tabour \- Arabic adaptation of Bambino](https://open.spotify.com/track/0URyUHND8op34XymZ2mP5y) | [Lara Scandar](https://open.spotify.com/artist/3eh2JDunlzmEpvdUzaxDji) | [El Tabour \(Arabic adaptation of Bambino\)](https://open.spotify.com/album/5LeC664WD7waXmySxsmUua) | 3:24 | 2021-12-23 | 2022-02-26 |
 | [Elain Tebki](https://open.spotify.com/track/0sd7Nw1PMval64C1YZjj4q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Elain Tebki](https://open.spotify.com/album/5Y5e4ZbvgGgnPmTTfZzjUH) | 3:56 | 2021-12-23 | 2022-02-25 |
 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-25 |  |

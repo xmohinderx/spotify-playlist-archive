@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,160 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,198 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 49 | [No Thoughts, Head Empty \- Single Version](https://open.spotify.com/track/7v5rX1Id8Lo1t8SeKcGWMf) | [Tape Girl](https://open.spotify.com/artist/04RmwYKUtw7TelYW3UQ3L6) | [No Thoughts, Head Empty](https://open.spotify.com/album/1mc4tA9yDBwHlt6XBGKnlW) | 2:44 |
 | 50 | [Something To Say](https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Something To Say](https://open.spotify.com/album/6CBY5J52PrxflhCEelKeBR) | 4:04 |
 | 51 | [All I Have Is I](https://open.spotify.com/track/2cLrli2NE987jrCHJe4e0l) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [All I Have Is I](https://open.spotify.com/album/3KBzyQJ9hCybruGbPcjczp) | 3:25 |
-| 52 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 |
+| 52 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 |
 | 53 | [Foi Mal](https://open.spotify.com/track/3HyDXfYR2Q4y3kc9UnjAuJ) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA PT1](https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ) | 2:45 |
 | 54 | [I Wanna Be Your Girlfriend](https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Twelve Nudes](https://open.spotify.com/album/5Pm5mcnn8gRxiY4b4qXD1P) | 3:29 |
 | 55 | [Gravity](https://open.spotify.com/track/30WDzCkRBK8GSWPnlJEErx) | [Cuee](https://open.spotify.com/artist/5vuWUABfGvkUxib7zgMMc6), [Lindsey Alderman](https://open.spotify.com/artist/1d4Jqgs605YVW4ziTGYWjy) | [Gospel](https://open.spotify.com/album/0OCCDhGevaBWOhQJ5eTz1a) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 99 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 | 100 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMGIyMjUwNjM2YjllOWJlNDVmZTczMDA4YzMzY2RhZDhm`
+Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMDU2Y2NkMjlhZjA1NTRjYzVhZGQwZGQyNzYyNTU0NzIx`

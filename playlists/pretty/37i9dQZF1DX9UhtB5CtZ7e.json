@@ -1,12 +1,12 @@
 {
   "description": "Cozy and sweet songs guaranteed to shield you from the blues. ",
-  "num_followers": 48502,
+  "num_followers": 48511,
   "original_name": "Sunday Scaries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NTY2MywwMDAwMDAwMDE3MzcwYjEzMWI5NjkwNWJmZmI3ZDcwYmU1ZWY5N2U2",
+  "snapshot_id": "MTY1OTM2NTY2MywwMDAwMDAwMDU4NTUxMjBlNjE0NjIyY2FkMGI5ZGIzZDk1ODJmMDYz",
   "tracks": [
     {
       "added_at": "2020-08-18 17:48:46",
@@ -559,6 +559,22 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
+        "name": "Moondance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 155453,
+      "name": "Crazy Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Moondance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 155453,
-      "name": "Crazy Love - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -1237,20 +1237,20 @@
       "url": "https://open.spotify.com/track/1Ifka4pq7ruw9DO15hk9ni"
     },
     {
-      "added_at": "2022-07-21 19:17:29",
+      "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 258665,
-      "name": "Outta Time",
-      "url": "https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9"
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     }
   ],
   "unique_name": "Sunday Scaries",

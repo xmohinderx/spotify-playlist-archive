@@ -4,14 +4,14 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-197 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+198 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til Your Heart Breaks \- Acoustic](https://open.spotify.com/track/2oXXTPNirAkJbOtHxqw16V) | [Juna N Joey](https://open.spotify.com/artist/7sFEaRrD84U9n0GHI4CmO8) | ['Til Your Heart Breaks \(Acoustic\)](https://open.spotify.com/album/6ZHxH8kQecxRl4qNJGcqyM) | 3:25 | 2022-04-01 | 2022-07-09 |
 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 | 2021-12-17 |  |
 | [27](https://open.spotify.com/track/4YvNZIRILOrJNuMqBwdxkC) | [Kate Cameron](https://open.spotify.com/artist/788oTi6YK2sbYWPFJSOKEo) | [27](https://open.spotify.com/album/5ng1gjx5davZUvzX1mWfgF) | 3:32 | 2021-12-17 | 2022-07-20 |
-| [7500 OBO \- Acoustic](https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [7500 OBO \(Acoustic\)](https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r) | 3:41 | 2021-12-17 |  |
+| [7500 OBO \- Acoustic](https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [7500 OBO \(Acoustic\)](https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r) | 3:41 | 2021-12-17 | 2022-10-14 |
 | [a country song \- ballerini album version](https://open.spotify.com/track/4BXAoa1S3GPg5xp8UbEITA) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:07 | 2022-07-08 | 2022-07-10 |
 | [ABCDEFU \- Live Acoustic](https://open.spotify.com/track/11oLOD6csB1XCKLxAgDnG7) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [ABCDEFU \(Live Acoustic\)](https://open.spotify.com/album/7on7eQbCCF9vPj2vnL2Txb) | 2:49 | 2022-02-25 | 2022-07-26 |
 | [Again \- Stripped Bare](https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Again \(Stripped Bare\)](https://open.spotify.com/album/0lE5keuEk5Y10vK6fDEIe6) | 2:33 | 2022-07-01 | 2022-08-01 |
@@ -36,6 +36,7 @@
 | [Boy Like Me \- Acoustic](https://open.spotify.com/track/1czoG01DZOJ9wTv3pvcKrk) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Boy Like Me \(Acoustic\)](https://open.spotify.com/album/4Lan6PFV9KO6AzwEAGoxez) | 3:08 | 2021-12-17 | 2022-07-10 |
 | [Break My Heart Again \- Live Acoustic](https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again \(Live Acoustic\)](https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby) | 3:20 | 2022-06-17 | 2022-08-26 |
 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 | 2021-12-17 |  |
+| [Broken Heartland \(Acoustic\)](https://open.spotify.com/track/7xGDfJhvJ7El7dD7yRU083) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Broken Heartland \(Acoustic\)](https://open.spotify.com/album/5DpXffm9xslcaFaYYqRSN8) | 3:36 | 2022-10-07 |  |
 | [Broken Up \- Acoustic](https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Broken Up \(Acoustic\)](https://open.spotify.com/album/3SzlvoZYAH0dPrZeG4GH7S) | 3:09 | 2021-12-17 | 2022-08-21 |
 | [Buy Dirt \- Acoustic](https://open.spotify.com/track/6MG2uwCDlqChYAAlzCBd50) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt \(Acoustic\)](https://open.spotify.com/album/1JQ9Z0M1rA2MCmEdhruP2n) | 3:04 | 2021-12-17 | 2022-01-22 |
 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 | 2022-01-21 |  |

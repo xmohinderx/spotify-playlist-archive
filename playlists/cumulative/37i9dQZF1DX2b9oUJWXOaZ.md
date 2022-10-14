@@ -4,7 +4,7 @@
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-53 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
+54 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Everything's Gotta Change \- From "A Million Little Things: Season 2"](https://open.spotify.com/track/6px13CvCNuqQT7hGqnZSwA) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Everything's Gotta Change \(From "A Million Little Things: Season 2"\)](https://open.spotify.com/album/2tv5HYTW3jLH0zb4FNykwQ) | 3:47 | 2022-05-02 |  |
 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 | 2022-05-02 |  |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2022-05-02 |  |
-| [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 | 2022-05-02 |  |
+| [FLOAT](https://open.spotify.com/track/06AzqBM9R9aw3BsyEjDC5F) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/0jxLIJPnHdAKemY2UNXujJ) | 3:03 | 2022-05-02 |  |
+| [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 | 2022-05-02 | 2022-10-14 |
 | [Go East](https://open.spotify.com/track/2TIfjhW3HCHlaTVBKi4UYX) | [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV), [Scott Robert Jung](https://open.spotify.com/artist/2cxeIvkUhY3DN8LIkzvWVD) | [Warrior \(Cinemax Original Series Soundtrack\)](https://open.spotify.com/album/2eEhADd3alWOguMQNwUqtw) | 2:47 | 2022-05-02 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2022-05-02 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-05-02 |  |

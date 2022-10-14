@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,602 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,616 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 21 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 |
 | 22 | [Tar Hani \(My Love\)](https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Agadez](https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3) | 6:30 |
 | 23 | [Ai Bine](https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 6:20 |
-| 24 | [Catfish Blues](https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 5:29 |
-| 25 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
+| 24 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
+| 25 | [Catfish Blues](https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 5:29 |
 | 26 | [Yere faga](https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 5:11 |
 | 27 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib) | 6:07 |
 | 28 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 |
 | 29 | [Sekou Oumarou](https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:33 |
 | 30 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
-| 31 | [Gandadiko](https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:24 |
-| 32 | [Aratane N' Adagh](https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Adagh](https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4) | 5:12 |
+| 31 | [Aratane N' Adagh](https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Adagh](https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4) | 5:12 |
+| 32 | [Gandadiko](https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:24 |
 | 33 | [Tiguedimma](https://open.spotify.com/track/6TFINWC5oWjDe4emrxd6H7) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX) | 4:36 |
 | 34 | [Karkar / Vincent](https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Kongo Magni](https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe) | 5:23 |
 | 35 | [Tamudre](https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 49 | [The Lighthouse Keeper](https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [The West African Blues Project](https://open.spotify.com/album/510vDsJUph73WMw4GK1x19) | 4:11 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDhiZWU1YzVhMjRlYzI4YjlkM2E4ODU4ZGY3YTAzNDBl`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGRiYTE5M2FkY2QyNjQ4ODM0NTM5ZTVhOWE4NTk4N2Rj`

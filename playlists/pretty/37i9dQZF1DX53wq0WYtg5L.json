@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 523015,
+  "num_followers": 523057,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMGUyODhmZWQ1MDE2OTc0NzQ5NjRlZmZjYjg2YmUzYjI0",
+  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMGVlNjAyZTM4ZDM2NWNiNWUzNjhkMDUwMWIwZjVlMjkz",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Lo Mejor De La M\u00fasica Mexicana",
-        "url": "https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
       },
       "artists": [
         {
-          "name": "Darvelio Arredondo",
-          "url": "https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r"
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
         }
       ],
-      "duration_ms": 221780,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
+      "duration_ms": 210280,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "De Que Manera Te Olvido",
         "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 154893,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/7vBT4N9qKLL4Y94vCsK2PG"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Lo Mejor De La M\u00fasica Mexicana",
+        "url": "https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC"
+      },
+      "artists": [
+        {
+          "name": "Darvelio Arredondo",
+          "url": "https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r"
+        }
+      ],
+      "duration_ms": 221780,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Pedro Infante y Mariachi Silvestre Vargas",
-        "url": "https://open.spotify.com/album/5QzKzP81GQJbx6GUVk0JSa"
+        "name": "Las 100 Clasicas Vol. 1",
+        "url": "https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y"
       },
       "artists": [
         {
-          "name": "Mariachi Silvestre Vargas",
-          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 168751,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/5g3vaKhD92Chh6Wm5f1c3e"
+      "duration_ms": 215933,
+      "name": "Virgencita de Zapopan",
+      "url": "https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Las 100 Clasicas Vol. 1",
-        "url": "https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y"
+        "name": "Pedro Infante y Mariachi Silvestre Vargas",
+        "url": "https://open.spotify.com/album/5QzKzP81GQJbx6GUVk0JSa"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Mariachi Silvestre Vargas",
+          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Virgencita de Zapopan",
-      "url": "https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca"
+      "duration_ms": 168751,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/5g3vaKhD92Chh6Wm5f1c3e"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "30 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/2mlB33kRAbdiHaAgcZNEhk"
-      },
-      "artists": [
-        {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
-        }
-      ],
-      "duration_ms": 149478,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/3cbXRkpNxHQt9Iu8h3Sf3K"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 201626,
       "name": "Rogaciano",
       "url": "https://open.spotify.com/track/66XbA3JnX82pB26MZWeFTC"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "30 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/2mlB33kRAbdiHaAgcZNEhk"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "duration_ms": 149478,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/3cbXRkpNxHQt9Iu8h3Sf3K"
     },
     {
       "added_at": "2022-09-12 17:32:54",

@@ -4,7 +4,7 @@
 
 > Dark and dreamy while you wait for your wings to grow.
 
-80 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/59LZVsaOz0Y4d0uLOo25Vb)
+81 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/59LZVsaOz0Y4d0uLOo25Vb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-09-02 | 2022-09-17 |
 | [DESTROY](https://open.spotify.com/track/6NqVy3QFiFFwobVDVY6LcZ) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0) | [DESTROY](https://open.spotify.com/album/2jXNKUillnfsGhv1VvU2ze) | 2:33 | 2022-09-02 |  |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 | 2022-10-07 |  |
-| [Dream, Ivory](https://open.spotify.com/track/3QX3hxUM76cNIwzC1gj8vF) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY) | 3:08 | 2022-09-02 |  |
+| [Dream, Ivory](https://open.spotify.com/track/3QX3hxUM76cNIwzC1gj8vF) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY) | 3:08 | 2022-09-02 | 2022-10-14 |
+| [Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/4aMcxxMheE6r3FC4a4JLhv) | 3:08 | 2022-10-07 |  |
 | [Drifting Away](https://open.spotify.com/track/2pd9iAJGxExQnAWfWEl9fW) | [Makeout City](https://open.spotify.com/artist/5iWTuauN00s391MeG58Idu) | [Drifting Away](https://open.spotify.com/album/0mee2i5MP9DiaxUpDSLU6N) | 1:45 | 2022-09-16 |  |
 | [Euphoria \(where were you?\)](https://open.spotify.com/track/0ydapNPxo7yMHrM1AeRu4j) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria \(where were you?\)](https://open.spotify.com/album/3DOTGWg00u63y5nXz5TEaG) | 5:28 | 2022-10-07 |  |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2022-09-02 |  |

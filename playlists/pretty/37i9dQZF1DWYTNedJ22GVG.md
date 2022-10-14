@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,275 likes - 104 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,297 likes - 104 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 17 | [Happy Holidays / The Holiday Season \- Medley](https://open.spotify.com/track/5wRwAmOmWCFYByGwo2K9ig) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 3:36 |
 | 18 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 | 19 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
-| 20 | [Run Run Rudolph](https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:14 |
+| 20 | [Run Run Rudolph](https://open.spotify.com/track/3KJqPXNUgeCxaaLI2cSLRQ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/5OK4C8RKMEDrTKuN6YKrOC) | 2:14 |
 | 21 | [Christmas \(Baby Please Come Home\) \(feat\. Scarlett Johansson, Taron Egerton, Reese Witherspoon & Tori Kelly\)](https://open.spotify.com/track/6wUYUvIqn9swoQSaeW9ZVp) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD), [Reese Witherspoon](https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Christmas \(Baby Please Come Home\) \[From Sing 2\]](https://open.spotify.com/album/0gnVoCrQKFmqRY5DdqLRxL) | 2:36 |
 | 22 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 23 | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/track/1Ri9P0ZPrqr6h0REDRdJBd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/album/2g0Ha2fsHrVBueqWdBGUpB) | 3:20 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 103 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 104 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 
-Snapshot ID: `MTYzODg5NTg0MiwwMDAwMDAwMDhhNGQyNWExYWYzZjlkZDkxZDgzYjAxOWJmMWI1MDFh`
+Snapshot ID: `MTYzODg5NTg0MiwwMDAwMDAwMGZjNGMwMmI1NGNhZmE5MDNkYTlhMmQ5Y2VlMGU4ZDUz`

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 58858,
+  "num_followers": 58864,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDViMDBiMTNkMzcyNjc4NDVkNjM3MzU5OWQ5ZDFjMDU2",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDYzOWE1NjlmOGE5NGUxNGYxMTYxNjEyYmQ0YmNhMzQw",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Only Teardrops",
+        "url": "https://open.spotify.com/album/4VLQrWme6hWHy7Uf4f1NvE"
+      },
+      "artists": [
+        {
+          "name": "Emmelie de Forest",
+          "url": "https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Only Teardrops",
+      "url": "https://open.spotify.com/track/269y1Vw3O0C9uI3drXpfo9"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/49mZVsGNM1z8GZ5qGOev0r"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 167333,
       "name": "Beg, Steal Or Borrow",
       "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Only Teardrops",
-        "url": "https://open.spotify.com/album/4VLQrWme6hWHy7Uf4f1NvE"
-      },
-      "artists": [
-        {
-          "name": "Emmelie de Forest",
-          "url": "https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Only Teardrops",
-      "url": "https://open.spotify.com/track/269y1Vw3O0C9uI3drXpfo9"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Diva (English Radio Version)",
-        "url": "https://open.spotify.com/album/7sCC935syHEuEcN6nputPm"
-      },
-      "artists": [
-        {
-          "name": "Dana International",
-          "url": "https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr"
-        }
-      ],
-      "duration_ms": 181520,
-      "name": "Diva - Radio Edit",
-      "url": "https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Occidentali's Karma (Eurovision Version)",
         "url": "https://open.spotify.com/album/6427uJOkrOWP7pTF1PmkEr"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 183163,
       "name": "Occidentali's Karma - Eurovision Version",
       "url": "https://open.spotify.com/track/4dd6dCTW5epqioOWCAwd3W"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Diva (English Radio Version)",
+        "url": "https://open.spotify.com/album/7sCC935syHEuEcN6nputPm"
+      },
+      "artists": [
+        {
+          "name": "Dana International",
+          "url": "https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr"
+        }
+      ],
+      "duration_ms": 181520,
+      "name": "Diva - Radio Edit",
+      "url": "https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge"
     },
     {
       "added_at": "2022-05-16 13:21:08",

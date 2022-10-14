@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > Me and bae = love
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,511 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,521 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 7 | [Use Me](https://open.spotify.com/track/1lCuIWvYcXXxLheYI3wgyq) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF) | [Use Me](https://open.spotify.com/album/6JxNpOwdjprJWXSMJGJT5J) | 2:14 |
 | 8 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 |
 | 9 | [I Think I’ll Stay For The Summer](https://open.spotify.com/track/1npDK31ZsQyCEGIFyqKHbc) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [I Think I’ll Stay For The Summer](https://open.spotify.com/album/6LuiOp3PCyHtgmF9JHnfVh) | 3:12 |
-| 10 | [Vibe Doesn't Lie](https://open.spotify.com/track/5sQ8edicOdj8xHNP0bIfx2) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/0h5cShxWVXZL92q4IlDwP2) | 3:18 |
+| 10 | [Vibe Doesn't Lie](https://open.spotify.com/track/1k0y6lbJZ2YRIbDBECYTNF) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/2RVOqPHzhLkoVoBXX6J2mF) | 3:18 |
 | 11 | [Slow it Down \(Rose Version\)](https://open.spotify.com/track/6zraPgSDo99uPe7MeimWQN) | [shy ink](https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Slow it Down \(Rose Version\)](https://open.spotify.com/album/6PSruIYZmDSEWx0zWBYbLt) | 2:48 |
 | 12 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 13 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |
 | 100 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 |
 
-Snapshot ID: `MTY1ODUwMzYzMCwwMDAwMDAwMDE3OGM3MjM3ZWM4NWI4YjgxMzM3MmU3NDBkNDc0MmIz`
+Snapshot ID: `MTY1ODUwMzYzMCwwMDAwMDAwMDk0ZmFmOWNhZjZjMTdkOGQxNTkxMzg4ZTcxOGUwYTE5`

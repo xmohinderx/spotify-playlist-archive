@@ -4,14 +4,15 @@
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-67 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/4MpMAcJX9h7NwCwZfMDVty)
+68 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4MpMAcJX9h7NwCwZfMDVty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abide](https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG) | [Summer Luk](https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd) | [Abide](https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO) | 3:11 | 2021-06-04 |  |
 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 | 2022-05-02 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-05-02 |  |
-| [Boys Aside](https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq) | 3:50 | 2021-06-04 |  |
+| [Boys Aside](https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB) | 3:50 | 2022-08-25 |  |
+| [Boys Aside](https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq) | 3:50 | 2021-06-04 | 2022-10-14 |
 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 | 2021-06-04 |  |
 | [Comme Des Garçons \(Like The Boys\)](https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:01 | 2021-06-04 |  |
 | [Could I Break Your Heart](https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Cry, Baby](https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw) | 3:55 | 2022-05-02 |  |

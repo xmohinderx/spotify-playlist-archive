@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 113325,
+  "num_followers": 113381,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMGQ1NDQzYjViNThhM2JmMmI2Y2I3MmRlZDYwOWJhYzY3",
+  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMGQ5NDMwMTQwNTA4MmE1MWU1YzBjM2MyNjFlODQxZTQ5",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -259,26 +259,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat"
       },
       "artists": [
         {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        },
-        {
-          "name": "Luca Scarpa",
-          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
         }
       ],
-      "duration_ms": 272300,
-      "name": "The Sniper",
-      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
+      "duration_ms": 401320,
+      "name": "Elephants On Ice Skates",
+      "url": "https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -299,18 +291,26 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
       },
       "artists": [
         {
-          "name": "Brian Bromberg",
-          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        },
+        {
+          "name": "Luca Scarpa",
+          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
         }
       ],
-      "duration_ms": 401320,
-      "name": "Elephants On Ice Skates",
-      "url": "https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6"
+      "duration_ms": 272300,
+      "name": "The Sniper",
+      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -379,30 +379,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Ostinato Bass",
-        "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Inside My Memory",
-      "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "A Show of Hands 15",
         "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 240933,
       "name": "Soldier of the Groove",
       "url": "https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Ostinato Bass",
+        "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Inside My Memory",
+      "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -743,26 +743,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Cerulean Blue",
-        "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        },
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 246692,
-      "name": "Sun Chaser",
-      "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Notes With Attachments",
         "url": "https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 154361,
       "name": "Off The Cuff",
       "url": "https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Cerulean Blue",
+        "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        },
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 246692,
+      "name": "Sun Chaser",
+      "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -835,6 +835,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "That Was Then",
+        "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
+      },
+      "artists": [
+        {
+          "name": "Darryl Williams",
+          "url": "https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM"
+        }
+      ],
+      "duration_ms": 104626,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Trust and Faith",
         "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "That Was Then",
-        "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
-      },
-      "artists": [
-        {
-          "name": "Darryl Williams",
-          "url": "https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM"
-        }
-      ],
-      "duration_ms": 104626,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"
     }
   ],
   "unique_name": "Bottoms Up",

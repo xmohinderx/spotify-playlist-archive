@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 152250,
       "name": "Computers Take Over The World",
       "url": "https://open.spotify.com/track/2Fn66Mos1yElxdJBadXgpO"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 152250,
       "name": "Computers Take Over The World",
       "url": "https://open.spotify.com/track/6JuWIotnwCQm2V3LKlwPdV"
@@ -1189,6 +1189,28 @@
       "duration_ms": 150250,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/05Ke9LELmOiA5i3L0ybFUy"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/4ptKxEXvx0J7LEmA9i9YO1"
+      },
+      "artists": [
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/0I57hngBJs8ggIgEdZWSK3"
     },
     {
       "album": {
@@ -1953,7 +1975,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
@@ -1997,6 +2019,28 @@
       "duration_ms": 205934,
       "name": "HELLO 2K22",
       "url": "https://open.spotify.com/track/50iCAV06s0g1cPOoZSNR77"
+    },
+    {
+      "album": {
+        "name": "Hey (I Miss You)",
+        "url": "https://open.spotify.com/album/0YrZnNms5Psu0n3ttkkC3K"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199522,
+      "name": "Hey (I Miss You)",
+      "url": "https://open.spotify.com/track/5VIZnHRkpfZB9f4KoKomBx"
     },
     {
       "album": {
@@ -2281,6 +2325,24 @@
       "duration_ms": 145748,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
+    },
+    {
+      "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "album": {
@@ -2579,7 +2641,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 203482,
       "name": "Just Sayin' - Les Bisous Remix",
       "url": "https://open.spotify.com/track/6flZ5DFOWsnJmFILTcGHhg"
@@ -3346,6 +3408,32 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/0FvEOwGHVnlKb5iC1kbOuy"
+      },
+      "artists": [
+        {
+          "name": "Ekko City",
+          "url": "https://open.spotify.com/artist/6cD3vbTm2onrLyW0du4UQk"
+        },
+        {
+          "name": "Movada",
+          "url": "https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170443,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/6iwZqyJ1C47NLvufzGkTLM"
+    },
+    {
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },
@@ -3479,6 +3567,28 @@
       "duration_ms": 151865,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0zyp5pplCwRhWUxv686JIU"
+    },
+    {
+      "album": {
+        "name": "Nothing On Earth",
+        "url": "https://open.spotify.com/album/3cQoVOlWTBDstqDH4hCekX"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Allie Crystal",
+          "url": "https://open.spotify.com/artist/5cUCYy2DOOdTsCNI2GnLnz"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Nothing On Earth",
+      "url": "https://open.spotify.com/track/09k78uaXYQnotaFQMRA8Ee"
     },
     {
       "album": {
@@ -3679,7 +3789,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 162001,
       "name": "Outta Control Again",
       "url": "https://open.spotify.com/track/7qBrxl5C9G2z6L57tuaqHq"
@@ -3851,6 +3961,28 @@
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
+    },
+    {
+      "album": {
+        "name": "Pineapples",
+        "url": "https://open.spotify.com/album/0hPadBNpwIBFiwG362rGMu"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Tom Staar",
+          "url": "https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Pineapples",
+      "url": "https://open.spotify.com/track/0jCFFAUXxDEZKgCqkBZX4v"
     },
     {
       "album": {
@@ -4037,7 +4169,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 222757,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/7LTUI8G6BcvY8dHZTniYd5"
@@ -4099,6 +4231,28 @@
       "duration_ms": 219396,
       "name": "Revolves Around You",
       "url": "https://open.spotify.com/track/61ANVXKajwPzB2aKeKEWIP"
+    },
+    {
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "album": {
@@ -4925,7 +5079,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 157105,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/3yBZZbOkz7UYR450t3RGhR"
@@ -5465,7 +5619,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 175609,
       "name": "Typical Love",
       "url": "https://open.spotify.com/track/5aFCPiMAXl7htQm6Yv5l4I"
@@ -5681,7 +5835,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
@@ -5823,7 +5977,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 230945,
       "name": "Won't Forget You - Edit",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"

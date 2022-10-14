@@ -739,10 +739,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 237333,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/1QPWV0EWKa7GiKO7F7zcVs"
+    },
+    {
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
     },
     {
       "album": {

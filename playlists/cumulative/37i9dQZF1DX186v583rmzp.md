@@ -2,7 +2,7 @@
 
 ### [I Love My '90s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp)
 
-> Remembering Coolio.
+> Real rap music from the golden era.
 
 198 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/3nluuMc1ut66d8EDvyctJz)
 

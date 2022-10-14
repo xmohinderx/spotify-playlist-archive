@@ -1148,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "album": {
         "name": "The Music Of Labi Siffre",
         "url": "https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy"
       },
@@ -2651,7 +2669,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 253574,
       "name": "Take Yo' Praise",
       "url": "https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk"

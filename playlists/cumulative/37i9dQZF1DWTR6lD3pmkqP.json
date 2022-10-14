@@ -5785,6 +5785,32 @@
     {
       "album": {
         "name": "Welcome to the Hills",
+        "url": "https://open.spotify.com/album/5MBvie7lDjKKlKdnTaC5LF"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        },
+        {
+          "name": "Rocco Palladino",
+          "url": "https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/04w5a4UqbWgrIl5ySHEiF0"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Hills",
         "url": "https://open.spotify.com/album/2o2tNVIRBR0BH4RlLm4qLO"
       },
       "artists": [
@@ -5803,7 +5829,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 224426,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/7rzaogj4Be9bXCV7rGgRgT"

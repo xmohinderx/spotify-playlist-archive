@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Stephen Dawes
 
-1,087 songs - 2 day 9 hr 46 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,089 songs - 2 day 9 hr 52 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [barcelona](https://open.spotify.com/track/3Ye0p2mpBSyOW4ewtnvX3w) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [barcelona](https://open.spotify.com/album/7AoLXewzOtIfeusHdIKKMu) | 3:45 | 2021-05-15 | 2021-06-26 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2020-04-26\* | 2020-05-30 |
 | [Be There for You](https://open.spotify.com/track/5JdMXRdF7Ls0JYG2p2PKmo) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Be There for You](https://open.spotify.com/album/43QnzBUSXvUo1Rxnj0X4bx) | 2:09 | 2020-08-21 | 2020-10-09 |
-| [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-29 |  |
+| [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-29 | 2022-10-14 |
+| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-10-10 |  |
 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 | 2022-09-01 |
 | [Bedhead \(feat\. Anna Clendening\)](https://open.spotify.com/track/6HbXhn1ozap6E7PxtdzaZ0) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Flash](https://open.spotify.com/album/1zdQmQxGCIO3M3OJwejsvi) | 2:27 | 2020-05-01 | 2020-09-11 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-07-04 |
@@ -435,7 +436,8 @@
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2020-08-30 | 2020-12-04 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 |  |
 | [How It Goes](https://open.spotify.com/track/3QDQyIW4SgoGxDosNGLByc) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [How It Goes](https://open.spotify.com/album/7aCewuMYy1BnRvk4V2fhUf) | 2:19 | 2021-04-03 | 2021-06-26 |
-| [How Very Dare You](https://open.spotify.com/track/4q3FPRih12RUEOAuGRXJN1) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 2:45 | 2022-09-14 |  |
+| [How Very Dare You](https://open.spotify.com/track/4q3FPRih12RUEOAuGRXJN1) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 2:45 | 2022-09-14 | 2022-10-14 |
+| [How Very Dare You](https://open.spotify.com/track/67XbsaE4tuad5lyAJKpWmI) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 2:45 | 2022-10-10 |  |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2021-09-25 | 2021-10-09 |
 | [Human](https://open.spotify.com/track/1tq9Wy0o6ngXpB6ftGgMJr) | [Emmi Elliott](https://open.spotify.com/artist/62oCSE7lShkspceh6yof92) | [Human](https://open.spotify.com/album/2aXpdTtyySi8OLl4jvyxOw) | 3:28 | 2020-11-27 | 2021-02-19 |
 | [Hungry](https://open.spotify.com/track/4giv4l0m4zRzKzvdISpDzZ) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [Hungry](https://open.spotify.com/album/7wdUYAiR2Gr3aKSFCAwg7D) | 2:25 | 2021-05-22 | 2021-06-26 |

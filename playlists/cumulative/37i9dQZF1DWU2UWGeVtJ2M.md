@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-253 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+254 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Neptune's Tune](https://open.spotify.com/track/591gRuB2AE1D60uGKwnR7g) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Naoe](https://open.spotify.com/artist/6kTBUVd2O5KmwemgbOxiyc) | [Neptune's Tune](https://open.spotify.com/album/0x718KpPnXYjWVU0HWtw1r) | 3:41 | 2022-06-06 | 2022-07-29 |
 | [Never Gonna Let You Go](https://open.spotify.com/track/0Zvl8iBGLBuvGGcnGYQ8SU) | [Whoshafee](https://open.spotify.com/artist/6PMkmGQLEWSCCml7Z0KKkx) | [Never Gonna Let You Go](https://open.spotify.com/album/4RwhhbU55IBxPdjyt25Ypa) | 3:20 | 2022-06-06 | 2022-07-29 |
 | [Not Yet](https://open.spotify.com/track/2TGUncZhxM6rnndMwU6j52) | [Jason Reeves](https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS) | [Portals](https://open.spotify.com/album/5NvoRMuSGvnKBl8XnhreCZ) | 4:25 | 2022-06-06 | 2022-07-29 |
-| [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2022-07-25 |  |
+| [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-10 |  |
+| [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2022-07-25 | 2022-10-14 |
 | [Nothing](https://open.spotify.com/track/6AxRGtu8gdKPeynxdHsmzC) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Nothing](https://open.spotify.com/album/6vxh3eBU46aqiwersrZ090) | 2:42 | 2022-06-06 | 2022-07-29 |
 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 | 2022-06-13 | 2022-06-20 |
 | [Obsessive Pt\. 3](https://open.spotify.com/track/3RowpO7Hoy22HNyzgJ3EVX) | [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk), [B\-Heart](https://open.spotify.com/artist/3wkgUQe1MTMFJp6bv3YGcK), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hazel Leong](https://open.spotify.com/artist/5Rr6ASQlBlBEEkUAuycQlu) | [Obsessive Pt\. 3](https://open.spotify.com/album/4HG0F63JddKjPX2kFv8Cai) | 4:02 | 2022-06-06 | 2022-07-29 |

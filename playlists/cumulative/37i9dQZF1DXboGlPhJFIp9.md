@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-96 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+97 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2022-05-13 |  |
 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 | 2022-05-13 |  |
 | [Interweave](https://open.spotify.com/track/6LvmN1802Bk6Tcem36utnB) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Interweave](https://open.spotify.com/album/2HMXhnCNU1aDzIigeKLySH) | 2:20 | 2022-06-24 |  |
+| [Jalons](https://open.spotify.com/track/5ubuyElg33ARspfgM0z2yt) | [Rayonner](https://open.spotify.com/artist/4NbV8Mk4JMa3yT4jv4hMRU) | [Jalons](https://open.spotify.com/album/2TDbQKV43hTLTZKP9egS3u) | 2:31 | 2022-10-14 |  |
 | [Jules & Jen](https://open.spotify.com/track/5C0BlB1Tm53MOS3SOFUGnN) | [Kevin McCormick](https://open.spotify.com/artist/6qG8VCk5ZaX7jP37A6dUoe), [David Horridge](https://open.spotify.com/artist/184zVIpW2ua3bIEeF77LTV) | [Light Patterns](https://open.spotify.com/album/0PgtpfELQuN9Rt4Pu3ai3N) | 3:13 | 2022-05-13 |  |
 | [just jump](https://open.spotify.com/track/4M0sEJzmZoQy2hcvCbfEHp) | [Jens Wenig](https://open.spotify.com/artist/4U52OGCZcwbncL3VCuvk2r) | [into bloom](https://open.spotify.com/album/5ZRzmKDXIhbAfCCBo4Zfts) | 3:10 | 2022-05-13 |  |
 | [kind of wind](https://open.spotify.com/track/0DydsFKNIPPXn2wWmDGyR3) | [flower water](https://open.spotify.com/artist/2q0V4ngQ2LJ3gVS5lVW5Ww) | [kind of wind](https://open.spotify.com/album/47Pzq0DT4akwlF9DowYtc6) | 2:33 | 2022-05-13 |  |

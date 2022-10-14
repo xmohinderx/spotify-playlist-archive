@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-202 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
+204 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/5jfp1SOlHfDmkAhaclif6A) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [All I Want for Christmas Is You](https://open.spotify.com/album/3lk74ZQt2hNBpF90tAR9Ss) | 3:38 | 2021-12-24 |  |
 | [All I Want For Christmas Is You \(SuperFestive!\) Duet with Mariah Carey](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 4:00 | 2021-12-24 |  |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
-| [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-12-24 |  |
+| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2021-12-24 |  |
+| [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-12-24 | 2022-10-14 |
 | [Baby I'm Coming Home](https://open.spotify.com/track/2HxSczAUouo61zJJIq3Ypl) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Baby I'm Coming Home](https://open.spotify.com/album/6TTJxPose5KFhRgHYp1PBm) | 3:15 | 2021-12-24 |  |
 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-24 |  |
 | [Blackout Christmas](https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB) | 2:19 | 2021-12-24 |  |
@@ -204,7 +205,8 @@
 | [Why Couldn't It Be Christmas Every Day?](https://open.spotify.com/track/6xauj1HlVItuBYOOhQaoiY) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:19 | 2021-12-24 |  |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2021-12-24 |  |
 | [Winter Wonderland](https://open.spotify.com/track/0zXjeGMMe7esPTvqJCN5d8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 2:07 | 2021-12-24 |  |
-| [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2021-12-24 |  |
+| [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2021-12-24 | 2022-10-14 |
+| [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 | 2021-12-24 |  |
 | [With You This Christmas](https://open.spotify.com/track/7EGqwboQMKQhBw4z49rBLI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [With You This Christmas](https://open.spotify.com/album/4D01j7X8gG9sywRqytoHcn) | 2:26 | 2021-12-24 |  |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-24 |  |
 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 | 2021-12-24 | 2022-07-29 |

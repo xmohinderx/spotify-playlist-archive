@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 39264,
+  "num_followers": 39359,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMGJiMjE2YjViZjJmNmJkNzkwMDY2NTI0MzAzZmI3Zjc3",
+  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMDMyZTM2NTFmNjUzODZjZDI2ZDNiNWU5OTE5YTZhOGI0",
   "tracks": [
     {
       "added_at": "2022-01-12 17:58:24",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Young In All The Wrong Ways",
         "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 319213,
-      "name": "Rest (Acoustic)",
-      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 236813,
       "name": "Lose This Number",
       "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 319213,
+      "name": "Rest (Acoustic)",
+      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
-      },
-      "artists": [
-        {
-          "name": "Dawn Landes",
-          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
-        }
-      ],
-      "duration_ms": 182374,
-      "name": "Try to Make a Fire Burn Again",
-      "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
         }
       ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+      "duration_ms": 182374,
+      "name": "Try to Make a Fire Burn Again",
+      "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -883,6 +867,22 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Endless Chase: 2020 Singles",
-        "url": "https://open.spotify.com/album/3Bwkxb1PPKKBK9ZRpBhsZ9"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 202756,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/73sQ8REIBnQfqg6ZHAgfoz"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 200025,
       "name": "Montana",
       "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Endless Chase: 2020 Singles",
+        "url": "https://open.spotify.com/album/3Bwkxb1PPKKBK9ZRpBhsZ9"
+      },
+      "artists": [
+        {
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+        }
+      ],
+      "duration_ms": 202756,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/73sQ8REIBnQfqg6ZHAgfoz"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 189427,
-      "name": "Air Forces",
-      "url": "https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Make Peace with That",
         "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 234271,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 189427,
+      "name": "Air Forces",
+      "url": "https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "What It Means to Be Human",
-        "url": "https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q"
-      },
-      "artists": [
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 275144,
-      "name": "What It Means to Be Human",
-      "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 185533,
       "name": "Different Kinds of Light",
       "url": "https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "What It Means to Be Human",
+        "url": "https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 275144,
+      "name": "What It Means to Be Human",
+      "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1231,6 +1231,38 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Wild Youth",
+        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 258972,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -1243,22 +1275,6 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Count The Stairs",
-        "url": "https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hickey",
-          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
-        }
-      ],
-      "duration_ms": 214221,
-      "name": "Seeing Things",
-      "url": "https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1279,6 +1295,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Count The Stairs",
+        "url": "https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        }
+      ],
+      "duration_ms": 214221,
+      "name": "Seeing Things",
+      "url": "https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Love Is Overtaking Me",
         "url": "https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX"
       },
@@ -1291,46 +1323,6 @@
       "duration_ms": 153933,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/3bU8rIEuatTa7XjHl4Sw8f"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "If You Call",
-        "url": "https://open.spotify.com/album/0OY4ylUoapLz9T0UAy2t8K"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        },
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 347054,
-      "name": "If You Call",
-      "url": "https://open.spotify.com/track/7pzTko8DSWv5UfoxXQ7p93"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Neil Young on High",
-        "url": "https://open.spotify.com/album/1S0sGRopjEF7cQ7HfTJF7P"
-      },
-      "artists": [
-        {
-          "name": "The Ophelias",
-          "url": "https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Neil Young on High",
-      "url": "https://open.spotify.com/track/58q9HQ973MIbexDlnIsWQT"
     }
   ],
   "unique_name": "night light ",

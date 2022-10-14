@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-111 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+113 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Ma](https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:47 | 2021-11-08 |  |
 | [Med ögon känsliga för grönt](https://open.spotify.com/track/3CBzqx1pnfeI2L7GlIOny0) | [Nannie Porres](https://open.spotify.com/artist/6IboNBnbFipQmDMFJ30tEk) | [Nära](https://open.spotify.com/album/6HjPtJzVZVuRuXLPHqPOQx) | 4:59 | 2021-11-08 |  |
 | [Min bild](https://open.spotify.com/track/0Mj8pe6EAvO6tm73gLfcCI) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [I det lilla händer det mesta](https://open.spotify.com/album/6vWDQSUaFJg9T3LDoE1YMd) | 4:54 | 2021-11-08 |  |
+| [Mjuk grupp](https://open.spotify.com/track/1tDApryJcHjivjt5oLQgKm) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Mjuk grupp](https://open.spotify.com/album/0v5eDxQGFJ9qRFRmyQxYnB) | 6:56 | 2022-10-13 |  |
 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 | 2021-11-08 |  |
 | [New Beginning](https://open.spotify.com/track/3P0ndzQkcubRQr1u2uv7PQ) | [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [New Beginning](https://open.spotify.com/album/51YHotVNniiWWCdlHZyCKR) | 5:53 | 2022-02-03 |  |
 | [Nu har jag fått den jag vill ha](https://open.spotify.com/track/5j3AIwVPkGjpmIeQRw6nJL) | [Iris Bergcrantz](https://open.spotify.com/artist/56Kqv5LknYc2xYYOdaAblg) | [Nu har jag fått den jag vill ha](https://open.spotify.com/album/2SS01HTXsMDhwZBNecbxQf) | 5:26 | 2021-11-08 |  |
@@ -87,6 +88,7 @@
 | [Sakta vi gå genom stan](https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ahh! Monica!](https://open.spotify.com/album/2iflMrGtjzufU2Jw7JhoLE) | 3:22 | 2022-06-22 |  |
 | [Sandino](https://open.spotify.com/track/4VAHl7q9VbjGEGRCUOi90I) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Jane Austen Texas](https://open.spotify.com/album/16rdQQ6LjYb7s3qkYALEBC) | 5:30 | 2021-11-08 |  |
 | [Send In the Clowns](https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Send In the Clowns](https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0) | 5:21 | 2021-11-08 |  |
+| [Sense and Sensibility](https://open.spotify.com/track/3fgjg9ouOVvTnwQG7y9JDs) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Sense and Sensibility](https://open.spotify.com/album/0y24BgxYjAJkKAsFnGYMDL) | 6:43 | 2022-10-13 |  |
 | [Singel](https://open.spotify.com/track/0z6ZJJu9yDl0sfPcTUWDvy) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Gammal Kärlek](https://open.spotify.com/album/6X8vM6cdvDAKDyRemTllQW) | 3:27 | 2022-06-22 |  |
 | [Singel](https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Singel](https://open.spotify.com/album/61Gmop5nZOlXu37SlKixHw) | 3:27 | 2021-11-08 | 2022-07-29 |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |

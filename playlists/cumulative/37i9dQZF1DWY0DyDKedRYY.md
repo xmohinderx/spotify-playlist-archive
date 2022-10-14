@@ -2,9 +2,9 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> Ice Spice is our new RADAR Artist to Watch.
+> Doechii is our newest RADAR artist.
 
-343 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+344 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bellakeame](https://open.spotify.com/track/2ay6hILOrRtXpi7Wpsmasr) | [Roa](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Bellakeame](https://open.spotify.com/album/4HEW97ER8ogI1KdHns3WH5) | 2:03 | 2022-04-08 | 2022-05-18 |
 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 | 2022-06-14 | 2022-07-27 |
 | [BILLIE EILISH.](https://open.spotify.com/track/5xSBtosiVoy96vv4rcngLX) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/33ISZtPbyr5sga8Ua1ri7M) | 1:39 | 2022-05-20 | 2022-06-15 |
-| [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 | 2022-07-26 | 2022-09-07 |
+| [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 | 2022-07-26 |  |
 | [Black Creek Drive](https://open.spotify.com/track/7IULkVSVV4e8kfL4JZWhx8) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [3511](https://open.spotify.com/album/0oMyGTRdTb2gdyUD19SYYE) | 3:29 | 2021-12-01 | 2022-04-09 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-01 | 2022-04-09 |
 | [bodies](https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [bodies](https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh) | 3:02 | 2022-09-06 |  |
@@ -236,6 +236,7 @@
 | [Perfect Blue](https://open.spotify.com/track/26I0qPVgn8afCccReUkSi4) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Perfect Blue](https://open.spotify.com/album/5460Bl2lDmmkDvVS8YitfQ) | 3:25 | 2021-12-01 | 2022-04-09 |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2021-12-01 | 2022-04-09 |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-06-14 | 2022-07-27 |
+| [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-10-13 |  |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-12-01 | 2022-04-09 |
 | [PHASES](https://open.spotify.com/track/1pbPndrjrHw113nlkuKVdp) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [PHASES](https://open.spotify.com/album/1FnUpzg5NHXldkenmBZIv7) | 2:24 | 2022-07-26 | 2022-09-07 |
 | [pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2021-12-01 | 2022-04-09 |

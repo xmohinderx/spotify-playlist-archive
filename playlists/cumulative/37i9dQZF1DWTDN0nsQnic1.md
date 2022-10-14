@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-69 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+70 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [i miss you](https://open.spotify.com/track/37Unx14mB8QnCx0bDjtCM8) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [i miss you](https://open.spotify.com/album/4iAAZgLQNfLmyJxjNR3P2u) | 1:56 | 2021-09-08 |  |
 | [I Wish](https://open.spotify.com/track/5EUPK2x1wJ5bERxjQ47lKv) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [I Wish](https://open.spotify.com/album/5WeI0airp8xZmmalIwKtNP) | 3:48 | 2021-09-08 | 2022-10-13 |
 | [I Wish](https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [I Wish](https://open.spotify.com/album/3LaOgyaShyrdyet6ftXxDy) | 3:48 | 2021-09-08 |  |
-| [It's a Moot Point](https://open.spotify.com/track/5OP4i76ZTqEAk85tTAoYZO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 4:02 | 2021-09-08 |  |
+| [It's a Moot Point](https://open.spotify.com/track/0MsP3Z4x4VCmveUxidTch1) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7mjQUO0wc40aBdyx7ZOtJW) | 4:02 | 2021-09-08 |  |
+| [It's a Moot Point](https://open.spotify.com/track/5OP4i76ZTqEAk85tTAoYZO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 4:02 | 2021-09-08 | 2022-10-14 |
 | [Jump](https://open.spotify.com/track/6C80rHHynL0EvgTHzzCZUq) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 2:26 | 2021-09-08 | 2022-10-13 |
 | [Jump](https://open.spotify.com/track/6bENTPZbrycDApVVQAkzEO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/3kehonQztenD0u318m715k) | 2:26 | 2021-09-08 |  |
 | [Kazuki\_2](https://open.spotify.com/track/4Q9XEpUEHOmhP0ThwFhgSo) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:27 | 2021-09-08 |  |

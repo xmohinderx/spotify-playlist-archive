@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Guyon Waton
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-113 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+114 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Teko Lungo \- From "Cidro Asmoro"](https://open.spotify.com/track/1LJZ90voZTcuNzVbe0qRh5) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Teko Lungo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3wxVo3tsPVoDz7ju9TWEd7) | 5:09 | 2022-06-16 |  |
 | [Temanten](https://open.spotify.com/track/35ozv2GM8b55XTHGzvvaAx) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Temanten](https://open.spotify.com/album/26JAA7Ya33pam0GQJepOFv) | 5:09 | 2022-05-26 | 2022-06-10 |
 | [Terlantar](https://open.spotify.com/track/3zUiF9CWEBhGpfw7wePlEU) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Terlantar](https://open.spotify.com/album/0WZJL3kRGZ4jJkx8jeZ42i) | 5:02 | 2022-07-14 | 2022-09-16 |
+| [Teteg Ati](https://open.spotify.com/track/6Lbnz01qeIkQbteAHemwmQ) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Teteg Ati](https://open.spotify.com/album/6YvFUGHjVHd3U8Ik1GU3Jt) | 5:20 | 2022-10-13 |  |
 | [Tewas Tertimbun Masa Lalu \(TTM\)](https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:04 | 2022-05-26 |  |
 | [Tiket Suargo](https://open.spotify.com/track/0PaHX60BjbIycemtQkGWfm) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tiket Suargo](https://open.spotify.com/album/2hW8Yxj5WRc8QU95RQC7sq) | 5:14 | 2022-05-26 |  |
 | [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 5:02 | 2022-05-26 | 2022-09-02 |

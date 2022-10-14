@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/5rPfC5CqDzXlAgFaSQs6O5)
+148 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5rPfC5CqDzXlAgFaSQs6O5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [85](https://open.spotify.com/track/1mRiY74pNcCrKkWz6NjdYV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb) | 3:21 | 2021-12-27 |  |
 | [All My Issues](https://open.spotify.com/track/0QEQmLonfSYWYmU6w2l8TD) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:16 | 2021-12-27 |  |
 | [All The Money](https://open.spotify.com/track/4In7ngnXHyZieF5HCmoGqi) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:26 | 2021-12-27 |  |
-| [All the Rage](https://open.spotify.com/track/3YluA8dmCEws59Nm2JHnss) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/58ppn50PYPsFVVkC2L7eFs) | 3:06 | 2021-12-27 |  |
+| [All the Rage](https://open.spotify.com/track/3YluA8dmCEws59Nm2JHnss) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/58ppn50PYPsFVVkC2L7eFs) | 3:06 | 2021-12-27 | 2022-10-14 |
+| [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 | 2022-10-13 |  |
 | [Animal](https://open.spotify.com/track/6iBPeFlk4DLJ4HfRfZ2J7H) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:25 | 2021-12-27 |  |
 | [Another Lover](https://open.spotify.com/track/60MsF9GzQ3imaYkwPwOafo) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Another Lover](https://open.spotify.com/album/7IO1EU1mGahgDTiU9qeTDS) | 3:09 | 2021-12-27 |  |
 | [Athlete](https://open.spotify.com/track/2Jl2zvsB4WsDddcHnEVtmc) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:12 | 2021-12-27 |  |
@@ -67,7 +68,8 @@
 | [I'm a Rapper](https://open.spotify.com/track/39arWo9zxXCiby4Pa8z24G) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Make It Pop, Vol\. 1](https://open.spotify.com/album/2FPfVPuZix126DmJ8OdZXA) | 2:55 | 2021-12-27 | 2022-02-07 |
 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 | 2022-02-06 |  |
 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2021-12-27 |  |
-| [Ignore Me](https://open.spotify.com/track/5NF51JbWVYHI83FdkqoEcC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/78LBmUOdg2KeGk0mSQ1lTs) | 3:15 | 2021-12-27 |  |
+| [Ignore Me](https://open.spotify.com/track/5GQZR3YTEXT98ZaVxXPWVN) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:13 | 2022-10-13 |  |
+| [Ignore Me](https://open.spotify.com/track/5NF51JbWVYHI83FdkqoEcC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/78LBmUOdg2KeGk0mSQ1lTs) | 3:15 | 2021-12-27 | 2022-10-14 |
 | [IN A DREAM](https://open.spotify.com/track/2Cxz0VrxP96Oo9pWZxxNsd) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:49 | 2021-12-27 |  |
 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 | 2021-12-27 |  |
 | [Jesus Fucking Slays](https://open.spotify.com/track/23BWnKflS7OIhUV4TJNwRQ) | [Breland](https://open.spotify.com/artist/2dCmeVluj7wt6kLjV0ApeF) | [Jesus Fucking Slays](https://open.spotify.com/album/0WKiLaO2inOaA5CrdieKuw) | 2:37 | 2021-12-27 |  |
@@ -80,7 +82,8 @@
 | [Lights](https://open.spotify.com/track/3DEM3WifNrig0sVrFb22ac) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:02 | 2021-12-27 |  |
 | [LOST BOY](https://open.spotify.com/track/3KV9J5y3HDHKTOtjJtHwqi) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:43 | 2021-12-27 |  |
 | [Louder than bombs](https://open.spotify.com/track/4Aw8n6r2vuU0KUo1a2nftp) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:37 | 2021-12-27 |  |
-| [Love Me Wrong](https://open.spotify.com/track/6XmLlAoo6JgsIP7xhMoGTz) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:12 | 2021-12-27 |  |
+| [Love Me Wrong](https://open.spotify.com/track/6OIpGjctdltVSI6ERlirIq) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 3:12 | 2022-10-13 |  |
+| [Love Me Wrong](https://open.spotify.com/track/6XmLlAoo6JgsIP7xhMoGTz) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:12 | 2021-12-27 | 2022-10-14 |
 | [Love of My Life](https://open.spotify.com/track/6yIystz2XZqZKW4fLowPHO) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:11 | 2021-12-27 |  |
 | [love, or the lack thereof](https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:07 | 2021-12-27 |  |
 | [Man Up](https://open.spotify.com/track/1YKOm06nQc83UXXG4ubrjo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 2:48 | 2021-12-27 |  |

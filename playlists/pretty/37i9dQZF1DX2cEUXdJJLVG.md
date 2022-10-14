@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,727 likes - 161 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,735 likes - 161 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 131 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 |
 | 132 | [Matter To Me](https://open.spotify.com/track/4ad9LSanGwLjdKDJ3bBwqH) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Matter To Me](https://open.spotify.com/album/6Ee6WpW9cFZ18QtKpBQvdN) | 4:02 |
 | 133 | [Signs](https://open.spotify.com/track/1PMn4TOF2HBDFi5dhZL9iT) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [Andreas](https://open.spotify.com/album/3iziTSI728p59ZmH5pfIT5) | 3:22 |
-| 134 | [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 |
+| 134 | [Baby Who](https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp) | 3:07 |
 | 135 | [Curious](https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Curious](https://open.spotify.com/album/5hOKdnm5Aba2WQI7k64Pom) | 3:42 |
 | 136 | [Counterfeit](https://open.spotify.com/track/5qIRiXFqGI65EZuYtfyY53) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09), [Eliza Roe](https://open.spotify.com/artist/1Y0jbCdHXiQlyV2fhxroqW) | [Counterfeit](https://open.spotify.com/album/24dCga7ILfqzQWDmAppQiy) | 2:49 |
 | 137 | [Satellite](https://open.spotify.com/track/4oHghaXlFoXhq8SZHjvIYr) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Satellite](https://open.spotify.com/album/0Zca5zGoxzM1HjLw9gMBgV) | 4:02 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 160 | [Easy Like Before](https://open.spotify.com/track/4l7TlDRTwRRGdQ5tlQcf4b) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [I Was Wrong](https://open.spotify.com/album/6h0r7WdrJT3h7uiZ0rCHIT) | 2:58 |
 | 161 | [No Soul Fo Sale](https://open.spotify.com/track/0k0FKfVLDEdQKfyfgxbpWa) | [John Parm](https://open.spotify.com/artist/6sH4U1jng4pnJLkWPHsIY4), [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [No Soul Fo Sale](https://open.spotify.com/album/6FcJUwmI5QlRlppe9UA95K) | 3:39 |
 
-Snapshot ID: `MTY2NTU2NjkxMSwwMDAwMDAwMDMzMGUyOGEzMzkwOWIzNDA5NmNmMWUxZDBiMTRkNWEw`
+Snapshot ID: `MTY2NTU2NjkxMSwwMDAwMDAwMDE4NWUwY2ViMWQ0YzQwY2VhNmIyMzUwNWUxZTM5ZGEz`

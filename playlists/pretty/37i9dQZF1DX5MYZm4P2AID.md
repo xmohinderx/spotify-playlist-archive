@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,342 likes - 81 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,309 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 54 | [Sabina](https://open.spotify.com/track/1dp5tXL7hVHsvXtzZcHFvi) | [Sugar Fed Leopards](https://open.spotify.com/artist/6HLiQWOzcEJnXU221EPLSD) | [Sweet Spots](https://open.spotify.com/album/2SKnD5LUr5wOf3xVRItGY6) | 2:39 |
 | 55 | [Pub Feed](https://open.spotify.com/track/6Rz6yXr3RWpYdGst26tSYF) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:25 |
 | 56 | [I'm the One](https://open.spotify.com/track/2yV2uQ6uxbdF9JbbKhfuTY) | [Sister John](https://open.spotify.com/artist/7zzr8XDzaXjmHUcwwNgEt5) | [Sister John](https://open.spotify.com/album/6eZ2LX4Aqyu6cOPN4VaXa0) | 3:42 |
-| 57 | [Something That You're Missing](https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/24tZ8bH69NK3fmxSuQ10UO) | 2:50 |
+| 57 | [Something That You're Missing](https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn) | 2:50 |
 | 58 | [I Have Got No Money](https://open.spotify.com/track/7pcNgV4TOctgEErMh0ozNq) | [Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 4:05 |
 | 59 | [Boys in the Better Land](https://open.spotify.com/track/0iJX82OGewFWpyRtB8zzo4) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 5:00 |
 | 60 | [Lake Song](https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 3:25 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 80 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
 | 81 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMGM3NjJiOTI3Y2Q3Zjk1YzBhNWNjZmYyZjdiM2I2Nzcx`
+Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDllYzBlMGFiMzY3NTA0MDZiZDExNWQzMmU1NTljYWU1`

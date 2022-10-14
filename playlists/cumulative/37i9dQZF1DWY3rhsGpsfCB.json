@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 197498,
       "name": "Angel",
       "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
@@ -290,6 +290,36 @@
     },
     {
       "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u"
+      },
+      "artists": [
+        {
+          "name": "Black Girls Glow",
+          "url": "https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK"
+        },
+        {
+          "name": "Lindsey Abudei",
+          "url": "https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK"
+        },
+        {
+          "name": "Lily Asia",
+          "url": "https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j"
+    },
+    {
+      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -352,6 +382,24 @@
     },
     {
       "album": {
+        "name": "CHAMPAGNE GIRL",
+        "url": "https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140833,
+      "name": "CHAMPAGNE GIRL",
+      "url": "https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd"
+    },
+    {
+      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -381,7 +429,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 143527,
       "name": "Crayons",
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
@@ -998,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Iyawo",
+        "url": "https://open.spotify.com/album/4WDJcN86No1uvndKdAAEaa"
+      },
+      "artists": [
+        {
+          "name": "Dolapo Martins",
+          "url": "https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Iyawo",
+      "url": "https://open.spotify.com/track/3NWezymOetNeOSvNbseYP5"
+    },
+    {
+      "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
       },
@@ -1111,7 +1177,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 121544,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
@@ -1257,6 +1323,28 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
+    },
+    {
+      "album": {
+        "name": "Lucid Cruise 2.0",
+        "url": "https://open.spotify.com/album/0XouERt5OLjWYljfLNhg0K"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197074,
+      "name": "Lucid Cruise 2.0",
+      "url": "https://open.spotify.com/track/2vw9YvN1l0plaFQUW2zTdi"
     },
     {
       "album": {
@@ -1505,6 +1593,32 @@
       "duration_ms": 164210,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg"
+      },
+      "artists": [
+        {
+          "name": "STANY",
+          "url": "https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
     },
     {
       "album": {
@@ -1873,7 +1987,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 200869,
       "name": "Shakara",
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
@@ -1991,7 +2105,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
@@ -2126,6 +2240,28 @@
     },
     {
       "album": {
+        "name": "Unpopular Opinion",
+        "url": "https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK"
+      },
+      "artists": [
+        {
+          "name": "Bayku",
+          "url": "https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK"
+        },
+        {
+          "name": "Adina Thembi",
+          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191778,
+      "name": "Unpopular Opinion",
+      "url": "https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY"
+    },
+    {
+      "album": {
         "name": "Wait On Me",
         "url": "https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE"
       },
@@ -2207,7 +2343,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 195976,
       "name": "Wickedest (feat. Haile)",
       "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"

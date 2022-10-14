@@ -4,7 +4,7 @@
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-84 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
+85 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Ekhenana](https://open.spotify.com/track/6erj1DoMqR59vfuG06z1gF) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl) | [Umaqondana](https://open.spotify.com/album/0vUQN638CtvfoPIopVIY8o) | 4:49 | 2018-09-25 | 2022-09-26 |
 | [Emkhathini](https://open.spotify.com/track/0VaIf3loFYGRl9pVlnsYRL) | [Shwi noMtekhala](https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6), [Maphungula](https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8) | [Emkhathini](https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd) | 5:34 | 2019-09-24 |  |
 | [Endumisweni](https://open.spotify.com/track/0FVJjE94m2bq1IUIF5NdZ3) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Igazi Lami](https://open.spotify.com/album/46cbUWGAf5JyhnxL31znQQ) | 4:25 | 2018-09-25 | 2022-07-29 |
-| [Endumisweni](https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936) | 4:25 | 2018-09-25 |  |
+| [Endumisweni](https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936) | 4:25 | 2018-09-25 | 2022-10-14 |
+| [Endumisweni](https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614) | 4:25 | 2018-09-25 |  |
 | [Eshu Wesokalami](https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 3:51 | 2022-09-01 |  |
 | [Eyokuza](https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [EYOKUZA](https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS) | 4:31 | 2020-10-20 |  |
 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 | 2021-01-14 |  |

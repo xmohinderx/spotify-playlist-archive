@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Bush
 
-493 songs - 1 day 5 hr 45 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+495 songs - 1 day 5 hr 51 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Come Alive](https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Come Alive](https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ) | 3:53 | 2021-04-16 | 2022-01-08 |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-06-03 | 2022-07-02 |
 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 | 2022-06-24 | 2022-08-06 |
-| [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 | 2022-07-22 |  |
+| [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 | 2022-10-07 |  |
+| [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 | 2022-07-22 | 2022-10-14 |
 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 | 2022-06-24 |  |
 | [Crows](https://open.spotify.com/track/3LUuYmLk8kDRjN6CmCKFME) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Crows](https://open.spotify.com/album/3znRrQWLKE2aMx73TERj8M) | 3:06 | 2022-06-03 |  |
 | [Cut The Line](https://open.spotify.com/track/72I7aRnGk6ItRIRHdNZD6r) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:29 | 2022-04-08 | 2022-05-07 |
@@ -466,7 +467,8 @@
 | [Waiting On You](https://open.spotify.com/track/71f22NnyQgS5r0Ekyfrxrm) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Waiting On You](https://open.spotify.com/album/6I10Qzb2BTNRs6pftG2q54) | 3:16 | 2022-05-13 | 2022-07-29 |
 | [Waiting on You](https://open.spotify.com/track/7kAH59f7kgFaRScFnPI8BL) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Rain City Drive](https://open.spotify.com/album/5sgQU7Ac1EtuuYTBcVOCUm) | 3:16 | 2022-07-22 |  |
 | [Wake Up Dead](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 | 2022-04-01 | 2022-04-29 |
-| [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/track/4Yg3nF8svtZsmNw9iUOtBM) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/album/3vE2gbz9yzHbWESicfDrFZ) | 2:53 | 2022-07-29 |  |
+| [War Inside of Me](https://open.spotify.com/track/5Ikzq8g78raDl7brDayxCk) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me](https://open.spotify.com/album/0c2tRUa9zzsyRp0tFbGdPG) | 2:53 | 2022-10-07 |  |
+| [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/track/4Yg3nF8svtZsmNw9iUOtBM) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/album/3vE2gbz9yzHbWESicfDrFZ) | 2:53 | 2022-07-29 | 2022-10-14 |
 | [Warrior](https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior](https://open.spotify.com/album/3nxyPoazh75KnTzqSXfRDY) | 2:47 | 2021-08-30 | 2022-01-15 |
 | [Wasteland](https://open.spotify.com/track/2SD2zj8W5zKMdjCCJFF0vQ) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:59 | 2021-10-01 | 2022-06-18 |
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-11-12 | 2022-01-15 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-91 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+93 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 | 2022-05-29 |  |
 | [Autopilot](https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ) | 3:15 | 2022-08-28 |  |
 | [Autopilot](https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Autopilot](https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E) | 3:15 | 2022-05-29 | 2022-08-29 |
-| [Bipolar](https://open.spotify.com/track/1stlDAnoUlxaMaR1CIPn5f) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL) | 2:36 | 2022-05-29 |  |
+| [Bipolar](https://open.spotify.com/track/1stlDAnoUlxaMaR1CIPn5f) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL) | 2:36 | 2022-05-29 | 2022-10-14 |
+| [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 | 2022-10-13 |  |
 | [Bitter](https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ) | 3:17 | 2022-05-29 |  |
 | [Blue](https://open.spotify.com/track/4FSVM0jbDn8cspWfuJ3srv) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Blue](https://open.spotify.com/album/1yATfEBCy2ZuTSDpixl6VM) | 2:10 | 2022-05-29 |  |
 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 | 2022-05-29 |  |
@@ -98,6 +99,7 @@
 | [Welcome To The Dark Side](https://open.spotify.com/track/6lCWOGO78tWFPiEgzFB2j6) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [Welcome To The Dark Side](https://open.spotify.com/album/09e9JBmn3fH1rXHp9GmGOf) | 2:23 | 2022-05-29 |  |
 | [What I Said](https://open.spotify.com/track/0EJtMx3EsBvwjRIADEQybR) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [What I Said](https://open.spotify.com/album/2fow3g80xPNbqTUs6QZhSM) | 2:42 | 2022-05-29 |  |
 | [Work](https://open.spotify.com/track/7LHf7zXbYdBOcTN7ZrEPUs) | [Crush Effect](https://open.spotify.com/artist/5zH3mqX70eMohRdwUWY2XJ) | [Work](https://open.spotify.com/album/5spSfPDkIm0WdVfqieJi3s) | 2:38 | 2022-05-29 |  |
-| [Yours for the Night](https://open.spotify.com/track/3veOoTKXPdnXe5OyDyi8lS) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6zbmQwwE1ootZFV4iAU2aD) | 3:13 | 2022-05-29 |  |
+| [Yours for the Night](https://open.spotify.com/track/3P3FB3ssbwmEh1byLcXa0E) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9) | 3:13 | 2022-10-13 |  |
+| [Yours for the Night](https://open.spotify.com/track/3veOoTKXPdnXe5OyDyi8lS) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6zbmQwwE1ootZFV4iAU2aD) | 3:13 | 2022-05-29 | 2022-10-14 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

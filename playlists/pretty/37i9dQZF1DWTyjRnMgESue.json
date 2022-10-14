@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 34919,
+  "num_followers": 35003,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDVjNzEyN2FmYmIyYTM5ZDNlNjM2Zjc2ZmE5YTZiZjE1",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGZkYjc5MDk5NzdlODFjOWNkY2Y2YzRmMmQyZDhjODhi",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Forget I Exist",
-        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Forget I Exist",
-      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Forget I Exist",
+        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Forget I Exist",
+      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "The Hardest Part",
@@ -787,6 +771,22 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "How Do You Dress for the Rain?",
+        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "How Do You Dress for the Rain?",
+      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "All Is Well Feat. Joy Williams",
         "url": "https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 194000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "How Do You Dress for the Rain?",
-        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "How Do You Dress for the Rain?",
-      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1107,22 +1107,6 @@
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Don't Grow Up Too Fast",
-        "url": "https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 242931,
-      "name": "Don't Grow Up Too Fast",
-      "url": "https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1459,34 +1443,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Texas Girl",
-        "url": "https://open.spotify.com/album/1CCH7mhb1jy84jMV6Y4xMp"
+        "name": "Dark River",
+        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
       },
       "artists": [
         {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
         }
       ],
-      "duration_ms": 172808,
-      "name": "Texas Girl",
-      "url": "https://open.spotify.com/track/33ADzejAdZCu13hAcnzkIC"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "All in My Head",
-        "url": "https://open.spotify.com/album/5Q7YRZ6YKXgoli9IlOfLjy"
-      },
-      "artists": [
-        {
-          "name": "Erika Sirola",
-          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
-        }
-      ],
-      "duration_ms": 150054,
-      "name": "All in My Head",
-      "url": "https://open.spotify.com/track/042VxsK2Y8MMxoWBQ5SLxn"
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1507,18 +1475,34 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Dark River",
-        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
+        "name": "All in My Head",
+        "url": "https://open.spotify.com/album/5Q7YRZ6YKXgoli9IlOfLjy"
       },
       "artists": [
         {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
+      "duration_ms": 150054,
+      "name": "All in My Head",
+      "url": "https://open.spotify.com/track/042VxsK2Y8MMxoWBQ5SLxn"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Texas Girl",
+        "url": "https://open.spotify.com/album/1CCH7mhb1jy84jMV6Y4xMp"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 172808,
+      "name": "Texas Girl",
+      "url": "https://open.spotify.com/track/33ADzejAdZCu13hAcnzkIC"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 154491,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Everything's Waiting for You",
         "url": "https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+        "name": "counting houses",
+        "url": "https://open.spotify.com/album/1BuceFtRvKhtzYfteVYEV5"
       },
       "artists": [
         {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
         }
       ],
-      "duration_ms": 154491,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+      "duration_ms": 200853,
+      "name": "counting houses",
+      "url": "https://open.spotify.com/track/6MFZUAPmeiF9cm8tSspED7"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

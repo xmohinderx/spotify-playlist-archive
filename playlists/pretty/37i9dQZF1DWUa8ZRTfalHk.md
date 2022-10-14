@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,691,767 likes - 87 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,693,239 likes - 87 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

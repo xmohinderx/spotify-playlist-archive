@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 
 > Sit back and relax to the smooth sound of blues piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,367 likes - 54 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,394 likes - 54 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 11 | [Piano Blues: 100% Blues](https://open.spotify.com/track/1xJo9dOq8D3EguvNEjQAvQ) | [Background Instrumental Music Collective](https://open.spotify.com/artist/3DA9ZQAHHWQ2xFawOLaMPj), [Marcus Frye](https://open.spotify.com/artist/74YUYrxRyPvgtyMIWNOSH1) | [Memories of Piano Blues: Quiet Piano Blues, Greatest Dinner Jazz Piano Blues](https://open.spotify.com/album/3T86jLfPsO9z0yWY975jQc) | 4:25 |
 | 12 | [The Homeless Wanderer](https://open.spotify.com/track/1NUdV2Lc7e2sbC14T7kG4q) | [Tsegue\-Maryam Guebrou](https://open.spotify.com/artist/1wJQvcfqhxMm2X6ErAZNrq) | [Ethiopiques, vol\. 21: Emahoy \(Piano Solo\)](https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk) | 7:07 |
 | 13 | [Blues for Anna](https://open.spotify.com/track/54uy5cIM0AGD2C5icmZtII) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 2:55 |
-| 14 | [Instrumental Relaxing Blues](https://open.spotify.com/track/4SAU8yF37ELPRR698YhF6x) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Relaxing Blues Piano](https://open.spotify.com/album/300k7CJq6XEXTMs9MGkVfc) | 4:29 |
+| 14 | [Boogies](https://open.spotify.com/track/26DY6PwAh2BHagNyEzcldn) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Blues Piano](https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1) | 4:30 |
 | 15 | [In Effigy](https://open.spotify.com/track/53aweR2cvoXfE4zwffiDnt) | [Kevin G\. Pace](https://open.spotify.com/artist/2xiNCnt5ncRZ90Gmvluky7) | [Piano Major Blues \(Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists\)](https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh) | 1:46 |
 | 16 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 |
 | 17 | [Piano Blues: Not Now](https://open.spotify.com/track/3eBc7S3spGJUaYB5x2kot1) | [Instrumental Jazz Music Ambient](https://open.spotify.com/artist/1EJY1WcqU1y3P5GKl1VqzE) | [Memories of Piano Blues: Quiet Piano Blues, Greatest Dinner Jazz Piano Blues](https://open.spotify.com/album/3T86jLfPsO9z0yWY975jQc) | 4:12 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 21 | [Solo Piano Blues Improv](https://open.spotify.com/track/1UDsIm2Zv4seGt2Iz96zjb) | [Michael Silverman Jazz Piano Trio](https://open.spotify.com/artist/0higANuaOqI1ye1LxB46Aj) | [Relaxing Jazz For Quiet Moments: Relaxing Jazz Piano Music](https://open.spotify.com/album/4bHSQNDqSd5TFjHBDPsUhl) | 1:55 |
 | 22 | [Blue for You](https://open.spotify.com/track/1NcDxgxy6022JjFH6g0QuV) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Piano Blues](https://open.spotify.com/album/5PEUpIzxhMR4G7mTD0z62H) | 3:56 |
 | 23 | [Blues Blooded](https://open.spotify.com/track/0AZaGA8cjTHvF3UYvYi2RK) | [Teres](https://open.spotify.com/artist/1h9MPFKFUMiWJewgZEeScp) | [Blues Piano & Chill](https://open.spotify.com/album/6t5oDLfuvPGNSiHsFNJifI) | 2:14 |
-| 24 | [Relaxing and Calm Blues](https://open.spotify.com/track/1ptfhDtqGF7FMVKtha6lNI) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Relaxing Blues Piano](https://open.spotify.com/album/300k7CJq6XEXTMs9MGkVfc) | 4:10 |
+| 24 | [Calm Blue](https://open.spotify.com/track/7fwJy2821G1RkhPGIKmBrg) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Blues Piano](https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1) | 4:11 |
 | 25 | [Blues Please](https://open.spotify.com/track/2jUJ9QJHAIPmttR92dB0K8) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2) | [Tea Time Jazz \- Afternoon Delight BGM](https://open.spotify.com/album/70sWWQ9WY232KHurqoRwMl) | 2:15 |
 | 26 | [Easy Does It](https://open.spotify.com/track/70z4kWjDKAvQ6s4OYT0Bgv) | [Joe Krown](https://open.spotify.com/artist/6u0LV9Hm6zvvflRqUqav6Q) | [Just the Piano...Just the Blues](https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N) | 4:08 |
 | 27 | [Central Park East Blues Song](https://open.spotify.com/track/2E8qQTaAUbHp2a50wqM1FE) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 3:05 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 53 | [Blues Cafe Farewell](https://open.spotify.com/track/6VYyVwNHlnb15nXL1UPmPF) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 4:32 |
 | 54 | [Un piccolo vecchio swing](https://open.spotify.com/track/60DRLblaDS96A0c2Bqwp4I) | [Gian Marco La Serra](https://open.spotify.com/artist/2UqzItH7bRUBh8hfjSkKMq), [Andrea Moro](https://open.spotify.com/artist/15hCfSudwmzOQbx2xavIG4) | [Un piccolo vecchio swing](https://open.spotify.com/album/1dhJbEok8jzxoyVH7tYTMv) | 2:29 |
 
-Snapshot ID: `MTY2NDg5MzI4MSwwMDAwMDAwMGI2NmY1ODkyMGMzYWQ3ZjAxMGRlYTI1ODJiZWRmY2Yy`
+Snapshot ID: `MTY2NDg5MzI4MSwwMDAwMDAwMDk1YTA2MDlhMzkyZDMyYzNkYjFjYjFhMmFlZjg0N2Uy`

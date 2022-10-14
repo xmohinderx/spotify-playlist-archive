@@ -4,7 +4,7 @@
 
 > Everyone's welcome\. Cover: Zolita
 
-72 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/2yx49MiwxFvtLINia2IeXm)
+73 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/2yx49MiwxFvtLINia2IeXm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 | 2022-05-06 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2022-05-06 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-05-06 |  |
-| [Somebody I F\*cked Once](https://open.spotify.com/track/4CkDow0SS3hQvsuvfLESlo) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe\)](https://open.spotify.com/album/33UjKdTaaYpPsLVefDRgnb) | 3:04 | 2022-05-23 |  |
+| [Somebody I F\*cked Once](https://open.spotify.com/track/4CkDow0SS3hQvsuvfLESlo) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe\)](https://open.spotify.com/album/33UjKdTaaYpPsLVefDRgnb) | 3:04 | 2022-05-23 | 2022-10-14 |
+| [Somebody I F\*cked Once](https://open.spotify.com/track/73uoSkdELRTmovsYkbmHlB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:04 | 2022-05-23 |  |
 | [Somebody I Fucked Once](https://open.spotify.com/track/6bk6CvEqTqXAnbRlSJtJqi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Somebody I Fucked Once](https://open.spotify.com/album/2KtMH0vhN4mShuMxSf86wD) | 3:04 | 2022-05-06 | 2022-07-29 |
 | [Somebody Loves You](https://open.spotify.com/track/3a9dxgyM2rbFUvmN35qTTj) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Take Me When You Go](https://open.spotify.com/album/3c2TzUftOakyVsesUMgAOB) | 3:30 | 2022-05-06 |  |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 | 2022-05-06 |  |

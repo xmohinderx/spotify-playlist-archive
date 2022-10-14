@@ -4,12 +4,13 @@
 
 > Great chilled house.
 
-241 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+245 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 | 2022-05-20 | 2022-07-01 |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2022-05-20 |  |
+| [absence of something](https://open.spotify.com/track/0WnBHKyt7k2fEsnkalnjMG) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [absence of something](https://open.spotify.com/album/1moLe0zYJ2wSk1veX2EVWr) | 2:56 | 2022-10-14 |  |
 | [Afterwave](https://open.spotify.com/track/4PlyNPjqjniNO5WLvuOfeJ) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Afterwave](https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK) | 2:56 | 2022-06-10 |  |
 | [Agwé](https://open.spotify.com/track/3P1ZUO9ammzR0p0t0Ez67Q) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Lhotse](https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx) | 5:35 | 2022-07-01 |  |
 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 | 2022-05-20 |  |
@@ -60,6 +61,7 @@
 | [Des Moments](https://open.spotify.com/track/6u7aoEs8qCeiQh80c94d73) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Des Moments](https://open.spotify.com/album/0yCHMROpPtyxWYBgXF7rln) | 2:58 | 2022-05-27 | 2022-06-03 |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2022-05-20 | 2022-09-09 |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2022-05-20 |  |
+| [Dress Code](https://open.spotify.com/track/4FAplJVLA4DZ021mNlQooP) | [Gridlocks](https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO) | [Dress Code](https://open.spotify.com/album/7tIzQ9i65nq4YsQCZznkHg) | 2:18 | 2022-10-14 |  |
 | [Driving at Night](https://open.spotify.com/track/4yahCXe4VtfBj7vVrWdMmT) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Driving at Night](https://open.spotify.com/album/6xY0fpbRimEKGssb4Js6dc) | 3:45 | 2022-08-05 |  |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2022-05-20 |  |
 | [Elusive Language](https://open.spotify.com/track/5LZGCkGCiZJfiNO7PWdFZ1) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Comfortable Right Here](https://open.spotify.com/album/1zncEXQRslpxk9ZffXsx1c) | 4:12 | 2022-05-20 | 2022-05-28 |
@@ -86,6 +88,7 @@
 | [Frizzante](https://open.spotify.com/track/4Z3LHseTfnS6ruxRdaamd4) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Frizzante](https://open.spotify.com/album/46dTeuPN4j59oS7Of3Pw0q) | 2:46 | 2022-05-20 | 2022-09-09 |
 | [Frozen Melon](https://open.spotify.com/track/4aDawTeN0gQDjEfnjOypys) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Frozen Melon](https://open.spotify.com/album/1rKg16pg1RinubPEpLoYzy) | 2:52 | 2022-08-12 |  |
 | [Gambia](https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gambia](https://open.spotify.com/album/6MBaL1snqhQFgwVM5SwaFT) | 3:57 | 2022-05-20 | 2022-09-09 |
+| [gazebo](https://open.spotify.com/track/3Qgy3QzMADRo7qaoxwat6t) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [gazebo](https://open.spotify.com/album/7lyb7WQmt4h3wr8rXm6nME) | 2:51 | 2022-10-14 |  |
 | [Gemini 4](https://open.spotify.com/track/37KOVFK6gSmgBTcDysJdSa) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gemini 4](https://open.spotify.com/album/7sSJF6N7CktJMLjBn8FWGo) | 2:57 | 2022-05-20 | 2022-09-09 |
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-05-20 |  |
 | [Glossy](https://open.spotify.com/track/2OgaU9No7zapiI2AbUbPej) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Glossy](https://open.spotify.com/album/2EMOjkmqb8WcLWn39fkCd5) | 2:48 | 2022-05-20 | 2022-09-09 |
@@ -167,6 +170,7 @@
 | [Piece Of Me](https://open.spotify.com/track/5AacqlxHPjBA5amhrkkdRR) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Piece Of Me](https://open.spotify.com/album/5egWJ1LnfvrNX3zBwyz28a) | 2:16 | 2022-05-20 | 2022-07-01 |
 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 | 2022-05-20 |  |
 | [Play It Deep](https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j) | [BLK BX](https://open.spotify.com/artist/1y1qkzZPEQRXs5lHzqQP41) | [Play it Deep](https://open.spotify.com/album/3r6lYpUQHUjQEpXI7mlRzh) | 2:55 | 2022-05-20 |  |
+| [playful mornings](https://open.spotify.com/track/3uv361D1ptOIZT0YfKvePd) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [playful mornings](https://open.spotify.com/album/2ZCYylSfAL4Dpu57cA5Y6Z) | 2:14 | 2022-10-14 |  |
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
 | [potential fling](https://open.spotify.com/track/613VgUV9kx60TBjNtgPZVk) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [potential fling](https://open.spotify.com/album/2sJdHvv1rGveQLSeYYLNpx) | 3:31 | 2022-06-24 | 2022-09-23 |
 | [Prends Une Gorgée](https://open.spotify.com/track/3GnWF937SVEkmDWCiZW2wR) | [De Mayu](https://open.spotify.com/artist/7bUlyOlDHrlNWjVUTiamjJ) | [Prends Une Gorgée](https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG) | 3:13 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-527 songs - 1 day 3 hr 37 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+529 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [DANCING ELEPHANTS](https://open.spotify.com/track/7iMvfX5hAfh2ZeYshXyzaJ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 5:18 | 2022-02-02 | 2022-07-07 |
 | [Dans la foule](https://open.spotify.com/track/1lxW5i6WdLJpUJYqOyMpNS) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Dans la foule](https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC) | 2:34 | 2022-03-08 | 2022-04-07 |
 | [Date a Friend](https://open.spotify.com/track/4E5SAE7v1HwDFUVC9Jf5Ly) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Date a Friend](https://open.spotify.com/album/53xmPUICYWyBcNibRkqZ7c) | 2:58 | 2022-01-05 | 2022-10-06 |
-| [daydream](https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI) | 1:09 | 2022-10-12 |  |
+| [daydream](https://open.spotify.com/track/1t0faf8iw1XbaJ0yznpPcB) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6uyX7aeHjV89017CRZ2CuU) | 1:09 | 2022-10-12 |  |
+| [daydream](https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI) | 1:09 | 2022-10-12 | 2022-10-14 |
 | [Dead to You](https://open.spotify.com/track/4W1W0DzHwGbmepJ0BvAT8F) | [Vi](https://open.spotify.com/artist/0XPSOhKsMhkMtCJN2zdLJb) | [Dead to You](https://open.spotify.com/album/3e1zOzZmghrlUxi9LNiBky) | 2:42 | 2022-03-08 | 2022-04-07 |
 | [debbie downer](https://open.spotify.com/track/738ea6GnnVj6w8RiiX3B47) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/6incXes5C4tio1Y08EhFJW) | 2:39 | 2022-03-08 | 2022-04-07 |
 | [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-10-05 |  |
@@ -158,7 +159,8 @@
 | [Femme de caractère](https://open.spotify.com/track/3sFoiLKhFMaQiNaee7jAgB) | [Noushka](https://open.spotify.com/artist/6gedm4MWkvdB1ffEcdrllK) | [Femme de caractère](https://open.spotify.com/album/4VpWbNBd6lkwVrUkBffuNc) | 3:12 | 2022-03-08 | 2022-04-07 |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-04-06 | 2022-05-04 |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-03-08 | 2022-04-07 |
-| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-10-05 |  |
+| [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-10-05 | 2022-10-14 |
+| [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 | 2022-10-12 |  |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 | 2022-05-04 |
 | [FOR ME](https://open.spotify.com/track/6SCpR5CoMdbPJnwPHDErQ6) | [Broco](https://open.spotify.com/artist/1vcvlxsVaMndbUyyXnUS9L) | [FOR ME](https://open.spotify.com/album/5wyI5Q6tud3rmrra1QvYPL) | 2:59 | 2021-12-08 | 2022-01-06 |
 | [Forever](https://open.spotify.com/track/7b7NdGG8LFS10xru0ijGYR) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Forever](https://open.spotify.com/album/4bKQuWQPFWzgwex0sK1OhF) | 2:34 | 2022-03-08 | 2022-04-07 |

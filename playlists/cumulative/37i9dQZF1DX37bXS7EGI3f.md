@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-494 songs - 1 day 14 hr 7 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+495 songs - 1 day 14 hr 11 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,8 @@
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-02-25 | 2022-05-21 |
 | [Sea of Suns](https://open.spotify.com/track/6jpq049BDvR4hUYmyNJeIo) | [The Helix Nebula](https://open.spotify.com/artist/5tjE7fMmvRra46r6Hz3aOA) | [Meridian](https://open.spotify.com/album/2NoWiPawAdUpzs8hyA4fAc) | 5:45 | 2022-07-13 | 2022-07-30 |
 | [Second Nature](https://open.spotify.com/track/3rVrbisqmkrfOVpfl9Plgj) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature](https://open.spotify.com/album/5rCIMFTGTvS0jLdOAc1Ljx) | 4:36 | 2022-01-21 | 2022-07-28 |
-| [Second Nature](https://open.spotify.com/track/6aowG3sH4hV3KmX0InI4PR) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/0gWm0MZIxCIjOtY2Gk1xyI) | 4:36 | 2022-07-29 |  |
+| [Second Nature](https://open.spotify.com/track/4xMGEdt0h9iONzUsyHrbwI) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/6XcfrSUhi6QPivcula5bpO) | 4:36 | 2022-10-07 |  |
+| [Second Nature](https://open.spotify.com/track/6aowG3sH4hV3KmX0InI4PR) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/0gWm0MZIxCIjOtY2Gk1xyI) | 4:36 | 2022-07-29 | 2022-10-14 |
 | [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 | 2022-03-18 |  |
 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 | 2020-11-29\* | 2021-05-28 |
 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 | 2021-04-10 | 2021-09-04 |

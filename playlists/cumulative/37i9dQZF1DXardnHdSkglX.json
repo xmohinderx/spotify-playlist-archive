@@ -1036,6 +1036,28 @@
     },
     {
       "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/3oXDBWtwUbumiEvre3Oq2O"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/4lGneSloc1ac2MjEx7nBgt"
+    },
+    {
+      "album": {
         "name": "Bossa n' Essentials",
         "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
       },

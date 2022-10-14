@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,570 likes - 112 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,324 likes - 112 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 63 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
 | 64 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 65 | [Taste](https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste](https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A) | 3:06 |
-| 66 | [Boys Who Kiss You In Their Car](https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn) | 2:44 |
+| 66 | [Boys Who Kiss You In Their Car](https://open.spotify.com/track/0mFM1XxrkVkKTmuzwwa2IO) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/3gqu6hSCAet5nUZWhkwAi1) | 2:44 |
 | 67 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 |
 | 68 | [X&Y](https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [X&Y](https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM) | 2:17 |
 | 69 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 111 | [Mr\. Percocet](https://open.spotify.com/track/0kZfIS6tmcL7lSvUaa1D1D) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:13 |
 | 112 | [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 |
 
-Snapshot ID: `MTY2NTQyNjk0NCwwMDAwMDAwMGQzMWE5MDE5MTA1ZTBjZTY2MDJjNDMyM2UyMzQ4ZDJj`
+Snapshot ID: `MTY2NTQyNjk0NCwwMDAwMDAwMGI3MmNmMTFjNjUzZTAzMjRhOTU0NmQzMGE4NGJhNzRm`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-539 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+540 songs - 1 day 4 hr 34 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Pillanatkép](https://open.spotify.com/track/7B2TXcHTTUZSVMIfig5xWB) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [Pillanatkép](https://open.spotify.com/album/5cLvJseQTTP97IMewSRLKG) | 2:54 | 2021-11-16 | 2021-12-04 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-08-26 |
 | [PLAYBÁNIA](https://open.spotify.com/track/7A9EcBrwTG6bwswUy7beWW) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 3:04 | 2022-09-03 |  |
+| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-13 |  |
 | [Polaroid](https://open.spotify.com/track/6lIaDWcrD4HkkmGvNYlT8M) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:54 | 2022-03-12 | 2022-03-25 |
 | [poligamy](https://open.spotify.com/track/6QIOhjNAlYIHPNrfpJcY43) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [poligamy](https://open.spotify.com/album/0OrlCbXlA8fw2bP9zF0CVj) | 2:23 | 2022-09-10 | 2022-09-16 |
 | [Polizei](https://open.spotify.com/track/2WDRZdUzRYiv3JkdaMXU9p) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [Polizei](https://open.spotify.com/album/4e5GU7Yf7cAuaQpthdqPwe) | 2:34 | 2021-04-17 | 2022-05-07 |
@@ -440,7 +441,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-30 | 2021-12-31 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-17 | 2022-04-10 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-14 |
-| [Spanom](https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Fotofóbia](https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i) | 3:31 | 2022-04-21 |  |
+| [Spanom](https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Fotofóbia](https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i) | 3:31 | 2022-04-21 | 2022-10-14 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2022-10-09 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-08-16 |

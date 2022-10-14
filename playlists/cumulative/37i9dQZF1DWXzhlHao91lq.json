@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
@@ -1438,6 +1438,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9lancolie",
+        "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162286,
+      "name": "M\u00e9lancolie",
+      "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
+    },
+    {
+      "album": {
         "name": "Never Knew feat. lewloh & Joie Tan",
         "url": "https://open.spotify.com/album/6gnsa07ZlU8pscDpf8jJ0Y"
       },
@@ -1627,7 +1649,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v"
@@ -2655,7 +2677,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"

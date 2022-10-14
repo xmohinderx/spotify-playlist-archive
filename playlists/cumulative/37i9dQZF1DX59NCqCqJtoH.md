@@ -4,7 +4,7 @@
 
 > We hear you.
 
-486 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+487 songs - 1 day 0 hr 6 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-05-25 |  |
 | [Care \(with Omar Apollo\)](https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 4:50 | 2021-04-02 | 2022-07-29 |
 | [castle with the cobwebs](https://open.spotify.com/track/3cvFdYVef5nm0BFn1nqek3) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [castle with the cobwebs](https://open.spotify.com/album/1R6XgSsb1wlhwimb3yClxS) | 2:27 | 2022-05-25 | 2022-07-05 |
-| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-18 |  |
+| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-18 | 2022-10-14 |
 | [Chandelier](https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe) | 2:07 | 2021-04-02 | 2022-05-15 |
 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 | 2021-04-02 |  |
 | [City](https://open.spotify.com/track/5TK9UrM3qEiBQ3il3SJNVq) | [DBMK](https://open.spotify.com/artist/6EByikTHjqFtWxos3Iaqik) | [Jump in The Dark](https://open.spotify.com/album/68HQv5uWkIq2NCyBPz5BvR) | 2:46 | 2021-04-02 | 2022-07-29 |
@@ -396,6 +396,7 @@
 | [southview](https://open.spotify.com/track/7AChzOkdQHkekPXQaKdrAP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [southview](https://open.spotify.com/album/6FIkvrW09KvGQ3A9vcEqki) | 2:50 | 2021-04-23 | 2022-07-24 |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-21 | 2022-07-29 |
 | [Star Shopping](https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/1dEpGPZONvmwYlE2jDOWOM) | 2:22 | 2021-04-02 | 2022-10-13 |
+| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2022-10-07 |  |
 | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/track/2KX7ZC9JL8BAeFnCrcVRHE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/album/0I62XvuIfBKTRWRNrlbSxJ) | 2:20 | 2021-04-02 | 2022-07-23 |
 | [step into my life](https://open.spotify.com/track/1I2FEhKThjn3j9ymy4wJXY) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [some boring love stories, pt\. 4](https://open.spotify.com/album/2QoKWEXovTtjD5i0fCTvEd) | 3:22 | 2021-04-02 | 2022-04-17 |
 | [Stoner](https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Stoner](https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc) | 2:40 | 2021-11-19 | 2022-04-19 |

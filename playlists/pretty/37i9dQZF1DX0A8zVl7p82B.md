@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,762 likes - 166 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,757 likes - 166 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 85 | [Merry Christmas Darling \- Single Version](https://open.spotify.com/track/6W65jVdn0JtttcvFN1KppC) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Essential Collection \(1965\-1997\)](https://open.spotify.com/album/4neiBTHUC0mgKE3Soz0QqK) | 3:05 |
 | 86 | [With You This Christmas](https://open.spotify.com/track/7EGqwboQMKQhBw4z49rBLI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [With You This Christmas](https://open.spotify.com/album/4D01j7X8gG9sywRqytoHcn) | 2:26 |
 | 87 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 |
-| 88 | [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 |
+| 88 | [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 |
 | 89 | [I Saw Mommy Kissing Santa Claus \- Spotify Holiday Single](https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0DmXAI8kiQMatXpxapDiLH) | 2:02 |
 | 90 | [Cozy With Me](https://open.spotify.com/track/3KsK0HW4Ps1fvrxOSttTKU) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Cozy With Me](https://open.spotify.com/album/0pH1CdTROeGz01ZcOKhBnn) | 2:36 |
 | 91 | [Drunk On Christmas](https://open.spotify.com/track/5dvSKxpjDxRNy4Wyuz5g1j) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 3:23 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 96 | [Marry Christmas](https://open.spotify.com/track/2U6awlumXAgKea9EcFrEgR) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Marry Christmas](https://open.spotify.com/album/2iP8ZwIpclV0UGEiYE6dVD) | 2:42 |
 | 97 | [Holidays](https://open.spotify.com/track/4WsvWaANExEQ5qx2m4TEmr) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Holidays](https://open.spotify.com/album/2Ko5PYRQhXcrfRqFcX8RaY) | 3:05 |
 | 98 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
-| 99 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 |
+| 99 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
 | 100 | [Christmas Time](https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jeremy Oceans](https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf) | [Christmas Time](https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z) | 3:27 |
 | 101 | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C) | 3:23 |
 | 102 | [Feliz Navidad \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles \- Christmas](https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE) | 2:28 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 165 | [Dear Santa](https://open.spotify.com/track/1HJ4AItKggXkCoi28YuaQt) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Dear Santa](https://open.spotify.com/album/2102M7KbKg8Qtjoub3teBw) | 3:48 |
 | 166 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW) | 3:28 |
 
-Snapshot ID: `MTY2NDg5NTc4MiwwMDAwMDAwMDEwYTFjZWRlZmI4MzRlNzNlZTI5MTdkYTkzZDIzY2Rm`
+Snapshot ID: `MTY2NDg5NTc4MiwwMDAwMDAwMDk4MTUyNzJiOTdjYjZhMTA3MzhhYTFlOTQ3Y2U5NzYx`

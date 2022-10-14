@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-379 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/1vwsHOAHQQxvAh97Q9OOyt)
+380 songs - 20 hr 48 min - [published](https://open.spotify.com/playlist/1vwsHOAHQQxvAh97Q9OOyt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Love Again \(feat\. Alida\)](https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Love Again \(feat\. Alida\)](https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq) | 2:27 | 2022-01-10 |  |
 | [Love Generation \- Radio Edit](https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Radio Edit\)](https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt) | 3:24 | 2021-04-09 |  |
 | [Love Myself \- KREAM Remix](https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Ian Spurrier](https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM) | [Love Myself \(Remixes\)](https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x) | 3:41 | 2021-04-09 |  |
-| [Lullaby](https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Lullaby](https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm) | 2:40 | 2022-03-29 |  |
+| [Lullaby](https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Lullaby](https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm) | 2:40 | 2022-03-29 | 2022-10-14 |
+| [Lullaby](https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5) | 2:40 | 2022-03-29 |  |
 | [Mad Love](https://open.spotify.com/track/3soOPBuMK8YMdWnV7xpEyf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mad Love](https://open.spotify.com/album/5pFVq0CSfbMMk6s4Kv256T) | 3:19 | 2021-04-09 | 2022-07-29 |
 | [Mad Love](https://open.spotify.com/track/4dSoDnmR9opAQ8KxUc9SbC) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:19 | 2022-03-29 |  |
 | [Mad World](https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv) | 2:33 | 2021-04-09 |  |

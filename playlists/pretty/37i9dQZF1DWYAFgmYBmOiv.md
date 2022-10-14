@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,127 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,126 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 7 | [Gold](https://open.spotify.com/track/5EUlMkyX5kwBp2SFU6PqVi) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [Gold](https://open.spotify.com/album/6lShEmilgF8MaZG0Hjh3du) | 3:57 |
 | 8 | [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet](https://open.spotify.com/artist/0LwySibLlyu9JUdUFN1ZoS) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 |
 | 9 | [2am](https://open.spotify.com/track/4cs6ORX8aKd6rtVdwAnnel) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/2lKYJFAYLywsVOxLMRoAOe) | 4:59 |
-| 10 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 10 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 11 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
 | 12 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
 | 13 | [Spinning](https://open.spotify.com/track/4tS4iYnPEfV6z1EWcvxLcn) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [The Glass Passenger](https://open.spotify.com/album/4tD242Idl50T7UUn5iz6Hu) | 2:52 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDE4NmZjZjU1YTNlZGYxZGNmNTE2Y2JkZjljMjliZWVl`
+Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDczZmZkNjk4ZWUzZTBhN2VlNmI3YjU5NmY5NWRjMjEz`

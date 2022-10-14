@@ -4,7 +4,7 @@
 
 > ¡Canciones para sonreír durante el día!
 
-113 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/5pAUo2hk22N0FPa4hd7kD7)
+114 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/5pAUo2hk22N0FPa4hd7kD7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2021-11-26 |  |
 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 | 2021-11-26 | 2022-08-03 |
 | [Mexico](https://open.spotify.com/track/3IMMZRr4Vvk3j9lJK5lH2J) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [A Boy from Colorado](https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK) | 2:08 | 2021-11-26 |  |
-| [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2021-11-26 |  |
+| [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 | 2022-08-26 |  |
+| [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2021-11-26 | 2022-10-14 |
 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-08-02 |  |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-08-02 |  |
 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2021-11-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=a96SvZ2zRaOYehcx75YnXg"> Bien</a>
 
-50 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
+52 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,15 +28,16 @@
 | [Milele](https://open.spotify.com/track/0ThlnzzzbQjw3WpbuPoafr) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Milele](https://open.spotify.com/album/3Zt55olh4hstOLmrFRNp2G) | 3:29 | 2021-09-30 |  |
 | [Mimi na wewe](https://open.spotify.com/track/4Os4kaUmrqDpLP0iefW2m3) | [Swahili Ally](https://open.spotify.com/artist/505upYNGyPZJdVAC95Iacr) | [NADUNDA](https://open.spotify.com/album/6jIbGRwcdfU18mvKB7r4aU) | 4:01 | 2020-05-26 |  |
 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 | 2022-09-09 |  |
-| [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 |  |
+| [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 | 2022-10-14 |
 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 | 2021-06-21 |  |
 | [No More Wars](https://open.spotify.com/track/2jTkWgm19fYZgfxxt9eTY3) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [No More Wars](https://open.spotify.com/album/36CHxQaUH868DavFDk71QV) | 3:40 | 2022-08-05 |  |
-| [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-28 |  |
+| [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-28 | 2022-10-14 |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 |  |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-23 |  |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 |  |
 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 | 2022-05-19 |  |
 | [Rum & Butter](https://open.spotify.com/track/1UVy3p0uQqnWi9kndjhNCC) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 4:25 | 2021-09-09 |  |
+| [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 | 2022-10-13 |  |
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 |  |
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-08-05 |  |
 | [Shidaa](https://open.spotify.com/track/2hLPTyeShZCBFAKI25umC1) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Shidaa](https://open.spotify.com/album/2iTU7qZLX7KyxL0rnM5Mx6) | 3:59 | 2021-12-09 |  |
@@ -54,6 +55,7 @@
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-03 |  |
 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 | 2020-12-17 |  |
 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 |  |
+| [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 |  |
 | [What You Want](https://open.spotify.com/track/1faFaJQTmGg6CV39W2RvSB) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [What You Want](https://open.spotify.com/album/6LNHDMFwWvS9LKJ0ArIVki) | 2:56 | 2020-09-10 |  |
 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 | 2020-12-10 |  |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 |  |

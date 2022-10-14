@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-133 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+134 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 | 2022-05-03 |  |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-08 |  |
 | [Tiana](https://open.spotify.com/track/03Nxx5LH8lYPDaWeroYPZi) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 2:55 | 2022-05-03 | 2022-07-09 |
-| [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-05-03 |  |
+| [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-05-03 | 2022-10-14 |
 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 | 2022-06-09 |  |
 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 | 2022-05-03 | 2022-07-25 |
 | [Transcendence](https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [My Home](https://open.spotify.com/album/4Q7GAqOIHSNtkJtD2uYntT) | 3:13 | 2022-05-03 | 2022-07-27 |
@@ -133,6 +133,7 @@
 | [Yeondong](https://open.spotify.com/track/62HHQruDsLOXiaOJI4Pnqa) | [Park Jong Beom](https://open.spotify.com/artist/11q9GPRmZjEusLy5MnvgCR) | [Jejusi](https://open.spotify.com/album/5AYLY8oxG3Z0dA67YqaIS8) | 3:56 | 2022-06-09 | 2022-07-14 |
 | [you](https://open.spotify.com/track/3g6lml297b6ai3Azf6Ytw5) | [Park Ji Yoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [you](https://open.spotify.com/album/72rz8JJb4Wt9p3o2oWALkV) | 3:46 | 2022-06-09 | 2022-08-26 |
 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 | 2022-07-08 |  |
+| [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 | 2022-10-13 |  |
 | [가을과 겨울 사이 \- New Version](https://open.spotify.com/track/55TblT0IIaJYUenOCqOzRM) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [겨울밤](https://open.spotify.com/album/5QOgLJm5qWxhjBlywukFg4) | 3:34 | 2022-05-03 | 2022-07-28 |
 | [경의선 숲길](https://open.spotify.com/track/0AfxZaAXwUaacv8QaWqHKf) | [Evenight](https://open.spotify.com/artist/1iiDSmH3N5VBxqn36Ppia1) | [경의선 숲길](https://open.spotify.com/album/2lb0AxSa5SjEvJ85YJSXCh) | 3:21 | 2022-05-03 | 2022-07-26 |
 | [낮잠](https://open.spotify.com/track/68yhHnSR9kCqRdJImjeHxj) | [Misty Blue](https://open.spotify.com/artist/7LyaQJxH634U3S8Xu6DDrK) | [4/4 Sentimental Painkiller \- 겨울은 봄의 심장](https://open.spotify.com/album/1dtfsrO1AAHYHZmbzIbmLu) | 3:32 | 2022-05-03 | 2022-06-15 |

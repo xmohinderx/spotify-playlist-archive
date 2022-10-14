@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 178548,
+  "num_followers": 179030,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU3ODk0NCwwMDAwMDAwMDIzMjZlMzNiM2ZlMzBlNmNkYzM4NWQzMDM0MTQ2NWRh",
+  "snapshot_id": "MTY2NTU3ODk0NCwwMDAwMDAwMDgzMzQyM2FhOWE0MzM4ZDRhMGE4OTkxYWEzMmY3NGUy",
   "tracks": [
     {
       "added_at": "2022-10-12 12:49:04",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -715,24 +731,8 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
-        "name": "Le Paris De ... Montand",
-        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+        "name": "Chante Prevert",
+        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
+      "duration_ms": 201066,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
-        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
-      },
-      "artists": [
-        {
-          "name": "Pierre Barouh",
-          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -791,6 +775,38 @@
       "duration_ms": 156466,
       "name": "Black Trombone",
       "url": "https://open.spotify.com/track/5D3Lo6FozaIKCmdO4JwUIU"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 167199,
+      "name": "Je cherche un homme",
+      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
+        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
+      },
+      "artists": [
+        {
+          "name": "Pierre Barouh",
+          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -811,6 +827,22 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
+        "name": "Le Paris De ... Montand",
+        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 186253,
       "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
       "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
-        "name": "Chante Prevert",
-        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 167199,
-      "name": "Je cherche un homme",
-      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 128093,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
         "name": "Les ronds de carotte",
         "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 245226,
       "name": "Au caf\u00e9 de la paix",
       "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
-        "name": "Paris Combo",
-        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "On N'a Pas Besoin",
-      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -955,18 +923,34 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
       "artists": [
         {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 170186,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
+      "duration_ms": 128093,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
+        "name": "Paris Combo",
+        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "On N'a Pas Besoin",
+      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -983,6 +967,22 @@
       "duration_ms": 169143,
       "name": "Quand on s'balade",
       "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
-        "name": "Miss Kitt To You",
-        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Je Cherche Un Homme",
-      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
+        "name": "Miss Kitt To You",
+        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Je Cherche Un Homme",
+      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 146253,
-      "name": "La fille d'Ipanema",
-      "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
         "name": "chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 162733,
       "name": "Chambre avec vue",
       "url": "https://open.spotify.com/track/0x4apd0yJVkvU7h4JB7a2i"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 146253,
+      "name": "La fille d'Ipanema",
+      "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
     },
     {
       "added_at": "2022-10-12 12:49:04",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-10-12 12:49:04",
       "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Chez Moi",
+      "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
+    },
+    {
+      "added_at": "2022-10-12 12:49:04",
+      "album": {
         "name": "Chante Vian et Higelin",
         "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 141306,
       "name": "La Grippe",
       "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
-    },
-    {
-      "added_at": "2022-10-12 12:49:04",
-      "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Chez Moi",
-      "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
     },
     {
       "added_at": "2022-10-12 12:49:04",

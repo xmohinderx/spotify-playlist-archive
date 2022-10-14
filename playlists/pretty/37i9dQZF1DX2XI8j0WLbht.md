@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,972 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,998 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 90 | [Antes Paso por la Gloria \(En Vivo Desde Cuba\)](https://open.spotify.com/track/1JkPp8jxbY5NGOSDyMGo4R) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Cesar Huesca](https://open.spotify.com/artist/21nAHY9slnhfM52jJ7XKBa) | [México Te Canto Desde Cuba Vol\. 1 "De Mi Folclor" \(En Vivo\)](https://open.spotify.com/album/7HUOQJPy8C4IsOrDbVOp0g) | 4:43 |
 | 91 | [Algo tiene que estar mal](https://open.spotify.com/track/27YjMWjTzP09QVrkMIfFgX) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Algo tiene que estar mal](https://open.spotify.com/album/7rnNcAe5fUOj9JbneWRbaa) | 4:19 |
 | 92 | [El Wall](https://open.spotify.com/track/00MXsjYKxtLgohKqsXAAHA) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Ana Tijuox](https://open.spotify.com/artist/2TEJXR9asamFJ7EMuuFpKE), [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [El Wall](https://open.spotify.com/album/4L1giQreKUcrCX2gJo8O6A) | 2:54 |
-| 93 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 |
+| 93 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
 | 94 | [Aguanieve](https://open.spotify.com/track/0UxWsiffUoloR5OwAtNwjw) | [Leonardo Prieto](https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc) | [Aguanieve](https://open.spotify.com/album/1bJ4D0bCiX8U5FE0D3H0gy) | 7:53 |
 | 95 | [El Son de Tus Suspiros](https://open.spotify.com/track/3Ha6gnrHZKElsm6QkJvCPD) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [El Son de Tus Suspiros](https://open.spotify.com/album/40aQp39AwN6epVJvHdWE0C) | 3:19 |
 | 96 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [El Chico de Mi Rosal](https://open.spotify.com/track/67OKXj9tIZutfy8cg3od5k) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:39 |
 | 100 | [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 |
 
-Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDJmNmRlM2M2ZGZhMTQ5ZTA4YThkNDM2N2VjMTEwZmUx`
+Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDFjM2MwMDViNDM5YmVmOWY2YjNiNzk1ZWM5ZmUxOTkx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,882 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,985 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 85 | [Steady](https://open.spotify.com/track/6e9UaKOYpELuMxus8Ppi0U) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was](https://open.spotify.com/album/00okcfFlB2UGqw17Oj1jcX) | 3:28 |
 | 86 | [Break Apart](https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:34 |
 | 87 | [Shortline](https://open.spotify.com/track/4ROdI7pMLhREchUg6xb4ix) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:54 |
-| 88 | [Strawberries](https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE) | 3:39 |
+| 88 | [Strawberries](https://open.spotify.com/track/7myzdcGa6aTaXj3Wf1V55M) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/5kVRO0BveKkUX3rnQElHg0) | 3:39 |
 | 89 | [Heal Me](https://open.spotify.com/track/7kWPljVESJuBwANiLZP8ny) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Heal Me](https://open.spotify.com/album/1SLHxMJKpcbaw0M4WSGIlf) | 3:27 |
 | 90 | [Fools and Their Gold \- Radio Edit](https://open.spotify.com/track/5ZrVZbwwxczBujEY2AWvlq) | [PLGRMS](https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k) | [Fools and Their Gold \(Radio Edit\)](https://open.spotify.com/album/0grXH08vgBabZbcmw0golH) | 3:48 |
 | 91 | [Electricity](https://open.spotify.com/track/3VoZIN3MSxpLKP0LdsTHqj) | [Sam Pinkerton](https://open.spotify.com/artist/6kumkrVx7tdkxLvXUeJGFp) | [Electricity](https://open.spotify.com/album/1UsMtM3LbIp9GZaDM9enWR) | 5:33 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 104 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 |
 | 105 | [M](https://open.spotify.com/track/7kcMm8WE6jc5mVt2EATrV2) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 2:46 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGQ5YzM2YTNjNTg3NWUwODlhNzBhNTBkYmQwNmVjYTIy`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDU4ZjcwMWU5MmY4M2JlNDg4ZGJkMGU2MDMzMmQzZWRk`

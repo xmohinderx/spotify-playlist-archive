@@ -885,6 +885,28 @@
     {
       "album": {
         "name": "For You",
+        "url": "https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5j1Hz9qgKAYdMSlD592Vks"
+    },
+    {
+      "album": {
+        "name": "For You",
         "url": "https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0"
       },
       "artists": [
@@ -899,7 +921,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 280125,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp"
@@ -4531,6 +4553,24 @@
     {
       "album": {
         "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224865,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go",
         "url": "https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK"
       },
       "artists": [
@@ -4541,7 +4581,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 224865,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa"

@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 85694,
+  "num_followers": 85705,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM4NzAzMywwMDAwMDAwMGQyYmY0YjkwNDU0MDU5NTZkODQ3NGJlNjczYzc5ZTY3",
+  "snapshot_id": "MTY2NTM4NzAzMywwMDAwMDAwMDQ5OWJmYWRlZWQ0YWM5NTA4NTQxNWIwYjRiOTZmZmVh",
   "tracks": [
     {
       "added_at": "2022-10-10 07:30:33",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-10 07:30:33",
       "album": {
-        "name": "123\u6211\u7231\u4f60",
-        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
-      },
-      "artists": [
-        {
-          "name": "\u65b0\u4e50\u5c18\u7b26",
-          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
-        }
-      ],
-      "duration_ms": 199530,
-      "name": "123\u6211\u7231\u4f60",
-      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
-    },
-    {
-      "added_at": "2022-10-10 07:30:33",
-      "album": {
         "name": "\u6162\u6162\u61c2",
         "url": "https://open.spotify.com/album/65i87rD1htDv82zSh6hTVn"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 196885,
       "name": "\u5c0f\u661f\u661f",
       "url": "https://open.spotify.com/track/2bRdjYBHfm2dCBOAXHKIyI"
+    },
+    {
+      "added_at": "2022-10-10 07:30:33",
+      "album": {
+        "name": "123\u6211\u7231\u4f60",
+        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u4e50\u5c18\u7b26",
+          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
+        }
+      ],
+      "duration_ms": 199530,
+      "name": "123\u6211\u7231\u4f60",
+      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
     },
     {
       "added_at": "2022-10-10 07:30:33",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-10-10 07:30:33",
       "album": {
+        "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
+        "url": "https://open.spotify.com/album/687L7gtiQqSyN6d6E3Omk3"
+      },
+      "artists": [
+        {
+          "name": "yihuik\u82e1\u6167",
+          "url": "https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e"
+        }
+      ],
+      "duration_ms": 129631,
+      "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
+      "url": "https://open.spotify.com/track/3ILYRPbZSmv9z6zIqlYWrS"
+    },
+    {
+      "added_at": "2022-10-10 07:30:33",
+      "album": {
         "name": "\u6e10\u6696",
         "url": "https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 273666,
       "name": "\u756b\u6c99",
       "url": "https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u"
-    },
-    {
-      "added_at": "2022-10-10 07:30:33",
-      "album": {
-        "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
-        "url": "https://open.spotify.com/album/687L7gtiQqSyN6d6E3Omk3"
-      },
-      "artists": [
-        {
-          "name": "yihuik\u82e1\u6167",
-          "url": "https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e"
-        }
-      ],
-      "duration_ms": 129631,
-      "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
-      "url": "https://open.spotify.com/track/3ILYRPbZSmv9z6zIqlYWrS"
     },
     {
       "added_at": "2022-10-10 07:30:33",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-10 07:30:33",
       "album": {
-        "name": "\u5206\u4f60\u4e00\u534a",
-        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
-      },
-      "artists": [
-        {
-          "name": "\u53f6\u6068\u6c34",
-          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
-        }
-      ],
-      "duration_ms": 199691,
-      "name": "\u5206\u4f60\u4e00\u534a",
-      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
-    },
-    {
-      "added_at": "2022-10-10 07:30:33",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 239000,
       "name": "Only Have Feelings For You",
       "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
+    },
+    {
+      "added_at": "2022-10-10 07:30:33",
+      "album": {
+        "name": "\u5206\u4f60\u4e00\u534a",
+        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
+      },
+      "artists": [
+        {
+          "name": "\u53f6\u6068\u6c34",
+          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
+        }
+      ],
+      "duration_ms": 199691,
+      "name": "\u5206\u4f60\u4e00\u534a",
+      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
     },
     {
       "added_at": "2022-10-10 07:30:33",

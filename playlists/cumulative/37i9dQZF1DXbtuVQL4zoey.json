@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/2PmKJoMUa2vd4keMvlO7xS"
+      },
+      "artists": [
+        {
+          "name": "Aarly",
+          "url": "https://open.spotify.com/artist/23n9NAhdmQvss3ZyP7UMaj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/1I5LzwQzflf3ZoNuIwLnBq"
+    },
+    {
+      "album": {
         "name": "Alter Witz",
         "url": "https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU"
       },
@@ -279,6 +297,24 @@
       "duration_ms": 144545,
       "name": "Amor na Praia",
       "url": "https://open.spotify.com/track/4DAkqKqpLl7KaFwQxxeHA0"
+    },
+    {
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/5MEA9XtnI9AUg1axr8m8Gr"
+      },
+      "artists": [
+        {
+          "name": "RejSende",
+          "url": "https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0"
     },
     {
       "album": {
@@ -503,7 +539,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 165333,
       "name": "Barbizon",
       "url": "https://open.spotify.com/track/4O4Ti02mZ5mAb9nZhWup8B"
@@ -774,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Blue Vibe",
+        "url": "https://open.spotify.com/album/3n22h1oXWBZunHT9HqTZYL"
+      },
+      "artists": [
+        {
+          "name": "Unbeat Ive",
+          "url": "https://open.spotify.com/artist/52vH8kSLKLTzOyJ5j3fVS3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "Blue Vibe",
+      "url": "https://open.spotify.com/track/32HW7A2WIZlriOMIFXbfZB"
+    },
+    {
+      "album": {
         "name": "Boom Bap a Lula",
         "url": "https://open.spotify.com/album/2k5gyXnBomBRmlKqj0F5gt"
       },
@@ -869,6 +923,24 @@
       "duration_ms": 180779,
       "name": "Bossa Rosa",
       "url": "https://open.spotify.com/track/0mPtM4eXcgUTcILbBaMOjK"
+    },
+    {
+      "album": {
+        "name": "Bossin",
+        "url": "https://open.spotify.com/album/4RgcrXdEsWl9c6jbgor8F4"
+      },
+      "artists": [
+        {
+          "name": "ombinate",
+          "url": "https://open.spotify.com/artist/6KuoBtG1drbXBIdkbloqEP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Bossin",
+      "url": "https://open.spotify.com/track/75vajuZ3iErkeKUG8uXjlt"
     },
     {
       "album": {
@@ -1345,7 +1417,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 156000,
       "name": "Cloud Bossa",
       "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu"
@@ -1699,10 +1771,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 105750,
       "name": "Cuban Espresso",
       "url": "https://open.spotify.com/track/018eCZOO9nxil7tpgSpGIe"
+    },
+    {
+      "album": {
+        "name": "Da Roberta",
+        "url": "https://open.spotify.com/album/2ORUYbFLMK8jLF9EBJgfNP"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "Da Roberta",
+      "url": "https://open.spotify.com/track/5PSCnbrMwcLmal3eAIW0GB"
     },
     {
       "album": {
@@ -1818,6 +1908,28 @@
     },
     {
       "album": {
+        "name": "Dope after 8 PM",
+        "url": "https://open.spotify.com/album/6lNtzdcPzUIoQ2jZn2GXVr"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "M\u00e1rcio Tubino",
+          "url": "https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116346,
+      "name": "Dope after 8 PM",
+      "url": "https://open.spotify.com/track/4qqMCDmYVhSem1M7WAra5b"
+    },
+    {
+      "album": {
         "name": "Beat Tape 1",
         "url": "https://open.spotify.com/album/2Ytq0z8ThIlwvgcfCGKU9W"
       },
@@ -1895,6 +2007,24 @@
       "duration_ms": 75789,
       "name": "dreams",
       "url": "https://open.spotify.com/track/3zwzd8lU5jBKn7cc6KySnC"
+    },
+    {
+      "album": {
+        "name": "Dreamwalker",
+        "url": "https://open.spotify.com/album/262766IDUhyOti6GJToput"
+      },
+      "artists": [
+        {
+          "name": "lowerkaze",
+          "url": "https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180085,
+      "name": "Dreamwalker",
+      "url": "https://open.spotify.com/track/2zVJsiJGMW7mgHbKVlckX5"
     },
     {
       "album": {
@@ -2003,7 +2133,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 160843,
       "name": "Early Rio",
       "url": "https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d"
@@ -2158,6 +2288,24 @@
     },
     {
       "album": {
+        "name": "feeling tropical",
+        "url": "https://open.spotify.com/album/1jsJNt80DVzl4dKWcz5HqL"
+      },
+      "artists": [
+        {
+          "name": "with_myself",
+          "url": "https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "feeling tropical",
+      "url": "https://open.spotify.com/track/7Gob0f79Tu0ZmguwVXhMHP"
+    },
+    {
+      "album": {
         "name": "Ferrochrome",
         "url": "https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO"
       },
@@ -2297,6 +2445,28 @@
       "duration_ms": 182127,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU"
+    },
+    {
+      "album": {
+        "name": "Fruit Salad",
+        "url": "https://open.spotify.com/album/6k2MizJJrsgrr3SJT8M85z"
+      },
+      "artists": [
+        {
+          "name": "Homieunculus",
+          "url": "https://open.spotify.com/artist/1GatEEXyG5qwbpXsvhdrd0"
+        },
+        {
+          "name": "L33M",
+          "url": "https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "Fruit Salad",
+      "url": "https://open.spotify.com/track/6IfPYRbW6tJyCf2qtPBciO"
     },
     {
       "album": {
@@ -2444,6 +2614,24 @@
     },
     {
       "album": {
+        "name": "go to gate",
+        "url": "https://open.spotify.com/album/154PKEs0imbq9gnqEsf2h6"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "go to gate",
+      "url": "https://open.spotify.com/track/75NF20zhwzBw4hzlTdXCiQ"
+    },
+    {
+      "album": {
         "name": "Golden Cat",
         "url": "https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR"
       },
@@ -2557,7 +2745,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 173773,
       "name": "Green Papaya",
       "url": "https://open.spotify.com/track/6Yxr92emQ8EtwDXmtmCjkc"
@@ -3296,6 +3484,24 @@
     },
     {
       "album": {
+        "name": "La Hacienda",
+        "url": "https://open.spotify.com/album/0Jvzxpq7Cu9ciQRi47iI49"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "La Hacienda",
+      "url": "https://open.spotify.com/track/3R5mE5KAgvUGUy7q7Rbmas"
+    },
+    {
+      "album": {
         "name": "Lab",
         "url": "https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc"
       },
@@ -3745,6 +3951,32 @@
       "duration_ms": 120000,
       "name": "Magic moment",
       "url": "https://open.spotify.com/track/6AisWOrqsQFJF5XQuoZQCX"
+    },
+    {
+      "album": {
+        "name": "Mallorca",
+        "url": "https://open.spotify.com/album/64CZA0vP8zFXaGoc2MCV7u"
+      },
+      "artists": [
+        {
+          "name": "Carabide",
+          "url": "https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS"
+        },
+        {
+          "name": "Charry",
+          "url": "https://open.spotify.com/artist/0gRHHNqL2VnRuTyPrSVtRr"
+        },
+        {
+          "name": "himood",
+          "url": "https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115764,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5fwUgcNVOqWaAiO7q0m5S4"
     },
     {
       "album": {
@@ -4359,7 +4591,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 110000,
       "name": "One Hundred Masters",
       "url": "https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H"
@@ -4457,6 +4689,24 @@
       "duration_ms": 160878,
       "name": "Orange Tree",
       "url": "https://open.spotify.com/track/667UZer8DqG0zUgmaQd0mm"
+    },
+    {
+      "album": {
+        "name": "Ordinary People",
+        "url": "https://open.spotify.com/album/4NzVB6WnluVHwzaoPzWmBt"
+      },
+      "artists": [
+        {
+          "name": "XX Tape Queen",
+          "url": "https://open.spotify.com/artist/6sQwe5kM1FYUJemXkQXTeA"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101409,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/5h5DvOnUWOBN6DQASLaaUv"
     },
     {
       "album": {
@@ -5097,6 +5347,24 @@
       "duration_ms": 165000,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi"
+    },
+    {
+      "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/3wdZ8ic22gGUwMzAk3ilke"
+      },
+      "artists": [
+        {
+          "name": "vhsgus",
+          "url": "https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/158kdVojsERlt5hDZrHbKX"
     },
     {
       "album": {
@@ -6471,7 +6739,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 142774,
       "name": "Through The Jasmine",
       "url": "https://open.spotify.com/track/7tUpGzaA7nivdqT8DJarXS"

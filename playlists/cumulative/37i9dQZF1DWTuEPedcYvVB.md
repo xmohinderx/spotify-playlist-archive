@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-49 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
+50 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Safeword](https://open.spotify.com/track/0NpQxEbSBygDxEHuflJqRw) | [Splurgeboys](https://open.spotify.com/artist/5ybO9LJlZ1H2d0zBMhdjVa), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [Safeword](https://open.spotify.com/album/69xVp6p6Y0Ohj21vCvp421) | 4:26 | 2022-04-14 |  |
 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 | 2022-04-14 |  |
 | [Skengman \(feat\. Stormzy\)](https://open.spotify.com/track/2mAg49knTyCqpVlCMtHGXM) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Skengman \(feat\. Stormzy\)](https://open.spotify.com/album/075FXoK3vUNI3H2wO1Jt2k) | 4:35 | 2022-04-14 |  |
-| [Surgeon](https://open.spotify.com/track/0vLmr16yecpq6XJ3u63Dt7) | [Asher D](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO), [Splurgeboy Tee](https://open.spotify.com/artist/3v2J9dZDXbhJfTBIRhwItZ) | [Surgeon](https://open.spotify.com/album/1BZrFRHQGc9V3mvOUfuBI8) | 3:27 | 2022-04-14 |  |
+| [Surgeon](https://open.spotify.com/track/0vLmr16yecpq6XJ3u63Dt7) | [Asher D](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO), [Splurgeboy Tee](https://open.spotify.com/artist/3v2J9dZDXbhJfTBIRhwItZ) | [Surgeon](https://open.spotify.com/album/1BZrFRHQGc9V3mvOUfuBI8) | 3:27 | 2022-04-14 | 2022-10-14 |
+| [Surgeon](https://open.spotify.com/track/28cokkLOUOJa0VWim9iA3O) | [Asher D](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO), [Splurgeboy Tee](https://open.spotify.com/artist/1SSDtPvrQUESR2dDSqqbVK) | [Surgeon](https://open.spotify.com/album/7fiD2jwvLDqXmycdHu2Lsv) | 3:27 | 2022-04-14 |  |
 | [The Bloom](https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [ULTRAMARINE](https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW) | 1:54 | 2022-04-14 |  |
 | [Trill Shit](https://open.spotify.com/track/03gJID2yRJnrWDssCBx77y) | [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X) | [Top Bitch](https://open.spotify.com/album/5Sz4wKUtVXEcwZhTVrihJo) | 2:15 | 2022-04-14 |  |
 | [Wana](https://open.spotify.com/track/0JggYhzdak2vD47gkP9K4U) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Wana](https://open.spotify.com/album/0bY1O5psyu1iG4NtHqQqZn) | 2:36 | 2022-04-14 |  |

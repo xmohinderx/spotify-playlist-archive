@@ -4,7 +4,7 @@
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-68 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
+69 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Fech Tchoufi](https://open.spotify.com/track/5LTuAtrv6O3ex7dvULOuA3) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:21 | 2021-08-11 |  |
 | [General Suleiman](https://open.spotify.com/track/72M5udVFetsH9Ga6i25no7) | [Zeid and the Wings](https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi) | [General Suleiman \- Single](https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX) | 3:10 | 2021-08-11 |  |
 | [Ghaniyet el Sex](https://open.spotify.com/track/1sAtIlc4YMKKY3uVpAxS2m) | [Meen](https://open.spotify.com/artist/5n1aTk6a8DcuUKUXbmrUm6) | [Rishineh Bel Kalash](https://open.spotify.com/album/3RUEM2V8a5LGZpLGDdkKKt) | 3:08 | 2021-08-11 |  |
-| [Hadari](https://open.spotify.com/track/5Cqvq0TJINqcWseUgjNde1) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [El Mutakallimûn](https://open.spotify.com/album/5iqydn2GwqvYMFyzUv2G22) | 3:50 | 2021-08-11 |  |
+| [Hadari](https://open.spotify.com/track/2YDgEdu3uJdUYVh5FpjpzQ) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [El Mutakallimûn](https://open.spotify.com/album/3obSjSc8Qljp8szZDgnxrb) | 3:50 | 2021-08-11 |  |
+| [Hadari](https://open.spotify.com/track/5Cqvq0TJINqcWseUgjNde1) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [El Mutakallimûn](https://open.spotify.com/album/5iqydn2GwqvYMFyzUv2G22) | 3:50 | 2021-08-11 | 2022-10-14 |
 | [Houkouma](https://open.spotify.com/track/0zRgwbETCZ9aUIRpgMoMzU) | [Lotfi Double Kanon](https://open.spotify.com/artist/6KqFUv5Sy8G5GJBfMJ1BQ4) | [Remix 2010](https://open.spotify.com/album/7lzevZHy14PcIlV94hqy8U) | 5:02 | 2021-08-11 |  |
 | [Io Sono Tunisino \(feat\. Jamloun\)](https://open.spotify.com/track/6u2bdvyZOKbkO01mvcDwks) | [Neshez](https://open.spotify.com/artist/0QvqvkYDw8YXk6A6HBODpq), [Jamloun](https://open.spotify.com/artist/1frFDCoeQDBLGVbVYfP10g) | [Neshez \- Musique Originale Du Film "Vhs\-Kahloucha"](https://open.spotify.com/album/62PBLl9jsv9ILgclz1c2SW) | 3:14 | 2021-08-11 |  |
 | [Jeena](https://open.spotify.com/track/16RzfZHB5vfKfcXjY0brkN) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:24 | 2021-08-11 |  |

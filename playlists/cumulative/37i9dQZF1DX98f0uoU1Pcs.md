@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Pretty Sick
 
-318 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+320 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/track/4BwPKXsMkinmd1okNTryUc) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/album/4qq5LjTdwWXVdMAjubHwnK) | 2:56 | 2021-10-07 | 2022-02-22 |
 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 | 2022-01-31 | 2022-10-08 |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2022-01-07 | 2022-06-11 |
-| [Ain't Nice](https://open.spotify.com/track/1ByVGqBt33n0iT5wgbwVzN) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/6Kni5BJN0cqBMXqANtHGG8) | 3:32 | 2022-01-07 |  |
+| [Ain't Nice](https://open.spotify.com/track/1ByVGqBt33n0iT5wgbwVzN) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/6Kni5BJN0cqBMXqANtHGG8) | 3:32 | 2022-01-07 | 2022-10-14 |
+| [Ain't Nice](https://open.spotify.com/track/3hxUQ6HX7p4dY8qQVInVoY) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 | 2022-10-07 |  |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-07-08 | 2022-08-27 |
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-12-07 | 2022-07-29 |
 | [Alphabet](https://open.spotify.com/track/32Xy5JWUdXb4GLZ0Eug06N) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Alphabet](https://open.spotify.com/album/71Aynu7WtmIHqxvvDHoTEh) | 2:53 | 2021-10-07 | 2022-06-18 |
@@ -121,8 +122,9 @@
 | [Great](https://open.spotify.com/track/4Ms53wvSYAqmaF2HGqGXEA) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Great](https://open.spotify.com/album/1Ny9T0PXICRhArwPu4mC2R) | 2:44 | 2021-10-07 | 2022-01-08 |
 | [Gum](https://open.spotify.com/track/0lyVppVVoinZxa3a6HpYhR) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Gum](https://open.spotify.com/album/59vxZFROZPhQWwJGdJlLYH) | 3:18 | 2022-01-07 |  |
 | [Gut \(Cookie Cut\)](https://open.spotify.com/track/5acmJ71asU4lylieUAQFxP) | [Geordie Kieffer](https://open.spotify.com/artist/4jZfJWTKg0oea9gn2EER4C) | [Gut \(Cookie Cut\)](https://open.spotify.com/album/5DaD7EPkQoX0S6aSCC63Z1) | 2:54 | 2021-10-07 | 2022-01-26 |
-| [Handheld](https://open.spotify.com/track/1jvXHXzVqTmLikAnwSkHJE) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/6vrni1LbmUPTikDFWR8VbH) | 2:23 | 2022-07-08 |  |
+| [Handheld](https://open.spotify.com/track/1jvXHXzVqTmLikAnwSkHJE) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/6vrni1LbmUPTikDFWR8VbH) | 2:23 | 2022-07-08 | 2022-10-14 |
 | [Handheld](https://open.spotify.com/track/5HKd4zf5JNQAdna8bt3e92) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/102kNKUxCEAmndlduhq0jY) | 2:23 | 2021-10-07 | 2022-07-29 |
+| [Handheld](https://open.spotify.com/track/7eb3YXrQcF5bA9o6SwuNU2) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 2:23 | 2022-10-07 |  |
 | [Happy \(God’s Own Country\)](https://open.spotify.com/track/1XVqUGcVQ2VqgoWAwis1lE) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Happy \(God’s Own Country\)](https://open.spotify.com/album/3QuCM83bCSFTmBNAERz5JZ) | 2:31 | 2021-10-07 | 2022-08-06 |
 | [happy pills](https://open.spotify.com/track/4fnMyrxXogmYCi40RBRmso) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [happy pills](https://open.spotify.com/album/3LRjouzNdqap0NEXiBOzoF) | 2:03 | 2021-10-07 | 2022-01-08 |
 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 | 2022-03-11 |  |

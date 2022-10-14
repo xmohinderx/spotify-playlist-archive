@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,856 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,883 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 45 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 |
 | 46 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
 | 47 | [JOY \(Overcome\)](https://open.spotify.com/track/5jDR7oIt1Ibz0xuZRhJuAf) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Overcome\)](https://open.spotify.com/album/5UqtSRZcARg0vpN4SZvO5I) | 3:36 |
-| 48 | [Light Up](https://open.spotify.com/track/3E4yJkELxoD49M4cd113EQ) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7p3Oql1lQymTJCpW9N7KoQ) | 3:48 |
+| 48 | [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 |
 | 49 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 50 | [East Side](https://open.spotify.com/track/0AVoN6YquWdecZzjGeaPsk) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [East Side](https://open.spotify.com/album/1j4SpjaiQb1p5tTEOhMgF6) | 3:19 |
 | 51 | [Sonoran](https://open.spotify.com/track/7925XkbGxCdaj8CRht1pJt) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [MJ Cole Presents Madrugada](https://open.spotify.com/album/2BZVe7dId9BVvwziNOSQQT) | 4:09 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 59 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 |
 | 60 | [Kashmer](https://open.spotify.com/track/1DiehRsdyRxbz2UUSEADkZ) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Kashmer](https://open.spotify.com/album/4081lWeHGcuBBpUDlO2Bup) | 3:11 |
 | 61 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 |
-| 62 | [Deep End](https://open.spotify.com/track/58wBsn1tDEgUzgLu5wqI8E) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Current Blues](https://open.spotify.com/album/6leO7OdN8iBvw6sRyU8zLO) | 3:38 |
+| 62 | [Deep End](https://open.spotify.com/track/3BicQmJN3NYNCtBwsLrpRL) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Current Blues](https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB) | 3:38 |
 | 63 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 |
 | 64 | [Julia \(deep diving\)](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:34 |
 | 65 | [Luminous Spaces \- Edit](https://open.spotify.com/track/7nbLUoUimkbWVQqsZ1mkp8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Luminous Spaces](https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F) | 4:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 79 | [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDIzMzdkZjhkZWIzNDc0ZjA5MDcxNTgxYWI4OGI3N2U3`
+Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDQ4YTliZmQ1ZDZkNTkyZjIyODM4MTAwMGE1NDExZTc1`

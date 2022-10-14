@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-141 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
+142 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 | 2021-12-22 |  |
 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2022-08-17 |  |
 | [?](https://open.spotify.com/track/15RDpqONY9BUkRzpRtFZf5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK) | 6:03 | 2021-12-22 |  |
-| [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-22 |  |
+| [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-22 | 2022-10-14 |
+| [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 | 2022-10-04 |  |
 | [A Lake](https://open.spotify.com/track/3GgSZWI0IFZeOGLTMPPYEp) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 13:25 | 2021-12-22 |  |
 | [A Meaningful Moment Through a Meaning\(less\) Process](https://open.spotify.com/track/4TrCvd1PrqI14lZb7tEtYo) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 4:32 | 2021-12-22 |  |
 | [A Rainbow in the Curved Air \- Instrumental](https://open.spotify.com/track/0aGvcIUEdMq9PelZIGJOBU) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band](https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq) | 18:39 | 2021-12-22 |  |

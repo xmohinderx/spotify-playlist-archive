@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "To whom it may concern",
+        "url": "https://open.spotify.com/album/1TKsdmVqMISXkxRWhAqG13"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222813,
+      "name": "All day",
+      "url": "https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8"
+    },
+    {
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5"
       },

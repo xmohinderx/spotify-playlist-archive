@@ -711,10 +711,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 196333,
       "name": "Handa Gawin",
       "url": "https://open.spotify.com/track/2Egxrl73wREKmp1F2nvE3l"
+    },
+    {
+      "album": {
+        "name": "Handa Gawin",
+        "url": "https://open.spotify.com/album/0yqIEof1HHy2cjBeID0BMF"
+      },
+      "artists": [
+        {
+          "name": "DILU Beats",
+          "url": "https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "Handa Gawin",
+      "url": "https://open.spotify.com/track/6q54NPEivZfu0w4mfi2pzk"
     },
     {
       "album": {
@@ -2153,6 +2171,24 @@
     {
       "album": {
         "name": "Palu Para",
+        "url": "https://open.spotify.com/album/0LwhD9eHbJ2legAAZTZll2"
+      },
+      "artists": [
+        {
+          "name": "Maduwa",
+          "url": "https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226916,
+      "name": "Palu Para",
+      "url": "https://open.spotify.com/track/0hHuNIuOVaZU1GJj4P25UI"
+    },
+    {
+      "album": {
+        "name": "Palu Para",
         "url": "https://open.spotify.com/album/6uyqQMbWvD2BOHhIagGYQf"
       },
       "artists": [
@@ -2163,7 +2199,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 226916,
       "name": "Palu Para",
       "url": "https://open.spotify.com/track/1ZtauuV73qklhDRpWQj0UV"
@@ -3161,10 +3197,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 205468,
       "name": "Wiramayak",
       "url": "https://open.spotify.com/track/340dfMzZ1GCacVbtbaFJiC"
+    },
+    {
+      "album": {
+        "name": "Wiramayak",
+        "url": "https://open.spotify.com/album/1NQPWASqhsmdC26ZFOvwjO"
+      },
+      "artists": [
+        {
+          "name": "Maduwa",
+          "url": "https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205468,
+      "name": "Wiramayak",
+      "url": "https://open.spotify.com/track/6FrqrsaUhbLAJI5deOlKZv"
     },
     {
       "album": {

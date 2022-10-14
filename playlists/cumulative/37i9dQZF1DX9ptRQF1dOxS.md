@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Connie Constance
 
-445 songs - 1 day 1 hr 32 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
+446 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-07-06 | 2022-08-04 |
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-03 | 2022-09-07 |
 | [It's Okay To Cry](https://open.spotify.com/track/0QA1xpUuqHDHWZhi0eAbH7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:50 | 2022-06-01 | 2022-07-07 |
-| [It's The Future, Baby](https://open.spotify.com/track/1Y469w0ZRL0eglfzRsa4XH) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/2YgxYVjrIzeQvB7tu6a5B4) | 3:44 | 2022-08-03 |  |
+| [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 | 2022-10-05 |  |
+| [It's The Future, Baby](https://open.spotify.com/track/1Y469w0ZRL0eglfzRsa4XH) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/2YgxYVjrIzeQvB7tu6a5B4) | 3:44 | 2022-08-03 | 2022-10-14 |
 | [Jeanette](https://open.spotify.com/track/5V28G1ktbqATUy4ioDzJZM) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 6:14 | 2022-06-01 | 2022-07-07 |
 | [Juicy](https://open.spotify.com/track/3Gs3xtwTh4E0TsnSbKVGaP) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd) | [Juicy](https://open.spotify.com/album/4PkLB0cKB5UwhX15rmU5gb) | 3:17 | 2022-03-08 | 2022-04-06 |
 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 | 2022-01-05 | 2022-07-07 |

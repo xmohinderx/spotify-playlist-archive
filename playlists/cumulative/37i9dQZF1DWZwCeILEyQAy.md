@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Kali
 
-201 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
+202 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Do Too Much](https://open.spotify.com/track/5LeHigT7pl8owmXu1rQMYR) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Do Too Much](https://open.spotify.com/album/4kJuPrQSvRi66p3JbuH9qu) | 3:13 | 2021-11-05 | 2022-07-29 |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-09-24 |
 | [Don't Like Me](https://open.spotify.com/track/15vBa8JFlc906oRT103Fdf) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Don't Like Me](https://open.spotify.com/album/4LlFHwHtA9gQZ6XC9fvWeZ) | 2:17 | 2022-03-18 | 2022-08-09 |
-| [Don't Play With It](https://open.spotify.com/track/6GbrejIjCnfVzkNTxyMYFF) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It](https://open.spotify.com/album/3373Pl3x4uwUPXh0UMRw8N) | 2:11 | 2021-11-05 |  |
+| [Don't Play With It](https://open.spotify.com/track/6GbrejIjCnfVzkNTxyMYFF) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It](https://open.spotify.com/album/3373Pl3x4uwUPXh0UMRw8N) | 2:11 | 2021-11-05 | 2022-10-14 |
+| [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 | 2022-10-07 |  |
 | [Drill a RaMA \(feat\. Benny the Butcher\)](https://open.spotify.com/track/0ScyCZruSs8LADmXmsEQ19) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [THE LIZ](https://open.spotify.com/album/4qBqFNBcgixIpe1tlvE8ck) | 2:43 | 2021-11-05 | 2022-03-18 |
 | [Dummy Ummy](https://open.spotify.com/track/3nSWujJAiDBsDK80pagDBV) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dummy Ummy](https://open.spotify.com/album/5ZO8kA1XhkGlf3fZZYgIZ3) | 1:51 | 2022-03-11 | 2022-07-29 |
 | [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/album/05bWcmoya1DMykuBkoXAu3) | 2:46 | 2022-04-15 | 2022-07-22 |

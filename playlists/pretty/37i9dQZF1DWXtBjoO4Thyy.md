@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Sheku Kanneh Mason continues The Classical Takeover with his all\-time favourite tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,209 likes - 27 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,293 likes - 27 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 53340,
+  "num_followers": 53453,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDc5NSwwMDAwMDAwMDQzNWNiNDk1NjA2MjUyMzY1NGI3MThmNWVmODNkYTFm",
+  "snapshot_id": "MTY2MzAwMDc5NSwwMDAwMDAwMGRmZDE0YmRiNDNlN2MwY2U0MTg4ODk2NDZhNmJlYjhm",
   "tracks": [
     {
       "added_at": "2022-09-12 16:39:55",
@@ -239,18 +239,22 @@
     {
       "added_at": "2022-09-12 16:39:55",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
         {
           "name": "B.B. King",
           "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+      "duration_ms": 241493,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
     },
     {
       "added_at": "2022-09-12 16:39:55",
@@ -355,22 +359,18 @@
     {
       "added_at": "2022-09-12 16:39:55",
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
       "artists": [
         {
           "name": "B.B. King",
           "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 241493,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2022-09-12 16:39:55",

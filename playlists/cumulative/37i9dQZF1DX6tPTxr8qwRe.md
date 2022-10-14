@@ -4,13 +4,14 @@
 
 > Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Maisie Peters
 
-270 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+271 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 | 2022-03-25 | 2022-07-29 |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-03-25 | 2022-07-30 |
-| [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 |  |
+| [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 |  |
+| [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 | 2022-10-14 |
 | [29](https://open.spotify.com/track/35GQVy9TgNSRFQRTlr0e7m) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/2xMel5JwlO9RiqCANKjCaQ) | 2:43 | 2022-08-19 | 2022-10-08 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-09-10 | 2022-02-19 |
 | [Aimed to Kill](https://open.spotify.com/track/3EZekHDwiGXJo7tH1Jolhv) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/7dwwAbCnp5xxAD1Hz0P3Tf) | 3:22 | 2022-04-15 | 2022-08-13 |

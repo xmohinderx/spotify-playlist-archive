@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,181 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,685 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 47 | [What Would I Do?](https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [What Would I Do?](https://open.spotify.com/album/5UMCUhNtZ5bkz0Giv0SppV) | 3:54 |
 | 48 | [everything looks darker now](https://open.spotify.com/track/5VymYMoYoOum1mV0Q7YvQz) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [everything looks darker now](https://open.spotify.com/album/7vYk62s2xBiA45E1rTXLAc) | 3:26 |
 | 49 | [Sleeping In Your Garden](https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Sleeping In Your Garden](https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX) | 3:24 |
-| 50 | [Head Over Heels](https://open.spotify.com/track/1QPWV0EWKa7GiKO7F7zcVs) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Head Over Heels](https://open.spotify.com/album/4yO8tU1Cu7Ry1dPLceo1Mf) | 3:57 |
+| 50 | [Head Over Heels](https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Head Over Heels](https://open.spotify.com/album/2E708oixNbIE32J644UTEj) | 3:57 |
 | 51 | [Milky](https://open.spotify.com/track/6TEDvriGdoz4bVaCyXCJRY) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/1FftaeMeVTstmjMD09gqlX) | 4:01 |
 | 52 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
 | 53 | [Deaf](https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu) | 5:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 79 | [An Uncomfortable Month](https://open.spotify.com/track/37ZSlP83PH8y8u2fErev2y) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Measures \- EP](https://open.spotify.com/album/2hXBZCLBpVHcjfw0jKxP0v) | 5:26 |
 | 80 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 |
 
-Snapshot ID: `MTY2NDEyOTQwOSwwMDAwMDAwMDA0MThhOGNkMDFlMTliYTVkNDVmM2U4MWVlNjI4OTQ5`
+Snapshot ID: `MTY2NDEyOTQwOSwwMDAwMDAwMGY0NzBjOTUxY2IwOWJhZWZjMzNhMzI1ZDY2MmE1Zjlk`

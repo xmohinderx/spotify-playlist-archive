@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,144 likes - 126 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,210 likes - 126 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 21 | [They Only Love You When You're Dead](https://open.spotify.com/track/0dLITEw0amfRF87feCqrQS) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [They Only Love You When You're Dead](https://open.spotify.com/album/5g364f47vu4CAoY5dRrNbx) | 2:42 |
 | 22 | [Fear the Sun](https://open.spotify.com/track/2MOk3NNDzsEnNllOlzAhSK) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Fear the Sun](https://open.spotify.com/album/5hJVy5PfgPrVRbX8sREhKx) | 2:46 |
 | 23 | [Freak](https://open.spotify.com/track/4cRsengtilig3VypBPNc65) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Freak](https://open.spotify.com/album/7eCHWysIN9EcICqwN2LGCr) | 3:10 |
-| 24 | [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/track/5cD5Dx2fiIP3gspGQSYDGE) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/album/6PZAmUdSje1xUojG1ed5MK) | 2:42 |
+| 24 | [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/track/0HUX7aH9bfz4YDGNVIl6t9) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•YOU'RE THE ONE I LIKE NOW•](https://open.spotify.com/album/2m0HFVBzKjzJ5QjHIW0dUT) | 2:42 |
 | 25 | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/track/0Xio3TJaKcH819kEPjjLyS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/album/5a8LFWG62uq5jiigTMxW3W) | 2:37 |
 | 26 | [Sentimental](https://open.spotify.com/track/4YCKwRXNXRXJMzRL1sg4kl) | [Magic Whatever](https://open.spotify.com/artist/1m02BQX2BPiqVzbaxBueXT), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Sentimental](https://open.spotify.com/album/5s3WFcfo9lPlrHMdVUH26F) | 2:27 |
 | 27 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [Better With](https://open.spotify.com/track/1O1GLjtl8cMiTLWWLU9hQc) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Better With](https://open.spotify.com/album/74RwAWj0wKofIBAyDLrxPS) | 2:43 |
 | 126 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 |
 
-Snapshot ID: `MTY2NTE2MjIxNCwwMDAwMDAwMGMxZTAyOTVlOGZhMTQ1ZWMzYWU0YWMwNTU5YWQ2MDc1`
+Snapshot ID: `MTY2NTE2MjIxNCwwMDAwMDAwMGNjOTZhMzQ1NmU1NjhmYWRjZWUzNGVlZDY3ZTZkMjA1`

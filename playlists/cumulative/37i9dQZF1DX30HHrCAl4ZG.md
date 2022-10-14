@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: Surf Curse
 
-676 songs - 1 day 12 hr 45 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+677 songs - 1 day 12 hr 49 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [I'm Not A Boy](https://open.spotify.com/track/1RP67chizWCvjmCIBzzsCv) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [I'm Not A Boy](https://open.spotify.com/album/2OMpy04GBRgxTgdJhuXTyk) | 2:37 | 2022-07-29 | 2022-08-13 |
 | [I'm On Fire](https://open.spotify.com/track/0lhcKPk0fppMAnFUt3QNy7) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm On Fire](https://open.spotify.com/album/5KA5O0ZMkVYk7UJHNfy3bs) | 2:38 | 2021-06-07 | 2022-04-21 |
 | [I'm So Bored](https://open.spotify.com/track/1SAF9h8xdE1YV02Dbgrn2L) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [I'm So Bored](https://open.spotify.com/album/0NWdGnIgHhsQ4ZwXPe1lUF) | 3:28 | 2021-06-07 | 2022-04-29 |
-| [I'm So Bored](https://open.spotify.com/track/3FOxcASfGM5j68Op5I31d8) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/3NHDgiphxKJ2Cql0ol2zm1) | 3:28 | 2022-06-10 |  |
+| [I'm So Bored](https://open.spotify.com/track/3FOxcASfGM5j68Op5I31d8) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/3NHDgiphxKJ2Cql0ol2zm1) | 3:28 | 2022-06-10 | 2022-10-14 |
+| [I'm So Bored](https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B) | 3:28 | 2022-07-01 |  |
 | [I'm Your Kamikaze](https://open.spotify.com/track/5aeKCKpYuXC14oxq3drNgt) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [I'm Your Kamikaze](https://open.spotify.com/album/4SASRjs0FWkon7MZNgWcri) | 2:38 | 2022-06-14 | 2022-06-25 |
 | [Idaho](https://open.spotify.com/track/4Vz0Wt4ySnCJi7WJycnoNj) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 4:05 | 2021-06-07 | 2022-06-09 |
 | [IDK About You](https://open.spotify.com/track/7Abvdek4ynLb8dewhwrkqD) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [The Sun Won't Stay After Summer](https://open.spotify.com/album/4LqvOUjwO0FrMQQSQ8bJmC) | 2:31 | 2022-03-22 | 2022-04-05 |

@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-126 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
+127 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Surrender](https://open.spotify.com/track/53vcgIyHUsxpeZjcEymEmh) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:54 | 2021-12-01 |  |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2021-12-01 |  |
 | [Sword from the Stone](https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo) | 3:21 | 2021-12-01 | 2022-07-29 |
-| [that'd be alright](https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4) | 2:57 | 2021-12-01 |  |
+| [that'd be alright](https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4) | 2:57 | 2021-12-01 | 2022-10-14 |
+| [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:57 | 2021-12-01 |  |
 | [that'd be alright](https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [that'd be alright](https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP) | 2:57 | 2021-12-01 | 2022-07-29 |
 | [The Captain Is Drunk](https://open.spotify.com/track/5z9VyMWkBCHB8iSVaLq3jk) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [The Captain Is Drunk](https://open.spotify.com/album/06CC7BEzIgw7a9zkKQKsOE) | 3:07 | 2021-12-01 |  |
 | [The Dark](https://open.spotify.com/track/3s5IOxoe3yc0UINOcZs6n8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh) | 4:58 | 2021-12-01 |  |

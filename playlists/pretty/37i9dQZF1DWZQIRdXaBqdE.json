@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 310897,
+  "num_followers": 311158,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDIyODBiMjQ5NGY3M2Q2MjA0ZWE0OWYyMjI4NjUzNTk5",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDQyNDhjMDVmMGY0NDU3YmZmMmI4OGUzNzk4ZjkxOGE0",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
-        "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 126920,
-      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
-      "url": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 156293,
       "name": "Take This Job and Shove It",
       "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
+        "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 126920,
+      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
+      "url": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "RCA Country Legends: Don Gibson",
-        "url": "https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Sea of Heartbreak",
-      "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Out Of Hand",
         "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "RCA Country Legends: Don Gibson",
+        "url": "https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Sea of Heartbreak",
+      "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Back To The Barrooms",
         "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 271160,
       "name": "I Think I'll Just Stay Here And Drink",
       "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "The Best Of Jimmy Dean",
-        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dean",
-          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
-        }
-      ],
-      "duration_ms": 182560,
-      "name": "Big Bad John",
-      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1227,6 +1211,22 @@
       "duration_ms": 190800,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Best Of Jimmy Dean",
+        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dean",
+          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
+        }
+      ],
+      "duration_ms": 182560,
+      "name": "Big Bad John",
+      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Luckenbach, Texas (Back to the Basics of Love)",
-      "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 186293,
       "name": "I'm the Only Hell (Mama Ever Raised)",
       "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Luckenbach, Texas (Back to the Basics of Love)",
+      "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "American Originals",
-        "url": "https://open.spotify.com/album/5DHSzaRCg638OK8gl6uyCL"
-      },
-      "artists": [
-        {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Long Black Veil",
-      "url": "https://open.spotify.com/track/6W7JvNYum6o2NxIIP5rZ2s"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Golden Hits - The World's Most Famous Auctioneer",
         "url": "https://open.spotify.com/album/3IyHmxJjlrb7doDbGJ14h6"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 168333,
       "name": "The Auctioneer",
       "url": "https://open.spotify.com/track/6dlti8kcKyzkkPrnGp7FN7"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "American Originals",
+        "url": "https://open.spotify.com/album/5DHSzaRCg638OK8gl6uyCL"
+      },
+      "artists": [
+        {
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Long Black Veil",
+      "url": "https://open.spotify.com/track/6W7JvNYum6o2NxIIP5rZ2s"
     },
     {
       "added_at": "2022-05-06 19:37:58",

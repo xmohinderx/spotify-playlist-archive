@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,529 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,580 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 26 | [No Pussy Blues](https://open.spotify.com/track/3hYm7ds6bY7jgyxGtXv9N8) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman](https://open.spotify.com/album/7H8mwwZrY0wptuWiIln2pp) | 4:20 |
 | 27 | [Come Into My Sleep \- 2011 Remastered Version](https://open.spotify.com/track/5At6HGlwIUZcoSBiyiDlNJ) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 3:48 |
 | 28 | [I Let Love In \- 2011 Remastered Version](https://open.spotify.com/track/32XQ4QT6Pz0ld6Ev0KDI3V) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 4:14 |
-| 29 | [Ghosteen](https://open.spotify.com/track/3H44zNYVAnMM5vqAHVOZ6X) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso) | 12:10 |
+| 29 | [Ghosteen](https://open.spotify.com/track/6tEFvxPkn2FRDmTPuu2GZV) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 12:10 |
 | 30 | [Shoot Me Down](https://open.spotify.com/track/0XmdbrkYXtuT4lFUX6Re8w) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides and Rarities](https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5) | 3:33 |
 | 31 | [Wide Lovely Eyes](https://open.spotify.com/track/2H8NAFAU5ADnOOJQ26D6ac) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 3:40 |
 | 32 | [Skeleton Tree](https://open.spotify.com/track/7qOQLkVimlB4Ptonb1yuse) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Skeleton Tree](https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S) | 4:01 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 37 | [Rock of Gibraltar](https://open.spotify.com/track/4VsoKFc549YXzcJ2gNdIko) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Nocturama](https://open.spotify.com/album/3FgAZqG6AJyYxpLQkHckxS) | 3:00 |
 | 38 | [Leviathan](https://open.spotify.com/track/0YS4LeFZt5WBZLjUqetSQT) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 4:47 |
 | 39 | [Stagger Lee \- 2011 Remastered Version](https://open.spotify.com/track/3tPJiyCky7ILbEc3LezFkT) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 5:15 |
-| 40 | [Galleon Ship](https://open.spotify.com/track/0Z04fUQyKGls1iV1LLHVER) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso) | 4:14 |
+| 40 | [Galleon Ship](https://open.spotify.com/track/4B1uwPgjl263qMNHys2J7h) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 4:14 |
 | 41 | [There She Goes, My Beautiful World](https://open.spotify.com/track/4KQOt8UvwZmUF8sjT4Za50) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM) | 5:17 |
 | 42 | [Ghosteen Speaks](https://open.spotify.com/track/7jSJkyPZFnA44t1sM3pkil) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 4:02 |
-| 43 | [Give Us a Kiss](https://open.spotify.com/track/6Qj27142tZoPcuZbzFDr1T) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Give Us a Kiss](https://open.spotify.com/album/1PhMYef0yI5YgybarsQXe9) | 3:31 |
+| 43 | [Give Us a Kiss](https://open.spotify.com/track/6Ey2XKLjRuyWE5U3pqedvR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides & Rarities \(Part II\)](https://open.spotify.com/album/70BESZ62GkFlBw0O3mxKo9) | 3:33 |
 | 44 | [Grief Came Riding](https://open.spotify.com/track/0j4WEjwlD6xt3xuJZ1n4iR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides and Rarities](https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5) | 5:05 |
 | 45 | [Love Letter \- 2011 Remastered Version](https://open.spotify.com/track/0aKozTzglADfnFue4Vwuif) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [No More Shall We Part \(2011 Remastered Version\)](https://open.spotify.com/album/5JpkwEcDxy92C3e9vSJTVX) | 4:08 |
 | 46 | [He Wants You](https://open.spotify.com/track/1VBoU7OLK8Vg0OV4qhvS5n) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 3:31 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 64 | [Loverman \- 2011 Remastered Version](https://open.spotify.com/track/6sOCmuWkp0anAqgfLqzNjH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:21 |
 | 65 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
 
-Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMDgxZTQyMGZmNDIwZDkxMWMwNzJkNzcyOGQwMzM2Y2M0`
+Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMDEyNmU5NTlhNzg0OTQwZWE3ZWY2MjNmNWViOTZjNDU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Pretty Sick
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,630 likes - 125 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,806 likes - 125 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,12 +116,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 106 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
 | 107 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 108 | [Brainwashin’](https://open.spotify.com/track/2ILW2QaDIhd4uSPRtb4106) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [Brainwashin’](https://open.spotify.com/album/5EiW8PeUPcDDwh2ehy2x5B) | 2:55 |
-| 109 | [Ain't Nice](https://open.spotify.com/track/1ByVGqBt33n0iT5wgbwVzN) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/6Kni5BJN0cqBMXqANtHGG8) | 3:32 |
+| 109 | [Ain't Nice](https://open.spotify.com/track/3hxUQ6HX7p4dY8qQVInVoY) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 |
 | 110 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 |
 | 111 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 |
 | 112 | [Shelter Song](https://open.spotify.com/track/2QhlzvPUUipgHumEym6bVN) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Seek Shelter](https://open.spotify.com/album/29cTS4AcvDfeHATdlBCYse) | 5:28 |
 | 113 | [Lighthouse](https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Lighthouse](https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk) | 3:43 |
-| 114 | [Handheld](https://open.spotify.com/track/1jvXHXzVqTmLikAnwSkHJE) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/6vrni1LbmUPTikDFWR8VbH) | 2:23 |
+| 114 | [Handheld](https://open.spotify.com/track/7eb3YXrQcF5bA9o6SwuNU2) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 2:23 |
 | 115 | [Fate Is…](https://open.spotify.com/track/0wIwl2tvNN2fxKFh7V9rPF) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/07dXaYcSea0bdLcwmpeZJw) | 2:40 |
 | 116 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 |
 | 117 | [Gum](https://open.spotify.com/track/0lyVppVVoinZxa3a6HpYhR) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Gum](https://open.spotify.com/album/59vxZFROZPhQWwJGdJlLYH) | 3:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/track/6RKznMItfF3tAMBP2vyYiI) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/album/642k2mjhDGqE7wfwKrDrjU) | 3:32 |
 | 125 | [Sterilizer](https://open.spotify.com/track/4wPVMYTIDj0D3e0biuEq6M) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Around the Sun](https://open.spotify.com/album/1S2XYKUTq2jSCPX5nUnMEw) | 3:06 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDlkZDQzMWNjYzgwM2FkNWYxNzY1ZTE3YTI4MDBmNzc5`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGJhNTIxMjBjZTUyNzY4NTE1NjhmYWRkOWI1ODljMzg3`

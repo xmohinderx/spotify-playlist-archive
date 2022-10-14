@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1135878,
+  "num_followers": 1136269,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY0MDUxNSwwMDAwMDAwMGUyZTBhY2M1YTMzMWQ4ZTJkZmJjODllYWM3OTU2MWMw",
+  "snapshot_id": "MTY1NDY0MDUxNSwwMDAwMDAwMGI0ZGU5MzU2NDJjM2FhYTBhNmNkNGJhZmZkYzg3NTA4",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
-        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
-      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Enamoradas",
         "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
+        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
       "artists": [
         {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 244924,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
+      "duration_ms": 195440,
+      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
+      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1307,6 +1291,22 @@
       "duration_ms": 232546,
       "name": "Me Enamor\u00e9 de una Sonidera",
       "url": "https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 244924,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Que Te Vaya Mal",
-        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kachimba",
-          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
-        }
-      ],
-      "duration_ms": 327253,
-      "name": "Ven a Mi",
-      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Sus Mejores Exitos",
         "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Que Te Vaya Mal",
+        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+        }
+      ],
+      "duration_ms": 327253,
+      "name": "Ven a Mi",
+      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Los Exitos de Tiberio y Sus Gatos Negros",
-        "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
-      },
-      "artists": [
-        {
-          "name": "Tiberio Y Sus Gatos Negros",
-          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Lagrimas de Escarcha",
-      "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Vaya Que Sabor!!",
         "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 199999,
       "name": "Embrujo de Cumbia",
       "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Los Exitos de Tiberio y Sus Gatos Negros",
+        "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
+      },
+      "artists": [
+        {
+          "name": "Tiberio Y Sus Gatos Negros",
+          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Lagrimas de Escarcha",
+      "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Cervecita",
-        "url": "https://open.spotify.com/album/4os30d5A9kIChPAztcYqIv"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps"
       },
       "artists": [
         {
-          "name": "Kumbia Flow",
-          "url": "https://open.spotify.com/artist/4q8TCRvhHjZ1dRpOQDsxBW"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Cervecita",
-      "url": "https://open.spotify.com/track/1N30BehuFIvGKwx5q5Swew"
+      "duration_ms": 176226,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o"
     }
   ],
   "unique_name": "Cumbia Sonidera",

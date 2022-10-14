@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1221805,
+  "num_followers": 1221809,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGJkYWFiNTQ3YzIxMDM5NGUwZDE4NDNkYzA2YjE0MGJh",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDUzNTExZTJhZjM2NWIxMDdkODY2MjRhNzBhMmEzMTk5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 191234,
       "name": "For All You Give",
       "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/70ozU7uYRApcu4Dluq0xMV"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 224445,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -527,22 +511,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Boys (Side A)",
-        "url": "https://open.spotify.com/album/4kBUtVFzM9mrVZEtr0f56v"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 235415,
-      "name": "26",
-      "url": "https://open.spotify.com/track/1SqAcHRKodDP1mxvAqkCvU"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -555,6 +523,38 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Like Real People Do",
+      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Boys (Side A)",
+        "url": "https://open.spotify.com/album/4kBUtVFzM9mrVZEtr0f56v"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 235415,
+      "name": "26",
+      "url": "https://open.spotify.com/track/1SqAcHRKodDP1mxvAqkCvU"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -619,22 +619,6 @@
       "duration_ms": 227279,
       "name": "Our Remains - Acoustic",
       "url": "https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Like Real People Do",
-      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1043,22 +1027,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 128634,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Paper Crown",
         "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
       },
@@ -1071,6 +1039,22 @@
       "duration_ms": 217556,
       "name": "Only Lonely",
       "url": "https://open.spotify.com/track/7l78lkJwcYBfWk2Lyz5kEc"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 128634,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
       },
@@ -1259,6 +1227,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "When I Say That I Love You",
         "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
     }
   ],
   "unique_name": "Morning Acoustic",

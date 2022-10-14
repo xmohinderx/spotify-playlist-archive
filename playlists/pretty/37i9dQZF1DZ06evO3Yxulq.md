@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,315 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,348 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 34 | [Yahweh](https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:26 |
 | 35 | [Seguirte](https://open.spotify.com/track/6X2bymkSxVkhegf4Ozhz0k) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:38 |
 | 36 | [Mi Padre Me Ama \[Adoración Espontánea\]](https://open.spotify.com/track/2olhLOVopC1RFSBJv96oTM) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 7:38 |
-| 37 | [Selah](https://open.spotify.com/track/5geEugjHtTKRw8zA2c9A2G) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ages En Español](https://open.spotify.com/album/1Lk3caIw9SNwPD8MYbUxKV) | 3:56 |
-| 38 | [Desciende](https://open.spotify.com/track/5LAHsfZD3XdEjmmKFS9j1i) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Amanece \(Deluxe\)](https://open.spotify.com/album/4QAINDXWRYZ40GJun5RHfG) | 9:08 |
+| 37 | [Desciende](https://open.spotify.com/track/5LAHsfZD3XdEjmmKFS9j1i) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Amanece \(Deluxe\)](https://open.spotify.com/album/4QAINDXWRYZ40GJun5RHfG) | 9:08 |
+| 38 | [Selah](https://open.spotify.com/track/5geEugjHtTKRw8zA2c9A2G) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ages En Español](https://open.spotify.com/album/1Lk3caIw9SNwPD8MYbUxKV) | 3:56 |
 | 39 | [Magnifico](https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:08 |
 | 40 | [Incontrolable Amor](https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:39 |
 | 41 | [Eterno \(Con Cuando Los Santos Marchan Ya\)](https://open.spotify.com/track/1D7gcN6H8n0hdxr1osOd6N) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Respirar del Cielo](https://open.spotify.com/track/65bjrimQiPoI4yNO5mBsv6) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz) | 5:46 |
 | 50 | [Crea En Mi](https://open.spotify.com/track/4sHo8Op1vPLk88OHr5XFZl) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 4:51 |
 
-Snapshot ID: `Mjc3NTk3MDYsMDAwMDAwMDBjZTM3ODNkMTdhZjI1OTM2NzQxMTg0NmM2Y2NjZjU2Mg==`
+Snapshot ID: `Mjc3NjExMjQsMDAwMDAwMDA3MmRiYTc4YmQwNzM1NTFjNTkwOWQxYTgyZDA3Mjc1OQ==`

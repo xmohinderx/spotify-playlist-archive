@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 64 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,972 likes - 64 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 47 | [Ethnic Relaxation](https://open.spotify.com/track/5cISGyz7flqHyJnPredy4s) | [Tranquility Spa Universe](https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:54 |
 | 48 | [Coral](https://open.spotify.com/track/321TKi0OMRCqt1WvyDA0d8) | [Arli](https://open.spotify.com/artist/2D2omNqzJakxuZaLVYuEpm) | [Fata Morgana](https://open.spotify.com/album/2VXGu0aOBaxGVy6idevAs2) | 6:47 |
 | 49 | [Tranquil Desert Sanctuary](https://open.spotify.com/track/6STx8DlaC9NmtMOthYMiHO) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:54 |
-| 50 | [Yeraz \(Rêverie\)](https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 2:57 |
+| 50 | [Yeraz \(Rêverie\)](https://open.spotify.com/track/4hGW5Ok07tg4YW2gwWNG03) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 2:57 |
 | 51 | [Calm Your Emotions](https://open.spotify.com/track/5uh94YKGwpmlIQTFH12VKH) | [Mindfulness Meditation Music Spa Maestro](https://open.spotify.com/artist/0e4n2JRged14FIeqTGcQbF) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:37 |
 | 52 | [Arabic Starry Skies](https://open.spotify.com/track/1xCDq8xU7gE09lJcZNBLts) | [Cafe Tantra Chill](https://open.spotify.com/artist/72vLOUKSCa5df8OyEqJ4VY) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 4:06 |
 | 53 | [Far Away](https://open.spotify.com/track/7FWxgkffwiIrr2SR72RqAh) | [CreativeWaves](https://open.spotify.com/artist/6ckEar8o3QDbpIK520uRyx) | [Far Away](https://open.spotify.com/album/4LmSHbGhpvsVK1kGPv0KeT) | 4:06 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 63 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
 | 64 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
 
-Snapshot ID: `MTY2NDUzNTcyMCwwMDAwMDAwMGMwNmI1MzIzN2Y1N2Q3NWI0ZjdkYzRhZTdjOWQ3YzYy`
+Snapshot ID: `MTY2NDUzNTcyMCwwMDAwMDAwMDVjNjQyNGZiMmNhMDgxYThjZDhhOTBjNTY1YzZiOTM5`

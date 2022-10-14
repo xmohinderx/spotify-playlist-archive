@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:032syoAKbxdyWFRlyk0PJv\">Paride</a>",
+  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:3LXTbapp18J0PmQEPPeXmO\">Wism</a>",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -576,6 +576,24 @@
     },
     {
       "album": {
+        "name": "PAZIENZA",
+        "url": "https://open.spotify.com/album/5dlEJfOWnlYWCSsdBHFyAQ"
+      },
+      "artists": [
+        {
+          "name": "WISM",
+          "url": "https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "ANGELO",
+      "url": "https://open.spotify.com/track/0XVS7Ln0hwQ2q5ezDXYTiJ"
+    },
+    {
+      "album": {
         "name": "DA FIRENZE CON AMORE",
         "url": "https://open.spotify.com/album/2K2tS5FCPcBFPzI4mhxWdp"
       },
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 90666,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 220579,
       "name": "Cantonese",
       "url": "https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 168000,
       "name": "Figlio d'Arte",
       "url": "https://open.spotify.com/track/4Ah0my37c8Aj6RVucNF4c5"
@@ -3305,7 +3323,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 143380,
       "name": "Le sette e sette",
       "url": "https://open.spotify.com/track/1a3Qif4kPHr3nTUzTPvfw6"
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 149647,
       "name": "LINEAMENTI",
       "url": "https://open.spotify.com/track/1zaqH4YBiapkCyTfW073kp"
@@ -3751,7 +3769,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 168677,
       "name": "McRione",
       "url": "https://open.spotify.com/track/4Bv58XK0LLfMbY4OCYzIEl"
@@ -5141,7 +5159,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 301855,
       "name": "Pirati",
       "url": "https://open.spotify.com/track/5ipWXlmwltaLQCsBzoRizT"
@@ -7453,7 +7471,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 348000,
       "name": "Vorrei",
       "url": "https://open.spotify.com/track/4DXt2aqxZuT6FbREs2FHdq"

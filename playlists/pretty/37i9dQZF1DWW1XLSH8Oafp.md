@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring nia archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,639 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,756 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 23 | [Hurt Me No More](https://open.spotify.com/track/7AmYcfmLVEOm6lYdradkyI) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Hurt Me No More](https://open.spotify.com/album/6xZZzmSFYB1doPnyq1if4w) | 4:39 |
 | 24 | [v0013](https://open.spotify.com/track/46guwiCD3lXaB3cjSfRnwy) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [v0013](https://open.spotify.com/album/310MLqcIAqRpbgKUKukR16) | 2:27 |
 | 25 | [You Don't Have To Worry](https://open.spotify.com/track/4GTcv071eE7WLFp7SintLr) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [You Don't Have To Worry](https://open.spotify.com/album/4bzyLLkiDFRy9BePIiFaps) | 4:55 |
-| 26 | [Hold Me \(XD Project\)](https://open.spotify.com/track/2By1PZnlxBEktGvqFLelVA) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [Hold Me \(XD Project\)](https://open.spotify.com/album/1KI6eD1UV2VgvqveEP1Y1I) | 3:05 |
+| 26 | [Hold Me \(XD Project\)](https://open.spotify.com/track/2By1PZnlxBEktGvqFLelVA) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m), [XD Project](https://open.spotify.com/artist/1zAuJhsIowtEsUZykFuaKM) | [Hold Me \(XD Project\)](https://open.spotify.com/album/1KI6eD1UV2VgvqveEP1Y1I) | 3:05 |
 | 27 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 |
 | 28 | [In The Calm](https://open.spotify.com/track/6BxvOQ9CtW8MQTPEpHELpv) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Aamourocean](https://open.spotify.com/artist/45XImXCRH7XiKTOINsqTd1) | [In The Calm](https://open.spotify.com/album/0VYu7fpG7YAL9l73E6y9M7) | 4:50 |
 | 29 | [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 |

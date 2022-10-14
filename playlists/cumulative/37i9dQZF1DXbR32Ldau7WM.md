@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: くるり
 
-354 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+355 songs - 23 hr 25 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [TOKYO SUNSET](https://open.spotify.com/track/3uyxqhX9aZWs8uxBF6nPRL) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [TOKYO SUNSET](https://open.spotify.com/album/5gqwQgJgK44GAYLuiIez8T) | 4:06 | 2022-05-22 | 2022-06-21 |
 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2022-09-05 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
-| [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 | 2022-08-02 |  |
+| [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 | 2022-08-02 | 2022-10-14 |
 | [Typhoon](https://open.spotify.com/track/310g5w5TN0oMQGpkhjeclF) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Double Circle I](https://open.spotify.com/album/4slJzsQV3ULrJOvOxVEqhD) | 3:04 | 2022-09-13 | 2022-09-28 |
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-05-10 |  |
 | [UGOKE](https://open.spotify.com/track/6sFS9uxrjOsw92LQZEWgca) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [UGOKE](https://open.spotify.com/album/7Cd0pDNe1s5qhk5EsKvsRj) | 3:57 | 2022-09-20 | 2022-09-28 |
@@ -258,6 +258,7 @@
 | [ショック!](https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [ショック!](https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2) | 5:05 | 2022-05-10 | 2022-07-22 |
 | [シーズンエンド](https://open.spotify.com/track/7pdMesCX4Vulq75t7wb6bZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FRIENDS Ⅲ](https://open.spotify.com/album/1GphZ6CslazKeXBAnmWPj3) | 4:37 | 2022-05-22 | 2022-07-12 |
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-10 | 2022-07-27 |
+| [ソウル・ブレイド](https://open.spotify.com/track/1UkISoJjHBG3IEkTcx9waL) | [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [ソウル・ブレイド](https://open.spotify.com/album/55rzLkZnf2qAoxyQkrnOzz) | 3:59 | 2022-10-13 |  |
 | [タイトロープ](https://open.spotify.com/track/0CwB5GNF5HihvrxGlYhyvD) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 4:15 | 2022-08-23 | 2022-10-05 |
 | [タタカエブリバディ](https://open.spotify.com/track/6HuaMfd51muvgrwhJs4F9X) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [タタカエブリバディ](https://open.spotify.com/album/1F6ZHIzZ37d6AmY6OyOaV0) | 4:20 | 2022-05-10 | 2022-07-24 |
 | [ツイス島&シャウ島](https://open.spotify.com/track/2zj6zuZJG0t0nYmDIthbEm) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ツイス島&シャウ島](https://open.spotify.com/album/1kRmUc2mjUeROgPvI6Kvza) | 4:07 | 2022-05-17 | 2022-06-04 |

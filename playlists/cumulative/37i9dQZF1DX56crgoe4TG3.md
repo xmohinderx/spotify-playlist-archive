@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-172 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+174 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Kiss From A Rose](https://open.spotify.com/track/3k3rsujAAKrvCXcyCzFtsU) | [Mustered Courage](https://open.spotify.com/artist/7A2mhKFpbcw6VrN64VPmOY) | [Kiss From A Rose](https://open.spotify.com/album/7FRzhL5VqBkKdo4JWc8vMP) | 2:36 | 2021-08-20 |  |
 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 | 2021-08-20 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-08-20 | 2022-04-02 |
-| [Let Your Love Flow](https://open.spotify.com/track/7jupT6wzegD9jbY4lbfb6O) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 2:57 | 2022-10-07 |  |
+| [Let Your Love Flow](https://open.spotify.com/track/4BNKLzaOKJp2NhnoDQVOhJ) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7) | 2:57 | 2022-10-07 |  |
+| [Let Your Love Flow](https://open.spotify.com/track/7jupT6wzegD9jbY4lbfb6O) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 2:57 | 2022-10-07 | 2022-10-14 |
 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 | 2021-08-20 |  |
 | [Lord I Hope this Day is Good](https://open.spotify.com/track/4CTuygl7hPgqMBzBJVbVeF) | [Jr\. Williams](https://open.spotify.com/artist/7gbMaxGvHM6QoxQ4qAAolE) | [Lord I Hope this Day is Good](https://open.spotify.com/album/2pyRpAC7Hws68qo393hkp2) | 3:50 | 2022-04-29 |  |
 | [Loser](https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:19 | 2022-05-27 |  |
@@ -137,7 +138,8 @@
 | [She's A Rainbow](https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:49 | 2021-08-20 |  |
 | [Single Ladies \(Put a Ring On It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 | 2021-08-20 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/5YafubHfFZDXSZUtCLGRVX) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:15 | 2022-04-29 |  |
-| [Somebody to Love](https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:42 | 2022-05-27 |  |
+| [Somebody to Love](https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:42 | 2022-05-27 | 2022-10-14 |
+| [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 | 2022-10-07 |  |
 | [Somebody to Love](https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:42 | 2021-08-20 | 2022-07-29 |
 | [Stairway to Heaven](https://open.spotify.com/track/2Fw3Heu6kvivVv4S3JOLs0) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/5FvEdQEFFSPk1BUPaWU6Nr) | 4:44 | 2021-08-20 | 2022-07-29 |
 | [Stairway to Heaven](https://open.spotify.com/track/6y9VXK7MuqlCzu7OvVGHTs) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/3iqyQHFVWrmx4rjWRJXCNg) | 4:44 | 2022-05-27 |  |

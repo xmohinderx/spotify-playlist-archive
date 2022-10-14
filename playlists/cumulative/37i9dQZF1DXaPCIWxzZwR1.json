@@ -2721,6 +2721,24 @@
     {
       "album": {
         "name": "Boys Who Kiss You In Their Car",
+        "url": "https://open.spotify.com/album/3gqu6hSCAet5nUZWhkwAi1"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164706,
+      "name": "Boys Who Kiss You In Their Car",
+      "url": "https://open.spotify.com/track/0mFM1XxrkVkKTmuzwwa2IO"
+    },
+    {
+      "album": {
+        "name": "Boys Who Kiss You In Their Car",
         "url": "https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn"
       },
       "artists": [
@@ -2731,7 +2749,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 164706,
       "name": "Boys Who Kiss You In Their Car",
       "url": "https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S"

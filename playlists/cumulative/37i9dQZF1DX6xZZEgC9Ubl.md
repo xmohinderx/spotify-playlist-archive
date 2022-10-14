@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-732 songs - 1 day 9 hr 20 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+733 songs - 1 day 9 hr 23 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Spine \(with Lil Peep\)](https://open.spotify.com/track/00yfNiEDFfRYkMeV2PbyxM) | [Gab3](https://open.spotify.com/artist/0Yt7UjpW2AJojjZrgGysUl), [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Ready To Rave?](https://open.spotify.com/album/4ivoSSaDbpTga7YvcLWtAh) | 2:03 | 2022-01-13 | 2022-07-28 |
 | [Squash](https://open.spotify.com/track/4XCcz4Rdswrhg09Wk9D6QX) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Squash](https://open.spotify.com/album/3SZVjeca9ZVB7dXTzQp6HR) | 2:03 | 2021-03-26 | 2022-07-29 |
 | [Star Shopping](https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/1dEpGPZONvmwYlE2jDOWOM) | 2:22 | 2020-12-13\* | 2022-10-13 |
+| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2022-10-07 |  |
 | [Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv) | [SALEM](https://open.spotify.com/artist/09CJcG6ndtL82D8x9VxaeT) | [Fires In Heaven](https://open.spotify.com/album/1G9NXS6bwV9JHeaCNETAFI) | 2:48 | 2022-01-28 | 2022-02-12 |
 | [Starfire \(Teen Titans\)](https://open.spotify.com/track/3sVxmnZEQO3L589itv1uik) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [Starfire \(Teen Titans\)](https://open.spotify.com/album/15xP9FxiV8it3gJ9ro08Rm) | 2:04 | 2021-02-27 | 2022-06-02 |
 | [STARING AT THE SKY](https://open.spotify.com/track/4KpKyRFwN0gcwj58Uqjv7q) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:25 | 2021-10-22 | 2021-12-21 |
@@ -695,7 +696,7 @@
 | [WALKING BACKWARDS](https://open.spotify.com/track/6Sw12MIPAzOmuqHr9CYxGw) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [WALKING BACKWARDS](https://open.spotify.com/album/03EEAPqeqGYB3gDbD3cRuJ) | 3:04 | 2021-10-29 | 2022-04-21 |
 | [Waste My Time](https://open.spotify.com/track/0QGPUHXzDnSfuQiel2NY3y) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [Somethjngs Wrong](https://open.spotify.com/album/7sxn8a7d5TY8NpgoFFEA4j) | 3:06 | 2020-12-13\* | 2021-01-05 |
 | [Wasted](https://open.spotify.com/track/7dDH2I1Jldc2SXMA183sHT) | [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [Weepings](https://open.spotify.com/artist/2ZKf1mXobEQ7YwiOqteyL7), [American Dead Cross](https://open.spotify.com/artist/34Dax4BzzztDBGblPWsUJ2), [Two:22](https://open.spotify.com/artist/7pdO2N04Ggcu8tC3BqWUDc) | [Wasted](https://open.spotify.com/album/2i2Yx89ExIxgtjTjfKBVyG) | 3:16 | 2022-07-15 | 2022-07-20 |
-| [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-10-07 |  |
+| [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-10-07 | 2022-10-14 |
 | [Watch Me Wither](https://open.spotify.com/track/2DaU44ilSPYqUI5T998EBI) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Autumn Gloom](https://open.spotify.com/album/4xL8Agj0pO2zwbr0WDO6Ee) | 3:28 | 2021-01-15 | 2021-04-24 |
 | [Water World](https://open.spotify.com/track/557GPWoXsbALezINZhftNf) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Miracle Mile](https://open.spotify.com/album/5Yyw9PEcJwpfx6VxSeeENp) | 3:10 | 2021-05-15 | 2022-05-25 |
 | [wdym?](https://open.spotify.com/track/1iMsmdz6NFv30BfFn6H8cE) | [Razegod](https://open.spotify.com/artist/0sBbpqhrb9FInmsDSjpCau), [MinimumWade](https://open.spotify.com/artist/5tWiEejDM9WKiai4CkHFNm) | [wdym?](https://open.spotify.com/album/0YBi25ivXul0BBLjT2iQrC) | 3:15 | 2022-05-20 | 2022-07-23 |

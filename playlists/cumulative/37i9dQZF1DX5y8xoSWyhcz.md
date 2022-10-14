@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  cover: blair lee
 
-970 songs - 2 day 1 hr 46 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+973 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Cotton Candy](https://open.spotify.com/track/0RLIUOXaZUvZub2Qn7NHqh) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/1hVCtTKZ96eJByKOEjKsbz) | 1:33 | 2020-10-29\* | 2021-03-14 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2020-10-29\* | 2021-02-13 |
 | [Count on Me](https://open.spotify.com/track/0PJXUpD6Og6jy5gMv14knO) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [Count on Me](https://open.spotify.com/album/1iMsm7bddlthQjZr1STePf) | 3:03 | 2022-07-08 |  |
-| [Cowboy](https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB) | 3:26 | 2022-06-03 |  |
+| [Cowboy](https://open.spotify.com/track/1bR0if1jm3ZEbKYr0wTUFD) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/2DNRfz3BaPR4rvOkNJBEX1) | 3:26 | 2022-10-07 |  |
+| [Cowboy](https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB) | 3:26 | 2022-06-03 | 2022-10-14 |
 | [cowboy in LA](https://open.spotify.com/track/0E6uWutxRjIDhleURR92do) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [cowboy in LA](https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5) | 3:33 | 2020-10-29\* | 2021-02-13 |
 | [CR78](https://open.spotify.com/track/2MNaVbR5QaxYQ7Cr2qHXRq) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [CR78](https://open.spotify.com/album/0Aqt3CV2oh172Ut6ZhqEDh) | 2:51 | 2021-04-30 | 2021-05-22 |
 | [CRASH COURSE](https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [CRASH COURSE](https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ) | 3:37 | 2022-05-27 | 2022-07-02 |
@@ -227,7 +228,8 @@
 | [Don't Be A Fool](https://open.spotify.com/track/5blpjo0tFAlmc7CmnCWa4T) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Don't Be A Fool](https://open.spotify.com/album/1IVQNLAsFmahMc8r10feQB) | 3:26 | 2020-12-07 | 2021-04-17 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-16 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/0f5oefcDaN8RCIZrVJa8Q7) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/2sse1UJ2m1BwZ243r8duR7) | 4:54 | 2021-05-29 | 2021-06-12 |
-| [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-04-15 |  |
+| [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-04-15 | 2022-10-14 |
+| [Don't Know How to Girlfriend](https://open.spotify.com/track/3V85ifdF1As9rpzJl0m916) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 3:01 | 2022-10-07 |  |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-05-03 | 2021-05-29 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2022-01-07 | 2022-02-12 |
 | [Don't You Want Me](https://open.spotify.com/track/38X5UR1bKeg85ocjyPNAcl) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Celine Autumn](https://open.spotify.com/artist/6Pp0HjTuD5G0IfcHXqpusQ) | [Don't You Want Me](https://open.spotify.com/album/2eg78jugnXfoMypTi5fpus) | 3:33 | 2022-06-24 |  |
@@ -714,7 +716,8 @@
 | [Same Place](https://open.spotify.com/track/67OFPtLYDiUqYVBihtfTUN) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Same Place](https://open.spotify.com/album/6qet6MfndKK4w0pBVsLduU) | 3:41 | 2022-03-04 | 2022-06-04 |
 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 | 2022-03-11 | 2022-03-26 |
 | [Sarasota](https://open.spotify.com/track/4Ho8wIkfHfTKVXuoHZxvTE) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sarasota](https://open.spotify.com/album/3HVKSq7jlAFdGoZjxc3tp5) | 2:55 | 2022-04-01 | 2022-04-09 |
-| [Satellite](https://open.spotify.com/track/6kG8HRKKUAmhYVybHuumQs) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/3BiFlyltCdmuo1z2Yjf85R) | 3:04 | 2022-05-13 |  |
+| [Satellite](https://open.spotify.com/track/6kG8HRKKUAmhYVybHuumQs) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/3BiFlyltCdmuo1z2Yjf85R) | 3:04 | 2022-05-13 | 2022-10-14 |
+| [Satellite](https://open.spotify.com/track/7GB1amheHeYKw6Kqeatn9Q) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 3:04 | 2022-10-07 |  |
 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 | 2022-04-22 |  |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-05-15 | 2021-06-27 |
 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2020-10-29\* | 2020-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,049 likes - 99 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,074 likes - 99 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 38 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 |
 | 39 | [True Patriot Love](https://open.spotify.com/track/0IaYpkm0UInrmPsX0VY6IX) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC), [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [The Window Inn Sessions](https://open.spotify.com/album/5QrNXKz7lvIiz5BQGFsVln) | 4:01 |
 | 40 | [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 |
-| 41 | [Pools](https://open.spotify.com/track/10InixTBQl9PbBSpcWw3bL) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/5CfxWwzHgJCjGhxweCDeNn) | 3:49 |
+| 41 | [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 |
 | 42 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 |
 | 43 | [Safe Flight \- Acoustic](https://open.spotify.com/track/2e8vuU33xtWNOPtPzCcDJa) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Safe Flight \(Acoustic\)](https://open.spotify.com/album/5oIF7vKLlB1trWhyCKIeul) | 3:59 |
 | 44 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 98 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 |
 | 99 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGFhYjQ2Zjc2ZDJhMmM5Y2JlZjU3ZGE5NWY3ODNjZjZj`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDk5YmVjNGMwZmY5NzhhYTExNTNhOWQ0ZTcxY2QwOWYx`

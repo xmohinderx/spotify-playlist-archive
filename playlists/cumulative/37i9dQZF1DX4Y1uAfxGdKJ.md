@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-77 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
+81 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dangerous Thing](https://open.spotify.com/track/1XvuCcjK1Q3R8e0U2axlet) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [Dangerous Thing](https://open.spotify.com/album/6drNv63YJsrNEu9dS96TaI) | 3:13 | 2022-09-23 |  |
 | [Day to Day](https://open.spotify.com/track/6GsMZvIYPA1ZZT2Cf9hnUE) | [Robbert Hek](https://open.spotify.com/artist/5pCyrXY4JPw6EmwayVDhOK) | [Day to Day](https://open.spotify.com/album/1tB3DosWrTXSnQb11a3wms) | 3:16 | 2022-09-23 |  |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2022-09-23 |  |
+| [destined](https://open.spotify.com/track/6cHARzJkr12k7Tido9BdCZ) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [destined](https://open.spotify.com/album/2QnVkxR2azevRsD95iQXdO) | 3:18 | 2022-10-14 |  |
 | [Determination](https://open.spotify.com/track/3Xxt0tIwZXTAdVGTysU5uy) | [Guille Bianchetti](https://open.spotify.com/artist/3JqwtW5C92SUeX85A9DrRy) | [Determination](https://open.spotify.com/album/71Zr1m0srLoB48UBBMoQ30) | 4:42 | 2022-09-23 |  |
 | [DoNe WIth U](https://open.spotify.com/track/0eLSVeBu5fdxT4W0k316OK) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [DoNe WIth U](https://open.spotify.com/album/2KBV2mmv8BboYNMIm2H6nl) | 3:19 | 2022-09-23 |  |
 | [Dreamscape](https://open.spotify.com/track/6YHhIKNyqtWN0jHqvsrf10) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Dreamscape](https://open.spotify.com/album/0zZCLYy5ZUvqgFUfp9LcVd) | 2:27 | 2022-09-23 |  |
@@ -64,9 +65,11 @@
 | [Our Time Now](https://open.spotify.com/track/2aZuFiKKYc1nA9ASa2ymwq) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Our Time Now](https://open.spotify.com/album/6KtMeqAX5259a1x3E2i1RS) | 2:15 | 2022-09-23 |  |
 | [Palm Springs](https://open.spotify.com/track/33Qvtl9E5ARA8HOxgEBX4v) | [Mason Madris](https://open.spotify.com/artist/4fJWxGIcLWTW9BGjDBy7Yo) | [Palm Springs](https://open.spotify.com/album/6LxmhD0Jkhbt8r8CcYcxBf) | 3:50 | 2022-09-23 |  |
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-09-23 |  |
+| [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-09-23 |  |
 | [Pós Sol](https://open.spotify.com/track/2bbPnvi0OaViwKNEG0DnPC) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb) | [Pós Sol](https://open.spotify.com/album/7h2mvg8UNNs3TPl0hxgPBj) | 2:30 | 2022-09-23 |  |
 | [Reactor 7](https://open.spotify.com/track/0KEd7iWaVQLQgDOv4uZhci) | [Martin Spiske](https://open.spotify.com/artist/10ERqJV744ZtavyVoA7bIO) | [Reactor 7](https://open.spotify.com/album/0zzYTZxje2FEO9ta0ZvygS) | 2:56 | 2022-09-23 |  |
+| [Rude](https://open.spotify.com/track/28LJlaqXAzbuvrdUtmRA5X) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Rude](https://open.spotify.com/album/55OM6ZMuUjcEwDprTSesjl) | 2:47 | 2022-10-14 |  |
 | [Runaway](https://open.spotify.com/track/5jjCspZaeMpClv7S1H3a8E) | [Lombauer](https://open.spotify.com/artist/1xYnhHUchQSdNUiAFj1UFI) | [Runaway](https://open.spotify.com/album/3sOxykiyJjLNSiohhvL9hb) | 2:59 | 2022-09-23 |  |
 | [Running through Fire](https://open.spotify.com/track/6D4T0BRng7TOuoBvHCBAj5) | [Hercules' Revenge](https://open.spotify.com/artist/4qO1Q1xGNK6sczpkc2qoX7) | [Running through Fire](https://open.spotify.com/album/1hlKwTiR9SsrKiLzo1dxSl) | 3:17 | 2022-09-23 |  |
 | [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 | 2022-10-07 |  |
@@ -85,5 +88,6 @@
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2022-09-23 |  |
 | [Wut](https://open.spotify.com/track/1dlNlopZwjwqb6orJH1MKC) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [Wut](https://open.spotify.com/album/1D9FIFbNkvp0dPN8CuKLKB) | 4:03 | 2022-10-07 |  |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-09-23 |  |
+| [young forever](https://open.spotify.com/track/6rZZ516aVPn9QslltPSXNj) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [young forever](https://open.spotify.com/album/1OMIXz6JW4f6YARoyd1guV) | 2:14 | 2022-10-14 |  |
 
 \*This playlist was first scraped on 2022-09-23. Prior content cannot be recovered.

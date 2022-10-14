@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-157 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+159 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Call You Right Now](https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Call You Right Now](https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56) | 3:03 | 2020-12-07 |  |
 | [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 | 2020-12-07 |  |
 | [Calvaire](https://open.spotify.com/track/3KzDBZYfyIPYadSYwrQkPL) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/0lLMXOCjwCQsqCE0VNBnQa) | 1:57 | 2020-12-07 | 2022-07-29 |
-| [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2020-12-07 |  |
+| [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2020-12-07 | 2022-10-14 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2020-12-07 | 2022-07-29 |
+| [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 | 2020-12-07 |  |
 | [Cat Girls Are Ruining My Life!](https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Cat Girls Are Ruining My Life!](https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW) | 1:37 | 2020-12-07 |  |
 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 | 2020-12-07 |  |
 | [Catching Eyes](https://open.spotify.com/track/3LJ7dXJzZ2umb3Ccsuq5fT) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/66SXZvXGSD2NEtFSos2HtB) | 4:09 | 2020-12-07 | 2022-07-29 |
@@ -87,7 +88,8 @@
 | [moonlight](https://open.spotify.com/track/4d83gRvk3DHU5cWBbyOlSk) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [moonlight](https://open.spotify.com/album/2Y4AKgysqTSdKQOAHv2B52) | 2:39 | 2020-12-07 | 2022-07-29 |
 | [Morbid Mind](https://open.spotify.com/track/7g729lW7Fcm3knbVp5VzPG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Morbid Mind](https://open.spotify.com/album/3BP6lUwl9Hw1ewnjpDeO2I) | 2:16 | 2020-12-07 | 2022-07-29 |
 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 | 2020-12-07 |  |
-| [Morning](https://open.spotify.com/track/1xPYXQ677AtLALqqQM8jVR) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/73eZyoV82Ht3Z884QL1q6J) | 4:01 | 2020-12-07 |  |
+| [Morning](https://open.spotify.com/track/1ZOInA89l84oYwjac57Nzs) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/3i7N47m8fan34AmuBzzSbf) | 4:01 | 2020-12-07 |  |
+| [Morning](https://open.spotify.com/track/1xPYXQ677AtLALqqQM8jVR) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/73eZyoV82Ht3Z884QL1q6J) | 4:01 | 2020-12-07 | 2022-10-14 |
 | [My Mind Is a Maze](https://open.spotify.com/track/2P4qoMmSqElFcI7GYaPLwf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Dumb Daze](https://open.spotify.com/album/1XhSLcdqiYIsjMjc0zPsUa) | 2:26 | 2020-12-07 |  |
 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 | 2020-12-07 |  |
 | [NARCOTICS](https://open.spotify.com/track/3NsY2xR20MN1VvefwD4yvg) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [NARCOTICS](https://open.spotify.com/album/1FEMGb4AMOkv2ct5H3QZge) | 2:21 | 2020-12-07 |  |

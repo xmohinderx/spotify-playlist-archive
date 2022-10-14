@@ -1,15 +1,15 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 8995,
+  "num_followers": 9078,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGRiMzBjZTJmMmRiMTk3OGIwMDRhN2VkYjRlN2NmNmQ4",
+  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMDEzNGNmZjUyMWFmYTJhN2FkOTY2YTU4NGNmY2FmN2Y4",
   "tracks": [
     {
-      "added_at": "2022-10-13 01:22:17",
+      "added_at": "2022-10-14 01:31:39",
       "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 81101,
+      "name": "OVERZONE",
+      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
+    },
+    {
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
-        "name": "HORIZON : THE MIXTAPE",
-        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 81101,
-      "name": "OVERZONE",
-      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     },
     {
       "added_at": "2022-10-04 14:56:03",
@@ -857,6 +857,26 @@
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
     },
     {
+      "added_at": "2022-10-14 01:31:39",
+      "album": {
+        "name": "Be there",
+        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
+      },
+      "artists": [
+        {
+          "name": "DAVII",
+          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "Be there",
+      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
+    },
+    {
       "added_at": "2022-10-04 14:56:03",
       "album": {
         "name": "VELVETMOTH",
@@ -957,26 +977,6 @@
       "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
-      "added_at": "2022-10-13 01:22:17",
-      "album": {
-        "name": "Be there",
-        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
-      },
-      "artists": [
-        {
-          "name": "DAVII",
-          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
-        },
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "Be there",
-      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
-    },
-    {
       "added_at": "2022-10-04 14:56:03",
       "album": {
         "name": "TAKE",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "Change (feat. sogumm)",
+      "url": "https://open.spotify.com/track/5SVyk4OuhHUPg7uCAOB37f"
+    },
+    {
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
         "name": "Dawn Call",
         "url": "https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX"
       },
@@ -1059,22 +1079,6 @@
       "duration_ms": 193844,
       "name": "Dawn Call",
       "url": "https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

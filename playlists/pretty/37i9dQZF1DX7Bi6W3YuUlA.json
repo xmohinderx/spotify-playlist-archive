@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 3046,
+  "num_followers": 3057,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGE2MzE1ZDVkZTQyMWQ3NWJlNTg0ZWYyYjlkYzcwYjAz",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGY5MTAzZGZiZGRhNWQwMWI0YjJlOWU0YjBiMWQ2NTJh",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
-      },
-      "artists": [
-        {
-          "name": "Wauve",
-          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
-        }
-      ],
-      "duration_ms": 202549,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Still 40 Deep",
         "url": "https://open.spotify.com/album/55WJJhhkdRw4V3JKCPfz5b"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "burn for u",
-        "url": "https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
       },
       "artists": [
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+          "name": "Wauve",
+          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
         }
       ],
-      "duration_ms": 125566,
-      "name": "burn for u",
-      "url": "https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh"
+      "duration_ms": 202549,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -783,6 +767,22 @@
       "duration_ms": 163170,
       "name": "WHAT A DAY",
       "url": "https://open.spotify.com/track/4gWoygRy7vI1Hxs99fymb3"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "burn for u",
+        "url": "https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 125566,
+      "name": "burn for u",
+      "url": "https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "W.Y.T",
-        "url": "https://open.spotify.com/album/3H00Le4VfBmEkuflSsXIXw"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "W.Y.T",
-      "url": "https://open.spotify.com/track/1jLjRrZd9FM3y5g3NfjlsB"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Not for Sale",
         "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 222916,
       "name": "1994 (feat. Aaron Cole)",
       "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "W.Y.T",
+        "url": "https://open.spotify.com/album/3H00Le4VfBmEkuflSsXIXw"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "W.Y.T",
+      "url": "https://open.spotify.com/track/1jLjRrZd9FM3y5g3NfjlsB"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Hit the Refresh",
-        "url": "https://open.spotify.com/album/0l5NTBFkeI8tizJsiD9nQW"
-      },
-      "artists": [
-        {
-          "name": "Voices of Fire",
-          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
-        }
-      ],
-      "duration_ms": 275121,
-      "name": "Hit the Refresh",
-      "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/17kgXPWtd9Km3qeZjjovrD"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 226031,
       "name": "WATER 4 ME (feat. Not Klyde, Parris Chariz)",
       "url": "https://open.spotify.com/track/6kgt5uW1TRJW4FSgL44WBe"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Hit the Refresh",
+        "url": "https://open.spotify.com/album/0l5NTBFkeI8tizJsiD9nQW"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        }
+      ],
+      "duration_ms": 275121,
+      "name": "Hit the Refresh",
+      "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "ABOVE ME (feat. Parris Chariz)",
-        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "ABOVE ME (feat. Parris Chariz)",
-      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "MAKE IT MAKE SENSE",
         "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
       },
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "ABOVE ME (feat. Parris Chariz)",
+        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "ABOVE ME (feat. Parris Chariz)",
+      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Accelerate",
-        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
+        "name": "All Is True",
+        "url": "https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs"
       },
       "artists": [
         {
           "name": "Steven Malcolm",
           "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 127409,
-      "name": "Accelerate",
-      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
+      "duration_ms": 196056,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1707,6 +1703,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Only U Forever",
+        "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "ONLY U (feat. Terrian)",
+      "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Little Longer",
         "url": "https://open.spotify.com/album/6N6y7ags2X6ZQPXJuAH3PC"
       },
@@ -1743,26 +1759,6 @@
       "duration_ms": 161101,
       "name": "i'm back",
       "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Only U Forever",
-        "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "ONLY U (feat. Terrian)",
-      "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1811,18 +1807,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "All Is True",
-        "url": "https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs"
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
       },
       "artists": [
         {
           "name": "Steven Malcolm",
           "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 196056,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
+      "duration_ms": 127409,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
     },
     {
       "added_at": "2022-05-28 19:29:54",

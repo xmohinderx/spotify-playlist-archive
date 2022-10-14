@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\. Cover Bree Runway
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,992 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,001 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 16 | [Game Over](https://open.spotify.com/track/1dZW33lY36vkumMm5F5RrD) | [Synae](https://open.spotify.com/artist/3Q2nENhSwAYt3rP6LZUoIq) | [Game Over](https://open.spotify.com/album/40xnM71tlIZ299GruGToGD) | 2:20 |
 | 17 | [Nothing More To Say](https://open.spotify.com/track/6AZeqOMQc0S7gpnmPJ34ao) | [N:Fostell](https://open.spotify.com/artist/4ligbK5FWMxDPjFrC6x47g), [Jenna Bennett](https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC) | [Nothing More To Say](https://open.spotify.com/album/4juVV3OmMLrOF4fe3gniQ0) | 3:24 |
 | 18 | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/track/23fvPXabTlaUn9zkDb9XU5) | [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/album/4lA6xtiJILqi8VCSc6YXc6) | 3:21 |
-| 19 | [Pissed Black Girl](https://open.spotify.com/track/3gpvNLzrHy0iIQj5kKBt5T) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/0YkjOg7NOJGypT2bHK1rjA) | 3:25 |
+| 19 | [Pissed Black Girl](https://open.spotify.com/track/5SbFDvlgHmNcG8QkaZKG5I) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/0TaL8kqF5xhhA6XYcpqLOM) | 3:25 |
 | 20 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 21 | [Younger](https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ) | [Kayla Thompson](https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3) | [Younger](https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF) | 3:32 |
 | 22 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 79 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 |
 | 80 | [Deep End](https://open.spotify.com/track/6HlE9t71z9DjGi7KqSyEpA) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Deep End](https://open.spotify.com/album/2HICqd0ltMKNrkhfmWSuKy) | 2:21 |
 
-Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMGNiNTJhNzdkZjVlNmJiM2ZmNDI3NmZiMDM5NDZkNjBj`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMGE3NjRhNjMyZTAxYjAyZWJkNDM4YWU4ZjIzZTZmZjA1`

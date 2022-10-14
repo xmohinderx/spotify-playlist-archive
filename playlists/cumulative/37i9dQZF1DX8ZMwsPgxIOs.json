@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Chlo\u00e9 Robinson & DJ ADHD",
+  "description": "Techno is a state of mind. Cover: TIBASKO",
   "name": "Techno State",
   "published_playlist_ids": [
     "5s19c9YN7LAmpSImXIMXhT"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 365007,
       "name": "Amber Rush",
       "url": "https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt"
+    },
+    {
+      "album": {
+        "name": "Apollo EP",
+        "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420684,
+      "name": "Apollo - Original Mix",
+      "url": "https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN"
     },
     {
       "album": {
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 469612,
       "name": "Asura",
       "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
@@ -192,6 +210,32 @@
     },
     {
       "album": {
+        "name": "Blind Date",
+        "url": "https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "ABRA",
+          "url": "https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245820,
+      "name": "Blind Date",
+      "url": "https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm"
+    },
+    {
+      "album": {
         "name": "Blue Dub",
         "url": "https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3"
       },
@@ -261,7 +305,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 393043,
       "name": "Body Journey",
       "url": "https://open.spotify.com/track/2Jjsjc6jeTzZ8JxaFQe8Fa"
@@ -434,6 +478,24 @@
     },
     {
       "album": {
+        "name": "CreM",
+        "url": "https://open.spotify.com/album/7tiJtcAnAunUcAwAlhVgLE"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302308,
+      "name": "CreM",
+      "url": "https://open.spotify.com/track/23kgh3nWUAAikuLRgxNLnk"
+    },
+    {
+      "album": {
         "name": "Crimson Arch",
         "url": "https://open.spotify.com/album/0BPMNld8mBFvWzuyj48v9y"
       },
@@ -517,7 +579,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 235200,
       "name": "Diffusus",
       "url": "https://open.spotify.com/track/4FLZkM2KJn8kj5A4J03ooQ"
@@ -560,6 +622,46 @@
     },
     {
       "album": {
+        "name": "Echo Chamber",
+        "url": "https://open.spotify.com/album/6yWWXwR7sxdL94rdikCdFR"
+      },
+      "artists": [
+        {
+          "name": "Mount Palomar",
+          "url": "https://open.spotify.com/artist/3MF81jbkfVMeJdxo56JCz6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266759,
+      "name": "Echo Chamber",
+      "url": "https://open.spotify.com/track/2E1ijRRSltbxCervdfmWVI"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0hJYEV2KnUi2QH2WrtOoUF"
+      },
+      "artists": [
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        },
+        {
+          "name": "OC & Verde",
+          "url": "https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263157,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/1ddH3uRnJ2MCcAC2HzoDeI"
+    },
+    {
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7IORW83Ti6pe4dxhoWBID4"
       },
@@ -575,7 +677,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 263157,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2AOBG21RTF5xxBfYqtEgWi"
@@ -615,6 +717,24 @@
       "duration_ms": 318360,
       "name": "Eternity Of Echoes",
       "url": "https://open.spotify.com/track/2mOjpdh47Q42fQYAYMWGTN"
+    },
+    {
+      "album": {
+        "name": "Eva's Stoned",
+        "url": "https://open.spotify.com/album/3nrzfqIiLa33hA8B71Fkw0"
+      },
+      "artists": [
+        {
+          "name": "Jay Carder",
+          "url": "https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385573,
+      "name": "Eva's Stoned",
+      "url": "https://open.spotify.com/track/4gPzO5yFrDxHe6obIAIOq3"
     },
     {
       "album": {
@@ -843,7 +963,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 338605,
       "name": "Glasgow Kiss",
       "url": "https://open.spotify.com/track/6Keuzqp7zLRAja3OpE4IbQ"
@@ -973,7 +1093,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 255000,
       "name": "Icaro",
       "url": "https://open.spotify.com/track/6JNNe1WA9uv8lj1Aee19tY"
@@ -1071,7 +1191,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 217500,
       "name": "Keep The Body Dancing - Spatial Awareness Remix (EDIT)",
       "url": "https://open.spotify.com/track/7wHK1wnd7wEelsDMm3OyuI"
@@ -1262,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Apollo EP",
+        "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392709,
+      "name": "Missing Channel - Original Mix",
+      "url": "https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ"
+    },
+    {
+      "album": {
         "name": "Morning Glow (Edit)",
         "url": "https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF"
       },
@@ -1370,6 +1508,32 @@
     },
     {
       "album": {
+        "name": "060",
+        "url": "https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        },
+        {
+          "name": "Anunaku",
+          "url": "https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ"
+        },
+        {
+          "name": "A+A",
+          "url": "https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403172,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55"
+    },
+    {
+      "album": {
         "name": "Not That Girl Anymore",
         "url": "https://open.spotify.com/album/6ca0yKkyrn5cN6vi3vbjoV"
       },
@@ -1443,7 +1607,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 319141,
       "name": "One Nation - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/6Cj1pP80GBY8UOn8hsCA2D"
@@ -1675,10 +1839,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 276000,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/4aYWokfaB9rypoUzg8d1Cq"
+    },
+    {
+      "album": {
+        "name": "Red Sky",
+        "url": "https://open.spotify.com/album/2Oz5O25E8HxRr9zmRgFjj9"
+      },
+      "artists": [
+        {
+          "name": "Pearson Sound",
+          "url": "https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471377,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/7oEWZNifk5RQqwVIsjUuH4"
     },
     {
       "album": {
@@ -1726,6 +1908,24 @@
     },
     {
       "album": {
+        "name": "Robots Are Forever",
+        "url": "https://open.spotify.com/album/3g58qUg9LrO4pqV4G5EnCd"
+      },
+      "artists": [
+        {
+          "name": "AK SPORTS",
+          "url": "https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293522,
+      "name": "Robots Are Forever",
+      "url": "https://open.spotify.com/track/35A4h9B0a9c1QTWLwRORW0"
+    },
+    {
+      "album": {
         "name": "Rock With Me",
         "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
       },
@@ -1737,7 +1937,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 205696,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah"
@@ -1861,6 +2061,24 @@
       "duration_ms": 203371,
       "name": "Speed Trials On Acid (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
+    },
+    {
+      "album": {
+        "name": "Spread Love",
+        "url": "https://open.spotify.com/album/0Tx4Knu8JDLJNXmScBf0KN"
+      },
+      "artists": [
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172558,
+      "name": "Spread Love",
+      "url": "https://open.spotify.com/track/0ejrSEMYTaKg8ui2uCAzaQ"
     },
     {
       "album": {
@@ -1999,7 +2217,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 382487,
       "name": "Sweat Sonic",
       "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
@@ -2061,6 +2279,50 @@
       "duration_ms": 428170,
       "name": "The Future",
       "url": "https://open.spotify.com/track/3MZHllv4rhpBnoOSoD1Mqe"
+    },
+    {
+      "album": {
+        "name": "tibasko",
+        "url": "https://open.spotify.com/album/3PlPv5OzpGsqBpjtFB38U9"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173504,
+      "name": "The Limit",
+      "url": "https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb"
+    },
+    {
+      "album": {
+        "name": "Scope",
+        "url": "https://open.spotify.com/album/2ONpgHZIJCwAzc39hhKtai"
+      },
+      "artists": [
+        {
+          "name": "Hammer",
+          "url": "https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0"
+        },
+        {
+          "name": "Dart",
+          "url": "https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj"
+        },
+        {
+          "name": "Maruwa",
+          "url": "https://open.spotify.com/artist/6jvVhsNfiC1BXMtZHKpgHF"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402913,
+      "name": "Tint - Maruwa Remix",
+      "url": "https://open.spotify.com/track/7nVZzzSoWG9v51zDsVSEyh"
     },
     {
       "album": {
@@ -2205,7 +2467,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 308589,
       "name": "Une Amie",
       "url": "https://open.spotify.com/track/6URaccFadHXkmY2hfzcwsk"
@@ -2387,7 +2649,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 341356,
       "name": "Woohman",
       "url": "https://open.spotify.com/track/06MM3ZN5HKR3cBoNneLwsJ"
@@ -2449,7 +2711,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 265455,
       "name": "You Think Too Much",
       "url": "https://open.spotify.com/track/4oFu3g6aVXSowKQX0TSnO6"

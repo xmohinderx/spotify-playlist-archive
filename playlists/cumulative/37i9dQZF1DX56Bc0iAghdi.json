@@ -121,7 +121,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 235236,
       "name": "Celebrate Life",
       "url": "https://open.spotify.com/track/7qoJwPYtnQUEmltftJc7Id"
@@ -375,6 +375,28 @@
       "duration_ms": 294200,
       "name": "Forever on Your Side (with JOHNNYSWIM)",
       "url": "https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2"
+    },
+    {
+      "album": {
+        "name": "From the Roof (feat. YB)",
+        "url": "https://open.spotify.com/album/7MxN9VOPa5nVdX7eHQYMe0"
+      },
+      "artists": [
+        {
+          "name": "Quinten Coblentz",
+          "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
+        },
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2019-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "From the Roof (feat. YB)",
+      "url": "https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j"
     },
     {
       "album": {

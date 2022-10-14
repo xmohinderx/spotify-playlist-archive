@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-76 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
+78 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Noble Metals](https://open.spotify.com/track/5jf20rikIBhQmhApETtfCv) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Noble Metals](https://open.spotify.com/album/0KS1uMeRpJNDNNSjlJf7a3) | 3:32 | 2022-10-10 |  |
 | [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN) | 3:40 | 2021-10-15 |  |
 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 | 2021-10-15 |  |
-| [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2021-10-15 |  |
+| [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2021-10-15 | 2022-10-14 |
 | [Porcelain](https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:01 | 2021-10-15 | 2022-07-29 |
+| [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 | 2022-10-10 |  |
 | [Rebirth of Cool](https://open.spotify.com/track/4aNsaULjrRRMUPXP9IcDEa) | [DJ Cam Quartet](https://open.spotify.com/artist/0DkOD427BCfr11yQVvfqU9) | [Rebirth of Cool](https://open.spotify.com/album/4Qs2QGM0QfiQnnQwc032Z1) | 4:59 | 2021-10-15 |  |
 | [Runnin' \- Extended](https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2) | [Visioneers](https://open.spotify.com/artist/1PjrwJuTm8jNItVJ1GDrrD) | [Marc Mac presents Visioneers \- Dirty Old Hip Hop](https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW) | 4:06 | 2021-10-15 |  |
 | [Sandra](https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo) | [Black Mantra](https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5) | [VXNTX VXNTX](https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l) | 3:11 | 2022-10-10 |  |
@@ -72,7 +73,8 @@
 | [The Traitor](https://open.spotify.com/track/1bZH8L8V2m454tdcSPEIl7) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 2:42 | 2021-10-15 |  |
 | [The World \(Is Going Up in Flames\) \- Instrumental](https://open.spotify.com/track/7dBvMFSY8mABXn4Cmq4y5g) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL) | 3:23 | 2021-10-15 |  |
 | [They Who Flock](https://open.spotify.com/track/0YsSp6pd4xxtFFCfIKHCql) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Spur Momento Trailer EP](https://open.spotify.com/album/0PpPWCaycXbHkqZP7uAHy0) | 5:29 | 2021-10-15 | 2022-10-11 |
-| [This Girl \- Instrumental](https://open.spotify.com/track/01zGD4HoAR90snBfA0yMCu) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(Special Edition\)](https://open.spotify.com/album/4Fan1WsiMLAtgeycJNvzs4) | 4:01 | 2021-10-15 |  |
+| [This Girl \- Instrumental](https://open.spotify.com/track/01zGD4HoAR90snBfA0yMCu) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(Special Edition\)](https://open.spotify.com/album/4Fan1WsiMLAtgeycJNvzs4) | 4:01 | 2021-10-15 | 2022-10-14 |
+| [This Girl \- Instrumental](https://open.spotify.com/track/5i7UCAOx9N6F6LIuVtEpRP) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(Special Edition\)](https://open.spotify.com/album/5cHvz35TwKvzmdald8wL8E) | 4:01 | 2022-10-10 |  |
 | [U Can Get It](https://open.spotify.com/track/7hgCSM590WO7HC02mgnXvh) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times EP](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 4:28 | 2021-10-15 |  |
 | [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 | 2021-10-15 |  |
 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 | 2021-10-15 |  |

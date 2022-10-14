@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-160 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+161 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Sinking Deep](https://open.spotify.com/track/3QntQwzIBV704yqCHLLmyH) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 4:07 | 2022-07-01 |  |
 | [Someone Like Me](https://open.spotify.com/track/5xp9busHkdxMlmlKObfH12) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Someone Like Me](https://open.spotify.com/album/0T4LAUwTj5aClzpGfJAqNc) | 3:38 | 2022-10-05 |  |
 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 | 2022-03-03 |  |
+| [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 | 2022-10-13 |  |
 | [STAND](https://open.spotify.com/track/4rfTrDO6FLuzFITLOPcPSI) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [STAND](https://open.spotify.com/album/2IZtfQ894BXutm1JNqrdYV) | 3:23 | 2022-02-17 | 2022-08-27 |
 | [STAND](https://open.spotify.com/track/3bzXihTa8HE1ur27mAsZKP) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [STAND](https://open.spotify.com/album/0A41vxoBwFcukvVcBzWBI2) | 3:23 | 2022-02-17 |  |
 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 | 2022-02-17 | 2022-08-27 |

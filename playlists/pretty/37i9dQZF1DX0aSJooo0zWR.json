@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 162144,
+  "num_followers": 162234,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDRlYmZiMDI1NTZkNmQzOTJmMmE0ZDhmMWZhNmYyOTNl",
+  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDA1MTcwNjVkNGExY2RhODVjODdkNDE3ZTkyY2Y4YTkx",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -416,7 +416,7 @@
       },
       "artists": [
         {
-          "name": "Tauk",
+          "name": "TAUK",
           "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
         }
       ],
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
+      },
+      "artists": [
+        {
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
+    },
+    {
       "added_at": "2021-05-07 04:01:00",
       "album": {
         "name": "One More !!?!??",
@@ -543,22 +559,6 @@
       "duration_ms": 248174,
       "name": "One More !!?!??",
       "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 209276,
       "name": "Core",
       "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Vtt2",
-        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
-      },
-      "artists": [
-        {
-          "name": "Vital Techtones",
-          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Opuntia",
@@ -947,6 +931,22 @@
       "duration_ms": 242000,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Vtt2",
+        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
+      },
+      "artists": [
+        {
+          "name": "Vital Techtones",
+          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1029,30 +1029,6 @@
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Maiden Voyage",
-        "url": "https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Alphonso Johnson",
-          "url": "https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU"
-        },
-        {
-          "name": "Land Richards",
-          "url": "https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84"
-        }
-      ],
-      "duration_ms": 401652,
-      "name": "Maiden Voyage",
-      "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
-    },
-    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1089,20 +1065,44 @@
       "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-07-22 04:02:00",
       "album": {
-        "name": "A Present For The Future",
-        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
+        "name": "Maiden Voyage",
+        "url": "https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M"
       },
       "artists": [
         {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Alphonso Johnson",
+          "url": "https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU"
+        },
+        {
+          "name": "Land Richards",
+          "url": "https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84"
         }
       ],
-      "duration_ms": 551733,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
+      "duration_ms": 401652,
+      "name": "Maiden Voyage",
+      "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+        "name": "A Present For The Future",
+        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
         }
       ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+      "duration_ms": 551733,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1309,58 +1309,6 @@
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "I Promise",
-        "url": "https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ"
-      },
-      "artists": [
-        {
-          "name": "Ragawerk",
-          "url": "https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON"
-        },
-        {
-          "name": "Max Clouth",
-          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
-        }
-      ],
-      "duration_ms": 344506,
-      "name": "I Promise",
-      "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Now You See It ... (Now You Don't)",
-        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Escher Sketch (A Tale Of Two Rhythms)",
-      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
-    },
-    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Legacy",
@@ -1379,6 +1327,58 @@
       "duration_ms": 356243,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Now You See It ... (Now You Don't)",
+        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Escher Sketch (A Tale Of Two Rhythms)",
+      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
+      },
+      "artists": [
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ"
+      },
+      "artists": [
+        {
+          "name": "Ragawerk",
+          "url": "https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON"
+        },
+        {
+          "name": "Max Clouth",
+          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
+        }
+      ],
+      "duration_ms": 344506,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
     },
     {
       "added_at": "2021-02-12 00:49:35",

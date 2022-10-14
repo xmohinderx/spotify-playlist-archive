@@ -1889,7 +1889,7 @@
     {
       "album": {
         "name": "JoJo's Rockin' Christmas",
-        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
+        "url": "https://open.spotify.com/album/5OK4C8RKMEDrTKuN6YKrOC"
       },
       "artists": [
         {
@@ -1900,6 +1900,24 @@
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 134408,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/3KJqPXNUgeCxaaLI2cSLRQ"
+    },
+    {
+      "album": {
+        "name": "JoJo's Rockin' Christmas",
+        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 134408,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E"

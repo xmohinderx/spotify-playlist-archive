@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Spoils",
+        "url": "https://open.spotify.com/album/6k5ksX8Bwr3gVGq4VtadyG"
+      },
+      "artists": [
+        {
+          "name": "j^p^n",
+          "url": "https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104150,
+      "name": "Amend",
+      "url": "https://open.spotify.com/track/7LOR8Rdc5n2EkduOXZeTp6"
+    },
+    {
+      "album": {
         "name": "animal crossing ~ new horizons lofi",
         "url": "https://open.spotify.com/album/0z0eXgUqLEI4SxJt30cU33"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Lee Ann Womack",
-  "num_followers": 553623,
+  "num_followers": 554043,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcwMjc0OSwwMDAwMDAwMDQ2ODhjMDBkZjA4NmM2OGM0M2MzNDAyZWYwZDM1Mzgw",
+  "snapshot_id": "MTY1ODcwMjc0OSwwMDAwMDAwMDFhYmMwODljNmY2OGJhZTE5MDJjODUyZjcwNzQwMzVk",
   "tracks": [
     {
       "added_at": "2022-07-24 22:45:48",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+      "duration_ms": 201106,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 201106,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 231920,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 343496,
-      "name": "Travelin' Soldier",
-      "url": "https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 242733,
       "name": "Drive (For Daddy Gene)",
       "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 343496,
+      "name": "Travelin' Soldier",
+      "url": "https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+        "name": "Man With A Memory",
+        "url": "https://open.spotify.com/album/1IgWZ4xGJQwzQbUvob3f92"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
         }
       ],
-      "duration_ms": 335333,
-      "name": "I Love This Bar",
-      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
+      "duration_ms": 230360,
+      "name": "Brokenheartsville",
+      "url": "https://open.spotify.com/track/0WB48shl2wAH4KqyQkQ8nJ"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Man With A Memory",
-        "url": "https://open.spotify.com/album/1IgWZ4xGJQwzQbUvob3f92"
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
       "artists": [
         {
-          "name": "Joe Nichols",
-          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Brokenheartsville",
-      "url": "https://open.spotify.com/track/0WB48shl2wAH4KqyQkQ8nJ"
+      "duration_ms": 335333,
+      "name": "I Love This Bar",
+      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Paint Me A Birmingham",
-      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Living Hard",
         "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 242946,
       "name": "Watching Airplanes",
       "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Paint Me A Birmingham",
+      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "It Won't Be Like This For Long",
-      "url": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Up! (Green Version)",
         "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 269400,
       "name": "I'm Gonna Getcha Good",
       "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "It Won't Be Like This For Long",
+      "url": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Chris Cagle",
-        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
-      },
-      "artists": [
-        {
-          "name": "Chris Cagle",
-          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Chicks Dig It - Single Edit",
-      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 170813,
       "name": "Boots On",
       "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Chris Cagle",
+        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
+      },
+      "artists": [
+        {
+          "name": "Chris Cagle",
+          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Chicks Dig It - Single Edit",
+      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
     },
     {
       "added_at": "2022-07-24 22:45:48",

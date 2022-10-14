@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,822 likes - 71 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,776 likes - 71 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 32 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 |
 | 33 | [Christmas Wrapping](https://open.spotify.com/track/6pq23eiUqcB8WogaPqtaXB) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2h0VfPEhVcpcQdAWja6amX) | 3:13 |
 | 34 | [Mistletoe \- Recorded at Electric Lady Studios NYC.](https://open.spotify.com/track/7vW6JovXotgbToBedYaznx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Mistletoe \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/album/3RztE1FplfDqTSZu9oE9Ps) | 3:04 |
-| 35 | [Silent Night \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ncaQoSxuTsEQbkDRc9sIs) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Silent Night \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/0rEnMdmj2xSV3E3G2bt0Rt) | 4:23 |
+| 35 | [Silent Night \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6VfL1VmTLZDVtTbxWMvmtj) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Silent Night \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/3HLtBaCRyg6J3Axd585iWS) | 4:23 |
 | 36 | [Let It Snow, Let It Snow, Let It Snow \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/24FPj1NfigHBf140kTbdS8) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Let It Snow, Let It Snow, Let It Snow \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/1DOMHyCgzUoAeaz2JZB5OH) | 2:14 |
 | 37 | [Make It Jingle \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1IYH6s2qo2RHjtH3ILO5MB) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0ybmEyT3DY9ZucUieIP7IV) | 3:17 |
 | 38 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 70 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 71 | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/track/2jB9jrpggKxSvymiWXM2pz) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [B.B\. Bones](https://open.spotify.com/artist/61QhyKKCq2VbbWRgFLlD6B) | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU) | 2:43 |
 
-Snapshot ID: `MTYzOTU0NDQwMCwwMDAwMDAwMDU1ZmRlZmJlYmRiZmQzODJjMzEwMDVlNjI0MzU2NDNm`
+Snapshot ID: `MTYzOTU0NDQwMCwwMDAwMDAwMGJmODU5MjA0NmZmMzk5YWY4MGI5OTUxNTFmZGE2MTky`

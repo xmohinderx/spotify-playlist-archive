@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,697 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,671 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 30 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 |
 | 31 | [Medication \(demo\)](https://open.spotify.com/track/6JQXhEiM8CuOUghiDmFRm3) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Medication \(demo\)](https://open.spotify.com/album/0CiScWsTD9BO0B7dtjU5sk) | 3:21 |
 | 32 | [JOY \(Not Sure What I'm Going Through\)](https://open.spotify.com/track/1uy6RVUC2Qb70rlrmr9ZFh) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Human Again](https://open.spotify.com/album/2aiablb9OlYooQGVNylgid) | 3:17 |
-| 33 | [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 |
+| 33 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 |
 | 34 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 |
 | 35 | [nobody but me \- postcards version](https://open.spotify.com/track/2vreSdaWBoscTQeeVi4YnP) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV), [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [nobody but me \(postcards version\)](https://open.spotify.com/album/2VAfLuYhx74BFVcH68X3f9) | 3:15 |
 | 36 | [Helios](https://open.spotify.com/track/5ZhqfB6GDAi5g5bQmPacli) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [A.W.A](https://open.spotify.com/artist/6J8FZOUaWFW8rEdCG3RDjZ) | [Helios](https://open.spotify.com/album/6zoKcY9fsgqCBVYoRKydv8) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
 | 80 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 
-Snapshot ID: `MTY2MDkyMTkyNCwwMDAwMDAwMDc1NmY3YThiNjk0OWIzNTkwMTJiOTViNjMwZWMxYjA5`
+Snapshot ID: `MTY2MDkyMTkyNCwwMDAwMDAwMGRhMDA3MjgyMmI2MmZlNjgwNDk5YmZhNzY1ZGM3MzUy`

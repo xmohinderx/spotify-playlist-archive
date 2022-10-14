@@ -4,7 +4,7 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-72 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/13en7Orf0L2LROM0phnA8F)
+73 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/13en7Orf0L2LROM0phnA8F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,13 @@
 | [DEFIANT ORDER](https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 3:41 | 2021-10-22 |  |
 | [Defiant Order \- Orignal Mix](https://open.spotify.com/track/4eyaNZGe1fJ6UDqJdxquqI) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order EP](https://open.spotify.com/album/0Hqvo8eP1Kov1dxTkL7bwY) | 3:43 | 2021-10-22 | 2022-07-29 |
 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 | 2021-10-22 |  |
+| [Do You Feel The Same?](https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [The Feast Of The Broken Heart](https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH) | 4:41 | 2021-10-22 |  |
 | [Do You Feel The Same?](https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [The Feast Of The Broken Heart](https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th) | 4:41 | 2021-10-22 | 2022-07-29 |
 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:47 | 2021-10-22 | 2022-07-29 |
 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 | 2021-10-22 |  |
 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/40PQvC2BjFlPQRB2bMUDqs) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Fantasy Girl](https://open.spotify.com/album/1JeuP73XhGYm89uqMxi4kF) | 7:02 | 2021-10-22 | 2022-07-29 |
 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 | 2021-10-22 |  |
-| [Firecracker](https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/2DSRpIJMFmV2cEUxGq2N2H) | 6:31 | 2021-10-22 |  |
+| [Firecracker](https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/2DSRpIJMFmV2cEUxGq2N2H) | 6:31 | 2021-10-22 | 2022-10-14 |
 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 | 2021-10-22 |  |
 | [Himmel & Hoelle](https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew) | [Thomas P\. Heckmann](https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m) | [Electronic Body Music](https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec) | 7:24 | 2021-10-22 |  |
 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 | 2021-10-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Julinho Ksd entra na zona. ",
+  "description": "ProfJam entra na zona. ",
   "name": "Na Zona",
   "published_playlist_ids": [
     "22ncssGshPQaFSB3hgligM"
@@ -298,6 +298,24 @@
     },
     {
       "album": {
+        "name": "AZTECA",
+        "url": "https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151972,
+      "name": "AZTECA",
+      "url": "https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx"
+    },
+    {
+      "album": {
         "name": "BAL4DA 2UM CAR0XO",
         "url": "https://open.spotify.com/album/0Y2hXrh13HOLu6lh30chRo"
       },
@@ -503,6 +521,28 @@
       "duration_ms": 130966,
       "name": "Casado Com A Vit\u00f3ria",
       "url": "https://open.spotify.com/track/53QlEnbQ27ngYXnGz9s6kb"
+    },
+    {
+      "album": {
+        "name": "Chauffeur",
+        "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
+      },
+      "artists": [
+        {
+          "name": "Regula",
+          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266279,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
     },
     {
       "album": {
@@ -799,7 +839,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 252936,
       "name": "Errado Ou Certo",
       "url": "https://open.spotify.com/track/25mjzt2zSXWSMgOwliEaVW"
@@ -1046,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6SHG5fLpeFLKiMERSwkSWu"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192232,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0K5qOmqrJa7tk2RxE0sZxw"
+    },
+    {
+      "album": {
         "name": "GOD MODE",
         "url": "https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf"
       },
@@ -1274,7 +1332,7 @@
         },
         {
           "name": "LZ",
-          "url": "https://open.spotify.com/artist/5HPJiHxebHdqOuei6LpFgh"
+          "url": "https://open.spotify.com/artist/5tIZgTkR5MAt3bX0NzzDlc"
         },
         {
           "name": "Hoss",
@@ -1819,7 +1877,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 172800,
       "name": "Peso",
       "url": "https://open.spotify.com/track/0jqh2tqBk2MSTP3E16ns2E"
@@ -1957,7 +2015,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 178337,
       "name": "Pull Up na C",
       "url": "https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE"
@@ -2052,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "Vida Rockstar",
+        "url": "https://open.spotify.com/album/47PidTvTpM253ecxT58EF3"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Rockstar Shit",
+      "url": "https://open.spotify.com/track/55dHzXldRhyknlMCNSlxZS"
+    },
+    {
+      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -2129,6 +2205,28 @@
       "duration_ms": 178991,
       "name": "Shin Chan",
       "url": "https://open.spotify.com/track/5RD8mlX4m6jRGgiW1BYU6h"
+    },
+    {
+      "album": {
+        "name": "Show na Opp Block",
+        "url": "https://open.spotify.com/album/3PTprPo8KoDCotmzwU4PsB"
+      },
+      "artists": [
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96060,
+      "name": "Show na Opp Block",
+      "url": "https://open.spotify.com/track/2E4BSZJJMKevs0Vqn129T2"
     },
     {
       "album": {
@@ -2263,7 +2361,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
@@ -2311,6 +2409,28 @@
       "duration_ms": 185254,
       "name": "Tirar Bilhete",
       "url": "https://open.spotify.com/track/3lq7iyMDvegqcMcSi3qAlI"
+    },
+    {
+      "album": {
+        "name": "Toque",
+        "url": "https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        },
+        {
+          "name": "Cunha Beats",
+          "url": "https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196179,
+      "name": "Toque",
+      "url": "https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx"
     },
     {
       "album": {
@@ -2453,7 +2573,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 163404,
       "name": "WINNER",
       "url": "https://open.spotify.com/track/2UkcmJbpicpLOVxDLgU9Pl"

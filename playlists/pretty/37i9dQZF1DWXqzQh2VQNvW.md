@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,359 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,405 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 72 | [Invisible](https://open.spotify.com/track/0YTd0e23mpFKNXd9JA9OBv) | [Ryder James](https://open.spotify.com/artist/2DaMc4JNZLk2qPRDNXIk6Q) | [Invisible](https://open.spotify.com/album/32O1iaeWbvtXX9JTYmhkOA) | 3:20 |
 | 73 | [WAKEUPNEXT2U](https://open.spotify.com/track/0QQIwU7QxB2lfXYvm3JA4A) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [WAKEUPNEXT2U](https://open.spotify.com/album/2yiE8oVwt7RNsVEg9IQdAz) | 2:23 |
 | 74 | [Blessings](https://open.spotify.com/track/54hWxzuJd16U6zYPM8KI7b) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Blessings](https://open.spotify.com/album/21w847NRJxT2RaYk7ekYUx) | 3:20 |
-| 75 | [Addicted to Losing You](https://open.spotify.com/track/3H0zg6Ds3b54ogapWxya7Q) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/5vW820SQTJNhpuzQJhR1eo) | 2:29 |
+| 75 | [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 |
 | 76 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
 | 77 | [Hands On You](https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj) | 2:35 |
 | 78 | [Cabo Wobble](https://open.spotify.com/track/5dScNtNEqGAXVvf20GOaP2) | [Tequila Mockingbrd](https://open.spotify.com/artist/1Fjwun3NqhzH0wuorC38SO) | [Cabo Wobble](https://open.spotify.com/album/6qcdYfnnoLLhqRVny9lwuB) | 2:08 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 90 | [Things Changed](https://open.spotify.com/track/2Yte4JdWO3y8diS3EIlDgX) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Things Changed](https://open.spotify.com/album/1U7YDj8Ir8NT5JoSFMpY0Y) | 3:05 |
 | 91 | [The Letter](https://open.spotify.com/track/2MOoSTYPGJhxIzC5DXXom6) | [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [The Letter](https://open.spotify.com/album/36BE8MfyawempfNotMIvq6) | 3:41 |
 | 92 | [Bubblegum Brain](https://open.spotify.com/track/0tnrzDRY7YsSSsODQPYMA7) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Bubblegum Brain](https://open.spotify.com/album/4985gUhIoo5qBThtKpDXeu) | 2:22 |
-| 93 | [Northern Towns](https://open.spotify.com/track/6mDhfhAYl4FdNZIhQNq5yf) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/6cFbP9PdYmUSyCU8ezsIUK) | 2:56 |
+| 93 | [Northern Towns](https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8) | 2:56 |
 | 94 | [Fuck Up the Friendship](https://open.spotify.com/track/1ddKUwm3UuvcMWLLAgOIcX) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Fuck Up the Friendship](https://open.spotify.com/album/6OYKLdkagNi7b1cANWVAMg) | 2:52 |
 | 95 | [Why Can't You Love Me Now](https://open.spotify.com/track/104LG5z9LVvErMHYMhFks4) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Why Can't You Love Me Now](https://open.spotify.com/album/7IkGQqLHEe1pr2wqgQcCnA) | 3:32 |
 | 96 | [I Need Love](https://open.spotify.com/track/7m9sGc7Hc1g3NbBENi1PMa) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [There's Only Being Yourself](https://open.spotify.com/album/39M0gBqg32iFT5unERsKXv) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Late Night Flex](https://open.spotify.com/track/274ccIgOpacE5urw0k3Z3i) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Late Night Flex](https://open.spotify.com/album/6PqDwtH3QmMsZIRP0WJbiN) | 2:36 |
 | 100 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDQ3NjU5NGZjZTBmZWNiOTJhZjdiMmY3YTI0OGJjOTdi`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDEyNjE1ZGVjNDY5MTdkOTkyYTEzM2IxYmFhZmVmMWU3`

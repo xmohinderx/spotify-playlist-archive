@@ -449,7 +449,7 @@
     {
       "album": {
         "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
@@ -460,6 +460,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
@@ -911,6 +929,24 @@
     {
       "album": {
         "name": "Hope It Hurts You",
+        "url": "https://open.spotify.com/album/1RuUagBpjWf4K4r13ZBmGp"
+      },
+      "artists": [
+        {
+          "name": "Daisy Clark",
+          "url": "https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227958,
+      "name": "Hope It Hurts You",
+      "url": "https://open.spotify.com/track/4v5YxnilyEdntIZVfNVYJi"
+    },
+    {
+      "album": {
+        "name": "Hope It Hurts You",
         "url": "https://open.spotify.com/album/1dcCeMxT5OzEHTaor778jp"
       },
       "artists": [
@@ -939,7 +975,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 227958,
       "name": "Hope It Hurts You",
       "url": "https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V"
@@ -1162,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "How Come You Sleep (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn"
+      },
+      "artists": [
+        {
+          "name": "Michael Baker",
+          "url": "https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242033,
+      "name": "Lightly Looms - 7\" Version",
+      "url": "https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO"
+    },
+    {
+      "album": {
         "name": "Lightly Looms (7\" Version)",
         "url": "https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc"
       },
@@ -1173,7 +1227,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 242033,
       "name": "Lightly Looms - 7\" Version",
       "url": "https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs"

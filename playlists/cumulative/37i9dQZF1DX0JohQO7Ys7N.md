@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE?si=K80DPqPTTe\-OVydeyfGsQA">Wanja Wohoro</a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=C3rtUPBVSzu3\_6IMDtPpjQ">Nikita Kering</a>
 
-100 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+101 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Nimetii](https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Nimetii](https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R) | 2:55 | 2021-12-28 |  |
 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 | 2021-12-28 | 2022-09-29 |
 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 |  |
+| [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 |  |
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-12-28 | 2022-08-19 |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 |  |
 | [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 | 2021-12-28 |  |
@@ -92,7 +93,7 @@
 | [sorry it didn't work out](https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:29 | 2022-03-31 |  |
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 | 2022-10-09 |
 | [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 |  |
-| [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 |  |
+| [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 | 2022-10-14 |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 |  |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 |  |
 | [Tender](https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Anchor](https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7) | 3:32 | 2021-12-28 | 2022-08-27 |

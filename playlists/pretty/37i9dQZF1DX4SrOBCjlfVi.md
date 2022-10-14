@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo & Takeoff, A Boogie and more\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,475 likes - 52 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,569 likes - 52 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

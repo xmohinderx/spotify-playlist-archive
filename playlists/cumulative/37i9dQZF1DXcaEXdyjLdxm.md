@@ -4,7 +4,7 @@
 
 > LGBTQQIA+ artists like you've never heard before\. Cover: DOSS
 
-72 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
+73 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 | 2021-06-14 |  |
 | [Motivation \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 3:26 | 2021-05-25 |  |
 | [My Future](https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 3:31 | 2021-05-25 |  |
-| [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:30 | 2021-05-25 |  |
+| [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/73cgpfQHxDw25IovaOjSjs) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY) | 3:30 | 2021-05-25 |  |
+| [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:30 | 2021-05-25 | 2022-10-14 |
 | [Out of Focus \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5hNR2TXslThoEgqqdDlt8F) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:30 | 2021-05-25 | 2022-07-29 |
 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1FseBXHmYLnX1XcGsQKH3j) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 5:32 | 2022-06-01 | 2022-07-29 |
 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 | 2022-06-01 |  |

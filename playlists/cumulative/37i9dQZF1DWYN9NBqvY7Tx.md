@@ -4,7 +4,7 @@
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-299 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+300 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/album/4nTGQqcsqWjwt2dpUEOrUb) | 2:39 | 2022-05-06 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2022-07-14 |  |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-05-06 |  |
+| [Ready To Fly](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2022-10-07 |  |
 | [Resonate](https://open.spotify.com/track/6rLNDssC5bnJ2l7N1aRAgu) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Resonate](https://open.spotify.com/album/0rHp6NOiy859mIIwUh0UWQ) | 3:31 | 2022-05-06 | 2022-07-28 |
 | [Reunion \(Free Fire 4th Anniversary Theme Song\) \[with Alok & Zafrir\]](https://open.spotify.com/track/45qQ4VQkG5MVbFJZXOMSs6) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [ALL WE HAVE IS N:OW](https://open.spotify.com/album/7keB6Min15oq3l7AUmHDX1) | 2:38 | 2022-05-06 | 2022-07-22 |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2022-05-06 |  |
@@ -234,7 +235,7 @@
 | [Sky High](https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Sky High](https://open.spotify.com/album/1R34FPrGkG7Q0vDJ9xCfrF) | 3:56 | 2022-07-14 |  |
 | [Slow It Down](https://open.spotify.com/track/6b6HudhUkFIvlDjyuhiEBE) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [LOUD ABOUT US!](https://open.spotify.com/artist/2dzPIX85Caa0lYCBPvzMEc) | [Slow It Down](https://open.spotify.com/album/3GZ3vwr111BXf705k8FV4f) | 3:08 | 2022-05-06 | 2022-07-29 |
 | [Somebody Like U](https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse, Pt\. I](https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb) | 3:11 | 2022-07-04 |  |
-| [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 | 2022-07-14 |  |
+| [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 | 2022-07-14 | 2022-10-14 |
 | [Someone Else](https://open.spotify.com/track/44MxUoeZg6FXDlHMrSbVjX) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Someone Else](https://open.spotify.com/album/5Q0yJFxE7xO4JuzrncIGsz) | 3:46 | 2022-05-06 | 2022-07-29 |
 | [Someone Else \- PEEKABOO Remix](https://open.spotify.com/track/1qDOI487GoDlWyvzckhzo4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Someone Else \(PEEKABOO Remix\)](https://open.spotify.com/album/1CxrLWDUvfOaKHNsKGfUQ1) | 4:16 | 2022-05-06 | 2022-05-10 |
 | [Spooky Phonk](https://open.spotify.com/track/7FNe6UNfm6JGctIPipvmUc) | [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Spooky Phonk](https://open.spotify.com/album/17EOtip2oAoZhm97NxOuWS) | 2:56 | 2022-07-14 | 2022-07-25 |

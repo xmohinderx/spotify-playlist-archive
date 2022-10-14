@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 238359,
+  "num_followers": 238597,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMGVlNmM1YWFmNWI5MmJiNWY4OTFlYjliNzllMGU1Y2E1",
+  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMGIxYTYzNzRlYTJiMGI2Y2VhOTM4YjZiMjY4ZDk2YTBj",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Welcome To The Alley",
-        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
-      },
-      "artists": [
-        {
-          "name": "Tsundere Alley",
-          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
-        }
-      ],
-      "duration_ms": 161959,
-      "name": "Like My Love",
-      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Kanji Title",
         "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 183536,
       "name": "Ganbare",
       "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Welcome To The Alley",
+        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
+      },
+      "artists": [
+        {
+          "name": "Tsundere Alley",
+          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
+        }
+      ],
+      "duration_ms": 161959,
+      "name": "Like My Love",
+      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
-      },
-      "artists": [
-        {
-          "name": "Uni Deluxe",
-          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
-        }
-      ],
-      "duration_ms": 248447,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
+      },
+      "artists": [
+        {
+          "name": "Uni Deluxe",
+          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
+        }
+      ],
+      "duration_ms": 248447,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+      },
+      "artists": [
+        {
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Sexy Times (3rd Anniversary Edition)",
         "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 225084,
       "name": "Hot Chance",
       "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Waterbed (Deluxe)",
-        "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
-      },
-      "artists": [
-        {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/0zbmRwI3Cn0aPCkVIvxQtO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
       },
       "artists": [
         {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+      "duration_ms": 195121,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/0zbmRwI3Cn0aPCkVIvxQtO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1247,22 +1247,6 @@
       "duration_ms": 170634,
       "name": "Kratos in Love",
       "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 207874,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/6RrxIc1TzDcUE0vaIYaNQL"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1299,6 +1283,38 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6RrxIc1TzDcUE0vaIYaNQL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "LORD GIVE ME ONE MORE CHANCE",
+        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
+      },
+      "artists": [
+        {
+          "name": "yuugen",
+          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
+        }
+      ],
+      "duration_ms": 120028,
+      "name": "LORD GIVE ME ONE MORE CHANCE",
+      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Orca Adventure DX",
         "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 202577,
       "name": "Get Up, Get Out",
       "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "LORD GIVE ME ONE MORE CHANCE",
-        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
-      },
-      "artists": [
-        {
-          "name": "yuugen",
-          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
-        }
-      ],
-      "duration_ms": 120028,
-      "name": "LORD GIVE ME ONE MORE CHANCE",
-      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
         }
       ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1459,6 +1459,22 @@
       "duration_ms": 173421,
       "name": "Palm Road",
       "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
-      },
-      "artists": [
-        {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Mental Geller",
         "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 348750,
       "name": "DJ BFF Slideshow",
       "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "NeoGeo FM",
-        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
-      },
-      "artists": [
-        {
-          "name": "Zai Kowen",
-          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/3QKRZ13JnLK5boY8BT4Igb"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1563,18 +1547,34 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
+        "name": "NeoGeo FM",
+        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
       },
       "artists": [
         {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+          "name": "Zai Kowen",
+          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
         }
       ],
-      "duration_ms": 303148,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
+      "duration_ms": 192005,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/3QKRZ13JnLK5boY8BT4Igb"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 164647,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
+      },
+      "artists": [
+        {
+          "name": "Versiple",
+          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+        }
+      ],
+      "duration_ms": 303148,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
     },
     {
       "added_at": "2022-09-16 04:00:00",

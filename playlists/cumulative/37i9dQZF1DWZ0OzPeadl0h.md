@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-161 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+162 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 | 2021-10-22 |  |
 | [Steady](https://open.spotify.com/track/6e9UaKOYpELuMxus8Ppi0U) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was](https://open.spotify.com/album/00okcfFlB2UGqw17Oj1jcX) | 3:28 | 2021-10-22 |  |
 | [Stick with You](https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Uranium Heart](https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6) | 2:46 | 2021-10-22 |  |
-| [Strawberries](https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE) | 3:39 | 2021-10-22 |  |
+| [Strawberries](https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE) | 3:39 | 2021-10-22 | 2022-10-14 |
+| [Strawberries](https://open.spotify.com/track/7myzdcGa6aTaXj3Wf1V55M) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/5kVRO0BveKkUX3rnQElHg0) | 3:39 | 2021-10-22 |  |
 | [Surveillance](https://open.spotify.com/track/1LNNhaCz7BaqvOIbEwWb8C) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Surveillance](https://open.spotify.com/album/3iBOmpKFGQWjLop6CxumHM) | 4:12 | 2021-10-22 | 2022-07-29 |
 | [Surveillance](https://open.spotify.com/track/29kTB4MswijKn2UOEqBQ8O) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Nowhere](https://open.spotify.com/album/09vmTSEvyaUyljpXSR1Wck) | 4:12 | 2021-10-22 |  |
 | [Sweetheart](https://open.spotify.com/track/1keP3cYUxUsn9euWC7hszc) | [Juliana Daugherty](https://open.spotify.com/artist/6VcBxr42x3G6zWOZILLDAQ) | [Light](https://open.spotify.com/album/5KXfwFLLQ5dG2Uz1HqqOUL) | 3:39 | 2021-10-22 |  |

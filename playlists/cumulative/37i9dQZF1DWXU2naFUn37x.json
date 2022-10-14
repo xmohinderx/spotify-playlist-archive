@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: N\u00e9za",
+  "description": "La casa dello street rap italiano. Cover: Neima Ezza",
   "name": "Street Culto",
   "published_playlist_ids": [
     "2xFrA1gU60YSyblsw3BI3i"
@@ -141,7 +141,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 119400,
       "name": "9.19",
       "url": "https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw"
@@ -789,6 +789,24 @@
       "duration_ms": 171958,
       "name": "Click",
       "url": "https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m"
+    },
+    {
+      "album": {
+        "name": "PAIN",
+        "url": "https://open.spotify.com/album/41grqs0jslpaOFto4UghCq"
+      },
+      "artists": [
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133671,
+      "name": "Codeina e Hash",
+      "url": "https://open.spotify.com/track/3hwYVAeQFkswkDM6lnpEBX"
     },
     {
       "album": {
@@ -2042,6 +2060,24 @@
     },
     {
       "album": {
+        "name": "PAIN",
+        "url": "https://open.spotify.com/album/41grqs0jslpaOFto4UghCq"
+      },
+      "artists": [
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154675,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/7vR3p9l16E6o0xWDTHH8EP"
+    },
+    {
+      "album": {
         "name": "Minor\u00e8",
         "url": "https://open.spotify.com/album/1qjHdrXzVMs4ielAd5IkIZ"
       },
@@ -3171,7 +3207,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 171672,
       "name": "Vita",
       "url": "https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk"

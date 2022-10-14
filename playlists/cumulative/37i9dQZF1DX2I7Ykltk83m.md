@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-287 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+290 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Alone But Not Lonely](https://open.spotify.com/track/45b6AZg2JJFKqOgYL1Rne4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Alone But Not Lonely](https://open.spotify.com/album/2IORnkfSCkRnHGIKsN0r4w) | 1:46 | 2021-11-14 | 2022-01-23 |
 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 | 2022-05-20 |  |
 | [American Beauty](https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:52 | 2021-11-14 |  |
-| [American Teenager](https://open.spotify.com/track/7CbNx8d9y7K60FONoUc82v) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 4:18 | 2022-05-20 |  |
+| [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-10-07 |  |
+| [American Teenager](https://open.spotify.com/track/7CbNx8d9y7K60FONoUc82v) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 4:18 | 2022-05-20 | 2022-10-14 |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-11-14 |  |
 | [Angelica](https://open.spotify.com/track/1QmWlI3uylUl7Je1uTtj42) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM) | 3:52 | 2022-04-01 |  |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-04-01 | 2022-04-14 |
@@ -72,6 +73,7 @@
 | [Cool Dry Place](https://open.spotify.com/track/1dHDITnfhOShBOAqyqGJnw) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/19KzfzLfugS5xEMPOVUQuv) | 5:00 | 2021-11-14 | 2022-07-29 |
 | [Cool Dry Place](https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 5:00 | 2022-05-20 |  |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-11-14 | 2022-10-13 |
+| [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2022-10-07 |  |
 | [Crying](https://open.spotify.com/track/1H41sRV3HdMgvJgABjdV7N) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Crying](https://open.spotify.com/album/5N8YHSiMsrOPQFZ1ugvkYn) | 3:09 | 2021-11-14 | 2022-07-29 |
 | [Crystal Ball](https://open.spotify.com/track/5ss3wJBeekHuiFyGKqdzhz) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [Edge Of Time](https://open.spotify.com/album/0c4suoLZVkKVYDTsXtKANs) | 4:07 | 2022-04-01 | 2022-07-17 |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2022-05-20 |  |
@@ -131,7 +133,7 @@
 | [Hypochondriac](https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK) | 3:12 | 2022-05-20 |  |
 | [Hypochondriac](https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/1DE8BoNxaCs9Fxo7KG7ZXH) | 3:12 | 2021-11-14 | 2022-07-29 |
 | [I Don't Know You Like I Used To](https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don't Know You Like I Used To](https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK) | 4:19 | 2022-04-01 |  |
-| [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-05-20 |  |
+| [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-05-20 | 2022-10-14 |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2021-11-14 | 2022-07-29 |
 | [I Don’t Have Control Sometimes](https://open.spotify.com/track/4iuyaXj8B2WPjcqqbOSMB6) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [I Don’t Have Control Sometimes](https://open.spotify.com/album/1q6sKXBOqyDL5iv1A89wqa) | 2:33 | 2022-04-15 | 2022-07-28 |
 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-14 |  |
@@ -143,6 +145,7 @@
 | [Impostor](https://open.spotify.com/track/2sRnxGuNqJupVOv4DHEnsT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Impostor](https://open.spotify.com/album/5CSWA2j8rjSQoJ2y1vYQlV) | 4:25 | 2021-11-14 | 2022-07-29 |
 | [Interstate Vision](https://open.spotify.com/track/333ynS8xzTSbeRxxodU33d) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/5ftfK29sHT2Tx7Wc3NMbqR) | 2:42 | 2021-11-14 | 2022-07-28 |
 | [Interstate Vision](https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/2ayYjy02kHqMSMKHXOLRGp) | 2:42 | 2022-05-20 |  |
+| [It Just Goes On](https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:33 | 2022-10-07 |  |
 | [It Just Goes On](https://open.spotify.com/track/2sQTFWciCwG4CgNql5aiKj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [It Just Goes On](https://open.spotify.com/album/5aXWY1KsCF76okXvdps06y) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-14 |  |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-02-11 | 2022-07-29 |
@@ -207,7 +210,7 @@
 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 | 2022-05-20 | 2022-10-08 |
 | [Realiti](https://open.spotify.com/track/7JClJ8WmR4Dz0BrwW1bwdL) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Realiti](https://open.spotify.com/album/70XDWkcp7Naoiv64surVEM) | 3:06 | 2021-11-14 | 2022-07-29 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 | 2022-10-07 |  |
-| [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2021-11-14 |  |
+| [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2021-11-14 | 2022-10-14 |
 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 | 2022-04-01 |  |
 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 | 2022-10-07 |  |
 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 | 2022-05-20 |  |

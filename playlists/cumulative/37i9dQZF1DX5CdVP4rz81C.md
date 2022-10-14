@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Noah Cyrus
 
-981 songs - 2 day 3 hr 47 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+983 songs - 2 day 3 hr 52 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Castles](https://open.spotify.com/track/7jryjMIQUKx4MasTpIZV6U) | [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [CASTLES](https://open.spotify.com/album/4BWUF7TcFeNL2AzLLm4AuS) | 3:15 | 2021-01-23 | 2021-03-06 |
 | [Catch Me](https://open.spotify.com/track/5NFr84NNaAHt5B4zK9Vouh) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [Catch Me](https://open.spotify.com/album/5WRIApjgUfv46stqPOuANm) | 2:18 | 2020-11-20 | 2020-12-18 |
 | [Catching A Dream](https://open.spotify.com/track/7yhFvfZtC4DomCU4Lpe0cr) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Catching A Dream](https://open.spotify.com/album/2dipFQRQDur8SIAkVJovBn) | 2:38 | 2021-10-23 | 2021-11-06 |
-| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-09-23 |  |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-10-07 |  |
+| [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-09-23 | 2022-10-14 |
 | [Celadon & Gold](https://open.spotify.com/track/5LID7Ihnsvi7vpbCWL4xQF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Notes from the Archive: Recordings 2011\-2016 \(With Commentary\)](https://open.spotify.com/album/2QH0Lf3W5bhCyl0VvyXBDm) | 3:11 | 2020-12-18 | 2021-02-12 |
 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 | 2020-12-18 | 2021-03-19 |
 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 | 2021-06-05 | 2021-07-31 |
@@ -769,7 +770,8 @@
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-04-29 | 2022-09-24 |
 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 | 2022-04-29 | 2022-05-28 |
 | [Sleeping On The Phone](https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy](https://open.spotify.com/album/3mSrMuAvI7GNxaxhrTx4ry) | 3:09 | 2020-11-13 | 2021-02-06 |
-| [Sleepover](https://open.spotify.com/track/1w8mRQivwx1lwFd35UoNSE) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sleepover](https://open.spotify.com/album/06mmJpExaF2lAJR5QcawJ1) | 2:27 | 2022-07-29 |  |
+| [Sleepover](https://open.spotify.com/track/1w8mRQivwx1lwFd35UoNSE) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sleepover](https://open.spotify.com/album/06mmJpExaF2lAJR5QcawJ1) | 2:27 | 2022-07-29 | 2022-10-14 |
+| [Sleepover](https://open.spotify.com/track/67aJ9ZY19vOoJwhlfAjawB) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [The Kids Table](https://open.spotify.com/album/6BUjnH6B8ZQH1CGhPT4UGJ) | 2:27 | 2022-10-07 |  |
 | [Slow Dance](https://open.spotify.com/track/3EMZe5LzhkClV2FCSmmhQC) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Slow Dance/I Don’t Wanna Do This Anymore](https://open.spotify.com/album/1jDPmKMcuSb880wZWWv5hO) | 2:57 | 2021-06-05 | 2021-08-07 |
 | [Slow Dancing](https://open.spotify.com/track/11wR9PrHL8cW9fdQOjX15L) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Slow Dancing](https://open.spotify.com/album/2bspvMUoispCtccpCLWTlq) | 4:27 | 2020-12-04 | 2021-03-06 |
 | [Slow Separation](https://open.spotify.com/track/02hJFdZllz45ysp4caZh3z) | [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Slow Separation](https://open.spotify.com/album/1Sfnsxg3EiSOxXfiVJVnyF) | 3:49 | 2021-09-25 | 2021-10-09 |

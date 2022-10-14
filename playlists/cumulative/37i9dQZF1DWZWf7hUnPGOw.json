@@ -567,10 +567,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 228280,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/63gUblwliT1NS7Eik504E2"
+    },
+    {
+      "album": {
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy"
+      },
+      "artists": [
+        {
+          "name": "Juliet Roberts",
+          "url": "https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm"
     },
     {
       "album": {
@@ -773,7 +791,7 @@
     {
       "album": {
         "name": "dawn",
-        "url": "https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV"
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
       "artists": [
         {
@@ -784,6 +802,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196480,
+      "name": "fever dream",
+      "url": "https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ"
+    },
+    {
+      "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 196480,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY"
@@ -2429,7 +2465,7 @@
     {
       "album": {
         "name": "Permanent Maniac",
-        "url": "https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS"
+        "url": "https://open.spotify.com/album/6hgC7Jlj5suK4bR4F7RYTc"
       },
       "artists": [
         {
@@ -2440,6 +2476,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191120,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0uk3W9Y15pFlwHC5xbYLcZ"
+    },
+    {
+      "album": {
+        "name": "Permanent Maniac",
+        "url": "https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS"
+      },
+      "artists": [
+        {
+          "name": "GRAE",
+          "url": "https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 191120,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3DYFO4M2ygUYpXLzSbCOOr"

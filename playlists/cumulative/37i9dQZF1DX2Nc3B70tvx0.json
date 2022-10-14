@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL"
+    },
+    {
+      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
       },
@@ -12279,7 +12297,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 423346,
       "name": "Love On The Run",
       "url": "https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf"
@@ -14919,7 +14937,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 226013,
       "name": "Orange Blood",
       "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
@@ -17719,6 +17737,24 @@
       "duration_ms": 306562,
       "name": "Slow Ready",
       "url": "https://open.spotify.com/track/19AXHJvTBkh8n9aRrlRqv6"
+    },
+    {
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
     },
     {
       "album": {

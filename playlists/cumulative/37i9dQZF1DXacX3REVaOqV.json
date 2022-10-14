@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 366940,
       "name": "Dreaming of a Disco",
       "url": "https://open.spotify.com/track/3WtXl3O0oT9eM4Izr3lcHx"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 556306,
       "name": "Envision - \u00c2me Remix",
       "url": "https://open.spotify.com/track/7IXVjnFnFsGQ21qBV3Uo1T"
@@ -1835,10 +1835,32 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 173452,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/1HuT5rVMwycqqlQVpoptou"
+    },
+    {
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/0EhaeKTqnZsIiEWP67UGbI"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173452,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i"
     },
     {
       "album": {
@@ -2681,7 +2703,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 205125,
       "name": "Live Without Your Love (with Steve Lacy)",
       "url": "https://open.spotify.com/track/3XnvNOjFKyFyNvxlXy1DXm"
@@ -2809,7 +2831,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 449039,
       "name": "Love Recycled 1",
       "url": "https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB"
@@ -2835,7 +2857,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
@@ -3471,7 +3493,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "On Da Groove",
       "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
@@ -3807,7 +3829,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 410500,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1pMvhKoPZUS2GGsXHWv4C7"
@@ -4126,6 +4148,24 @@
     },
     {
       "album": {
+        "name": "SILLAGE",
+        "url": "https://open.spotify.com/album/7KPZHgbUpEH2W8gIb6bOgX"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "SILLAGE",
+      "url": "https://open.spotify.com/track/01p0P5yMqqXmUEKS6ok1be"
+    },
+    {
+      "album": {
         "name": "Sinfonia Della Notte",
         "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
       },
@@ -4273,6 +4313,24 @@
       "duration_ms": 234007,
       "name": "So High",
       "url": "https://open.spotify.com/track/2eMLeXpn6gnx7EaDkcDnkS"
+    },
+    {
+      "album": {
+        "name": "Souljack EP",
+        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Souljack",
+      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
     },
     {
       "album": {
@@ -4865,7 +4923,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 522466,
       "name": "The Way You Love Me (feat. Marc Evans)",
       "url": "https://open.spotify.com/track/1QNjek9Ed5dLJyzEkGgYTE"
@@ -5169,7 +5227,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"

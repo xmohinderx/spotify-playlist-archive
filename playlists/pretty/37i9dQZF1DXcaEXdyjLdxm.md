@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 
 > LGBTQQIA+ artists like you've never heard before\. Cover: DOSS
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,946 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,966 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 | 33 | [Go Away \- Spotify Singles](https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:35 |
 | 34 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:07 |
 | 35 | [I'll Call You Mine \- Spotify Singles](https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:26 |
-| 36 | [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:30 |
+| 36 | [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/73cgpfQHxDw25IovaOjSjs) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY) | 3:30 |
 | 37 | [You And Your Folks, Me And My Folks \- Recorded At East West Studios](https://open.spotify.com/track/1WFPLwZLn2xrioEwiRcJBY) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK) | 4:09 |
 | 38 | [Doubt \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/3xJMcGj2CbFWm8tBOoZsst) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/0Qa7Ch1yrrx9nNxSJE9Oaf) | 3:37 |
 | 39 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 | 49 | [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 |
 | 50 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 
-Snapshot ID: `MTY2MjA2MTcyMiwwMDAwMDAwMDA4NjdkZmE2NjVlZWE4YTJhZTZjOTA3ZWNiYTE4YmFj`
+Snapshot ID: `MTY2MjA2MTcyMiwwMDAwMDAwMDc4OWRhMTllMzE0MzY1ODA5M2VkMjdhMWJmOTE2OWMy`

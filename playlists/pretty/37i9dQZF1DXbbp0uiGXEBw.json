@@ -1,13 +1,33 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: \u00c1i Ph\u01b0\u01a1ng",
-  "num_followers": 12635,
+  "num_followers": 12640,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU3NjAwMCwwMDAwMDAwMDNkNzRhODZmNmFiNTY0NWFmNDYxYWQ2ZWY1ZjkxOGEw",
+  "snapshot_id": "MTY2NTcwMzYyNiwwMDAwMDAwMDI4N2UwOWM3M2YzZDVmZGIzMTdjZTM3N2MxNGZiNjIz",
   "tracks": [
+    {
+      "added_at": "2022-10-12 12:00:00",
+      "album": {
+        "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
+        "url": "https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3c Ti\u00ean",
+          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
+        },
+        {
+          "name": "Touliver",
+          "url": "https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
+      "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
+    },
     {
       "added_at": "2022-10-12 12:00:00",
       "album": {
@@ -39,26 +59,6 @@
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
-    },
-    {
-      "added_at": "2022-10-12 12:00:00",
-      "album": {
-        "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
-        "url": "https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3c Ti\u00ean",
-          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
-        },
-        {
-          "name": "Touliver",
-          "url": "https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
-      "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
     },
     {
       "added_at": "2022-10-12 12:00:00",

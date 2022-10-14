@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-187 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/1yEsj7P9XfDpVu6i8GE8Qq)
+188 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/1yEsj7P9XfDpVu6i8GE8Qq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Same Moon](https://open.spotify.com/track/3zDNwjZ0g1LEw6XrtLOj8i) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Emma Rae](https://open.spotify.com/artist/35KYGf7QlDWTYXuFjM1Gdb) | [Same Moon](https://open.spotify.com/album/1xUEo3uD7PpGgMCdHsWdA7) | 2:35 | 2021-10-01 | 2022-07-29 |
 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2022-01-21 |  |
 | [Save Room](https://open.spotify.com/track/0MIChOB48wlAqsQUymvGfO) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Save Room](https://open.spotify.com/album/0mIvkHzNjAGG1TD46AyLRM) | 3:56 | 2021-10-01 | 2022-07-29 |
-| [Say It Now](https://open.spotify.com/track/0UkwLJL3rIop8vwAwGHjDd) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Say It Now](https://open.spotify.com/album/1eKlnFGyckKc4P06mfzJyK) | 3:23 | 2021-10-01 |  |
+| [Say It Now](https://open.spotify.com/track/0L9okesRET4xfjv1HKxFAj) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Say It Now](https://open.spotify.com/album/5271ZmrrDPu0nFOA24zp62) | 3:23 | 2022-01-21 |  |
+| [Say It Now](https://open.spotify.com/track/0UkwLJL3rIop8vwAwGHjDd) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Say It Now](https://open.spotify.com/album/1eKlnFGyckKc4P06mfzJyK) | 3:23 | 2021-10-01 | 2022-10-14 |
 | [She's Mine](https://open.spotify.com/track/3dKcdJ2gEJhlTbQUIXhbbN) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [So Much More](https://open.spotify.com/album/6DtYU4r7UWXV6NmnuKty7m) | 4:31 | 2021-10-01 | 2022-07-29 |
 | [She's Mine](https://open.spotify.com/track/5MnmTKjatNTY3BJ2DURVjE) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [So Much More \(Special Edition\)](https://open.spotify.com/album/0SEisHFLEEBvCdWMpFcqH7) | 4:32 | 2022-01-21 |  |
 | [Sing to You \- Acoustic](https://open.spotify.com/track/1pVz7AJO2UZd5ouOhoIlhS) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 3:36 | 2021-10-01 |  |

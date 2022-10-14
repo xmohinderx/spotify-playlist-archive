@@ -710,6 +710,48 @@
     },
     {
       "album": {
+        "name": "Homenaje A Beny Mor\u00e9",
+        "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Justi Barreto",
+          "url": "https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220453,
+      "name": "Pachito Ech\u00e9",
+      "url": "https://open.spotify.com/track/35KiYF3wTuoVhVYcFPWNWH"
+    },
+    {
+      "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
@@ -785,7 +827,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 197026,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/5keKepe0oMUyZcn6PVXBvV"

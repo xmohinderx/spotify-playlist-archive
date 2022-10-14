@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Our favorite R&B artists on the rise! Cover: Dylan Sinclair, JVCK JAMES and Destin Conrad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,153 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,180 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 18 | [Cherry Wine](https://open.spotify.com/track/1yGfEpb5rYRSrdEsX3RCpX) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Cherry Wine](https://open.spotify.com/album/5xm6ly6zx7KN3JqtnJXY5T) | 2:59 |
 | 19 | [Insanity \(feat\. Tone Stith\)](https://open.spotify.com/track/5Pm7c0omSn7WEezUtIqnK4) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 3:26 |
 | 20 | [Feature Me](https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:21 |
-| 21 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
+| 21 | [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 |
 | 22 | [Achy](https://open.spotify.com/track/24yW63G9CzOVKm1SRfAXmV) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:47 |
 | 23 | [Feelings 4 You](https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 4:16 |
 | 24 | [Fading Away](https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Fading Away](https://open.spotify.com/album/2tv1vYb3kL8OENATe7bRFe) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 99 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
 | 100 | [Proven \(with Rick Ross\)](https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 4:27 |
 
-Snapshot ID: `MTY2NTE2MDExMSwwMDAwMDAwMDhjZDg4YjQyNTZkMWQ2M2ExNmQ1ZjAyNTNjZTg3MGQ4`
+Snapshot ID: `MTY2NTE2MDExMSwwMDAwMDAwMDdiMWVhMTNjNDRkMDIwYzAxNmZjYzEzY2MzNmM1OTYy`

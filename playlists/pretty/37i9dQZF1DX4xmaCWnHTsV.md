@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,793 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,802 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 41 | [Hip Shakin' Mama](https://open.spotify.com/track/5cyBAPXn49iasSiD3s5pkQ) | [Jackie Lee Cochran](https://open.spotify.com/artist/78sRQCQyiHMZPGr0KnKwFU) | [Jack the Cat](https://open.spotify.com/album/7aWRApTcoSElob5X4XiJFq) | 1:52 |
 | 42 | [I Got a Rocket in My Pocket \- Remastered Single Version](https://open.spotify.com/track/3Qx5VIqbesK1ByTLuXcddr) | [Jimmy Lloyd](https://open.spotify.com/artist/1ngT1mR10aJjFgMmSF5mvB) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:19 |
 | 43 | [Pink Thunderbird](https://open.spotify.com/track/3NenvURev5mcCecxsUoWI2) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:32 |
-| 44 | [Flip flop Mama](https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Memphis Rockabilly King](https://open.spotify.com/album/2g6NmIa73CKjuMzQmzREBB) | 2:08 |
-| 45 | [Skinny Jim](https://open.spotify.com/track/07JOGpEHBICoVjcIjF4ROY) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:11 |
+| 44 | [Skinny Jim](https://open.spotify.com/track/07JOGpEHBICoVjcIjF4ROY) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:11 |
+| 45 | [Flip flop Mama](https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Memphis Rockabilly King](https://open.spotify.com/album/2g6NmIa73CKjuMzQmzREBB) | 2:08 |
 | 46 | [Hot Dog! That Made Him Mad \- Remastered](https://open.spotify.com/track/1r0qsbI9hQu5v5aSCTTqJR) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:40 |
 | 47 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 |
 | 48 | [Bottle to the Baby](https://open.spotify.com/track/2ImE4dNfy18hhApS7EwrLG) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Gone Gone Gone](https://open.spotify.com/album/7iLVv44iKgW07pWKyFJP2t) | 2:24 |
 | 49 | [Drugstore Rock'N'Roll](https://open.spotify.com/track/7HUv0He4tAmmWBDyYfyOwa) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [We Love You To Pieces](https://open.spotify.com/album/2u2Cu8Rh1SFHSQdpLljS6n) | 2:09 |
 | 50 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted](https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4) | 2:15 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDVjYWU0ZjJhOTUxZDI3YzQ3ZjE4M2YxYTQ3ZjliYjgy`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDUzMjE2MDFkMGYyNDZhMmRlOGE4YmQ3ZDQ1ZmU1OWM3`

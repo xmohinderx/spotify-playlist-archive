@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,931 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,010 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 54 | [Eu Peço Paz](https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Eu Peço Paz](https://open.spotify.com/album/5ghalgVjIzcEQfZiKbFkPk) | 5:14 |
 | 55 | [Drink Azul](https://open.spotify.com/track/6Bfk5Zu1FvwmCVx9QiTUOh) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [Daja](https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9) | [Drink Azul](https://open.spotify.com/album/5t4q2IxXCgVUcFhb8IUg9l) | 2:45 |
 | 56 | [Oh Shit](https://open.spotify.com/track/58RYmMg7AdRMJIGkLZQEx9) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Oh Shit](https://open.spotify.com/album/36iSgsN8rz5MpQSXOvBlyU) | 3:52 |
-| 57 | [Cheat Code](https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 3:00 |
-| 58 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
+| 57 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
+| 58 | [Cheat Code](https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 3:00 |
 | 59 | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R) | 3:10 |
 | 60 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 |
 
-Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDM5NWY3M2Y0MDliMzFlOWIwNzYzMTIzNjFlM2E2ZGM1`
+Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDlkNTNlZDNjMzliZTE0ZWFjN2E0OGMxYmEzZmY2Yzdm`

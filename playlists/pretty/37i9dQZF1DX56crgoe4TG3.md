@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,701 likes - 113 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,764 likes - 113 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 56 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
 | 57 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 |
 | 58 | [1979](https://open.spotify.com/track/2xq0fx3i99PG6VRc4EDc7B) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:05 |
-| 59 | [Let Your Love Flow](https://open.spotify.com/track/7jupT6wzegD9jbY4lbfb6O) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 2:57 |
+| 59 | [Let Your Love Flow](https://open.spotify.com/track/4BNKLzaOKJp2NhnoDQVOhJ) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7) | 2:57 |
 | 60 | [Can't Find My Way Home](https://open.spotify.com/track/4xdDEEwhHySDL7KOjxe01T) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Can't Find My Way Home](https://open.spotify.com/album/05vQAuF4CXNNXkuJNRQseN) | 3:32 |
 | 61 | [My Love \(Live\)](https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw) | [Humming House](https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK) | [Humming House Party! \(Live\)](https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k) | 4:38 |
 | 62 | [Down Under](https://open.spotify.com/track/4ghmwqS5ipMJjmiJwKsugt) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/6rwHXOhNQXHfE0KRvL84rZ) | 4:43 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 75 | [The Way You Make Me Feel](https://open.spotify.com/track/11q3nuWgsWqcrlyiJHUanA) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 3:13 |
 | 76 | [Lord I Hope this Day is Good](https://open.spotify.com/track/4CTuygl7hPgqMBzBJVbVeF) | [Jr\. Williams](https://open.spotify.com/artist/7gbMaxGvHM6QoxQ4qAAolE) | [Lord I Hope this Day is Good](https://open.spotify.com/album/2pyRpAC7Hws68qo393hkp2) | 3:50 |
 | 77 | [Senor \(Tales Of Yankee Power\)](https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Red On Blonde](https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj) | 4:02 |
-| 78 | [Somebody to Love](https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:42 |
+| 78 | [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 |
 | 79 | [Olympia, WA](https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:19 |
 | 80 | [Pursuit of Happiness](https://open.spotify.com/track/1geAoz2QzafYdcLYTTlCzB) | [Honeybucket](https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e) | [Stompin' Grounds](https://open.spotify.com/album/0PwVhOH4LzW48zVN6bisFz) | 3:33 |
 | 81 | [Billie Jean](https://open.spotify.com/track/5B4aDOvZnl4A9JYBYAksIl) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 4:45 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 112 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 | 113 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDJlYzMzN2VhYTVhZjVlMDhlOGU3NWIwYWFiM2FlYmZl`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGY4ZmZkM2Y1NTI1YTJjYjFiMTk4NzMzMTg3MGVlMWIz`

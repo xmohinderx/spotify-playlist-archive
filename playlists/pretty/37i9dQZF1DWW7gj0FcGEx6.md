@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,420 likes - 109 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,541 likes - 109 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 17 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/4WbSUuY31KdjUOmnmANNUi) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/3EfF0Ull4AIq98w5Em5XMa) | 3:52 |
 | 18 | [What Lies Ahead](https://open.spotify.com/track/7LyHmHqI6t5rpi2BDSlO0M) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 13 \- Flux \(Original Television Soundtrack\)](https://open.spotify.com/album/6QkKL4MKiahk0WnAKqMkze) | 3:32 |
 | 19 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opening for "Exception" / oxygen \[from "Exception" Soundtrack\]](https://open.spotify.com/album/4n6KyU61hys0riXmvIQMYs) | 3:48 |
-| 20 | [Aelis Arrives \- from the Amazon Original Movie "Catherine Called Birdy"](https://open.spotify.com/track/2YrgBuGgNZNYJZ6aQpXIfY) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Aelis Arrives \(from the Amazon Original Movie "Catherine Called Birdy"\)](https://open.spotify.com/album/3nCRIjQiYn1IzVAE4YZhzc) | 1:55 |
+| 20 | [Aelis Arrives \- from the Amazon Original Movie "Catherine Called Birdy"](https://open.spotify.com/track/0Go1pDClKbn8J3wW4kEIxL) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Catherine Called Birdy \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13XZ1YxWguloTwHYXjcskB) | 1:55 |
 | 21 | [Clothes From Miss Mabel \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/0rfaeL0QdlX5xMUjlPVTeD) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Where The Crawdads Sing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lQ5wsZNHhqbj3yZJ9wzD0) | 1:38 |
 | 22 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 |
 | 23 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 108 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 | 109 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDVhZmRjZjhlNTFkNmFkNTFjZGNhZGQ4OGNmMjQ5OWU0`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGU2ZTY3MmFiYjcwNGJmODNmOTEyZmZmMDc3MTk4YWI2`

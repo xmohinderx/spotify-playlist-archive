@@ -1,15 +1,15 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 39165,
+  "num_followers": 39176,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NTk3MDYsMDAwMDAwMDBlYmI5OTQzNDgzODI3MWMzNjM1MmVkNzljYjA3MDcxNQ==",
+  "snapshot_id": "Mjc3NjExMjQsMDAwMDAwMDAyZGI0ZTJlMWE1ZWJlYjgxZjllZTY0YjdjMjk5NWQ2OA==",
   "tracks": [
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3GfZdJBB1cAbjSEIj3kraY"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -105,23 +105,7 @@
       "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 184671,
-      "name": "To Be Young (Is to Be Sad, Is to Be High)",
-      "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
-    },
-    {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Ashes & Fire",
         "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 184671,
+      "name": "To Be Young (Is to Be Sad, Is to Be High)",
+      "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
+    },
+    {
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/68jGLpiDK7ZZ13RR8AEm1o"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7az6ZEVsbsD9gwIo4VNLsI"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
@@ -297,71 +297,7 @@
       "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
-    },
-    {
-      "added_at": "2022-10-12 13:46:47",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 192732,
-      "name": "My Winding Wheel",
-      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
-    },
-    {
-      "added_at": "2022-10-12 13:46:47",
-      "album": {
-        "name": "FM",
-        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Fantasy File",
-      "url": "https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll"
-    },
-    {
-      "added_at": "2022-10-12 13:46:47",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 235120,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
-    },
-    {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -377,7 +313,71 @@
       "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 192732,
+      "name": "My Winding Wheel",
+      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
+    },
+    {
+      "added_at": "2022-10-13 13:24:33",
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Fantasy File",
+      "url": "https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll"
+    },
+    {
+      "added_at": "2022-10-13 13:24:33",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 235120,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
+    },
+    {
+      "added_at": "2022-10-13 13:24:33",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
+    },
+    {
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/23gqNeMwhNIDeO7ZJhe7ab"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Rock N Roll",
         "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/3QWPzWOjko5dm8k0OHQxk8"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Chris",
         "url": "https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Ashes & Fire",
         "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -761,23 +761,7 @@
       "url": "https://open.spotify.com/track/3p2ebzditSdXjW7uJjISyA"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi"
-    },
-    {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
@@ -793,7 +777,23 @@
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
     },
     {
-      "added_at": "2022-10-12 13:46:47",
+      "added_at": "2022-10-13 13:24:33",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi"
+    },
+    {
+      "added_at": "2022-10-13 13:24:33",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"

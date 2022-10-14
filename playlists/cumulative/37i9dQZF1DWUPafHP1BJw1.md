@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-138 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
+139 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Break My Heart \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1dTjB9y2xJke2FwVCCVEwa) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Break My Heart \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/1jUuXQfOc3JjZrsEidfGOH) | 3:35 | 2021-11-19 |  |
 | [Butter](https://open.spotify.com/track/535WnJgwiRvQ7uig5fbr7C) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 1](https://open.spotify.com/album/6La6D0hm5BAJt7Ce6OOoFr) | 2:45 | 2021-11-19 |  |
 | [Chandelier](https://open.spotify.com/track/5A51C7Ank2IRW0TmhYkeoK) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 3:35 | 2021-11-19 |  |
+| [Chasing Cars](https://open.spotify.com/track/0QVVV1dbJybtFEDwWndsxC) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/0pJfpfWc8YB4HXg89wmMA3) | 3:22 | 2022-10-07 |  |
 | [Chasing Cars](https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/2LoVzdkeY8B3oSbgS7Xmpq) | 3:22 | 2021-11-19 | 2022-07-29 |
-| [Chasing Cars](https://open.spotify.com/track/6YQcHXmPKwghGkWUZdKPDG) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/5PQfgKvAKCS4UodD41FAfb) | 3:22 | 2022-07-08 |  |
+| [Chasing Cars](https://open.spotify.com/track/6YQcHXmPKwghGkWUZdKPDG) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/5PQfgKvAKCS4UodD41FAfb) | 3:22 | 2022-07-08 | 2022-10-14 |
 | [Crazy in Love](https://open.spotify.com/track/6fh2YS29IrmW1yCHMlTDTM) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Novö Piano](https://open.spotify.com/album/21wMUhXhWLew2zsWQhlYEM) | 3:52 | 2021-11-19 | 2022-05-07 |
 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 | 2021-11-19 |  |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-30 |  |

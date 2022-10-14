@@ -3020,7 +3020,7 @@
       "artists": [
         {
           "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX"
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
         }
       ],
       "date_added": "2022-07-29",
@@ -4119,7 +4119,7 @@
     {
       "album": {
         "name": "Kauai",
-        "url": "https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy"
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
       "artists": [
         {
@@ -4130,6 +4130,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 252026,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W"
@@ -4411,10 +4429,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 160659,
       "name": "striptease",
       "url": "https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co"
+    },
+    {
+      "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "album": {

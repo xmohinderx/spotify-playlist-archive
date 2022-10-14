@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 59894,
+  "num_followers": 59898,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjAyNiwwMDAwMDAwMDI1MWZiODRkZjA4ZjRiNWQ1MDU4OTNmMmVmZDAyNmUx",
+  "snapshot_id": "MTY2NDI2MjAyNiwwMDAwMDAwMDdlYTQ4MGFiYjY5NjlmZTJiZTBjNDAzN2YzMjM3ODlm",
   "tracks": [
     {
       "added_at": "2022-09-27 07:00:26",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
-        "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 329000,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
+        "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
       },
       "artists": [
         {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
         }
       ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 264360,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "Away In a Manger",
-        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
-      },
-      "artists": [
-        {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
-        }
-      ],
-      "duration_ms": 69541,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -507,22 +527,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Merry Christmas from Jos\u00e9 James",
         "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
@@ -535,6 +539,22 @@
       "duration_ms": 178066,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -571,6 +591,22 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
         "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
@@ -587,18 +623,22 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Fred Waring & The Pennsylvanians",
+          "url": "https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC"
         }
       ],
-      "duration_ms": 169506,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
+      "duration_ms": 185626,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -651,6 +691,22 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 275745,
+      "name": "Angels We Have Heard on High / Joy to the World",
+      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -663,22 +719,6 @@
       "duration_ms": 166666,
       "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
       "url": "https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -699,18 +739,18 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Joe Pass - Six String Santa",
-        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
       "artists": [
         {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 275745,
-      "name": "Angels We Have Heard on High / Joy to the World",
-      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
+      "duration_ms": 220133,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -747,22 +787,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Billy Eckstine Sings",
         "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
       },
@@ -775,6 +799,22 @@
       "duration_ms": 185293,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -807,26 +847,6 @@
       "duration_ms": 213889,
       "name": "Make Me a Present of You",
       "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -891,26 +911,6 @@
       "duration_ms": 204600,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "XMAS",
-        "url": "https://open.spotify.com/album/07gcCXuyT2NDA7LrmKPTz7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Fred Waring & The Pennsylvanians",
-          "url": "https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "The Little Drummer Boy",
-      "url": "https://open.spotify.com/track/5rVzhhZwZpclUXEp0V16TQ"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -987,6 +987,26 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        },
+        {
+          "name": "Clayton-Hamilton Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "Have Yourself a Soulful Little Christmas",
         "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 290493,
       "name": "What Are You Doing New Year's Eve?",
       "url": "https://open.spotify.com/track/3nr5SzU7pt0IvNCvk7m4np"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        },
-        {
-          "name": "Clayton-Hamilton Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee"
     },
     {
       "added_at": "2022-09-27 07:00:26",

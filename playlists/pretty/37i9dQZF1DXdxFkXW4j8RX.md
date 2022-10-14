@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,959 likes - 101 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,977 likes - 101 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 68 | [Rebelión de Octubre](https://open.spotify.com/track/18KlviWQU3bDCVDWCVdZXb) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [MC Millaray](https://open.spotify.com/artist/3BMneIOFMaeXTeJwv1ZtK9) | [Rebelión de Octubre](https://open.spotify.com/album/1UNMUP2Bx2bj6GxbxnPYCs) | 4:07 |
 | 69 | [Diferencias](https://open.spotify.com/track/5a7NsvPZfNYT5dy95jtUvP) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [Diferencias](https://open.spotify.com/album/0HTX4n45ScuS7grtSJ16zs) | 3:34 |
 | 70 | [Fyah Burning](https://open.spotify.com/track/5qo2QBgpqst3cHZyNSu2YJ) | [Subwoffer](https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm), [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Boombap Monsters](https://open.spotify.com/album/6u7OHw5roQlvYRrDx4tPWL) | 3:09 |
-| 71 | [Laberinto](https://open.spotify.com/track/3SVsaWSOdbVQNVPENhoeSr) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s) | [Laberinto](https://open.spotify.com/album/1L2ZnFigtkQROEaHkp1ixu) | 2:08 |
+| 71 | [Laberinto](https://open.spotify.com/track/3T1mSEsNK8OgUTx5xkOzUP) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s) | [Laberinto](https://open.spotify.com/album/5J3SwZ3xkDUpyCAWtVIewx) | 2:08 |
 | 72 | [Ellos Solo Querían un Cambio](https://open.spotify.com/track/1m5cCjpljuBCJGtBubCTc3) | [Claudio Bastardo](https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx), [Vicho en la guitarra](https://open.spotify.com/artist/1QDhwaOE3Bnyx7kIMldXSu), [Bvddy](https://open.spotify.com/artist/1taunYFi2h4r5JwFb0y1Uq), [Anv Hysteria](https://open.spotify.com/artist/0RL1HrLaQ3dRSvt1TsErGp) | [Ellos Solo Querían un Cambio](https://open.spotify.com/album/4FX682Py6xrtm4PcSdzbj6) | 2:43 |
 | 73 | [Felicidad](https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54) | 3:12 |
 | 74 | [Tiempo De Reflexionar \(Quédate En Casa\)](https://open.spotify.com/track/1IDxNCpFVk0pdRm6OLAEeR) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Hip Hope](https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld) | 2:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 100 | [Cactus Jack \(Crema Lirical \#4\)](https://open.spotify.com/track/11KJuoeSk4CaobzFOWEMiI) | [Claudio Bastardo](https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx), [Chicho Beats](https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL) | [Cactus Jack \(Crema Lirical \#4\)](https://open.spotify.com/album/6jg2M7GCI3E5GQyjHGWi6n) | 2:41 |
 | 101 | [Trascender](https://open.spotify.com/track/2h2Ffv9DGFRL3qHdTmSh4e) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [Trascender](https://open.spotify.com/album/5z8swern7Agc4LXq0X4t8H) | 3:27 |
 
-Snapshot ID: `MTY2NTA3MTc0OCwwMDAwMDAwMGUzNzM0Nzg5ZTM1YjZhMjk1N2Y5YjIwNDI5NzZjZjA2`
+Snapshot ID: `MTY2NTA3MTc0OCwwMDAwMDAwMDRhNDM5MWJmYjMyZmZiM2U2MmU1MmUxN2MyZTU1M2Mw`

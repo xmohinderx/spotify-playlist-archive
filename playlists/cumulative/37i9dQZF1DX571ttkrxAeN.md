@@ -4,7 +4,7 @@
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-116 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
+118 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 | 2020-05-03 |  |
 | [Que Facil Es Hablar](https://open.spotify.com/track/2CiVK2RuaMOieFPdYacJtB) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2mmRppQCZB8ccGGUkxp0dJ) | 2:54 | 2020-05-03 | 2022-07-29 |
 | [Que Facil Es Hablar](https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw) | 2:54 | 2020-05-03 |  |
-| [Salam](https://open.spotify.com/track/79QnKnXkgvONM0Y3HlNA9K) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:24 | 2020-05-03 |  |
+| [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 | 2022-09-26 |  |
+| [Salam](https://open.spotify.com/track/79QnKnXkgvONM0Y3HlNA9K) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:24 | 2020-05-03 | 2022-10-14 |
 | [Salam](https://open.spotify.com/track/7Grw73QC2BopimbTXSbV3o) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP) | 4:24 | 2020-05-03 | 2022-07-29 |
 | [Sans Toi](https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:15 | 2020-05-03 |  |
 | [Sans toi](https://open.spotify.com/track/2TT8MHvlDdF8iIv59EkApc) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part One \- EP](https://open.spotify.com/album/6tMGm4n8cfIBK0dQw6tM1C) | 3:17 | 2020-05-03 | 2022-07-29 |
@@ -121,7 +122,8 @@
 | [Voce piccolina](https://open.spotify.com/track/7jc8hEfxUGsxcXP5zm7mZs) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0aIgYf1IsWL4KOziCsApey) | 1:43 | 2020-05-03 | 2022-07-29 |
 | [Vor í Vaglaskógi](https://open.spotify.com/track/2OdpZeTpnbqPqBrclk2pib) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:37 | 2020-05-03 |  |
 | [Wakfa](https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP) | 4:50 | 2020-05-03 | 2022-07-29 |
-| [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 | 2020-05-03 |  |
+| [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 | 2020-05-03 | 2022-10-14 |
+| [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 | 2022-09-26 |  |
 | [Woyoyoye](https://open.spotify.com/track/2xHGMQ8hEQ0jD7jUaKQGSE) | [Daby Touré](https://open.spotify.com/artist/6rbNtMkifOcNCq5aBa6L2O) | [Amonafi](https://open.spotify.com/album/2gf9G7bVlOTZOXCbSwYETN) | 2:34 | 2020-05-03 |  |
 | [Yimenda\-Papaguneray \(Turtle Song\)](https://open.spotify.com/track/4YzS8T2m9PI1suCJpiACRi) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:30 | 2020-05-03 |  |
 

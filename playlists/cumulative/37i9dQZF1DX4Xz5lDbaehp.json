@@ -507,10 +507,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi"
+    },
+    {
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
     },
     {
       "album": {
@@ -1099,10 +1117,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 208013,
       "name": "I'm So Bored",
       "url": "https://open.spotify.com/track/3FOxcASfGM5j68Op5I31d8"
+    },
+    {
+      "album": {
+        "name": "The Living End",
+        "url": "https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B"
+      },
+      "artists": [
+        {
+          "name": "Sarah and the Sundays",
+          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208013,
+      "name": "I'm So Bored",
+      "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
     },
     {
       "album": {
@@ -2179,7 +2215,7 @@
     {
       "album": {
         "name": "summer on the inside",
-        "url": "https://open.spotify.com/album/3Wl4tQlkhwDKdfZn6K0SgD"
+        "url": "https://open.spotify.com/album/4zHzMIrF7AkCcTzy8GTvBE"
       },
       "artists": [
         {
@@ -2198,6 +2234,32 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205166,
+      "name": "summer on the inside",
+      "url": "https://open.spotify.com/track/1VrS7b7ieSGQIhEauDzm7N"
+    },
+    {
+      "album": {
+        "name": "summer on the inside",
+        "url": "https://open.spotify.com/album/3Wl4tQlkhwDKdfZn6K0SgD"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Max Kaluza",
+          "url": "https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND"

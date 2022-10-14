@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,778 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,953 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 15 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 16 | [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 |
 | 17 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 |
-| 18 | [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 |
+| 18 | [Superspreader](https://open.spotify.com/track/7FaIUgTqeTJuoCJRDVsrK9) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/12u39OKDmbqClm1M5JhkHS) | 3:20 |
 | 19 | [One Step Back](https://open.spotify.com/track/0PbcYz8RagS1XubUiECkSr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [One Step Back](https://open.spotify.com/album/6IZFt0FKBjYHftD03Sfimc) | 3:34 |
 | 20 | [Drunk Crier](https://open.spotify.com/track/4wFg10eSPhxvxxJZUnYS2r) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Drunk Crier](https://open.spotify.com/album/2X0SwsSYdLgLwVQezibdyx) | 3:03 |
 | 21 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 66 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 |
 | 67 | [Bloodline](https://open.spotify.com/track/6nmPxOhrkI0hXqOWHajpE9) | [Indyah](https://open.spotify.com/artist/5JOPsHUGjo5V5yPDUurZRy) | [Bloodline](https://open.spotify.com/album/0PZUuOvDyvcOAry5XCndao) | 3:01 |
 | 68 | [Surface](https://open.spotify.com/track/4GVhluLOWE1vUZTTkNAhSP) | [pinkiscool](https://open.spotify.com/artist/7ifsYRH5zL4543bRoEKkOE) | [Surface](https://open.spotify.com/album/0hCSS2Dry6j7SeJgG8woUs) | 3:08 |
-| 69 | [Love Me Right](https://open.spotify.com/track/0knpN0bAYu21Zh1YV4bYJU) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/2pte1bb27ncC6ljxyvvMzP) | 4:19 |
+| 69 | [Love Me Right](https://open.spotify.com/track/3HwzxCloueo5NI5XLSUru4) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/4NUBd7Wpgtl44cmesmgPT9) | 4:19 |
 | 70 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
 | 71 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 |
 | 72 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 74 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 |
 | 75 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 |
 
-Snapshot ID: `MTY2Mjk2Nzc4NywwMDAwMDAwMDlhZjk4MWJkOWVmMjM2NjYzYmNhZTRjZWNjNjNmOTcy`
+Snapshot ID: `MTY2Mjk2Nzc4NywwMDAwMDAwMDdhYzAwMzJiOTU1ZGRjMTc5MzQ1NzJjYjE3NGE1ZGM5`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1SOULFIA y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9522,
+  "num_followers": 9525,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDhhNTRmZmYwMWQ4M2UzY2ZiYTc1Yjk4YmUzMjkyYjQ2",
+  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDU4MThmMzJkZWFiMjk4NjAyYzE4MzlmM2IwOGJjMjMz",
   "tracks": [
     {
       "added_at": "2022-10-05 03:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Vida Tan Bonita",
-        "url": "https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Dar y Dar",
-      "url": "https://open.spotify.com/track/07h6A732FnyXHpJWcmdd5n"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
         "name": "Romper Platos",
         "url": "https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 193750,
       "name": "Romper Platos",
       "url": "https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "Vida Tan Bonita",
+        "url": "https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Dar y Dar",
+      "url": "https://open.spotify.com/track/07h6A732FnyXHpJWcmdd5n"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Flip Flops",
-        "url": "https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "Anto Bosman",
-          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Flip Flops",
-      "url": "https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
         "name": "TYF",
         "url": "https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA"
       },
@@ -719,18 +699,22 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
+        "name": "Flip Flops",
+        "url": "https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0"
       },
       "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
         {
           "name": "Anto Bosman",
           "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
         }
       ],
-      "duration_ms": 188076,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
+      "duration_ms": 155757,
+      "name": "Flip Flops",
+      "url": "https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -755,6 +739,22 @@
       "duration_ms": 247653,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/43obEvBKQz14FjoM90fdxX"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
+      },
+      "artists": [
+        {
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
     },
     {
       "added_at": "2022-10-05 03:01:00",

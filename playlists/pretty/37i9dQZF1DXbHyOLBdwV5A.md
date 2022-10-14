@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: DJ Roger Vale, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,838 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,860 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 21 | [Me Faz Viver](https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Me Faz Viver](https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS) | 2:31 |
 | 22 | [É Assim que Eu Quero Te Adorar \(Remix\)](https://open.spotify.com/track/5rG2lehtfdwUjkAyEi6K9Z) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo) | [É Assim que Eu Quero Te Adorar \(Remix\)](https://open.spotify.com/album/7DId93LkqgXRhIYTE5j1KG) | 4:18 |
 | 23 | [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 |
-| 24 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
-| 25 | [Eternidade](https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z) | [DJ Natan Flexa](https://open.spotify.com/artist/4CVVXyVP5HuEtualzCId34), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Eternidade](https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7) | 3:41 |
+| 24 | [Eternidade](https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z) | [DJ Natan Flexa](https://open.spotify.com/artist/4CVVXyVP5HuEtualzCId34), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Eternidade](https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7) | 3:41 |
+| 25 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
 | 26 | [Furioso Oceano \(Remix\)](https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano \(Remix\)](https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0) | 2:22 |
 | 27 | [Viagem](https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Léo Batista](https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m) | [Viagem](https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L) | 3:09 |
 | 28 | [Loucura \- Remix](https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ) | [Loucura \(Remix\)](https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3) | 3:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Vem Incendiar Meu Coração \- Remix](https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Vem Incendiar Meu Coração \(Remix\)](https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw) | 3:48 |
 | 70 | [Balança \- AVIPA Remix](https://open.spotify.com/track/6o7hCpHBH7k2keD64G3ZF1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Diego Atalaia](https://open.spotify.com/artist/3Wrcxw6gmXzUCgKtDXmCe5), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Balança: Remixes](https://open.spotify.com/album/487SwfT2EM1BQwVhzNZSBf) | 1:45 |
 
-Snapshot ID: `MTY2NTExOTg1NiwwMDAwMDAwMDU0YTVhMDljYjI1ZjQwODE4MTEwZDNiYjM5ZWI5MDk1`
+Snapshot ID: `MTY2NTExOTg1NiwwMDAwMDAwMGJjYmRlMzQ1NDgxMjkwOTlkYmExNjY3OWEyODFkZWIw`

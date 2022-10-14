@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,380 likes - 68 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,365,336 likes - 68 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 | 50 | [All I Do Is Think Of You](https://open.spotify.com/track/5GoheMjTcV8xbbUUWchvjl) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Moving Violation](https://open.spotify.com/album/188ahHnUfbFoFoBfEmqs1i) | 3:12 |
 | 51 | [Enjoy Yourself](https://open.spotify.com/track/3D97kRhZprR6RumFhDFIr4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:21 |
 | 52 | [She's Out of My Life \- Single Version](https://open.spotify.com/track/6NGsHLZYGVAkXTFr75WWnn) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:38 |
-| 53 | [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 |
+| 53 | [The Love You Save](https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:59 |
 | 54 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
 | 55 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 56 | [Got To Be There](https://open.spotify.com/track/0fVnrbJVoP8CFPSOByBnK9) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [20th Century Masters: The Millennium Collection: Best of Michael Jackson](https://open.spotify.com/album/5cKwhK6ChXbJE77TKnOx30) | 3:25 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTIN6XNquoW.md) - [plain]
 | 67 | [This Is It](https://open.spotify.com/track/5XaOvJcyNBNXRohL3eB9dL) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 3:36 |
 | 68 | [Michael Jackson x Mark Ronson: Diamonds are Invincible](https://open.spotify.com/track/7jRs0CvNctNBNH1roANQdY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Michael Jackson x Mark Ronson: Diamonds are Invincible](https://open.spotify.com/album/6ST7naJFCe9iBeOleU5Ccu) | 5:00 |
 
-Snapshot ID: `MTY2NTU4ODc1NCwwMDAwMDAwMDk0Zjk2YzVlNTRiZTEzZDc5ZTVhZDg0N2RiMTUyOTgy`
+Snapshot ID: `MTY2NTU4ODc1NCwwMDAwMDAwMGM3OGI4ZTRhMDg0NTIxNTc2OTAyZDk5OGU0ZjY4YzY1`

@@ -917,10 +917,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 166919,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166919,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q"
     },
     {
       "album": {

@@ -4,13 +4,13 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-189 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+190 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10\. Soul Dream](https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh) | 5:02 | 2022-04-11 | 2022-04-21 |
 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 | 2022-04-11 | 2022-04-17 |
-| [18th & M](https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Just Doing What I do](https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn) | 3:30 | 2022-04-11 | 2022-04-20 |
+| [18th & M](https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Just Doing What I do](https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn) | 3:30 | 2022-04-11 |  |
 | [18th & Vine](https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bona Fide](https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE) | 4:44 | 2022-04-11 | 2022-04-21 |
 | [Adriatic Flow](https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Adriatic Flow](https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5) | 4:07 | 2022-01-03 | 2022-07-24 |
 | [Affection](https://open.spotify.com/track/1ViDanY5GxpDf2PITZAh5L) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Elevation](https://open.spotify.com/album/2Q69YdccZf1wtmsfEh5gQE) | 3:58 | 2022-01-10 | 2022-07-29 |
@@ -73,7 +73,7 @@
 | [Get Up, Stand Up](https://open.spotify.com/track/6pojpuQZ2BdoMtUjJJveia) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu), [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/13irGIRyXzvK9b39Zqcljs) | 4:57 | 2022-04-11 | 2022-04-21 |
 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2022-07-18 |  |
 | [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 | 2022-04-11 | 2022-10-01 |
-| [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 |  |
+| [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 | 2022-10-14 |
 | [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 | 2022-04-11 | 2022-04-20 |
 | [Happy Go Lucky](https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Paul Hardcastle 8](https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU) | 4:14 | 2021-12-27 | 2022-07-24 |
 | [Heading Wes](https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ) | 3:21 | 2022-08-15 |  |
@@ -192,10 +192,11 @@
 | [Valentin Dream \(feat\. Bob Baldwin\)](https://open.spotify.com/track/1wugADbCBtcDPbd0D7NtX0) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Quantum Drive](https://open.spotify.com/album/43yX6oV0cDl7E6KEJ3cyb1) | 4:20 | 2022-04-11 | 2022-04-21 |
 | [Velvet Groove](https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe) | [Eric Valentine](https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4), [Velvet Groove](https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU) | [Velvet Groove](https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176) | 3:57 | 2022-04-11 | 2022-04-20 |
 | [What The Wind Knows](https://open.spotify.com/track/0PrN59cfD9Dkvtnsmje9WE) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f) | 3:34 | 2022-01-03 | 2022-07-14 |
-| [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 | 2022-10-03 |  |
+| [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 | 2022-10-03 | 2022-10-14 |
 | [What You Do To Me](https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do to Me](https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1) | 4:57 | 2022-05-23 | 2022-07-29 |
 | [When We Dance](https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Into the Light](https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR) | 4:24 | 2021-12-27 |  |
 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 | 2021-12-27 |  |
 | [Zephyr](https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Coevolve](https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT) | 4:53 | 2021-12-27 | 2022-07-24 |
+| [Zephyr](https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Coevolve](https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E) | 4:53 | 2022-10-03 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.
