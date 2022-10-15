@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Enchanted Reality",
+        "url": "https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Green",
+          "url": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "Enchanted Reality",
+      "url": "https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv"
+    },
+    {
+      "album": {
         "name": "Endless Fragments of Time",
         "url": "https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 145800,
       "name": "From Shores To Mountains",
       "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 152597,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5"
@@ -1499,6 +1517,24 @@
       "duration_ms": 206170,
       "name": "Moonstone",
       "url": "https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi"
+    },
+    {
+      "album": {
+        "name": "Nature of Life",
+        "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
+      },
+      "artists": [
+        {
+          "name": "Ozo Nakuru",
+          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159892,
+      "name": "Nature of Life",
+      "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
     },
     {
       "album": {
@@ -2222,6 +2258,24 @@
     },
     {
       "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/6Ali5VGJJO9MkkPrhhLcmc"
+      },
+      "artists": [
+        {
+          "name": "Rama Fiore",
+          "url": "https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187423,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/3WWF9kTWsPRVfgX6BFLisb"
+    },
+    {
+      "album": {
         "name": "Togetherness",
         "url": "https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh"
       },
@@ -2467,7 +2521,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 220000,
       "name": "zomerochtend",
       "url": "https://open.spotify.com/track/3cYVVPJoyBsDdr5v4GR5wZ"

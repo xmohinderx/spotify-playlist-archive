@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,880 likes - 35 songs - 2 hr 21 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,883 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Grinding Ft\. High Tara](https://open.spotify.com/track/4IPxS7dJ0SA53mtPFsLp9Y) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [High Tara](https://open.spotify.com/artist/3AY3TKMf77gAK03Y2yPlOI) | [Grinding Ft\. High Tara](https://open.spotify.com/album/252OND8QbuRLZHoLs3FWVa) | 3:53 |
+| 1 | [Grinding \- Mystic State Remix](https://open.spotify.com/track/1DkjUb6h8jdCwrENYVNsKl) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Grinding Ft\. High Tara \(Mystic State Remix\)](https://open.spotify.com/album/4cR5yskx7CPSGRGcz8BvJU) | 4:55 |
 | 2 | [Oouu](https://open.spotify.com/track/39aFaLgU1R3ljrkU5GAZZI) | [Gemmy](https://open.spotify.com/artist/0ub2efHY8zSD5KAWJDoNME) | [Oouu EP](https://open.spotify.com/album/3XuLYLkWUFqqezowe6TIXd) | 3:55 |
 | 3 | [Slowly Rushing \- Skeptical Remix](https://open.spotify.com/track/6gnuTvpniPrNozazUBdqMa) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB), [QQQAkane](https://open.spotify.com/artist/5rfKOiv8w7Cgx5QRj7NHVs), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Slowly Rushing \(Skeptical Remix\)](https://open.spotify.com/album/59NevdqPmiDXvvxSSxN0t1) | 5:37 |
 | 4 | [Balaclava](https://open.spotify.com/track/1eAkkYLE0xkfwp0kXVX38R) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Balaclava](https://open.spotify.com/album/3dXuQqB5pNyH2GweiRzTDp) | 3:17 |
@@ -43,5 +43,20 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 33 | [TEK](https://open.spotify.com/track/3tezEIT5xK3CW8fjlSy4ak) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [TEK](https://open.spotify.com/album/7C2LDXd3UolHDXVnJE31NI) | 4:12 |
 | 34 | [Rude Boy 22 \- Spotify Singles](https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 2:15 |
 | 35 | [Every Night](https://open.spotify.com/track/0RY3lBN9Xdm8AYNg2KpiVS) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI) | [Field Trip](https://open.spotify.com/album/0BUdDTNyrvWWHox3KUCMgd) | 4:51 |
+| 36 | [Our Time](https://open.spotify.com/track/4zLfHJARur4UiJQOpmR6gS) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground](https://open.spotify.com/album/2gYIDloxJ4KaR4Gffssb8S) | 2:53 |
+| 37 | [R.A.V.E.](https://open.spotify.com/track/0wztpcU585JTnviRQwftah) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [R.A.V.E.](https://open.spotify.com/album/2sDjn0yWlegGQDvyL486vp) | 3:16 |
+| 38 | [Make Those Move \- Ternion Sound Remix](https://open.spotify.com/track/0NsnZp8TBj6JRUlB2pXSlK) | [I Am Legion](https://open.spotify.com/artist/2wNMk7BiCiuO7hjGZPZYuJ), [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Make Those Move \(Ternion Sound Remix\)](https://open.spotify.com/album/04ULT1yOHLFZYniSSSE8vO) | 3:32 |
+| 39 | [Drifter](https://open.spotify.com/track/1DFWGr54J47PrUN0euQhVf) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:21 |
+| 40 | [Manz](https://open.spotify.com/track/68EuLWerJTej8UmTonNieW) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8) | [Manz](https://open.spotify.com/album/0rBfd8sMAXtcPqZqlYO4gg) | 3:42 |
+| 41 | [SHINE DOWN](https://open.spotify.com/track/1aAlclWhROUKoVdb547Kdg) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [MUD](https://open.spotify.com/album/49inEnWo2ofCxEi2IFqVYj) | 3:24 |
+| 42 | [Cardboard](https://open.spotify.com/track/5iivvMQlvnPGg20mCXxEQC) | [Toadface](https://open.spotify.com/artist/5lsvMPwR3bjyZblIe3h9EK) | [Cardboard](https://open.spotify.com/album/2Rn1nIoqlb75eLUNh30f0w) | 3:47 |
+| 43 | [Gimidah](https://open.spotify.com/track/7bhxpYCqZ2W3bf6mTYt5u0) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Gimidah](https://open.spotify.com/album/69cgoc6VHLgWhrfLuCQX0M) | 3:57 |
+| 44 | [Dale](https://open.spotify.com/track/3ynNOKWGmuFQiMksRibJyF) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Dale](https://open.spotify.com/album/4UBgw4CAUuvngVEyYkHYi2) | 2:43 |
+| 45 | [Kindred Spirits](https://open.spotify.com/track/4eZhS8oWElqOcF9acq3iJG) | [LitaLotus](https://open.spotify.com/artist/096jdva2vCbGgulvRdQrA8), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Essence](https://open.spotify.com/album/6uyvvUKCvBz2KFaKPGaebK) | 4:06 |
+| 46 | [Self Made](https://open.spotify.com/track/2k0cA39Wk0jiYiQphhFJu3) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Self Made](https://open.spotify.com/album/5CFZp6HkHrKhjvid0TqLhV) | 3:13 |
+| 47 | [Way Of Life](https://open.spotify.com/track/30x0oEG0ZSNGzccTM6FHGT) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Way Of Life EP](https://open.spotify.com/album/1G34rlXSZIIzLo723IiZzi) | 4:42 |
+| 48 | [Whiplash](https://open.spotify.com/track/15iMqjEdEXXZkQP67eDaG9) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc) | [Whiplash](https://open.spotify.com/album/0b784gQ8Ytq8zAX1MLwG22) | 2:51 |
+| 49 | [Deep Space](https://open.spotify.com/track/3cawIjrVTGtkC5LOZpzriJ) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Deep Space](https://open.spotify.com/album/0eYxRzlzOOoG8c0RWI15LD) | 3:53 |
+| 50 | [Love Conspiration](https://open.spotify.com/track/2ztafS9ba55k5K2pZFYiuQ) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Love Conspiration](https://open.spotify.com/album/2QVnzc77wuvWcq5Cwraenp) | 4:51 |
 
-Snapshot ID: `MjAxMCxjYTM2OWUxYzAyNjlmNmUyMDBhNzAxNjZhNTgzZTZmNWFlNzhjNmZi`
+Snapshot ID: `MjAyOCwyMDM2OTNkMmI2OGVhMTdmZGFjN2Y5Y2M5MzNkYzRkZGZlYjA2NjI2`

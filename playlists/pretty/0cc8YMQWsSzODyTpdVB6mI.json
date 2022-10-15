@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43625,
+  "num_followers": 43649,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk3OCwwYTU1ZmY5NDVhNzZiNjU2YmNjMmZkNzczOWE0M2NjMDc3NzcwNTVk",
+  "snapshot_id": "Mjk4MCxhZmQ0OTYwYzJjZGYyZmNkY2VmMzZjOTUxMjFmYmFmN2NjNmQwOTM4",
   "tracks": [
+    {
+      "added_at": "2022-10-14 08:01:48",
+      "album": {
+        "name": "I'll Give You Dedication",
+        "url": "https://open.spotify.com/album/4vrGADeX4iagpCw2MnOORv"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        }
+      ],
+      "duration_ms": 167089,
+      "name": "I'll Give You Dedication",
+      "url": "https://open.spotify.com/track/5V6zXDdVD7l87y5AxtvUoR"
+    },
     {
       "added_at": "2022-10-10 08:02:51",
       "album": {
@@ -411,22 +427,6 @@
       "duration_ms": 183484,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE"
-    },
-    {
-      "added_at": "2022-07-20 08:55:15",
-      "album": {
-        "name": "TALES_FOR_NIGHTCLUBS_II",
-        "url": "https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 178142,
-      "name": "IPANEMA",
-      "url": "https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq"
     },
     {
       "added_at": "2021-11-05 15:47:43",

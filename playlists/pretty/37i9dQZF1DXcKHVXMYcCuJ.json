@@ -1,12 +1,12 @@
 {
   "description": "An introduction to some of alt-rock\u2019s most seminal tracks.",
-  "num_followers": 74923,
+  "num_followers": 75027,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ3Mzc0NCwwMDAwMDAwMGQ2MTgxMjI3ODI2NmI5ZTljMGQzNDJjOGZiM2E4NWFl",
+  "snapshot_id": "MTY2NTQ3Mzc0NCwwMDAwMDAwMDIzODYyYzNkNTJmN2ZhY2FhYjNlNWVhMDRkZGQyMDI5",
   "tracks": [
     {
       "added_at": "2022-10-11 07:35:44",
@@ -60,7 +60,7 @@
       "added_at": "2022-10-11 07:35:44",
       "album": {
         "name": "My Heart",
-        "url": "https://open.spotify.com/album/4NYQn71dwwpIMO1qXqHshb"
+        "url": "https://open.spotify.com/album/0jd5yRLuxLK5njzgpsnzxq"
       },
       "artists": [
         {
@@ -70,7 +70,7 @@
       ],
       "duration_ms": 227046,
       "name": "My Heart",
-      "url": "https://open.spotify.com/track/297ObeqSx8qhJYIytrusWm"
+      "url": "https://open.spotify.com/track/79P7jTFo4tvUDG8PbICO6b"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "For Your Own Special Sweetheart",
-        "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
-      },
-      "artists": [
-        {
-          "name": "Jawbox",
-          "url": "https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Savory",
-      "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Third Chain",
         "url": "https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y"
       },
@@ -1019,18 +1003,34 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+        "name": "For Your Own Special Sweetheart",
+        "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
       },
       "artists": [
         {
-          "name": "Superchunk",
-          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+          "name": "Jawbox",
+          "url": "https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP"
         }
       ],
-      "duration_ms": 281173,
-      "name": "Driveway to Driveway",
-      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
+      "duration_ms": 279266,
+      "name": "Savory",
+      "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Brave Faces Everyone",
+        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 242365,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Brave Faces Everyone",
-        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
       },
       "artists": [
         {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
         }
       ],
-      "duration_ms": 242365,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
+      "duration_ms": 281173,
+      "name": "Driveway to Driveway",
+      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "VINYL: THE ESSENTIALS: BEST OF SEASON 1",
         "url": "https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
       },
       "artists": [
         {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 248981,
-      "name": "Cosmonauts",
-      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
+      "duration_ms": 191657,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1243,6 +1227,22 @@
       "duration_ms": 167400,
       "name": "Travel By Telephone",
       "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 248981,
+      "name": "Cosmonauts",
+      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Soundtrack to a Headrush",
-        "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
-      },
-      "artists": [
-        {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "The Hey Man!",
-      "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "Soundtrack to a Headrush",
+        "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "The Hey Man!",
+      "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "Pull a Little Closer",
         "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 242480,
       "name": "Pull a Little Closer",
       "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
-        "name": "Ride The Fader",
-        "url": "https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2"
-      },
-      "artists": [
-        {
-          "name": "Chavez",
-          "url": "https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "Unreal Is Here",
-      "url": "https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1467,6 +1451,22 @@
       "duration_ms": 251293,
       "name": "Smokescreen",
       "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Ride The Fader",
+        "url": "https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2"
+      },
+      "artists": [
+        {
+          "name": "Chavez",
+          "url": "https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS"
+        }
+      ],
+      "duration_ms": 151706,
+      "name": "Unreal Is Here",
+      "url": "https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a"
     },
     {
       "added_at": "2022-10-11 07:35:44",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/22V2A3qGlZBRfAvB6XMm0w)
+71 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/22V2A3qGlZBRfAvB6XMm0w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Pop Them Threat!](https://open.spotify.com/track/5cRhrmpBwkZjJ7eFMJKbVM) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Pop Them Threat!](https://open.spotify.com/album/28cgLLuxTxU9RGT276VV46) | 3:18 | 2022-09-08 |  |
 | [Popular](https://open.spotify.com/track/3098sOo6ZdYy0BskCqOBfJ) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Popular](https://open.spotify.com/album/6c9QyP5cZlq0DCY7ysXSbj) | 3:06 | 2022-09-08 |  |
 | [Problem Solver](https://open.spotify.com/track/2I0wKFcGQvTtWIPTgonSEG) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Problem Solver](https://open.spotify.com/album/1VUt9pbaByPY4vi2hE9NKf) | 5:21 | 2022-09-08 |  |
-| [Rush](https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx) | 3:36 | 2022-09-08 |  |
+| [Rush](https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx) | 3:36 | 2022-09-08 | 2022-10-15 |
+| [Rush](https://open.spotify.com/track/6cn2qPW4Xb7n6CVOMldvDw) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/6dr7L7mHSIjWAbgHYztMzd) | 3:36 | 2022-09-08 |  |
 | [Saturday Love](https://open.spotify.com/track/3qvZ6QHw87cICfcIqJjMjm) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Lulu Be.](https://open.spotify.com/artist/2jM44QDqboAQRKbiIqHIoE) | [Saturday Love](https://open.spotify.com/album/5s3xUOBWNhBFVHcWvK29hG) | 4:24 | 2022-09-08 |  |
 | [Speedy Gs](https://open.spotify.com/track/5FHLW4748Qp01kvyPjbODM) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5) | [Speedy Gs](https://open.spotify.com/album/34mNJp5MMW4GiyY82f2iEo) | 3:46 | 2022-09-08 |  |
 | [Steamin](https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Steamin](https://open.spotify.com/album/00ciJacke9mRfbm616SfWq) | 3:48 | 2022-09-08 |  |

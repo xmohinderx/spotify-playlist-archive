@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-236 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
+237 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Can’t Let Go](https://open.spotify.com/track/6dQh60A0KlpwPT2p9ptJaY) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 3:41 | 2022-04-22 |  |
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2021-11-11 |  |
 | [Choctaw Bingo](https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Saint Mary Of The Woods](https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y) | 8:33 | 2021-11-11 |  |
-| [Closer to You](https://open.spotify.com/track/3cv5ztdkBxly1hhZGWTcLW) | [The Mastersons](https://open.spotify.com/artist/4U34CdSiwH2Imlt7ddNPTC) | [Good Luck Charm](https://open.spotify.com/album/2dREaKg1P5fT3tGTQskANP) | 3:48 | 2022-04-22 |  |
+| [Closer to You](https://open.spotify.com/track/3cv5ztdkBxly1hhZGWTcLW) | [The Mastersons](https://open.spotify.com/artist/4U34CdSiwH2Imlt7ddNPTC) | [Good Luck Charm](https://open.spotify.com/album/2dREaKg1P5fT3tGTQskANP) | 3:48 | 2022-04-22 | 2022-10-15 |
 | [Closer To You](https://open.spotify.com/track/6hsE0S4ytXK7HSgDJYMkqo) | [The Mastersons](https://open.spotify.com/artist/4U34CdSiwH2Imlt7ddNPTC) | [Good Luck Charm](https://open.spotify.com/album/6GAgduAUKT4za3wmxec1Jh) | 3:48 | 2021-11-11 | 2022-07-28 |
 | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0) | 2:54 | 2021-11-11 | 2022-07-29 |
 | [Copper Canteen](https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Complicated Game](https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly) | 4:37 | 2021-11-11 |  |
@@ -151,6 +151,7 @@
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 |  |
 | [Night Still Comes](https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \(Deluxe Edition\)](https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5) | 3:47 | 2022-04-22 |  |
 | [Night Still Comes](https://open.spotify.com/track/34n6Ea7xmSq23tzClOer3w) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \[Deluxe Edition\]](https://open.spotify.com/album/1lZeuZHmv7Mzngg8UEIRPo) | 3:47 | 2021-11-11 | 2022-07-29 |
+| [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-14 |  |
 | [No Later Than Soon](https://open.spotify.com/track/21J6IIzFPM2BUyCGN6QvA4) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Black Roses](https://open.spotify.com/album/56XdG9KmxCkvFLOH0E7dEN) | 2:56 | 2021-11-11 | 2022-07-29 |
 | [No Later than Soon](https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Black Roses](https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA) | 2:56 | 2022-04-22 |  |
 | [Oh Soul](https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Trouble and Love](https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR) | 5:26 | 2021-11-11 |  |

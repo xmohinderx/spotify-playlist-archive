@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: From Ashes to New feat\. Matty Mullins
+> This is the new Core at its finest\. Cover: Ice Nine Kills
 
-584 songs - 1 day 12 hr 49 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+585 songs - 1 day 12 hr 52 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 | 2022-06-17 |  |
 | [Heritage](https://open.spotify.com/track/3xe8iwcUdR0joiuHaG4fap) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Heritage](https://open.spotify.com/album/1KPoWP9JGpfSR6a14L7VML) | 3:05 | 2022-04-15 | 2022-05-28 |
 | [Hideous](https://open.spotify.com/track/5tqhz6V5vVrEitYkTGqAGa) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Hideous](https://open.spotify.com/album/4qftklc0DH2DWxanvoXSNG) | 4:14 | 2022-07-13 | 2022-07-23 |
+| [Hip To Be Scared](https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Shower Scene Playlist](https://open.spotify.com/album/273LyHQV9St48MzqO73UkX) | 3:25 | 2022-10-14 |  |
 | [Hollowed Heart](https://open.spotify.com/track/7HZHFE3NN7uQgf9JRRN3Hh) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/1eugdphmac0WQccxNJ96tn) | 3:51 | 2022-07-13 | 2022-07-23 |
 | [Home](https://open.spotify.com/track/5xGiG8izp7SgNaFskYWVbZ) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Home](https://open.spotify.com/album/5mLHqEAeh5zhf1WtDxBNPZ) | 4:04 | 2022-03-11 | 2022-05-14 |
 | [HORIZON](https://open.spotify.com/track/1DtJnU6U3E0BnZ8DnTH1rw) | [BEFORE MY LIFE FAILS](https://open.spotify.com/artist/7gg6GebRQdCY8CwPfcsudT) | [HORIZON](https://open.spotify.com/album/4pxmnZ04SiG6WzAmnMln6e) | 3:38 | 2021-12-17 | 2022-02-26 |
@@ -574,7 +575,7 @@
 | [When a Demon Defiles a Witch](https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [When a Demon Defiles a Witch](https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I) | 4:44 | 2022-07-13 | 2022-07-22 |
 | [When The World Awakens](https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [When The World Awakens](https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4) | 3:17 | 2022-03-11 | 2022-04-09 |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2022-07-13 | 2022-07-23 |
-| [White Eyes](https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [White Eyes](https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo) | 3:36 | 2022-06-24 |  |
+| [White Eyes](https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [White Eyes](https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo) | 3:36 | 2022-06-24 | 2022-10-15 |
 | [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-10-05 |
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 |  |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |

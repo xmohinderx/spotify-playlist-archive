@@ -1694,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "Chama Minha Gang",
+        "url": "https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Chama Minha Gang",
+      "url": "https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy"
+    },
+    {
+      "album": {
         "name": "Chega De Esperar",
         "url": "https://open.spotify.com/album/0i0eLTWYkq78BjPPnbILqq"
       },
@@ -3521,7 +3539,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 145953,
       "name": "Hoje Eu Vou Dar uma Sentadinha",
       "url": "https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX"
@@ -4631,7 +4649,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
@@ -5089,7 +5107,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 148340,
       "name": "N\u00e3o sou obrigada",
       "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
@@ -7396,6 +7414,32 @@
     },
     {
       "album": {
+        "name": "TANG",
+        "url": "https://open.spotify.com/album/3y2F1qXjIsQJIcgMN9FfLM"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182850,
+      "name": "TANG",
+      "url": "https://open.spotify.com/track/50b6kNVPLNIx9opvb76dk1"
+    },
+    {
+      "album": {
         "name": "F\u00daRIA",
         "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
       },
@@ -8457,6 +8501,28 @@
       "duration_ms": 160608,
       "name": "Vou Te Levar Daqui",
       "url": "https://open.spotify.com/track/3WCcagQLaM2JZ3iqM9pX5R"
+    },
+    {
+      "album": {
+        "name": "WILLY",
+        "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "WILLY",
+      "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
     },
     {
       "album": {

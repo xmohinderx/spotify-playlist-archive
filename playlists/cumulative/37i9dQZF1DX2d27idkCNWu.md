@@ -2,7 +2,7 @@
 
 ### [Pop Acústico](https://open.spotify.com/playlist/37i9dQZF1DX2d27idkCNWu)
 
-> Versões desplugadas do mundo pop\. Foto: Priscilla Alcântara
+> Versões desplugadas do mundo pop.
 
 115 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
 

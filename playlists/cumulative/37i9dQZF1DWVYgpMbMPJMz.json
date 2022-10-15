@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Cody Carnes",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  UPPERROOM",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 305493,
       "name": "As The Deer",
       "url": "https://open.spotify.com/track/0O4JOPpHz1JdshdQ8PuGNe"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 636051,
       "name": "Behold Him Now - Live",
       "url": "https://open.spotify.com/track/1YoIKoJR1QkLTS7grOAdCo"
@@ -737,6 +737,28 @@
       "duration_ms": 468208,
       "name": "Come Alive (Resurrection Power) - Live",
       "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
+    },
+    {
+      "album": {
+        "name": "Moments: Light 006",
+        "url": "https://open.spotify.com/album/02Rm6AwvGYPRWxcPtIo0EW"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611506,
+      "name": "Come And Behold",
+      "url": "https://open.spotify.com/track/68zA4FpdgfB1YSMg1mi0Ki"
     },
     {
       "album": {
@@ -1967,6 +1989,28 @@
       "duration_ms": 660533,
       "name": "I Can\u2019t Get Away - Live",
       "url": "https://open.spotify.com/track/4eoziPpcqjvVaXGLUnKUsx"
+    },
+    {
+      "album": {
+        "name": "I Just Love You (Live)",
+        "url": "https://open.spotify.com/album/7eN21Ocvn91T3SxZlZRnYI"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Zac Rowe",
+          "url": "https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389278,
+      "name": "I Just Love You - Live",
+      "url": "https://open.spotify.com/track/4YWprYc7YaDAbnhTitzdDX"
     },
     {
       "album": {
@@ -3891,10 +3935,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 362139,
       "name": "Room At the Table",
       "url": "https://open.spotify.com/track/1cWSJHExNtDnBzJQWiSNXf"
+    },
+    {
+      "album": {
+        "name": "Running (Live)",
+        "url": "https://open.spotify.com/album/0J7pkvhIgX4JWvCuPd27LN"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Dreaming The Impossible",
+          "url": "https://open.spotify.com/artist/2EqD1GwqOZoVc29Ru6y5Dm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417274,
+      "name": "Running - Live",
+      "url": "https://open.spotify.com/track/5pUuSyIfWJQIzjLNErKQ0j"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-104 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
+105 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,10 +93,11 @@
 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 | 2020-01-08 |  |
 | [Tell Your Story Walkin'](https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 | 2020-01-08 |  |
 | [The Devil](https://open.spotify.com/track/0Oo8Aa1ENUC78J2Vl7T7TP) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12), [John Popper](https://open.spotify.com/artist/2r8UpAivBMWpM96XTb4zaI) | [The Devil](https://open.spotify.com/album/5nksS055u8VN76qS1A54j9) | 3:07 | 2022-02-25 | 2022-06-09 |
+| [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-14 |  |
 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 | 2022-07-01 | 2022-08-25 |
 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2020-01-08 |  |
 | [Thumb](https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ) | [TM Stevens](https://open.spotify.com/artist/1JQSaRDeBgD9qxqotg6n6y) | [Shocka Zooloo](https://open.spotify.com/album/4Ykpxtr1YHvEIPQwJDXNyu) | 4:20 | 2020-01-08 | 2022-06-04 |
-| [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 |  |
+| [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 | 2022-10-15 |
 | [Tobacco Road](https://open.spotify.com/track/5qE0ehKYj0Mp0XH5BsOKqZ) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Hits & More](https://open.spotify.com/album/4sDlPp3lFxvY3HgKQTOBMG) | 3:57 | 2020-01-08 | 2022-07-29 |
 | [Tobacco Road](https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best of Eric Burdon & War](https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc) | 3:57 | 2022-02-04 |  |
 | [Tommy The Cat](https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:14 | 2020-01-08 |  |

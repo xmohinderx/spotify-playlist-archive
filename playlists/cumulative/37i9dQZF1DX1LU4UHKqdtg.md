@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Stray Kids
 
-389 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+390 songs - 21 hr 32 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [AZALEA](https://open.spotify.com/track/44t2jRqGiSDmxTCexAbboI) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:58 | 2022-04-04 | 2022-04-08 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 |  |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
-| [Bambi \- Instrumental](https://open.spotify.com/track/5Lzg5f2RPLqoQ1G78WVKFe) | [DAZBEE](https://open.spotify.com/artist/3kqdhGersPikNf9yOsjB6O) | [밤비](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-11 |  |
+| [Bambi](https://open.spotify.com/track/6eIUezhD3M6EAtxhQlbQ5i) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bambi](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-13 |  |
+| [Bambi \- Instrumental](https://open.spotify.com/track/5Lzg5f2RPLqoQ1G78WVKFe) | [DAZBEE](https://open.spotify.com/artist/3kqdhGersPikNf9yOsjB6O) | [밤비](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-11 | 2022-10-15 |
 | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/track/4Nltlmj5YPZO1CWZmfmox1) | [KwangSoo](https://open.spotify.com/artist/5mxnis3jwujdkkXv9DO0hz) | [BE MY BABY \(KwangSoo Cover\) \[feat\. AIR OUCCI\]](https://open.spotify.com/album/4yoAVAdfpYjFQR7Kb40IS3) | 4:03 | 2022-04-21 | 2022-06-24 |
 | [Be With You](https://open.spotify.com/track/2NTSWLUiZqrIBDGYbHUB6o) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:41 | 2021-12-23 | 2022-03-16 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 | 2022-08-20 |

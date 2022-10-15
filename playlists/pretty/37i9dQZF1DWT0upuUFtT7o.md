@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Blondshell, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,661 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,713 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 35 | [Weird Year](https://open.spotify.com/track/2M4lATbWDOOFX3bn5WPYMt) | [Blue Boredom](https://open.spotify.com/artist/5kRh2T7eaUDOiFfZ9536nH) | [Weird Year](https://open.spotify.com/album/3vXFSWbEZ8r89XfhDqgXTB) | 4:26 |
 | 36 | [On My Mind \(all the time\)](https://open.spotify.com/track/0KtF9yHoqfH7blb55H5DTA) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [I Do Everything Around The House](https://open.spotify.com/album/7e9aLwqzFTkQIhEpVXtlX6) | 3:37 |
 | 37 | [Dandelions](https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Dandelions](https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3) | 2:27 |
-| 38 | [Drippy](https://open.spotify.com/track/7pu7lPXqQ7lLB9qFYmuItv) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Dream Machine](https://open.spotify.com/album/0FUs1PnmvHShn0GjwfYQlB) | 3:37 |
+| 38 | [Drippy](https://open.spotify.com/track/7D8Zg0ZkZ9IdHTTAbreCUV) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Dream Machine](https://open.spotify.com/album/3UevsZ2V8cXa3NUnHalxxy) | 3:37 |
 | 39 | [More Than You Need](https://open.spotify.com/track/6g7nH79EYagbAgaux6HgYa) | [Rilo Wye](https://open.spotify.com/artist/60yquu93vxMUnJySi4PRS0) | [Better for Whatever Reason](https://open.spotify.com/album/77cNEHgjJ9FVTHHAUa3vlQ) | 3:13 |
 | 40 | [Summer In My Head](https://open.spotify.com/track/3KquekHc2ApZSvrd9qCiWW) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z) | [Summer In My Head](https://open.spotify.com/album/0qJgh9pLQ3CxXHA4F11kjc) | 3:50 |
 | 41 | [Dinosaurs](https://open.spotify.com/track/5NfW49lHCNkAF8FXkPI9Up) | [Emilie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [Dinosaurs](https://open.spotify.com/album/0FgGcMTrKsWGUXwgLLyXmB) | 3:40 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 57 | [Scatter Brains](https://open.spotify.com/track/3m241a2mFTD9BVqUsRZ3rt) | [The Bots](https://open.spotify.com/artist/4BytPrwCFHaxTtfKxoaaxD) | [2 Seater](https://open.spotify.com/album/0J1KnmiVyAvXjVhZS8oskC) | 4:26 |
 | 58 | [Fanfiction](https://open.spotify.com/track/02njNJivD3dlxfCYxqftnc) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Fanfiction](https://open.spotify.com/album/2Q9hQcn8EqQhQTWKQghxF2) | 3:14 |
 | 59 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 |
-| 60 | [I Don't Wanna Be Strong](https://open.spotify.com/track/0xubojJoftLTsiM8tzIqmB) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/29LGWbz1h6EmM4Mt5Y4w1U) | 3:08 |
+| 60 | [I Don't Wanna Be Strong](https://open.spotify.com/track/4tGPfKyW5ofKFLbQuNwINd) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/34uhq6GwqaXrwfIHboPqSQ) | 3:08 |
 | 61 | [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 |
 | 62 | [Surprise](https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Surprise](https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS) | 3:31 |
 | 63 | [nancy drew](https://open.spotify.com/track/6ISDmzhKgOVVYrBhnudqyX) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [nancy drew](https://open.spotify.com/album/484SgfzCso9zmbfUAaPCcx) | 2:16 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 66 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 |
 | 67 | [Like She Does](https://open.spotify.com/track/4rHj4GTQZF52QRRb8QcEHt) | [The Never Ending Fall](https://open.spotify.com/artist/3xc0dLvxU2nAYefEJdDVBw) | [Like She Does](https://open.spotify.com/album/6bTvqOJGRyBwLc7VOMq23T) | 3:02 |
 | 68 | [It Hurts](https://open.spotify.com/track/4EYkBReSCqoFZAvHRShmMA) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [It Hurts](https://open.spotify.com/album/3gshl9FwDG8P91p8iG5ccH) | 3:23 |
-| 69 | [aspirin](https://open.spotify.com/track/2HurtZFEBFbHBhMg1ROnan) | [elisadont](https://open.spotify.com/artist/4T5EPU720M8KwkdYWms28l), [Villent](https://open.spotify.com/artist/7iyXuJrnFdoVpKKnrQ4DFE) | [aspirin](https://open.spotify.com/album/0MKJPbpTtV5QDezVPaKifE) | 3:17 |
+| 69 | [aspirin](https://open.spotify.com/track/2HurtZFEBFbHBhMg1ROnan) | [elisadont](https://open.spotify.com/artist/4T5EPU720M8KwkdYWms28l), [villent](https://open.spotify.com/artist/7iyXuJrnFdoVpKKnrQ4DFE) | [aspirin](https://open.spotify.com/album/0MKJPbpTtV5QDezVPaKifE) | 3:17 |
 | 70 | [Sunscreen](https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS) | [Booshell](https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9), [Charm on the beat](https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD) | [Sunscreen](https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ) | 3:18 |
 
-Snapshot ID: `MTY2NTYwMjg3NiwwMDAwMDAwMDgyZDhmNWJiMjBlOTI1Y2FjOTgxMmNkMjQ4YTZhNzAx`
+Snapshot ID: `MTY2NTYwMjg3NiwwMDAwMDAwMDFkY2I4ZmVhODMzMTNmNmEwOGNiZTE4ODcxMjJjMTRj`

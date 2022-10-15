@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jinan Laetitia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,970 likes - 43 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,983 likes - 43 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

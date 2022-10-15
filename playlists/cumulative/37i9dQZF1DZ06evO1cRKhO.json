@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 965493,
       "name": "1970 Performance",
       "url": "https://open.spotify.com/track/46TXc9N0vQaV0tzYBsLRXS"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 1822280,
       "name": "A Little Noise In The System - Moog System",
       "url": "https://open.spotify.com/track/7jd4WM5VlxNZh4G89owFh9"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -362,6 +362,28 @@
     },
     {
       "album": {
+        "name": "Zwei",
+        "url": "https://open.spotify.com/album/6sxFbCoRZitZy97kUzWgHh"
+      },
+      "artists": [
+        {
+          "name": "Fritz Hauser",
+          "url": "https://open.spotify.com/artist/6NXJD5DLC9LJyZXuNONGdm"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165138,
+      "name": "Deep-Sea Rendez-Vous",
+      "url": "https://open.spotify.com/track/0ZsN5BFNEOO0dbOQVKh6Fz"
+    },
+    {
+      "album": {
         "name": "phase/transitions (vol. 1)",
         "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
       },
@@ -533,7 +555,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 123266,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/5bvxJ8sY9LsMo9qR0HfNoS"
@@ -613,7 +635,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 968040,
       "name": "III",
       "url": "https://open.spotify.com/track/63sKc5bAefymu5ity0Qpbo"
@@ -827,7 +849,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 130933,
       "name": "Mass Action",
       "url": "https://open.spotify.com/track/4NEL3xHrHuN5ctwyg2ovvb"
@@ -1005,7 +1027,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 243840,
       "name": "Morphotropic",
       "url": "https://open.spotify.com/track/6lOzGJLSRY374dHqBpIEWU"
@@ -1115,7 +1137,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 491466,
       "name": "Outer",
       "url": "https://open.spotify.com/track/1hNmXsLBDpniMDMsD31rHF"
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 282813,
       "name": "Photonic Dance",
       "url": "https://open.spotify.com/track/0dtNZJou6NptVMtC4DFsyn"
@@ -1373,7 +1395,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 171106,
       "name": "Quartetto Telematico #6",
       "url": "https://open.spotify.com/track/3DFpK890CslTbYxX8WihKW"
@@ -2035,7 +2057,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 1177920,
       "name": "Time Perspectives",
       "url": "https://open.spotify.com/track/2dmBXKZU0ptr1ItsMfQMju"
@@ -2105,7 +2127,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 319532,
       "name": "Trientalis Europaea",
       "url": "https://open.spotify.com/track/3DlkpH9BmBI9FAmIFFOUkq"
@@ -2227,7 +2249,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 214080,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/5m7ZLZHWo6ibtEvtSPrJxf"

@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-150 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+152 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wrbQzavSwdzRgRCxLBewg) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/0OfmMxMJ99DQL61l89OcUE) | 4:25 | 2022-06-16 |  |
 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wuTSrQV6VRAND6HDxPECb) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/1XyQMANgAQrw0fhHFi50ll) | 4:25 | 2021-12-09 | 2022-07-29 |
 | [Kool Aid \- Acoustic](https://open.spotify.com/track/6GLWJ3RSJvWjtYV9b97pW4) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Kool Aid \(Acoustic\)](https://open.spotify.com/album/5Tz504v4T99RM3I6Plh6AJ) | 3:21 | 2021-12-09 | 2022-01-14 |
+| [Land Of Possibilities \- Live at Bitterzoet](https://open.spotify.com/track/7Kh1vJGY0z3BCfDKsgpkAm) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Live in Concert](https://open.spotify.com/album/3Dfg8TnkdNHm1WdPEW64Vh) | 5:23 | 2022-10-14 |  |
 | [Learn to Love](https://open.spotify.com/track/3taKjGFvma0IwV5GmLsLDd) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Learn to Love](https://open.spotify.com/album/2g7lu7csvYm3EtX1hwtVgo) | 3:45 | 2021-12-09 |  |
 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 | 2021-12-09 |  |
 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 | 2022-04-14 |  |
@@ -141,6 +142,7 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-09 | 2022-07-29 |
 | [Talk In The Morning \- Acoustic](https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning \(Acoustic\)](https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC) | 3:24 | 2021-12-09 |  |
 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 | 2021-12-09 |  |
+| [This Life \- Live](https://open.spotify.com/track/7dWA7OAWKjooN1sUNSCLjt) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [This Life \(Live\)](https://open.spotify.com/album/1CmqQ9XsMDvDmttlu68YeV) | 4:06 | 2022-10-14 |  |
 | [This Womans Work](https://open.spotify.com/track/5JoZlm8om4GQPZmRwe4QUg) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Tingsek & Vindla String Quartet feat\. Måns Mernsten](https://open.spotify.com/album/6RjoVMuBbQYEGye4kswCYe) | 3:47 | 2021-12-09 |  |
 | [Top Down](https://open.spotify.com/track/63KFl9SvRTthIFYuhuyrre) | [Angela Muñoz](https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Top Down](https://open.spotify.com/album/1NyWDpNSqupryYOEeGdvFz) | 2:23 | 2021-12-09 |  |
 | [Traingazing \- Acoustic](https://open.spotify.com/track/2dOBsJnZHmGAr0yQgDo56E) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing \(Acoustic\)](https://open.spotify.com/album/2DivG16jdGu2jpZolWodUc) | 3:18 | 2021-12-09 |  |

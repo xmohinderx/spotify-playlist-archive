@@ -4,7 +4,7 @@
 
 > Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Maisie Peters
 
-271 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+275 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 |  |
 | [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 | 2022-07-08 | 2022-08-20 |
 | [Could've Just Left Me Alone](https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Could've Just Left Me Alone](https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW) | 2:17 | 2022-05-27 | 2022-10-08 |
+| [CRAVE](https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H) | [CRAVE](https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu) | 2:30 | 2022-10-14 |  |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/5KJmWpLw1VpmJDSGp9zr3y) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/20TIqhqCGg1APlKuQGmCri) | 2:48 | 2021-09-17 | 2022-04-09 |
 | [Cruel World](https://open.spotify.com/track/4RtLJdGrUDDf6o7EhQtcas) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Cruel World](https://open.spotify.com/album/2KLQvgaPDzX9mhwKHdgoXn) | 3:03 | 2022-04-22 | 2022-09-10 |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-11 | 2022-03-18 |
@@ -156,11 +157,13 @@
 | [little boy](https://open.spotify.com/track/7xe5j7CnB63ejlzg5Y5H9Q) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:46 | 2022-01-28 | 2022-02-19 |
 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-07-01 | 2022-07-29 |
 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 | 2022-07-01 | 2022-09-24 |
+| [Losing Sleep](https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Losing Sleep](https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd) | 2:42 | 2022-10-14 |  |
 | [LOVE AND WAR](https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [LOVE AND WAR](https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok) | 2:40 | 2022-09-02 |  |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-13 |  |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 |  |
 | [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 | 2022-05-07 |
+| [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 |  |
 | [Masterclass](https://open.spotify.com/track/0H5nic3dfKXg09HQGmcmTq) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Masterclass](https://open.spotify.com/album/5s865EPaHzPgrilRTsz1GA) | 2:52 | 2022-04-29 | 2022-06-18 |
 | [Maybe All the Rumours Are True](https://open.spotify.com/track/5TOypkLxV6SDEIePb7lvox) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Maybe All the Rumours Are True](https://open.spotify.com/album/5bzK7vxzep2qDCOUxvXwAr) | 3:14 | 2022-07-22 |  |
 | [Mean](https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:05 | 2021-12-10 | 2022-08-20 |
@@ -248,6 +251,7 @@
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-29 | 2022-09-10 |
 | [till you hate me](https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [till you hate me](https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2) | 2:59 | 2022-09-16 |  |
 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 | 2022-10-07 |  |
+| [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2022-10-14 |  |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-09-24 |
 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-08 | 2022-08-20 |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-08 | 2022-07-29 |

@@ -1778,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/0hrn7XIBUgkz5NWX9WGL9J"
+      },
+      "artists": [
+        {
+          "name": "memex",
+          "url": "https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/3txAYMcl99O9AQ4buBkWHN"
+    },
+    {
+      "album": {
         "name": "OVER THE ACE",
         "url": "https://open.spotify.com/album/1XrxiqPsDqBSAoqBPhcN7z"
       },
@@ -6371,7 +6389,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 202285,
       "name": "\u539f\u7f6a\u3068\u8e0a\u308b",
       "url": "https://open.spotify.com/track/6Eo9ipFfhBKebfGa49NwTm"

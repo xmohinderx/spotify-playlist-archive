@@ -1501,6 +1501,24 @@
     {
       "album": {
         "name": "One More",
+        "url": "https://open.spotify.com/album/3lTa4RymzaLm4pPHsDIDfA"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198727,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/1V9gmvgZao4w35fRR2HEXX"
+    },
+    {
+      "album": {
+        "name": "One More",
         "url": "https://open.spotify.com/album/1NDD9D0teHWXmLkZGF0Cnc"
       },
       "artists": [
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 198727,
       "name": "One More",
       "url": "https://open.spotify.com/track/68PHyiXuEvfC5y75346tGx"

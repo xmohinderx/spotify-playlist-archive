@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Baby Tate",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: KenTheMan",
   "name": "Feelin' Myself",
   "published_playlist_ids": [
     "0FtcGJDMEWLAVf67SoV0Nd"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 87037,
       "name": "Bitch I'm Nice",
       "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 224472,
       "name": "CHURCH GIRL",
       "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 215000,
       "name": "Diva (feat. Emilia)",
       "url": "https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 181417,
       "name": "Hottie (feat. BabyFace Ray)",
       "url": "https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ"
@@ -2254,6 +2254,24 @@
     },
     {
       "album": {
+        "name": "My Bad I\u2019m Late",
+        "url": "https://open.spotify.com/album/5t7W5Ds5cX4fMs8l1lFIIN"
+      },
+      "artists": [
+        {
+          "name": "Killumantii",
+          "url": "https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155740,
+      "name": "My Twin",
+      "url": "https://open.spotify.com/track/4YA7aHYDUm1sfvGe6FznYB"
+    },
+    {
+      "album": {
         "name": "My Type (feat. Yung Mal)",
         "url": "https://open.spotify.com/album/5PG4zTnIiE6y1A6vetNidI"
       },
@@ -2401,6 +2419,24 @@
       "duration_ms": 142998,
       "name": "No Panties",
       "url": "https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX"
+    },
+    {
+      "album": {
+        "name": "Not My N*gga",
+        "url": "https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127441,
+      "name": "Not My N*gga",
+      "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
     },
     {
       "album": {
@@ -2792,6 +2828,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girls Walk",
+        "url": "https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140053,
+      "name": "Pretty Girls Walk",
+      "url": "https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR"
+    },
+    {
+      "album": {
         "name": "PTDOM",
         "url": "https://open.spotify.com/album/4JdgeVZeAPBeU4niC1ueKh"
       },
@@ -2939,6 +2993,24 @@
       "duration_ms": 116288,
       "name": "Record Straight",
       "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
+    },
+    {
+      "album": {
+        "name": "Rich Bitch Party",
+        "url": "https://open.spotify.com/album/1eW1Dl7aGNbz6cx464ydRz"
+      },
+      "artists": [
+        {
+          "name": "Mellow Rackz",
+          "url": "https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152131,
+      "name": "Rich Bitch Party",
+      "url": "https://open.spotify.com/track/5dU9pSiLUj1m8MFKzihk8z"
     },
     {
       "album": {
@@ -3330,6 +3402,24 @@
     },
     {
       "album": {
+        "name": "Stressed",
+        "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183687,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
+    },
+    {
+      "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
@@ -3711,7 +3801,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 182068,
       "name": "Tread Carefully",
       "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"

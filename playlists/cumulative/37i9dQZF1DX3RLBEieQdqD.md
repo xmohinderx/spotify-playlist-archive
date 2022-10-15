@@ -2,9 +2,9 @@
 
 ### [Ranchenato](https://open.spotify.com/playlist/37i9dQZF1DX3RLBEieQdqD)
 
-> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe
+> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Yeison Jiménez
 
-77 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/4dgRTLno9dN3O245XyEHEz)
+78 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/4dgRTLno9dN3O245XyEHEz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 | 2022-08-18 |  |
 | [Cómo Lo Hizo](https://open.spotify.com/track/5oQ12KlSu359ek2vpJTMX3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:04 | 2022-08-18 |  |
 | [De Los Besos Que Te Di](https://open.spotify.com/track/2ttoeuNKXixDHom5rRvowm) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [De Los Besos Que Te Di](https://open.spotify.com/album/7273WdaYjbonC99OSZ9Fey) | 2:47 | 2022-08-18 |  |
+| [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 | 2022-10-14 |  |
 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 | 2022-08-18 |  |
 | [Dos Botellas](https://open.spotify.com/track/1BYJUQib7hGpWjJu4VmiM6) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Dos Botellas](https://open.spotify.com/album/0QusQFkYfRnPt2leEkHVlI) | 2:44 | 2022-08-18 |  |
 | [Dulce Pecado](https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:55 | 2022-08-18 |  |
@@ -54,7 +55,7 @@
 | [Mañanita De Invierno \(feat\. Silvestre Dangond\)](https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz) | [Poncho Zuleta](https://open.spotify.com/artist/1FrVJr7a4ZTOCSnKz3Fuq1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Poncho Zuleta 45 Años](https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy) | 8:37 | 2022-08-18 |  |
 | [Me Llevó a la Luna](https://open.spotify.com/track/7Jf4BXs1gNxvNfyvRdrgRr) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Me Llevó a la Luna](https://open.spotify.com/album/081pGgewGVZcmXyvP5pjLH) | 3:17 | 2022-08-18 |  |
 | [Me Tiene Pechichón](https://open.spotify.com/track/1nvXQOgTXYwHhDqpKiJA0e) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 4:01 | 2022-08-18 |  |
-| [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-08-18 |  |
+| [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-08-18 | 2022-10-15 |
 | [Mi Debilidad](https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Mi Debilidad](https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq) | 2:38 | 2022-08-18 |  |
 | [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-08-18 |  |
 | [Mi Venganza](https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ) | 3:11 | 2022-08-18 |  |

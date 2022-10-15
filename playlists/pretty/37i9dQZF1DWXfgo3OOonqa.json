@@ -1,12 +1,12 @@
 {
   "description": "H\u00e5ll det 100.",
-  "num_followers": 264750,
+  "num_followers": 264814,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGNlMjgyMTFkZDcwYTQxYzk1NTVkMWY3NWM2NzViMmJi",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDgyNWU0MDU3YmMwYTA5ZWY5OGRiMzQ4Mjk2OTljMGI4",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -155,13 +155,17 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "S\u00d6DERMALM",
-        "url": "https://open.spotify.com/album/4l331F1fTBQYuVufhFeaEZ"
+        "name": "S\u00d6DERMALM (Remix)",
+        "url": "https://open.spotify.com/album/3UwYbsJK4kFYtSGENGqK7S"
       },
       "artists": [
         {
           "name": "ADAAM",
           "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
         },
         {
           "name": "Philippe",
@@ -172,9 +176,9 @@
           "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
         }
       ],
-      "duration_ms": 153829,
-      "name": "S\u00d6DERMALM",
-      "url": "https://open.spotify.com/track/6WLFyN5UYRWIadKHq3LLRV"
+      "duration_ms": 154986,
+      "name": "S\u00d6DERMALM - Remix",
+      "url": "https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS"
     },
     {
       "added_at": "2022-10-13 22:00:00",

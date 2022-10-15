@@ -3896,6 +3896,24 @@
     },
     {
       "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/1IF0OBglPImicWSoaPyESK"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178962,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/583ttvNmwL6fX30F5VYlc0"
+    },
+    {
+      "album": {
         "name": "Used To",
         "url": "https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId"
       },

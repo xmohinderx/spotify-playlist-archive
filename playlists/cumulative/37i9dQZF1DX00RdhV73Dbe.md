@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4LUAUdOKbwrwzojI0QmfBY)
+72 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4LUAUdOKbwrwzojI0QmfBY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Reach](https://open.spotify.com/track/5gDNXpsEXyq7P95jU3xUwM) | [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [FWM003](https://open.spotify.com/album/75Rv1yZhnL1PRuP13yOd86) | 5:21 | 2022-07-29 |  |
 | [Real Enough To Feel Good](https://open.spotify.com/track/5lVPbg9XJzLHsjoYcrnEXf) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Real Enough To Feel Good](https://open.spotify.com/album/6dqJnQp0qoNsklAphZyTYQ) | 5:06 | 2022-07-29 |  |
 | [Rise Up](https://open.spotify.com/track/7yJA6T22HPJAU8eJX4J2od) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Everything Comes True](https://open.spotify.com/album/6m3K8LjG7jJDtAhJ4FkWPS) | 6:37 | 2022-07-29 |  |
-| [sadguitar\_V777.wav](https://open.spotify.com/track/0sUpjP1nHRRPJ5I0gq9BdH) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/51Di4JF9jeiTr3IFPmvCsV) | 3:57 | 2022-07-29 |  |
+| [sadguitar\_V777.wav](https://open.spotify.com/track/0sUpjP1nHRRPJ5I0gq9BdH) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/51Di4JF9jeiTr3IFPmvCsV) | 3:57 | 2022-07-29 | 2022-10-15 |
+| [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2022-07-29 |  |
 | [Scalar \- HAAi Remix](https://open.spotify.com/track/0iGooa2YKPoK5lwTLzJIcS) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Yearning for the Infinite Remixed](https://open.spotify.com/album/7Fo17tDxpIkg3sc1zuUbOr) | 7:02 | 2022-07-29 |  |
 | [Se Rompen](https://open.spotify.com/track/7e8l7wpK6qow08gSoNxtcK) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Se Rompen](https://open.spotify.com/album/2xwO3JeOSSCSwFWwNkmP4O) | 5:22 | 2022-07-29 |  |
 | [See Other People](https://open.spotify.com/track/1kEd5QLxm8yfcTr3CVxGNS) | [Cosmin TRG](https://open.spotify.com/artist/4jRLIIrKvl4rAmir58oDK0) | [Generation Dubstep](https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH) | 4:59 | 2022-07-29 |  |

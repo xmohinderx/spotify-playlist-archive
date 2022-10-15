@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-118 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+119 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Po\-Dunk](https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Po\-Dunk](https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR) | 4:31 | 2021-05-21 |  |
 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 | 2021-05-21 |  |
 | [Read Me My Rights](https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:54 | 2021-05-21 |  |
+| [Ready To Go](https://open.spotify.com/track/3S5Y7dgTwR6AFgRM5UQaGk) | [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Ready To Go](https://open.spotify.com/album/6z7Nn8aGTbb3Yek7Alrkbj) | 3:10 | 2022-10-14 |  |
 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 | 2021-05-21 |  |
 | [Redneck for Life](https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Redneck for Life](https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML) | 2:52 | 2021-11-05 |  |
 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 | 2022-03-18 |  |

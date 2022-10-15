@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-254 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+255 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Calm Down](https://open.spotify.com/track/1fMSos1k5UVJ9mxQtkQt2X) | [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk) | [Calm Down](https://open.spotify.com/album/79RUYavOfFan3GiQaUHDJV) | 2:10 | 2022-06-27 | 2022-07-05 |
 | [Can't Find](https://open.spotify.com/track/1ktK35q1xiDJ2Wb0OMNICY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/1ueX4F8QIbP5n19urjmYq1) | 4:19 | 2022-06-06 | 2022-07-29 |
 | [Caught Up In Your Head](https://open.spotify.com/track/4pPgwWIxHYZNtso47GXUob) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [Caught Up In Your Head](https://open.spotify.com/album/4mvGpe3RbO9OLW8Z3zvr7R) | 3:27 | 2022-06-06 | 2022-07-29 |
-| [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 | 2022-06-06 | 2022-07-29 |
+| [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 | 2022-06-06 |  |
 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 | 2022-07-25 |  |
 | [Chill](https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Chill](https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR) | 4:03 | 2022-06-06 | 2022-07-29 |
 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 | 2022-07-25 |  |
@@ -116,6 +116,7 @@
 | [I Don't Wanna Go](https://open.spotify.com/track/7tVtcdrkn4jXgRwVELs5vg) | [Route 83](https://open.spotify.com/artist/5uppePcM1uv6mrpw29yEds), [Kurt Fick](https://open.spotify.com/artist/5dYMPia3Y7276RzDi1gMSE) | [I Don't Wanna Go](https://open.spotify.com/album/6emngssZDyoa11zo4WDx7G) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [I Know \(with Timothy Adams\)](https://open.spotify.com/track/5oTJfzr9pZUL3RbjTsBqIL) | [Shyloh](https://open.spotify.com/artist/5H9CmuXeyRIyUMBbPKh2La), [Timothy Adams](https://open.spotify.com/artist/4CacRYUQWxozQ2871wJaaR) | [I Know \(with Timothy Adams\)](https://open.spotify.com/album/0vk3FXwatjbovun8nJwfUX) | 3:18 | 2022-06-06 | 2022-07-29 |
 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 | 2022-07-25 | 2022-10-13 |
+| [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 | 2022-10-10 |  |
 | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC) | [takeshi iwamoto](https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9) | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/album/2Es4yinpnkszumajLeesGb) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 | 2022-06-06 |  |
 | [I'll Come Back to You](https://open.spotify.com/track/0vAZmBMWlpbEHf1Vk0FLMc) | [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [I'll Come Back to You](https://open.spotify.com/album/01ezCAKpdevX1bbGWlSdMA) | 1:53 | 2022-06-20 | 2022-07-25 |
@@ -131,7 +132,7 @@
 | [It's Not This](https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2) | 3:10 | 2022-07-25 |  |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-12 |  |
 | [Just a Phone Call Away](https://open.spotify.com/track/7gqq9KB1fvORR9dEWJ1y2F) | [Lui Peng](https://open.spotify.com/artist/44ntLEmQVlftYGxgHgwxBJ) | [Just a Phone Call Away](https://open.spotify.com/album/4Jz3byNMhYOY7eanWoj4aH) | 2:35 | 2022-06-06 | 2022-07-28 |
-| [Keep Me Up](https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Keep Me Up](https://open.spotify.com/album/27CHocZopHED9uvae877j3) | 3:18 | 2022-07-25 |  |
+| [Keep Me Up](https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Keep Me Up](https://open.spotify.com/album/27CHocZopHED9uvae877j3) | 3:18 | 2022-07-25 | 2022-10-15 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-25 |  |
 | [Late \(Again\)](https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/5sXWRGyWQL7kMXbqYl2ltR) | 1:55 | 2022-06-06 | 2022-07-27 |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2022-07-25 |  |
@@ -209,7 +210,7 @@
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2022-08-08 |  |
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2022-07-25 | 2022-10-13 |
 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 | 2022-08-29 | 2022-10-13 |
-| [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 |  |
+| [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 | 2022-10-15 |
 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 | 2022-07-25 |  |
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2022-07-25 |  |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2022-07-25 |  |

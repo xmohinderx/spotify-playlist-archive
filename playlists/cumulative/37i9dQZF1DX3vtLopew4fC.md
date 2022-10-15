@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-529 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+532 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Don't Blame Them](https://open.spotify.com/track/5XWaDaOnv4mTxXu24CK0Cd) | [OBUXUM](https://open.spotify.com/artist/3tJo3uYHHVCaH9vAgdUhtx), [yourhomienaomii](https://open.spotify.com/artist/5VMMNVaGykl9tKRZYKPTak) | [Re\-Birth](https://open.spotify.com/album/2reaet2DHXMQk8d2PPFgck) | 2:55 | 2022-02-02 | 2022-03-09 |
 | [Don't Explain](https://open.spotify.com/track/4aMJWOxbgdreFo0CAzuVyC) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 5:08 | 2022-04-06 | 2022-05-04 |
 | [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-05-04 | 2022-06-01 |
-| [Don't Mind](https://open.spotify.com/track/6rgamKIpPgddW3Fc0J1KBo) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/0VTL1h4Vk5JCN7f3YqQoFF) | 3:17 | 2022-10-05 |  |
+| [Don't Mind](https://open.spotify.com/track/2xv35DpHy7xmnCkPWKo4dC) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/6IgiDt94AUYI6TANSG6SNa) | 3:17 | 2022-10-12 |  |
+| [Don't Mind](https://open.spotify.com/track/6rgamKIpPgddW3Fc0J1KBo) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/0VTL1h4Vk5JCN7f3YqQoFF) | 3:17 | 2022-10-05 | 2022-10-15 |
 | [Don't Text](https://open.spotify.com/track/6y50JldxkXm0prq58sOCfc) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Don't Text](https://open.spotify.com/album/2iurH8YEYfOW9ng7hddqDE) | 1:50 | 2022-04-06 | 2022-05-04 |
 | [Done](https://open.spotify.com/track/6xTxGWOvupBLXcSSyVJ6FI) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [Done](https://open.spotify.com/album/7kmcndwYUnbpSjTICzrUs4) | 2:13 | 2022-08-03 | 2022-09-09 |
 | [Dopamine](https://open.spotify.com/track/2Lpx8UUlTRWjeEEBmXA887) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Dopamine](https://open.spotify.com/album/1uxAsIDfTdZNDNL8SadH37) | 3:12 | 2022-03-08 | 2022-04-07 |
@@ -145,7 +146,8 @@
 | [En deux mots](https://open.spotify.com/track/1qB60w534lMjIHtih7n6CV) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [En deux mots](https://open.spotify.com/album/0HQJVt3EWi7nBnqinX8wIF) | 3:47 | 2021-12-08 | 2022-01-06 |
 | [Energy](https://open.spotify.com/track/12q3pDcjI9HYZwd5rhSSvY) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Loss Of Valuable Energy \(L.O.V.E.\)](https://open.spotify.com/album/0goRiyw1IR5vSWD8UNfnmy) | 3:16 | 2022-06-01 | 2022-07-07 |
 | [Even is the Lie](https://open.spotify.com/track/06ROgKWslcLeQaHUUnxMsE) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 4:06 | 2022-01-05 | 2022-02-03 |
-| [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 | 2022-10-05 |  |
+| [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 | 2022-10-05 | 2022-10-15 |
+| [Everything I'm Not](https://open.spotify.com/track/6zJKS2ThHSC5kcQ9uXDcnU) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/6Qhq8Uz0MzaoywuchU3QoE) | 2:42 | 2022-10-12 |  |
 | [Exibisionista](https://open.spotify.com/track/7cuQBR9Tfa9whowvLOz38X) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Exibisionista](https://open.spotify.com/album/5q2Gn4E5iAQ7d3yhAjwij0) | 3:02 | 2022-10-05 |  |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-05-04 | 2022-06-01 |
 | [Failed English](https://open.spotify.com/track/7InQCJowZV0DoonCNE4mdv) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Failed English](https://open.spotify.com/album/0EsAm6SXsqxYhmTA7g6PKG) | 2:43 | 2022-01-05 | 2022-02-03 |
@@ -196,7 +198,8 @@
 | [Heartbreaker](https://open.spotify.com/track/4Eobo8o8tRf7Az0fUxvl2O) | [Christina Pasion](https://open.spotify.com/artist/6pSXhHUYuT8olNVY7682ZR) | [Heartbreaker](https://open.spotify.com/album/1r4565Wbdp1eXDMWeB2VVn) | 2:36 | 2022-07-06 | 2022-08-04 |
 | [Heat Rush](https://open.spotify.com/track/1c1bXK9Ez12AX3HRIc2CuM) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Dyer](https://open.spotify.com/artist/2IIUOhW1MYd4yXbF3EdpDW) | [Heat Rush](https://open.spotify.com/album/11srcc3f4TvwQCnR0rql1J) | 2:52 | 2022-08-03 | 2022-09-09 |
 | [Heaven](https://open.spotify.com/track/0tPS9OvVBBDATXPOAjodo8) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Heaven](https://open.spotify.com/album/5svxXfdWJjTGMgMY4LBh8S) | 3:56 | 2022-01-05 | 2022-02-03 |
-| [Heavy](https://open.spotify.com/track/6j1TragEt7uh17933xPFxe) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/5i3uICWTYQabTzcRlvZRss) | 3:07 | 2022-10-05 |  |
+| [Heavy](https://open.spotify.com/track/6j1TragEt7uh17933xPFxe) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/5i3uICWTYQabTzcRlvZRss) | 3:07 | 2022-10-05 | 2022-10-15 |
+| [Heavy](https://open.spotify.com/track/7q0MPwF6ORiKJWXLYGAhsH) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:07 | 2022-10-12 |  |
 | [Here](https://open.spotify.com/track/5AWG9WZvWqx9w8am9Vl8TS) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Here](https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng) | 3:14 | 2022-08-03 | 2022-09-09 |
 | [Hey Mama](https://open.spotify.com/track/4ZLxc4XwUQni9pYyHI1Je5) | [Kyla Charter](https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9) | [Hey Mama](https://open.spotify.com/album/0HDUISzJGl5h13H4AO4mFm) | 3:14 | 2022-06-01 | 2022-07-07 |
 | [High & Choking, Pt\. 1](https://open.spotify.com/track/2anDfzfVPHRHjfJz8UsOHq) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [High & Choking / Chains](https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF) | 3:05 | 2022-02-02 | 2022-03-09 |

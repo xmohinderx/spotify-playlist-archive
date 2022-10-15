@@ -1,32 +1,60 @@
 {
   "description": "Neighborhood Storytellers. Cover: Lil Tjay",
-  "num_followers": 52443,
+  "num_followers": 52485,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDQzYmI5OGQwZjA3YjgzMjYyOWQzOWI2NGI0Y2U4NDI1",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGJlZTRmMjkwMWM3YmVmYWUzMWE0OTRjNDcxZGY2Y2E5",
   "tracks": [
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Family & Mula",
-        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Heaven For Thugs (Letter to Wap)",
+        "url": "https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI"
+      },
+      "artists": [
         {
           "name": "NoCap",
           "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 249270,
-      "name": "Bigger Jeans (feat. NoCap)",
-      "url": "https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h"
+      "duration_ms": 390861,
+      "name": "Heaven For Thugs (Letter to Wap)",
+      "url": "https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Risk Takers",
+        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141888,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -63,22 +91,6 @@
       "duration_ms": 180002,
       "name": "Live Life Die Faster (with Kodak Black)",
       "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Risk Takers",
-        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141888,
-      "name": "Risk Takers",
-      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -119,6 +131,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 249270,
+      "name": "Bigger Jeans (feat. NoCap)",
+      "url": "https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Tez & Tone 1",
         "url": "https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd"
       },
@@ -131,6 +163,26 @@
       "duration_ms": 230526,
       "name": "Tez & Tone 1",
       "url": "https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "On 10",
+        "url": "https://open.spotify.com/album/4kgelPL8DSWJdhG3sOtLgq"
+      },
+      "artists": [
+        {
+          "name": "SipTee",
+          "url": "https://open.spotify.com/artist/31rh41TZtR4OpDLeWa4muz"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192432,
+      "name": "On 10 (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/5QUd0OsjBoPDrNMUlovc7y"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -745,22 +797,6 @@
       "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
     },
     {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "IronMan",
-        "url": "https://open.spotify.com/album/2woBXzBABHDsVvb6ZbZg8t"
-      },
-      "artists": [
-        {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        }
-      ],
-      "duration_ms": 165478,
-      "name": "IronMan",
-      "url": "https://open.spotify.com/track/1VztOdqFSTBEjBJMTbmfNW"
-    },
-    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "Mr. Crawford",
@@ -861,22 +897,6 @@
       "url": "https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ"
     },
     {
-      "added_at": "2022-01-28 20:27:47",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 193595,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC"
-    },
-    {
       "added_at": "2022-04-15 06:22:20",
       "album": {
         "name": "Last One Left",
@@ -895,26 +915,6 @@
       "duration_ms": 195590,
       "name": "Last One Left (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Realer and Realer (feat. Jackboy)",
-        "url": "https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg"
-      },
-      "artists": [
-        {
-          "name": "Dee Watkins",
-          "url": "https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3"
-        },
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Realer and Realer (feat. Jackboy)",
-      "url": "https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP"
     },
     {
       "added_at": "2022-03-18 05:00:00",

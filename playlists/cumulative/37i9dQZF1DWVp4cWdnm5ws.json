@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
+      },
+      "artists": [
+        {
+          "name": "Lesha",
+          "url": "https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142162,
+      "name": "Eleven: Eleven",
+      "url": "https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG"
+    },
+    {
+      "album": {
         "name": "Eleven:Eleven",
         "url": "https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I"
       },
@@ -443,7 +461,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 142162,
       "name": "Eleven:Eleven",
       "url": "https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY"
@@ -1749,10 +1767,36 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 218720,
       "name": "Twin Flames",
       "url": "https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT"
+    },
+    {
+      "album": {
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
+      },
+      "artists": [
+        {
+          "name": "Lesha",
+          "url": "https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi"
+        },
+        {
+          "name": "Lewis Maxwell",
+          "url": "https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T"
+        },
+        {
+          "name": "Ghauri",
+          "url": "https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Twin Flames",
+      "url": "https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb"
     },
     {
       "album": {

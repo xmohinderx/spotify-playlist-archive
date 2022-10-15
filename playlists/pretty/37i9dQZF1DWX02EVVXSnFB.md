@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,786 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,813 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 27 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 |
 | 28 | [Got 2 Be Loved](https://open.spotify.com/track/2Rsn3b2wzflcjX0pXcZFdj) | [Soul Reductions](https://open.spotify.com/artist/1z0WDGqbharsGI6n33mwhj) | [Got 2 Be Loved](https://open.spotify.com/album/2jeNULyvELdIrhrQsCOVmq) | 3:32 |
 | 29 | [I Want Cha Back](https://open.spotify.com/track/4M0RRVGRM7ci5TzcSUzHxt) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [BA3](https://open.spotify.com/album/53XrUgJ4XzrQ9zBMRthuOF) | 3:34 |
-| 30 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 |
+| 30 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 |
 | 31 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 |
 | 32 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
 | 33 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 50 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 51 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
 
-Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMGQ3ZGZjZjEyMGRlNzRjNzUxM2RjMWRkNWRlMTlhNGFk`
+Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMDBkMzUzMzZkMTM2N2U3YzI1NzBjMWZlMTM3YzI4NDgy`

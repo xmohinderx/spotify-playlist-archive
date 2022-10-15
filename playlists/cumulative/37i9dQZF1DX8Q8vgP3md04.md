@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-60 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
+61 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Checheho](https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD) | [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Checheho](https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv) | 6:09 | 2018-10-04 |  |
 | [Debzezesh](https://open.spotify.com/track/5nUbqoz7j9btdIZkkuJL5a) | [Eyob Mekonen](https://open.spotify.com/artist/5hn5axBeYPCxuGA07FE731) | [Ende Kal](https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo) | 6:26 | 2018-10-04 |  |
 | [Disc 1: Sitalekish Des Alishign \(A\. Agonafir\)](https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- 6\-cd Box Set](https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4) | 5:04 | 2018-10-04 | 2022-07-29 |
-| [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 |  |
+| [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 | 2022-10-15 |
+| [Dèra](https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:23 | 2018-10-04 |  |
 | [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 | 2018-10-04 |  |
 | [Endet Lichal](https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 5:29 | 2018-10-04 |  |
 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2018-10-04 |  |

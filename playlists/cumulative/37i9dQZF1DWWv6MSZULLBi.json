@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: First Aid Kit",
+  "description": "A laid-back trip in the folk scene. Cover: Noah Kahan",
   "name": "Folk & Friends",
   "published_playlist_ids": [
     "5U0EeaLNxWf1VoBuo6txNc"
@@ -95,6 +95,24 @@
       "duration_ms": 185933,
       "name": "All This Time Running",
       "url": "https://open.spotify.com/track/0s7MLG3lt8mzq9SDfsYRcu"
+    },
+    {
+      "album": {
+        "name": "Along for the Ride",
+        "url": "https://open.spotify.com/album/5zUul6JFofk88lBe5g4S75"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200583,
+      "name": "Along for the Ride",
+      "url": "https://open.spotify.com/track/6n5QC6I90spAvogzjP0K1f"
     },
     {
       "album": {
@@ -874,6 +892,24 @@
     },
     {
       "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/5MuhSLmBPXFjYyf3LWRtFm"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292101,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/6bgw8JsLN2d5Ku8u9aVob9"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/4IF5F9A68n96gZd9uJTY7A"
       },
@@ -1243,7 +1279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 197850,
       "name": "Friends Are Miracles",
       "url": "https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4"
@@ -1355,7 +1391,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 215493,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/57lBDEtlUhzU18Co0DToLg"
@@ -2005,7 +2041,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 215952,
       "name": "Maybe - Live Acoustic",
       "url": "https://open.spotify.com/track/3dHgx0EUuqsctUJOuPnaa8"
@@ -2369,7 +2405,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
@@ -2477,10 +2513,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 257334,
       "name": "Opening the Sky",
       "url": "https://open.spotify.com/track/3C5jENIYVwG38O0QkjlAA4"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297103,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
     },
     {
       "album": {
@@ -2730,6 +2784,24 @@
     },
     {
       "album": {
+        "name": "Rhododendron",
+        "url": "https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Rhododendron",
+      "url": "https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX"
+    },
+    {
+      "album": {
         "name": "Rivers Underground",
         "url": "https://open.spotify.com/album/1EeLU0ZjBdR8RdwsSxWTrM"
       },
@@ -2817,7 +2889,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
@@ -3160,6 +3232,24 @@
     },
     {
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/5CBMSdak065N1Uw7uW6EuJ"
+      },
+      "artists": [
+        {
+          "name": "Emma Frank",
+          "url": "https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236946,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0ftMBc9uobOjizZv7D6vqn"
+    },
+    {
+      "album": {
         "name": "Steady Hands",
         "url": "https://open.spotify.com/album/0WOARW08YKazgcu8LPL4bg"
       },
@@ -3233,6 +3323,24 @@
       "duration_ms": 172857,
       "name": "Stir the Ashes",
       "url": "https://open.spotify.com/track/3mdchH0HaDSPa3bK6DUlsu"
+    },
+    {
+      "album": {
+        "name": "Beyond the Reservoir",
+        "url": "https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370895,
+      "name": "Stolen Lands",
+      "url": "https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1"
     },
     {
       "album": {

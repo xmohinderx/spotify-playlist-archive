@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 117162,
+  "num_followers": 117293,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMDUzMzgyMjQ2N2RkNTI0ZDBjN2JhNDAwNGY0Y2E0YWE4",
+  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMDVjNDZmYmQ5MjhhYTk1ZDAxZDhhOTExYjk2MDA2OTA0",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y"
     },
     {
-      "added_at": "2022-10-14 01:38:00",
+      "added_at": "2022-10-15 01:30:34",
       "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu"
     },
     {
-      "added_at": "2022-10-14 01:38:00",
+      "added_at": "2022-10-15 01:30:34",
       "album": {
         "name": "All Through The Day",
         "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
@@ -769,26 +769,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2022-02-04 15:20:01",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 171342,
-      "name": "Log In Your Fire",
-      "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -807,6 +787,26 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2022-02-04 15:20:01",
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 171342,
+      "name": "Log In Your Fire",
+      "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
     },
     {
-      "added_at": "2022-08-31 04:59:11",
-      "album": {
-        "name": "See Her",
-        "url": "https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho"
-      },
-      "artists": [
-        {
-          "name": "Julia Romana",
-          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "See Her",
-      "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Silver Ladders",
@@ -877,6 +861,22 @@
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
+      "added_at": "2022-08-31 04:59:11",
+      "album": {
+        "name": "See Her",
+        "url": "https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "See Her",
+      "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
+    },
+    {
       "added_at": "2022-07-15 05:42:57",
       "album": {
         "name": "Robot Riot",
@@ -891,6 +891,22 @@
       "duration_ms": 176952,
       "name": "Robot Riot",
       "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
+    },
+    {
+      "added_at": "2022-08-31 05:00:32",
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -923,22 +939,6 @@
       "duration_ms": 268128,
       "name": "Dirt on the Bed",
       "url": "https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U"
-    },
-    {
-      "added_at": "2022-08-31 05:00:32",
-      "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Las Olas Contra Todos",
-        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 165113,
-      "name": "Las Olas Contra Todos",
-      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
-    },
-    {
       "added_at": "2022-08-02 14:49:54",
       "album": {
         "name": "Atemporal",
@@ -1067,6 +1051,22 @@
       "duration_ms": 215296,
       "name": "No tiempo",
       "url": "https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4"
+    },
+    {
+      "added_at": "2022-04-20 13:58:09",
+      "album": {
+        "name": "Las Olas Contra Todos",
+        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 165113,
+      "name": "Las Olas Contra Todos",
+      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Cosmorama",
@@ -1163,6 +1147,22 @@
       "duration_ms": 258420,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-07-15 05:46:40",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
-      "added_at": "2022-07-15 05:20:53",
-      "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
-      },
-      "artists": [
-        {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
-        }
-      ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
-    },
-    {
       "added_at": "2022-08-13 01:26:08",
       "album": {
         "name": "Escultura Misterio",
@@ -1443,6 +1427,22 @@
       "duration_ms": 173862,
       "name": "Escultura Misterio",
       "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
+    },
+    {
+      "added_at": "2022-07-15 05:20:53",
+      "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
       "added_at": "2021-10-06 20:23:10",

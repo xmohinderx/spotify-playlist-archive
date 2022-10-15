@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 79213,
+  "num_followers": 79234,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDRkNzAxZmZhYWI3ZDMwYTVmYzVlMDBkZjkzMTE1YmQ0",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDhjMjg4ODAwZWJiZTUzNTMxMDk1MDMwYjA1ODY3NmZl",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Nada Me Obliga",
+      "url": "https://open.spotify.com/track/1ZgffyEDYfzRqr54XQKuF4"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Polvo Eres",
         "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
       },
@@ -199,26 +215,6 @@
       "duration_ms": 263390,
       "name": "El Pu\u00f1al",
       "url": "https://open.spotify.com/track/6cO3H592rPALlR3XoUG0P9"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Perro Come Perro",
-        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        },
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 197334,
-      "name": "Perro Come Perro",
-      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -255,18 +251,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+        "name": "Perro Come Perro",
+        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
       "artists": [
         {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
         }
       ],
-      "duration_ms": 237173,
-      "name": "Nada Me Obliga",
-      "url": "https://open.spotify.com/track/1ZgffyEDYfzRqr54XQKuF4"
+      "duration_ms": 197334,
+      "name": "Perro Come Perro",
+      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Sesiones 10.10 (En Vivo)",
-        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 307040,
-      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
-      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Sigo",
         "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 205180,
       "name": "Nada que hablar (feat. Aterciopelados)",
       "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Sesiones 10.10 (En Vivo)",
+        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 307040,
+      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
+      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 203592,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Si no es muy tarde",
         "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 153433,
       "name": "Si no es muy tarde",
       "url": "https://open.spotify.com/track/5lUS2JGjBQrVvUVgd2jgdF"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Sangre de Pr\u00f3fugo",
         "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 211746,
       "name": "Sangre de Pr\u00f3fugo",
       "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
     },
     {
       "added_at": "2022-10-13 15:12:40",

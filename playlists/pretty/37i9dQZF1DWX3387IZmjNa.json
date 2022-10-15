@@ -1,28 +1,52 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Kalan.FrFr",
-  "num_followers": 1901618,
+  "num_followers": 1901753,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDBjOWVlMzVlNjNjYzA1MDFlNGY2OWRkOTUxOGUzNDkz",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGZkZmI1YjBmMjZlYWEwNzdmYzgzMTVmZDUzNzRkNzYy",
   "tracks": [
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 132538,
-      "name": "Date Night",
-      "url": "https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T"
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 270198,
+      "name": "Mixy (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1qMnyfVxKKlAxYrFPYTuph"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -39,6 +63,50 @@
       "duration_ms": 213288,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 223232,
+      "name": "BEAUTIFUL (feat. Future & SZA)",
+      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203917,
+      "name": "My Go To (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -77,92 +145,40 @@
       "url": "https://open.spotify.com/track/1t8ELLu3PQ2Lvd3mghcmM9"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203917,
-      "name": "My Go To (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 223232,
-      "name": "BEAUTIFUL (feat. Future & SZA)",
-      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Only Built For Infinity Links",
-        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 270198,
-      "name": "Mixy (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/1qMnyfVxKKlAxYrFPYTuph"
+      "duration_ms": 132538,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/0l7iZ6objNnhQYiAFzMWOM"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3Z2ASDuTah7auTOSVmDMo5"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -187,6 +203,26 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -229,24 +265,24 @@
       "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ain\u2019t No Love (feat. 2 Chainz)",
-        "url": "https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI"
+        "name": "Crazy Girls",
+        "url": "https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Day Sulan",
+          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
         },
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 184976,
-      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV"
+      "duration_ms": 231828,
+      "name": "Slide-In (feat. YG)",
+      "url": "https://open.spotify.com/track/47YxktAwOYF7RXfDbBuzI6"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -267,6 +303,22 @@
       "duration_ms": 221534,
       "name": "Love In The Way",
       "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 209291,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -319,6 +371,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+        "url": "https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 184976,
+      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Baby On Baby 2",
         "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
       },
@@ -335,22 +407,6 @@
       "duration_ms": 199270,
       "name": "BLANK (feat. Anthony Hamilton)",
       "url": "https://open.spotify.com/track/62vWechOpCFotPUsE8KAq4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Lost Souls",
-        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 209185,
-      "name": "Lesson Learned",
-      "url": "https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -437,6 +493,26 @@
       "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 157835,
+      "name": "Stop Playin (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/6kSPwMUYpnBDIWViA3MKMT"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
@@ -459,22 +535,6 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "WASTING YOUR TIME",
-        "url": "https://open.spotify.com/album/6dV3GhBlS87SkMPfSda9S9"
-      },
-      "artists": [
-        {
-          "name": "Booka600",
-          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
-        }
-      ],
-      "duration_ms": 149059,
-      "name": "WASTING YOUR TIME",
-      "url": "https://open.spotify.com/track/1HvjQc9BqIQVhQvR8BqkvR"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -603,22 +663,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Teach Her The Game",
-        "url": "https://open.spotify.com/album/4e6FwvLip0QgE6ix2fQjG6"
-      },
-      "artists": [
-        {
-          "name": "Whookilledkenny",
-          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
-        }
-      ],
-      "duration_ms": 138716,
-      "name": "Teach Her The Game",
-      "url": "https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "India Me",
         "url": "https://open.spotify.com/album/1vPxv5pAUpEJORNnjwogar"
       },
@@ -687,26 +731,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 220422,
-      "name": "Consistency (feat. Jhene Aiko)",
-      "url": "https://open.spotify.com/track/0pA1KdUSZEDAL0swN18Mh8"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Banking On Me",
         "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
       },
@@ -719,26 +743,6 @@
       "duration_ms": 200000,
       "name": "Banking On Me",
       "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Don't Look At Numbers (Remix)",
-        "url": "https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO"
-      },
-      "artists": [
-        {
-          "name": "Tony Shhnow",
-          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 217704,
-      "name": "Don't Look At Numbers - Remix",
-      "url": "https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -759,6 +763,26 @@
       "duration_ms": 158268,
       "name": "Playa (feat. H.E.R.) [Bonus]",
       "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "ADDICTIONS (FEAT. Tre' Amani)",
+      "url": "https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -911,26 +935,6 @@
       "duration_ms": 184523,
       "name": "OT (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1GDmorBhnsYZYUU04LiFEm"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Tre' Amani",
-          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "ADDICTIONS (FEAT. Tre' Amani)",
-      "url": "https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI"
     }
   ],
   "unique_name": "B.A.E.",

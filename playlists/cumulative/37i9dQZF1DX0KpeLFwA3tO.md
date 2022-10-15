@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: FIDLAR
 
-661 songs - 1 day 9 hr 8 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+663 songs - 1 day 9 hr 13 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Daniel, I'm Not Gonna Make It\. Go Ahead Without Me.](https://open.spotify.com/track/7GVWRchkbkVfKvs3Yg4WAM) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [Daniel, I'm Not Gonna Make It\. Go Ahead Without Me.](https://open.spotify.com/album/5PyXaokxaYD39EJbNvPeC1) | 4:00 | 2022-06-09 | 2022-07-15 |
 | [Darby Crashing Your Party](https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Darby Crashing Your Party](https://open.spotify.com/album/1CeF4JeD01o7FbPRmDu25J) | 2:24 | 2022-09-29 |  |
 | [Date With Death](https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU) | [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT), [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Date With Death](https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA) | 1:59 | 2022-08-04 | 2022-09-23 |
-| [Dead and Gone](https://open.spotify.com/track/7gpXmJgNOpapz5GxFs0FGW) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [Dead and Gone](https://open.spotify.com/album/26d640oDNCm5BcEYt3vX5r) | 2:44 | 2022-10-13 |  |
+| [Dead and Gone](https://open.spotify.com/track/1E3gbjnloxboIn5r3K8IcD) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [Seventh Wave](https://open.spotify.com/album/4bZnVnQDg85dT7S4SReDcJ) | 2:44 | 2022-10-13 |  |
+| [Dead and Gone](https://open.spotify.com/track/7gpXmJgNOpapz5GxFs0FGW) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [Dead and Gone](https://open.spotify.com/album/26d640oDNCm5BcEYt3vX5r) | 2:44 | 2022-10-13 | 2022-10-15 |
 | [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 | 2022-02-11 | 2022-04-01 |
 | [Dead Heat](https://open.spotify.com/track/7GNWImv0sysdXlqNNvQrYK) | [Hippie Trim](https://open.spotify.com/artist/4NoLhg2lDgMdSvmD7GUJet) | [Dead Heat](https://open.spotify.com/album/7CxAo6qos0aNzCFXGM5Kem) | 2:45 | 2022-07-28 | 2022-09-09 |
 | [Dead Ringer](https://open.spotify.com/track/0kG9ELc4aaj9XMPJSvriBU) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Dead Ringer](https://open.spotify.com/album/0uGKj38lbgHLGRSOEjcvEk) | 2:41 | 2022-09-08 |  |
@@ -484,7 +485,8 @@
 | [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-26 | 2022-07-15 |
 | [Same](https://open.spotify.com/track/7bvRiYdF3iz7MTDYC4vVWs) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Same](https://open.spotify.com/album/1SARpFDdsDM4ZS2UWqH51s) | 3:38 | 2022-06-16 | 2022-07-29 |
 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 | 2022-06-09 | 2022-07-08 |
-| [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 | 2022-10-13 |  |
+| [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 | 2022-10-13 | 2022-10-15 |
+| [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 | 2022-10-13 |  |
 | [Satellites in Motion](https://open.spotify.com/track/4MaiSzPktcmSRLieq54dAe) | [Destroy Rebuild Until God Shows](https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo) | [Satellites in Motion](https://open.spotify.com/album/5Uy5NdsvHtmJz4vfsJNydz) | 2:46 | 2022-03-11 | 2022-07-29 |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2022-09-29 |  |
 | [Say It To My Face](https://open.spotify.com/track/2cPoeRmv4METe4ud4T451Z) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising, Pt\. 2 \(Deluxe\)](https://open.spotify.com/album/3ISr49xTJE64EiGsZfDpiW) | 2:41 | 2021-12-17 | 2022-01-28 |

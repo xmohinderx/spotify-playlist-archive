@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > ur favorite queer bedroom club
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,448 likes - 56 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,567 likes - 56 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Muschi Muschi](https://open.spotify.com/track/3pqvIzV7DIS9orbtKlHAal) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [SLUT BOPZ VOL\. I](https://open.spotify.com/album/1bFC5vkhBXMF7Xz36e87rw) | 3:02 |
-| 2 | [DEATH BY PUSSY](https://open.spotify.com/track/2ACsS8OzRf6Up3iySax5tV) | [DJ FUCKOFF](https://open.spotify.com/artist/4d32mSlrnC5J6xOkSmGQsf), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/5cLj0MKQjx66hwwwYveErJ) | 4:36 |
+| 2 | [DEATH BY PUSSY](https://open.spotify.com/track/2ACsS8OzRf6Up3iySax5tV) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/5cLj0MKQjx66hwwwYveErJ) | 4:36 |
 | 3 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 | 4 | [What's the Word \- Wax Wings Remix](https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [What's the Word \(Wax Wings Remix\)](https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO) | 3:29 |
 | 5 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |

@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-70 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
+75 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alpha Sound Bath](https://open.spotify.com/track/1o2AMc7LXyell5edk3rpYG) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Chromabaths](https://open.spotify.com/album/3COfB16rn7vwZ49mNj6Puk) | 2:20 | 2022-09-30 |  |
 | [Ancient Rainforest](https://open.spotify.com/track/6MjrUU71pjTyp1khZr0ZVh) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Ancient Rainforest](https://open.spotify.com/album/00rkvNXq3KIytVhbEVWIpY) | 2:00 | 2022-09-15 |  |
 | [Angelic Waves](https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Angelic Waves](https://open.spotify.com/album/52fu5J6B5UztithHQhrcXY) | 4:17 | 2022-10-07 |  |
+| [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 |  |
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2022-09-15 |  |
 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2022-09-15 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2022-09-15 |  |
@@ -29,6 +30,7 @@
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2022-09-15 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-09-15 |  |
 | [Eternal Forest \(417 Hz Healing Meditation\)](https://open.spotify.com/track/1lR9VEaW8mD2SXuAtr4d9w) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Eternal Forest](https://open.spotify.com/album/6FhvOH8TzkOWyvWRXFCk5A) | 4:01 | 2022-09-15 |  |
+| [Ethereal Waves](https://open.spotify.com/track/2yeN8GlhSig74nUe3KFKOx) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Ethereal Waves](https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY) | 2:18 | 2022-10-14 |  |
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-09-15 |  |
 | [Fleuriste \- Meditation](https://open.spotify.com/track/69f7nyk91VrWuNXjAOENML) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Fleuriste](https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa) | 4:38 | 2022-09-15 |  |
 | [Forest Awakens](https://open.spotify.com/track/5byEWvYqXJvyvIthJtIpHn) | [Doug Loodabert](https://open.spotify.com/artist/1soP7EvA2zGxb39peRXviG) | [Forest Awakens](https://open.spotify.com/album/1CLoQedetRmKO3z1N43wPi) | 2:50 | 2022-09-15 |  |
@@ -36,6 +38,7 @@
 | [Forest Dwelling](https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Forest Dwelling](https://open.spotify.com/album/0jNWQHzzYcS1fPjzNsTAGE) | 32:33 | 2022-09-15 |  |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-09-15 |  |
 | [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2022-09-15 |  |
+| [Frozen Sunlight](https://open.spotify.com/track/02tb4HZydiOwErys8qitIc) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 |  |
 | [Golden Sky \(Meditation\)](https://open.spotify.com/track/7244jlCIRFqRp8yhMaklLN) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Golden Sky](https://open.spotify.com/album/57F1Vi6HQ24RkweWm87Yyt) | 3:06 | 2022-09-15 |  |
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2022-09-15 |  |
 | [In Rhythm](https://open.spotify.com/track/5KuUhoDmQ6NvwHUAHhVmHB) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [In Terra](https://open.spotify.com/album/45CJ4LhQDf4eHyfyrFvo29) | 2:45 | 2022-09-15 |  |
@@ -61,8 +64,10 @@
 | [Paterson's Curse](https://open.spotify.com/track/5OWfVkHNd4tMTMZPXfk9wv) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Forest Sleep](https://open.spotify.com/album/6sNHszYiVNe3hLvWC7f5HN) | 4:38 | 2022-09-15 |  |
 | [Peaceful Forest](https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:58 | 2022-09-15 |  |
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 |  |
+| [Radiance](https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Radiance](https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ) | 2:13 | 2022-10-14 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
 | [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 |  |
+| [Self Empathy \- Night Version](https://open.spotify.com/track/3M1zoke7AguNqJls0YVIGz) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Raphael Beaudon](https://open.spotify.com/artist/4XbEtxj5AxINGaASuk3KD6) | [Self Empathy](https://open.spotify.com/album/0F9UrVkjArSjtuLEpg4qiw) | 2:38 | 2022-10-14 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2022-09-15 |  |
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-09-15 |  |

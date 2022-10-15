@@ -620,6 +620,32 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/0fXksf7oidpAA6o6evLU0f"
+      },
+      "artists": [
+        {
+          "name": "Waxel",
+          "url": "https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087"
+        },
+        {
+          "name": "Fedo",
+          "url": "https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M"
+        },
+        {
+          "name": "Max Landry",
+          "url": "https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/1wyfWtYm1ObQLQ50tm5O9O"
+    },
+    {
+      "album": {
         "name": "Edge Of Tonight",
         "url": "https://open.spotify.com/album/48V7kmffIm49A37EyyLUPH"
       },
@@ -1221,7 +1247,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 162461,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3mZ9iEe21mY35SIRm6D3gP"

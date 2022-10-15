@@ -280,6 +280,28 @@
     },
     {
       "album": {
+        "name": "Bloodpressure",
+        "url": "https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM"
+      },
+      "artists": [
+        {
+          "name": "Rogers & Dean",
+          "url": "https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru"
+        },
+        {
+          "name": "Amvis",
+          "url": "https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Bloodpressure",
+      "url": "https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB"
+    },
+    {
+      "album": {
         "name": "Bot Fight",
         "url": "https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg"
       },

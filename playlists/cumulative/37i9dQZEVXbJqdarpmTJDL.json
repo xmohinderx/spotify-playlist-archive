@@ -6308,6 +6308,28 @@
     },
     {
       "album": {
+        "name": "Gaza",
+        "url": "https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186111,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
+    },
+    {
+      "album": {
         "name": "Geia Sou",
         "url": "https://open.spotify.com/album/54GfyTFSUeGztQc7EoWEsm"
       },
@@ -12281,7 +12303,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 141686,
       "name": "Nisi",
       "url": "https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34"

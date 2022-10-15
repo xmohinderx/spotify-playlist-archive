@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-316 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+319 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Enlightenment](https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:51 | 2022-07-22 |  |
 | [Enlightenment](https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/0I4xfg7IicQQb9KQF3Y9p4) | 2:51 | 2020-10-20\* | 2022-07-29 |
 | [Escaping Reality](https://open.spotify.com/track/7yMHwH6DywcjlVhTWtjlvs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Escaping Reality](https://open.spotify.com/album/0fBSqtlGo2gheiYkSZqdjV) | 3:02 | 2020-10-20\* |  |
+| [Essence Of Life](https://open.spotify.com/track/1AEY6qqRFUTssOXfRZOh9p) | [Sama Reicart](https://open.spotify.com/artist/37ciUEYtMGcDUn53mDSCtb) | [Essence Of Life](https://open.spotify.com/album/6meq3ncBqgqKwKmA8Zy7zR) | 3:15 | 2022-10-15 |  |
 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2020-10-20\* | 2022-09-15 |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2020-10-20\* |  |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2021-04-15 |  |
@@ -146,6 +147,7 @@
 | [Infinity](https://open.spotify.com/track/7j0rOyP9heljOUoUuFTr1Z) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Infinity](https://open.spotify.com/album/3YPKwO0fyF9cXrmDvrIUtb) | 3:23 | 2020-10-20\* |  |
 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2020-10-20\* |  |
+| [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
 | [KSM66](https://open.spotify.com/track/0j4HJOZqgW0hyAQ2nrKLaI) | [Ted Flounders Jr](https://open.spotify.com/artist/1LpZGSGo6JevJrAAc1VnkV) | [Weighted Blanket](https://open.spotify.com/album/3e9a0xxbZwUJO7yXbYG4F6) | 2:17 | 2021-02-25 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2020-10-20\* | 2022-09-15 |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2020-10-20\* |  |
@@ -193,6 +195,7 @@
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2020-10-20\* |  |
 | [Ocean Deep](https://open.spotify.com/track/7uHM2BSftyHsPLIOGB9oY7) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:35 | 2020-10-20\* |  |
 | [Oceanbird Song](https://open.spotify.com/track/3bkDRZy33aVQHK8PZsIPLH) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Salt Dreams](https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS) | 3:25 | 2020-10-20\* |  |
+| [Of Memories To Come](https://open.spotify.com/track/3jWBAmCDeMGFc5iBOfy4rl) | [Elian Costa](https://open.spotify.com/artist/0l7ul5uSQGndF0gOTCRL0Z) | [Of Memories To Come](https://open.spotify.com/album/2YdafUakSLmNYhErroZ6tp) | 2:11 | 2022-10-15 |  |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2020-10-20\* |  |
 | [Omnipresence](https://open.spotify.com/track/6scYL80ldtoY5U8Iv2vtsq) | [Wynton Davidson](https://open.spotify.com/artist/37Q6iiVFO4GhLHVbjIbwTg) | [Omnipresence](https://open.spotify.com/album/1ORZeqjuP3L6nf2DVEtB25) | 2:45 | 2020-10-20\* |  |
 | [Origins of Light](https://open.spotify.com/track/1cFNjRpfevyUzmUnyHLPfe) | [Night Poets](https://open.spotify.com/artist/13Dj1DIYUAAhlmDPdgoDui) | [Parts Unknown](https://open.spotify.com/album/0DY9PT0TNIiAmWSPw3GhK6) | 3:18 | 2020-10-20\* |  |

@@ -4,7 +4,7 @@
 
 > Dj Neptizzle & DJ FiiFii takeover Detty December with an Afro Paradise special, rounding up the biggest tracks from Africa's party season
 
-118 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
+119 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 | 2021-12-13 | 2021-12-31 |
 | [Tigini \- Remix](https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tigini \(Remix\)](https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp) | 3:16 | 2022-01-07 |  |
 | [too easy](https://open.spotify.com/track/4eL3XeuGaEoVT8ttDh3hwY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [too easy](https://open.spotify.com/album/1hbRXvB0m34uUqNU8EbZzc) | 2:18 | 2021-12-31 | 2022-01-08 |
-| [Too Sweet \(O Dun\)](https://open.spotify.com/track/2mfWkv1pXb95OtgGDufSSR) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S) | 3:36 | 2022-01-07 |  |
+| [Too Sweet \(O Dun\)](https://open.spotify.com/track/1EX1Pke2k6d2ry5XLbDtqE) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/253e0DnC2BETCzs8ukwBkn) | 3:36 | 2022-01-09 |  |
+| [Too Sweet \(O Dun\)](https://open.spotify.com/track/2mfWkv1pXb95OtgGDufSSR) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S) | 3:36 | 2022-01-07 | 2022-10-15 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-01-07 |  |
 | [Touch It](https://open.spotify.com/track/4TTEt9AFMoFWxhL5DdN8Ji) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/2uZz2g4WqhQURaPqJuVCM9) | 2:45 | 2021-12-13 | 2021-12-31 |
 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 | 2021-12-31 | 2022-01-08 |

@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-774 songs - 1 day 22 hr 2 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+775 songs - 1 day 22 hr 6 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Opposite Of Loving Me \- Stripped](https://open.spotify.com/track/4qMu6LIImRJVbxB70bdFJj) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Opposite Of Loving Me \(Stripped\)](https://open.spotify.com/album/5sRqlq0KIBgmkOUPB5W1Y9) | 3:31 | 2022-02-03 |  |
 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 | 2022-03-24 | 2022-04-02 |
 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-12-21 | 2022-10-13 |
+| [Ordinary People](https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:13 | 2022-10-07 |  |
 | [Original Sun on a Grand Piano](https://open.spotify.com/track/6Sfv3BXBqiNivlRx7olL8L) | [Nina Kinert](https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O) | [Romantic](https://open.spotify.com/album/1FT8bsGnIVi0M1SHHsKFj3) | 3:59 | 2022-03-24 | 2022-06-22 |
 | [Our Home](https://open.spotify.com/track/3Wu7RZ2ZAaoFc8X8QAK8Ut) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [Our Home](https://open.spotify.com/album/54deuaDJ2fRQgub9HiNMdq) | 4:44 | 2021-12-21 | 2022-07-29 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 | 2022-04-12 |
@@ -521,7 +522,7 @@
 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 | 2022-03-24 | 2022-04-20 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2021-12-21 |  |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2021-12-21 |  |
-| [Rainbow](https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/1LYeiB1jH9liog9Ji1vL49) | 3:51 | 2021-12-21 |  |
+| [Rainbow](https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/1LYeiB1jH9liog9Ji1vL49) | 3:51 | 2021-12-21 | 2022-10-15 |
 | [re:stacks](https://open.spotify.com/track/4dHEQ1W1jRmNjjB0S7vB8V) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/2wBGb1zLSWrmiOdinWE831) | 6:42 | 2022-03-24 | 2022-04-17 |
 | [Reason To Stay](https://open.spotify.com/track/3DS707nbYWCSB9h2gm8j3E) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I'm Sorry, I'm Not Sorry](https://open.spotify.com/album/4RSKXvLmT3lHlPlJWsewyk) | 3:08 | 2022-01-05 | 2022-07-29 |
 | [Reason To Stay](https://open.spotify.com/track/7wEXKF8ltyhpiGlUfa3RGh) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I'm Sorry, I'm Not Sorry](https://open.spotify.com/album/2D23kwwoy2JpZVuJwzE42B) | 3:08 | 2022-07-08 |  |

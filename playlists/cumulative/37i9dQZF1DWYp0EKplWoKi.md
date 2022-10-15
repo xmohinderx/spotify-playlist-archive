@@ -4,7 +4,7 @@
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Remik González & Santa Fe Klan en portada.
 
-74 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
+75 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [El Pana](https://open.spotify.com/track/3ve91a9NwVoLfFfoJBtYU8) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Pana](https://open.spotify.com/album/68QcWivIR7iucFGhaxZRac) | 3:58 | 2022-10-07 |  |
 | [El Peliculón](https://open.spotify.com/track/6sI0vA4Cyq4mwiMRB3Wz69) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [El Peliculón](https://open.spotify.com/album/3UNK6Qg6tKfhdbNdzftpmT) | 2:50 | 2022-05-05 | 2022-08-06 |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-08-05 |  |
-| [El Wuero](https://open.spotify.com/track/7tFtEGmpRkveItiDU9ezWO) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [El Wuero](https://open.spotify.com/album/3Ihn94Nnln08fB5n29C6jq) | 3:25 | 2022-01-24 |  |
+| [El Wuero](https://open.spotify.com/track/3MnWZrI41jCRsJ26OFZs6f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [El Wuero](https://open.spotify.com/album/5eeF5bNOku4AVbA0JQVj74) | 3:25 | 2022-01-24 |  |
+| [El Wuero](https://open.spotify.com/track/7tFtEGmpRkveItiDU9ezWO) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [El Wuero](https://open.spotify.com/album/3Ihn94Nnln08fB5n29C6jq) | 3:25 | 2022-01-24 | 2022-10-15 |
 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 | 2022-08-05 |  |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-22 |  |
 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 | 2022-04-01 | 2022-09-10 |

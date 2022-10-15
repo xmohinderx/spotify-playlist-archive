@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-176 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+179 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 | 2022-07-25 | 2022-09-24 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-01-25 |  |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2022-01-25 |  |
+| [BIG](https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG](https://open.spotify.com/album/17kpttFeNeWB1qafVfJQA6) | 3:36 | 2022-10-14 |  |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-07-08 |  |
 | [Bitter Tonic](https://open.spotify.com/track/7AS4NDnLzj6ecCNY0m021h) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bitter Tonic](https://open.spotify.com/album/5HkMoc2wvYlM4TdA5Np8GJ) | 3:21 | 2022-07-25 |  |
 | [Bitter Tonic](https://open.spotify.com/track/77N6PBJUCcJtkaQmIEKJSW) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bitter Tonic](https://open.spotify.com/album/0hDjyDRFlLdK4nAeR876Bd) | 3:21 | 2022-01-25 | 2022-07-29 |
@@ -80,7 +81,8 @@
 | [Heart on Fire](https://open.spotify.com/track/0NzgX6oHNy0Wy0VCLX1u90) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Heart on Fire](https://open.spotify.com/album/4gyrk2gUPVY88ODmiPcBRH) | 3:32 | 2022-08-12 |  |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-01-25 |  |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-09-05 |  |
-| [Hold On](https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36) | [Hold On](https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv) | 4:14 | 2022-02-25 |  |
+| [Hold On](https://open.spotify.com/track/14wHKX7gSF6cgICuakSte9) | [Future Boyfriend](https://open.spotify.com/artist/6WgbfyAIroFv9OUhPbdqr8) | [Hold On](https://open.spotify.com/album/7dMBbDTMgB1H4xIZdQmVWz) | 3:50 | 2022-10-14 |  |
+| [Hold On](https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36) | [Hold On](https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv) | 4:14 | 2022-02-25 | 2022-10-15 |
 | [Homicide](https://open.spotify.com/track/3bMkX7fBy3yTmZVKY8ko6B) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Homicide](https://open.spotify.com/album/10voDa9fbZTOyzhEg5mw2T) | 2:49 | 2022-01-25 |  |
 | [Hood Baby](https://open.spotify.com/track/5au5NgWCdev4WeLRB3YEOR) | [KBFR](https://open.spotify.com/artist/0JFjWic1b9Mvv7WcNYhDvZ) | [Hood Baby](https://open.spotify.com/album/7HLkzMiiS4TbJEH70MooXW) | 1:50 | 2022-01-25 | 2022-03-18 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-01-25 |  |
@@ -102,7 +104,7 @@
 | [Kindergarten](https://open.spotify.com/track/3AOcvuNATM2cnmsNf1q0T9) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Kindergarten](https://open.spotify.com/album/4WFmbiXl83NHKlqQqrPXSj) | 2:25 | 2022-01-25 | 2022-04-09 |
 | [KING](https://open.spotify.com/track/4RgXmdsT0zfYXdrZPW3pV8) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [KING](https://open.spotify.com/album/3Xr5BK9SjJjNz8geARGnk5) | 3:23 | 2022-01-25 | 2022-07-09 |
 | [Last Breath](https://open.spotify.com/track/1eqTNzksR0ZHm6g0aOXc4e) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Last Breath](https://open.spotify.com/album/2EQQULM1AlEFjlyIDdJjBE) | 2:57 | 2022-07-15 | 2022-09-06 |
-| [Late Night Flex](https://open.spotify.com/track/274ccIgOpacE5urw0k3Z3i) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Late Night Flex](https://open.spotify.com/album/6PqDwtH3QmMsZIRP0WJbiN) | 2:36 | 2022-01-25 |  |
+| [Late Night Flex](https://open.spotify.com/track/274ccIgOpacE5urw0k3Z3i) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Late Night Flex](https://open.spotify.com/album/6PqDwtH3QmMsZIRP0WJbiN) | 2:36 | 2022-01-25 | 2022-10-15 |
 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 | 2022-01-25 | 2022-07-09 |
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:05 | 2022-02-25 | 2022-09-06 |
 | [Lose You Now](https://open.spotify.com/track/2wwzGBhDWfZveGjpxj5be7) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Lose You Now](https://open.spotify.com/album/5y4jL5I64YU5vpeJYVgPKG) | 3:13 | 2022-01-25 |  |
@@ -118,8 +120,9 @@
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-03-18 |  |
 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 | 2022-01-25 | 2022-07-16 |
 | [Miss This](https://open.spotify.com/track/2O0tojYEkArXefAqL93mrj) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu) | [Miss This](https://open.spotify.com/album/6Jc2mARX4L9WneAlYrLWJw) | 1:42 | 2022-01-25 | 2022-02-26 |
-| [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2022-01-25 |  |
+| [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2022-01-25 | 2022-10-15 |
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2022-01-25 |  |
+| [NO EXES](https://open.spotify.com/track/20hscPaq1dRsF43LI27gWS) | [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [NO EXES](https://open.spotify.com/album/23Cu6yShu6qOrJIqLxpFtn) | 2:33 | 2022-10-14 |  |
 | [Northern Towns](https://open.spotify.com/track/689vwSsc5umNZaG4B4Zqhh) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/0rYpfUMgOBdTGe9Qpw4Ud1) | 2:56 | 2022-01-25 | 2022-07-29 |
 | [Northern Towns](https://open.spotify.com/track/6mDhfhAYl4FdNZIhQNq5yf) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/6cFbP9PdYmUSyCU8ezsIUK) | 2:56 | 2022-07-25 | 2022-10-14 |
 | [Northern Towns](https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8) | 2:56 | 2022-09-23 |  |

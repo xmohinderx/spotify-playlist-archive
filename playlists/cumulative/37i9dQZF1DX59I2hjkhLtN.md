@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK.
 
-185 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+186 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Guilty](https://open.spotify.com/track/2iF3roQUvbS7oPjGy5p7d8) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Guilty](https://open.spotify.com/album/2JDDjfS8x9Bca4wE7Z2rhu) | 3:23 | 2022-10-06 |  |
 | [H.N.V.](https://open.spotify.com/track/4zsBU5xirplLsJ8YTPEf2J) | [Big Jony](https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [B\-Like](https://open.spotify.com/artist/74IefSO0gtb3tjjQxZ2vrt) | [H.N.V.](https://open.spotify.com/album/7rPpQWDTyubabMDEy4mwnb) | 3:48 | 2022-07-07 | 2022-08-02 |
 | [High](https://open.spotify.com/track/1RAjIfnjvCEQlalwjEIQjX) | [Chong Kwong](https://open.spotify.com/artist/0ckd5xl3yooOAZKClYktdr) | [High](https://open.spotify.com/album/0HrkY5KOogMeCdJUXyo4Bt) | 3:30 | 2022-07-07 |  |
+| [Higher](https://open.spotify.com/track/7dLKewNgHXyIvGf7bR3gMo) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Drip Sessions](https://open.spotify.com/artist/2Nm88jt6GY4e5uucNuuUor) | [Higher](https://open.spotify.com/album/6ArQvuLEJEK44ybRpaALvl) | 2:25 | 2022-10-13 |  |
 | [Hoje](https://open.spotify.com/track/5x8a7Isl62D93GM1CRv5TP) | [Sfil](https://open.spotify.com/artist/4SdefXsHLZnpwJGU5dgDcv) | [Hoje](https://open.spotify.com/album/1itlAeBEBG34U6a0x39Kbb) | 4:00 | 2022-07-07 | 2022-07-22 |
 | [Hora H](https://open.spotify.com/track/3RUvxg6Cw854FE0dSP1Yua) | [Vlad](https://open.spotify.com/artist/40aKLVGuFFAzK3UbSqx8i8) | [Hora H](https://open.spotify.com/album/7sGx2lpXO3VomSluLQIDcc) | 2:17 | 2022-08-18 | 2022-09-23 |
 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 | 2022-08-18 | 2022-09-23 |

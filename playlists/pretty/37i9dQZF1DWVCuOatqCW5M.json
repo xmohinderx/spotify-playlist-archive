@@ -1,13 +1,209 @@
 {
-  "description": "New music from popular Hindi artists. Cover- Sonu Kakkar",
-  "num_followers": 9253,
+  "description": "New music from popular Hindi artists. Cover- Rashmeet Kaur",
+  "num_followers": 9300,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM3NjI5MSwwMDAwMDAwMDg0NTRkZjdlNTE5NGFmNzM1NmU3YmI4OWQxNjhhOGFh",
+  "snapshot_id": "MTY2NTcyNTg4NiwwMDAwMDAwMDVmOWVkMzA1MWM2NjYyOWI0ZDRmMmQwNDYxZDM2MjFi",
   "tracks": [
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "OOPS",
+        "url": "https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "OOPS",
+      "url": "https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Lagan Lagi",
+        "url": "https://open.spotify.com/album/2S0LmcQ8W7moq1KKFcDVgB"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Lagan Lagi",
+      "url": "https://open.spotify.com/track/4cDQsIPjnQAHhUjLCN7rrr"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Aapko Dekh Kar",
+        "url": "https://open.spotify.com/album/5On97bWPnucY1U7y3xCPp1"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "Aapko Dekh Kar",
+      "url": "https://open.spotify.com/track/0TOW8bu1pkcvT9H8qCdRJO"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Taqdeerein",
+        "url": "https://open.spotify.com/album/6SfGrAdFiZ1tu5sow6DSnS"
+      },
+      "artists": [
+        {
+          "name": "Rishabh Shah",
+          "url": "https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8"
+        },
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "Taqdeerein",
+      "url": "https://open.spotify.com/track/67mR2WXCQcQN9f2Y63V1Gr"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Woh Saat Din",
+        "url": "https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        },
+        {
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Woh Saat Din",
+      "url": "https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Ek Pal",
+        "url": "https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "duration_ms": 271304,
+      "name": "Ek Pal",
+      "url": "https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Hai Koi Khayaal",
+        "url": "https://open.spotify.com/album/29hJQdgRtwHtHRo0obpIKA"
+      },
+      "artists": [
+        {
+          "name": "Arijit Anand",
+          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
+        }
+      ],
+      "duration_ms": 206448,
+      "name": "Khamoshi",
+      "url": "https://open.spotify.com/track/586yBRVKdA1vy3tes2wjmB"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Zahan",
+        "url": "https://open.spotify.com/album/51KcSrHT7dkttayBBORDIu"
+      },
+      "artists": [
+        {
+          "name": "Prabhat Gautam",
+          "url": "https://open.spotify.com/artist/0rAUraYY3inOOEtgV6OlH5"
+        }
+      ],
+      "duration_ms": 199023,
+      "name": "Zahan",
+      "url": "https://open.spotify.com/track/5VDFJf6tjbzlnvfdb6l20Q"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Shaan",
+        "url": "https://open.spotify.com/album/5ZfApCkywHmo9onnGstgnS"
+      },
+      "artists": [
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "duration_ms": 207737,
+      "name": "Shaan",
+      "url": "https://open.spotify.com/track/5zN4y6PdlvexKhWumalUPB"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Jo Tum Ho",
+        "url": "https://open.spotify.com/album/0enBHmgJ2zbBGgx5EtrIM0"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Kapoor",
+          "url": "https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Jo Tum Ho",
+      "url": "https://open.spotify.com/track/2zTyNH7GCD99yqywgZg6rk"
+    },
+    {
+      "added_at": "2022-10-14 05:38:06",
+      "album": {
+        "name": "Khud Se Riha",
+        "url": "https://open.spotify.com/album/73Y7zu9SM99GQfksUF68ji"
+      },
+      "artists": [
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "duration_ms": 191487,
+      "name": "Khud Se Riha",
+      "url": "https://open.spotify.com/track/1dXNkpaDOy548fZW0n2nI4"
+    },
     {
       "added_at": "2022-10-07 05:43:38",
       "album": {
@@ -89,24 +285,20 @@
       "url": "https://open.spotify.com/track/1mPuVuDCF53dcUVw8RR2Ja"
     },
     {
-      "added_at": "2022-10-10 04:31:31",
+      "added_at": "2022-10-14 05:38:06",
       "album": {
-        "name": "Paris London Amsterdam",
-        "url": "https://open.spotify.com/album/34O1GF6fBegS1jalmpTRjv"
+        "name": "Gale Se Laga Lu",
+        "url": "https://open.spotify.com/album/5UGsOOISnC3E0Zlv6wQYSq"
       },
       "artists": [
         {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
         }
       ],
-      "duration_ms": 144229,
-      "name": "Paris London Amsterdam",
-      "url": "https://open.spotify.com/track/3GWeh6TZPVUnvya1nawN2j"
+      "duration_ms": 255333,
+      "name": "Gale Se Laga Lu",
+      "url": "https://open.spotify.com/track/6YiMeYvtmcba8ICnaX7CjU"
     },
     {
       "added_at": "2022-10-07 05:58:49",
@@ -435,22 +627,6 @@
       "duration_ms": 195692,
       "name": "Baawrey",
       "url": "https://open.spotify.com/track/7o8PJPcIGvNu3s9pWgcylh"
-    },
-    {
-      "added_at": "2022-09-30 05:52:48",
-      "album": {
-        "name": "Ho Tum Yahan",
-        "url": "https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu"
-      },
-      "artists": [
-        {
-          "name": "Piyush Bhisekar",
-          "url": "https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "Ho Tum Yahan",
-      "url": "https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH"
     },
     {
       "added_at": "2022-09-30 05:52:48",
@@ -791,170 +967,6 @@
       "duration_ms": 175500,
       "name": "Bharosa",
       "url": "https://open.spotify.com/track/3pYe2NYbHcabSrfbKxWoS6"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Mazaak",
-        "url": "https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 212054,
-      "name": "Mazaak",
-      "url": "https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Duur",
-        "url": "https://open.spotify.com/album/7umyKBGexCa1DL6rfp4FmA"
-      },
-      "artists": [
-        {
-          "name": "KASYAP",
-          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
-        }
-      ],
-      "duration_ms": 193178,
-      "name": "Duur",
-      "url": "https://open.spotify.com/track/0SyiAZbVrpAEgBY30wKyCQ"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Rozaana",
-        "url": "https://open.spotify.com/album/1DSWQSmQelBjfjoHrOoHF5"
-      },
-      "artists": [
-        {
-          "name": "Jyotica Tangri",
-          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
-        }
-      ],
-      "duration_ms": 181232,
-      "name": "Rozaana",
-      "url": "https://open.spotify.com/track/4f4NfGpOmmz1vIYDE6Poer"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Aashiq Tera (feat. Nitesh Tiwari)",
-        "url": "https://open.spotify.com/album/70v9BMYU09tDrxe5dgIDp3"
-      },
-      "artists": [
-        {
-          "name": "Raj Barman",
-          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
-        },
-        {
-          "name": "Nitesh Tiwari",
-          "url": "https://open.spotify.com/artist/2RWE3MXsucEYEI5Y99X0WM"
-        }
-      ],
-      "duration_ms": 275006,
-      "name": "Aashiq Tera (feat. Nitesh Tiwari)",
-      "url": "https://open.spotify.com/track/7GgqlZb1BGjwPWZ09noxom"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Tere Aane Se Pehle",
-        "url": "https://open.spotify.com/album/1LjvGp7huTXwZ6P1o4irx6"
-      },
-      "artists": [
-        {
-          "name": "Ami Mishra",
-          "url": "https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z"
-        }
-      ],
-      "duration_ms": 242216,
-      "name": "Tere Aane Se Pehle",
-      "url": "https://open.spotify.com/track/5Xv9ZxTLaTRtEUAh3zXVEy"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Pahadon Ke Peechay",
-        "url": "https://open.spotify.com/album/3hPk1nX8gh3pOi3I7f8aXo"
-      },
-      "artists": [
-        {
-          "name": "Goldie Sohel",
-          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
-        }
-      ],
-      "duration_ms": 213638,
-      "name": "Pahadon Ke Peechay",
-      "url": "https://open.spotify.com/track/3GxYz6oLnbS39clrG43JhH"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Dooriyan (Reprised) - Single",
-        "url": "https://open.spotify.com/album/1c5dx0n74d4IEos5qFigkO"
-      },
-      "artists": [
-        {
-          "name": "Rahul Pandey",
-          "url": "https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq"
-        }
-      ],
-      "duration_ms": 216545,
-      "name": "Dooriyan (Reprised)",
-      "url": "https://open.spotify.com/track/35FOu4mOuPZZGthv1gw9ZX"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Phir Bekhabar",
-        "url": "https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL"
-      },
-      "artists": [
-        {
-          "name": "Ashwin Adwani",
-          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
-        }
-      ],
-      "duration_ms": 197304,
-      "name": "Phir Bekhabar",
-      "url": "https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Aalsi Dopahar (Full Version)",
-        "url": "https://open.spotify.com/album/1eTRg51lQwB2PWxhqtsVi3"
-      },
-      "artists": [
-        {
-          "name": "Rahgir",
-          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Aalsi Dopahar (Full Version)",
-      "url": "https://open.spotify.com/track/4vuTTexb88FF81n0ifZTmG"
-    },
-    {
-      "added_at": "2022-09-16 00:10:00",
-      "album": {
-        "name": "Tuu",
-        "url": "https://open.spotify.com/album/4WsOznRcxjaSZXRwsGbzou"
-      },
-      "artists": [
-        {
-          "name": "Keshuv Huria",
-          "url": "https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa"
-        }
-      ],
-      "duration_ms": 201069,
-      "name": "Tuu",
-      "url": "https://open.spotify.com/track/4O4rE5en83d6Ond8zhEBX4"
     }
   ],
   "unique_name": "New Music Friday Hindi ",

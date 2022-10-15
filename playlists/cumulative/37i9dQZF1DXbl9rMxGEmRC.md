@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-311 songs - 1 day 3 hr 9 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+312 songs - 1 day 3 hr 13 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |
 | [How Many Can Die](https://open.spotify.com/track/77e5CvS2IDBGdQfzXd5YTv) | [Venom Inc.](https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM) | [How Many Can Die](https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
+| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
@@ -200,7 +201,7 @@
 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 | 2022-02-11 | 2022-03-19 |
 | [Noblesse Oblige Richesse Oblige](https://open.spotify.com/track/6tth0ovaLcEPtHasmjhYiv) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [There's Always Blood At The End Of The Road](https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4) | 5:06 | 2022-01-14 | 2022-07-25 |
 | [Nocturnal Molestation](https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nocturnal Molestation](https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1) | 3:41 | 2022-02-11 | 2022-04-23 |
-| [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 | 2022-03-18 |  |
+| [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 | 2022-03-18 | 2022-10-15 |
 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 | 2022-02-11 | 2022-03-19 |
 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 | 2021-12-17 | 2022-01-15 |
 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2022-08-23 |

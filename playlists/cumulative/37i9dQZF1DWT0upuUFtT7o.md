@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Blondshell, Artwork: Robin Clifford Ellis
 
-939 songs - 2 day 3 hr 7 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+941 songs - 2 day 3 hr 14 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Aprilfools :'\)](https://open.spotify.com/track/4oWyYFAGfNa2rISxK84B9a) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Aprilfools :'\)](https://open.spotify.com/album/433iME7IVePTKFEEALTJX2) | 3:01 | 2022-02-16 | 2022-03-17 |
 | [Archon](https://open.spotify.com/track/6fMWYAVmr6SVyt6vsxetYF) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Archon](https://open.spotify.com/album/28f8Dn5kYQQKmUoJx74V0Y) | 2:56 | 2021-10-06 | 2022-01-13 |
 | [Are You](https://open.spotify.com/track/0dAYVronZBJ5STMzI7uwVx) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Are You](https://open.spotify.com/album/740DSrwL4HoMD8mcvlyv0m) | 3:56 | 2022-04-12 | 2022-04-27 |
-| [aspirin](https://open.spotify.com/track/2HurtZFEBFbHBhMg1ROnan) | [elisadont](https://open.spotify.com/artist/4T5EPU720M8KwkdYWms28l), [Villent](https://open.spotify.com/artist/7iyXuJrnFdoVpKKnrQ4DFE) | [aspirin](https://open.spotify.com/album/0MKJPbpTtV5QDezVPaKifE) | 3:17 | 2022-08-31 |  |
+| [aspirin](https://open.spotify.com/track/2HurtZFEBFbHBhMg1ROnan) | [elisadont](https://open.spotify.com/artist/4T5EPU720M8KwkdYWms28l), [villent](https://open.spotify.com/artist/7iyXuJrnFdoVpKKnrQ4DFE) | [aspirin](https://open.spotify.com/album/0MKJPbpTtV5QDezVPaKifE) | 3:17 | 2022-08-31 |  |
 | [Asthma](https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Asthma](https://open.spotify.com/album/7hPfdQW6kT0l2prcJsV7c8) | 3:15 | 2022-01-26 | 2022-03-17 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-12-01 | 2022-01-13 |
 | [Atomic Band](https://open.spotify.com/track/4nUqbbYU6DMTnSdPzZdffv) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Atomic Band](https://open.spotify.com/album/4W6qcbNkxAF9392Q0G6zvR) | 2:48 | 2022-01-19 | 2022-01-27 |
@@ -243,7 +243,8 @@
 | [Down the Bottle](https://open.spotify.com/track/0azW93j6ED7Da83IDAtDDn) | [Christian Blue](https://open.spotify.com/artist/1X1R5azJYxs6wdFzEOBoI3) | [Down the Bottle](https://open.spotify.com/album/3P2pczdAyjLZ4vuM1ljaNV) | 2:45 | 2022-06-15 | 2022-07-28 |
 | [Down the Slide](https://open.spotify.com/track/3kK2tCdhe6zz0LEi3YAAw8) | [Reuben Medlin](https://open.spotify.com/artist/3tDEcbdyNcOlDez6jYe3h2) | [Down the Slide](https://open.spotify.com/album/7bF8rotpLS3Q5YlVZqAqla) | 2:48 | 2022-03-22 | 2022-04-13 |
 | [Dr Pong \- Radio Edit](https://open.spotify.com/track/6iEULgrj89rosaX7pvb7Tf) | [Pale Blue Eyes](https://open.spotify.com/artist/066i2FQQZzagmCpd4AUBRi) | [Dr Pong](https://open.spotify.com/album/51O6Ds0rrkrleMZPnnh2vj) | 3:42 | 2022-03-16 | 2022-04-13 |
-| [Drippy](https://open.spotify.com/track/7pu7lPXqQ7lLB9qFYmuItv) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Dream Machine](https://open.spotify.com/album/0FUs1PnmvHShn0GjwfYQlB) | 3:37 | 2022-09-14 |  |
+| [Drippy](https://open.spotify.com/track/7D8Zg0ZkZ9IdHTTAbreCUV) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Dream Machine](https://open.spotify.com/album/3UevsZ2V8cXa3NUnHalxxy) | 3:37 | 2022-09-14 |  |
+| [Drippy](https://open.spotify.com/track/7pu7lPXqQ7lLB9qFYmuItv) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Dream Machine](https://open.spotify.com/album/0FUs1PnmvHShn0GjwfYQlB) | 3:37 | 2022-09-14 | 2022-10-15 |
 | [Drive Slow](https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Drive Slow](https://open.spotify.com/album/16hoKJlZ0Y3kt7zJ5eIP7R) | 2:57 | 2021-12-01 | 2022-01-13 |
 | [Dude In A Romantic Way](https://open.spotify.com/track/61V900hMxvHdpGdarlFbve) | [Callaway Martin](https://open.spotify.com/artist/32Om1pF9kloxRMFv1gUifZ) | [Dude In A Romantic Way](https://open.spotify.com/album/33qhi8y8l1LN1Ift6Ihc0V) | 3:01 | 2022-03-22 | 2022-05-26 |
 | [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 | 2022-04-13 | 2022-05-05 |
@@ -387,7 +388,8 @@
 | [I can't remember](https://open.spotify.com/track/1q1C5tH1Q4vUG2k9bxcnHI) | [Surely Tempo](https://open.spotify.com/artist/70zssbn2dycY2RzSGLbWGQ) | [I can't remember](https://open.spotify.com/album/26Bn50yU2TnMVyTGca1lqs) | 3:21 | 2022-06-08 | 2022-06-30 |
 | [I Dare You](https://open.spotify.com/track/33948g0QTA5uP9Hn3kYZBO) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [I Dare You](https://open.spotify.com/album/2RI5OP3wh2VnWZ1JzI1ZpU) | 2:11 | 2022-01-12 | 2022-01-27 |
 | [I Don't Know Why I Don't Leave You](https://open.spotify.com/track/0rnr29AKXifEZuGZWETZVG) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [I Don't Know Why I Don't Leave You](https://open.spotify.com/album/18db1ozBHypbbaovttXGEx) | 3:22 | 2022-05-11 | 2022-06-30 |
-| [I Don't Wanna Be Strong](https://open.spotify.com/track/0xubojJoftLTsiM8tzIqmB) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/29LGWbz1h6EmM4Mt5Y4w1U) | 3:08 | 2022-09-06 |  |
+| [I Don't Wanna Be Strong](https://open.spotify.com/track/0xubojJoftLTsiM8tzIqmB) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/29LGWbz1h6EmM4Mt5Y4w1U) | 3:08 | 2022-09-06 | 2022-10-15 |
+| [I Don't Wanna Be Strong](https://open.spotify.com/track/4tGPfKyW5ofKFLbQuNwINd) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/34uhq6GwqaXrwfIHboPqSQ) | 3:08 | 2022-09-06 |  |
 | [I Got It](https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [I Got It](https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb) | 3:27 | 2022-02-23 | 2022-03-17 |
 | [I Hate Couples](https://open.spotify.com/track/1UQyrXIoqR0CO55dKgaHJ8) | [Elizzabeth](https://open.spotify.com/artist/4vNETjUfTSTzFdkP0IXUSc) | [I Hate Couples](https://open.spotify.com/album/0xLblJK4JqMagehuCrNoGn) | 3:35 | 2022-05-04 | 2022-05-26 |
 | [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-15 | 2022-07-28 |

@@ -1,13 +1,29 @@
 {
-  "description": "make it pop! cover: AJR",
-  "num_followers": 199118,
+  "description": "make it pop! cover: joan",
+  "num_followers": 199141,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE2NDYyMiwwMDAwMDAwMDY0OTdhMzdkNjg2NWQ1N2M3ZjJmNGJjZmQ3OGYwNWI0",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDQ2YmY1NjdmYWE5ZjczNWFmNGU3NmExN2I2YzI1MzE5",
   "tracks": [
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "don't wanna be your friend",
+        "url": "https://open.spotify.com/album/1mkkEUHXdKdejjCLXDzdzr"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "duration_ms": 165956,
+      "name": "don't wanna be your friend",
+      "url": "https://open.spotify.com/track/2sMH4QWOM6pho9EY2RTPoO"
+    },
     {
       "added_at": "2022-09-30 20:46:33",
       "album": {
@@ -41,6 +57,70 @@
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
     },
     {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 212568,
+      "name": "Oh Caroline",
+      "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "added_at": "2022-10-07 17:43:42",
+      "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 173983,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "dirty white chucks",
+        "url": "https://open.spotify.com/album/6CUvOeg6Sn0Lnhh6yiYwHN"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 158118,
+      "name": "dirty white chucks",
+      "url": "https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "People In Motion",
@@ -55,6 +135,26 @@
       "duration_ms": 194800,
       "name": "Radio",
       "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
+    },
+    {
+      "added_at": "2022-09-30 04:21:58",
+      "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -89,22 +189,6 @@
       "url": "https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4"
     },
     {
-      "added_at": "2022-10-07 17:43:42",
-      "album": {
-        "name": "The Problem Song",
-        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "The Problem Song",
-      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "I'm Alright If You're Ok",
@@ -135,26 +219,6 @@
       "duration_ms": 184800,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/1FOVnwpspev8ASJOylLPP7"
-    },
-    {
-      "added_at": "2022-09-30 04:21:58",
-      "album": {
-        "name": "Sick of U",
-        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 168676,
-      "name": "Sick of U (with Oliver Tree)",
-      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "added_at": "2022-09-30 04:21:58",
@@ -503,22 +567,6 @@
       "duration_ms": 205254,
       "name": "Chloe (feat. Jutes)",
       "url": "https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "added_at": "2022-09-09 19:32:26",
@@ -911,58 +959,6 @@
       "duration_ms": 158457,
       "name": "Handle with Care",
       "url": "https://open.spotify.com/track/6jzhyJiZn9bYHfzoHOzQKS"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "She\u2019s Not You",
-        "url": "https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 187576,
-      "name": "She's Not You",
-      "url": "https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "Hide And Seek",
-        "url": "https://open.spotify.com/album/5aI0fru90lUJrf4RFXOYMo"
-      },
-      "artists": [
-        {
-          "name": "Tayo Sound",
-          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 171768,
-      "name": "Hide And Seek",
-      "url": "https://open.spotify.com/track/6oRcj35Qy5531TgH3ZHwbT"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "Undone",
-        "url": "https://open.spotify.com/album/08NtG5rgI1Mklu7VB0YR3K"
-      },
-      "artists": [
-        {
-          "name": "Nolie",
-          "url": "https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI"
-        }
-      ],
-      "duration_ms": 164314,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/1pger5HtepNjzJcNIsP9Pq"
     },
     {
       "added_at": "2022-09-09 19:32:26",

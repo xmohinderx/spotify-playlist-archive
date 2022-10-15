@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 120075,
+  "num_followers": 120078,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDFjMWFkNTJkODlkODA3NTkwMTVmMjM0ZDE1MmE3OWY1",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGMwNmU5NGEyMWIyZDQ4NjMwMGI3ODhmNWU0NmNjMjNm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Juice of Mandarins",
+        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Juice of Mandarins",
+      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Um Corpo no Mundo",
         "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 342160,
       "name": "Dias de Janeiro",
       "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Juice of Mandarins",
-        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Juice of Mandarins",
-      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -707,6 +707,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Bossanova",
+        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
+      },
+      "artists": [
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 201878,
+      "name": "Bossanova",
+      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Ameixa",
         "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 246177,
       "name": "Ameixa",
       "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Bossanova",
-        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
-      },
-      "artists": [
-        {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 201878,
-      "name": "Bossanova",
-      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ya S\u00e9",
-        "url": "https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15"
-      },
-      "artists": [
-        {
-          "name": "Edu Requejo",
-          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
-        }
-      ],
-      "duration_ms": 163519,
-      "name": "Ya S\u00e9",
-      "url": "https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Ya S\u00e9",
+        "url": "https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15"
+      },
+      "artists": [
+        {
+          "name": "Edu Requejo",
+          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
+        }
+      ],
+      "duration_ms": 163519,
+      "name": "Ya S\u00e9",
+      "url": "https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W"
     }
   ],
   "unique_name": "Sol de Domingo",

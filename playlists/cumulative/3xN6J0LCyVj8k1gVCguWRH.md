@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,750 songs - 4 day 5 hr 24 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,751 songs - 4 day 5 hr 27 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [King of Hearts](https://open.spotify.com/track/06456Fk92JMADA3fBgbmf0) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU) | [King of Hearts](https://open.spotify.com/album/38bF20RmpLMBRlYB32DKK6) | 2:44 | 2020-10-06 | 2020-10-28 |
 | [Kitty Cat](https://open.spotify.com/track/5GxI6UFqiB21CUUttI6Olp) | [Rose Wild](https://open.spotify.com/artist/6Xk8XHDgqtdMNAyr4h7rbs) | [Kitty Cat](https://open.spotify.com/album/0SDCZcP7XUyio5IwepSn2e) | 2:45 | 2022-06-03 | 2022-06-19 |
 | [KM](https://open.spotify.com/track/50SrudKjaEI8AO7b9S8KfP) | [Miles Laforge](https://open.spotify.com/artist/6e1shSmBGcxyjxK5rgacLA) | [The UV](https://open.spotify.com/album/0WfltpJxvC0Cdc9Gy5jISA) | 2:40 | 2022-05-27 | 2022-06-12 |
+| [Knees](https://open.spotify.com/track/2AmkpCt3y9NBsB5UgP4S6I) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [Knees](https://open.spotify.com/album/63rRqA2pExlJRBmugM5WVm) | 3:08 | 2022-10-14 |  |
 | [Know You Bare](https://open.spotify.com/track/0O8eJs6ACqUfvVC7Ly6Gap) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/3p85u0tI67x88CLMW1Trov) | 2:11 | 2020-08-20 |  |
 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 | 2020-08-20 |  |
 | [Kryptonite](https://open.spotify.com/track/4SMRDMuAUCbgX3LSBPLsx8) | [Prohaize](https://open.spotify.com/artist/71s3h1fzqdwLZ5drtELLgp), [H3NRY](https://open.spotify.com/artist/4qTkUisEVy6GGP2BDhJfWi) | [Kryptonite](https://open.spotify.com/album/3948v6qzUcbQUVqto931jJ) | 2:26 | 2020-10-17 | 2020-11-03 |

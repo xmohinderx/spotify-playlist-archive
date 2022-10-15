@@ -4,14 +4,15 @@
 
 > congrats class of 2021, you crushed it this year \\m/ Cover: WILLOW
 
-55 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
+56 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 | 2021-12-01 |  |
 | [Big Cat Judgement Day](https://open.spotify.com/track/3zRrr0SS4saZOfihrSvlqy) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:31 | 2021-12-01 |  |
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-12-01 |  |
-| [Chillthefuckout.](https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Chillthefuckout.](https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u) | 2:47 | 2021-12-01 |  |
+| [Chillthefuckout.](https://open.spotify.com/track/4WiRsBAUd4fqHmIqrSoznL) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [My Demons Are Still My Best Friends](https://open.spotify.com/album/2ZGQb6w08t7rlmfHGHzPci) | 2:47 | 2021-12-01 |  |
+| [Chillthefuckout.](https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Chillthefuckout.](https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u) | 2:47 | 2021-12-01 | 2022-10-15 |
 | [congratulations](https://open.spotify.com/track/2ad0hTq75JpcB4JzmZPCbC) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [how u stop hating urself \(pt 1.5\)](https://open.spotify.com/album/7vHfgHVoXFsx5ysSpKEHvQ) | 2:12 | 2021-12-01 |  |
 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2021-12-01 |  |
 | [death wish](https://open.spotify.com/track/7rT8JOfCiu2wCdP2NuS0zd) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/3aKgYlLsngJ6itEvTVWnwf) | 3:17 | 2021-12-01 |  |

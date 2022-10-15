@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 14135,
+  "num_followers": 14286,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGViNjM3NWQ1ODY4MWRlNDcxZDc1NDNmNGQ2YzcwM2Ex",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDExM2NhYjAzYTFjMWIwMmNmOGYyNGNhZWM4MTQxODcw",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Pristine",
+        "url": "https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ"
+      },
+      "artists": [
+        {
+          "name": "Willowdale",
+          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
+        }
+      ],
+      "duration_ms": 236724,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Sonny Rollins With The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 235400,
       "name": "Star-Crossed Lovers",
       "url": "https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Pristine",
-        "url": "https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ"
-      },
-      "artists": [
-        {
-          "name": "Willowdale",
-          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
-        }
-      ],
-      "duration_ms": 236724,
-      "name": "Pristine",
-      "url": "https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Tokyo '96",
+        "url": "https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 422933,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 325400,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Tokyo '96",
-        "url": "https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h"
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
       "artists": [
         {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
         }
       ],
-      "duration_ms": 422933,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu"
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Presenting Ray Bryant",
+        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
       },
@@ -795,34 +811,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Presenting Ray Bryant",
-        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+        "name": "On Broadway",
+        "url": "https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ"
       },
       "artists": [
         {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 206053,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 264920,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
+      "duration_ms": 276506,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5pjC6gbfSHeUrzgzahrKs7"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "On Broadway",
-        "url": "https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
         }
       ],
-      "duration_ms": 276506,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5pjC6gbfSHeUrzgzahrKs7"
+      "duration_ms": 264920,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "The Best Of Sidney Bechet",
-        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/4PN5gbJNYWx9yQ6hJepPbG"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Red Garland Revisited!",
         "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 335533,
       "name": "You Keep Coming Back Like A Song",
       "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "The Best Of Sidney Bechet",
+        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4PN5gbJNYWx9yQ6hJepPbG"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Familiar Places",
-        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
+        "name": "De\u0301sespe\u0301re\u0301s",
+        "url": "https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL"
       },
       "artists": [
         {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+          "name": "Vernon Sanders",
+          "url": "https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4"
         }
       ],
-      "duration_ms": 287323,
-      "name": "It's Beginning To Rain Again",
-      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+      "duration_ms": 221624,
+      "name": "De\u0301sespe\u0301re\u0301s",
+      "url": "https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "De\u0301sespe\u0301re\u0301s",
-        "url": "https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL"
+        "name": "Familiar Places",
+        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
       "artists": [
         {
-          "name": "Vernon Sanders",
-          "url": "https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4"
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
         }
       ],
-      "duration_ms": 221624,
-      "name": "De\u0301sespe\u0301re\u0301s",
-      "url": "https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i"
+      "duration_ms": 287323,
+      "name": "It's Beginning To Rain Again",
+      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Blues In Mambo",
+        "url": "https://open.spotify.com/album/0iAa7v14VpiDTV1lgvkZVK"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/3O7WAvCq2hW9QLgXo5NcH5"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Unsentimental",
         "url": "https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d"
       },
@@ -1299,34 +1315,30 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Blues In Mambo",
-        "url": "https://open.spotify.com/album/0iAa7v14VpiDTV1lgvkZVK"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2z7RHmHsRzRii3GrhGpF6U"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/3O7WAvCq2hW9QLgXo5NcH5"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Beloved of the Sky",
-        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
-      },
-      "artists": [
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        },
         {
-          "name": "Renee Rosnes",
-          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Billy Higgins",
+          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
         }
       ],
-      "duration_ms": 440513,
-      "name": "The Winter of My Discontent",
-      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
+      "duration_ms": 524052,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/7mUwgUAe0RGbNGdkCJ2vHn"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1359,6 +1371,22 @@
       "duration_ms": 174040,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Beloved of the Sky",
+        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
+      },
+      "artists": [
+        {
+          "name": "Renee Rosnes",
+          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
+        }
+      ],
+      "duration_ms": 440513,
+      "name": "The Winter of My Discontent",
+      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1507,34 +1535,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/2z7RHmHsRzRii3GrhGpF6U"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Billy Higgins",
-          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
-        }
-      ],
-      "duration_ms": 524052,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/7mUwgUAe0RGbNGdkCJ2vHn"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Blues and Ballads",
         "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
       },
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Black Forest Rose",
+        "url": "https://open.spotify.com/album/6uCZP5InNgoKOxh8WPQkYz"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Black Forest Rose",
+      "url": "https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
         "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 374906,
       "name": "Melancholee - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 377066,
-      "name": "Blame It on My Youth",
-      "url": "https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1679,34 +1679,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Black Forest Rose",
-        "url": "https://open.spotify.com/album/6uCZP5InNgoKOxh8WPQkYz"
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
       "artists": [
         {
-          "name": "Yorkville",
-          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Black Forest Rose",
-      "url": "https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
+      "duration_ms": 377066,
+      "name": "Blame It on My Youth",
+      "url": "https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 183320,
       "name": "September Song",
       "url": "https://open.spotify.com/track/3jeqeE91AY5KDbccCBZ1o1"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
     },
     {
       "added_at": "2022-10-13 22:00:00",

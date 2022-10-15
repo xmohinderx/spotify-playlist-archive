@@ -1132,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Caught in a Parade",
+        "url": "https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG"
+      },
+      "artists": [
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Center of the Universe",
+      "url": "https://open.spotify.com/track/5ZibH2171yDvE6mTVAVG25"
+    },
+    {
+      "album": {
         "name": "Center Of The Universe",
         "url": "https://open.spotify.com/album/0HrAgLrgGfqr9MC16d3HZ0"
       },
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 187840,
       "name": "Center Of The Universe",
       "url": "https://open.spotify.com/track/5d8W3FelJJYH2S5YpkP7bm"
@@ -2341,6 +2359,24 @@
       "duration_ms": 224000,
       "name": "Fotan Jazz Club",
       "url": "https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR"
+    },
+    {
+      "album": {
+        "name": "FRAME ME",
+        "url": "https://open.spotify.com/album/4SAM3JA0SDCCEivNyqWNua"
+      },
+      "artists": [
+        {
+          "name": "SURYEON",
+          "url": "https://open.spotify.com/artist/5jyPaTMuPzds0MAd8WtxAd"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146090,
+      "name": "FRAME ME",
+      "url": "https://open.spotify.com/track/5e0m1h7LM0VHIS6hERZ1oi"
     },
     {
       "album": {

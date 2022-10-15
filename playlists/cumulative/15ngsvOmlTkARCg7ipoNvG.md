@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-838 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+839 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [With You I Am Home](https://open.spotify.com/track/138JHRKQx23YcsozkYan6b) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space, Vol\. 2](https://open.spotify.com/album/4GxaVQ8iCn6g6WeVmFKSWn) | 1:06 | 2022-02-04 |  |
 | [Without](https://open.spotify.com/track/1S991FKBFt4MHoietICl2c) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Without](https://open.spotify.com/album/6wATKW07vEYGsqiYmdN9Vy) | 2:30 | 2022-01-12 |  |
 | [Wonder](https://open.spotify.com/track/1GKbcIAN4gjSR9j7hWEtIh) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Emotions](https://open.spotify.com/album/4H9q8AjWhZvDpHQ0B769ij) | 1:20 | 2022-01-15 |  |
+| [Wonderful Morning](https://open.spotify.com/track/05ABFqBySEaFvOI3K9KYGh) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Wonderful Morning](https://open.spotify.com/album/6JnE8rSaUHTaDAvX2z6car) | 1:05 | 2022-10-14 |  |
 | [Wonderland At Midnight](https://open.spotify.com/track/3EsbXTVKb8ZN7iQlyEvgnc) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:01 | 2022-02-11 |  |
 | [Yearning For Light](https://open.spotify.com/track/2aVROvqkZsK1M7pLMSY8fm) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:05 | 2022-02-03 |  |
 | [You Were Once Here](https://open.spotify.com/track/3S2MhjA34rwMEgwKCRj0xW) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:19 | 2022-01-12 |  |

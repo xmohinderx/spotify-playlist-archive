@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: lozeak
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,334 likes - 128 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,335 likes - 128 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 49 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
 | 50 | [FAKE](https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [FAKE](https://open.spotify.com/album/4jiGlNrQLme80dP2lS3bzg) | 3:35 |
 | 51 | [Red Hearts](https://open.spotify.com/track/6kLdSLraP7xxZ7MG2whHBM) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Red Hearts](https://open.spotify.com/album/51SibOPo6UKKZ4ffvZ8Snc) | 4:23 |
-| 52 | [Lost in Therapy](https://open.spotify.com/track/0mbANhAzETyMsFjUhUOmlo) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/5HR3Q9Vg5xvAiRnpgWWgPG) | 3:39 |
+| 52 | [Lost in Therapy](https://open.spotify.com/track/3WZFJI7o916wwssS5f2Lsu) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/6dIdv6wH7700qQ2D9jnPxp) | 3:39 |
 | 53 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 |
 | 54 | [Strong for Me](https://open.spotify.com/track/2WMnEAUFH4TKjcPZDneOei) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Strong for Me](https://open.spotify.com/album/2TbAxmG8BQRmpmfzRZfEXl) | 3:31 |
 | 55 | [Shoreditch](https://open.spotify.com/track/0PrLVRKLIuYmluI9h36PYf) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [Shoreditch](https://open.spotify.com/album/6mMGBXfiHvjy4UqtkHrtzw) | 3:09 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 127 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 128 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGM1MjE3NDBhMzU4ZTYxYWQzNmUzZGUyYzc1OGQ1MTM2`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDA1YmU4YzA2NzMxMzdiNTVjYjViYzE4MGIxMmI4MjRm`

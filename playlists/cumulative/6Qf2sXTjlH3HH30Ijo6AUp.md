@@ -4,7 +4,7 @@
 
 > 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
 
-161 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/1kdYqyrvSgLGyOvVSgusQG)
+162 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/1kdYqyrvSgLGyOvVSgusQG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Levitating](https://open.spotify.com/track/00uqFSBVIf58ZGGXw98uoB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7rDBQBZqPemmbPWCJhTgmy) | 3:23 | 2022-06-07 | 2022-07-19 |
 | [Levitating](https://open.spotify.com/track/1dI77VhaLcQSgQLSnIs03D) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2022-07-18 |  |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-06-07 | 2022-06-28 |
-| [Light Switch](https://open.spotify.com/track/5Q4lCfjJ1aht8YZOGFbC5U) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 3:07 | 2022-10-07 |  |
+| [Light Switch](https://open.spotify.com/track/5Q4lCfjJ1aht8YZOGFbC5U) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 3:07 | 2022-10-07 | 2022-10-15 |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2022-07-18 |  |
 | [Lola](https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lola](https://open.spotify.com/album/5U2Q1Z8FtcW5UPXKLK5753) | 2:41 | 2022-06-07 | 2022-06-11 |
 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:47 | 2022-07-18 |  |
@@ -137,6 +137,7 @@
 | [So Young](https://open.spotify.com/track/1vpFjf7k2b6TOfeuVrp4vG) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 3:52 | 2022-06-07 | 2022-07-09 |
 | [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 | 2022-08-19 |  |
 | [Something Got Me Started \- 2008 Remaster](https://open.spotify.com/track/7EVSRJ9eH21ri2lIHkKkoP) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Expanded Version\)](https://open.spotify.com/album/5IF8lK2MyVeLHxo0UNWMO7) | 4:00 | 2022-06-07 | 2022-07-19 |
+| [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-10-14 |  |
 | [Somewhere in My Heart](https://open.spotify.com/track/0pBqW7bLA3soohExT1bU8g) | [Aztec Camera](https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J) | [Love](https://open.spotify.com/album/1SUPpY4sx4B8c0rLyMhZc7) | 4:02 | 2022-06-07 | 2022-07-19 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-06-07 |  |
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2022-06-07 |  |

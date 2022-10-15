@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-334 songs - 20 hr 52 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+335 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Baby I love you so](https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Baby I love you so](https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb) | 3:41 | 2022-09-13 | 2022-10-12 |
 | [Back To You \(feat\. Millie Snow, Nenashi\)](https://open.spotify.com/track/3bpFB3XID7OHHxW4OrC6vA) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Millie Snow](https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Back To You \(feat\. Millie Snow, Nenashi\)](https://open.spotify.com/album/4JlQtHVVjXZdm68BDDi72q) | 3:31 | 2022-10-11 |  |
 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 | 2022-05-26 | 2022-06-29 |
+| [Be Okay](https://open.spotify.com/track/0CqwUsUphvO4ATggdyET1e) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [We'll Be Okay EP](https://open.spotify.com/album/5MORMgMuV6qiV2uMo6cE86) | 3:56 | 2022-10-14 |  |
 | [BE THE GROOVE](https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Mori Zentaro](https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD) | [BE THE GROOVE](https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb) | 2:44 | 2022-10-11 |  |
 | [blue blur feat\. mabanua](https://open.spotify.com/track/6ujjpnDMz0qD3oPUC3ypJ4) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [blue blur feat\. mabanua](https://open.spotify.com/album/0qoOskYNEbSlL75idOrOGi) | 4:32 | 2022-06-09 | 2022-07-27 |
 | [BLUEMOON](https://open.spotify.com/track/37kvXE6pY1XzSW74q7yWdT) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [empath](https://open.spotify.com/album/7vNnPAKcr9QyuVDRdxrXz8) | 3:40 | 2022-05-26 | 2022-06-15 |
@@ -43,7 +44,7 @@
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-06-28 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 | 2022-08-03 | 2022-10-05 |
 | [Chu Chu Song](https://open.spotify.com/track/4nDWG3USDzV0Io1w9ibyeO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Chu Chu Song](https://open.spotify.com/album/0ISat8f2DfoFqVtjoTmHbb) | 2:54 | 2022-09-08 |  |
-| [Circle](https://open.spotify.com/track/3Kj8IJ8OrL47nhgmSuh1X6) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Circle](https://open.spotify.com/album/1fvZoFyOxtVpQ2kqX7k4eo) | 4:16 | 2022-08-24 |  |
+| [Circle](https://open.spotify.com/track/3Kj8IJ8OrL47nhgmSuh1X6) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Circle](https://open.spotify.com/album/1fvZoFyOxtVpQ2kqX7k4eo) | 4:16 | 2022-08-24 | 2022-10-15 |
 | [Citadel](https://open.spotify.com/track/59WMM6wfOhm7mLs5yxrGjt) | [CHAILD](https://open.spotify.com/artist/5ryFgnGvydhbBTJWoiIjL2) | [Citadel](https://open.spotify.com/album/2dvus8y7rORaQ6S2euxBmh) | 5:54 | 2022-07-19 | 2022-08-17 |
 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 | 2022-10-11 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-07-28 | 2022-09-16 |

@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-122 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+123 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO) | 2:54 | 2021-12-10 |  |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-12-10 |  |
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-12-10 |  |
+| [Make You Mine \- Bergie Remix](https://open.spotify.com/track/4lHyZfiqN1tL4g77Gelbax) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Bergie](https://open.spotify.com/artist/3KztHBCsYWbX5d8xn7XeU9) | [The Bergie Remixes](https://open.spotify.com/album/4zjYxvgfXJRwKR4mNJgvKb) | 3:25 | 2022-10-14 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:53 | 2021-12-10 |  |
 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 | 2021-12-10 |  |
 | [Miss Me More \- Cutmore & Wilson Remix](https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Cutmore](https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Miss Me More \(Remixes\)](https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS) | 3:02 | 2021-12-10 |  |

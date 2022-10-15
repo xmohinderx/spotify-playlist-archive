@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-108 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+109 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 | 2018-12-11 |  |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2019-09-16 |  |
 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 | 2018-12-11 |  |
-| [CARE](https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4) | [Aaron Sayre](https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ) | [CARE](https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp) | 3:28 | 2019-05-24 | 2022-07-29 |
+| [CARE](https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4) | [Aaron Sayre](https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ) | [CARE](https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp) | 3:28 | 2019-05-24 |  |
 | [Cycle](https://open.spotify.com/track/20Ugh1BvRxLSRiOmNylQoA) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/2PzYL5a3De3BZIvJPCCitP) | 3:08 | 2018-12-11 | 2022-07-29 |
 | [Cycle](https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS) | 3:08 | 2018-12-11 |  |
 | [Daydream](https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Joba](https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q) | [Daydream feat\. Joba](https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ) | 3:20 | 2018-12-11 |  |
@@ -55,7 +55,7 @@
 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 | 2018-12-11 |  |
 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/48UlszOrUzfprHJfkVOcbb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/2x4YIAZcJD3pqCnOcF0VAB) | 4:05 | 2018-12-11 | 2022-06-25 |
 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 | 2018-12-11 |  |
-| [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 | 2018-12-11 |  |
+| [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 | 2018-12-11 | 2022-10-15 |
 | [I would](https://open.spotify.com/track/1HsPRFQdULoSCBNDrlWbgb) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/0JkfS74A9BTW6tTQQkg0W9) | 3:25 | 2018-12-11 | 2022-07-29 |
 | [I would](https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq) | 3:25 | 2018-12-11 |  |
 | [I'm Right Here](https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [Unusable Love](https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p) | 4:41 | 2018-12-11 |  |
@@ -69,7 +69,8 @@
 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 | 2018-12-11 |  |
 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2018-12-11 | 2022-10-14 |
 | [Loss](https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Loss](https://open.spotify.com/album/5p9mx2AX05jn6rzjzKUYNX) | 3:39 | 2018-12-11 | 2022-07-29 |
-| [Mercury](https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/7vajxfrenQypkMf4vXj5nI) | 5:35 | 2019-09-16 |  |
+| [Medication](https://open.spotify.com/track/2p2xu7jiPzZG0W7IvXhEY7) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Broken Clinic](https://open.spotify.com/album/3ifqH567bhxDsguSelvA6m) | 3:50 | 2018-12-11 |  |
+| [Mercury](https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/7vajxfrenQypkMf4vXj5nI) | 5:35 | 2019-09-16 | 2022-10-15 |
 | [Money](https://open.spotify.com/track/1Pvp3lLLxoc0qKBDUjHvvn) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Money](https://open.spotify.com/album/1o78NPweWzYF2cH9iWayZg) | 3:59 | 2018-12-11 | 2022-07-29 |
 | [Money](https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Twister](https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc) | 3:59 | 2018-12-11 |  |
 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2018-12-11 |  |

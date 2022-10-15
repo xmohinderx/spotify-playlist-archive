@@ -823,7 +823,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 259077,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/0yxOcUVUgmck4FySMWbSea"
@@ -2714,6 +2714,28 @@
     },
     {
       "album": {
+        "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251057,
+      "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
+    },
+    {
+      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -3620,6 +3642,24 @@
     },
     {
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/404DH5KgWamwVcCincjRJE"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg"
+    },
+    {
+      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -3773,7 +3813,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 206573,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg"

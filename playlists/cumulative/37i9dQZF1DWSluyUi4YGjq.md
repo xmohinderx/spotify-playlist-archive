@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-206 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+207 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [crasher](https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 4:07 | 2021-10-19 |  |
 | [Culto](https://open.spotify.com/track/6Ow58pNK9dPNKLLxrfKX9z) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Culto](https://open.spotify.com/album/6Jl1jLK4buw7Mo8XoYX8Uy) | 4:14 | 2022-04-01 | 2022-07-29 |
 | [Cupid](https://open.spotify.com/track/3y9rDgEdATAwgFX2NPKGw7) | [Vero](https://open.spotify.com/artist/2LsDmxmf4PpOYXeHYOuWKD) | [Cupid](https://open.spotify.com/album/2Fp2nN5Jriaag1RaQtYW7q) | 3:10 | 2022-02-15 | 2022-07-29 |
-| [dad](https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i wanna feel happy](https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn) | 3:12 | 2022-06-08 |  |
+| [dad](https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i wanna feel happy](https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn) | 3:12 | 2022-06-08 | 2022-10-15 |
 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 | 2022-08-03 |  |
 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 | 2021-10-19 |  |
 | [Destroy Us](https://open.spotify.com/track/2wSFjD7g5QQ3jiComKKDiA) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/07DZCEUCKN27wKjAHTMfST) | 4:17 | 2021-10-19 | 2022-08-02 |
@@ -122,6 +122,7 @@
 | [Junebouvier](https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Pipe Dreams](https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI) | 3:45 | 2021-10-19 |  |
 | [Kaleidoscope](https://open.spotify.com/track/17djDdG4A6RaonAObaffsH) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/5K5UsJA8QsC33ozOZkVf8s) | 2:05 | 2021-10-19 | 2022-07-28 |
 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 | 2021-10-19 |  |
+| [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 | 2021-10-19 |  |
 | [Keen on Boys](https://open.spotify.com/track/1SbeUtO3YCeSGccurWHHBP) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC) | 4:53 | 2021-10-19 | 2022-10-07 |
 | [Keen on Boys](https://open.spotify.com/track/3wZL6ZuuEqz3uJTcblXdLJ) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/2X1mLosmBKkM765LiX53W7) | 4:53 | 2021-10-19 | 2022-07-29 |
 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 | 2022-08-02 | 2022-09-30 |

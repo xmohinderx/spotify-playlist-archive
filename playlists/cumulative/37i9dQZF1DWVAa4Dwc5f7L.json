@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 207906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 248946,
       "name": "Ay! Mujer",
       "url": "https://open.spotify.com/track/5i4FLwWCYzv9Bk09e9XWxs"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 279373,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/3Yv9scZyi4XkzOpRLtHVwQ"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 238160,
       "name": "Borr\u00f3n y Cuenta Nueva",
       "url": "https://open.spotify.com/track/7EpStg3XDydJ7F9iVfED27"
@@ -305,10 +305,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 235833,
       "name": "Buscando Tus Besos",
       "url": "https://open.spotify.com/track/0gUm5HRefV9nEevGrt9tB6"
+    },
+    {
+      "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235833,
+      "name": "Buscando Tus Besos",
+      "url": "https://open.spotify.com/track/5hCfmqE3kJrIIA4bacK7gx"
     },
     {
       "album": {
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 221640,
       "name": "El Lapiz",
       "url": "https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 265360,
       "name": "El N\u00edagara en Bicicleta",
       "url": "https://open.spotify.com/track/6zFvinO1xYJLGZur2gTXSY"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 306442,
       "name": "La Quiero a Morir",
       "url": "https://open.spotify.com/track/4Tzq5jGBM5BN7eAkz64BCQ"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205586,
       "name": "La Travesia",
       "url": "https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286026,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 180266,
       "name": "L\u00e1mpara Pa' Mis Pies",
       "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 257266,
       "name": "Me Enamoro de Ella",
       "url": "https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 297773,
       "name": "Me Miras Y Te Miro",
       "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 171040,
       "name": "Me Miras Y Te Miro - New Version",
       "url": "https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q"
@@ -1735,6 +1753,24 @@
     {
       "album": {
         "name": "Mundialmente Sabrosos",
+        "url": "https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261355,
+      "name": "Morena Ven",
+      "url": "https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe"
+    },
+    {
+      "album": {
+        "name": "Mundialmente Sabrosos",
         "url": "https://open.spotify.com/album/7FCEGdY1gVowEqvyhoY7IT"
       },
       "artists": [
@@ -1745,7 +1781,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 261355,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/19LNUkJNfLznlidzLtD7YA"
@@ -1835,7 +1871,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "No Llores Por Ella",
       "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
@@ -2423,6 +2459,24 @@
     {
       "album": {
         "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1fdvF8aq4sagcs8eabTjDR"
+    },
+    {
+      "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
         "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
       },
       "artists": [
@@ -2433,7 +2487,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 233720,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6vcyxHrHyILjsaG8sTDnSh"
@@ -2545,7 +2599,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 208013,
       "name": "Visa Para un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk"
@@ -2599,7 +2653,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 290800,
       "name": "Ya Viene el Lunes",
       "url": "https://open.spotify.com/track/6BUuusRTBZcjTR3mGIo3jX"

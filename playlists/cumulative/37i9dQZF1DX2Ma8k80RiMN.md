@@ -4,11 +4,12 @@
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-87 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/1hna57tdO5fufuV8wdlNPX)
+88 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1hna57tdO5fufuV8wdlNPX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Love of Your Own](https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [Sing About Life](https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r) | 5:30 | 2022-03-14 | 2022-07-09 |
+| [Add Up To 1](https://open.spotify.com/track/0GaSs1MtArSVQ1mPPACxDG) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/0yOXtde4YGMQadJic2I6qr) | 3:28 | 2022-10-14 |  |
 | [All I Do](https://open.spotify.com/track/0ZUF8IsGwFVBTMKi32BpjJ) | [Shawn Stockman](https://open.spotify.com/artist/19dyJWLCu4CSuTgZN1l9Zn) | [All I Do](https://open.spotify.com/album/2QVLpiJGckXDQAssDGPWdC) | 3:37 | 2021-11-10 | 2022-07-29 |
 | [Am I Dreaming](https://open.spotify.com/track/6HHlyBUx4YGVE95GF0orTe) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [The Best Of Atlantic Starr](https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D) | 5:36 | 2021-11-10 | 2022-07-21 |
 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 | 2021-11-10 |  |
@@ -40,7 +41,7 @@
 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 | 2022-03-14 | 2022-09-16 |
 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 | 2021-11-10 |  |
 | [I Want You](https://open.spotify.com/track/2sE2ZJa3XjbuhUvwWFLqr1) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [What I'm Feelin'](https://open.spotify.com/album/5MZKupLJLcvIlCMumgwb9k) | 4:24 | 2021-11-10 | 2022-07-21 |
-| [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 | 2021-11-10 |  |
+| [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 | 2021-11-10 | 2022-10-15 |
 | [Insatiable](https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 6:39 | 2021-11-10 | 2022-07-29 |
 | [Lady Love](https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 4:02 | 2022-03-14 |  |
 | [Lessons \- Remix](https://open.spotify.com/track/3k6Eu5Gq7PM7krNbCqkQUs) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Lessons \(Remix\)](https://open.spotify.com/album/78IsczI1FMVEkgbynVBvHl) | 6:37 | 2021-11-10 |  |

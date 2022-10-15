@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhruv Vikram
 
-207 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+208 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Maaratha](https://open.spotify.com/track/4P925v6rzm2z44dvO3PfFA) | [Joseph Selvam Jabin](https://open.spotify.com/artist/6py2Rlpssqme51MNtCe0LY) | [Maaratha](https://open.spotify.com/album/5k9uhn6PZjW02bnYfUZhrb) | 3:47 | 2022-08-23 |  |
 | [Maaya Arivai \- Remix](https://open.spotify.com/track/1AXcnHTuFnoanimGHrSroC) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01) | [Maaya Arivai \(Remix\)](https://open.spotify.com/album/3R0rrxE7ZltdYSiBhprJv8) | 1:37 | 2022-08-05 |  |
 | [Maayam Seithaai Poovae \- From "Think Indie"](https://open.spotify.com/track/2QLaEmLzz4tfHtdxmMHbqX) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Maayam Seithaai Poovae \(From "Think Indie"\)](https://open.spotify.com/album/6yjQ1vNDcwSsXp1VFKpezr) | 4:04 | 2022-05-05 | 2022-10-11 |
+| [Malar](https://open.spotify.com/track/23oT1fb1GhQD0kSeLpVtHv) | [Ashwin Aryan](https://open.spotify.com/artist/7w7JsEht5xieUuMnFgLNZ1) | [Malar](https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI) | 3:35 | 2022-10-14 |  |
 | [Manadhin Oru Paadhi](https://open.spotify.com/track/6hSH5IxsxMEJXCI7TrBx1g) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manadhin Oru Paadhi](https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb) | 3:08 | 2022-08-11 |  |
 | [Manase](https://open.spotify.com/track/3XOj34b2q9npPGV75Kqsxc) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [Manase](https://open.spotify.com/album/1ICG76ZLCkL5CSDCq5QDzt) | 4:20 | 2022-09-23 |  |
 | [Manasu Parakudhu](https://open.spotify.com/track/0iQTNcYqxF1Tbi9KnJ8ufa) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manasu Parakudhu](https://open.spotify.com/album/0zWCe1iwekaEkc4FJffB9L) | 3:31 | 2022-06-02 | 2022-06-16 |

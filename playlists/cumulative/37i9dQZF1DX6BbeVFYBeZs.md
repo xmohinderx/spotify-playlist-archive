@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-165 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+166 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Homebound](https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Homebound](https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU) | 2:24 | 2022-06-17 |  |
 | [I Know My Luck](https://open.spotify.com/track/2qZTw4KQo2mKHhCdHNCF0p) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [I Know My Luck](https://open.spotify.com/album/0gWN0Xay0UHApfRTzqSoHU) | 2:50 | 2022-06-17 |  |
 | [I Never Really Lost You](https://open.spotify.com/track/5ktW8oGQimLO9EE7mPdkrc) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [I Never Really Lost You](https://open.spotify.com/album/5NB6PAUks28HbiKhYl09DI) | 3:37 | 2022-06-17 |  |
-| [I will be back](https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [I will be back](https://open.spotify.com/album/6WFcDbSDSNawB0MoVLXBsL) | 1:14 | 2022-06-17 |  |
+| [I will be back](https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [I will be back](https://open.spotify.com/album/6WFcDbSDSNawB0MoVLXBsL) | 1:14 | 2022-06-17 | 2022-10-15 |
+| [I will be back](https://open.spotify.com/track/6XXoKr31cHpEcZkGZsxXYQ) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [I will be back](https://open.spotify.com/album/6CvhepfhkTKXJGD6SiPaCo) | 1:14 | 2022-10-14 |  |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2022-06-17 |  |
 | [Indian Glass](https://open.spotify.com/track/6MIIniY6BMAFscSLC8KPQp) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Indian Glass](https://open.spotify.com/album/69QJ0fQcw6T6kRNKpLYxM9) | 3:27 | 2022-06-17 |  |
 | [Into My Abditory](https://open.spotify.com/track/11BgBQw2Pmn0ojmpr8fLZK) | [Bobby Dean](https://open.spotify.com/artist/0odJINAJzMqpe7EzD7cO2g) | [Into My Abditory](https://open.spotify.com/album/2pojOokS5oHdSYDUlaO4AR) | 1:52 | 2022-06-17 |  |

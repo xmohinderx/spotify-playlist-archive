@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-263 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+264 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Escape](https://open.spotify.com/track/1otlqkru9mpz8bLjcvCDT9) | [Fish Scale](https://open.spotify.com/artist/6wtqdTPU9yu2s9i2KpDSMK), [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU) | [Escape](https://open.spotify.com/album/00s7Ha8xcEvVRnOX6OBC1w) | 3:07 | 2022-04-01 | 2022-04-21 |
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2021-10-29 |  |
 | [Everybody Goes Like That](https://open.spotify.com/track/1er6VCtjpLVrxlzic1iCp6) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Everybody Goes Like That](https://open.spotify.com/album/056wZnSRN5x4RUNNRELeBl) | 2:17 | 2022-02-25 | 2022-07-29 |
-| [Everything](https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Everything](https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2) | 2:51 | 2022-07-22 |  |
+| [Everything](https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Everything](https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2) | 2:51 | 2022-07-22 | 2022-10-15 |
 | [Eyes Closed](https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Eyes Closed](https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ) | 3:16 | 2021-10-29 | 2022-07-30 |
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-10-29 |  |
 | [Facts](https://open.spotify.com/track/6b4EhRvtqusT59vERjGCNX) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [Facts](https://open.spotify.com/album/2uTVtbWnUotT9QXN8vek0l) | 2:16 | 2022-04-01 | 2022-07-27 |
@@ -135,6 +135,7 @@
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2021-10-29 |  |
 | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ) | 3:10 | 2022-09-30 |  |
 | [Leave Your Mind Behind](https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z) | 3:06 | 2022-01-28 | 2022-09-15 |
+| [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-14 |  |
 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-08-26 |  |
 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-26 | 2022-09-05 |
 | [Let Me Be The One](https://open.spotify.com/track/5ijDq4SioO6LGGeAIZu6W9) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Let Me Be The One](https://open.spotify.com/album/0ywvrZjl2FsnnjQGi6wOnU) | 2:39 | 2021-10-29 | 2022-04-21 |

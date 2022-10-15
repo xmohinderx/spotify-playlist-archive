@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover:  Los Chavalos De La Perla",
+  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: Los Del Cristo & Los de Porte Fino.",
   "name": "Corridos 2022",
   "published_playlist_ids": [
     "6mIhFs7U6KoLfn5GxVWgA4"
@@ -1790,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "El Guano",
+        "url": "https://open.spotify.com/album/5j8ffBkslHoAFyHfjtxQ2B"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215643,
+      "name": "El Guano",
+      "url": "https://open.spotify.com/track/3foO6pKWWEIMeIIjGiHRde"
+    },
+    {
+      "album": {
         "name": "El Halcon",
         "url": "https://open.spotify.com/album/1qgHPNs3Yz5aTKZXTc6Ycy"
       },
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 156498,
       "name": "EL WALKS",
       "url": "https://open.spotify.com/track/7Kicpyaa5jhmKxj9xUUPAA"
@@ -3388,6 +3406,28 @@
     },
     {
       "album": {
+        "name": "KDR (En Vivo)",
+        "url": "https://open.spotify.com/album/6WJ816v0OsSFTmzRAmeJUA"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "KDR (En Vivo)",
+      "url": "https://open.spotify.com/track/2k1K27RmQPNXEHj9oz57im"
+    },
+    {
+      "album": {
         "name": "Kilos De H",
         "url": "https://open.spotify.com/album/38tSpGhbcntqHHkNRRNQIb"
       },
@@ -3719,7 +3759,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 165609,
       "name": "La Oferta",
       "url": "https://open.spotify.com/track/0mRiJmaycYKj6hO8lSTWqo"
@@ -3905,6 +3945,28 @@
       "duration_ms": 207500,
       "name": "La Tiriwixiada",
       "url": "https://open.spotify.com/track/4mexeasKTWMOjNFQeYazHZ"
+    },
+    {
+      "album": {
+        "name": "La Tormenta (En Vivo)",
+        "url": "https://open.spotify.com/album/1qxgbRnr8yqYO0h9qMsD3i"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        },
+        {
+          "name": "Los De Porte Fino",
+          "url": "https://open.spotify.com/artist/6xTz1zhl5vDs8RK3X9d1yi"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159488,
+      "name": "La Tormenta (En Vivo)",
+      "url": "https://open.spotify.com/track/7MLAsX5kWrcYcMJi3Ngnk4"
     },
     {
       "album": {
@@ -4203,7 +4265,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 137889,
       "name": "Los RR",
       "url": "https://open.spotify.com/track/0z8iWc8a5GmpSHqIwsjm34"
@@ -4363,7 +4425,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 166096,
       "name": "Mayo Para El Mundo (En Vivo)",
       "url": "https://open.spotify.com/track/4IjVu3RGh8aPGHSnpupsoS"
@@ -4758,6 +4820,24 @@
     },
     {
       "album": {
+        "name": "Pa Que Ordene y Mande",
+        "url": "https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Pa Que Ordene y Manden",
+      "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
+    },
+    {
+      "album": {
         "name": "Padre Nuestro",
         "url": "https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9"
       },
@@ -4791,7 +4871,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 173313,
       "name": "Paponas",
       "url": "https://open.spotify.com/track/16CbCaq1N5unV0W2b3sFtD"
@@ -5017,6 +5097,28 @@
       "duration_ms": 239375,
       "name": "Pura Sombreriza",
       "url": "https://open.spotify.com/track/0obbAYSS1mu1DFat1eJvSX"
+    },
+    {
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "album": {
@@ -5262,6 +5364,24 @@
     },
     {
       "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180271,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+    },
+    {
+      "album": {
         "name": "Corridos 100% Callejeros (Vol. 1)",
         "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
       },
@@ -5407,7 +5527,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 205000,
       "name": "Siempre Andamos al Mill\u00f3n",
       "url": "https://open.spotify.com/track/0PNWvMu4GATHkoFDs471kL"
@@ -5621,7 +5741,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 191000,
       "name": "Suerte No Fue",
       "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
@@ -5963,7 +6083,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 150880,
       "name": "Yo No Me Rajo",
       "url": "https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz"

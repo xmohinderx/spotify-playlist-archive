@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44509,
+  "num_followers": 44518,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMDQyNzg5ZjlmMjcwOThiZDhiNGU2NjQzZjJiN2JkZDRk",
+  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMDQwYzAyYmQ0ZjYzODQ1ZWY3MzRhYzUyOGIzMTEzOTM0",
   "tracks": [
     {
       "added_at": "2022-10-06 22:00:00",
@@ -99,6 +99,26 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "Christmas Carousel",
         "url": "https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd"
       },
@@ -147,22 +167,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Behold",
-        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Christmas Greetings",
         "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
@@ -183,22 +187,18 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
+      "duration_ms": 195252,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Christmas With Peggy Lee",
-        "url": "https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr"
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 180600,
-      "name": "It's Christmas Time Again",
-      "url": "https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm"
+      "duration_ms": 165160,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -251,38 +251,6 @@
       "duration_ms": 194133,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
-        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -319,66 +287,34 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Songs of December (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+        "name": "Christmas With Peggy Lee",
+        "url": "https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 289786,
-      "name": "It's The Most Wonderful Time Of The Year",
-      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
+      "duration_ms": 180600,
+      "name": "It's Christmas Time Again",
+      "url": "https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm"
     },
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Billy Eckstine Sings",
-        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Christmas With The Andrews Sisters",
-        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "I'd Like To Hitch A Ride With Santa Claus",
-      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -399,18 +335,66 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 137880,
-      "name": "Christmas Island",
-      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+      "duration_ms": 195173,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Christmas With The Andrews Sisters",
+        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "I'd Like To Hitch A Ride With Santa Claus",
+      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Songs of December (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Billy Eckstine Sings",
+        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -427,6 +411,22 @@
       "duration_ms": 230906,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "Christmas Island",
+      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 167973,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 200180,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 298813,
       "name": "Christmas Memories",
       "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
-      },
-      "artists": [
-        {
-          "name": "Luca Francis",
-          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "'Tis The Season",
         "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 158971,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
+      },
+      "artists": [
+        {
+          "name": "Luca Francis",
+          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
     },
     {
       "added_at": "2022-10-06 22:00:00",

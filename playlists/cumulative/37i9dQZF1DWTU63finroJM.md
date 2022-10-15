@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-854 songs - 1 day 23 hr 56 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+856 songs - 2 day 0 hr 2 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,8 @@
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2022-03-10 | 2022-03-12 |
 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/11DQ0ZyNZZdiXCO59BjOoe) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 2:24 | 2022-03-24 | 2022-04-20 |
 | [TV TOWER](https://open.spotify.com/track/2xjC92HvXg1lc5vfwixsak) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [TV TOWER](https://open.spotify.com/album/0ylXvQZKnifxDs8PM4jM5C) | 3:49 | 2022-04-07 | 2022-08-02 |
-| [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-21 |  |
+| [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-21 | 2022-10-15 |
+| [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 | 2022-10-06 |  |
 | [Tết Real Khum?](https://open.spotify.com/track/5rvn7zGZYmFDq27Y2P7tPu) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Tết Real Khum?](https://open.spotify.com/album/73Pkh381e7WaWIBbbdksA8) | 3:38 | 2022-03-24 |  |
 | [U](https://open.spotify.com/track/0AqiXztTD2a0aeHkQsS1Lm) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/0cXPw9gEzyMguXppD8E0Ii) | 2:57 | 2022-02-03 |  |
 | [U+](https://open.spotify.com/track/1eWE9MBcX8cqYPXhdf2d38) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [U+](https://open.spotify.com/album/2PzmUiqcZUdaje0jkKmHkn) | 2:35 | 2022-02-03 |  |
@@ -717,7 +718,8 @@
 | [Welcome Back](https://open.spotify.com/track/2tJIp1gWlV6NpUyriIvOfd) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Mirror](https://open.spotify.com/album/51etW6Ge46Vuuvhq5cgTQ6) | 3:08 | 2022-03-24 |  |
 | [Wes Tatas](https://open.spotify.com/track/7rOAImf8ZV913bfYAFIZR8) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/28ofPOImvuGZ2DyVX0mOzb) | 4:07 | 2022-02-03 | 2022-03-15 |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-03-24 | 2022-04-06 |
-| [What Does That Make Me](https://open.spotify.com/track/3Gkz6glSbXuVkdNgIgzTXM) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Does That Make Me](https://open.spotify.com/album/46YDvX9MEU4pXNN7fJnB7Q) | 2:37 | 2022-03-24 |  |
+| [What Does That Make Me](https://open.spotify.com/track/3Gkz6glSbXuVkdNgIgzTXM) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Does That Make Me](https://open.spotify.com/album/46YDvX9MEU4pXNN7fJnB7Q) | 2:37 | 2022-03-24 | 2022-10-15 |
+| [What Does That Make Me](https://open.spotify.com/track/5oExN7A9Hhf66SBslF8uhh) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 2:37 | 2022-10-06 |  |
 | [What The Truck](https://open.spotify.com/track/4HCJcKwRmhDIROAtNMj6K1) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [What The Truck](https://open.spotify.com/album/3OKlwjvdtVkQDfnYZ65FK0) | 2:24 | 2022-03-24 | 2022-04-11 |
 | [What?](https://open.spotify.com/track/1evZendZnEe8a8eXjd1Bcn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:30 | 2022-02-03 | 2022-03-17 |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2022-02-03 | 2022-03-18 |

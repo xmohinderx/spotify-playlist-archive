@@ -4,7 +4,7 @@
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-59 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
+60 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2020-12-08 |  |
 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 | 2020-12-08 |  |
 | [Threw Me To The Wolves](https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves](https://open.spotify.com/album/5wwJpsU8T5zdRT2X8XnZ7s) | 3:52 | 2020-12-08 | 2022-07-29 |
-| [Troubled Man](https://open.spotify.com/track/2jg5t9K7AkFwivcExkrLX9) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [The Brotherhood](https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Blue Sky](https://open.spotify.com/album/4eXFt8xb1vaaivb332kvu1) | 3:34 | 2020-12-08 |  |
+| [Troubled Man](https://open.spotify.com/track/2jg5t9K7AkFwivcExkrLX9) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [The Brotherhood](https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Blue Sky](https://open.spotify.com/album/4eXFt8xb1vaaivb332kvu1) | 3:34 | 2020-12-08 | 2022-10-15 |
+| [Troubled Man](https://open.spotify.com/track/30M1CpW3ZUFHDkrl7SDu4I) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [The Brotherhood](https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Blue Sky](https://open.spotify.com/album/3J8C7aa1Ug0uMEygzjEsry) | 3:34 | 2020-12-08 |  |
 | [Wayward Girl Blues](https://open.spotify.com/track/00F1ZKo34DMNH2BFPcCLr0) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Prove It On Me](https://open.spotify.com/album/6TpFifpdTjpq979yvYcPqK) | 4:41 | 2020-12-08 | 2022-07-29 |
 | [Wayward Girl Blues](https://open.spotify.com/track/4KqG70KnkbejAZ35ZxEdTD) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Prove It On Me](https://open.spotify.com/album/26caNJjFBmB1bwVeBblL6X) | 4:41 | 2020-12-08 |  |
 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 | 2020-12-08 |  |

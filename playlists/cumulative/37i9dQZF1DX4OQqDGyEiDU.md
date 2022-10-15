@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-431 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+432 songs - 1 day 1 hr 7 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Iゆえに](https://open.spotify.com/track/2zEr5CZpgOhjAe54NkYieg) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [Iゆえに](https://open.spotify.com/album/4u6HPNc8xPBmva1V2rtyHo) | 3:32 | 2022-07-05 | 2022-07-07 |
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
 | [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 | 2022-10-05 |
+| [Killer Spider](https://open.spotify.com/track/3nOEQq57iGLmixCoGY0rOR) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Killer Spider](https://open.spotify.com/album/1ZS9h9lLWmMPBNSvbjOmXG) | 3:16 | 2022-10-13 |  |
 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 | 2022-06-09 |  |
 | [Lap Tap Love](https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [向日葵](https://open.spotify.com/artist/5fY5L5NPHQRgEhdjgTvoCZ) | [Resonance](https://open.spotify.com/album/4r5hRygA5bz0oDlJoRC7Yy) | 3:22 | 2022-06-09 | 2022-06-11 |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-07-26 |  |
@@ -192,7 +193,7 @@
 | [キャットフード \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 5:15 | 2022-07-12 | 2022-07-19 |
 | [キュリオ シティ \(feat\. 初音ミク&鏡音レン&鏡音リン\)](https://open.spotify.com/track/4sKtVLsTmb0cVunZNpGmGd) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [キュリオ・シティ](https://open.spotify.com/album/7s4PHX2t0AkcuB5CJMgIYd) | 3:52 | 2022-06-09 | 2022-07-28 |
 | [キュートなカノジョ](https://open.spotify.com/track/23n05HVfO1TXACtnSt1s98) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:12 | 2022-06-23 | 2022-07-29 |
-| [キラースパイダー](https://open.spotify.com/track/4hwBhrai5FqJQAUzQYuwK5) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [キラースパイダー](https://open.spotify.com/album/5N67rxoBZBzHGO93RfVNBC) | 3:16 | 2022-10-13 |  |
+| [キラースパイダー](https://open.spotify.com/track/4hwBhrai5FqJQAUzQYuwK5) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [キラースパイダー](https://open.spotify.com/album/5N67rxoBZBzHGO93RfVNBC) | 3:16 | 2022-10-13 | 2022-10-15 |
 | [キルマー](https://open.spotify.com/track/3HDWYQRlxjNejMg29EOU4x) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [NOMAN](https://open.spotify.com/album/0TvuU4JKAZeEFOGPBCOfOt) | 3:32 | 2022-06-09 | 2022-07-19 |
 | [クィホーティ](https://open.spotify.com/track/3oSxtNK9h1xrhieS9BhGFZ) | [エイハブ](https://open.spotify.com/artist/5m0HwAswhoLei0qFLRk2jf) | [クィホーティ](https://open.spotify.com/album/5DZplmgnotBPdgUuAgoXgU) | 3:10 | 2022-07-14 | 2022-07-16 |
 | [クラブ=マジェスティ](https://open.spotify.com/track/5rFEzVOvPz04EuTIapzx0G) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv) | [カドワナルカ=シアノタイプ](https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL) | 3:37 | 2022-07-05 | 2022-07-24 |

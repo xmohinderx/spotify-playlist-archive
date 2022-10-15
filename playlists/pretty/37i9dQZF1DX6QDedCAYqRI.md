@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,211 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,217 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 60 | [Love Pocket](https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/1AG0EVWWRdtX9o7hxEqRX0) | 2:55 |
 | 61 | [Nomad \(feat\. Luna May\)](https://open.spotify.com/track/3UWQaemSnvQ8XdERYWcZuF) | [Oriental Cravings](https://open.spotify.com/artist/51N35pGBBHm3u1uFtNhE8b), [Luna May](https://open.spotify.com/artist/7zmqghli56G0HN7CJePsdb) | [Nomad \(feat\. Luna May\)](https://open.spotify.com/album/1YbbcZ8ybBvZcJWMZ5zxUu) | 3:12 |
 | 62 | [Rumours](https://open.spotify.com/track/122HY5fBoA7FzHiognH3PP) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [Bad Habits](https://open.spotify.com/album/52tqBFO4WgbW0C1WZzItgE) | 3:11 |
-| 63 | [Suddenly](https://open.spotify.com/track/5ED5vnF6SpG7gdv7XBjEvF) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:25 |
+| 63 | [Suddenly](https://open.spotify.com/track/2ok5iJpqLf67O6Rzxg56OI) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:25 |
 | 64 | [Oslo](https://open.spotify.com/track/38hfvxbqNsAhwWPmZbKyyO) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Oslo](https://open.spotify.com/album/1oc3CsOcFX5lOBQPUF9pPm) | 3:50 |
 | 65 | [Friends](https://open.spotify.com/track/71bAQugadZL7hSKS9DUCbC) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:24 |
-| 66 | [White Noise](https://open.spotify.com/track/40jGEoOWxVGBSH3KAj10Vi) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:42 |
+| 66 | [White Noise](https://open.spotify.com/track/6rCjkeurS1X32ZQZyrLtR1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:42 |
 | 67 | [Priceless \(The Film Ballad\)](https://open.spotify.com/track/4K7d9xMOpYuLuikWsCO9lq) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [I WAS THE LION](https://open.spotify.com/artist/0hYPQPYA6Wu90339kq6046), [Bianca Santos](https://open.spotify.com/artist/6ZBUOrayQFAZwWKeoNKvzm) | [Priceless \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VbOGrb2x72BLZSAP5hJha) | 3:24 |
 | 68 | [Bottle Tops](https://open.spotify.com/track/0DU88MhtGfzyCvt3YZijfL) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Mononoke](https://open.spotify.com/artist/7JDpmpWfaFoeSTeKP5l881) | [Every Night Another But Not You](https://open.spotify.com/album/3sQW3x8p9ymXu4xMSrWtEB) | 4:37 |
 | 69 | [Revolve](https://open.spotify.com/track/4a2PTeP8MF4q4MphoV3iE3) | [Little Sea](https://open.spotify.com/artist/05JF2urTunljp953SopuXc) | [Revolve](https://open.spotify.com/album/0ATFW1N2rZb1fhW8wUYG16) | 4:04 |
 | 70 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 |
 
-Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDc0NjMyZDIzOGExNzRkZGUxYzNlMzQ2ZDc5ZGZmOTQw`
+Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDYwZDM4Nzc1ZmQyMDY4YTM5NTNiZDUzZjMwMWYyZWRh`

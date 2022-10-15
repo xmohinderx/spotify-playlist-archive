@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-114 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+115 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-09-15 |  |
 | [Emancipação \- Ron Trent Remix](https://open.spotify.com/track/66XwUl6vlH5XqGwjHI93OD) | [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Emancipação \(Ron Trent Remix\)](https://open.spotify.com/album/2px1kDZ3heXoSR6AFB8DGS) | 9:11 | 2022-09-15 |  |
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-09-15 |  |
-| [feel it yah](https://open.spotify.com/track/2dqmfG8IwZwbLfOBq0FkwS) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/65Qd4vvxTDZdf55MW0chnq) | 4:06 | 2022-09-15 |  |
+| [feel it yah](https://open.spotify.com/track/2dqmfG8IwZwbLfOBq0FkwS) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/65Qd4vvxTDZdf55MW0chnq) | 4:06 | 2022-09-15 | 2022-10-15 |
+| [feel it yah](https://open.spotify.com/track/5qc24f2cFSzQybTHdnq6NQ) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/2CzGwKbrawnjD37y7HTrL9) | 4:06 | 2022-10-13 |  |
 | [Feel the Same \- Edit](https://open.spotify.com/track/64TlZdKnvGP5y7naWW0YQl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Feel the Same \(Edit\)](https://open.spotify.com/album/11B1LZprXYVd6DTI60U80H) | 3:44 | 2022-09-15 |  |
 | [Feel Your Touch \- Jimpster Remix](https://open.spotify.com/track/0Fn9ZM9zL45U8bF1O4pFa9) | [Jon Dixon](https://open.spotify.com/artist/7g9cSQt42L38ryYcG475eq), [L'Renee](https://open.spotify.com/artist/14jYxAg6EAAQjrRX5jcXGo), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Vocal Sessions Vol.1](https://open.spotify.com/album/3z6LcAHxkmf9u84WrQU3vp) | 6:48 | 2022-09-15 |  |
 | [Floating](https://open.spotify.com/track/7bMytRkSbif4ep0bbm2dgA) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG) | [The Young Ones EP](https://open.spotify.com/album/5zJbLbWnj2LUvTDvPXVFXD) | 4:39 | 2022-09-15 |  |

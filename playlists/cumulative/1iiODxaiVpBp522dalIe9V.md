@@ -4,7 +4,7 @@
 
 > Hip hop heat from the Lone Star State for when you're feeling unstoppable.
 
-144 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
+145 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Not Him](https://open.spotify.com/track/4v87RiPNoAlxh0gfk8D1mR) | [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe) | [Not Him](https://open.spotify.com/album/2QRkyTjRBCS5PQmOzACksr) | 2:26 | 2022-09-01 | 2022-09-10 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/0UGyZR7RmVoYT0DBJCxTPy) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:12 | 2022-08-02 | 2022-09-02 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-07-01 | 2022-08-03 |
-| [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 | 2022-09-09 |  |
+| [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 | 2022-09-09 | 2022-10-15 |
 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 | 2022-06-02 | 2022-07-02 |
 | [PASTA](https://open.spotify.com/track/7yCnwyfRq6GSxmivcxnyKp) | [Mighty Bay](https://open.spotify.com/artist/6vAbPprzkLR2v8FpTgyYcV), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [PASTA](https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo) | 2:06 | 2022-08-02 |  |
 | [Plan B](https://open.spotify.com/track/3A4U3uNNsMaI1vWBey3VYH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:43 | 2022-09-09 | 2022-10-14 |
@@ -135,6 +135,7 @@
 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/2346NnUy4Q6hvbMWOaNnC2) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [WEIGHT OF THE WORLD \(Deluxe\)](https://open.spotify.com/album/5UH8fwsDbf7Rcc0BlhFobs) | 2:17 | 2022-08-02 | 2022-09-02 |
 | [Then Leave \(feat\. Queendom Come\)](https://open.spotify.com/track/2Xoc4gqPbBa3QHKpBLJ5l8) | [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Queendom Come](https://open.spotify.com/artist/0tFnayGz6sZxgRf1YS5VmI) | [Then Leave \(feat\. Queendom Come\)](https://open.spotify.com/album/5jFxVCrLnJFT1pDeJBgsYG) | 2:31 | 2022-07-01 | 2022-09-10 |
 | [THICK](https://open.spotify.com/track/0YYNIGKgAk34vZkV2NySie) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [THICK](https://open.spotify.com/album/3ftgaQdeWKruuVNUlsWbyh) | 2:58 | 2022-07-01 | 2022-10-14 |
+| [Thickkk](https://open.spotify.com/track/66ud8D8QKB989APuehQYRR) | [Sunnitharapper](https://open.spotify.com/artist/2KpLGbnpFTj3QUUSlB2mQO) | [Thickkk](https://open.spotify.com/album/1y8ZHVRa382U8PoR9A7sKY) | 2:59 | 2022-10-14 |  |
 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/4iTkqrEual8nNjBW7kZxpi) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 2:05 | 2022-08-02 | 2022-09-02 |
 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo) | 2:05 | 2022-07-01 | 2022-08-03 |
 | [Time](https://open.spotify.com/track/0PscXfGNoKV05i02lyejwK) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Time](https://open.spotify.com/album/7jl1EFPELcDEtfy03Xv2Gk) | 2:49 | 2022-09-01 |  |

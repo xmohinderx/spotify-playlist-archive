@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-144 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/6YJH6Sv9lXBPweUakPzcSg)
+146 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/6YJH6Sv9lXBPweUakPzcSg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-16 |  |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-29 |  |
 | [Elsewhere](https://open.spotify.com/track/28WzLDIBpcD5UhWIOktTrr) | [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Elsewhere](https://open.spotify.com/album/5p6wXzd3fXnFbvks9pZlXW) | 4:32 | 2021-12-16 | 2022-03-30 |
-| [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 | 2022-03-29 |  |
+| [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 | 2022-03-29 | 2022-10-15 |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2021-12-16 |  |
 | [Falling Up](https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Falling Up](https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud) | 3:26 | 2021-12-16 | 2022-06-28 |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-14 | 2022-09-07 |
@@ -86,6 +86,7 @@
 | [If We're Being Honest](https://open.spotify.com/track/6CfAtjogau9v9kmtZVrNG8) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [If We're Being Honest](https://open.spotify.com/album/6fktnVCm6NnlMd7pVcvweN) | 3:55 | 2021-12-16 | 2022-04-05 |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-03-29 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-09-06 |  |
+| [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-14 |  |
 | [Is It Just Me? \(feat\. JP Cooper\)](https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX) | 3:23 | 2021-12-16 | 2022-10-05 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-16 |  |
 | [It's Over](https://open.spotify.com/track/2DEuwLFHWl96sJWf2CavPS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [It's Over](https://open.spotify.com/album/0ygKnSCZS4GmTJV2sn0kC1) | 3:01 | 2022-09-06 |  |
@@ -99,8 +100,9 @@
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2021-12-16 |  |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-25 |  |
 | [London's Requiem](https://open.spotify.com/track/0TxJGoYx7racCE2idGNN0O) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [London's Requiem](https://open.spotify.com/album/0GCrz2OgzPwLDGLv26GiAi) | 5:02 | 2021-12-16 | 2022-06-28 |
+| [Lonely](https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:24 | 2022-10-14 |  |
 | [Lose You](https://open.spotify.com/track/59CN7mcm07irUS6YSEUobE) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lose You](https://open.spotify.com/album/4obqEeispd4zybuIeLzUYN) | 4:06 | 2022-04-04 | 2022-09-07 |
-| [Loud](https://open.spotify.com/track/1btdem1ldi7j2vyUqNVa2h) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Loud](https://open.spotify.com/album/6FUxwxYuHJhxCLof3VTmU8) | 4:17 | 2021-12-16 |  |
+| [Loud](https://open.spotify.com/track/1btdem1ldi7j2vyUqNVa2h) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Loud](https://open.spotify.com/album/6FUxwxYuHJhxCLof3VTmU8) | 4:17 | 2021-12-16 | 2022-10-15 |
 | [Love Can Be So Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/6AynlgSKxWXPaTQUawcUrP) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be So Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/album/1ficXqTVv3Kx2ONOZGANx2) | 3:45 | 2021-12-16 | 2022-09-07 |
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2022-09-06 |  |
 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 | 2021-12-16 |  |

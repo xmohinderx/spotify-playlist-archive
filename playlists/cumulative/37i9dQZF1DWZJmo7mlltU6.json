@@ -1640,6 +1640,32 @@
     },
     {
       "album": {
+        "name": "Don't worry bout me",
+        "url": "https://open.spotify.com/album/6zlcxFXv57GuTLV6k50Uhi"
+      },
+      "artists": [
+        {
+          "name": "Yayee",
+          "url": "https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2"
+        },
+        {
+          "name": "Anna",
+          "url": "https://open.spotify.com/artist/5br4h6xtm7ia5hdlAOZNJB"
+        },
+        {
+          "name": "Meemi",
+          "url": "https://open.spotify.com/artist/68MBgAF3KPCjNT4hz6fdHW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236551,
+      "name": "Don't worry bout me feat. Meemi",
+      "url": "https://open.spotify.com/track/1bHgPmoycLt2pzOPV0pEnH"
+    },
+    {
+      "album": {
         "name": "Doone Doone",
         "url": "https://open.spotify.com/album/7mdIUHlz8Pmu4uPRAtT9rX"
       },
@@ -1961,10 +1987,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 190714,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG"
+    },
+    {
+      "album": {
+        "name": "Fairweather Friends",
+        "url": "https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ"
     },
     {
       "album": {
@@ -2055,7 +2099,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 213533,
       "name": "Femme-Lady",
       "url": "https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp"
@@ -2345,7 +2389,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 139386,
       "name": "frown",
       "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
@@ -2541,7 +2585,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 228831,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm"
@@ -2707,7 +2751,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 180867,
       "name": "HYPERREAL",
       "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
@@ -2969,7 +3013,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 155375,
       "name": "It Matters Until It Doesn't",
       "url": "https://open.spotify.com/track/6lM6s5WehMZQnUOGA8Jd1a"
@@ -3756,6 +3800,28 @@
     },
     {
       "album": {
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207521,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
+    },
+    {
+      "album": {
         "name": "what\u2019s the name of this EP",
         "url": "https://open.spotify.com/album/3IkpFYAIck2VrAdkRfa9nx"
       },
@@ -3843,6 +3909,24 @@
       "duration_ms": 199653,
       "name": "Low Brow",
       "url": "https://open.spotify.com/track/7zlMmCrMYzO47H0nuEzLuD"
+    },
+    {
+      "album": {
+        "name": "Oltre la zona sicura",
+        "url": "https://open.spotify.com/album/46yVaVHnid7t7PQy9jTdYL"
+      },
+      "artists": [
+        {
+          "name": "Alan Sorrenti",
+          "url": "https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206884,
+      "name": "Luce magica",
+      "url": "https://open.spotify.com/track/3pxE5SMXpmR5h5DhpYJ187"
     },
     {
       "album": {
@@ -4367,7 +4451,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 228853,
       "name": "Mushroom Punch",
       "url": "https://open.spotify.com/track/4ngNOGGE008a5hH0HQWeMp"
@@ -4747,7 +4831,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 131974,
       "name": "O Twych Nogach",
       "url": "https://open.spotify.com/track/70m2Me37IUzMg9PxYSQrf4"
@@ -4794,6 +4878,24 @@
     },
     {
       "album": {
+        "name": "Ojos de jade",
+        "url": "https://open.spotify.com/album/4rLdYKF6DSvmoSVRExk731"
+      },
+      "artists": [
+        {
+          "name": "Okamiluke",
+          "url": "https://open.spotify.com/artist/3wHycgBdgDplw19kvn4VLo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242425,
+      "name": "Ojos de jade",
+      "url": "https://open.spotify.com/track/5Pkj7jOGic8HIMamq1AVbZ"
+    },
+    {
+      "album": {
         "name": "Olimpica",
         "url": "https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n"
       },
@@ -4831,7 +4933,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 225423,
       "name": "Olimpica",
       "url": "https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z"
@@ -4947,7 +5049,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 167771,
       "name": "Over the Hill",
       "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
@@ -5168,6 +5270,24 @@
     },
     {
       "album": {
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135605,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/4R7BQYeTzAhy0Vl83xrAcQ"
+    },
+    {
+      "album": {
         "name": "Picnic In The Park",
         "url": "https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB"
       },
@@ -5223,7 +5343,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 263124,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/7dnoIWcbnHhwGojoK7xg7G"
@@ -5433,7 +5553,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 235061,
       "name": "Pulling Through",
       "url": "https://open.spotify.com/track/03OFKv857PXCFgUlpah8Tc"
@@ -6416,6 +6536,46 @@
     },
     {
       "album": {
+        "name": "stuck in the cloud",
+        "url": "https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex"
+      },
+      "artists": [
+        {
+          "name": "Pam Rabbit",
+          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167974,
+      "name": "stuck in the cloud",
+      "url": "https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y"
+    },
+    {
+      "album": {
+        "name": "Sugar Rush",
+        "url": "https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr"
+      },
+      "artists": [
+        {
+          "name": "lowe",
+          "url": "https://open.spotify.com/artist/0ASFVsyFHBICfm61Gb4KLU"
+        },
+        {
+          "name": "GIOIA",
+          "url": "https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166302,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag"
+    },
+    {
+      "album": {
         "name": "suitable",
         "url": "https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez"
       },
@@ -6579,7 +6739,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 186880,
       "name": "Tapparelle",
       "url": "https://open.spotify.com/track/0shEngy3uI1eEZ3bNEP4h3"
@@ -6721,7 +6881,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 202347,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/40wkW3SBJMhemcvtzKjxkO"
@@ -6743,6 +6903,24 @@
       "duration_ms": 202347,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c"
+    },
+    {
+      "album": {
+        "name": "the modern man",
+        "url": "https://open.spotify.com/album/6nlW9IOEAMjQrk2j966gRe"
+      },
+      "artists": [
+        {
+          "name": "O'SULLIVAN",
+          "url": "https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152773,
+      "name": "the modern man",
+      "url": "https://open.spotify.com/track/47SdFufqr0QnwuRRMM8osK"
     },
     {
       "album": {
@@ -7061,7 +7239,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 171840,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/6DxfWDdfSKYYrCTaqEFF20"
@@ -7169,7 +7347,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 189004,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL"
@@ -7379,10 +7557,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 173641,
       "name": "What Does That Make Me?",
       "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
+    },
+    {
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/5W5JTrm3ZWu1IBNbx54mEe"
+      },
+      "artists": [
+        {
+          "name": "Petit Desk",
+          "url": "https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321600,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/4sEni2QRFyUqC5h2gw5WRN"
     },
     {
       "album": {
@@ -7646,6 +7842,32 @@
     },
     {
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/4XDyEHa2WeckWpthB7ifZK"
+      },
+      "artists": [
+        {
+          "name": "Betacam",
+          "url": "https://open.spotify.com/artist/57Zd5sXL7SD1anPMHPGlWJ"
+        },
+        {
+          "name": "Ama Ia",
+          "url": "https://open.spotify.com/artist/5myr2gHvqlEkktvZioElER"
+        },
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196029,
+      "name": "XX",
+      "url": "https://open.spotify.com/track/42ACPZYXi1WW1wpnCk6Kgr"
+    },
+    {
+      "album": {
         "name": "Y o Y",
         "url": "https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU"
       },
@@ -7733,6 +7955,24 @@
       "duration_ms": 180000,
       "name": "Yollar",
       "url": "https://open.spotify.com/track/3ehHsXp8F5VUpywMlxe3iH"
+    },
+    {
+      "album": {
+        "name": "you make me miserable",
+        "url": "https://open.spotify.com/album/1AQmAHENyNC8wcz5qXwxsY"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "you make me miserable",
+      "url": "https://open.spotify.com/track/77mZIYNx234Fytm9V9FzUB"
     },
     {
       "album": {

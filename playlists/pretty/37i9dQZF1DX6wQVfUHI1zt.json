@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 177289,
+  "num_followers": 177386,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDRjYjhiZGU1ZGY1MDA4YTQyMTM0NjBjYTA1MmUyZDc4",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMGM5OGZiNjVlMzY5ZWRmNjQ5MTA0ZjBiM2EyZmQ2YTQw",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Ven Mi Amor",
-        "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Ahora Dile",
-      "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
+      "duration_ms": 168493,
+      "name": "No Debes Jugar - 1993 Version",
+      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+        "name": "Ven Mi Amor",
+        "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
       },
       "artists": [
         {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 168493,
-      "name": "No Debes Jugar - 1993 Version",
-      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
+      "duration_ms": 232533,
+      "name": "Ahora Dile",
+      "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Siempre Humilde (Remastered)",
-        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Ahora Qu\u00e9 Hago Sin Ti",
-      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 488253,
       "name": "Tejano Megamix - Long Version",
       "url": "https://open.spotify.com/track/1V8rBKeQAbNwykLUrL4qDh"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Siempre Humilde (Remastered)",
+        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Ahora Qu\u00e9 Hago Sin Ti",
+      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
     },
     {
       "added_at": "2022-01-01 08:00:00",

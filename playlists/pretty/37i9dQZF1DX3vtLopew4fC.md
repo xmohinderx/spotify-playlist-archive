@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,309 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,331 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 38 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 |
 | 39 | [Self Talk](https://open.spotify.com/track/1QgRR1orkGMixuhjS1XV8D) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [ELIZABETH](https://open.spotify.com/album/4tzeckAWaM1QnimGXDD796) | 3:42 |
 | 40 | [Dreams](https://open.spotify.com/track/3tH0vbWaVb3rzlhqlA29Nu) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Dreams](https://open.spotify.com/album/7uzN6TOWx3PIKIytVpKMyQ) | 3:15 |
-| 41 | [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 |
+| 41 | [Everything I'm Not](https://open.spotify.com/track/6zJKS2ThHSC5kcQ9uXDcnU) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/6Qhq8Uz0MzaoywuchU3QoE) | 2:42 |
 | 42 | [Honey Bun](https://open.spotify.com/track/20f6NKhIFA61Sw4bjYKHu7) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Honey Bun](https://open.spotify.com/album/4JYcG0gR8kCJ6rd3mKB3hm) | 3:11 |
-| 43 | [Don't Mind](https://open.spotify.com/track/6rgamKIpPgddW3Fc0J1KBo) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/0VTL1h4Vk5JCN7f3YqQoFF) | 3:17 |
+| 43 | [Don't Mind](https://open.spotify.com/track/2xv35DpHy7xmnCkPWKo4dC) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/6IgiDt94AUYI6TANSG6SNa) | 3:17 |
 | 44 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 |
 | 45 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
 | 46 | [Can We Take The Night Off?](https://open.spotify.com/track/7uOvb1oTvrCGiU42h4rzE5) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Can We Take The Night Off?](https://open.spotify.com/album/4wgjdiDDwSiSkL4QwUZKlG) | 3:30 |
 | 47 | [Into My Arms \- Radio Edit](https://open.spotify.com/track/66XJcRIDGLTuH7YIcdl8i6) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Into My Arms \(Radio Edit\)](https://open.spotify.com/album/3AQHOXLLh2mO5x5SOAA7yj) | 3:35 |
 | 48 | [Serotonin](https://open.spotify.com/track/2UmrAOZI329X453Z0u1H1K) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Serotonin](https://open.spotify.com/album/0jrztDedMPZDMl0OIyCcr0) | 3:35 |
-| 49 | [Heavy](https://open.spotify.com/track/6j1TragEt7uh17933xPFxe) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/5i3uICWTYQabTzcRlvZRss) | 3:07 |
+| 49 | [Heavy](https://open.spotify.com/track/7q0MPwF6ORiKJWXLYGAhsH) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:07 |
 | 50 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
 
-Snapshot ID: `MTY2NTU4OTY4NSwwMDAwMDAwMDg1MDUwNzUwMDYwZTY4YWQxNDkwNjQ2NDYxNmJmOGQ0`
+Snapshot ID: `MTY2NTU4OTY4NSwwMDAwMDAwMDRkMTU4OTJiODYwNzkwNDBjNTY0YTQ0NjdkOTdlYmJm`

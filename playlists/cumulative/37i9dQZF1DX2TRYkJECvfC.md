@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-303 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+304 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,10 @@
 | [Blue](https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue](https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k) | 4:46 | 2021-12-08 |  |
 | [Bo & Wing](https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:47 | 2021-12-08 |  |
 | [Boats](https://open.spotify.com/track/5NOroGtZSBsdCid7axlyXj) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Boats](https://open.spotify.com/album/13zXBB7vZeWSmDvLOYjqQd) | 5:49 | 2021-12-08 | 2022-10-07 |
+| [Boats](https://open.spotify.com/track/69ZWVeHTMA8zwjOiCfpvOi) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 5:49 | 2022-05-03 |  |
 | [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 |  |
 | [Bouquet](https://open.spotify.com/track/1WVVHCbf9vWmb0dLI5ZGhB) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Bouquet](https://open.spotify.com/album/5iAyiisTfsZ1GeUEIoJ0N0) | 4:08 | 2021-12-08 |  |
-| [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/5xilFpTdCilXSJuAPbzTCU) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/7AVvNCXtylJhJ3seOYl33f) | 3:43 | 2021-12-08 |  |
+| [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/5xilFpTdCilXSJuAPbzTCU) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/7AVvNCXtylJhJ3seOYl33f) | 3:43 | 2021-12-08 | 2022-10-15 |
 | [Bring the Heat](https://open.spotify.com/track/4509YwOHu4aDFR8gagFuw1) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Bring the Heat](https://open.spotify.com/album/21oRCK6XtAfsxIbfuEWGRA) | 6:22 | 2021-12-08 |  |
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-08 |  |
 | [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 |  |
@@ -99,7 +100,7 @@
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2021-12-08 | 2022-07-28 |
 | [Hide and Seek](https://open.spotify.com/track/6dtObPFRUZ4eKsZZCp9ddZ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Hide and Seek](https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM) | 5:09 | 2021-12-08 | 2022-07-29 |
 | [Hide and Seek](https://open.spotify.com/track/6kvinwAz4dSKmLYMt5dP6O) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 5:09 | 2022-05-03 |  |
-| [Hold On](https://open.spotify.com/track/29noX0FL5ZMDF5bg77G52G) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/40Hq20k3nG8x3pH025RiIl) | 3:24 | 2022-05-03 |  |
+| [Hold On](https://open.spotify.com/track/29noX0FL5ZMDF5bg77G52G) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/40Hq20k3nG8x3pH025RiIl) | 3:24 | 2022-05-03 | 2022-10-15 |
 | [Hold On](https://open.spotify.com/track/5QJ2hs1d22vxT8f2Jz29M2) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/38PIcexdesDkSJOwfnHS6K) | 3:24 | 2021-12-08 | 2022-07-29 |
 | [How Do I Love You](https://open.spotify.com/track/17GYXmglkF2qLMrOhR915Z) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [How Do I Love You](https://open.spotify.com/album/08WrIRVquYjJQ0whhRkmq8) | 3:13 | 2021-12-08 |  |
 | [I Never Really Cared](https://open.spotify.com/track/05GiEzky4rkUc2aS95qaUr) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Afterlife](https://open.spotify.com/album/1GC0SjdlXjnx0NyhHV0Ug8) | 4:21 | 2021-12-08 |  |
@@ -128,7 +129,7 @@
 | [Kunzite](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 4:27 | 2021-12-08 |  |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2021-12-08 |  |
 | [La Maison \- Original](https://open.spotify.com/track/3d80ghHkDghJI78Ca6i0fN) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [La Maison](https://open.spotify.com/album/5JDwNbFFhU2py7OUJhyKQu) | 6:30 | 2022-05-03 | 2022-08-22 |
-| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-12-08 | 2022-10-11 |
+| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-12-08 |  |
 | [Leko \- Session Victim Remix](https://open.spotify.com/track/18nGprzEucUO4FF768lLhe) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Leko Remixes](https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09) | 5:25 | 2021-12-08 |  |
 | [Let Go](https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Let Go](https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK) | 4:08 | 2021-12-08 |  |
 | [Letzter](https://open.spotify.com/track/7A75UBKiDVmzvaFkYpnYz4) | [Edraw](https://open.spotify.com/artist/5GBLlXRHRfbIItI9WozeAG), [Keller Flavour](https://open.spotify.com/artist/1B4wdhAgnihovev7JTc8fJ) | [The Files](https://open.spotify.com/album/5r7cdO0ac5Rb8SvXgGAYIf) | 2:27 | 2021-12-08 |  |

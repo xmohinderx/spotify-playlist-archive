@@ -1,80 +1,100 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235199,
+  "num_followers": 235198,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDYxMjhmYTQ5ZWUwNjA3NmE4ZDU2YzI2YWZiNzUwMTAw",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGFmNTNjYzJkN2Q0OTdmODU5NmNkMzk0OTRkMDIxMzMz",
   "tracks": [
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Problem Song",
-        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
       },
       "artists": [
         {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 157570,
-      "name": "The Problem Song",
-      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+      "duration_ms": 173983,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Something Real",
-        "url": "https://open.spotify.com/album/78FB3PeyghAmRSTnW8wy6E"
+        "name": "Quality Over Opinion",
+        "url": "https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7"
       },
       "artists": [
         {
-          "name": "Tetra Collective",
-          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
-        }
-      ],
-      "duration_ms": 246673,
-      "name": "Sweetside",
-      "url": "https://open.spotify.com/track/3kPk8kOFxof26yVHTnjk1j"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Rolling Back",
-        "url": "https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK"
-      },
-      "artists": [
-        {
-          "name": "Young Gun Silver Fox",
-          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
-        }
-      ],
-      "duration_ms": 223720,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
         },
         {
-          "name": "Reiley",
-          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
         }
       ],
-      "duration_ms": 188853,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
+      "duration_ms": 322320,
+      "name": "Don\u2019t Care",
+      "url": "https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Trust the change",
+        "url": "https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "duration_ms": 201111,
+      "name": "Trust the Change",
+      "url": "https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -173,22 +193,6 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "LAst dAy oN EaRTh",
-        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 172755,
-      "name": "LAst dAy oN EaRTh",
-      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Special",
@@ -205,28 +209,20 @@
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+        "name": "LAst dAy oN EaRTh",
+        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+      "duration_ms": 172755,
+      "name": "LAst dAy oN EaRTh",
+      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -277,20 +273,28 @@
       "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "how deep?",
-        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 154506,
-      "name": "how deep?",
-      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -347,6 +351,22 @@
       "duration_ms": 218476,
       "name": "About Damn Time - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "how deep?",
+        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "how deep?",
+      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -425,6 +445,22 @@
       "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
       "added_at": "2022-07-18 15:20:06",
       "album": {
         "name": "Nick Of Time",
@@ -493,22 +529,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "GUCCI BAG",
-        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 134193,
-      "name": "GUCCI BAG",
-      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "When Someone Loves You",
@@ -527,6 +547,22 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "GUCCI BAG",
+        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 134193,
+      "name": "GUCCI BAG",
+      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -595,6 +631,26 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "Reiley",
+          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -961,22 +1017,6 @@
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
-      },
-      "artists": [
-        {
-          "name": "KWAYE",
-          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
@@ -1007,6 +1047,22 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     },
     {
       "added_at": "2022-07-12 18:25:04",
@@ -1117,6 +1173,22 @@
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
+      },
+      "artists": [
+        {
+          "name": "Onyx Collective",
+          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
+        }
+      ],
+      "duration_ms": 304838,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Berlin 1",
@@ -1147,22 +1219,6 @@
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
-      },
-      "artists": [
-        {
-          "name": "Onyx Collective",
-          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
-        }
-      ],
-      "duration_ms": 304838,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1237,6 +1293,26 @@
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Lost & Alive",
+        "url": "https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP"
+      },
+      "artists": [
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        },
+        {
+          "name": "Moorea Masa & the Mood",
+          "url": "https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR"
+        }
+      ],
+      "duration_ms": 181330,
+      "name": "Lost & Alive",
+      "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
+    },
+    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Run Away",
@@ -1259,26 +1335,6 @@
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Lost & Alive",
-        "url": "https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP"
-      },
-      "artists": [
-        {
-          "name": "Swatkins",
-          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
-        },
-        {
-          "name": "Moorea Masa & the Mood",
-          "url": "https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR"
-        }
-      ],
-      "duration_ms": 181330,
-      "name": "Lost & Alive",
-      "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1337,22 +1393,6 @@
       "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Keep Her",
-        "url": "https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW"
-      },
-      "artists": [
-        {
-          "name": "Jake Miller",
-          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Keep Her",
-      "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Dreamboat",
@@ -1371,6 +1411,22 @@
       "duration_ms": 187412,
       "name": "Monica",
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Keep Her",
+        "url": "https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW"
+      },
+      "artists": [
+        {
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "Keep Her",
+      "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1423,62 +1479,6 @@
       "duration_ms": 195391,
       "name": "Puff Break (Believe That)",
       "url": "https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "Sacred Place",
-        "url": "https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kest",
-          "url": "https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk"
-        },
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Sacred Place",
-      "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/3gpgKKDq1a8E4zTgV7rwjC"
-      },
-      "artists": [
-        {
-          "name": "Foreignlocal.",
-          "url": "https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs"
-        },
-        {
-          "name": "Sunsets",
-          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Givin'",
-        "url": "https://open.spotify.com/album/6mo0TkwTXp7RmvYRsfC2nN"
-      },
-      "artists": [
-        {
-          "name": "The Futurelics",
-          "url": "https://open.spotify.com/artist/2wUlCFFpvqdGiV1LIGr1Gk"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "Givin'",
-      "url": "https://open.spotify.com/track/0miEcUq0VOQnaJ1oJL4Qum"
     }
   ],
   "unique_name": "Ready for the Day",

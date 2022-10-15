@@ -769,6 +769,24 @@
     {
       "album": {
         "name": "Bleak Sublime",
+        "url": "https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231722,
+      "name": "Bleak Sublime",
+      "url": "https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z"
+    },
+    {
+      "album": {
+        "name": "Bleak Sublime",
         "url": "https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ"
       },
       "artists": [
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 231722,
       "name": "Bleak Sublime",
       "url": "https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU"

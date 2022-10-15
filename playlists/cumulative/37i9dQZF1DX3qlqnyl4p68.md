@@ -2,7 +2,7 @@
 
 ### [Netflix and Chills](https://open.spotify.com/playlist/37i9dQZF1DX3qlqnyl4p68)
 
-> Spooky sounds from your favorite horror features on Netflix\. Cover: Devil in Ohio.
+> Spooky sounds from your favorite horror features on Netflix\. Cover: The Watcher.
 
 44 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
 

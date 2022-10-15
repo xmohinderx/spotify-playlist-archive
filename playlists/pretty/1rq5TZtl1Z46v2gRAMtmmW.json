@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26817,
+  "num_followers": 26823,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzE2OSwyNjUzMWZjODEzYjg4ZmFjZGY2NDk5NDk3OTQzZjJkYTBkYTA0ZDgx",
+  "snapshot_id": "MzE3NSw4NWFmOGI3Zjg4NDZmZDkwZTNhNGU2Mzc4YTZhNmQ4ZDNjMWNmNmVh",
   "tracks": [
     {
       "added_at": "2022-10-12 15:59:51",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
     },
     {
+      "added_at": "2022-10-14 18:25:15",
+      "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/2RmsiWEPNkqtfjbFDi1zqe"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "duration_ms": 220458,
+      "name": "Comfort Eating",
+      "url": "https://open.spotify.com/track/5Ga1jDKhuAiZIk2bnh9ODX"
+    },
+    {
       "added_at": "2022-09-21 11:24:21",
       "album": {
         "name": "Problems",
@@ -59,6 +75,22 @@
       "duration_ms": 277239,
       "name": "Problems",
       "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
+    },
+    {
+      "added_at": "2022-10-14 18:23:51",
+      "album": {
+        "name": "Quality Over Opinion",
+        "url": "https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Park Your Car on My Face",
+      "url": "https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr"
     },
     {
       "added_at": "2022-10-13 19:41:05",
@@ -151,22 +183,6 @@
       "duration_ms": 228727,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p"
-    },
-    {
-      "added_at": "2022-09-29 20:32:26",
-      "album": {
-        "name": "Dead Inside Shuffle",
-        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dead Inside Shuffle",
-      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
     },
     {
       "added_at": "2022-09-20 11:45:55",
@@ -399,22 +415,6 @@
       "duration_ms": 213671,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf"
-    },
-    {
-      "added_at": "2022-07-19 14:54:01",
-      "album": {
-        "name": "Hero Man",
-        "url": "https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G"
-      },
-      "artists": [
-        {
-          "name": "PVA",
-          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
-        }
-      ],
-      "duration_ms": 233079,
-      "name": "Hero Man",
-      "url": "https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI"
     },
     {
       "added_at": "2022-08-01 22:48:47",

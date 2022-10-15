@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-151 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
+152 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Csay Csay](https://open.spotify.com/track/0cTLKPTA5rwpjrGutKO1r8) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/1Att1v11WfFuJMnaFkQBQe) | 6:01 | 2019-12-16 | 2022-07-29 |
 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 | 2019-12-16 |  |
 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 | 2022-08-31 |  |
-| [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 | 2022-08-31 |  |
+| [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 | 2022-08-31 | 2022-10-15 |
 | [Don't Get Any Closer](https://open.spotify.com/track/3A2fblRWcD5rUZEBDLefw0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 9:06 | 2019-12-16 | 2022-09-01 |
 | [Don't Get Any Closer](https://open.spotify.com/track/5aEW7hL4yJ3StRw4x9ZLLn) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/4BMYwbOZd1i9vraiSXtSkg) | 9:06 | 2019-12-16 | 2022-07-29 |
 | [Dustism](https://open.spotify.com/track/2OsmOTariM8whWzvPsPAeK) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7JbUvdIr1yepIxZy9rt3un) | 6:19 | 2019-12-16 | 2022-07-29 |
@@ -55,6 +55,7 @@
 | [Fake Starfield](https://open.spotify.com/track/01sIVQByS0Z4NpkbgCa6Xp) | [a\\wshhine](https://open.spotify.com/artist/7hVjrS9PyralpN34AsqlGR), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [Fake Starfield](https://open.spotify.com/album/3UanbDy5SRrq3K1LCcdWPK) | 2:40 | 2022-08-31 |  |
 | [Fanshawe](https://open.spotify.com/track/4p0Yp2fnqydGVEgIE2p60X) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:12 | 2019-12-16 | 2022-09-01 |
 | [Fanshawe](https://open.spotify.com/track/6iPqGJ3obz0wvUGSwPgvZN) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/0wKweXH1tHY04ONpa7Cphv) | 5:12 | 2019-12-16 | 2022-07-29 |
+| [Fast Coupe](https://open.spotify.com/track/34DFTDR17SPdxHeHIIaq4p) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6e17YaDs9O4RbnGFVzEQpL) | 2:14 | 2022-10-14 |  |
 | [Fireflies](https://open.spotify.com/track/1dhjmr1m86R9NUDRBpWowk) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 5:03 | 2019-12-16 | 2022-09-01 |
 | [Fireflies](https://open.spotify.com/track/4Al96JAyCmkAn9tryHNEFx) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/45QD5MLnRkj2F2RVJfwkcc) | 4:58 | 2022-08-31 |  |
 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 | 2022-08-31 |  |

@@ -4,7 +4,7 @@
 
 > more than just a lifestyle
 
-62 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
+63 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2022-07-27 |  |
 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 | 2022-07-27 |  |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-27 |  |
-| [Fling It Back](https://open.spotify.com/track/6DNaScbqaxX3YK2Yr2z8l5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [New Motion](https://open.spotify.com/album/4hHBmKgaOVfKlZYc7Ag1ly) | 2:24 | 2022-07-27 |  |
+| [Fling It Back](https://open.spotify.com/track/6DNaScbqaxX3YK2Yr2z8l5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [New Motion](https://open.spotify.com/album/4hHBmKgaOVfKlZYc7Ag1ly) | 2:24 | 2022-07-27 | 2022-10-15 |
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2022-07-27 |  |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-07-27 |  |
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2022-07-27 |  |
@@ -60,6 +60,7 @@
 | [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 | 2022-07-27 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-19 |  |
 | [SAD GIRLZ LUV MONEY](https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:16 | 2022-07-27 |  |
+| [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 | 2022-10-14 |  |
 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 | 2022-08-26 |  |
 | [Soft Life](https://open.spotify.com/track/1BbD9IQf55q0jwZwdCF7cZ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [Soft Life](https://open.spotify.com/album/3Q03NHEHcLV4Omb7cacqUL) | 2:51 | 2022-07-27 |  |
 | [Soft Life](https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:08 | 2022-07-27 |  |

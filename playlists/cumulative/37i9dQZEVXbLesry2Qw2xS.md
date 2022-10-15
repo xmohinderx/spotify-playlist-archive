@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-1,022 songs - 2 day 6 hr 56 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
+1,023 songs - 2 day 7 hr 0 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-25 | 2021-05-27 |
 | [aerobika](https://open.spotify.com/track/4SA3hKVvIbnDWjwH1Hnp1C) | [dj nevykele](https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg) | [aerobika](https://open.spotify.com/album/2iRfUImnkcgWkbTFxKbERB) | 2:30 | 2022-09-03 | 2022-09-09 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-08-17 | 2022-10-08 |
-| [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-12-16 |  |
+| [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-12-16 | 2022-10-15 |
+| [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2022-10-14 |  |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-06-28 | 2021-08-22 |
 | [Ainult Unustamiseks](https://open.spotify.com/track/6yWAlfKGH5AMHlxT4ZtCVg) | [Púr Múdd](https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce), [Grete Paia](https://open.spotify.com/artist/5hihfLAlypybwPFgjzLJiX) | [Ainult Unustamiseks](https://open.spotify.com/album/2cRw4jGrdkcv7SBj2q8H4f) | 3:00 | 2022-05-13 |  |
 | [Ainult unustamiseks](https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2) | [Smilers](https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq) | [XX \- 20 AASTAT METEORIITIDE SAJUS](https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF) | 4:30 | 2022-06-24 | 2022-06-27 |

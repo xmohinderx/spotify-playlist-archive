@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=MXl2ELIYSK2NPKxOWIxTFw" >Elaine</a>
 
-146 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+147 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Is It Love?](https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz) | 3:27 | 2022-04-28 | 2022-07-30 |
 | [Jaro](https://open.spotify.com/track/4lvGec6nR7TDvub75PtEpC) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Jaro](https://open.spotify.com/album/6i3bpjjJTQPZhB6ovD4HZi) | 2:50 | 2022-06-30 | 2022-07-23 |
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2021-02-12 |  |
-| [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-16 |  |
+| [Kiss Me Like I'm Drowning](https://open.spotify.com/track/5SCkVesdlJxWrh91kESu1S) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/04ghT0FCU5fljqC9Di8JtN) | 3:42 | 2022-06-16 |  |
+| [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-16 | 2022-10-15 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-07-22 |  |
 | [Kuhle](https://open.spotify.com/track/3zREQOl1i8W37OkMN9ztpN) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Kuhle](https://open.spotify.com/album/6ln73dm4ppPQn2REwrAYRD) | 3:27 | 2022-01-27 | 2022-06-04 |
 | [LALA TOTO](https://open.spotify.com/track/6CUTsIkRmoyMVXPPwnz3Py) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [LALA TOTO](https://open.spotify.com/album/0FY7JX7rMfPD05zuZtHU47) | 2:30 | 2022-08-05 | 2022-08-13 |

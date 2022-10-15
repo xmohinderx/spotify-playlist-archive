@@ -4,7 +4,7 @@
 
 > Indie Dance and Alt Hip\-Hop for cooling under the sunny sun sun.
 
-199 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
+200 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [I Miss My Dawgs](https://open.spotify.com/track/37HoJKXTnuru9ZPBmduLZ0) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/7KWwx7xR4GcwlngBP2Wyop) | 2:22 | 2021-10-26 | 2022-07-29 |
 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 | 2022-03-17 |  |
 | [I Was Sad Last Night I'm OK Now](https://open.spotify.com/track/0gEcmyKlIUoi3sHTFVO1bE) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:10 | 2021-10-26 |  |
+| [Icing on the Cake](https://open.spotify.com/track/5vgag6LYnA7LhlUw6u4K5T) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/1NNr44atY90LWvAcDcwqMU) | 1:56 | 2022-07-28 |  |
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2022-03-17 |  |
 | [If You Won't](https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 3:10 | 2022-07-28 |  |
 | [In Your Mind](https://open.spotify.com/track/1pb3GpXukIdPvhwSEDLclz) | [Straats](https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP) | [2 Be & In Your Mind](https://open.spotify.com/album/57mzzgh3cM00tUcFH8xeVe) | 2:35 | 2021-10-26 | 2022-09-10 |
@@ -201,7 +202,7 @@
 | [Wasted](https://open.spotify.com/track/01NxZVzbRZrRNzpoBJLh5p) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Wasted](https://open.spotify.com/album/7DQCcFWk5VzoSCLBJ7ZsUU) | 2:35 | 2022-07-28 | 2022-09-05 |
 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 | 2022-03-29 |  |
 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 | 2021-10-26 |  |
-| [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-05-13 |  |
+| [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-05-13 | 2022-10-15 |
 | [WILSHIRE](https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 8:35 | 2021-10-26 | 2022-07-01 |
 | [Young](https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Fit Me In](https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ) | 2:02 | 2022-07-28 |  |
 | [Young](https://open.spotify.com/track/4LMlviHZfDUXWIZhvGEAKi) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Fit Me In](https://open.spotify.com/album/2HBmYLBJ125pj7Dbss21tJ) | 2:02 | 2022-06-30 | 2022-07-02 |

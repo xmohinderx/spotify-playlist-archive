@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: emlyn Artwork: Paola Saliby
 
-2,594 songs - 5 day 12 hr 39 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
+2,596 songs - 5 day 12 hr 45 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1413,7 +1413,8 @@
 | [Love You \(But I Don't\)](https://open.spotify.com/track/1JsIhlnPz1SWKtdYTYxHoD) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Love You \(But I Don't\)](https://open.spotify.com/album/2rjtZLqUiHCtfoDZPm0t2n) | 2:50 | 2021-10-07 | 2021-11-11 |
 | [love you harder](https://open.spotify.com/track/2nW3S6nMLWOY2Q7eeXIL6Y) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [love you harder](https://open.spotify.com/album/1r2d20CXLO1PRUkb4QX4RO) | 3:35 | 2021-11-11 | 2021-12-01 |
 | [Love You Now, Love You Later](https://open.spotify.com/track/5IE9hrw4ToKfw2pO08If5j) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Love You Now, Love You Later](https://open.spotify.com/album/7hAYEzQB22bvzQjRZPvxSe) | 2:26 | 2021-03-06 | 2021-04-01 |
-| [Lovely Weather](https://open.spotify.com/track/0bSsno2oGtfZZHSnuLZsGl) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/4H486vjhzhdNFu7cRWw7Ay) | 3:07 | 2022-03-30 |  |
+| [Lovely Weather](https://open.spotify.com/track/0PSTO4wm4OdLVtnSH7ciym) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/1wp6QFL3N7sgi1GBX7Rn6U) | 3:07 | 2022-09-29 |  |
+| [Lovely Weather](https://open.spotify.com/track/0bSsno2oGtfZZHSnuLZsGl) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/4H486vjhzhdNFu7cRWw7Ay) | 3:07 | 2022-03-30 | 2022-10-15 |
 | [lovely.](https://open.spotify.com/track/1NMN2QQC3oX2nNssF5ZaCw) | [Gregory Dillon](https://open.spotify.com/artist/2Tn88QCFtNhPRnqzwYtrP1) | [lovely.](https://open.spotify.com/album/12RMqF2YpJin3VQkyHbvx7) | 3:24 | 2020-10-22 | 2020-12-08 |
 | [Lover](https://open.spotify.com/track/0000shTtSgGiyLrSoVI7In) | [Adam Wilson](https://open.spotify.com/artist/6nwKN2G61TtsdUspzhpfRd) | [Lover](https://open.spotify.com/album/2aRPv43aborROopeOwQgMd) | 3:20 | 2021-04-29 | 2021-05-20 |
 | [lovers only singalong](https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [lovers only singalong](https://open.spotify.com/album/2DzAPIprJTwtxRIYefQsU0) | 2:52 | 2022-02-16 | 2022-04-07 |
@@ -2250,7 +2251,8 @@
 | [The Creek](https://open.spotify.com/track/4n0GJOdGvGj3SiNi6e0xGJ) | [Paden](https://open.spotify.com/artist/2mhfCuMTtrJssp5VEKLjUG) | [The Creek](https://open.spotify.com/album/6hAXZ1p6WYHsQEFnQHtOaA) | 3:42 | 2021-06-24 | 2021-08-12 |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-05-25 | 2022-07-21 |
 | [The Drive \- amour Remix](https://open.spotify.com/track/47bcC2pwCCjDXjPhlzupSq) | [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ), [amour](https://open.spotify.com/artist/0jtSlf9rgPplntKCGwz7kv) | [The Drive \(amour Remix\)](https://open.spotify.com/album/6M1ll11oBz8yf8Qiam3OBm) | 3:50 | 2021-02-25 | 2021-03-25 |
-| [The End of the World](https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO) | 2:55 | 2022-09-07 |  |
+| [The End of the World](https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO) | 2:55 | 2022-09-07 | 2022-10-15 |
+| [The End of the World](https://open.spotify.com/track/20UbaFXoGiRFSU1IpFOSAb) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/1xIxBF7LvxRAVehVr6oXKR) | 2:55 | 2022-09-29 |  |
 | [The Eviction Song](https://open.spotify.com/track/6oQiyu9WMFDSKn2my0k7p7) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [The Eviction Song](https://open.spotify.com/album/6aPgylNrj1zdb5TfUbdYzb) | 2:59 | 2020-11-05 | 2021-06-18 |
 | [The Fire](https://open.spotify.com/track/3rkmWzLJrpgkYh7jA1Q4t3) | [K I T](https://open.spotify.com/artist/4SrbUFlMclvNQFZlSvfKDr) | [The Fire](https://open.spotify.com/album/5qjNipdWrObL91IHX8jNr9) | 3:44 | 2021-03-11 | 2021-04-08 |
 | [The Heat](https://open.spotify.com/track/574JRYU1lS9Cz3zcYD8SFF) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [The Heat](https://open.spotify.com/album/1baCG4CGldkKsAE2OtUeWY) | 3:18 | 2020-10-13\* | 2020-10-22 |

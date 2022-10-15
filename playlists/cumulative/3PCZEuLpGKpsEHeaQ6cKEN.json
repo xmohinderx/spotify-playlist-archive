@@ -5626,6 +5626,36 @@
     },
     {
       "album": {
+        "name": "Under The Night",
+        "url": "https://open.spotify.com/album/1mH8hpB8Esljgm9mq9CLZh"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Martin Trevy",
+          "url": "https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte"
+        },
+        {
+          "name": "Paul Schulze",
+          "url": "https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Under The Night",
+      "url": "https://open.spotify.com/track/14S1jiM3WdvPmGiDXKcaK1"
+    },
+    {
+      "album": {
         "name": "Underwater / Other Voices",
         "url": "https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG"
       },

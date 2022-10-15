@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 鬼頭明里
 
-121 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
+122 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dgaf \- S\-quad](https://open.spotify.com/track/1Pf3nj0VJyU5Inx71BicLw) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [Dgaf \(S\-quad\)](https://open.spotify.com/album/25GeWfdU4YzEVh9IiedLSt) | 3:07 | 2022-07-13 |  |
 | [DGAF \- S\-quad](https://open.spotify.com/track/23KRMrBfqmPLnXVGlLTTYH) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [DGAF\(S\-quad\)](https://open.spotify.com/album/2aufQhE2LsciY5jIdYI364) | 3:07 | 2022-07-13 | 2022-07-29 |
 | [eclatante](https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [eclatante](https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x) | 4:21 | 2022-07-13 | 2022-08-06 |
-| [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-22 |  |
+| [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-22 | 2022-10-15 |
+| [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2022-09-22 |  |
 | [Etoile](https://open.spotify.com/track/5JJYQ1nVJwRxM2iwcxbjkv) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [はなれない距離](https://open.spotify.com/album/08XGGxkQVD3MBcgNbmlFs0) | 3:42 | 2022-06-23 | 2022-08-31 |
 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-30 |  |
 | [Fanfare!!](https://open.spotify.com/track/5P79Y9MK1EzWGIis54F6ep) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [シャッフル \-Bright 3 Waves\-](https://open.spotify.com/album/6jpr8lf8u9QH2NDp22ksIw) | 4:04 | 2022-05-31 | 2022-08-06 |
@@ -112,7 +113,7 @@
 | [俺無しじゃ生きていけない?](https://open.spotify.com/track/0sKCsrUs1vdrf3z9Xivsf2) | [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [俺無しじゃ生きていけない?](https://open.spotify.com/album/0UYmrI4Z0L3fvI7rppGR7P) | 3:02 | 2022-08-05 |  |
 | [僕らだけの鼓動](https://open.spotify.com/track/71A6zeQcqe81pmKOYqfXxP) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [glow](https://open.spotify.com/album/1Rik1MUuJmTUEQSafVhHr0) | 4:04 | 2022-08-05 |  |
 | [嘘つきダーティ](https://open.spotify.com/track/6F6aBeXTbtXiDU0xfR2gxj) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/5hKG7hWvVwM2AhX2hDFBwh) | 3:50 | 2022-05-31 |  |
-| [夜あそびしようぜ](https://open.spotify.com/track/23yohx1mmUMUw8OFFpfUCp) | [森久保祥太郎](https://open.spotify.com/artist/2mPe0SBYUwudL5iXPmMbwR), [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [夜あそびしようぜ](https://open.spotify.com/album/2TpBF2EYiNsEKyHwVua0e3) | 4:54 | 2022-08-30 |  |
+| [夜あそびしようぜ](https://open.spotify.com/track/23yohx1mmUMUw8OFFpfUCp) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj), [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [夜あそびしようぜ](https://open.spotify.com/album/2TpBF2EYiNsEKyHwVua0e3) | 4:54 | 2022-08-30 |  |
 | [夢よりも早くこの恋が覚めても](https://open.spotify.com/track/6vUCeKFR6Kb1AGODIT7yYL) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [あじゅじゅと夜と音楽と](https://open.spotify.com/album/2wC9ZGJSE7IwWJZjLd1Tqb) | 3:42 | 2022-05-31 | 2022-08-06 |
 | [夢想的クロニクル](https://open.spotify.com/track/1gCtuZ1H0PbzBkNY1UIx6n) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [夢想的クロニクル](https://open.spotify.com/album/4NvsZjjP7cG1eTuK7Q1Q6w) | 4:01 | 2022-07-13 | 2022-07-29 |
 | [怪人にKiss](https://open.spotify.com/track/0gEdWQObEvfX5Wx7ViETAH) | [岡本信彦](https://open.spotify.com/artist/4LnBMr1Dx4lzwe4txArNCR) | [十bilation \(Incomplete Edition\)](https://open.spotify.com/album/2aBEfTkvwSg0UclrfEoCsD) | 3:28 | 2022-05-31 |  |

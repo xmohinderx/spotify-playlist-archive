@@ -2496,6 +2496,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9"
+    },
+    {
+      "album": {
         "name": "Oh Betty",
         "url": "https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o"
       },

@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp?si=OaM6yA75T9W9SHwjPmxQSg">Major Lazer</a> and <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=rPh8vRjjRX\-Zp4dp7Ol8vQ">Major League Djz</a>
 
-74 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
+75 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Hallelu](https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hallelu](https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM) | 3:33 | 2022-05-23 |  |
 | [Hamon](https://open.spotify.com/track/652CrDGK9rksRHkG7X0rlQ) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2) | [This is Japanese Amapiano EP](https://open.spotify.com/album/71mXRrRDg2NGJ0F73xBFRE) | 8:02 | 2022-05-23 | 2022-09-10 |
 | [Harlem Popo](https://open.spotify.com/track/2zXEw82TxIqV9nYaUKJFxA) | [Monsieur De Shada](https://open.spotify.com/artist/1avC97H8C3b55Q9t6szNT2) | [Bougie Love](https://open.spotify.com/album/4Xc51QoOuE7TThH73Fkx8S) | 4:29 | 2022-05-23 |  |
-| [I Did It \(Bum Bum\)](https://open.spotify.com/track/4CCBGUW3NnmrLKC661awnM) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ) | 3:43 | 2022-05-23 |  |
+| [I Did It \(Bum Bum\)](https://open.spotify.com/track/0Y1DdSpkxR1YX1lOxk1V6Z) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/7E1fYgJc0JPn19Rj1dOj7G) | 3:43 | 2022-05-23 |  |
+| [I Did It \(Bum Bum\)](https://open.spotify.com/track/4CCBGUW3NnmrLKC661awnM) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ) | 3:43 | 2022-05-23 | 2022-10-15 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-08-04 | 2022-08-12 |
 | [It Ain't Me \(Amapiano\) \- AfroTwang Remix](https://open.spotify.com/track/1K20Sr1SbKn6izdKvuk8F9) | [D'wante Navire](https://open.spotify.com/artist/7grWbAFTEoYYs3FRbyBqky) | [It Ain't Me \(Amapiano\) \[AfroTwang Remix\]](https://open.spotify.com/album/6oTpwucJnsYWsnXn8uFOgM) | 2:37 | 2022-05-23 | 2022-08-05 |
 | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80) | 4:37 | 2022-05-23 |  |

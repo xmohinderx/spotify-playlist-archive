@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173686,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
@@ -2084,6 +2084,24 @@
     },
     {
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212787,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
+    },
+    {
+      "album": {
         "name": "I WILL BE THE CAUSE OF OUR DEATH",
         "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
       },
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 198359,
       "name": "Keep Me Up",
       "url": "https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE"
@@ -3877,7 +3895,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"

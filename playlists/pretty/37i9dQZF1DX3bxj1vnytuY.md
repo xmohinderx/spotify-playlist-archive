@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,248 likes - 100 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,295 likes - 100 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 12 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
 | 13 | [Sabali](https://open.spotify.com/track/7pSCO1Uf22BPMvFSzSiFmw) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5) | [Journey](https://open.spotify.com/album/3b5IdXSse2wu3lDfWgHNu8) | 5:18 |
 | 14 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
-| 15 | [Sunsets in Marrakech](https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd) | 6:18 |
+| 15 | [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 |
 | 16 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 |
 | 17 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 |
 | 18 | [Ya Albi](https://open.spotify.com/track/28H69jrYqYi7uTY0xr9Jjj) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Your Destiny Ep](https://open.spotify.com/album/1gJn7kasUhDdy6HJ8pg0uv) | 6:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Water](https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Trick Beat](https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1), [Djarah Kan](https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y) | [Water](https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB) | 7:06 |
 | 100 | [Yakar](https://open.spotify.com/track/2QgkP1kZPhav58whMHBOIr) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Lass](https://open.spotify.com/artist/3MRiVXzyKKIlt0WyYEQAkh) | [Yakar EP](https://open.spotify.com/album/3FTv2v8THnTT4IdmGC33cH) | 7:03 |
 
-Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDJjYjkxOGYyNmZlNTgwMzUzZTU4Y2Y0M2U2N2JmZWNj`
+Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDNmYTJmZjQ5OWNkZmIwMzc5ODNmOTBkN2E3MTZkNDQ5`

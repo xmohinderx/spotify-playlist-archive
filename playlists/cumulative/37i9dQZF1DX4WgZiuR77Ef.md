@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-171 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+172 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Pushin' On](https://open.spotify.com/track/3nPUw7RAT82QX2Yg1awMuM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/5NL85zevDT2D9Rx8M1rMno) | 3:19 | 2020-10-30 |  |
 | [Repent](https://open.spotify.com/track/5h4Gkr0lVkh90ejOS5MjNI) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Mackenzie](https://open.spotify.com/artist/6RxbJRHg6Cwf3wAad0VFRf), [Keith Anderson](https://open.spotify.com/artist/5QY2TTRCoTQYcbAddmG754) | [Live in Love](https://open.spotify.com/album/6rqu2V90Bv8DI87MpNS9WW) | 5:16 | 2021-06-04 |  |
 | [Rile 'Em Up](https://open.spotify.com/track/4mvVLWbe50QZg4QJhzBztu) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:27 | 2020-10-30 |  |
-| [River Keep Runnin'](https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/0ZdibF3BhJdDquoGGMDuMA) | 4:08 | 2022-03-11 |  |
+| [River Keep Runnin'](https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/0ZdibF3BhJdDquoGGMDuMA) | 4:08 | 2022-03-11 | 2022-10-15 |
+| [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 | 2022-03-11 |  |
 | [Rock Steady \- Zigaboo Version \- Remastered](https://open.spotify.com/track/6W8053NfZcRCSO2EAnDF3b) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Kenya Hathaway](https://open.spotify.com/artist/3OOcpvOBvRu9XAb7YvasHB), [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Zigaboo Modeliste](https://open.spotify.com/artist/0nWyZCX1qLoZzRGC9ZmuaV) | [Rock Steady](https://open.spotify.com/album/4Tg10fXYYEuHtgFaDXSwPn) | 4:34 | 2020-10-30 |  |
 | [Satisfaction](https://open.spotify.com/track/3Y0WMxJ7Mpb7xe2RTa1LkD) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Satisfaction](https://open.spotify.com/album/5pZAsx99H0eSljRriWU5QS) | 5:14 | 2020-10-30 |  |
 | [Scream!](https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Scream!](https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq) | 4:34 | 2022-07-15 |  |

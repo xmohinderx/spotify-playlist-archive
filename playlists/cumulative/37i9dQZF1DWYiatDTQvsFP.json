@@ -258,6 +258,28 @@
     },
     {
       "album": {
+        "name": "Best Friend (Remix)",
+        "url": "https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Best Friend - Remix",
+      "url": "https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do"
+    },
+    {
+      "album": {
         "name": "Supa Dupa Fly",
         "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
       },
@@ -321,6 +343,24 @@
       "duration_ms": 183750,
       "name": "Between Us (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/2yb5Ao7Yk2nl9YFnNwKi5F"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "Big Poppa - 2007 Remaster",
+      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
     },
     {
       "album": {
@@ -447,7 +487,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 280000,
       "name": "Calling On You",
       "url": "https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk"
@@ -2379,7 +2419,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 87030,
       "name": "More Plays",
       "url": "https://open.spotify.com/track/6dXAFJ9aOTWoGMWV8Ur8fv"
@@ -2549,7 +2589,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 174588,
       "name": "Not My Job",
       "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
@@ -2849,6 +2889,36 @@
       "duration_ms": 162436,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao"
+    },
+    {
+      "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "Ready or Not",
+      "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
     },
     {
       "album": {
@@ -3207,7 +3277,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 147539,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
@@ -3425,7 +3495,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 238320,
       "name": "Thug Love",
       "url": "https://open.spotify.com/track/1OL69uK0I7fWTIzDtKBmHP"

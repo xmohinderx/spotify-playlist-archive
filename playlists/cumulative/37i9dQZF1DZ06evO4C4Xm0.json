@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 232440,
       "name": "Foreshadowed - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 284133,
       "name": "Lay My Love",
       "url": "https://open.spotify.com/track/70MtQkoCPrL5LgI3ky6Jtw"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 211253,
       "name": "The Silver Ball - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
@@ -1763,6 +1763,28 @@
       "duration_ms": 193280,
       "name": "Wind On Wind",
       "url": "https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl"
+    },
+    {
+      "album": {
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250266,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/2B1kFwjaDrbv7ifmyBx9hj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0"

@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, karma driven, hard hitting pop. This is SALT. Cover: Maisie Peters",
-  "num_followers": 303724,
+  "num_followers": 303893,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGE5MTQyMjIyMTVjYTA3OTQ2NjliZDc1ZWU5NmFlOTBh",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDA1OGU4YTNkZTQxZGZjNmFkMGE4OWIxMGJhOTI5Yjcx",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -25,10 +25,26 @@
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "tired of california",
-        "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 145386,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "young forever",
+        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
       },
       "artists": [
         {
@@ -36,9 +52,25 @@
           "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 190800,
-      "name": "tired of california",
-      "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
+      "duration_ms": 188360,
+      "name": "too hot to cry",
+      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "CRAVE",
+        "url": "https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu"
+      },
+      "artists": [
+        {
+          "name": "CR\u00c8ME",
+          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "CRAVE",
+      "url": "https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "honey catching season",
+        "url": "https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "duration_ms": 145788,
+      "name": "martyr",
+      "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Feel What I'm Feeling",
@@ -73,22 +121,6 @@
       "url": "https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 145386,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Cold Killer",
@@ -103,6 +135,22 @@
       "duration_ms": 159112,
       "name": "Cold Killer",
       "url": "https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd"
+      },
+      "artists": [
+        {
+          "name": "Cyn",
+          "url": "https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7"
+        }
+      ],
+      "duration_ms": 162049,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -135,6 +183,22 @@
       "duration_ms": 129343,
       "name": "ExBox",
       "url": "https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "tired of california",
+        "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "tired of california",
+      "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
     },
     {
       "added_at": "2022-09-23 04:00:00",

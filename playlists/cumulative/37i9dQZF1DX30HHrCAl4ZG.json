@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of new indie rock. Cover: Surf Curse\n",
+  "description": "The pulse of new indie rock. Cover: Hotel Ugly",
   "name": "Today's Indie Rock",
   "published_playlist_ids": [
     "6NQ4UrfxHZRCQftucSkbbm"
@@ -77,6 +77,24 @@
       "duration_ms": 154186,
       "name": "19",
       "url": "https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ"
+    },
+    {
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152462,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
     },
     {
       "album": {
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 199636,
       "name": "Awkward Conversations",
       "url": "https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 165445,
       "name": "Belinda Says",
       "url": "https://open.spotify.com/track/6P68mPQLzCYoxa6d5Xemr1"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 171381,
       "name": "Change",
       "url": "https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V"
@@ -2031,6 +2049,24 @@
       "duration_ms": 277889,
       "name": "Chloe",
       "url": "https://open.spotify.com/track/4U8VEq1Eu4FdkgIp9xkgMl"
+    },
+    {
+      "album": {
+        "name": "[redacted]",
+        "url": "https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q"
+      },
+      "artists": [
+        {
+          "name": "Nitefire",
+          "url": "https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT"
     },
     {
       "album": {
@@ -2395,6 +2431,24 @@
       "duration_ms": 155259,
       "name": "Cosigns",
       "url": "https://open.spotify.com/track/4QaF8Cas5jawCVTiuwcB7e"
+    },
+    {
+      "album": {
+        "name": "cough drops",
+        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163990,
+      "name": "cough drops",
+      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
       "album": {
@@ -3781,7 +3835,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 195800,
       "name": "Feel It All The Time",
       "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
@@ -3991,6 +4045,24 @@
       "duration_ms": 317279,
       "name": "First Time Caller",
       "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
+    },
+    {
+      "album": {
+        "name": "Flip It",
+        "url": "https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE"
+      },
+      "artists": [
+        {
+          "name": "Bleached",
+          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188898,
+      "name": "Flip It",
+      "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
     },
     {
       "album": {
@@ -5126,6 +5198,24 @@
     },
     {
       "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
+    },
+    {
+      "album": {
         "name": "I hope we can still be friends",
         "url": "https://open.spotify.com/album/2DFYfHxIagpHC6SrZ596qo"
       },
@@ -5137,7 +5227,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 151454,
       "name": "I hope we can still be friends",
       "url": "https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp"
@@ -5864,6 +5954,24 @@
     },
     {
       "album": {
+        "name": "it's your film, i'm just playing the part",
+        "url": "https://open.spotify.com/album/17rtBZTsO48fhqft3sSGMz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193896,
+      "name": "it's your film, i'm just playing the part",
+      "url": "https://open.spotify.com/track/6s9WMApmrO549X59MV0pr3"
+    },
+    {
+      "album": {
         "name": "Jackie",
         "url": "https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ"
       },
@@ -6023,6 +6131,24 @@
       "duration_ms": 173593,
       "name": "JUNO",
       "url": "https://open.spotify.com/track/5eGnzWOwLq7zhnj9XsTFY4"
+    },
+    {
+      "album": {
+        "name": "Just Before The Morning",
+        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214497,
+      "name": "Just Before The Morning",
+      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
     },
     {
       "album": {
@@ -6603,6 +6729,24 @@
       "duration_ms": 196533,
       "name": "Lots of Nothing",
       "url": "https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB"
+    },
+    {
+      "album": {
+        "name": "Love Will Get You There",
+        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250280,
+      "name": "Love Will Get You There",
+      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
     },
     {
       "album": {
@@ -7295,7 +7439,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 203434,
       "name": "Motels",
       "url": "https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix"
@@ -7793,7 +7937,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 237782,
       "name": "OH HEY",
       "url": "https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU"
@@ -7829,7 +7973,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 329432,
       "name": "Ohm",
       "url": "https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU"
@@ -7967,6 +8111,24 @@
       "duration_ms": 269301,
       "name": "Orange",
       "url": "https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1"
+    },
+    {
+      "album": {
+        "name": "Oregon / Harvard",
+        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198413,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
     },
     {
       "album": {
@@ -8147,7 +8309,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 203177,
       "name": "Park Lodge",
       "url": "https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f"
@@ -8637,7 +8799,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 189362,
       "name": "Quota",
       "url": "https://open.spotify.com/track/0u6e9PEJjRHWXklORJibwd"
@@ -8659,6 +8821,24 @@
       "duration_ms": 219400,
       "name": "Randall Flagg",
       "url": "https://open.spotify.com/track/4eRoGhykyQCIzhOaFf35zX"
+    },
+    {
+      "album": {
+        "name": "REACH!",
+        "url": "https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219069,
+      "name": "REACH!",
+      "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
     },
     {
       "album": {
@@ -9088,6 +9268,24 @@
     },
     {
       "album": {
+        "name": "Sell Out",
+        "url": "https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187453,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/5aWaPqgkheottumavM0tix"
+    },
+    {
+      "album": {
         "name": "Set The Table",
         "url": "https://open.spotify.com/album/293J6DF0p1SvXtIt9xFilZ"
       },
@@ -9319,7 +9517,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210773,
       "name": "Shut Up and Show Me",
       "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
@@ -9427,7 +9625,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 216807,
       "name": "Sleeping in Cars",
       "url": "https://open.spotify.com/track/20LGqs8akUvJKwn76nVAtC"
@@ -10500,6 +10698,24 @@
     },
     {
       "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
+      "album": {
         "name": "The Other Way",
         "url": "https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE"
       },
@@ -10565,7 +10781,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192680,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/6PUzYXBwsvuP0Db074d9W4"
@@ -10731,6 +10947,24 @@
       "duration_ms": 218817,
       "name": "They Don't See Us",
       "url": "https://open.spotify.com/track/7cEN0BqzxPLohVdFddS7jo"
+    },
+    {
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
     },
     {
       "album": {
@@ -11207,6 +11441,28 @@
       "duration_ms": 291893,
       "name": "Try Try Try",
       "url": "https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg"
+    },
+    {
+      "album": {
+        "name": "Turn It On",
+        "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270530,
+      "name": "Turn It On",
+      "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
     },
     {
       "album": {
@@ -11711,7 +11967,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 209667,
       "name": "Whales",
       "url": "https://open.spotify.com/track/0cUGSqx7MfnjiVwDzpYdYo"
@@ -12361,7 +12617,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 258213,
       "name": "Zum Herz",
       "url": "https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4"

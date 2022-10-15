@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-74 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+76 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,12 @@
 | [Bittersweet](https://open.spotify.com/track/553LsHPF7vTYKDejaMl63F) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:30 | 2022-07-13 |  |
 | [Black Night](https://open.spotify.com/track/2P9BHr3KXDDCQ2eq17VHud) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 7:43 | 2022-07-13 |  |
 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 | 2022-07-13 |  |
+| [Blue And Lonesome](https://open.spotify.com/track/2mGIN7Wttje8xPUVyhIwZg) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Blues, Ballads](https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx) | 4:05 | 2022-10-14 |  |
 | [Blues For Rampart Street](https://open.spotify.com/track/2kcUYFKefPRK1IeNwkdJUo) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 2:57 | 2022-07-13 |  |
 | [Bring on the Blues](https://open.spotify.com/track/3i4WJaPerBXW1Up1ZVGU5t) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [So Long](https://open.spotify.com/album/2LQC92IPJ9amNY40rdKj5E) | 4:53 | 2022-07-13 |  |
 | [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 | 2022-07-13 |  |
 | [Cherry Pickin' Blues](https://open.spotify.com/track/5jQzD7M8t0EjR3lK1MN7Bt) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 3:29 | 2022-07-13 |  |
+| [Cold Rain](https://open.spotify.com/track/4lx1OefOTwZqbVp4j5kBBg) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Blues, Ballads](https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx) | 5:46 | 2022-10-14 |  |
 | [Come On In This House](https://open.spotify.com/track/4FOJYIDHcuvu7JWQkDIQmd) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU) | [Come On In This House](https://open.spotify.com/album/6keYEl1L883Nzm1EHU6JcB) | 5:53 | 2022-07-13 |  |
 | [Crescent City Blues](https://open.spotify.com/track/2MYVRxroTD3cChZH6KlRwh) | [The New Hot Frogs](https://open.spotify.com/artist/3Udu6p6dy4INkZY5yKZ6qM), [Pat Yankee](https://open.spotify.com/artist/0X0t6cRRXOrgyqc3FEWcsz) | [Together at Last!](https://open.spotify.com/album/5JMEguLEL2N1vYLMcuZDzO) | 3:17 | 2022-09-12 |  |
 | [Daydreamin'](https://open.spotify.com/track/3lUqcCAUORjvF3We6cWZtH) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Duke Levine](https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh) | [Country, Blues & More](https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP) | 1:49 | 2022-09-23 |  |

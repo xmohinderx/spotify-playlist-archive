@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Snow Berries",
+        "url": "https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs"
+      },
+      "artists": [
+        {
+          "name": "Prescient Liquids",
+          "url": "https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199700,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu"
+    },
+    {
+      "album": {
         "name": "Cosmic Awarness",
         "url": "https://open.spotify.com/album/4Pyk7xBsaCzB3UeFEWJa63"
       },
@@ -1682,6 +1700,42 @@
     },
     {
       "album": {
+        "name": "Enchanted Reality",
+        "url": "https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Green",
+          "url": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "Enchanted Reality",
+      "url": "https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv"
+    },
+    {
+      "album": {
+        "name": "Endelig",
+        "url": "https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR"
+      },
+      "artists": [
+        {
+          "name": "Alba Lie",
+          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Endelig",
+      "url": "https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4"
+    },
+    {
+      "album": {
         "name": "Ending In Mist",
         "url": "https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3"
       },
@@ -1970,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W"
+      },
+      "artists": [
+        {
+          "name": "Somaya Kudri",
+          "url": "https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157465,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q"
+    },
+    {
+      "album": {
         "name": "Analogue Nature",
         "url": "https://open.spotify.com/album/5nw0R73IOsPK4ihhJzYvbV"
       },
@@ -2132,6 +2204,24 @@
     },
     {
       "album": {
+        "name": "Glowing",
+        "url": "https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l"
+      },
+      "artists": [
+        {
+          "name": "Ilumina",
+          "url": "https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133065,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk"
+    },
+    {
+      "album": {
         "name": "Halvma\u030ane",
         "url": "https://open.spotify.com/album/6de7hTffUyFdSa8fNoZEGQ"
       },
@@ -2215,7 +2305,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 201795,
       "name": "Here",
       "url": "https://open.spotify.com/track/3N2PrGvzDbb1Fn80lv1gj1"

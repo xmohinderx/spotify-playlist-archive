@@ -4,7 +4,7 @@
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-308 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
+315 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
 | [Agile](https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Agile](https://open.spotify.com/album/5aaxGHW6MyyYF8TSjBeGyF) | 3:26 | 2021-12-07 |  |
 | [Alcyone](https://open.spotify.com/track/1eZ7C5xgD8agqwvOu2wq4A) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Alcyone](https://open.spotify.com/album/6Xsu8tRX4MqyTI3MBCo2wT) | 2:50 | 2022-04-01 |  |
+| [Alicanto](https://open.spotify.com/track/3eDCEskR6LRnFGgL5u7j8Y) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Yamasá](https://open.spotify.com/album/0qMYA2SgQ2g3nFuZ2JWnCN) | 2:44 | 2022-10-14 |  |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 |  |
 | [Always and Never](https://open.spotify.com/track/68VIEpxFC0LiJbHRb0LcE2) | [Rita Alezae](https://open.spotify.com/artist/2I8tbYezTkXcisNasm212v) | [Always and Never](https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD) | 2:28 | 2021-12-07 | 2022-04-02 |
 | [am eisernen Steig](https://open.spotify.com/track/6Vy0gvQG1dq7I7yTnNZwiz) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 3:08 | 2021-12-07 |  |
@@ -66,6 +67,7 @@
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-07 |  |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 |  |
 | [Dans vos bras](https://open.spotify.com/track/5qHa8gZdBKxvseAyE2R2qe) | [Orson D'Aubigné](https://open.spotify.com/artist/1TSzEZWmeMMNQE3CwV7Mif) | [Dans vos bras](https://open.spotify.com/album/4HeFEWZ2s6t9u3lIzN6GLL) | 2:38 | 2021-12-07 | 2022-02-16 |
+| [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2022-10-14 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 |  |
 | [Delphine](https://open.spotify.com/track/2HkjTkR8KB5CKa2UyrUMHf) | [Mounia Sedé](https://open.spotify.com/artist/2nlEm4eSFbBlIJqDfscH3M) | [Delphine](https://open.spotify.com/album/0Pt37U6BBbLg7PCvhcDT5y) | 2:22 | 2021-12-07 | 2022-05-21 |
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2021-12-07 |  |
@@ -92,6 +94,7 @@
 | [Fluctuation](https://open.spotify.com/track/5lCas1cqz70cDzNTOrjD8K) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Fluctuation](https://open.spotify.com/album/2EDTrhwBnKEjH9enTvBBzR) | 2:05 | 2022-04-14 |  |
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-03-01 |  |
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-12-07 |  |
+| [Flyt](https://open.spotify.com/track/55gJkKxdKrZqDG6BhzsKc9) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Flyt](https://open.spotify.com/album/744jiUzIyyAhSQjxoPcQWT) | 2:18 | 2022-10-14 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-06-08 |
 | [Fragment](https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:33 | 2021-12-07 | 2022-04-22 |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-07 |  |
@@ -124,6 +127,7 @@
 | [In Between](https://open.spotify.com/track/3m9L0yTxcDY4OddxsApK5L) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Beautiful Piano](https://open.spotify.com/album/6dAc6FuIJQ8yDdOMJ59EzI) | 2:40 | 2022-09-23 |  |
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2021-12-07 |  |
 | [In Spe](https://open.spotify.com/track/79mxmNCrdk8aYA0gyVvXnT) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [In Spe](https://open.spotify.com/album/7jXoNNfqaWvbDbkfHr9ac3) | 3:00 | 2022-07-19 |  |
+| [Inkling](https://open.spotify.com/track/5x2thfHti8A4ujmTjL9m7o) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/2o5fmUgEHO56WLOP1mj6nR) | 3:02 | 2022-10-14 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-12-07 |  |
 | [Inner Peace](https://open.spotify.com/track/0pPoqOUNEIYkxJupkj25vW) | [Jalabert](https://open.spotify.com/artist/3QhEmbt5VdCTPAafeOs8Pp) | [Inner Peace](https://open.spotify.com/album/4tQWjJfBGxtsZBqxdvt58M) | 3:10 | 2021-12-07 |  |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-12-07 | 2022-03-17 |
@@ -155,6 +159,7 @@
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 |  |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-19 |  |
+| [LYR](https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK) | [Aeden Azora](https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX) | [LYR](https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H) | 3:00 | 2022-10-14 |  |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2021-12-07 | 2022-03-17 |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 |  |
@@ -162,6 +167,7 @@
 | [Melodrome](https://open.spotify.com/track/27ftHERJqvYDHTPpcebRsb) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Melodrome](https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk) | 2:51 | 2021-12-07 | 2022-02-16 |
 | [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 | 2021-12-07 |  |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2021-12-07 |  |
+| [Memoirs](https://open.spotify.com/track/1GMMCBRboxvDYnm7oOFBNO) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Memoirs](https://open.spotify.com/album/2IgIZfVGaNycbjNv6egtRe) | 2:03 | 2022-10-14 |  |
 | [Memories](https://open.spotify.com/track/29oFfCDtNaQF9q7ilyLpz9) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Memories](https://open.spotify.com/album/10jbRX3Xdwagm2xs54Gb4j) | 2:00 | 2022-01-18 |  |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2021-12-07 |  |
 | [Modern Mysteries](https://open.spotify.com/track/7mS1QFR4914xDutXZCWqvW) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Modern Mysteries](https://open.spotify.com/album/1yXfbvmskN1VvFog6B1J9G) | 2:36 | 2022-07-19 |  |
@@ -276,6 +282,7 @@
 | [The Nightingale](https://open.spotify.com/track/1cXacQAGKrNEB6q32HzK6c) | [Frédéric Leissen](https://open.spotify.com/artist/5yLIjnvnDjovcXpZJa3NCj) | [The Nightingale](https://open.spotify.com/album/5q6Lo4sWsHz7S2JHooLt5i) | 1:58 | 2021-12-07 | 2022-05-21 |
 | [The Open](https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [The Open](https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt) | 3:34 | 2022-04-14 |  |
 | [The Woods](https://open.spotify.com/track/6BwJD1phxzTu9Fg3U87whB) | [Andre Aubertin](https://open.spotify.com/artist/2LfIzuLWCzDYMYUeRwBtMu) | [The Woods](https://open.spotify.com/album/0tZIHoDNVMl1HiB2nbuyci) | 2:03 | 2022-06-07 |  |
+| [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 | 2022-10-14 |  |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2021-12-07 | 2022-04-22 |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2021-12-07 | 2022-04-02 |
 | [Transitions](https://open.spotify.com/track/2G2Be7WBq744i4aBamHv8o) | [Amélie Doret](https://open.spotify.com/artist/06pZeDECUky6aiFA6GjYg0) | [Transitions](https://open.spotify.com/album/7gaX1sOn0G412TvHVdZBtX) | 2:40 | 2021-12-07 |  |

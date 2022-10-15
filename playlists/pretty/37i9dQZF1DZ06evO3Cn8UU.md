@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,584 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,597 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 40 | [Concentrate On Me \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:11 |
 | 41 | [You're My Choice Tonight \(Choose Me\)](https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 4:49 |
 | 42 | [Yesterday I Had The Blues \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/43BQ041w9ryoC6TTVHTc7F) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 7:33 |
-| 43 | [Tell the World How I Feel About 'Cha Baby \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:52 |
+| 43 | [Heaven Only Knows](https://open.spotify.com/track/7324pZTc3ZcYNKBSGHKxOT) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:10 |
 | 44 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 |
-| 45 | [Heaven Only Knows](https://open.spotify.com/track/7324pZTc3ZcYNKBSGHKxOT) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:10 |
+| 45 | [Tell the World How I Feel About 'Cha Baby \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:52 |
 | 46 | [Somewhere Down the Line \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4ghUVSwZNOBmdaU587E60G) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 4:53 |
 | 47 | [Only You](https://open.spotify.com/track/2OH7gEuDmtdlUce6y0u7EP) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:03 |
 | 48 | [And If I Had](https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:21 |
 | 49 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:39 |
 | 50 | [This One's for You](https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [This One's For You](https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol) | 6:18 |
 
-Snapshot ID: `Mjc3NjExMjQsMDAwMDAwMDBjMDQyNjlmYzg1NDg5Mjc0MzU0MzYxNmUzYTRmNmNjNQ==`
+Snapshot ID: `Mjc3NjI1NzYsMDAwMDAwMDA5ZTgxOTVlY2IwM2VlNGQ3MGUwNjNjOTMxOWRlOWM5Yw==`

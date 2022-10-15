@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-267 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+268 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dreaming of the Coast](https://open.spotify.com/track/5gAjUK0Rda7yZZpuCpD2oy) | [Light Youth](https://open.spotify.com/artist/0sXhvfc61E4EmQ2Q6Y4xLT) | [Liquid State](https://open.spotify.com/album/0Bbj7KIBeK85vjs6qxU8EV) | 2:48 | 2022-05-25 |  |
 | [Dreams of the Universe](https://open.spotify.com/track/2PCzhRAdaQxLl3UJT8N4zY) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Dreams of the Universe](https://open.spotify.com/album/6PmH4fQpcStfyVgJzhmpRg) | 2:32 | 2022-05-25 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-25 |  |
+| [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Dès vu](https://open.spotify.com/track/5n3P1XLlsYNdm14Mugb0ED) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Dès vu](https://open.spotify.com/album/3bdqf1w2uj49fxFv3ZqopB) | 3:06 | 2022-05-25 |  |
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-05-25 | 2022-09-28 |
 | [Elm Lake](https://open.spotify.com/track/2OTbdztO2bxflTGGlxyEri) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:57 | 2022-05-25 | 2022-09-28 |

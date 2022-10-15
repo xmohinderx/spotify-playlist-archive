@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-509 songs - 1 day 5 hr 10 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+510 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-07-26 | 2022-07-29 |
 | [Nightmare Parade 2020s](https://open.spotify.com/track/4CAmPgwEWyLK8Y0zSpfdB5) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Nightmare Parade 2020s](https://open.spotify.com/album/1SfA0H357thgwx3buXvRDY) | 2:52 | 2022-10-06 | 2022-10-12 |
 | [No title \- Seaside Remix](https://open.spotify.com/track/3EVQv88JzEKwUf4gSyAtZm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [No title \- Seaside Remix](https://open.spotify.com/album/09ZfLnBpF3nmeLqFr8avZg) | 4:12 | 2022-08-16 | 2022-08-31 |
+| [Original Sin](https://open.spotify.com/track/3txAYMcl99O9AQ4buBkWHN) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [Original Sin](https://open.spotify.com/album/0hrn7XIBUgkz5NWX9WGL9J) | 3:22 | 2022-10-13 |  |
 | [OVER THE ACE](https://open.spotify.com/track/311MxW4JKprt5fv7YMKTyZ) | [つきみぐー](https://open.spotify.com/artist/5baN3ZS9YkfLwQikQcllYI) | [OVER THE ACE](https://open.spotify.com/album/1XrxiqPsDqBSAoqBPhcN7z) | 4:16 | 2022-07-14 | 2022-07-16 |
 | [Overcast Skies](https://open.spotify.com/track/6IFs3VTvLLiQict4tAt7Ct) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Overcast Skies](https://open.spotify.com/album/4SqUTGadZjUKgnYtFrPFkH) | 2:42 | 2022-09-27 | 2022-10-05 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [なとり](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-15 |  |
@@ -338,7 +339,7 @@
 | [分身](https://open.spotify.com/track/3hmCw7M1KL5tXnI0RksmJK) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [分身 \-Bunshin\-](https://open.spotify.com/album/3OmklSJp60FTTw1mogR6Yk) | 2:54 | 2022-06-16 | 2022-07-14 |
 | [化け猫](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 | 2022-06-09 | 2022-07-11 |
 | [半端者](https://open.spotify.com/track/0jtfoVtew7OYQZSo1vGmr9) | [ケダルイ / Kedarui](https://open.spotify.com/artist/7gHZpr2PBTuIMu3zf3KAiO) | [半端者](https://open.spotify.com/album/6VcUHJAsWtRQCct2IgvEeO) | 3:15 | 2022-06-21 | 2022-07-21 |
-| [原罪と踊る](https://open.spotify.com/track/6Eo9ipFfhBKebfGa49NwTm) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [原罪と踊る](https://open.spotify.com/album/270nCUHb0eiHvRIH3wzPmq) | 3:22 | 2022-10-13 |  |
+| [原罪と踊る](https://open.spotify.com/track/6Eo9ipFfhBKebfGa49NwTm) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [原罪と踊る](https://open.spotify.com/album/270nCUHb0eiHvRIH3wzPmq) | 3:22 | 2022-10-13 | 2022-10-15 |
 | [反逆者の僕ら](https://open.spotify.com/track/7qCImvxBwbCgyoJV6xjGIA) | [EMA](https://open.spotify.com/artist/23rpDPnKdY96j4smcpPTJT) | [反逆者の僕ら](https://open.spotify.com/album/2f5l1vGubt0kUIhHhwaS2j) | 4:27 | 2022-06-14 | 2022-07-05 |
 | [取扱注意](https://open.spotify.com/track/15tGTY8mPsflrRCImn7mth) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [取扱注意](https://open.spotify.com/album/5czutloyRNTIjT7PDjd204) | 3:32 | 2022-07-14 | 2022-07-17 |
 | [口癖 \(feat\. Gero\)](https://open.spotify.com/track/6TgkRFbEtH1dP6e4ABaLbW) | [+α/あるふぁきゅん。](https://open.spotify.com/artist/6h5CRuhHGbYgXjqsw76K3i), [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [\#わたし以外、全員、幸せそうに見える。](https://open.spotify.com/album/6uiyRjISnNUljcKdBcmDtD) | 3:30 | 2022-06-21 | 2022-06-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Luis R Conriquez & Lefty SM en portada.",
-  "num_followers": 92931,
+  "num_followers": 92994,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGI5MjIyNjllODQ4OTIxY2ViYWRiZThiZWQ3MGEyYTdl",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDA0YjRkNjg4NTU0NTZiNjE4YTk2OWQzZDUyZWIxYjkw",
   "tracks": [
     {
       "added_at": "2022-09-30 05:00:00",
@@ -675,30 +675,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 267796,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -735,22 +711,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -767,6 +727,22 @@
       "duration_ms": 213943,
       "name": "Porte Exuberante",
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -983,22 +959,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 380200,
-      "name": "El Diablo Anda Suelto",
-      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Tiempos de Guerra",
         "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
       },
@@ -1019,6 +979,22 @@
       "duration_ms": 172248,
       "name": "Tiempos de Guerra",
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 380200,
+      "name": "El Diablo Anda Suelto",
+      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1135,26 +1111,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
-        "url": "https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 240100,
-      "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
-      "url": "https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP"
       },
@@ -1201,6 +1157,26 @@
       "url": "https://open.spotify.com/track/77eIFriAVgrCYshgQMYXC1"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
+        "url": "https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 240100,
+      "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
+      "url": "https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn"
+    },
+    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "El Pana",
@@ -1219,26 +1195,6 @@
       "duration_ms": 238000,
       "name": "El Pana",
       "url": "https://open.spotify.com/track/3ve91a9NwVoLfFfoJBtYU8"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Ahora Tengo Todo Menos A Ti",
-        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Dinero Sobre Amor",
-      "url": "https://open.spotify.com/track/5TZyQ3eHWw5uBesFJ9irEQ"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1331,6 +1287,26 @@
       "duration_ms": 185107,
       "name": "PE$OS",
       "url": "https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Ahora Tengo Todo Menos A Ti",
+        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Dinero Sobre Amor",
+      "url": "https://open.spotify.com/track/5TZyQ3eHWw5uBesFJ9irEQ"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1491,6 +1467,26 @@
       "duration_ms": 264097,
       "name": "Bien Recio",
       "url": "https://open.spotify.com/track/3BpjbirYqKfKKMNmip9MS4"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 267796,
+      "name": "Todo Va Estar Bien",
+      "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
     }
   ],
   "unique_name": "El Barrio MP3",

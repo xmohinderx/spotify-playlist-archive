@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Shawn Mendes",
+  "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Zach Bryan",
   "name": "Just Good Music",
   "published_playlist_ids": [
     "4ml5qGm3jWvLjOnBVMhlu7"
@@ -12168,6 +12168,24 @@
     },
     {
       "album": {
+        "name": "omw",
+        "url": "https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171161,
+      "name": "omw",
+      "url": "https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA"
+    },
+    {
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -16369,7 +16387,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 222199,
       "name": "Time - From the Motion Picture \"Amsterdam\"",
       "url": "https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS"

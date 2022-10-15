@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "A new take on a classic sound. Cover: Agnes",
+  "description": "A new take on a classic sound. Cover: The Jack Moves",
   "name": "Nu-Disco",
   "published_playlist_ids": [
     "3MDELIW3DwuUOwrVCjFaSM"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 184293,
       "name": "Can't Stop Writing Songs About You",
       "url": "https://open.spotify.com/track/36AHZnLUtm7QmS1VhuxeiF"
@@ -1318,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
+    },
+    {
+      "album": {
         "name": "Living the Fantasy",
         "url": "https://open.spotify.com/album/3CcdvFekEwCCuFAuIF683D"
       },
@@ -1465,6 +1483,24 @@
       "duration_ms": 208965,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/3SPR0vmGBKczy7976CLTQ6"
+    },
+    {
+      "album": {
+        "name": "Never Knew",
+        "url": "https://open.spotify.com/album/3KTdCe9WcP5b5SnXfL80UJ"
+      },
+      "artists": [
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221111,
+      "name": "Never Knew",
+      "url": "https://open.spotify.com/track/5GwzmBgVwaS14JuB65ZMoQ"
     },
     {
       "album": {
@@ -2045,7 +2081,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 193065,
       "name": "Time and Time Again",
       "url": "https://open.spotify.com/track/5jkPpSNNTrdqz9J57Ovanl"

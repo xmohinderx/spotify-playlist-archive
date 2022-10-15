@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: SOLE
 
-159 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
+161 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Do you wanna get down](https://open.spotify.com/track/3pkreie3kWVsVhu1Dcz3Fn) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [Do you wanna get down](https://open.spotify.com/album/3yJjpb5pvVGa3ViMv4NL98) | 3:20 | 2022-05-26 |  |
 | [DON'T](https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [DON'T](https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm) | 3:49 | 2021-12-30 | 2022-04-21 |
 | [DOOMCHITA](https://open.spotify.com/track/3gLmJaolKWQGRT5xaS09JN) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [DOOMCHITA](https://open.spotify.com/album/10OdrpNsZ8FGFpWqsz7ujT) | 3:17 | 2022-06-17 |  |
+| [Drama Queen](https://open.spotify.com/track/7gOdGIIztvjxQ7FASL9YF1) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [SILLY : Episode 1](https://open.spotify.com/album/5cJxAnf24jagfHHlrwrdnz) | 3:12 | 2022-10-14 |  |
 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 | 2022-07-28 |  |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-30 | 2022-04-08 |
 | [every day good day \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7vefqP96ftCQg7qB6Ha0NJ) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 2:47 | 2022-09-23 |  |
@@ -83,7 +84,7 @@
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2022-01-27 | 2022-04-21 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-07 | 2022-09-20 |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-07 | 2022-09-06 |
-| [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-20 |  |
+| [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-20 | 2022-10-15 |
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-01-06 | 2022-06-18 |
 | [Love You More Than Myself](https://open.spotify.com/track/7gzO0kkFEsUaQsfGlKjWBR) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Love You More Than Myself](https://open.spotify.com/album/5Y2s9onBx0bvUarEh8bQeJ) | 3:07 | 2021-12-30 | 2022-01-28 |
 | [Love, Maybe](https://open.spotify.com/track/5btJjUxmhPK1cwdw0mnhRD) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love, Maybe \(A Business Proposal OST Part.5\)](https://open.spotify.com/album/50WHnqFZhIQC88oZr5hlN3) | 3:05 | 2022-04-18 | 2022-06-18 |
@@ -109,7 +110,7 @@
 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/2hf1ya5k9R4siHueVr7jNi) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 | 2022-04-20 | 2022-05-27 |
 | [Picky Baby](https://open.spotify.com/track/6zvi40kiZkDIiEC3OgKKSq) | [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Picky Baby](https://open.spotify.com/album/7DUxGY2Iu81WYabYFM2tTn) | 3:13 | 2021-12-30 | 2022-01-14 |
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-18 |  |
-| [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-17 |  |
+| [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-17 | 2022-10-15 |
 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 | 2022-06-17 |  |
 | [POP](https://open.spotify.com/track/2FzMEX0nP9tFd6phID2tm8) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [POP](https://open.spotify.com/album/1ZMNqhcar5rjEgjWZ6WFv1) | 3:14 | 2022-06-17 |  |
 | [POWER OF LOVE](https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [POWER OF LOVE](https://open.spotify.com/album/2wKTTgsFgEdOKiyFEOlbNs) | 3:41 | 2022-05-05 | 2022-09-06 |
@@ -167,5 +168,6 @@
 | [Yellow Gang](https://open.spotify.com/track/5QBrOei7ufS1YKeDCj1z2g) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Yellow Gang](https://open.spotify.com/album/5GbM16ZUU3LKQrJpwXnAPH) | 2:27 | 2022-04-20 | 2022-05-12 |
 | [Yooooo \(Feat\. Kid Milli, sokodomo, Polodared\)](https://open.spotify.com/track/1dSoTjwGH9HBlj6EEu2mhx) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 3:03 | 2022-04-20 | 2022-05-12 |
 | [Zombie](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HIDE & SEEK](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) | 3:20 | 2021-12-30 | 2022-05-27 |
+| [여름 안에서](https://open.spotify.com/track/7A7Ve2J88JgZwv3eR3JGoH) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [아바드림 트리뷰트 Memorial EP.1](https://open.spotify.com/album/6akg8eFWMwvCMbxaSuv6ME) | 3:43 | 2022-10-14 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

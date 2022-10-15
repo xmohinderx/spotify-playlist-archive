@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,004 likes - 112 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,044 likes - 112 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 38 | [Cherish Every Moment](https://open.spotify.com/track/7L7jIuLqLIjvliJv03AAVv) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 1:38 |
 | 39 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
 | 40 | [Rodolfo el reno](https://open.spotify.com/track/4cO791Mb6k2Oml1sskXP2C) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:32 |
-| 41 | [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/7su98ziiskUZJIOzXRNMV3) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:16 |
+| 41 | [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/1OFyHG4Igqh8bho0NZGXdR) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 4:16 |
 | 42 | [Lofi Canon in D](https://open.spotify.com/track/1XUdHspnTWkZ8ZVtzkQRGU) | [Chillchief](https://open.spotify.com/artist/6rzaAMP3jPVJjfuRUdlpIw) | [A Short Album With Christmas Songs but Lofi](https://open.spotify.com/album/1PQSTaySOgGqHgTHPEeUL8) | 4:26 |
 | 43 | [O Christmas Tree \(Lofi Version\)](https://open.spotify.com/track/7BSZ1eW9CfCp9YK1We5iwb) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [O Christmas Tree](https://open.spotify.com/album/5xO7YmFhq3FTVBmEmhGgSl) | 2:25 |
 | 44 | [December](https://open.spotify.com/track/0JzcRVJEZIgbxSKhQxxUXd) | [Kikou](https://open.spotify.com/artist/1AqcVmVp7Ggxu1oJuJL8tn), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Lofi Christmas](https://open.spotify.com/album/5uC1btcQmcIyTZaAfoPlnZ) | 2:08 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 47 | [O Come, All Ye Faithful \(Lofi Version\)](https://open.spotify.com/track/6Uiguk2IuyNdcRPb3Ss8Ml) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Xmas in \(\(stereo\)\)](https://open.spotify.com/album/2yp2d2MkvZKQkvfRSZy9Rt) | 3:13 |
 | 48 | [Reindeer](https://open.spotify.com/track/6rhv0IzO0oK4RKEHvgdGCR) | [iluvu](https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j), [Lazy Tree Records](https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf) | [A Lofi Christmas](https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ) | 0:51 |
 | 49 | [Frosty Walk](https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:09 |
-| 50 | [Christmas Time Is Here Charlie Brown](https://open.spotify.com/track/7pJ2lypbozkrCExoJPhgYG) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:30 |
+| 50 | [Christmas Time Is Here Charlie Brown](https://open.spotify.com/track/23fgwoJu8lsdK8cecZIeZF) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 4:30 |
 | 51 | [A Dream Present](https://open.spotify.com/track/5wc7OAxwpUE89bAD5Taco1) | [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [A Dream Present](https://open.spotify.com/album/4QailWei2sNgGgk15VMv7f) | 2:12 |
 | 52 | [All Want For Christmas is Lofi Hip Hop](https://open.spotify.com/track/2tqNQxgNXPa3TqQl46LQCk) | [Christmas Rap Beats](https://open.spotify.com/artist/2ernZA4LlpNCyAuddaXdOa) | [Lofi Xmas Instrumentals](https://open.spotify.com/album/7pm7weCBfcpSrTO4yXzGje) | 1:43 |
 | 53 | [Shopping Spree](https://open.spotify.com/track/3QH5nm30Qb6NtAGtufIuNv) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 2:16 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 111 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 |
 | 112 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
 
-Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMGRiMDNmY2RmM2M3NjEwYjA0ZGEyNDhmZDkzYzRjM2Uz`
+Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMGQ1MTFiZTIwNDg2ZDhjZmU5YjBlNWYyZTNhZjczOGI3`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s.",
-  "num_followers": 781392,
+  "num_followers": 782228,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMGUxZGMyMjQzZjRlYzUwMjQ2MDhjYWUxYzVhMjQ4MzUy",
+  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMDA4OTcxMWNkNGYxNzZkODQ2MTRlMTA1MTE5NzJiOGM1",
   "tracks": [
     {
       "added_at": "2022-04-13 21:11:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 272440,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Redneck",
+      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
         "name": "Shadow Zone",
         "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 441560,
       "name": "Through the Fire and Flames",
       "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Redneck",
-      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 233666,
       "name": "Feel So Numb",
       "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
-      },
-      "artists": [
-        {
-          "name": "Turisas",
-          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "The Art Of Breaking",
@@ -1319,6 +1303,22 @@
       "duration_ms": 208693,
       "name": "Move",
       "url": "https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
+      },
+      "artists": [
+        {
+          "name": "Turisas",
+          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1369,6 +1369,26 @@
       "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gonthier",
+          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+    },
+    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "An Ocean Between Us",
@@ -1399,26 +1419,6 @@
       "duration_ms": 234706,
       "name": "Rosenrot",
       "url": "https://open.spotify.com/track/7u018epVcYPTPVKCWAemLP"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gonthier",
-          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1455,38 +1455,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Hello Master",
-        "url": "https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2"
-      },
-      "artists": [
-        {
-          "name": "Priestess",
-          "url": "https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Pussy",
-      "url": "https://open.spotify.com/track/0EAKf1NdBfTiK1idL7yLTg"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
@@ -1499,6 +1467,22 @@
       "duration_ms": 178666,
       "name": "I Will Be Heard",
       "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Hello Master",
+        "url": "https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2"
+      },
+      "artists": [
+        {
+          "name": "Priestess",
+          "url": "https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
+        "name": "Liebe ist f\u00fcr alle da",
+        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/0EAKf1NdBfTiK1idL7yLTg"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
         "name": "Celldweller (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 302693,
       "name": "Switchback",
       "url": "https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1595,22 +1611,6 @@
       "duration_ms": 264200,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Figure Number Five",
-        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
-      },
-      "artists": [
-        {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Distortion Sleep",
-      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
     }
   ],
   "unique_name": "00s Metal Classics",

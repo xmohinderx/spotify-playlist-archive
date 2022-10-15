@@ -4,7 +4,7 @@
 
 > indie pop when ur crushing so hard it hurts
 
-244 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
+245 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,10 @@
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-28 | 2022-04-20 |
 | [Be Around Me](https://open.spotify.com/track/5MzNoRzcRrXH6kDtwnEAJD) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Be Around Me](https://open.spotify.com/album/4dJ5NmLGNjEfIxRMyS0SRa) | 3:01 | 2021-08-13 | 2022-04-16 |
 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 | 2021-04-30 |  |
-| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 |  |
+| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 | 2022-10-15 |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-03-04 | 2022-07-10 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2021-04-30 | 2022-04-21 |
+| [Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW) | 4:22 | 2022-10-06 |  |
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2021-04-30 | 2022-10-13 |
 | [best u ever had <3](https://open.spotify.com/track/4hRZhP4YuDU44uv6SLodJ6) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [best u ever had <3](https://open.spotify.com/album/54OU5EKjpz9XjbnnzqJOg5) | 2:57 | 2021-07-09 | 2022-04-19 |
 | [Better On Your Own](https://open.spotify.com/track/52IjH7U9fkLgqM4yVecYGz) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Better On Your Own](https://open.spotify.com/album/2GOkSjZzy8MKVNvgIVEz5f) | 2:23 | 2021-07-02 | 2022-07-12 |

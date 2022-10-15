@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-209 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+212 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [New Earth](https://open.spotify.com/track/1y8ZkHUqgPkgSFDGM55siL) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [New Earth](https://open.spotify.com/album/08zLOiclaS8FkhuqXQrhMb) | 2:32 | 2022-07-15 |  |
 | [Next to Nothing](https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV) | 3:31 | 2022-01-21 |  |
 | [No Falling Out of Love](https://open.spotify.com/track/6F3SGMXJUEHpcn7gwZeLNq) | [Bailey Bigger](https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm) | [Coyote Red](https://open.spotify.com/album/6ZGSyuomVmv4buVjxBjmah) | 5:23 | 2022-03-25 |  |
+| [Oak Leaf](https://open.spotify.com/track/06VlkEKZwY1iuTWSYbMuAL) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg), [Small Town Therapy](https://open.spotify.com/artist/1ZcHWUVh8VPTXDNiCshH7y) | [Horse Camp](https://open.spotify.com/album/1ODN74LHSCnOjxXLONNau8) | 4:36 | 2022-10-14 |  |
 | [Ocean Bed](https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 4:00 | 2021-10-01 |  |
 | [Ohio](https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu) | [Haunted Like Human](https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI) | [Tall Tales & Fables](https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr) | 2:57 | 2021-10-15 |  |
 | [Ohio](https://open.spotify.com/track/6ENVwFz5VkToGbR4MTAtaa) | [Honeybucket](https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e) | [Honeybucket](https://open.spotify.com/album/3g4HrZHPuSXBwqy3yjoI4S) | 3:29 | 2021-10-01 | 2022-01-22 |
@@ -140,6 +141,7 @@
 | [Pretty Polly \- Bluegrass](https://open.spotify.com/track/7GNIQFh5cE3zGSAg4Sulgh) | [Michael Daves](https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb) | [Orchids and Violence](https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb) | 4:33 | 2021-10-01 | 2022-01-22 |
 | [Pride of Man](https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:53 | 2022-01-14 |  |
 | [Real World](https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Real World](https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy) | 3:17 | 2021-12-31 | 2022-07-16 |
+| [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 |  |
 | [Run To Heaven](https://open.spotify.com/track/0OJAIweexqlZ1ec5aDFsV2) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:10 | 2021-10-01 | 2022-07-29 |
 | [Run To Heaven](https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:10 | 2022-07-22 | 2022-10-08 |
 | [Save This Heart](https://open.spotify.com/track/44rtc66Yh6F8HxDDyKJoo9) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/5dR3GxLveYLBkq6utHAZmT) | 3:01 | 2021-10-01 | 2022-07-29 |
@@ -204,6 +206,7 @@
 | [Whiskey](https://open.spotify.com/track/304pRAROhKx7jQdNYztux2) | [Tejon Street Corner Thieves](https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo) | [Whiskey](https://open.spotify.com/album/63fTnMULwSceWns5rETNHV) | 4:01 | 2022-03-18 |  |
 | [Whiskey Drink](https://open.spotify.com/track/6Hdz3SWHHxGbWqhmh1KOmn) | [The Lonesome Trio](https://open.spotify.com/artist/7beH6d34qjz3YUO6aOYj6D) | [The Lonesome Trio](https://open.spotify.com/album/01jKed6wLys7BjOTvk0efj) | 3:29 | 2021-10-01 |  |
 | [Wildflower Perfume](https://open.spotify.com/track/0fyuuHnhbYhfBGtiCnuLFq) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Montana](https://open.spotify.com/album/1jB8TJoBM6r57nved1GwmZ) | 3:15 | 2021-10-01 | 2022-01-22 |
+| [Wildflowers](https://open.spotify.com/track/06Csr6ofiaP6S81JYnnQtO) | [Justin Hiltner](https://open.spotify.com/artist/3kvTlQprzIXOBQsJO7rOln), [Cathy Fink](https://open.spotify.com/artist/6rsuwVUBiRAgFfczaLPYgW), [Marcy Marxer](https://open.spotify.com/artist/7rL5DXjb0BqTjvu5P6C4rO) | [Silver Dagger](https://open.spotify.com/album/5UGcLFijKx1XSVgr41x9hm) | 4:00 | 2022-10-14 |  |
 | [Window to Break](https://open.spotify.com/track/47IbAVZZ70rfJ6bisD4OiA) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [Head Above Water](https://open.spotify.com/album/4YKu9a4UU97fuY55CI74aj) | 3:08 | 2022-01-28 |  |
 | [With the Tide](https://open.spotify.com/track/4N3fdgQr6zHbEdP8nvD2jP) | [Shawn Williams](https://open.spotify.com/artist/0JhmNymqmGOpg2NWfrB0Ge), [Shaun Garrison](https://open.spotify.com/artist/1Z2OjiByMjWnlDiE7SB2YR) | [With the Tide](https://open.spotify.com/album/095Yb2NOCXjfLu63lMJm5J) | 3:58 | 2022-03-11 |  |
 | [Won’t Be Long](https://open.spotify.com/track/29rZE5N3Q3Ke3GtJaQdbdR) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:16 | 2021-10-01 | 2022-07-29 |

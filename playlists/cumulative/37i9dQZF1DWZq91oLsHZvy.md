@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-171 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
+172 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 | 2022-01-21 | 2022-07-29 |
 | [Burning](https://open.spotify.com/track/08HmtdAdRYiutP5WO02utw) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/63BiMHrNanPPTIcDArNX4E) | 3:11 | 2022-01-21 | 2022-07-29 |
 | [Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:11 | 2022-03-31 |  |
-| [Call A Friend](https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85) | [Lukae](https://open.spotify.com/artist/0nr5bZCgtf6iFnxuqax6hf) | [Call A Friend](https://open.spotify.com/album/0Jbje8lsvFcHUhXSovEQn2) | 2:52 | 2022-04-08 |  |
+| [Call A Friend](https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85) | [Lukae](https://open.spotify.com/artist/0nr5bZCgtf6iFnxuqax6hf) | [Call A Friend](https://open.spotify.com/album/0Jbje8lsvFcHUhXSovEQn2) | 2:52 | 2022-04-08 | 2022-10-15 |
 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 | 2022-01-21 |  |
 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-09-30 |  |
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2022-08-12 | 2022-10-13 |
@@ -160,6 +160,7 @@
 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 | 2022-01-21 |  |
 | [The Other Half](https://open.spotify.com/track/5y0zyLUouDOQPLODwsaRE1) | [Astræa](https://open.spotify.com/artist/799p2CSGw9GjO2X5pAB3ZH) | [The Other Half](https://open.spotify.com/album/2Ucyip2WdtO9T37bjpcIRD) | 3:35 | 2022-04-01 | 2022-07-29 |
 | [The Wolf](https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 | 2022-03-31 | 2022-10-13 |
+| [The Wolf](https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 | 2022-09-30 |  |
 | [The Wolf](https://open.spotify.com/track/3BVfLmBuTVRSHQSNFLk827) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/4trTvSZSfcCSzeH8kJeCbD) | 3:41 | 2022-01-21 | 2022-07-29 |
 | [There's A Reason Why \(I Never Returned Your Calls\)](https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 3:42 | 2022-01-21 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-09-30 |  |

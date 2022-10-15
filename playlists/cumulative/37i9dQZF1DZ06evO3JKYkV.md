@@ -4,7 +4,7 @@
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-77 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/5j6zeQgUYH1nqWVzzE7VBW)
+78 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/5j6zeQgUYH1nqWVzzE7VBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Pancake Lizard](https://open.spotify.com/track/3Z7wJtqMNc3q7ukYplaCa9) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Donkey Rhubarb](https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i) | 4:31 | 2022-05-29 | 2022-10-11 |
 | [PAPAT4 \[155\]\[pineal mix\]](https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:18 | 2022-06-02 | 2022-10-12 |
 | [Peek 82454201](https://open.spotify.com/track/4KzwoaaI2oyx5sib9D93w0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:05 | 2022-08-19 | 2022-08-21 |
+| [Petiatil Cx Htdui](https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:11 | 2022-10-14 |  |
 | [piano un1 arpej](https://open.spotify.com/track/28LVNNiDlNzAWvrMRXPD6T) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX) | 0:50 | 2022-10-12 |  |
 | [piano un10 it happened](https://open.spotify.com/track/15anCXEEnV6wyF1CAGnBCt) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX) | 1:48 | 2022-10-12 |  |
 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 | 2022-09-02 |  |
@@ -79,7 +80,7 @@
 | [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 | 2022-05-29 |  |
 | [The Waxen Pith](https://open.spotify.com/track/0dZvL5TDpKiwvZtB49g6Ky) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 4:49 | 2022-05-29 |  |
 | [To Cure A Weakling Child](https://open.spotify.com/track/0Qe87CjGvXot5t4FADTq3Y) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 4:03 | 2022-05-29 | 2022-10-13 |
-| [Vordhosbn](https://open.spotify.com/track/3tWiIOPBJjgjA6PpozJqNO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 4:51 | 2022-05-29 |  |
+| [Vordhosbn](https://open.spotify.com/track/3tWiIOPBJjgjA6PpozJqNO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 4:51 | 2022-05-29 | 2022-10-15 |
 | [Wax The Nip](https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 4:18 | 2022-05-30 |  |
 | [Windowlicker](https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 6:08 | 2022-05-29 |  |
 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/6CUxhtTkH0fSwfmsiOKPNV) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 10:31 | 2022-05-29 |  |

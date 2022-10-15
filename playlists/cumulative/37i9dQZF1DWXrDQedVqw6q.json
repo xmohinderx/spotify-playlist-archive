@@ -998,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Jokk",
+        "url": "https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA"
+      },
+      "artists": [
+        {
+          "name": "Fjellet",
+          "url": "https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Jokk",
+      "url": "https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo"
+    },
+    {
+      "album": {
         "name": "Keeping Secrets",
         "url": "https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE"
       },

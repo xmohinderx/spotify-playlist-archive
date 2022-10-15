@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Hermosa Drive",
+        "url": "https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
+    },
+    {
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
       },
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 124760,
       "name": "Isn\u2019t It",
       "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"

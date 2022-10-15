@@ -1774,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200589,
+      "name": "Fiesta Contigo",
+      "url": "https://open.spotify.com/track/1Q2ddhGYcclf6gUvPNKXei"
+    },
+    {
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
       },
@@ -1855,6 +1873,28 @@
       "duration_ms": 199995,
       "name": "Hasta Viejitos (feat. Carlos Vives)",
       "url": "https://open.spotify.com/track/4bUrpXdPZIJMPUksA8ggDB"
+    },
+    {
+      "album": {
+        "name": "Hazme Olvidarla",
+        "url": "https://open.spotify.com/album/3dwjqJ9XxOR0hqRj0O21Dm"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200032,
+      "name": "Hazme Olvidarla",
+      "url": "https://open.spotify.com/track/3AqapIXtK0zzgTm7H2lpFn"
     },
     {
       "album": {
@@ -1961,7 +2001,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 238701,
       "name": "Imaginarme Sin Ti - Remix",
       "url": "https://open.spotify.com/track/6b5hDov3xiT6uALZn78GUu"
@@ -5195,7 +5235,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 201250,
       "name": "Ziriguidum",
       "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"

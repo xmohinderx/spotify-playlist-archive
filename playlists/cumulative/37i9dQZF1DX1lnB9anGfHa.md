@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-131 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+133 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [4ÆM](https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 4:30 | 2020-10-20 |  |
 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 | 2021-01-22 |  |
 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-08-24 |  |
-| [An Interior of Strange Beauty](https://open.spotify.com/track/12Ao5gXC6kg8MkL8j7Jn78) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 6:34 | 2022-08-16 |  |
+| [An Interior of Strange Beauty](https://open.spotify.com/track/12Ao5gXC6kg8MkL8j7Jn78) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 6:34 | 2022-08-16 | 2022-10-15 |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN) | 6:34 | 2022-08-16 | 2022-10-14 |
+| [An Interior of Strange Beauty](https://open.spotify.com/track/65YpsPCRVa7texeE1e6ycl) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/5AO9IVe4tEknGG9AdKTb7W) | 6:34 | 2022-08-16 |  |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-08-31 |  |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-02-18 |  |
 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 | 2022-08-24 |  |
@@ -51,7 +52,8 @@
 | [Have You Felt Lately?](https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Let's Turn It Into Sound](https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3) | 3:54 | 2022-08-31 |  |
 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 | 2020-10-20 |  |
 | [HP2\-TGP \(I.D.N.C.G.2.D\)](https://open.spotify.com/track/6ouS8C8HiS1KLepNmIHWGX) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [HOLLOW POINT](https://open.spotify.com/album/5jyegl401HqGWNCXbVChqF) | 5:22 | 2022-08-31 |  |
-| [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 | 2021-06-23 |  |
+| [I Need You Right Now](https://open.spotify.com/track/2x2ENNopXFR7unXK9eaeVs) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/3IMOeDHJcqQWabjem2xF6c) | 4:07 | 2021-06-23 |  |
+| [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 | 2021-06-23 | 2022-10-15 |
 | [i used to](https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [i used to](https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1) | 3:08 | 2022-08-31 |  |
 | [I Was Wrong](https://open.spotify.com/track/0CeY5CPaFPvl3BBx7rlkYX) | [w\. baer](https://open.spotify.com/artist/4ke7r9NNRe8Wg7ouwg7xOO) | [De Dust2](https://open.spotify.com/album/4lyXEmxTF8EMIwr8hbDmo5) | 3:24 | 2020-10-20 |  |
 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 | 2022-08-16 |  |

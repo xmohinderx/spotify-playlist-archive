@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 303723,
+  "num_followers": 305121,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ0NjQwMCwwMDAwMDAwMDcwZjk4MWM4NDg2OThlYTJhMzdiYzQ1OTBlOTIyNWE3",
+  "snapshot_id": "MTY2NTQ0NjQwMCwwMDAwMDAwMGJjYjBjNWNhYmJjNDNmMGU5ZjRiZTcyYmU0NDJiYzdl",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Best! The Singles 16 Tracks",
         "url": "https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 230066,
       "name": "I've Been Thinking About You",
       "url": "https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "This Is How We Do It",
-        "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
-      },
-      "artists": [
-        {
-          "name": "Montell Jordan",
-          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
-        },
-        {
-          "name": "Wino",
-          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "This Is How We Do It",
-      "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 248093,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
+      },
+      "artists": [
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "'N Sync UK Version",
         "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 200440,
       "name": "I Want You Back - Radio Edit",
       "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Blacks' Magic",
-        "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Let's Talk About Sex",
-      "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Step One",
-        "url": "https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq"
+        "name": "Blacks' Magic",
+        "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
       "artists": [
         {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
         }
       ],
-      "duration_ms": 202266,
-      "name": "5, 6, 7, 8",
-      "url": "https://open.spotify.com/track/3oWZwdnnwsCwMukQbPsEiy"
+      "duration_ms": 213266,
+      "name": "Let's Talk About Sex",
+      "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1947,6 +1931,22 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Step One",
+        "url": "https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "5, 6, 7, 8",
+      "url": "https://open.spotify.com/track/3oWZwdnnwsCwMukQbPsEiy"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Back For Good",
+        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "You're My Heart, You're My Soul '98",
+      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Back For Good",
-        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "You're My Heart, You're My Soul '98",
-      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "Bailamos",
+      "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Here Comes The Hotstepper",
         "url": "https://open.spotify.com/album/4xylgI6zPzJlHY8iZXAeK9"
       },
@@ -2247,22 +2263,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Bailamos",
-      "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "There Is a Party",
         "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
@@ -2275,22 +2275,6 @@
       "duration_ms": 241066,
       "name": "Let the Dream Come True",
       "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2327,6 +2311,22 @@
       "duration_ms": 211800,
       "name": "Two Can Play That Game - Radio Edit",
       "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2022-10-11 00:00:00",

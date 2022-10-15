@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\.  cover: blair lee
+> it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
 
-973 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+976 songs - 2 day 2 hr 4 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Gemini](https://open.spotify.com/track/7lIGWqCphjoLeSXjT71MMC) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Gemini](https://open.spotify.com/album/2Yilbq95tQfn2Yzn14YH73) | 3:33 | 2021-09-04 | 2021-10-23 |
 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 | 2022-07-15 |  |
 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 | 2022-07-29 |  |
-| [Ghost](https://open.spotify.com/track/2t7JR00zCp35xLqsxjRnyo) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Ghost](https://open.spotify.com/album/6fAMMhsoOgYNO5ktqLhJ9U) | 2:45 | 2022-04-29 |  |
+| [Ghost](https://open.spotify.com/track/2t7JR00zCp35xLqsxjRnyo) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Ghost](https://open.spotify.com/album/6fAMMhsoOgYNO5ktqLhJ9U) | 2:45 | 2022-04-29 | 2022-10-15 |
 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 | 2021-04-03 | 2021-06-19 |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2020-11-03 | 2020-11-04 |
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-14 | 2021-01-30 |
@@ -501,7 +501,7 @@
 | [Last Time](https://open.spotify.com/track/7lrbSHt44BpSCOvy4oODf9) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Last Time](https://open.spotify.com/album/6H7FpjXzpiwxmH2u6M4uJ0) | 2:08 | 2021-05-22 | 2021-08-28 |
 | [Lately](https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lately](https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO) | 3:14 | 2022-05-06 |  |
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2020-10-29\* | 2020-11-11 |
-| [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 | 2022-08-26 |  |
+| [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 | 2022-08-26 | 2022-10-15 |
 | [Ledge](https://open.spotify.com/track/23Q68gHWInQnaji7rjO6PG) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Ledge](https://open.spotify.com/album/13Yn26k2IbaNd60lUrbB5s) | 2:55 | 2022-03-18 | 2022-04-09 |
 | [Lemonade](https://open.spotify.com/track/5Kr72kgrS973p2pj2ljRt5) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Lemonade](https://open.spotify.com/album/3H590nC6Jt4RkHfd8UBT7s) | 3:47 | 2020-10-29\* | 2021-01-06 |
 | [Let Go](https://open.spotify.com/track/1DtdX9FfsysjfOXhVfGySB) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Go](https://open.spotify.com/album/0nanElKiXhl3gLEyluduzv) | 3:10 | 2022-08-12 |  |
@@ -611,6 +611,7 @@
 | [Ocean](https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Ocean](https://open.spotify.com/album/5Eoz7NXXYEf4KnNWzkOKjO) | 2:30 | 2020-11-14 | 2021-03-06 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-05-29 | 2021-11-20 |
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-04-15 |  |
+| [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 |  |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2021-05-15 | 2021-06-27 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4syyKlhOWbsZUsZ4DwmJxH) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/48w4LOmCFBERYFr7QkT4VA) | 2:35 | 2021-09-04 | 2022-01-15 |
 | [ohfuckimnotok](https://open.spotify.com/track/6w0t6KnnmifuC5N6O231Dk) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I'm A Disappointment](https://open.spotify.com/album/4TeUmayh0oTlUaMHkQPTXE) | 2:24 | 2022-04-15 | 2022-10-01 |
@@ -789,6 +790,7 @@
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 | 2021-09-11 | 2021-11-06 |
 | [STAY IN \(feat\. LoveLeo\)](https://open.spotify.com/track/2smYox7uyoZCKgMHoqfg4X) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [STAY IN](https://open.spotify.com/album/0xO1o1vjzil8Nch5mNjjox) | 2:08 | 2021-02-06 | 2021-03-27 |
 | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/track/2KX7ZC9JL8BAeFnCrcVRHE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/album/0I62XvuIfBKTRWRNrlbSxJ) | 2:20 | 2020-10-29\* | 2020-11-14 |
+| [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-14 |  |
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-03-14 | 2021-04-10 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-01-09 | 2021-01-30 |
 | [Stoned](https://open.spotify.com/track/0hF7jQgsk4nJ9XMDPn6jr4) | [Liya Bombardier](https://open.spotify.com/artist/5Mpu0Q3NtAKnagP9pUJrxk) | [Stoned](https://open.spotify.com/album/6W32RVhg9GoNoFsB2QimhZ) | 2:56 | 2021-10-09 | 2021-11-20 |
@@ -896,7 +898,8 @@
 | [Turbulence](https://open.spotify.com/track/1LZ4N16PaRnOg7odVvBG34) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Turbulence](https://open.spotify.com/album/1RBEZ22dLFRuWwuluBlasY) | 1:50 | 2021-04-17 | 2021-07-04 |
 | [Twenty](https://open.spotify.com/track/7FmBBkPdXrHriquQK3Z7FF) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [The Art of Pretending \(Deluxe\)](https://open.spotify.com/album/5XNlS5njwAwHn2YQG3X0CG) | 3:13 | 2021-03-20 | 2021-06-05 |
 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-10-09 | 2022-07-09 |
-| [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-06-03 |  |
+| [Uncall It](https://open.spotify.com/track/2Tc7PJ7DpTL7zWE6hgvGB2) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/0syrwMCuSIKaBxQMjOB4oj) | 2:36 | 2022-10-14 |  |
+| [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-06-03 | 2022-10-15 |
 | [Undershare \(feat\. ELIO\)](https://open.spotify.com/track/7Mdvvkp2wAHUnFwdZ6nrr1) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Undershare \(feat\. ELIO\)](https://open.spotify.com/album/6kQpLd2JF29RNgBjJ8fFfv) | 3:39 | 2022-09-16 |  |
 | [UNKNOWN](https://open.spotify.com/track/0Z8h8JgHnvyYXY0VLT0YXH) | [prettyboys](https://open.spotify.com/artist/2gEcnCymek6QgS9DfQF3UZ) | [UNKNOWN](https://open.spotify.com/album/3indV6cCInris0c4k2cWpy) | 3:32 | 2021-10-30 | 2022-02-15 |
 | [Unseen](https://open.spotify.com/track/3YiB0GUZX89rt6MoXS2XMf) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Unseen](https://open.spotify.com/album/7uMgVPX5AGSStBDgmOf6q4) | 2:49 | 2022-05-13 |  |

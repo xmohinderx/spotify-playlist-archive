@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 352999,
       "name": "Airbag",
       "url": "https://open.spotify.com/track/2NhTSoKSOZzTc6SYIoIWCd"
@@ -1965,7 +1965,7 @@
           "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229213,
@@ -6779,7 +6779,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 206808,
       "name": "Never Grind (feat. 100KGOLD & HOWLER)",
       "url": "https://open.spotify.com/track/5lLnlx0BMPJCSXMB9GZHIR"
@@ -9972,6 +9972,28 @@
     },
     {
       "album": {
+        "name": "Time tgt you",
+        "url": "https://open.spotify.com/album/4xbx8LxlhJDNKk93DzmT5e"
+      },
+      "artists": [
+        {
+          "name": "Chu Seo Jun",
+          "url": "https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167861,
+      "name": "To you (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/73nHbiqRikVIta8TFtRBPi"
+    },
+    {
+      "album": {
         "name": "natural high",
         "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
@@ -10413,6 +10435,32 @@
       "duration_ms": 196813,
       "name": "Venus",
       "url": "https://open.spotify.com/track/2aLH4EiEoZLpbeEQvTBbtH"
+    },
+    {
+      "album": {
+        "name": "19LOVed",
+        "url": "https://open.spotify.com/album/4T7Z9Do7P0gpf46Uy1AW71"
+      },
+      "artists": [
+        {
+          "name": "KANGXIHO",
+          "url": "https://open.spotify.com/artist/3llwzHsnLXfNZM2WHBIKSE"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/3pyrfwmUGt2MIRbhMY8iar"
+        },
+        {
+          "name": "Lil Kintexx",
+          "url": "https://open.spotify.com/artist/05GiFsy2bdPTpl3oyJyZic"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "vicious circle (Feat. Rei, Lil Kintexx)",
+      "url": "https://open.spotify.com/track/6AnMuoMXMsaNq6TiWuwip4"
     },
     {
       "album": {

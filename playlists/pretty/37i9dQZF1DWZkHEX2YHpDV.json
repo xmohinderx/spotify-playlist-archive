@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Meet Me @ The Altar",
-  "num_followers": 438115,
+  "num_followers": 438161,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNjUwMCwwMDAwMDAwMDE5N2IyNmRlNjQ5MjIwYjY4M2M2ZTI1MTdjZTNjNzBh",
+  "snapshot_id": "MTY2NTExNjUwMCwwMDAwMDAwMDlkMmYzYjAyMTkwYzg4ZjRjMWY5M2IxOWYwMjBmMjI0",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "FUNERAL GREY",
-        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "FUNERAL GREY",
-      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "No Love In LA / Punching Bag",
         "url": "https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 202656,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "FUNERAL GREY",
+        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "FLY",
-        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "Misfits T-Shirt",
-      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "she knows it",
         "url": "https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 156584,
       "name": "she knows it",
       "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 188081,
+      "name": "Misfits T-Shirt",
+      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Get A Job",
         "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 186581,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -963,22 +963,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "acting like that (feat. Machine Gun Kelly)",
-        "url": "https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1"
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 191066,
-      "name": "acting like that (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW"
+      "duration_ms": 129812,
+      "name": "Next Ex",
+      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -995,6 +991,26 @@
       "duration_ms": 189116,
       "name": "Benchwarmer",
       "url": "https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "acting like that (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "acting like that (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 137052,
       "name": "10 for 10",
       "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 129812,
-      "name": "Next Ex",
-      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 179850,
+      "name": "I Hope You\u2019re Happy",
+      "url": "https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "SOS (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 179850,
-      "name": "I Hope You\u2019re Happy",
-      "url": "https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -1519,6 +1519,26 @@
       "duration_ms": 225838,
       "name": "Wyatt\u2019s Song (Your Name)",
       "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Misfits",
+        "url": "https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 178263,
+      "name": "Misfits",
+      "url": "https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1623,26 +1643,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Misfits",
-        "url": "https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 178263,
-      "name": "Misfits",
-      "url": "https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Chemical Warfare",
         "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 166858,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2022-10-07 04:00:00",

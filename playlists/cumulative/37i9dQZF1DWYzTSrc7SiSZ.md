@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-176 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+178 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bolitas](https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Bolitas](https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB) | 3:41 | 2022-05-20 |  |
 | [Bombón](https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g) | 2:40 | 2022-09-06 |  |
 | [Bota Fuego \- con Nicky Jam](https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bota Fuego \(con Nicky Jam\)](https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6) | 3:43 | 2022-07-11 |  |
+| [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-09-06 |  |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2022-05-20 | 2022-10-13 |
 | [Cafeliko](https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cafeliko](https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x) | 2:06 | 2022-05-20 |  |
 | [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 | 2022-08-08 |  |
@@ -38,7 +39,7 @@
 | [Culpa, Tengo](https://open.spotify.com/track/483rz2B4gM6w7m21gsfnTT) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL) | 3:07 | 2022-05-20 | 2022-07-29 |
 | [Culpa, Tengo](https://open.spotify.com/track/4bKQUb2YadX9zaek1ngZKj) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Culpa, Tengo](https://open.spotify.com/album/6ijb7bIlJEXCOrnMxTmVfX) | 3:07 | 2022-07-11 |  |
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2022-05-20 |  |
-| [Desnudate](https://open.spotify.com/track/4D5StAEmonAUjt9zYl2Wgf) | [Okaa](https://open.spotify.com/artist/37HbX5eAIMEDqytFInLLrU), [Chune](https://open.spotify.com/artist/0M8yh4QnShC2YBY1TGznCm) | [Desnudate](https://open.spotify.com/album/28jkFjLYnxI6k44ERO6Ce2) | 3:30 | 2022-05-20 |  |
+| [Desnudate](https://open.spotify.com/track/4D5StAEmonAUjt9zYl2Wgf) | [Okaa](https://open.spotify.com/artist/37HbX5eAIMEDqytFInLLrU), [Chune](https://open.spotify.com/artist/0M8yh4QnShC2YBY1TGznCm) | [Desnudate](https://open.spotify.com/album/28jkFjLYnxI6k44ERO6Ce2) | 3:30 | 2022-05-20 | 2022-10-15 |
 | [Despecho Nuevo](https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Despecho Nuevo](https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73) | 3:37 | 2022-05-20 |  |
 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 | 2022-05-20 |  |
 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 | 2022-05-20 |  |
@@ -154,7 +155,8 @@
 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 | 2022-05-20 |  |
 | [Siento](https://open.spotify.com/track/00VFW0mnvoFYLVhrhFsk7y) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:30 | 2022-07-11 |  |
 | [Siento](https://open.spotify.com/track/0WFqLLU1eofNctXNVjzuIX) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Siento](https://open.spotify.com/album/08dn0Fi95hgdzUJmFgzRat) | 3:30 | 2022-05-20 | 2022-07-29 |
-| [Sin Señal](https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Sin Señal](https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX) | 3:38 | 2022-05-20 |  |
+| [Sin Señal](https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Sin Señal](https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX) | 3:38 | 2022-05-20 | 2022-10-15 |
+| [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 | 2022-09-06 |  |
 | [Sola \- Remix](https://open.spotify.com/track/0RaHJJEltK9qqXPVuxhrwq) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sola \(Remix\)](https://open.spotify.com/album/0USMnz3z3Mwgw8VonkL9x5) | 3:43 | 2022-05-20 | 2022-10-13 |
 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 | 2022-05-20 |  |
 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 | 2022-09-06 |  |

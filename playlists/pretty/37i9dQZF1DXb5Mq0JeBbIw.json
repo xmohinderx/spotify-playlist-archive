@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 144498,
+  "num_followers": 144517,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0NDAwMCwwMDAwMDAwMDUwOTFhOGM3ZjA2NWJmYjg1ZTIwYzg0MTEwOTlhYmE1",
+  "snapshot_id": "MTY2NTE0NDAwMCwwMDAwMDAwMGQ2YjczNzdlOWE5MTBhNDQwN2UyZjQwZjBmYjRmZTQz",
   "tracks": [
     {
       "added_at": "2022-10-07 12:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 192573,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 195480,
       "name": "T-Shirts - Acoustic",
       "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -707,22 +707,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+        "name": "IT'S YOU (feat. keshi) [Stripped Version]",
+        "url": "https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
         },
         {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+      "duration_ms": 158742,
+      "name": "IT'S YOU (feat. keshi) - Stripped Version",
+      "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -747,18 +747,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "see u tomorrow (stripped)",
-        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
       "artists": [
         {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 197845,
-      "name": "see u tomorrow - stripped",
-      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "IT'S YOU (feat. keshi) [Stripped Version]",
-        "url": "https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP"
+        "name": "see u tomorrow (stripped)",
+        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
         }
       ],
-      "duration_ms": 158742,
-      "name": "IT'S YOU (feat. keshi) - Stripped Version",
-      "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
+      "duration_ms": 197845,
+      "name": "see u tomorrow - stripped",
+      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "#Covers",
-        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
         }
       ],
-      "duration_ms": 192545,
-      "name": "It Aint Me",
-      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+        "name": "#Covers",
+        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
       },
       "artists": [
         {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
+      "duration_ms": 192545,
+      "name": "It Aint Me",
+      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -991,22 +991,6 @@
       "duration_ms": 154732,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "Hailey (EMBERS Remix)",
         "url": "https://open.spotify.com/album/2RuyhhGVvpQZH2L4zPWo43"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Volition",
-        "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 257516,
-      "name": "Saving Us a Riot",
-      "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Volition",
+        "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 257516,
+      "name": "Saving Us a Riot",
+      "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "Days That End in Y",
+        "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
+      },
+      "artists": [
+        {
+          "name": "Gomey",
+          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
+        },
+        {
+          "name": "Xuitcasecity",
+          "url": "https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL"
+        }
+      ],
+      "duration_ms": 142686,
+      "name": "Days That End in Y",
+      "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "If I Were You",
         "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 238994,
       "name": "Chasing After the Moon",
       "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "Days That End in Y",
-        "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
-      },
-      "artists": [
-        {
-          "name": "Gomey",
-          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
-        },
-        {
-          "name": "Xuitcasecity",
-          "url": "https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL"
-        }
-      ],
-      "duration_ms": 142686,
-      "name": "Days That End in Y",
-      "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "When Does a Heart Move On",
-      "url": "https://open.spotify.com/track/5q9hultY2qhd6sVB0DEEQf"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "I'm Not The Only One (Acoustic Version)",
         "url": "https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 213658,
       "name": "I'm Not The Only One - Acoustic Version",
       "url": "https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "When Does a Heart Move On",
+      "url": "https://open.spotify.com/track/5q9hultY2qhd6sVB0DEEQf"
     },
     {
       "added_at": "2022-10-07 12:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,308 likes - 230 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,386 likes - 230 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 143 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 |
 | 144 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 |
 | 145 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 |
-| 146 | [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 |
+| 146 | [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 |
 | 147 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 |
 | 148 | [絕美](https://open.spotify.com/track/2P6UP87aTcKxiozVOI5zxO) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 4:17 |
 | 149 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
@@ -208,7 +208,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 198 | [Feel](https://open.spotify.com/track/2K57EzR21M2VTV1qCEeCa7) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [Feel](https://open.spotify.com/album/4v5QB3bRarNaYvTcGzjvpN) | 3:08 |
 | 199 | [LA TIRITA](https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8) | 2:52 |
 | 200 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
-| 201 | [What Does That Make Me](https://open.spotify.com/track/3Gkz6glSbXuVkdNgIgzTXM) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Does That Make Me](https://open.spotify.com/album/46YDvX9MEU4pXNN7fJnB7Q) | 2:37 |
+| 201 | [What Does That Make Me](https://open.spotify.com/track/5oExN7A9Hhf66SBslF8uhh) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 2:37 |
 | 202 | [S.U.K.I\. \(feat\. somere & naila\)](https://open.spotify.com/track/6gdoxyw4E2Tkr06LHgZkcy) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL), [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0), [somere](https://open.spotify.com/artist/3eyyELkOh4GFdxHjrslv7g), [naila](https://open.spotify.com/artist/3htrWBrHBVoUL0zuSFX8Ny) | [Lika Na](https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89) | 3:19 |
 | 203 | [City Life](https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [City Life \- Single](https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr) | 2:40 |
 | 204 | [Cinderella](https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Cinderella](https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa) | 3:13 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 229 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 |
 | 230 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 |
 
-Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMGFlNzU3ZjE3ZWY5MjgzMjc2NzJjNzMwNzcyYTQ3MmQ0`
+Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMDYxYTZhODEwN2MzMmE0Y2JiMGY0OTU0OWM0ZmJhMGU3`

@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-178 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
+179 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2021-11-12 | 2022-07-29 |
 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 | 2021-11-12 |  |
 | [Golden](https://open.spotify.com/track/2WtZ0pGY93BnZfuGVenMb9) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden](https://open.spotify.com/album/3MnInies0fUg0hmzYwELpo) | 5:13 | 2021-11-12 | 2022-07-29 |
-| [Good Scare](https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Silver Tongue](https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv) | 3:35 | 2021-11-12 |  |
+| [Good Scare](https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Silver Tongue](https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv) | 3:35 | 2021-11-12 | 2022-10-15 |
 | [Good Scare](https://open.spotify.com/track/3UrZ77Jh8iL2h5Apvswrwm) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Gracious Day](https://open.spotify.com/album/65oWWfSiVcm3p57T9HBNQs) | 3:35 | 2021-11-12 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-11-12 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2021-11-12 |  |
@@ -103,6 +103,7 @@
 | [More Than You Know \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0IBjwCuG1fEjk5OenvuL6B) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/0iFbPnngmZnbKKeOR9r18P) | 3:40 | 2021-11-12 | 2022-07-29 |
 | [Mortals](https://open.spotify.com/track/05ysa8MWYb7MvixPonb1Fp) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Mortals](https://open.spotify.com/album/3H7MViLKyTi0IjwbJY1pwm) | 3:08 | 2021-11-12 | 2022-07-29 |
 | [Mortals](https://open.spotify.com/track/3pa1oaOXwmoxLoDTn2oFVq) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:08 | 2021-11-12 | 2022-10-13 |
+| [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 | 2022-09-16 |  |
 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 | 2021-11-12 |  |
 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 | 2021-11-12 |  |
 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 | 2021-11-12 |  |

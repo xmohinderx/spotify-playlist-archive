@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Orlvando
+> Il meglio dell'R&B italiano\. Cover: Orlvndo
 
-191 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+192 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Igloo](https://open.spotify.com/track/2Xd1cBqnJfvFydAyrMJufM) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Igloo](https://open.spotify.com/album/5AA5aRX6SDYGP6HbcXvlQz) | 2:35 | 2022-10-06 |  |
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 | 2022-09-09 |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 |  |
+| [INFERNO](https://open.spotify.com/track/2GOqPgex034ZvAisHzNWmZ) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [INFERNO](https://open.spotify.com/album/00Vd4Gdptal8powyOLfN22) | 3:54 | 2022-10-14 |  |
 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 | 2022-06-30 | 2022-09-30 |
 | [Invisibile](https://open.spotify.com/track/16ul9kzVQqpjdFat8gRbeM) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Invisibile](https://open.spotify.com/album/56qIcB3BWjrEyKy49HB32z) | 2:47 | 2022-05-05 | 2022-08-12 |
 | [Io sono in paranoia](https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF) | [L'Alba](https://open.spotify.com/artist/1MZ9OluQIQngTfG27rhOcj), [Saffi](https://open.spotify.com/artist/33DnVEwpiJGyHynUdQR0VR), [Yako](https://open.spotify.com/artist/5R2zIsjbgxycc2BH8BPFV8) | [Io sono in paranoia](https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE) | 2:16 | 2022-06-23 | 2022-09-09 |

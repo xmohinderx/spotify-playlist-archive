@@ -1315,7 +1315,7 @@
     {
       "album": {
         "name": "songs from 3am",
-        "url": "https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH"
+        "url": "https://open.spotify.com/album/0bgCvlryOs9JHw0alDKqdS"
       },
       "artists": [
         {
@@ -1326,6 +1326,24 @@
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178895,
+      "name": "i don't miss u",
+      "url": "https://open.spotify.com/track/1Ui5h8uVd1Mbzw0xD9QOjh"
+    },
+    {
+      "album": {
+        "name": "songs from 3am",
+        "url": "https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH"
+      },
+      "artists": [
+        {
+          "name": "carobae",
+          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 178895,
       "name": "i don't miss u",
       "url": "https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W"
@@ -2284,6 +2302,24 @@
     },
     {
       "album": {
+        "name": "SEX",
+        "url": "https://open.spotify.com/album/5Xz5UbVUN2fqucwGnpwXJg"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Sue",
+      "url": "https://open.spotify.com/track/0yygnZCAvPeopsfgI1IWFC"
+    },
+    {
+      "album": {
         "name": "Sue",
         "url": "https://open.spotify.com/album/0QE5VjoQrx4dadRYhaeQ0G"
       },
@@ -2295,7 +2331,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 202826,
       "name": "Sue",
       "url": "https://open.spotify.com/track/3Ebf3n6GX9i8OLig5lNXtL"

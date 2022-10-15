@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-148 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+149 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 | 2021-12-13 | 2022-05-18 |
 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 | 2021-12-13 | 2022-10-01 |
 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07), [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 | 2021-12-13 |  |
+| [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 | 2022-10-14 |  |
 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 | 2021-12-13 |  |
 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 | 2021-12-13 |  |
 | [Everybody Love \[Feat\. Musiq Soulchild & Posdnuos\]](https://open.spotify.com/track/78Al5zZW8NubOJjlmscmEa) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 5:03 | 2022-09-30 |  |

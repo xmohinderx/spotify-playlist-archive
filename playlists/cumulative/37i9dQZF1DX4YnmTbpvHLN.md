@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-204 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+205 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-06-29 |  |
 | [I Mean You](https://open.spotify.com/track/2JR9BtQ6Av9OAf3awQigf5) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Autumn in New York](https://open.spotify.com/album/4VK7vsDrvzFYqhs3JjPOmf) | 3:29 | 2022-06-29 |  |
-| [I Miss You So](https://open.spotify.com/track/02YyWZyT3tosGHVbgeGKqr) | [Peter Berman Band](https://open.spotify.com/artist/62n0E98ES3VIPT4qSpRaRR) | [I Miss You So](https://open.spotify.com/album/2S1OXTueuR5vPq7KMLj24L) | 4:44 | 2022-06-29 |  |
+| [I Miss You So](https://open.spotify.com/track/02YyWZyT3tosGHVbgeGKqr) | [Peter Berman Band](https://open.spotify.com/artist/62n0E98ES3VIPT4qSpRaRR) | [I Miss You So](https://open.spotify.com/album/2S1OXTueuR5vPq7KMLj24L) | 4:44 | 2022-06-29 | 2022-10-15 |
 | [I Remember Clifford](https://open.spotify.com/track/6taUJ3uoR0GoCGNe8LLwGQ) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 3:03 | 2022-06-29 |  |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-29 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2022-06-29 |  |
@@ -121,6 +121,7 @@
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-06-29 |  |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-29 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2022-06-29 |  |
+| [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Waiting Endlessly](https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:35 | 2022-06-29 |  |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2022-08-31 |  |
 | [Lower East Side](https://open.spotify.com/track/2B4zWGcQq19hdbRLTHWInd) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Lower East Side](https://open.spotify.com/album/7JBbttbLCeStXO31U0hkE4) | 3:52 | 2022-06-29 |  |

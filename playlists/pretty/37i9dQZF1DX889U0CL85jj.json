@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2369405,
+  "num_followers": 2369689,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5MDkzOCwwMDAwMDAwMDlhZTMwZTc4NDQyZDdjZjliNjI5MDM1YWI1NDNmM2U5",
+  "snapshot_id": "MTY2NTc3MjM2NCwwMDAwMDAwMGY0MGI4MzNlOTYzNTAzZDdmZWI0YzhjNDg2MmM1MjQ1",
   "tracks": [
     {
       "added_at": "2022-10-08 00:29:29",
@@ -75,6 +75,26 @@
       "duration_ms": 226306,
       "name": "peas",
       "url": "https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00"
+    },
+    {
+      "added_at": "2022-09-16 19:46:15",
+      "album": {
+        "name": "Charm of Pleasure",
+        "url": "https://open.spotify.com/album/6YrdjgvM2rx0BQ3yQFAJuH"
+      },
+      "artists": [
+        {
+          "name": "Daniele Luppi",
+          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
+        },
+        {
+          "name": "Greg Gonzalez",
+          "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
+        }
+      ],
+      "duration_ms": 213458,
+      "name": "Silent Dream",
+      "url": "https://open.spotify.com/track/7iXvlrUHFsLAH3neUpxIfM"
     },
     {
       "added_at": "2022-10-13 19:55:38",
@@ -512,7 +532,7 @@
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Dad's Old Tapes",
-        "url": "https://open.spotify.com/album/4o2hbK2sZYnvVDOTaIDNrx"
+        "url": "https://open.spotify.com/album/4qrjeTgHr22oG9piwLhsxA"
       },
       "artists": [
         {
@@ -522,7 +542,7 @@
       ],
       "duration_ms": 231066,
       "name": "Settle Down",
-      "url": "https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA"
+      "url": "https://open.spotify.com/track/2N1xPOMaQRyQ9SAIiLkESd"
     },
     {
       "added_at": "2022-09-29 08:41:00",
@@ -580,7 +600,7 @@
       "added_at": "2022-09-16 19:46:15",
       "album": {
         "name": "Fairweather Friends",
-        "url": "https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2"
+        "url": "https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv"
       },
       "artists": [
         {
@@ -590,7 +610,7 @@
       ],
       "duration_ms": 190714,
       "name": "Fairweather Friends",
-      "url": "https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG"
+      "url": "https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1087,26 +1107,6 @@
       "duration_ms": 183920,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
-    },
-    {
-      "added_at": "2022-09-16 19:46:15",
-      "album": {
-        "name": "Charm of Pleasure",
-        "url": "https://open.spotify.com/album/6YrdjgvM2rx0BQ3yQFAJuH"
-      },
-      "artists": [
-        {
-          "name": "Daniele Luppi",
-          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
-        },
-        {
-          "name": "Greg Gonzalez",
-          "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
-        }
-      ],
-      "duration_ms": 213458,
-      "name": "Silent Dream",
-      "url": "https://open.spotify.com/track/7iXvlrUHFsLAH3neUpxIfM"
     },
     {
       "added_at": "2022-08-19 04:00:00",

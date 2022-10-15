@@ -1279,10 +1279,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 180931,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/39UWlEnYolv3LfQoEYqJIn"
+    },
+    {
+      "album": {
+        "name": "Where I Live",
+        "url": "https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM"
+      },
+      "artists": [
+        {
+          "name": "Das Kope",
+          "url": "https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180931,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu"
     },
     {
       "album": {

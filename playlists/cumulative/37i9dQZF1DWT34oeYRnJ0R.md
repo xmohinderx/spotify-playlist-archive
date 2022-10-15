@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: paopao
 
-214 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
+215 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 | 2022-09-06 |  |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-03-21 | 2022-09-07 |
 | [do you come here often?](https://open.spotify.com/track/0ShHM5WuJOUCexBXVi52My) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/4glGICjO9phzJWlRMZAw9r) | 2:34 | 2022-09-06 | 2022-10-14 |
+| [do you come here often?](https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0) | 2:34 | 2022-10-09 |  |
 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 | 2022-05-20 | 2022-08-12 |
 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 | 2022-03-21 | 2022-09-07 |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-09-06 |  |
@@ -115,7 +116,7 @@
 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 | 2022-10-09 |  |
 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 | 2022-09-06 | 2022-10-13 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-25 | 2022-09-07 |
-| [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 | 2022-09-06 |  |
+| [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 | 2022-09-06 | 2022-10-15 |
 | [lyu2 \(with marcos g\)](https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [lyu2 \(with marcos g\)](https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3) | 3:02 | 2022-09-06 |  |
 | [mala maña](https://open.spotify.com/track/2tcHiFQUp21LbIKdWmA995) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:33 | 2022-03-21 | 2022-09-07 |
 | [Mala Mía](https://open.spotify.com/track/2qBZwnNngUE4RXnJkznZVR) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Amor Roma](https://open.spotify.com/album/2pbBhYiSdgcWhuUFAzPru0) | 2:32 | 2022-03-21 | 2022-06-28 |

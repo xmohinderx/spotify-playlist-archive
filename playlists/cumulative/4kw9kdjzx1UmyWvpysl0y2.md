@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-286 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+288 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Closer](https://open.spotify.com/track/0dl1KPentnYfyXSQnK1eUD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Closer](https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy) | 3:38 | 2021-11-19 | 2022-02-16 |
 | [Coast](https://open.spotify.com/track/5Fcr8cxJhB5lzigrAO6zy3) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [miksklim](https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz) | [Coast / Together](https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ) | 3:32 | 2022-08-26 |  |
 | [Cold](https://open.spotify.com/track/0PnypUaIbVQJNTUI7uAu7l) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Cold](https://open.spotify.com/album/7CPCLln80ae2SZtBWWsCqn) | 3:32 | 2022-05-24 | 2022-08-04 |
+| [Collide](https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy) | [Yula](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Collide](https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ) | 3:43 | 2022-10-14 |  |
 | [Come With Me](https://open.spotify.com/track/6YtkMh0vUE21T6f2P1G5XG) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Sally Jay](https://open.spotify.com/artist/6XkbDOU2h2CIOWzP0BiKQb) | [Come With Me](https://open.spotify.com/album/7xwEXVETqYsp5GBbHGQZaO) | 3:30 | 2022-04-18 | 2022-06-30 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |
@@ -227,6 +228,7 @@
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
+| [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 |  |
 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 | 2022-09-08 |  |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 | 2022-09-15 |

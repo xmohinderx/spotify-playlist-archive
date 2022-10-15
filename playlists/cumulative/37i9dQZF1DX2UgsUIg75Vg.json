@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Amaria",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Kirby",
   "name": "Chilled R&B",
   "published_playlist_ids": [
     "0z3nbjkWeZZbRZSs8bbW9u"
@@ -2586,6 +2586,24 @@
     },
     {
       "album": {
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152590,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
+    },
+    {
+      "album": {
         "name": "Fiji Fine",
         "url": "https://open.spotify.com/album/6xRXep3NUG7Hqy41uvzyKQ"
       },
@@ -3590,6 +3608,28 @@
     },
     {
       "album": {
+        "name": "Black Radio III (Supreme Edition)",
+        "url": "https://open.spotify.com/album/0koSNz785od22spE0DlKO7"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144543,
+      "name": "Hi [Feat. India.Arie]",
+      "url": "https://open.spotify.com/track/2ISm6JJf3BUaYYH54Z2UR7"
+    },
+    {
+      "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/51TdpTNVy6XhnfRt90nS1o"
       },
@@ -3931,7 +3971,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 189905,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD"
@@ -4829,7 +4869,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 264828,
       "name": "Lovin' you",
       "url": "https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ"
@@ -5035,7 +5075,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 231616,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ"
@@ -5325,6 +5365,24 @@
       "duration_ms": 199960,
       "name": "My Peace (feat. Mr. Talkbox)",
       "url": "https://open.spotify.com/track/4pYD9GWj75w065wGuRgiMK"
+    },
+    {
+      "album": {
+        "name": "The Missing Peace",
+        "url": "https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1"
+      },
+      "artists": [
+        {
+          "name": "Mikhala Jen\u00e9",
+          "url": "https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208410,
+      "name": "My Rock",
+      "url": "https://open.spotify.com/track/0Pnb9c3hqio8fJ4v7FlQoi"
     },
     {
       "album": {
@@ -5754,6 +5812,24 @@
     },
     {
       "album": {
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/0E0ZVILGRfM9yU2aJwnk6E"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/6RfIR5hQTyHWrQYbDzhtfs"
+    },
+    {
+      "album": {
         "name": "Only With Time - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
       },
@@ -5897,6 +5973,28 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "album": {
+        "name": "Black Radio III",
+        "url": "https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295746,
+      "name": "Over [Feat. Yebba]",
+      "url": "https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg"
     },
     {
       "album": {
@@ -6223,7 +6321,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 202520,
       "name": "Plus Minus (with Erick the Architect)",
       "url": "https://open.spotify.com/track/29sSLYkzMUXyQ4n8oiSiyO"
@@ -6756,6 +6854,24 @@
     },
     {
       "album": {
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
+      "album": {
         "name": "SCORPIO MOON - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc"
       },
@@ -6994,6 +7110,28 @@
     },
     {
       "album": {
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl"
       },
@@ -7049,6 +7187,24 @@
       "duration_ms": 208000,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
+    },
+    {
+      "album": {
+        "name": "PALISADE",
+        "url": "https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6"
     },
     {
       "album": {
@@ -7205,7 +7361,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 220199,
       "name": "sorry",
       "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
@@ -7643,6 +7799,24 @@
       "duration_ms": 264412,
       "name": "TAKE A CHANCE (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
+    },
+    {
+      "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229992,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
     },
     {
       "album": {
@@ -8456,6 +8630,32 @@
     },
     {
       "album": {
+        "name": "edbl & friends - James Berkeley",
+        "url": "https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        },
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205355,
+      "name": "Waiting Line",
+      "url": "https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi"
+    },
+    {
+      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/0ETr9LBbVHsstgFFpugTeF"
       },
@@ -8558,6 +8758,24 @@
     },
     {
       "album": {
+        "name": "What A Difference She Made",
+        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175696,
+      "name": "What A Difference She Made",
+      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
+    },
+    {
+      "album": {
         "name": "New Light",
         "url": "https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4"
       },
@@ -8639,6 +8857,32 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "album": {
+        "name": "edbl & friends - James Berkeley",
+        "url": "https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        },
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238645,
+      "name": "What's Good?",
+      "url": "https://open.spotify.com/track/2ZHnM7EAkOBRfqJ5saa4Iy"
     },
     {
       "album": {

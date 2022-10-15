@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-140 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+142 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Christmas Day](https://open.spotify.com/track/4BmUnyeci7hxDw039M9j3Y) | [Doksun](https://open.spotify.com/artist/042Ja8vySu9BKj2kznHGLC) | [All I Got for Christmas Was This Lazy Nutcracker](https://open.spotify.com/album/7mXlVD3vqrAf7G2VE1rq0m) | 1:18 | 2021-12-20 |  |
 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 | 2021-12-20 |  |
 | [Christmas on High](https://open.spotify.com/track/0yKr2aBuuJJPwCoyBgYMKU) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 3:27 | 2021-12-20 |  |
+| [Christmas Time Is Here Charlie Brown](https://open.spotify.com/track/23fgwoJu8lsdK8cecZIeZF) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 4:30 | 2022-09-30 |  |
 | [Christmas Time Is Here Charlie Brown](https://open.spotify.com/track/5QggOGFS41W6f055d6YzBw) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/1D8rDE8V5nBdQClAWZRv4X) | 4:30 | 2021-12-20 | 2022-07-29 |
-| [Christmas Time Is Here Charlie Brown](https://open.spotify.com/track/7pJ2lypbozkrCExoJPhgYG) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:30 | 2021-12-20 |  |
+| [Christmas Time Is Here Charlie Brown](https://open.spotify.com/track/7pJ2lypbozkrCExoJPhgYG) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:30 | 2021-12-20 | 2022-10-15 |
 | [Christmas Tree](https://open.spotify.com/track/1NPzhEJX7xvJ9Xpzbw2Ur1) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 1:40 | 2021-12-20 |  |
 | [Chubby Santa](https://open.spotify.com/track/2DlWXYl3D5LLtI0dr2SXPQ) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:25 | 2021-12-20 |  |
 | [Cold Outside](https://open.spotify.com/track/7hMhj5g6z8H70PFG78fqWl) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Xmas in \(\(stereo\)\)](https://open.spotify.com/album/2yp2d2MkvZKQkvfRSZy9Rt) | 2:46 | 2021-12-20 |  |
@@ -52,8 +53,9 @@
 | [Have Yourself a Cozy Christmas](https://open.spotify.com/track/4FHpuJMkrevo3UXWNZ3KfG) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Have Yourself a Cozy Christmas](https://open.spotify.com/album/1k3BRqUpJgNhhMk1pCPscf) | 3:18 | 2021-12-20 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/63R9mcsJilIGl2J3RhV51y) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Home for Christmas](https://open.spotify.com/album/2tMEEVhJ7i6NGRDTKxhg2T) | 1:55 | 2021-12-20 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1fcXmTd6tq9k4fm4O3AZBy) | [Statistix](https://open.spotify.com/artist/3FDY67kyoGgLMWGVywQ6OZ) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0Nwpwp3oveI27XPYESsAHj) | 2:32 | 2021-12-20 |  |
+| [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/1OFyHG4Igqh8bho0NZGXdR) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 4:16 | 2022-09-30 |  |
 | [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/4iJhAs1Zi1TeUTkqvDF1mf) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/1D8rDE8V5nBdQClAWZRv4X) | 4:16 | 2021-12-20 | 2022-07-29 |
-| [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/7su98ziiskUZJIOzXRNMV3) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:16 | 2021-12-20 |  |
+| [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/7su98ziiskUZJIOzXRNMV3) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:16 | 2021-12-20 | 2022-10-15 |
 | [ho ho lofi](https://open.spotify.com/track/4OePyhZfv4HQc25rXbhxHl) | [Cam & Job](https://open.spotify.com/artist/3TWRKibRVvm9omhaXBxlzn) | [A Very Cam & Job Christmas](https://open.spotify.com/album/6u7YkGV5kvfwIq8zBanTkX) | 1:28 | 2021-12-20 |  |
 | [Holiday Mood Lofi](https://open.spotify.com/track/2IMrqdfQVS2aDiz6L7vFVb) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [A Merry Lofi Christmas](https://open.spotify.com/album/1qp0o8LrCSzr07zaLXqb7B) | 2:30 | 2021-12-20 |  |
 | [Holiday Mood Lofi \- Instrumental](https://open.spotify.com/track/0p9ihhlziFCYfNrRPZCJkF) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [Holiday Mood Lofi \(Instrumental\)](https://open.spotify.com/album/3LEaUqcC5i6DisMEEEtdTH) | 2:30 | 2021-12-20 | 2022-07-29 |

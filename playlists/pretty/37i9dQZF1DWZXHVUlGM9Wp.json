@@ -1,12 +1,12 @@
 {
   "description": "Keep on skating to the groovy boogie ",
-  "num_followers": 239205,
+  "num_followers": 239431,
   "original_name": "The Roller Rink ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODIwNiwwMDAwMDAwMDNkNmUyYTc1ZGM3ZjZjYjg4ZjEwMzQwMDJjZTkxNWJj",
+  "snapshot_id": "MTY2MDIzODIwNiwwMDAwMDAwMDM1MGU4OTU2Mjg2ODk1MWYwMzExZTUyNzQ0OWI2OGIx",
   "tracks": [
     {
       "added_at": "2022-07-27 21:04:47",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
-        "name": "Greek Tragedy (Oliver Nelson TikTok Remix)",
-        "url": "https://open.spotify.com/album/1UglarHubZKdQNBzRLF7dt"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        },
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
-        }
-      ],
-      "duration_ms": 306428,
-      "name": "Greek Tragedy - Oliver Nelson TikTok Remix",
-      "url": "https://open.spotify.com/track/64rqvMhAPLLEag310IG3z9"
-    },
-    {
-      "added_at": "2022-07-27 21:04:47",
-      "album": {
         "name": "Check Out",
         "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
+    },
+    {
+      "added_at": "2022-07-27 21:04:47",
+      "album": {
+        "name": "Greek Tragedy (Oliver Nelson TikTok Remix)",
+        "url": "https://open.spotify.com/album/1UglarHubZKdQNBzRLF7dt"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        },
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
+        }
+      ],
+      "duration_ms": 306428,
+      "name": "Greek Tragedy - Oliver Nelson TikTok Remix",
+      "url": "https://open.spotify.com/track/64rqvMhAPLLEag310IG3z9"
     },
     {
       "added_at": "2022-07-27 21:04:47",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Feel so Good",
-      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
-    },
-    {
-      "added_at": "2022-07-27 21:04:47",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 186181,
       "name": "Your Teeth In My Neck",
       "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"
+    },
+    {
+      "added_at": "2022-07-27 21:04:47",
+      "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Feel so Good",
+      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
     },
     {
       "added_at": "2022-07-27 21:04:47",

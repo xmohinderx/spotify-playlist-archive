@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: WOS
 
-123 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+124 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Wassap](https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wassap](https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w) | 2:45 | 2022-02-18 | 2022-03-14 |
 | [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2021-12-30 | 2022-01-12 |
 | [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes \(Álbum\)](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2021-12-30 | 2022-05-06 |
-| [Último Adiós](https://open.spotify.com/track/0RGcJ6VaN0UlC91o3xqJBB) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT) | 4:18 | 2022-02-24 |  |
+| [Último Adiós](https://open.spotify.com/track/0RGcJ6VaN0UlC91o3xqJBB) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT) | 4:18 | 2022-02-24 | 2022-10-15 |
+| [Último Adiós](https://open.spotify.com/track/62NGexdWmThjmnnlobPev4) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq) | 4:18 | 2022-10-06 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -2167,10 +2167,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 187978,
       "name": "Decay",
       "url": "https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe"
+    },
+    {
+      "album": {
+        "name": "Decay",
+        "url": "https://open.spotify.com/album/5MfKzK1PNrXOyRkugJGgXq"
+      },
+      "artists": [
+        {
+          "name": "Wildermiss",
+          "url": "https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187978,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/5ZBDSjEqPgFVut3KVen0rk"
     },
     {
       "album": {
@@ -9168,6 +9186,24 @@
     },
     {
       "album": {
+        "name": "Desperately Imagining Someplace Quiet",
+        "url": "https://open.spotify.com/album/7cYFcPZ0TMDsDefppHIbgG"
+      },
+      "artists": [
+        {
+          "name": "Disq",
+          "url": "https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244080,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/1NehDnoT38Zc6YVWj9QITX"
+    },
+    {
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/1w5xtFGuunvvyeL9pJxJkf"
       },
@@ -9179,7 +9215,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 244080,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/3HmoazjE5rjgMpOlU2X1XT"

@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-89 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
+91 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Focus Two](https://open.spotify.com/track/1QzxDJFcLRkin1CYdtFip1) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Two](https://open.spotify.com/album/7oi4c1vozIIOMlIyntsTX5) | 3:10 | 2022-05-26 |  |
 | [Fuji](https://open.spotify.com/track/31W8m9tads0D5ARBlKi7nt) | [Takano Marise](https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM) | [Fuji](https://open.spotify.com/album/06aTTkyS7arBbMekxtFQsr) | 1:51 | 2022-05-26 |  |
 | [Garden Of Rhythm](https://open.spotify.com/track/4WFhr2DDEyMEdNXW8waIL5) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:11 | 2022-05-26 |  |
+| [Ghostly Dome](https://open.spotify.com/track/5XoPvzUlpMqUwbd7vzFPWp) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Ghostly Dome](https://open.spotify.com/album/6wAt1Jv6LDK1D23tqgW8h8) | 2:39 | 2022-10-14 |  |
 | [Healing Drums](https://open.spotify.com/track/1JnMcSLVT3QlZYuovCk8dL) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:24 | 2022-05-26 |  |
 | [Healing Ritual](https://open.spotify.com/track/2LV4q6wKUyBIMJ1KxCqYsT) | [Five Senses Meditation Sanctuary](https://open.spotify.com/artist/2yQankcHwEvfEbpyRXqeVz) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 6:06 | 2022-05-26 | 2022-10-01 |
 | [Healing Shaman Dance \(The Spiritual Companion\)](https://open.spotify.com/track/6wJOdAFs9ANTqLmUgqP3YT) | [Handpan Player](https://open.spotify.com/artist/5ASKao4QmrWIwcwCZk3o8j), [Chill Out Universe](https://open.spotify.com/artist/1s1zaTgXl0h2Bezu4QeL6H) | [Healing Shaman Dance \(The Spiritual Companion\)](https://open.spotify.com/album/2hbKCdH4ug6D6oJu3kn5ls) | 4:06 | 2022-05-26 |  |
@@ -88,6 +89,7 @@
 | [The Spirit of the Drum](https://open.spotify.com/track/2TFtiG9PkXpRezasuBiS0h) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:32 | 2022-05-26 |  |
 | [Thunderbrand](https://open.spotify.com/track/33qhC5OfZdelrQgvARr2eB) | [Leafgolden](https://open.spotify.com/artist/0jiudEshVEEN5Uo6gmtrLP) | [Thunderbrand](https://open.spotify.com/album/3kBafXQoV4nipuxyBmYiYe) | 2:18 | 2022-05-26 |  |
 | [Time to Travel](https://open.spotify.com/track/1NqnBiNkkk3tdCErFQLty3) | [Five Senses Meditation Sanctuary](https://open.spotify.com/artist/2yQankcHwEvfEbpyRXqeVz) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 3:34 | 2022-05-26 |  |
+| [Trade Of Secrets](https://open.spotify.com/track/5C7NrlDJsXEPG3D6FQCtOX) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Ghostly Dome](https://open.spotify.com/album/6wAt1Jv6LDK1D23tqgW8h8) | 1:47 | 2022-10-14 |  |
 | [Vistaar](https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Vistaar](https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ) | 3:32 | 2022-09-30 |  |
 | [Welcome to Arcturus](https://open.spotify.com/track/6bSE70Sl5N39AikEnmfNDz) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 8:30 | 2022-05-26 |  |
 | [West Africa Drums](https://open.spotify.com/track/6mMIrVpOvAfzvdGXM82tLh) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-05-26 |  |

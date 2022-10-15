@@ -2722,6 +2722,24 @@
     },
     {
       "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "album": {
         "name": "Elephant In The Room",
         "url": "https://open.spotify.com/album/3kwAcIMBpwgQLfZNNrSvnQ"
       },
@@ -4101,7 +4119,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 143357,
       "name": "hover like a GODDESS",
       "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
@@ -6578,6 +6596,24 @@
     },
     {
       "album": {
+        "name": "Out of My System",
+        "url": "https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137973,
+      "name": "Out of My System",
+      "url": "https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/4NU1Zq9movX56OWgyczaLU"
       },
@@ -8967,7 +9003,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 161836,
       "name": "Two Faces",
       "url": "https://open.spotify.com/track/3QFN0Ke11xofOBk8ceWq5d"

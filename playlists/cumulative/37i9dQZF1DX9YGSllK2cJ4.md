@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-196 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
+198 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Fix You](https://open.spotify.com/track/5UVh8KvLkObml6Je0mkEeC) | [David Schultz](https://open.spotify.com/artist/32hejOfgJ4dBHJD9AGU2fs) | [Piano Covers](https://open.spotify.com/album/7KNA6W2HKiiaSyijxB4oaz) | 2:22 | 2022-08-01 | 2022-09-13 |
 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-12 |  |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-08-01 |  |
-| [For the Time Being](https://open.spotify.com/track/01Ta3xqx0lWGtiZupK2O7l) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [For the Time Being](https://open.spotify.com/album/5124C1o4Wm1P3BfMgw87T2) | 2:31 | 2022-08-25 |  |
+| [For the Time Being](https://open.spotify.com/track/01Ta3xqx0lWGtiZupK2O7l) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [For the Time Being](https://open.spotify.com/album/5124C1o4Wm1P3BfMgw87T2) | 2:31 | 2022-08-25 | 2022-10-15 |
 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 | 2022-08-01 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2022-08-01 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-08-01 |  |
@@ -87,6 +87,7 @@
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-08-01 |  |
 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 | 2022-08-01 |  |
 | [lei sogna di noi](https://open.spotify.com/track/2myAatrsAXWSYBCJzphYle) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [lei sogna di noi](https://open.spotify.com/album/6hEEE80InjpeOtNaMxFTu5) | 2:00 | 2022-08-01 | 2022-09-13 |
+| [Let the water in](https://open.spotify.com/track/6sSjhXN1PhbfpD5u6V01WS) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Let the water in](https://open.spotify.com/album/3YrzV39ZBwz7ywJk8beA7O) | 2:53 | 2022-10-14 |  |
 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-08-01 |  |
 | [Loneliness is my only company](https://open.spotify.com/track/6vDrmzekBoFnbFO0XcKGqZ) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Loneliness is my only company](https://open.spotify.com/album/3A9XSZyHfBjqBWZLxlu5Xw) | 2:17 | 2022-10-04 |  |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2022-08-01 |  |
@@ -182,6 +183,7 @@
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-08-01 | 2022-09-13 |
 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 | 2022-08-01 |  |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-08-01 |  |
+| [Untethered](https://open.spotify.com/track/4NlSuhEcQbnHOPQ2yyYW4b) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Untethered](https://open.spotify.com/album/6g5kGXlZQl6d5mM3TM3ZRQ) | 2:38 | 2022-10-14 |  |
 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 | 2022-08-01 |  |
 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 | 2022-08-01 |  |
 | [Vaults](https://open.spotify.com/track/53EoWPKv7FO9uTu6a7UPR2) | [Reginald Easter](https://open.spotify.com/artist/6iUeBAwdvdJ6jB3iVNPYAL) | [Vaults](https://open.spotify.com/album/1u7QPnbzTFfJngypn0BBVB) | 3:05 | 2022-08-01 | 2022-09-13 |
@@ -193,7 +195,7 @@
 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 | 2022-08-01 |  |
 | [We Together](https://open.spotify.com/track/45hG7DYmo87yN0hQ1MeJ0C) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [We Together](https://open.spotify.com/album/6ruK7Ax6fmYBopQ22j59RU) | 2:02 | 2022-09-12 |  |
 | [When Feeling Blue](https://open.spotify.com/track/6kcQ0eZ69cdUZQYTfchSw9) | [Hans Francken](https://open.spotify.com/artist/1YLooLbQVz1H7EzYfU0gWO) | [When Feeling Blue](https://open.spotify.com/album/2eya6umAHIPoMyInrYqhuA) | 2:24 | 2022-08-01 |  |
-| [When the party’s over](https://open.spotify.com/track/6sultjk9NPbhhoRz4pR4b1) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:34 | 2022-10-04 |  |
+| [When the party’s over](https://open.spotify.com/track/6sultjk9NPbhhoRz4pR4b1) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:34 | 2022-10-04 | 2022-10-15 |
 | [When We Beat The Odds](https://open.spotify.com/track/4CREi2evM6PjRU6Y6lIYIT) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [When We Beat The Odds](https://open.spotify.com/album/7nkoWfuYeZpqK5pkjO4QLF) | 2:00 | 2022-08-01 |  |
 | [Where Is My Mind](https://open.spotify.com/track/4jNQkWhuzqrbqQuqanFFJ6) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Novö Piano](https://open.spotify.com/album/21wMUhXhWLew2zsWQhlYEM) | 2:45 | 2022-08-01 | 2022-09-13 |
 | [White Rainbows](https://open.spotify.com/track/12GjImTriQlqvIFRspyM4S) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [White Rainbows](https://open.spotify.com/album/59QZcuW3mwWyQ2WUYBOfkt) | 3:48 | 2022-10-04 |  |

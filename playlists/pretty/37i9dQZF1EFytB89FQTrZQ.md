@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,927 likes - 229 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,929 likes - 228 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,12 +230,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 220 | [Sex Symbol](https://open.spotify.com/track/1U2Cfc7ZXR6Y2fp2mXXR14) | [Aerolineas Federales](https://open.spotify.com/artist/006cVD18msU9HBrB4aNS5Z) | [Tomando Tierra](https://open.spotify.com/album/5KZ3cbWHSm5W8eh8Vk7szF) | 2:02 |
 | 221 | [Whatever](https://open.spotify.com/track/5ewpMzqrq5uxeiGqw9tElj) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:44 |
 | 222 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
-| 223 | [Eat You Up](https://open.spotify.com/track/5EfC8dEGT6hRMpvBkVoMiX) | [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC) | [With Love \(Deluxe\)](https://open.spotify.com/album/5Dv1bxV6dqdgmzUZnnJITh) | 3:36 |
-| 224 | [Rope](https://open.spotify.com/track/4PCNyUNFulAzqTjBpzI6qC) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:20 |
-| 225 | [Hickie](https://open.spotify.com/track/1ZA1fwhekZjbYO8QOaoSnG) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 3:03 |
-| 226 | [Tonight](https://open.spotify.com/track/0dPs8Le0nC7Eh1SlT4vVuS) | [Dez Nado](https://open.spotify.com/artist/7IeTReW9HcBtdo4FJYjjHl) | [Lpyh Ssnz: The 90s Tape](https://open.spotify.com/album/2RH3FeSYNMVmc5Al6R8kzW) | 4:07 |
-| 227 | [Gibberish \- Interlude](https://open.spotify.com/track/0sNDEtZhITaIen9oOkDMp8) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:19 |
-| 228 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
-| 229 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
+| 223 | [Rope](https://open.spotify.com/track/4PCNyUNFulAzqTjBpzI6qC) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:20 |
+| 224 | [Hickie](https://open.spotify.com/track/1ZA1fwhekZjbYO8QOaoSnG) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 3:03 |
+| 225 | [Tonight](https://open.spotify.com/track/0dPs8Le0nC7Eh1SlT4vVuS) | [Dez Nado](https://open.spotify.com/artist/7IeTReW9HcBtdo4FJYjjHl) | [Lpyh Ssnz: The 90s Tape](https://open.spotify.com/album/2RH3FeSYNMVmc5Al6R8kzW) | 4:07 |
+| 226 | [Gibberish \- Interlude](https://open.spotify.com/track/0sNDEtZhITaIen9oOkDMp8) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:19 |
+| 227 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
+| 228 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc3NjE4ODUsMDAwMDAwMDBjZTVmZDkzYmY3OGQzMjhlMmMzNGVlMWQ0ZDdiN2YxMw==`
+Snapshot ID: `Mjc3NjMzMjUsMDAwMDAwMDAwNzJkMWRlNzY4OTcyMjNkMTAyNmM0YjQ3MDU3MmFjNg==`

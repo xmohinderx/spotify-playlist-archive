@@ -1566,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/6z7Nn8aGTbb3Yek7Alrkbj"
+      },
+      "artists": [
+        {
+          "name": "Sarah Ross",
+          "url": "https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190410,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/3S5Y7dgTwR6AFgRM5UQaGk"
+    },
+    {
+      "album": {
         "name": "Hick Hop 101",
         "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
       },

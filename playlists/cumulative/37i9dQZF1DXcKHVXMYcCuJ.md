@@ -4,7 +4,7 @@
 
 > An introduction to some of alt\-rock’s most seminal tracks.
 
-247 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+248 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,8 +141,9 @@
 | [Mother's Day](https://open.spotify.com/track/7jOBnNKTGY10qWnldm1cZ1) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [The Proximity Effect](https://open.spotify.com/album/2wOGHVmIgLQltkg38bGsVL) | 3:46 | 2021-12-15 | 2022-07-26 |
 | [Moving Out](https://open.spotify.com/track/6weN1MT4nIA3CYt2oO0mk4) | [West Thebarton](https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv) | [Different Beings Being Different](https://open.spotify.com/album/6c66rOTBmzqYLdmE1suvBd) | 2:52 | 2021-12-15 |  |
 | [My Friends](https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [My Friends](https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG) | 2:55 | 2021-12-15 | 2022-10-12 |
-| [My Heart](https://open.spotify.com/track/297ObeqSx8qhJYIytrusWm) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/4NYQn71dwwpIMO1qXqHshb) | 3:47 | 2022-10-11 |  |
+| [My Heart](https://open.spotify.com/track/297ObeqSx8qhJYIytrusWm) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/4NYQn71dwwpIMO1qXqHshb) | 3:47 | 2022-10-11 | 2022-10-15 |
 | [My Heart](https://open.spotify.com/track/52Je6f392v0tFXm85fboJY) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/7xnNNcgoIX0LJu45dQJiZs) | 3:47 | 2022-04-15 | 2022-04-21 |
+| [My Heart](https://open.spotify.com/track/79P7jTFo4tvUDG8PbICO6b) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/0jd5yRLuxLK5njzgpsnzxq) | 3:47 | 2022-10-11 |  |
 | [My Name Is Trouble](https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM) | [Nightmare Of You](https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc) | [Nightmare of You](https://open.spotify.com/album/44sKToWaRjNlnYY5PggLXD) | 4:00 | 2022-01-11 | 2022-07-29 |
 | [Narrow](https://open.spotify.com/track/4ofBUvD4rrcEbDq7d8VTvv) | [Chokebore](https://open.spotify.com/artist/5BiMbLBGVfPD3SG12obiNj) | [A Taste For Bitters](https://open.spotify.com/album/2WJMvI72kgyx7hex8MogVQ) | 2:43 | 2022-02-02 | 2022-07-17 |
 | [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 | 2021-12-15 |  |

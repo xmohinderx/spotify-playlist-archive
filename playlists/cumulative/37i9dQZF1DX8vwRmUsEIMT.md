@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Raye
 
-442 songs - 23 hr 50 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
+444 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 | 2022-08-18 | 2022-09-02 |
 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-26 | 2022-09-21 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-02 | 2022-06-25 |
+| [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 |  |
 | [Call Me](https://open.spotify.com/track/4eRutShPXNfRyPFpiUyk8I) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/1JCbimAC11Q9dyaMk1dz0U) | 2:57 | 2022-09-29 |  |
 | [Call Me](https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Call Me](https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn) | 3:28 | 2022-06-16 | 2022-07-08 |
 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 | 2022-10-13 |  |
@@ -120,7 +121,8 @@
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-01 | 2022-09-23 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 |  |
 | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/album/19fnNOXXg6bPm8TzgQyLwn) | 3:01 | 2022-06-24 | 2022-07-29 |
-| [dear god](https://open.spotify.com/track/0gYCvYlev8i1e7Hj1SpSWW) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dear god](https://open.spotify.com/album/3UeI2SPgnM2NlSz89wZkHX) | 2:12 | 2022-10-13 |  |
+| [dear god](https://open.spotify.com/track/0gYCvYlev8i1e7Hj1SpSWW) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dear god](https://open.spotify.com/album/3UeI2SPgnM2NlSz89wZkHX) | 2:12 | 2022-10-13 | 2022-10-15 |
+| [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2022-10-13 |  |
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-05-26 | 2022-06-22 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-16 | 2022-07-29 |
 | [Dial Two Seven](https://open.spotify.com/track/1ExuXW8RmcD8UU86ymIDWf) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Dial Two Seven](https://open.spotify.com/album/3b2AbGIyZof8tEwJdDehN7) | 3:02 | 2022-08-18 | 2022-09-09 |

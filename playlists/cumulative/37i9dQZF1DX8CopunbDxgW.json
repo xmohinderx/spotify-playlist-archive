@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The essential indie dance, featuring Bicep",
+  "description": "The essential indie dance, featuring Mafro",
   "name": "metropolis",
   "published_playlist_ids": [
     "6jBSzkiPzz4z9EGB6tLdZW"
@@ -8872,6 +8872,24 @@
     },
     {
       "album": {
+        "name": "Revolving",
+        "url": "https://open.spotify.com/album/5e2NRFbu2mYDhCPfBbVhGF"
+      },
+      "artists": [
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297606,
+      "name": "Revolving",
+      "url": "https://open.spotify.com/track/2NmFvSMwXVq96rjluHhPyR"
+    },
+    {
+      "album": {
         "name": "Ricercar",
         "url": "https://open.spotify.com/album/3pJakXDJwdIQLaIZsZVywa"
       },
@@ -10951,7 +10969,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 189939,
       "name": "There's Only One (feat. Genesis Owusu)",
       "url": "https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg"

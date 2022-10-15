@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-116 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+117 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Nuit américaine](https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Nuit américaine](https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo) | 4:01 | 2022-06-24 |  |
 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 | 2022-06-24 |  |
 | [Od'e](https://open.spotify.com/track/6BWGXZi3hVmSOpAeDIexfi) | [Amarula Café Club](https://open.spotify.com/artist/5ESiClFEihXPGrgq9t36Gd) | [Od'e](https://open.spotify.com/album/1CDTfbRnxNry1wFOrpDxhT) | 2:48 | 2022-06-24 |  |
-| [One More](https://open.spotify.com/track/68PHyiXuEvfC5y75346tGx) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [One More](https://open.spotify.com/album/1NDD9D0teHWXmLkZGF0Cnc) | 3:18 | 2022-06-24 |  |
+| [One More](https://open.spotify.com/track/1V9gmvgZao4w35fRR2HEXX) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [One More](https://open.spotify.com/album/3lTa4RymzaLm4pPHsDIDfA) | 3:18 | 2022-09-23 |  |
+| [One More](https://open.spotify.com/track/68PHyiXuEvfC5y75346tGx) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [One More](https://open.spotify.com/album/1NDD9D0teHWXmLkZGF0Cnc) | 3:18 | 2022-06-24 | 2022-10-15 |
 | [Oulala](https://open.spotify.com/track/1RDA0pMc3xtJDhugv492iK) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:35 | 2022-06-24 |  |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-06-24 |  |
 | [Papier foil](https://open.spotify.com/track/0OucVUxG7ZgIsOW8LROcTA) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:43 | 2022-06-24 |  |

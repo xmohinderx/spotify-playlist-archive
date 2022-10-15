@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-576 songs - 1 day 8 hr 6 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
+577 songs - 1 day 8 hr 9 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-12-07 |  |
 | [Colors](https://open.spotify.com/track/6Xw8CSd3R6xqCmHHB9pBhb) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt) | 3:38 | 2022-03-24 | 2022-04-16 |
 | [Come N Goes](https://open.spotify.com/track/5FANrx0S8OLZrHiG8OpvVB) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:31 | 2022-02-03 | 2022-05-02 |
+| [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 | 2022-10-07 |  |
 | [Control](https://open.spotify.com/track/4uUqBEXqsx3JJ90aZXPDrs) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [NOW : Who we are facing](https://open.spotify.com/album/0yO5og1avvyKG0sf83iZ3M) | 3:13 | 2022-03-24 | 2022-04-21 |
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-03-24 | 2022-03-27 |
 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-12-07 |  |
@@ -242,7 +243,7 @@
 | [Highway](https://open.spotify.com/track/6g90q5OxuYT6FY5POVLbII) | [Boyz\_moon](https://open.spotify.com/artist/5aAxIm2TceztaZpbQnrxtB) | [22.5 Night&Day](https://open.spotify.com/album/4GurrYb465ebuulUNrGOP4) | 3:10 | 2022-03-24 | 2022-04-16 |
 | [HIGHWAY](https://open.spotify.com/track/2lMh4b9vHwfjkErdLrrwEx) | [KNK](https://open.spotify.com/artist/5zx2slDKDXNn1e6779RzPd) | [KNK AIRLINE](https://open.spotify.com/album/67o91ctnyaMxfi8OSokpcS) | 3:16 | 2022-03-24 | 2022-04-21 |
 | [Highway to Heaven](https://open.spotify.com/track/38dC0QJ7eBKb3F27O0i0LT) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 3:20 | 2022-03-24 | 2022-04-03 |
-| [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-08-12 |  |
+| [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-08-12 | 2022-10-15 |
 | [Hola](https://open.spotify.com/track/71E7R98jeBH5mON043TOIo) | [PRITTI\-G](https://open.spotify.com/artist/6FjPyMdTzb47sM71jLvoWT) | [Hola](https://open.spotify.com/album/4xPlhksZiK4XnubvCvNF5T) | 3:21 | 2022-03-24 | 2022-04-10 |
 | [Hollywood Dreaming](https://open.spotify.com/track/0FZsFe8LMDz2i5bywe6KPU) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1), [MKPBand](https://open.spotify.com/artist/7EvDe1CLV4Mydlm0rOpWS2) | [Hollywood Dreaming](https://open.spotify.com/album/7wK5BDnTw9pj7h1QNERdeN) | 3:01 | 2022-03-24 | 2022-04-18 |
 | [Home](https://open.spotify.com/track/4IYkOXspUW61nJUetcqkpJ) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [EXY](https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:12 | 2022-01-03 | 2022-07-19 |

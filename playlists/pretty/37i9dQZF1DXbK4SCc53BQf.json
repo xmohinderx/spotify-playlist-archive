@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 75058,
+  "num_followers": 75118,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGMwMDAxYzMwNmEwMDdmZjE2MWRiNjZkNWM3NjM4NjU2",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDNiZmJhODBmMzUyMDcwZDI4YzQzYjE3MDBmMDc1NzUz",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -191,6 +191,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Eres Merecedor",
         "url": "https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp"
       },
@@ -207,22 +227,6 @@
       "duration_ms": 221393,
       "name": "Eres Merecedor",
       "url": "https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Tercer Cielo",
-        "url": "https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 219271,
-      "name": "Agua viva",
-      "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -259,6 +263,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Tercer Cielo",
+        "url": "https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 219271,
+      "name": "Agua viva",
+      "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Enamorarme Mas",
         "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 275426,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Si Estoy Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
     },
     {
       "added_at": "2020-11-24 13:23:55",

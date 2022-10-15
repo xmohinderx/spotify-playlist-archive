@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,856 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,946 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 41 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 |
 | 42 | [シャルル](https://open.spotify.com/track/5ixum2qfNvOkG7CsC1SvJk) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [シャルル](https://open.spotify.com/album/0bsDcu5BN7FA222wV07gO1) | 3:50 |
 | 43 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 |
-| 44 | [原罪と踊る](https://open.spotify.com/track/6Eo9ipFfhBKebfGa49NwTm) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [原罪と踊る](https://open.spotify.com/album/270nCUHb0eiHvRIH3wzPmq) | 3:22 |
+| 44 | [Original Sin](https://open.spotify.com/track/3txAYMcl99O9AQ4buBkWHN) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [Original Sin](https://open.spotify.com/album/0hrn7XIBUgkz5NWX9WGL9J) | 3:22 |
 | 45 | [阿修羅ちゃん](https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:15 |
 | 46 | [Identity](https://open.spotify.com/track/5MiihS6toSrDlwen3p6Slp) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Identity](https://open.spotify.com/album/3WmF5fA11eq8wIjoj7Hmk0) | 2:41 |
 | 47 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
-| 48 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
-| 49 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
+| 48 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
+| 49 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
 | 50 | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 |
 
-Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMGIyZmFkNmM5OWRiNWJmMWViZDYzYjkzNGJhNDI4ZTBl`
+Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMDg0OGEzY2MxMzA5OTkyNzQ2MjhmYjY1YTRiZDJjZTlh`

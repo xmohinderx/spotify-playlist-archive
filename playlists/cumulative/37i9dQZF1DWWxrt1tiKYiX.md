@@ -2,7 +2,7 @@
 
 ### [Unplugged](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Stripped\-down versions of all your favorite pop hits\. Cover: Demi Lovato
+> Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
 131 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
@@ -125,7 +125,7 @@
 | [Sweet Talker \- Acoustic](https://open.spotify.com/track/16pWf68x1CzECOHELpeH0S) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sweet Talker \(Acoustic\)](https://open.spotify.com/album/40XJMYKd3XQ9h8kVJqZUs7) | 3:01 | 2022-01-28 | 2022-08-06 |
 | [The Bones \- Acoustic](https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:37 | 2022-01-28 |  |
 | [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/71OIThiJmbKLnqbmNAAREk) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx) | 2:44 | 2022-01-28 |  |
-| [To Be Young \(feat\. Doja Cat\) \- Acoustic](https://open.spotify.com/track/3iSu8rkvERzl5iY5GEGE1h) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\) \[Acoustic\]](https://open.spotify.com/album/55S3bs4sdQeFuHdTXiLQ9G) | 3:13 | 2022-01-28 |  |
+| [To Be Young \(feat\. Doja Cat\) \- Acoustic](https://open.spotify.com/track/3iSu8rkvERzl5iY5GEGE1h) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\) \[Acoustic\]](https://open.spotify.com/album/55S3bs4sdQeFuHdTXiLQ9G) | 3:13 | 2022-01-28 | 2022-10-15 |
 | [Too Close \- Live Acoustic Version](https://open.spotify.com/track/51AU7hD7lbLeEppubr1JdS) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close \(Live Acoustic\)](https://open.spotify.com/album/7hKBW8gY2UEGd4Ng6s9SSP) | 3:11 | 2022-01-28 |  |
 | [Train Wreck \- Acoustic](https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Train Wreck \(Acoustic\)](https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ) | 3:29 | 2022-01-28 |  |
 | [Trampoline \- Stripped](https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Trampoline \(Stripped\)](https://open.spotify.com/album/6RPcqbYgcBZw5pSkPfnALB) | 3:38 | 2022-01-28 |  |

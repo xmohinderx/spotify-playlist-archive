@@ -183,10 +183,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 224181,
       "name": "Alma",
       "url": "https://open.spotify.com/track/1mj11fRF0uL9ZBL496wgb6"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/56CovnRrY1xrrMSWLkk0L6"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        },
+        {
+          "name": "Karelle Tremblay",
+          "url": "https://open.spotify.com/artist/5DPtq2vA56WITNtLe8dCp6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224181,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/5wf1TXbl9KVasQjIbdDB39"
     },
     {
       "album": {
@@ -419,7 +441,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 206934,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4r3dW2GaTXSMBOMxtnC2X0"
@@ -1351,10 +1373,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 249146,
       "name": "Fi\u00e8vre",
       "url": "https://open.spotify.com/track/0i52Kimd9JK0cYbbqBYR6R"
+    },
+    {
+      "album": {
+        "name": "Fi\u00e8vre",
+        "url": "https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249146,
+      "name": "Fi\u00e8vre",
+      "url": "https://open.spotify.com/track/1tchJRSZSBDW1SONihk5pG"
     },
     {
       "album": {
@@ -2050,6 +2090,24 @@
     },
     {
       "album": {
+        "name": "Keep Hiding (way back)",
+        "url": "https://open.spotify.com/album/68ra6iNQK40XmAW9TGh5XF"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177669,
+      "name": "Keep Hiding (way back)",
+      "url": "https://open.spotify.com/track/24jKuK0iTLqc6Fbywv1pYu"
+    },
+    {
+      "album": {
         "name": "Entre mes insomnies",
         "url": "https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4"
       },
@@ -2391,6 +2449,24 @@
     {
       "album": {
         "name": "Maybe",
+        "url": "https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193941,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE"
+    },
+    {
+      "album": {
+        "name": "Maybe",
         "url": "https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY"
       },
       "artists": [
@@ -2401,7 +2477,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 193941,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij"

@@ -4,7 +4,7 @@
 
 > Classic soft rock\. For that free and easy feeling.
 
-100 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/08neF8htQhOTNoWwHUhonx)
+101 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/08neF8htQhOTNoWwHUhonx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [On the Beach](https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:41 | 2021-04-22 |  |
 | [One More Look At The Night](https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8) | 3:47 | 2021-04-22 |  |
 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 | 2021-04-22 |  |
-| [Reminiscing \- 2002 Digital Remaster](https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [The Definitive Collection](https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN) | 4:09 | 2021-04-22 |  |
+| [Reminiscing \- 2002 Digital Remaster](https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [The Definitive Collection](https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN) | 4:09 | 2021-04-22 | 2022-10-15 |
+| [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 | 2021-04-22 |  |
 | [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 | 2021-04-22 |  |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2021-04-22 |  |
 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 | 2021-04-22 |  |

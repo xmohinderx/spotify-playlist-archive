@@ -591,7 +591,7 @@
     {
       "album": {
         "name": "El Wuero",
-        "url": "https://open.spotify.com/album/3Ihn94Nnln08fB5n29C6jq"
+        "url": "https://open.spotify.com/album/5eeF5bNOku4AVbA0JQVj74"
       },
       "artists": [
         {
@@ -606,6 +606,28 @@
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205677,
+      "name": "El Wuero",
+      "url": "https://open.spotify.com/track/3MnWZrI41jCRsJ26OFZs6f"
+    },
+    {
+      "album": {
+        "name": "El Wuero",
+        "url": "https://open.spotify.com/album/3Ihn94Nnln08fB5n29C6jq"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 205677,
       "name": "El Wuero",
       "url": "https://open.spotify.com/track/7tFtEGmpRkveItiDU9ezWO"

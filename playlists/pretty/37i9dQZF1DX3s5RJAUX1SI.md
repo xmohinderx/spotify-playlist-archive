@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,996 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,039 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 56 | [Si Nos Dejan](https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Si Nos Dejan](https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ) | 2:32 |
 | 57 | [Positivo \- Versión Acústica](https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Positivo](https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM) | 3:07 |
 | 58 | [Cobarde \- Spotify Singles](https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:11 |
-| 59 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
-| 60 | [Me Estoy Enamorando \- Versión Pop](https://open.spotify.com/track/1UlqW6rB2SqlsceCddJOgd) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Vozes](https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR) | 3:28 |
+| 59 | [Me Estoy Enamorando \- Versión Pop](https://open.spotify.com/track/1UlqW6rB2SqlsceCddJOgd) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Vozes](https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR) | 3:28 |
+| 60 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
 | 61 | [Como Tu Mujer \- Pop](https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:20 |
 | 62 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
 | 63 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 94 | [Contigo \- Spotify Sessions](https://open.spotify.com/track/3YucBaaVFM1Rksxn3EEv7B) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Spotify Sessions](https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11) | 3:36 |
 | 95 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
 | 96 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
-| 97 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
-| 98 | [Niña De Mi Corazón \- Versión Acústica](https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mis Canciones..\. Ustedes Y Yo](https://open.spotify.com/album/1IyqrlZOjdiOqFw7732Dfr) | 3:20 |
-| 99 | [Desvelado](https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl) | [Mau Soles](https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77) | [Canciones](https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X) | 3:36 |
+| 97 | [Niña De Mi Corazón \- Versión Acústica](https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mis Canciones..\. Ustedes Y Yo](https://open.spotify.com/album/1IyqrlZOjdiOqFw7732Dfr) | 3:20 |
+| 98 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
+| 99 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
 | 100 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 |
 
-Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDk4ZTJmMGE4YmY1YTUzOWY5M2ZhN2I4MTBkZTUxMTcz`
+Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDY2NzBjNjA4YzBiZjVjYWZiOGQyYjZmMGFmNjcxOWE0`

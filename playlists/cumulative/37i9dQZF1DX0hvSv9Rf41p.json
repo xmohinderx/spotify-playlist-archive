@@ -230,6 +230,28 @@
     },
     {
       "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/2NUBWk4THrisiVBegau8M8"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Willone",
+          "url": "https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/1Ro0iWE2IjxZqwM6i0CgTL"
+    },
+    {
+      "album": {
         "name": "As Above So Below",
         "url": "https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG"
       },
@@ -1247,6 +1269,36 @@
       "duration_ms": 199285,
       "name": "Colorblind (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
+    },
+    {
+      "album": {
+        "name": "Colors (feat. Eyelar) [Remixes]",
+        "url": "https://open.spotify.com/album/3Lo6HZ20Rn6GdH0X9EZ14M"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        },
+        {
+          "name": "Reaper",
+          "url": "https://open.spotify.com/artist/2NsqUvmzQwpQZDgtGZjEqx"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191120,
+      "name": "Colors (feat. Eyelar) - REAPER Remix",
+      "url": "https://open.spotify.com/track/6g17XDgLWaPEIj6vcDQCCA"
     },
     {
       "album": {
@@ -3635,7 +3687,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 253090,
       "name": "LIES",
       "url": "https://open.spotify.com/track/0iNNtj9y13dtHMPJDl6JOW"
@@ -5089,7 +5141,7 @@
           "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240000,
@@ -5159,7 +5211,7 @@
           "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204500,
@@ -6354,6 +6406,28 @@
     },
     {
       "album": {
+        "name": "Stop Thinking (feat. Lights)",
+        "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292633,
+      "name": "Stop Thinking (feat. Lights)",
+      "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
+    },
+    {
+      "album": {
         "name": "Suffer (feat. Elle Vee)",
         "url": "https://open.spotify.com/album/0ClwugGUZDLLGekquQgeyd"
       },
@@ -7037,7 +7111,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 133274,
       "name": "Trials",
       "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
@@ -7063,6 +7137,32 @@
       "duration_ms": 133274,
       "name": "Trials (feat. IDK)",
       "url": "https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt"
+    },
+    {
+      "album": {
+        "name": "Trials NGHTMRE & SPACE LACES Club Mix",
+        "url": "https://open.spotify.com/album/5BhTksD3LCLkchjrS2I5HZ"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171470,
+      "name": "Trials - NGHTMRE & SPACE LACES Club Mix",
+      "url": "https://open.spotify.com/track/4Kh9qDoM7pDAYI5M0uAC8p"
     },
     {
       "album": {

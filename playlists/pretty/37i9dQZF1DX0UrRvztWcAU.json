@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1331489,
+  "num_followers": 1331487,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0NDAwMCwwMDAwMDAwMDk2N2QwZGI5NWRjNzQ0MzM5ODMyMGU3OWNhN2U0Yjg1",
+  "snapshot_id": "MTY2NTE0NDAwMCwwMDAwMDAwMDBkNTU3OGY5MDkzMWE3OTNkODI1ZThmODAyMjQ5ZWNj",
   "tracks": [
     {
       "added_at": "2022-10-07 12:00:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "Night Shades",
         "url": "https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 215693,
       "name": "You Make Me Feel... (feat. Sabi)",
       "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street - Stereo",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Meet The Vamps",
         "url": "https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 182826,
       "name": "Somebody To You",
       "url": "https://open.spotify.com/track/2BWWsCwuHAZFE1scLyP6Qe"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1779,6 +1779,38 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Say Love",
+      "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "Feels So Good",
         "url": "https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw"
       },
@@ -1807,22 +1839,6 @@
       "duration_ms": 217419,
       "name": "Trumpets",
       "url": "https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "Say Love",
-      "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1875,22 +1891,6 @@
       "duration_ms": 182800,
       "name": "17",
       "url": "https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "Perfect to Me",
+        "url": "https://open.spotify.com/album/53WGU9U5hmgWPUdfNitaVO"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Perfect to Me",
+      "url": "https://open.spotify.com/track/0DC7Zs2qvAbNK1owWQ4mlL"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 232826,
       "name": "When You're Looking Like That - Single Remix",
       "url": "https://open.spotify.com/track/5t3oszlshIPTzpAwcCMqgw"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "Perfect to Me",
-        "url": "https://open.spotify.com/album/53WGU9U5hmgWPUdfNitaVO"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Perfect to Me",
-      "url": "https://open.spotify.com/track/0DC7Zs2qvAbNK1owWQ4mlL"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "Heaven On Earth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
+      "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "Bigger Than",
         "url": "https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 208013,
       "name": "Bigger Than",
       "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "Heaven On Earth (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
-      "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "The Essential Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 171785,
       "name": "Hold The Line (feat. A R I Z O N A)",
       "url": "https://open.spotify.com/track/6EBlOYNcZ8MrdEov9lEdV6"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "The Essential Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "single.",
+        "url": "https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak"
+      },
+      "artists": [
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Your Side Of The Bed",
+      "url": "https://open.spotify.com/track/3PWKPX3YJAHBL8JozsWTMC"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "Bones (feat. OneRepublic)",
         "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 205792,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "single.",
-        "url": "https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak"
-      },
-      "artists": [
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Your Side Of The Bed",
-      "url": "https://open.spotify.com/track/3PWKPX3YJAHBL8JozsWTMC"
     },
     {
       "added_at": "2022-10-07 12:00:00",

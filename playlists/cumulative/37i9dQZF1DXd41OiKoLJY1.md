@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: MI MI, Artwork: Isu Kim
 
-602 songs - 1 day 12 hr 29 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+603 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Baliw](https://open.spotify.com/track/4XSi5TLRkoPuM5Oe1ZjsTj) | [$aint Pxpe](https://open.spotify.com/artist/6Ym0aSumqoa7GnFGtk4nch) | [Baliw](https://open.spotify.com/album/6AZaZo6NY204NAjktqtHY4) | 3:09 | 2022-07-14 | 2022-07-22 |
 | [BANDZ](https://open.spotify.com/track/3mPR8PX2gsKpDZBxOTWDV5) | [february bank](https://open.spotify.com/artist/69dHAdz8lUpJir75KFfdlY), [TWOPAS](https://open.spotify.com/artist/0q25IITrlTYwS7x3Gv23Af), [RETROSPEKT](https://open.spotify.com/artist/5D3QGOfBenfAp9BJG4rCeR) | [BANDZ](https://open.spotify.com/album/5fs4Lno4SBDNNj2ijH9giN) | 3:04 | 2022-10-06 | 2022-10-14 |
 | [BANG](https://open.spotify.com/track/7fpM0yEqXzIUwUTPIYAkT7) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [BANG](https://open.spotify.com/album/2LMtd1kV7sobFRQkgExSob) | 3:42 | 2022-02-24 | 2022-04-01 |
+| [BANGON](https://open.spotify.com/track/74LYPFrmfXkZuB90qfMAAM) | [$leepyHead](https://open.spotify.com/artist/1yTuGfjk4ijlf6W7NjpOlm) | [BANGON](https://open.spotify.com/album/7A3odyLiefo13WCMwnv8nm) | 2:16 | 2022-10-13 |  |
 | [BASSLINES](https://open.spotify.com/track/5BkhuNo7MDou8qb17pnUc3) | [Bugs](https://open.spotify.com/artist/6G9MlqHkHJ1PaDShA2ZiAN) | [BASSLINES](https://open.spotify.com/album/3IBwBoYu09Z7UMAysw0OSk) | 2:24 | 2022-06-23 | 2022-09-09 |
 | [Bawal Ang Malisya](https://open.spotify.com/track/31Ox4uUKvZ6UthsV2tpkNi) | [Celine Laroza](https://open.spotify.com/artist/0qzPP9jEPlte12vBbIK02n) | [Bawal Ang Malisya](https://open.spotify.com/album/6k3BBW0gIbLeMYbwGQK9vl) | 3:06 | 2022-01-20 | 2022-03-11 |
 | [Be Someone](https://open.spotify.com/track/69QjB2LJpBD0onrdYYouGZ) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Be Someone](https://open.spotify.com/album/1tb0XTp0D2mMaF0CHhSQXS) | 2:20 | 2022-05-19 | 2022-06-03 |

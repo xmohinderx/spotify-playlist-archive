@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "'Parekh & Singh' are on the cover of IndiEnglish. Stream now!",
+  "description": "'Frizzell D'souza' is on the cover of IndiEnglish. Stream now!",
   "name": "IndiEnglish",
   "published_playlist_ids": [
     "4hbRgfKnTzMsI4t17faPau"
@@ -1071,6 +1071,24 @@
     {
       "album": {
         "name": "Demons",
+        "url": "https://open.spotify.com/album/4bpvbIUSnxOGTlYt4iazyz"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298173,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/2hXrC6kBb64pbXesnK6BoA"
+    },
+    {
+      "album": {
+        "name": "Demons",
         "url": "https://open.spotify.com/album/3GfYjzOZ4XXKgsXnwzl17V"
       },
       "artists": [
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 298173,
       "name": "Impact",
       "url": "https://open.spotify.com/track/4dkUcbDgKJ7f4PQRlpSSOQ"
@@ -1364,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Caught in a Parade",
+        "url": "https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG"
+      },
+      "artists": [
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259393,
+      "name": "Makin' My Move",
+      "url": "https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2"
+    },
+    {
+      "album": {
         "name": "Makin' My Move",
         "url": "https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1"
       },
@@ -1375,10 +1411,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 259393,
       "name": "Makin' My Move",
       "url": "https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD"
+    },
+    {
+      "album": {
+        "name": "The Hills Know Of You",
+        "url": "https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn"
+      },
+      "artists": [
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB"
     },
     {
       "album": {
@@ -1397,10 +1451,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 249845,
       "name": "Mayflower",
       "url": "https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt"
+    },
+    {
+      "album": {
+        "name": "Caught in a Parade",
+        "url": "https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG"
+      },
+      "artists": [
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        },
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249845,
+      "name": "Mayflower",
+      "url": "https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW"
     },
     {
       "album": {

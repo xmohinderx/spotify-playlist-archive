@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 22825,
+  "num_followers": 22844,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGVhY2MyYmMyMDM4NzVlM2MzZGI4MzQxOTg0ZmZkNzc1",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDcyMGMzMTQ2ODg2ODAyNjIzOTc1NTFlNTE1M2Q4NGI1",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Swagg Talk",
+        "url": "https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2"
+      },
+      "artists": [
+        {
+          "name": "D4M $loan",
+          "url": "https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Swagg Talk",
+      "url": "https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
         "url": "https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K"
       },
@@ -655,26 +671,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Unavailable",
-        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        }
-      ],
-      "duration_ms": 201459,
-      "name": "Unavailable",
-      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/1YAwpQCn7QlomW7PFBOA6B"
       },
@@ -691,6 +687,26 @@
       "duration_ms": 144065,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/5bS6VIBCYdi9QL9T1upn3G"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Unavailable",
+        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Unavailable",
+      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -799,26 +815,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Heartbroken Twenty Twenty",
-        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
-      },
-      "artists": [
-        {
-          "name": "Mike Zombie",
-          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "Heartbroken Twenty Twenty",
-      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Lei do Baile",
         "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
       },
@@ -859,18 +855,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Swagg Talk",
-        "url": "https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2"
+        "name": "Heartbroken Twenty Twenty",
+        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
       },
       "artists": [
         {
-          "name": "D4M $loan",
-          "url": "https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG"
+          "name": "Mike Zombie",
+          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Swagg Talk",
-      "url": "https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9"
+      "duration_ms": 171940,
+      "name": "Heartbroken Twenty Twenty",
+      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
         "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 148833,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
       "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -983,6 +983,26 @@
       "duration_ms": 184058,
       "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
       "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1047,34 +1067,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Give It 2 Em (Remix)",
-        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        },
-        {
-          "name": "DJ TBoogie",
-          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Give It 2 Em - Remix",
-      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Snack Time",
         "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
       },
@@ -1111,6 +1103,34 @@
       "duration_ms": 109931,
       "name": "Relax Your Mind",
       "url": "https://open.spotify.com/track/2BtUcb6aLrsYnsHuqieMY4"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Give It 2 Em (Remix)",
+        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        },
+        {
+          "name": "DJ TBoogie",
+          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "Give It 2 Em - Remix",
+      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1267,26 +1287,6 @@
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "African Sun (Remix)",
-        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        },
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "African Sun - Remix",
-      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1703,18 +1703,34 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+        "name": "Bombtrack (Roska Remix)",
+        "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
       },
       "artists": [
         {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+          "name": "andrew",
+          "url": "https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr"
+        },
+        {
+          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
+          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
+        },
+        {
+          "name": "PEAVIS",
+          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
+        },
+        {
+          "name": "Saint Vega",
+          "url": "https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc"
+        },
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
         }
       ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+      "duration_ms": 268057,
+      "name": "Bombtrack (Roska Remix)",
+      "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1751,34 +1767,34 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Bombtrack (Roska Remix)",
-        "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
       },
       "artists": [
         {
-          "name": "andrew",
-          "url": "https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr"
-        },
-        {
-          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
-          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
-        },
-        {
-          "name": "PEAVIS",
-          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
-        },
-        {
-          "name": "Saint Vega",
-          "url": "https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc"
-        },
-        {
-          "name": "Roska",
-          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
         }
       ],
-      "duration_ms": 268057,
-      "name": "Bombtrack (Roska Remix)",
-      "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
+      },
+      "artists": [
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        }
+      ],
+      "duration_ms": 123650,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1799,22 +1815,6 @@
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3EinJKmldBC1cQ9rVDiHEp"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
-      },
-      "artists": [
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        }
-      ],
-      "duration_ms": 123650,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
     },
     {
       "added_at": "2022-09-30 04:01:00",

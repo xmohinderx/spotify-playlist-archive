@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,375 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,409 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 24 | [Harsh](https://open.spotify.com/track/4kQ83UaTyWGNW935WsE6xm) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Harsh](https://open.spotify.com/album/6OF83X7IwBRBP3SXQkMUuR) | 2:14 |
 | 25 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 26 | [Miles Away](https://open.spotify.com/track/5lrOPlJEIYYrecwt5kgj8P) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Miles Away](https://open.spotify.com/album/5ttHzLR58uxppFPtPdQCTK) | 4:45 |
-| 27 | [Silence](https://open.spotify.com/track/2o9l8P2roRBaTUK3TpuDbg) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Silence](https://open.spotify.com/album/3HsB6Zu84OqoJH9HfUQLdl) | 4:04 |
+| 27 | [Silence](https://open.spotify.com/track/6IAgGNsx1TSppM1g2ig4Il) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Silence](https://open.spotify.com/album/0xZA75KUxVBNV4Nwz2ni1Y) | 4:04 |
 | 28 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 |
 | 29 | [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 |
 | 30 | [I Never Danced](https://open.spotify.com/track/5cUsHnbf2tthokeAMQR5km) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [I Never Danced](https://open.spotify.com/album/1gglryfErGNk6ZiuIPb2u7) | 2:55 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 62 | [Someone's Daughter](https://open.spotify.com/track/0EnyrELYciaIPQCQKdElAz) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/09S56ScuJckcQwKscgYn3k) | 3:32 |
 | 63 | [Rest](https://open.spotify.com/track/1yxiUqnKMOBKtMa3qHme3V) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [I Have Hope](https://open.spotify.com/album/4nepn7zOSio2f9VYWBMsyy) | 2:31 |
 | 64 | [Mother In The Sky](https://open.spotify.com/track/7fyX5m7szAoc3xwgA8EbsL) | [Brigid Mae Power](https://open.spotify.com/artist/4uBunSqfCPl9OrLhRifPwK) | [Mother In The Sky](https://open.spotify.com/album/15NqFyaEbqXbxXReanWTyv) | 3:35 |
-| 65 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn) | 4:02 |
+| 65 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/0NsVmoq9k7ZgRRHYaWGnp4) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/7AEDoJS05ptPYwehCkijnT) | 4:02 |
 | 66 | [I'll Be Fine](https://open.spotify.com/track/6hx56UpTxacCNBHR2iDOwN) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [I'll Be Fine](https://open.spotify.com/album/72ngbBpDHcAAzFGXJKQ4DE) | 4:08 |
 | 67 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 |
 | 68 | [Company Car](https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Cubicle](https://open.spotify.com/album/1AZnBpcbI5gTWkQlqoIhy3) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 |
 | 80 | [Dream State](https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Dream State](https://open.spotify.com/album/6cdULH9wOqEHIfsOVcJkPX) | 3:27 |
 
-Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMGMzZGE0OTgxMmQ2MWI3OTViZjY1ZjJlMWUzODBjY2Yx`
+Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMDM4Yzk1OWY3MWI3YTJiMmY4NjhmYTlhMTkwM2E0Mzk4`

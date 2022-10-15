@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,568 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,595 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 38 | [Caught In The Fire](https://open.spotify.com/track/6p2aqe1losjYYviUrj5hEF) | [Date Night](https://open.spotify.com/artist/2Yb3Wq5bwK9HNXvrLKsnVC), [Dion Isaiah](https://open.spotify.com/artist/3voFDI6eBJt7uGs6c91sws) | [Caught In The Fire](https://open.spotify.com/album/7EUjWQ1i8jshFgeznSp4fw) | 3:07 |
 | 39 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 | 40 | [Your Touch](https://open.spotify.com/track/5xRMmHOAQiVJ2QeDv0gTS7) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ) | [Amplified Experiment](https://open.spotify.com/album/4LBXZnLDGPeR45cyr8BxMy) | 2:48 |
-| 41 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 |
+| 41 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 |
 | 42 | [Somethingood](https://open.spotify.com/track/29T6HQEYLAc8syLr3I4SRK) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 6:30 |
 | 43 | [Colors](https://open.spotify.com/track/4475NmYiujibxkv2O7sWED) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Colors](https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV) | 3:08 |
 | 44 | [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 63 | [10 Years](https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/3qSyv2svKxAypN9AsWVm92) | 2:46 |
 | 64 | [Just Like Dope](https://open.spotify.com/track/04nBW6rzcc3cNCljAwDqBx) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Funk Junkie](https://open.spotify.com/album/1IF1xqJ4PlH16gZvMv9iLi) | 4:19 |
 | 65 | [Toast to Life](https://open.spotify.com/track/4r0TXr9QGmepTa2trPcMUf) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx), [Holland Greco](https://open.spotify.com/artist/0iIgks1r7y9TI5y9A6uiXB) | [Toast to Life](https://open.spotify.com/album/306KzxQI9dCLC49xT2FfiE) | 3:40 |
-| 66 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 |
+| 66 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 |
 | 67 | [It's Your Night](https://open.spotify.com/track/488cWCyVFhfZEuNR5BMcL6) | [Space 9](https://open.spotify.com/artist/1iWUVW2PZmzPmhGPyuqkno), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [It's Your Night](https://open.spotify.com/album/5BH4wKbGRKAZpLvKdUHsLf) | 3:22 |
 | 68 | [Second Dinner](https://open.spotify.com/track/1s4dt9PEMuaZqdOIwbJXfo) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:37 |
 | 69 | [Eight\-Nine](https://open.spotify.com/track/4UWWVgwWdWZHJrUoqcwuau) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 79 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 |
 | 80 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDA1ZjA3NmI4Zjg1NDYxNmY3MDBiYjlhNzQ4ZWMyZGUx`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDZkMmFmYzRlMDFlN2YxOTcxY2I5NGFmN2EyY2Y1NWQ0`

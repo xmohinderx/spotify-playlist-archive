@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6161,
+  "num_followers": 6169,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDU1MTUyNTZhNTU3Zjc5M2Q2MzA3NTYyNzQ5MGM3ZTJh",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGYzMmI3MzViNGY1ODU1MmFlZmIyNjk0ODhmZTBiNTNm",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "When The Saints Go Marching In",
-      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz King Of New Orleans",
         "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 192426,
       "name": "Black Bottom Stomp - 2002 Remastered",
       "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "When The Saints Go Marching In",
+      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -155,6 +155,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "1939-1944",
         "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 175600,
       "name": "I Wish I Could Shimmy Like My Sister Kate",
       "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Jazz Foundations Vol. 25",
-        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
-      },
-      "artists": [
-        {
-          "name": "Edmond Hall",
-          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
-        }
-      ],
-      "duration_ms": 274808,
-      "name": "Walkin' The Dog",
-      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -203,18 +203,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+        "name": "Jazz Foundations Vol. 25",
+        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
       },
       "artists": [
         {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+          "name": "Edmond Hall",
+          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+      "duration_ms": 274808,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Al Hirt Collection",
-        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Bill Bailey, Won't You Please Come Home?",
-      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
         "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 389960,
       "name": "Wolverine Blues",
       "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Al Hirt Collection",
+        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Bill Bailey, Won't You Please Come Home?",
+      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -567,6 +567,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "30 Jahre Black Bottom Stompers",
         "url": "https://open.spotify.com/album/622kT8j41pEKEflwXna9lF"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 199550,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -787,6 +787,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Paul Barbarin & His New Orleans Jazz Band",
         "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Best Of Dixieland Volume 2",
         "url": "https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV"
       },
@@ -863,6 +863,38 @@
       "duration_ms": 167627,
       "name": "Lassa's Trombone",
       "url": "https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
+        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "We're Gonna Have Smooth Sailing",
+      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -887,22 +919,6 @@
       "duration_ms": 182906,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
-        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "We're Gonna Have Smooth Sailing",
-      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -935,22 +951,6 @@
       "duration_ms": 213626,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
-        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
+        "name": "50 Classics: The Best Of Dixieland Jazz",
+        "url": "https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "The Muscrat Ramblers",
+          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Carry Me Back to Old Virginia",
-      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
+      "duration_ms": 188160,
+      "name": "In The Good Old Summertime",
+      "url": "https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

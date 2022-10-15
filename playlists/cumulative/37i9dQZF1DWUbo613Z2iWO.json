@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Our favorite R&B artists on the rise! Cover: Dylan Sinclair, JVCK JAMES and Destin Conrad.",
+  "description": "Our favorite R&B artists on the rise! Cover: Sebastian Mikael",
   "name": "The Newness",
   "published_playlist_ids": [
     "4ueLTB3jzF1gxFZXFoisSk"
@@ -247,6 +247,24 @@
       "duration_ms": 160907,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/2jroBJH3oP3Ra6aWC5EDzJ"
+    },
+    {
+      "album": {
+        "name": "DISC TWO",
+        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127802,
+      "name": "ALL OVER AGAIN",
+      "url": "https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH"
     },
     {
       "album": {
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 230354,
       "name": "emotional",
       "url": "https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv"
@@ -3172,6 +3190,24 @@
     },
     {
       "album": {
+        "name": "I Think I Do",
+        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142438,
+      "name": "I Think I Do",
+      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
+    },
+    {
+      "album": {
         "name": "Who's Listening Anyway",
         "url": "https://open.spotify.com/album/52AEsPS0IsOHaVpoxN1EQn"
       },
@@ -3727,7 +3763,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 181103,
       "name": "Keep Doing You",
       "url": "https://open.spotify.com/track/5eTC1l296etdcgqsDqbTVC"
@@ -4166,6 +4202,32 @@
     },
     {
       "album": {
+        "name": "Lose (Remix) [feat. Marzz & Amari Noelle]",
+        "url": "https://open.spotify.com/album/1UmDky4I6vWUrf18TXniIw"
+      },
+      "artists": [
+        {
+          "name": "Lily Massie",
+          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
+        },
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        },
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "Lose (Remix) [feat. Marzz & Amari Noelle]",
+      "url": "https://open.spotify.com/track/7cr7rI6CnbXkUGRiWw9ppw"
+    },
+    {
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/22iUSFqCbq62Oa7J3pAyhO"
       },
@@ -4315,7 +4377,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 141081,
       "name": "love you more than me",
       "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
@@ -4337,7 +4399,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 206077,
       "name": "Love, Today",
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
@@ -4721,7 +4783,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 222284,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC"
@@ -5113,7 +5175,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 196654,
       "name": "perspective",
       "url": "https://open.spotify.com/track/4ev0BLLQ7wODYP7JE99tSV"
@@ -5149,7 +5211,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 134166,
       "name": "Pineapple Cognac",
       "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
@@ -5239,7 +5301,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 165640,
       "name": "Portals",
       "url": "https://open.spotify.com/track/4XY348mLkMShpnyhhx9UYr"
@@ -5554,6 +5616,24 @@
     },
     {
       "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx"
+      },
+      "artists": [
+        {
+          "name": "Eli Derby",
+          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV"
+    },
+    {
+      "album": {
         "name": "RED HOT",
         "url": "https://open.spotify.com/album/7xksRxG6MURC3k7kOJ3Qo7"
       },
@@ -5772,6 +5852,42 @@
     },
     {
       "album": {
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3nAxtpFfQR8GoBJ9Ic4Mqz"
+      },
+      "artists": [
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/4eRLolZhYKKKPN2zTHKGK1"
+    },
+    {
+      "album": {
         "name": "Selfish (feat. BEAM)",
         "url": "https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S"
       },
@@ -5907,6 +6023,24 @@
       "duration_ms": 227673,
       "name": "Slow Down (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
+    },
+    {
+      "album": {
+        "name": "PALISADE",
+        "url": "https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6"
     },
     {
       "album": {
@@ -6161,7 +6295,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 137942,
       "name": "Still Got 4ever",
       "url": "https://open.spotify.com/track/0lT3BPJaW1LFCUjpxNHIaq"
@@ -6183,6 +6317,28 @@
       "duration_ms": 144321,
       "name": "Streets",
       "url": "https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl"
+    },
+    {
+      "album": {
+        "name": "sub me in (feat. Maurice Moore)",
+        "url": "https://open.spotify.com/album/7KgCXOGLEYj6Hd8tDZSBoK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Reese",
+          "url": "https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy"
+        },
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "sub me in (feat. Maurice Moore)",
+      "url": "https://open.spotify.com/track/66m6XgZHQfVrrXVfdVOHKG"
     },
     {
       "album": {
@@ -7197,6 +7353,24 @@
       "duration_ms": 205045,
       "name": "Worth My While",
       "url": "https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn"
+    },
+    {
+      "album": {
+        "name": "Would You Like That",
+        "url": "https://open.spotify.com/album/186IK7qexy8GehSPPOW5PF"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148627,
+      "name": "Would You Like That",
+      "url": "https://open.spotify.com/track/7l3TCgaa7no82h2jc4jML5"
     },
     {
       "album": {

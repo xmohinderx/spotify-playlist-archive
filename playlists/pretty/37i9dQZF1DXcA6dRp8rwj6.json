@@ -1,13 +1,29 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Lil Baby)",
-  "num_followers": 406098,
+  "num_followers": 406199,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3MzIwMCwwMDAwMDAwMDgzNWM2OGZkN2YyMjEyOGZkZWU0MTAyMjEzNWE0ODdk",
+  "snapshot_id": "MTY2NTY3MzIwMCwwMDAwMDAwMDViNWVjNjgyNGZiMjMzZDBlOGRhOWU5ZDYwNDY1OTNj",
   "tracks": [
+    {
+      "added_at": "2022-10-13 15:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
     {
       "added_at": "2022-10-13 15:00:00",
       "album": {
@@ -283,6 +299,26 @@
     {
       "added_at": "2022-10-13 15:00:00",
       "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 194036,
+      "name": "G Nikes (feat. Polo G)",
+      "url": "https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O"
+    },
+    {
+      "added_at": "2022-10-13 15:00:00",
+      "album": {
         "name": "WIN GAME",
         "url": "https://open.spotify.com/album/0lbpMBGu0uIZczHTvLfyOd"
       },
@@ -295,6 +331,30 @@
       "duration_ms": 179139,
       "name": "WIN GAME",
       "url": "https://open.spotify.com/track/6YvEDxoEGwkbrc9F50A0Ah"
+    },
+    {
+      "added_at": "2022-10-13 15:00:00",
+      "album": {
+        "name": "burn the city",
+        "url": "https://open.spotify.com/album/0bq9HWoJk9rYuo9VlxZrcV"
+      },
+      "artists": [
+        {
+          "name": "Nhelson",
+          "url": "https://open.spotify.com/artist/5IcjBunAPqrymBPxDoCW21"
+        },
+        {
+          "name": "Cyfal",
+          "url": "https://open.spotify.com/artist/1y7xXVW5JbzXEPTNiYG7xh"
+        },
+        {
+          "name": "imtoofuego",
+          "url": "https://open.spotify.com/artist/5GWDaTq8T5NSiucSmmVWmZ"
+        }
+      ],
+      "duration_ms": 130378,
+      "name": "burn the city",
+      "url": "https://open.spotify.com/track/1zCgFhi0vNva7KCkdZmJd7"
     },
     {
       "added_at": "2022-10-13 15:00:00",
@@ -399,8 +459,8 @@
     {
       "added_at": "2022-10-13 15:00:00",
       "album": {
-        "name": "One Up",
-        "url": "https://open.spotify.com/album/51A9bnCs9oq6vjFZIDza97"
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
       },
       "artists": [
         {
@@ -410,7 +470,7 @@
       ],
       "duration_ms": 160000,
       "name": "One Up",
-      "url": "https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86"
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
     },
     {
       "added_at": "2022-10-13 15:00:00",

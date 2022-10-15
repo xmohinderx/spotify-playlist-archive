@@ -4,10 +4,13 @@
 
 > Take a deep breath and relax.
 
-119 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
+122 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [432 Hz Calm Down](https://open.spotify.com/track/7y30BBlIY4eqaphXzXlxdE) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 2:50 | 2022-10-15 |  |
+| [432 Hz Mantra](https://open.spotify.com/track/19INhfAXHJl4xRmxKS7Fw0) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [432 Hz Soundscapes for Breathing and Healing](https://open.spotify.com/album/3AP1F3DwXU82jz3bHowwJp) | 3:14 | 2022-10-15 |  |
+| [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 | 2022-10-15 |  |
 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2022-05-25 | 2022-09-07 |
 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 | 2022-05-25 |  |
 | [A Mirror in Every Drawer](https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN) | [Tiger Stories](https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U) | [Dinami](https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB) | 4:06 | 2022-05-25 | 2022-06-17 |

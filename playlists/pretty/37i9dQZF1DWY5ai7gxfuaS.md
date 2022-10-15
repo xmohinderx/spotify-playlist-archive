@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Ghostemane
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,895 likes - 95 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,285 likes - 95 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 12 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
 | 13 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
 | 14 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
-| 15 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 |
+| 15 | [I Spit On Your Grave](https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4) | 3:39 |
 | 16 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 17 | [Diazepam](https://open.spotify.com/track/3oxADKwqZ04fNO9diMkBPA) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/78Y3ftBNEZh5mBxae2SOFH) | 2:36 |
 | 18 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 94 | [Huge](https://open.spotify.com/track/4Nbyhv2YTR1Vc83Ajo1gJ9) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Huge](https://open.spotify.com/album/73LxhjxtI5MVlX33VeAwVV) | 9:14 |
 | 95 | [Arcana Imperii](https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y) | 4:53 |
 
-Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDFmNzE5MWZjZjg2NzkzYTU3ODhhOTdjM2U2MjhjYjYw`
+Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMGEwNjI2NzMyNTQ3NjMzMjUzMTMyN2JkMGMxNDUwMTEy`

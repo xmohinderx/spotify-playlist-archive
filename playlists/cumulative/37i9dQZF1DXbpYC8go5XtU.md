@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-157 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+158 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [La Casería \- San Fernando](https://open.spotify.com/track/3WTUTbkGr8b9QDMXfDHYq9) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [El Rumor del Oleaje](https://open.spotify.com/album/6UWkNTJn8noJLP583jRbDe) | 4:48 | 2021-12-22 |  |
 | [Lala](https://open.spotify.com/track/4JgzCPYTI3nodpapScNAyQ) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:07 | 2021-12-22 |  |
 | [Leaves Breathing](https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Leaves Breathing](https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5) | 3:18 | 2022-04-08 |  |
-| [Letting Go Of All Things](https://open.spotify.com/track/5rheZ8USO2YqMMV8gjPN3T) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Ludvig Cimbrelius](https://open.spotify.com/artist/4UYn3kO0ZItHQzibMCqNv6) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:56 | 2021-12-22 |  |
+| [Letting Go Of All Things](https://open.spotify.com/track/5rheZ8USO2YqMMV8gjPN3T) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Ludvig Cimbrelius](https://open.spotify.com/artist/4UYn3kO0ZItHQzibMCqNv6) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:56 | 2021-12-22 | 2022-10-15 |
 | [Malcolm Island](https://open.spotify.com/track/1NeZTpeHRlDNvRPzca28w9) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Malcolm Island](https://open.spotify.com/album/0N8SfW6iM2CbH3bMolVVzF) | 3:01 | 2022-03-10 |  |
 | [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2022-09-07 |  |
 | [Melon City](https://open.spotify.com/track/4jmrVb5sGRXBzxqxceVTOK) | [Dream Carpets](https://open.spotify.com/artist/3SKUZkAW7rWwREfd0qt3LY) | [Interior Fountains](https://open.spotify.com/album/0Xm7NaLPApbyKZigoJl2lJ) | 10:06 | 2021-12-22 |  |
@@ -95,6 +95,7 @@
 | [Passiflora](https://open.spotify.com/track/6EAkJSMoXNlzcPXOzZ2jrB) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Passiflora](https://open.spotify.com/album/22zNb8tjCpUr82NEVv4wLE) | 21:40 | 2021-12-22 |  |
 | [Playing in the Water](https://open.spotify.com/track/3WP28Y4AaOSElvnf29suLJ) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 3:11 | 2021-12-22 | 2022-07-29 |
 | [Playing in the Water](https://open.spotify.com/track/45MF5ivn2DfSWTGuDy6CY1) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 3:11 | 2022-07-08 | 2022-08-13 |
+| [Polyphony](https://open.spotify.com/track/2XM67lYMZ8K7k60MR3oVsS) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Eunoia](https://open.spotify.com/album/30ZPhEf4lSjBTfoSqRzQ2m) | 3:52 | 2022-10-14 |  |
 | [Praying For Mother / Earth, Pt\. 1](https://open.spotify.com/track/34AmO1eE0L5aOdAVRFhv1G) | [Akira Ito](https://open.spotify.com/artist/6AuRHPIlYDhz1UA0GOkhjm) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:13 | 2021-12-22 |  |
 | [Primitive Associations/Great Mass Above](https://open.spotify.com/track/106ijoJLCBU8fhosegfx1x) | [Growing](https://open.spotify.com/artist/57SlFijfkLdoiN09FSueTI) | [The Soul of the Rainbow and the Harmony of Light](https://open.spotify.com/album/2JSUhFkv27CejriQWOzF88) | 12:35 | 2021-12-22 |  |
 | [Puddle](https://open.spotify.com/track/6n2mvV2UE8yfIGl5TlqOF5) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Speaks Melodies](https://open.spotify.com/album/4SmlzePYPZdnOgDnVnk3P8) | 3:19 | 2021-12-22 |  |

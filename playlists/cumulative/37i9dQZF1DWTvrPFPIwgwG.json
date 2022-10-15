@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Damares",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Claudio Louvor",
   "name": "Louvores Pentecostais",
   "published_playlist_ids": [
     "2TO2MpzJje9bKw3Lpv5pLG"
@@ -27,6 +27,24 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "album": {
+        "name": "A Promessa N\u00e3o Morreu",
+        "url": "https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "A Promessa N\u00e3o Morreu",
+      "url": "https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf"
     },
     {
       "album": {
@@ -57,7 +75,7 @@
           "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238167,
@@ -125,7 +143,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 379560,
       "name": "Adorarei",
       "url": "https://open.spotify.com/track/1IrOfZTENgD6zd7ijPl2bB"
@@ -281,7 +299,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 268513,
       "name": "Casa Cheia",
       "url": "https://open.spotify.com/track/1i3DVRWjZuiVwA4bOeKENl"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 316846,
       "name": "Eu Permiti",
       "url": "https://open.spotify.com/track/7gL4rQkDCuPk6rMfuwZk5I"
@@ -767,6 +785,28 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        },
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253874,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs"
     },
     {
       "album": {
@@ -1078,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "O Rei e o Jumentinho",
+        "url": "https://open.spotify.com/album/1nvpCyC4YTywNaGYdnV3lK"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Dias e Fabiana",
+          "url": "https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280634,
+      "name": "O Rei e o Jumentinho",
+      "url": "https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv"
+    },
+    {
+      "album": {
         "name": "Olha Voc\u00ea A\u00ed",
         "url": "https://open.spotify.com/album/0hSIqNjbnDJdWlwUpzwKd4"
       },
@@ -1340,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "Sou Deus",
+        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255500,
+      "name": "Sou Deus",
+      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "album": {
         "name": "Sou Eu",
         "url": "https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L"
       },
@@ -1471,7 +1547,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 301454,
       "name": "Treinar Voc\u00ea",
       "url": "https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO"

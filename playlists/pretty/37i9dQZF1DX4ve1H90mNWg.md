@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, DeWayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,821 likes - 57 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,823 likes - 57 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 6 | [West Texas](https://open.spotify.com/track/4pgnw7IcB3fpQTiiJb3HVB) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [West Texas](https://open.spotify.com/album/68NYxyBCID4EwQ1iWRQVfW) | 1:33 |
 | 7 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 |
 | 8 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 |
-| 9 | [Renegade \(feat\. Finesse2Tymes\)](https://open.spotify.com/track/7vNYajhTYaKSx9Ac9PEoLG) | [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Renegade \(feat\. Finesse2Tymes\)](https://open.spotify.com/album/6hpizSNriru6KzpCmcNoT6) | 3:05 |
+| 9 | [Renegade \(feat\. Finesse2tymes\)](https://open.spotify.com/track/7vNYajhTYaKSx9Ac9PEoLG) | [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Renegade \(feat\. Finesse2Tymes\)](https://open.spotify.com/album/6hpizSNriru6KzpCmcNoT6) | 3:05 |
 | 10 | [FLO LIKE WINE](https://open.spotify.com/track/33aen8x3FvkTaYpdAtgMeA) | [Mufasa Enzor](https://open.spotify.com/artist/3k6scsIVLFlZKVJyHc2mZF), [Daud Leon](https://open.spotify.com/artist/0UiurUNUeb6L2vIZGcdjSE) | [ALL IS WELL TO ALL Pt\. 1](https://open.spotify.com/album/43cODiquw7rjkejBDxkiGc) | 4:40 |
 | 11 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
 | 12 | [I Put That On You](https://open.spotify.com/track/2g9tETxLZMP88xgomK5605) | [Unique Musick](https://open.spotify.com/artist/37vPip6vAOFgi7BWhc2Wwz), [KpBaby](https://open.spotify.com/artist/0gs6pJo78Uafnsj4gAaBAG) | [I Put That On You](https://open.spotify.com/album/5ECSQOs8fNu1vCY0hRpU1A) | 2:18 |

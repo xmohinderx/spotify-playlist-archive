@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Haunted by You",
+        "url": "https://open.spotify.com/album/7iryZotVB6K4OtMufi4Tfm"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Krisko & The Broadcast",
+          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282026,
+      "name": "Haunted by You",
+      "url": "https://open.spotify.com/track/03hLqqYkI9NrrkyCd6IbAg"
+    },
+    {
+      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },

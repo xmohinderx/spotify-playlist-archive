@@ -1024,6 +1024,32 @@
     },
     {
       "album": {
+        "name": "Clap Yo Hands",
+        "url": "https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S"
+      },
+      "artists": [
+        {
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+        },
+        {
+          "name": "Nitty Gritty GR",
+          "url": "https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N"
+        },
+        {
+          "name": "Pa Pa Fresh",
+          "url": "https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192182,
+      "name": "Clap Yo Hands",
+      "url": "https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX"
+    },
+    {
+      "album": {
         "name": "Closer To Over You",
         "url": "https://open.spotify.com/album/4fwr9LJHJXugyFeFVxzwVB"
       },
@@ -5056,6 +5082,24 @@
     },
     {
       "album": {
+        "name": "Way Down Yonder",
+        "url": "https://open.spotify.com/album/6mUJMoaJvC273B1Dxsu4fL"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218213,
+      "name": "Way Down Yonder",
+      "url": "https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6"
+    },
+    {
+      "album": {
         "name": "We Both Know",
         "url": "https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe"
       },
@@ -5107,6 +5151,24 @@
       "duration_ms": 183342,
       "name": "We Did",
       "url": "https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr"
+    },
+    {
+      "album": {
+        "name": "We Met Too Young",
+        "url": "https://open.spotify.com/album/4M3Ndgpwxd7xJwIXPLrfpF"
+      },
+      "artists": [
+        {
+          "name": "Eric Reprid",
+          "url": "https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151071,
+      "name": "We Met Too Young",
+      "url": "https://open.spotify.com/track/2b81fjvZeVKXWDa2mv9iom"
     },
     {
       "album": {
@@ -5367,10 +5429,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192053,
       "name": "Y'all Life",
       "url": "https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm"
+    },
+    {
+      "album": {
+        "name": "Y'all Life (feat. Ciara)",
+        "url": "https://open.spotify.com/album/68lDrqwjVOebqh6f580Eac"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Y'all Life (feat. Ciara)",
+      "url": "https://open.spotify.com/track/19Zc2DohB8aihlDOrONMUQ"
     },
     {
       "album": {

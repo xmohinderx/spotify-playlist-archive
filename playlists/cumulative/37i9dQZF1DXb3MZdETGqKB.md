@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Dylan Triplett
+> All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-157 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+159 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All Roads Are Good](https://open.spotify.com/track/5p0K8BNmVIBBycmUpIQ3bb) | [OPLIAM](https://open.spotify.com/artist/4vx5pLklP1r4WOGo1SA0DE) | [All Roads Are Good](https://open.spotify.com/album/7GeAo0kFkaE1Xm4S4FwCWj) | 3:02 | 2022-05-06 | 2022-06-19 |
 | [All She Said](https://open.spotify.com/track/2TxsGefsQkZlzHNh51jtUy) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [All She Said](https://open.spotify.com/album/0rJS9XfsgwXoJoMHNGiQp2) | 3:51 | 2022-03-04 |  |
 | [Angels](https://open.spotify.com/track/3aZpkDDCKbu9WqvnyuNGyn) | [Félix Rabin](https://open.spotify.com/artist/0xzQonoJ1bGbnjLLk26Xgu) | [Pogboy](https://open.spotify.com/album/0iqAkwpiPwem6AXPAAvGev) | 3:26 | 2021-02-05 | 2022-03-26 |
+| [Another Life Goes By \- Mississippi Mix](https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Another Life Goes By \(Mississippi Mix\)](https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH) | 3:48 | 2022-10-14 |  |
 | [Bad Habit](https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Bad Habit](https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb) | 2:44 | 2022-04-01 | 2022-06-19 |
 | [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 | 2022-07-15 |  |
 | [Be The Love You Want](https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:16 | 2021-08-30 | 2022-06-19 |
@@ -94,6 +95,7 @@
 | [My City](https://open.spotify.com/track/0DpJhcbwE1YtBSQEzNfX9g) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/4RWpRW36Af3RXqcJqmX7AR) | 4:33 | 2022-06-24 | 2022-07-29 |
 | [My City](https://open.spotify.com/track/2ADuHL3sy2Bjs3S4MwyT1M) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/41N9g80QNwWwm9sEdcUw93) | 4:33 | 2022-06-24 |  |
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 |  |
+| [NEVER LEAVE GOD BEHIND](https://open.spotify.com/track/0Th39OTENTSQL9MMzi066T) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [NEVER LEAVE GOD BEHIND](https://open.spotify.com/album/6VeSN4dhFnpBKyn5I2ddIc) | 3:21 | 2022-10-14 |  |
 | [Never Leave You](https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:56 | 2021-10-08 |  |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-04-23 | 2022-05-07 |
 | [NEVER TELL ME THE ODDS](https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [NEVER TELL ME THE ODDS](https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH) | 2:42 | 2022-05-06 |  |

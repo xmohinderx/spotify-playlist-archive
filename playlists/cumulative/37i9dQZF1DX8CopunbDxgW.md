@@ -2,9 +2,9 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The essential indie dance, featuring Bicep
+> The essential indie dance, featuring Mafro
 
-626 songs - 1 day 17 hr 0 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+627 songs - 1 day 17 hr 4 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-08 |
 | [Renegade](https://open.spotify.com/track/7n74B8CVy1kWH0IOXnbrj2) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Renegade](https://open.spotify.com/album/0SrEtp8X0AH2gd0WX4Qh8Y) | 3:17 | 2021-11-19 | 2021-12-29 |
 | [Reverie](https://open.spotify.com/track/7b2FRWT62YHpuX6LFhLeN8) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Reverie](https://open.spotify.com/album/2wD0srVS14cqbCmAORNF7n) | 3:25 | 2021-10-08 | 2022-01-27 |
+| [Revolving](https://open.spotify.com/track/2NmFvSMwXVq96rjluHhPyR) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Revolving](https://open.spotify.com/album/5e2NRFbu2mYDhCPfBbVhGF) | 4:57 | 2022-10-14 |  |
 | [Ricercar](https://open.spotify.com/track/4rRULachZbPpeUrzS3d9Fg) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Ricercar](https://open.spotify.com/album/3pJakXDJwdIQLaIZsZVywa) | 4:11 | 2022-03-25 | 2022-07-25 |
 | [Ricercar](https://open.spotify.com/track/7gqE5VsdxQ2iq60Bwt3G5G) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Mercury](https://open.spotify.com/album/7LCvb7UtkTLBcQA45BwPIQ) | 4:11 | 2022-09-17 | 2022-10-06 |
 | [RIDE](https://open.spotify.com/track/1ufJxWpoWSy7qh6gBIubKX) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [RIDE](https://open.spotify.com/album/76XK5M33WP6djGOg7V21i6) | 2:40 | 2021-12-03 | 2022-01-27 |
@@ -552,7 +553,7 @@
 | [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 |  |
 | [The Witching Hour](https://open.spotify.com/track/0wCAUFC6yyUh5Eax8uTLwk) | [Psychic Mirrors](https://open.spotify.com/artist/7wTTRevwI9A3odMw7MWnmh) | [I Come for Your Love](https://open.spotify.com/album/1Puz3OhgsjrTtILUCoIZYt) | 4:26 | 2022-01-28 | 2022-04-14 |
 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 | 2022-06-03 | 2022-07-29 |
-| [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 |  |
+| [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 | 2022-10-15 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/2WpMB2RxvNOnStRrT2e2kC) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Things I Thought Were Mine](https://open.spotify.com/album/6RMv7YvMivHcrnZuQrM8fq) | 3:13 | 2020-11-04 | 2022-07-26 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2020-11-04 | 2022-08-13 |
 | [Things That Dreams Are Made Of \- Instrumental / Remix / Remaster 2002](https://open.spotify.com/track/12Oh5ewLqFbcMpfYpqp9Ux) | [The League Unlimited Orchestra](https://open.spotify.com/artist/7G7TTMHdSQFMmYoFmoVQiY), [Martin Rushent](https://open.spotify.com/artist/1fd2blxXQa111coetJPkUI) | [Love And Dancing](https://open.spotify.com/album/0hwRPVBP33XamxIm0Co1hU) | 5:08 | 2022-01-28 | 2022-02-12 |

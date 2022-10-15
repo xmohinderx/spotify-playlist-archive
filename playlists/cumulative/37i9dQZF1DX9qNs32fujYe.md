@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Amon Amarth
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Volbeat
 
-660 songs - 2 day 1 hr 14 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+661 songs - 2 day 1 hr 18 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,12 +477,13 @@
 | [Shadowminds \- Ihsahn Remix](https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Shadowminds \(Ihsahn Remix\)](https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv) | 3:54 | 2022-10-07 |  |
 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 | 2022-07-13 |  |
 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 | 2022-10-07 |  |
+| [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2022-10-14 |  |
 | [Shout At The Devil](https://open.spotify.com/track/6VZivrPxu9MJ5rIPIERg56) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY) | 3:14 | 2022-08-19 |  |
 | [Sickening](https://open.spotify.com/track/3wzwYEXoNOgVRhE7mrSHzz) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Kingmaker](https://open.spotify.com/album/1fNDbschhYTY8apSceslxh) | 3:45 | 2021-12-29 | 2022-04-21 |
 | [Sickle and Peace](https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Sickle and Peace](https://open.spotify.com/album/2ppckPJjNgNhIjxJ2hIcrZ) | 6:17 | 2022-03-22 | 2022-04-19 |
 | [Slaughter Of The Soul](https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [Slaughter Of The Soul](https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U) | 3:03 | 2022-08-19 |  |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
-| [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2022-07-13 |  |
+| [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2022-07-13 | 2022-10-15 |
 | [Slave to the Grind](https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:28 | 2022-08-19 |  |
 | [Slave to the Machine](https://open.spotify.com/track/2ySsqBhctUvk8eV10zHNhv) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Slave to the Machine](https://open.spotify.com/album/7CAykEzILsn3uIOGM5NRpo) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Slaves of Babylon](https://open.spotify.com/track/2PJ9Aqx5dF2BQtJXZqbCx2) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Armageddon](https://open.spotify.com/album/4zmX2IJjCSSGzTxmURSRDM) | 4:37 | 2022-03-22 | 2022-04-18 |

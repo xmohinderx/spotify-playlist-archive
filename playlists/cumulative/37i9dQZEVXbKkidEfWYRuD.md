@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-851 songs - 1 day 15 hr 43 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+852 songs - 1 day 15 hr 47 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-28 | 2022-02-26 |
 | [Abu Dhabi Ba6y](https://open.spotify.com/track/3Qo7FF0WmgEt3JG3B2qngy) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 3:00 | 2021-08-15 | 2021-11-14 |
 | [adaptive strike](https://open.spotify.com/track/5jXocrsUwpKwWyI5BZLKFA) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [LXNER](https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt), [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [adaptive strike](https://open.spotify.com/album/1ZZyShGHtlIsCwLwiI3Sk5) | 2:16 | 2022-02-12 | 2022-07-02 |
-| [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-01-10 |  |
+| [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-01-10 | 2022-10-15 |
+| [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2022-10-14 |  |
 | [ahh](https://open.spotify.com/track/1x8o2E70kQnWm6pHW5ApOw) | [uglystephan archive](https://open.spotify.com/artist/4De9u0pfKn6Eu4qSZgDnKZ) | [ahh](https://open.spotify.com/album/4ODyLYTg7aIfQsLTBaX1Er) | 1:24 | 2022-07-24 | 2022-09-28 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-19 | 2022-01-04 |
 | [Allo](https://open.spotify.com/track/5yO3MLtyhuTeRqinBGtanU) | [LOBODA](https://open.spotify.com/artist/59oe7CAquFZ5mNjQ1efKPN) | [Allo](https://open.spotify.com/album/2iiovddkmbFKZWn5wYOpje) | 3:48 | 2021-08-04 | 2021-09-05 |
@@ -85,7 +86,7 @@
 | [Cheat Code](https://open.spotify.com/track/4K0ELLoquGS6aTRRom52zv) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:12 | 2021-10-17 | 2021-10-18 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-02 | 2021-12-03 |
 | [Close Eyes](https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD) | [Chego1963](https://open.spotify.com/artist/5UkiJi6aTQnJeqCrsGEAt7), [onurxt](https://open.spotify.com/artist/1Sl3NqTA49ay9Cb1ANXQog), [Rylixe](https://open.spotify.com/artist/57wNgV40K2oSH5KyzvVw1F) | [Close Eyes](https://open.spotify.com/album/6phw9EwZgc6h5tmiIRndVe) | 2:12 | 2022-04-10 | 2022-04-22 |
-| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 |  |
+| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 | 2022-10-15 |
 | [Close Eyes](https://open.spotify.com/track/4cboAOd9H48uPTWknVyLBq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/5A4ufdNeSzNjZePkkZrhcO) | 2:12 | 2021-06-16 | 2021-06-27 |
 | [Close Eyes](https://open.spotify.com/track/220oA415Hr87iYECBgabgE) | [KaSuo](https://open.spotify.com/artist/5XzfL0Zz0gVDDw9aOEtlhn) | [Close Eyes](https://open.spotify.com/album/6vTv8avMRDNfVHZQPAH9aN) | 2:12 | 2022-04-28 | 2022-04-30 |
 | [Codeinoslav](https://open.spotify.com/track/0pgbIUVOfAUml2rYrf4hcz) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [Codeinoslav](https://open.spotify.com/album/5lbBiquAaFHQq63Q9lpcSY) | 1:49 | 2022-07-23 | 2022-08-21 |
@@ -715,7 +716,7 @@
 | [Птичка](https://open.spotify.com/track/6Abmb1Nh7Bc5U6o4iEgSDH) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Птичка](https://open.spotify.com/album/1jODMZb23tkxLfaDHcgnse) | 3:10 | 2021-05-23 | 2021-10-20 |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-06-28 | 2021-09-30 |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
-| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2022-10-13 |
+| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 |  |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |
 | [Ребром](https://open.spotify.com/track/2aQgGle0AyaUEA70sA9Nnf) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 2:18 | 2022-03-26 | 2022-03-28 |

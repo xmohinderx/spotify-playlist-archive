@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 130620,
+  "num_followers": 130639,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU4OTM4NywwMDAwMDAwMGNhNGU0MDgxNGRjYTI1NTUzMTQ2Yzg4YzRkYzBkNWIz",
+  "snapshot_id": "MTY2NTU4OTM4NywwMDAwMDAwMDk1ZGYwOWUwNDkzYWRjOGU3OWRkMmQ1Yjc3NWY5MTFi",
   "tracks": [
     {
       "added_at": "2022-08-16 19:10:22",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-10-14 02:02:35",
+      "added_at": "2022-10-15 01:55:02",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
         "name": "Take Me (feat. Gloria Kim)",
         "url": "https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 240000,
       "name": "Take Me (feat. Gloria Kim)",
       "url": "https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 135499,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
     },
     {
       "added_at": "2022-08-16 19:10:22",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 173215,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
         "name": "In Your Eyes (feat. Alida) [KREAM Remix]",
         "url": "https://open.spotify.com/album/4opn0PjzGOFZTGUKFj0JUR"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 203240,
       "name": "In Your Eyes (feat. Alida) - KREAM Remix",
       "url": "https://open.spotify.com/track/45vQQXKfA4edHqKV5roP3M"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "duration_ms": 173215,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
     },
     {
       "added_at": "2022-08-16 19:10:22",

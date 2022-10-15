@@ -2686,6 +2686,32 @@
     },
     {
       "album": {
+        "name": "burn the city",
+        "url": "https://open.spotify.com/album/0bq9HWoJk9rYuo9VlxZrcV"
+      },
+      "artists": [
+        {
+          "name": "Nhelson",
+          "url": "https://open.spotify.com/artist/5IcjBunAPqrymBPxDoCW21"
+        },
+        {
+          "name": "Cyfal",
+          "url": "https://open.spotify.com/artist/1y7xXVW5JbzXEPTNiYG7xh"
+        },
+        {
+          "name": "imtoofuego",
+          "url": "https://open.spotify.com/artist/5GWDaTq8T5NSiucSmmVWmZ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130378,
+      "name": "burn the city",
+      "url": "https://open.spotify.com/track/1zCgFhi0vNva7KCkdZmJd7"
+    },
+    {
+      "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
@@ -2771,6 +2797,24 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "album": {
@@ -5409,6 +5453,28 @@
       "duration_ms": 160506,
       "name": "FUXK (feat. Ski Mask the Slump God)",
       "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
+    },
+    {
+      "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194036,
+      "name": "G Nikes (feat. Polo G)",
+      "url": "https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O"
     },
     {
       "album": {
@@ -10293,10 +10359,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86"
+    },
+    {
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
     },
     {
       "album": {

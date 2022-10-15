@@ -1918,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "Silent Bath",
+        "url": "https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv"
+      },
+      "artists": [
+        {
+          "name": "Juno Celeste",
+          "url": "https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155652,
+      "name": "Silent Bath",
+      "url": "https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6"
+    },
+    {
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9"
       },

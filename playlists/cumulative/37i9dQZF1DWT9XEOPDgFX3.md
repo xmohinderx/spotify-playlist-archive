@@ -2,9 +2,9 @@
 
 ### [Folk Arc](https://open.spotify.com/playlist/37i9dQZF1DWT9XEOPDgFX3)
 
-> Walk the bridge between indie and folk\. Cover: Adam Melchor
+> Walk the bridge between indie and folk\. Cover: Field Medic
 
-252 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+256 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-09-30 |  |
 | [Graves](https://open.spotify.com/track/2AMh8Toy9gNVutZN0V8bmn) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/2Pn1ZcmnqkFAVflaBEnHkg) | 3:12 | 2022-01-21 | 2022-07-29 |
 | [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2022-04-29 |  |
+| [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2022-10-14 |  |
 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 | 2022-04-29 |  |
 | [Hard Drive](https://open.spotify.com/track/6l39fy6bGJAzWYEZzuBtmG) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Hard Drive](https://open.spotify.com/album/0HJUDvrf75GoOnjScVcOkY) | 5:27 | 2022-01-21 | 2022-07-29 |
 | [Hawks](https://open.spotify.com/track/6VskgbUMKUrhlrliKtWza7) | [Jodi](https://open.spotify.com/artist/3RBTPtXcwJncQGphGFRFJp) | [Hawks](https://open.spotify.com/album/6cITGU0F8XKxQT3cYB0IlS) | 3:31 | 2022-04-13 | 2022-07-29 |
@@ -112,6 +113,7 @@
 | [I'm not a mother, but I have children](https://open.spotify.com/track/1h8VYKwxdY5Vx8g7jYDJV8) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 3:40 | 2022-04-13 | 2022-07-29 |
 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 | 2022-09-09 |  |
 | [If I Told](https://open.spotify.com/track/3AyxUc44BHxbV6niyl438i) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [If I Told](https://open.spotify.com/album/5Vi2zIea4GSb4nxhcRJTqj) | 4:58 | 2022-01-21 | 2022-07-29 |
+| [Ignore Tenderness](https://open.spotify.com/track/1IasTdHJGNPLxpKdJIjbri) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:08 | 2022-10-14 |  |
 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 | 2022-04-29 |  |
 | [Is There Something In The Movies?](https://open.spotify.com/track/38eArj40ijTenXtpbpMPnj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Is There Something In The Movies?](https://open.spotify.com/album/5wRgdU0KVKlPl52TXYloet) | 3:30 | 2022-01-21 | 2022-07-29 |
 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 | 2022-04-29 |  |
@@ -141,7 +143,7 @@
 | [Maggie](https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 4:54 | 2022-04-29 |  |
 | [Maggie](https://open.spotify.com/track/6BYUB4l8aAF2FEu8kHAG4I) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Maggie](https://open.spotify.com/album/7x0Ma71IGM9QuoaAKaIahy) | 4:54 | 2022-01-21 | 2022-07-29 |
 | [Maria, Maria](https://open.spotify.com/track/1OiZlAtgC2mgri19FM4WEU) | [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Maria, Maria](https://open.spotify.com/album/2arErHVLHlDBsR8iLd5Haf) | 3:37 | 2022-01-21 | 2022-04-28 |
-| [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 | 2022-04-13 |  |
+| [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 | 2022-04-13 | 2022-10-15 |
 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 | 2022-04-13 |  |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-01-21 |  |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2022-04-29 |  |
@@ -151,7 +153,7 @@
 | [Mother](https://open.spotify.com/track/6YYInRSnBw8cbEx9sN1ocI) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/1ceVlojqwgJjJUQFia6k16) | 3:15 | 2022-04-13 | 2022-07-29 |
 | [My Blue Suit](https://open.spotify.com/track/4AeMm4h6EIiVDBVgzfE2Qf) | [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [My Blue Suit](https://open.spotify.com/album/417TS9g3Cjst35yPEMSJph) | 2:36 | 2022-01-21 | 2022-07-28 |
 | [My Day \(feat\. Alenni\) \(Cordova Session\)](https://open.spotify.com/track/1zxHV6rvRYw8TOO7DequN7) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q), [Alenni](https://open.spotify.com/artist/4H9dYNlHz7Qz20rAh4UscB) | [My Day / What the Hell is Going On? \(Cordova Sessions\)](https://open.spotify.com/album/2v4porMNwSQodSEYmiopZE) | 3:06 | 2022-04-13 | 2022-07-29 |
-| [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2022-04-13 |  |
+| [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2022-04-13 | 2022-10-15 |
 | [Nature's Way](https://open.spotify.com/track/4r05BDLjV65C9vWTWGspVf) | [Johanna Samuels](https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa) | [Excelsior!](https://open.spotify.com/album/73WPvTgw83Mcwy05plFvTs) | 3:26 | 2022-01-21 | 2022-07-27 |
 | [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 | 2022-04-29 |  |
 | [needy](https://open.spotify.com/track/7sGF4Lmw4ON0NGpXi947zR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/25ybQpE54EavBau3PajDTj) | 3:52 | 2022-01-21 | 2022-07-29 |
@@ -165,7 +167,7 @@
 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2022-01-21 |  |
 | [One More Hour](https://open.spotify.com/track/09XOlLHpRhRSuI1plPFFuc) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:43 | 2022-01-21 | 2022-07-29 |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-04-14 |  |
-| [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 | 2022-01-21 |  |
+| [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 | 2022-01-21 | 2022-10-15 |
 | [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 | 2022-04-29 |  |
 | [Pareidolia](https://open.spotify.com/track/7auhQqfbDNtYmOoLwPhGju) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Pareidolia](https://open.spotify.com/album/5lMw5oHGZQQWJVYTbn4el4) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2022-04-13 | 2022-07-24 |
@@ -203,8 +205,10 @@
 | [Song for Nick Drake](https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP) | 2:57 | 2022-01-21 | 2022-07-29 |
 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2022-04-29 |  |
 | [Sorry’s Not Enough](https://open.spotify.com/track/7zXERMvGbaqcZmdXo7ebw8) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Sorry's Not Enough](https://open.spotify.com/album/6hWqBLAzPVl9GBYXs36ISC) | 4:51 | 2022-01-21 | 2022-07-27 |
+| [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-10-14 |  |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2022-04-13 |  |
-| [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2022-04-29 |  |
+| [stained glass](https://open.spotify.com/track/0QxUwYYcLvt1560lZP5il6) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [stained glass](https://open.spotify.com/album/7LW5Bo8L7FlRHCNhMmTcGX) | 4:12 | 2022-10-14 |  |
+| [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2022-04-29 | 2022-10-15 |
 | [Station to Station](https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/44iZWsGRW7Scy1rmydhYVM) | 4:25 | 2022-01-21 | 2022-07-29 |
 | [stoned](https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 4:45 | 2022-04-29 |  |
 | [Stranger](https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Stranger](https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA) | 2:48 | 2022-04-13 |  |

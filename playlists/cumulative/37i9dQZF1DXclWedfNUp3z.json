@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 197249,
       "name": "4T Recordings",
       "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 162765,
       "name": "A Short Story of the Mahale Mountains",
       "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
@@ -4319,7 +4319,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 138773,
       "name": "Seals",
       "url": "https://open.spotify.com/track/5yBwN4BHv5WUvch6MR5L68"
@@ -4395,6 +4395,24 @@
       "duration_ms": 232000,
       "name": "Silken Pt. 2.1",
       "url": "https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG"
+    },
+    {
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "album": {

@@ -1583,6 +1583,24 @@
     {
       "album": {
         "name": "Burning Questions",
+        "url": "https://open.spotify.com/album/5LeihhqFkY7ZuMO2OAsYcr"
+      },
+      "artists": [
+        {
+          "name": "Elena Flury",
+          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Burning Questions",
+      "url": "https://open.spotify.com/track/0U0w9e5Uwaz0Xaz8n0yq1l"
+    },
+    {
+      "album": {
+        "name": "Burning Questions",
         "url": "https://open.spotify.com/album/4fj6OCEJNaXK31wUbtL80K"
       },
       "artists": [
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 183320,
       "name": "Burning Questions",
       "url": "https://open.spotify.com/track/5jwibtM6x3f8SMSNWY7Ca7"
@@ -9521,10 +9539,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 188336,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n"
+    },
+    {
+      "album": {
+        "name": "The Enemy",
+        "url": "https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188336,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP"
     },
     {
       "album": {

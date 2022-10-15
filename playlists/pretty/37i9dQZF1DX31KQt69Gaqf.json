@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181679,
+  "num_followers": 181690,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDdhMDVlMWVlOTZjZWFiYTc2ZDJkYmE0MTJmZmI4Njdh",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDBhMjBhNzYyNWQ4MzIxMWJkYTNhYzQyNjhiNzg4Yzhi",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -171,6 +171,22 @@
       "duration_ms": 181746,
       "name": "1st Time",
       "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2021-09-24 18:51:29",
@@ -355,22 +371,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Scream Drive Faster",
-        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Scream Drive Faster",
-      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "AUATC",
         "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 142125,
       "name": "AUATC",
       "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Scream Drive Faster",
+        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Scream Drive Faster",
+      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "More Like You",
-        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Don't Turn Around",
         "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "More Like You",
+        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
-      },
-      "artists": [
-        {
-          "name": "Jade Emperor",
-          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
+      },
+      "artists": [
+        {
+          "name": "Jade Emperor",
+          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5"
       },
@@ -1195,6 +1211,26 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 228347,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y"
       },
@@ -1279,26 +1315,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Like Sand",
-        "url": "https://open.spotify.com/album/7pOUfwJOC4mxZ5sIaYJ48H"
-      },
-      "artists": [
-        {
-          "name": "Marie Dahlstrom",
-          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
-        },
-        {
-          "name": "Beau Diako",
-          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
-        }
-      ],
-      "duration_ms": 271201,
-      "name": "Like Sand",
-      "url": "https://open.spotify.com/track/2fWlUgX2Qa44ZQCT2rKF0U"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1441,26 +1441,6 @@
       "url": "https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k"
     },
     {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "I Wonder Why",
-        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 228347,
-      "name": "I Wonder Why",
-      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
-    },
-    {
       "added_at": "2021-09-24 18:51:29",
       "album": {
         "name": "Royal Morning Blue",
@@ -1475,22 +1455,6 @@
       "duration_ms": 183431,
       "name": "Royal Morning Blue - Edit",
       "url": "https://open.spotify.com/track/3PkntoEMclM5Xxiy3744Il"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Goodnights & Goodbyes",
-        "url": "https://open.spotify.com/album/2XyDuH4bJCZGSuiuvWfWld"
-      },
-      "artists": [
-        {
-          "name": "Qhairo",
-          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "Goodnights & Goodbyes",
-      "url": "https://open.spotify.com/track/5KFsSjyohrqBw6mHyBam0p"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1511,6 +1475,22 @@
       "duration_ms": 260065,
       "name": "JOY (Warm Bullet)",
       "url": "https://open.spotify.com/track/651ISDzJhS2cIYtXlHiMXl"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1547,22 +1527,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 150091,
-      "name": "Higher Plain",
-      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "TRAP PHONE",
         "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
       },
@@ -1575,6 +1539,22 @@
       "duration_ms": 250113,
       "name": "TRAP PHONE",
       "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1631,22 +1611,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Treat You Right",
-        "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 261012,
-      "name": "Treat You Right",
-      "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Big Skies, Silly Faces",
         "url": "https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc"
       },
@@ -1663,6 +1627,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Treat You Right",
+        "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 261012,
+      "name": "Treat You Right",
+      "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "obsessed",
         "url": "https://open.spotify.com/album/2RgYgVbpfItLr4jj3exBqF"
       },
@@ -1675,6 +1655,22 @@
       "duration_ms": 296500,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n"
+    },
+    {
+      "added_at": "2021-09-24 18:51:29",
+      "album": {
+        "name": "Moody",
+        "url": "https://open.spotify.com/album/2jL3IM42IlCMhxlwMbWZFz"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/4U3S9YNxWWfMtcvz3UgDYD"
     }
   ],
   "unique_name": "Your Office Stereo",

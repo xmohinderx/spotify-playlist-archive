@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-263 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/7J6V8CtH6cauGweEfdRx6B)
+264 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/7J6V8CtH6cauGweEfdRx6B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Made For Silence](https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Made For Silence](https://open.spotify.com/album/4RT10f0M4YO3Ps7ds49vWS) | 2:50 | 2021-07-26 | 2022-07-16 |
 | [Make We Whole \(Jett Remix\)](https://open.spotify.com/track/75RGF9B1LxDUuM2mikvM4H) | [Chandanie](https://open.spotify.com/artist/3l9qOhNAl2pwSkfpHPFlln), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Make We Whole \(Jett Remix\)](https://open.spotify.com/album/406WyKOaTJYnILWCNf52pO) | 4:08 | 2021-07-26 | 2022-05-15 |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-30 |  |
-| [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV) | 3:18 | 2022-07-30 |  |
+| [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV) | 3:18 | 2022-07-30 | 2022-10-15 |
 | [Miss The Days](https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J) | 3:40 | 2022-07-29 | 2022-08-20 |
 | [Move Like This](https://open.spotify.com/track/3Jw0dL0zh6zAYHpXa0sbrA) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [They Call Me Disco](https://open.spotify.com/album/6p40dZWSVoWmChUHZjDRJD) | 4:04 | 2021-07-26 | 2022-08-13 |
 | [Mrs Parker](https://open.spotify.com/track/0YJedBqfrg6FtuDvidOvZO) | [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Mrs Parker](https://open.spotify.com/album/51cjje6GddwFQ3JK7XlzJj) | 1:51 | 2022-03-25 | 2022-07-30 |
@@ -267,6 +267,7 @@
 | [WORKING](https://open.spotify.com/track/5e49oiBAVNGKsBdPPJmRe0) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6gPZR4HMlqsGRErOrM8dxw) | [WORKING](https://open.spotify.com/album/2QiFmcNRCeA4gVpEeCHlJE) | 2:37 | 2022-05-02 | 2022-07-30 |
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2022-09-16 |  |
 | [You](https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:37 | 2022-09-23 |  |
+| [You Don't Know](https://open.spotify.com/track/7nZnfJkaBnmmWUBw9jfhm3) | [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX), [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u), [JVDE](https://open.spotify.com/artist/5ZYuMuQ1dwCXIx6mULdrzg) | [You Don't Know](https://open.spotify.com/album/7EI43wfKVyPabczkwpHeSA) | 3:11 | 2022-10-14 |  |
 | [You're So Annoying](https://open.spotify.com/track/2QUbdB7i1CezjTEEVd5Fc3) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [You're So Annoying](https://open.spotify.com/album/0yBn8kb95FKiIj8Y5kVhfL) | 3:14 | 2021-07-26 | 2022-04-21 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/2b4SSorCTQ2VzmllaeWuuT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z) | 3:47 | 2021-07-26 | 2022-07-29 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2022-05-02 |  |

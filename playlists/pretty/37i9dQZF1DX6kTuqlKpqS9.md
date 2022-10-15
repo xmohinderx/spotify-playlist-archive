@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,077 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,120 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 46 | [Porqué No Le Calas \- En Vivo Desde Culiacán, México/2012](https://open.spotify.com/track/0z6ZH9ZHbvk8SfK6JfLu0N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida \- 3 Historias \- Despedida De Culiacán \(En Vivo Desde Culiacán, México/2012\)](https://open.spotify.com/album/3WlN6A2y1EKdI74XPoqMHt) | 3:01 |
 | 47 | [Estuve \- En Vivo](https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:19 |
 | 48 | [El Rey \- En Vivo](https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 2:43 |
-| 49 | [El Tenampa \- En Vivo](https://open.spotify.com/track/3PWNmA3eOGN2YZO6pFhvzZ) | [Mariachi Sol De Mi Tierra](https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE) | [Pa' Amanecer Pistiando \(En Vivo\)](https://open.spotify.com/album/1Nz3DWkr9BKi1Xr5mCCi6L) | 2:15 |
-| 50 | [Que Te Ruegue Quien Te Quiera \- En Vivo Auditorio Nacional](https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 3:07 |
+| 49 | [Que Te Ruegue Quien Te Quiera \- En Vivo Auditorio Nacional](https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 3:07 |
+| 50 | [El Tenampa \- En Vivo](https://open.spotify.com/track/3PWNmA3eOGN2YZO6pFhvzZ) | [Mariachi Sol De Mi Tierra](https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE) | [Pa' Amanecer Pistiando \(En Vivo\)](https://open.spotify.com/album/1Nz3DWkr9BKi1Xr5mCCi6L) | 2:15 |
 | 51 | [Sufriendo a Solas](https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Ranchera Y Tradicional](https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg) | 5:07 |
 | 52 | [Inocente Pobre Amiga \- En Vivo Desde Culiacán, México/2012](https://open.spotify.com/track/574ZYeSvOOvYCPcgabSQwo) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida \- 3 Historias \- Despedida De Culiacán \(En Vivo Desde Culiacán, México/2012\)](https://open.spotify.com/album/3WlN6A2y1EKdI74XPoqMHt) | 4:58 |
 | 53 | [Pa Todo el Año \- En Vivo](https://open.spotify.com/track/46CGM2PRYI0rmVjyZawVSL) | [Mariachi Imperial Azteca](https://open.spotify.com/artist/3i1TXUJiZ8xHGHddUTAvOh) | [En Directo Madrid \(En Vivo\)](https://open.spotify.com/album/3Rsryvoc0FtS2E9dJghkkc) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDAxNmFiYThlZTA1ZTVjYTNiZGQyNzMyMzYxMjYzNGE3`
+Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDk0YzcxZWJjZDU5MjhkOGNlOTQwNjg4OWMyYmY0Yzk3`

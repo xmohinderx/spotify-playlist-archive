@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 247600,
       "name": "Ave",
       "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
@@ -3065,7 +3065,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 233253,
       "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
@@ -4413,6 +4413,24 @@
       "duration_ms": 368668,
       "name": "My Friend the Forest",
       "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
+    },
+    {
+      "album": {
+        "name": "Myfanwy (Ambient Mix)",
+        "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243818,
+      "name": "Myfanwy - Ambient Mix",
+      "url": "https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5"
     },
     {
       "album": {
@@ -6169,6 +6187,28 @@
       "duration_ms": 587391,
       "name": "Stendur \u00e6va (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
       "url": "https://open.spotify.com/track/4vLXpLreoHPgapkwGRl4gR"
+    },
+    {
+      "album": {
+        "name": "Still / Sound \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Still / Sound \u2013 piano reworks",
+      "url": "https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW"
     },
     {
       "album": {

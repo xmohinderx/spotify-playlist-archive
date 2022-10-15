@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-778 songs - 1 day 16 hr 26 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+781 songs - 1 day 16 hr 36 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Advice](https://open.spotify.com/track/2aYmP5Ar225yAtOvL6u7cS) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom: Ash](https://open.spotify.com/album/3xTy2o1qSa4tXJ60sCsYNY) | 4:24 | 2019-08-01 | 2021-05-28 |
 | [Alien](https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Alien](https://open.spotify.com/album/3nHgMTBuY81FhqgBmcjMhv) | 3:49 | 2022-06-14 | 2022-07-26 |
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-25 | 2022-07-29 |
-| [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-02-08 |  |
+| [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-02-08 | 2022-10-15 |
 | [All My Love](https://open.spotify.com/track/3AdiSOZxa72xdHN6sGvYeu) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5DteD9lXKQ1jjeTQ04YIXK) | 2:45 | 2022-03-04 | 2022-07-29 |
 | [All Night](https://open.spotify.com/track/3y6mJwIyeV7YbUgIZuR0GU) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [All Night](https://open.spotify.com/album/2L7ClezYcFXiYBf7NfV5q1) | 2:57 | 2021-08-13 | 2022-05-21 |
 | [All Or Nothin](https://open.spotify.com/track/1PmLZMYwFqOosXYoRypUuh) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [All Or Nothin](https://open.spotify.com/album/5mTIxr0fRYDGTbTrRyRzS1) | 2:28 | 2019-09-29 | 2021-05-22 |
@@ -129,9 +129,10 @@
 | [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 | 2022-09-14 |  |
 | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/album/5n3pUtUIrPAV5CqujbDGh1) | 3:29 | 2021-06-25 | 2022-07-28 |
 | [Changephobia](https://open.spotify.com/track/7cYSdIfUBqVefOSWcW4p0y) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7nDAioCBVXisIee3pdRR10) | 3:50 | 2021-06-04 | 2022-04-20 |
-| [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-09-14 |  |
+| [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-09-14 | 2022-10-15 |
 | [Cherry Pie](https://open.spotify.com/track/5fyBMJubnWJwFaa8heLs9m) | [Love, Sophie](https://open.spotify.com/artist/4B0A42ayBdKYIKFZwI0OV6) | [Cherry Pie](https://open.spotify.com/album/3SDzuphPaAqS1U6iYv231S) | 2:43 | 2020-11-04 | 2021-05-23 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-12 | 2022-10-13 |
+| [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-09-14 |  |
 | [childish](https://open.spotify.com/track/3DjoJbtUyKN2ydYbVZq4Gg) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [childish / sanctuary](https://open.spotify.com/album/2CnVGmUmGV68rcg2ec9Jw9) | 2:27 | 2021-05-23 | 2021-05-28 |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2020-06-12 | 2021-05-28 |
 | [Circles](https://open.spotify.com/track/4KxRDX5ora3JaeXn2ie1w8) | [Folk9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL), [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Circles](https://open.spotify.com/album/4nQ4ccQz4BEtVkRIZOT06t) | 3:42 | 2021-02-28 | 2021-05-23 |
@@ -184,7 +185,7 @@
 | [Dennis](https://open.spotify.com/track/6Dvxpqv61hyRZJs4qDfiP3) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Dennis](https://open.spotify.com/album/63P7eZxZx13hdWO895zNPM) | 3:14 | 2021-03-08 | 2022-04-21 |
 | [Didn't Even Notice](https://open.spotify.com/track/5s27QGuQo3Gm92wx3f0nDh) | [CS Kid](https://open.spotify.com/artist/5lgVc33hwAih5sxGaOekRQ), [Conch](https://open.spotify.com/artist/6s4rRzSz74RitFaweXeojr) | [Didn't Even Notice](https://open.spotify.com/album/49hXDj2kebhGhM7hSGzUMl) | 2:48 | 2021-04-29 | 2021-07-10 |
 | [Different](https://open.spotify.com/track/1iuxawB2mf8iBWtagkzciJ) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Paper Cup/Different](https://open.spotify.com/album/1GU0HvTIUCGcx7BQeyaWzA) | 2:48 | 2022-03-04 | 2022-04-20 |
-| [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2019-08-29 |  |
+| [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2019-08-29 | 2022-10-15 |
 | [discord shawty](https://open.spotify.com/track/1NsukTqvXVd9WNttbA3A6a) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [discord shawty](https://open.spotify.com/album/5qgmpGmkZftZlIk1uJsOUC) | 1:34 | 2021-05-14 | 2022-04-04 |
 | [DO DON’T WILL WON’T](https://open.spotify.com/track/3nUAtCtwA5udZlqzqik0Og) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [M1XTAPE](https://open.spotify.com/album/4z2A4erl9ZDyJIyja7NYf5) | 3:47 | 2021-10-08 | 2022-04-11 |
 | [do re mi](https://open.spotify.com/track/0V90Q0ubClSBrxpAmxEytl) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [do re mi](https://open.spotify.com/album/4xBH1ldoCiXeiYwKf7rwRe) | 1:17 | 2020-06-20 | 2021-05-27 |
@@ -277,6 +278,7 @@
 | [Get Yours](https://open.spotify.com/track/3xO8X51LY6b3CTFStI29si) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Get Yours](https://open.spotify.com/album/3CiCcAzLIAYJ43Navv980P) | 2:20 | 2022-04-29 | 2022-06-30 |
 | [Getting It On](https://open.spotify.com/track/2HFLh8qlNfW4EPpHVHz7Ej) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES \- EP](https://open.spotify.com/album/36EvrQUkP9yDwRYP8uRr3R) | 3:00 | 2019-07-30\* | 2021-05-22 |
 | [Girl](https://open.spotify.com/track/3FBiFFEq2JCAVPFAbFeBMz) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Catflap](https://open.spotify.com/album/5BdtL5nKzSEgRrdXqOFTqa) | 2:25 | 2019-07-30\* | 2019-12-01 |
+| [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 | 2022-09-14 |  |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2021-02-27 | 2022-10-13 |
 | [girls](https://open.spotify.com/track/5rDzL33WiYowiXlZhwWvst) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/7fnNlZ1txYTCsfhIja9XLj) | 3:18 | 2019-07-30\* | 2022-04-21 |
 | [Give It to Me](https://open.spotify.com/track/2UsREIjT72ZEZnhdvpyg7R) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Midnight Snack](https://open.spotify.com/album/4p7OubIrnoRbhi3YUbN5Ib) | 3:08 | 2019-07-30\* | 2021-05-23 |
@@ -325,6 +327,7 @@
 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 | 2022-03-04 |  |
 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 | 2021-02-27 | 2022-10-14 |
 | [Hot Rod](https://open.spotify.com/track/12j3KX5TkcAswLUUPMTNqA) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7CEcveuhikJxpej7s1Nypr) | 3:24 | 2019-08-01 | 2022-07-29 |
+| [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 | 2022-09-14 |  |
 | [how the hell did we end up here?](https://open.spotify.com/track/7g2ZfScI3hUoHAdpVO0P4Z) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [ache \(demos\)](https://open.spotify.com/album/5qNyLZnMwnZBv7NFXmChtV) | 1:25 | 2022-04-29 | 2022-06-14 |
 | [How Was Your Day?](https://open.spotify.com/track/5jx99x0wf2r9hzq0ekAmRr) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [How Was Your Day?](https://open.spotify.com/album/7rUsxlkjBKrKdumIkBMieZ) | 4:20 | 2020-10-03 | 2022-07-29 |
 | [How Was Your Day?](https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m) | [Mellow Fellow](https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [How Was Your Day?](https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9) | 3:08 | 2019-08-04 |  |

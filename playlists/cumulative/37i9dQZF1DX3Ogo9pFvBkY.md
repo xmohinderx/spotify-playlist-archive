@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-684 songs - 1 day 12 hr 16 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+689 songs - 1 day 12 hr 29 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [An Instant](https://open.spotify.com/track/1V1lNO1kMb2QngcOHz5d3y) | [Orieta Carvahal](https://open.spotify.com/artist/71sP1BkkbvMv0IcFu706Dt) | [An Instant](https://open.spotify.com/album/7qDfAr30rO5WSnzMe7EkEh) | 3:38 | 2022-06-16 |  |
 | [Ananda](https://open.spotify.com/track/5cUE9WfhOMXemLX0stj0XT) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Ananda](https://open.spotify.com/album/7f69MPwVjlQCBj7Pv00Gu2) | 2:22 | 2020-08-08 | 2021-11-26 |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2021-04-28 | 2021-07-23 |
+| [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 |  |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2019-12-07 | 2021-10-13 |
 | [Another World](https://open.spotify.com/track/3sd7ll6yI6IseTtY9KL17y) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Drift Off](https://open.spotify.com/album/6LMJYwLucOwVe1Nex4vxah) | 3:10 | 2019-05-26\* | 2020-01-03 |
 | [apoapsis](https://open.spotify.com/track/4HeGTGqUfgIA98HEkIWTp2) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [apoapsis](https://open.spotify.com/album/7Bova6yWsJlQV3Zms6wm1M) | 3:58 | 2021-11-11 |  |
@@ -219,6 +220,7 @@
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2021-06-16 |  |
 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2019-12-07 |  |
 | [Eternalism](https://open.spotify.com/track/4ifPxJCobE5fygSy90ygxq) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [I Will Remember Everything Forever](https://open.spotify.com/album/0EMKIUx6PXzwCAfMeF9bct) | 4:18 | 2020-08-08 | 2020-10-27 |
+| [Eternalistic](https://open.spotify.com/track/28vgg790lTkfhaBgsSAaqq) | [Asabea Wheeler](https://open.spotify.com/artist/48ZJv6xlsgG8EdgJt4SOBZ) | [Eternalistic](https://open.spotify.com/album/7thB8MyVTdHo34FboEgwSI) | 2:26 | 2022-10-14 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-09-21 |  |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2021-10-06 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2019-05-26\* |  |
@@ -255,7 +257,8 @@
 | [Fragment II](https://open.spotify.com/track/7vv4tJIsMFm3XnDHikiwIc) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [Fragment](https://open.spotify.com/album/7505vXtzFDmbNt4QRKE5by) | 4:00 | 2022-07-22 |  |
 | [Fragments](https://open.spotify.com/track/6CpQnALvep6fYnL0BKNsOy) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Moment of Silence](https://open.spotify.com/album/60M9flmWaOCcYKU0HEP1Fu) | 2:11 | 2020-05-09 | 2022-09-15 |
 | [Free Birds](https://open.spotify.com/track/55pSDoYNWOk3LsJjDZbfqt) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Forest Wisdom](https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa) | 3:01 | 2019-06-29 | 2020-05-09 |
-| [Frigate birds](https://open.spotify.com/track/2BWu8Uq8IF37tPTo4L8Nzp) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF) | 2:55 | 2020-08-08 |  |
+| [Frigate birds](https://open.spotify.com/track/1Uq63ko6Dwm2Ycp4iKGKgj) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/1vGxp3fYpDr1weKcyLzvSK) | 2:55 | 2022-10-14 |  |
+| [Frigate birds](https://open.spotify.com/track/2BWu8Uq8IF37tPTo4L8Nzp) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF) | 2:55 | 2020-08-08 | 2022-10-15 |
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:13 | 2019-05-26\* | 2022-07-29 |
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-07-22 |  |
 | [Frost](https://open.spotify.com/track/2q1fX5uJl8SS7iPGGnoSJB) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Frost](https://open.spotify.com/album/2pK1LDoR4CVbgdopEPUABE) | 2:57 | 2019-05-26\* | 2019-06-29 |
@@ -297,6 +300,7 @@
 | [Highs and Lows](https://open.spotify.com/track/4dQnB3QEMMo8hmTHnAON1d) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [Highs and Lows](https://open.spotify.com/album/44b7dcLecGIDWRNzfMUQ3x) | 2:00 | 2019-12-07 |  |
 | [Home Sweet Home](https://open.spotify.com/track/1nXcFuXpDEfk6Q4HZqWp51) | [Forest Lane](https://open.spotify.com/artist/649ytPVPCsXWTdUcEPzlOr) | [Home Sweet Home](https://open.spotify.com/album/4lMGCXoSJLypWIEeAF6ygP) | 4:02 | 2020-05-09 | 2020-10-27 |
 | [Home Tales \- Ambient Mix](https://open.spotify.com/track/2HiVJpIeVR3MiVsrqQ7hWQ) | [Handley Page](https://open.spotify.com/artist/0vzZmlsPGLKCCG8qW7WrvV) | [Home Tales](https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh) | 4:08 | 2019-05-26\* | 2019-06-29 |
+| [Homesick](https://open.spotify.com/track/1KAjfOhwtBDkhhGhDH27Z0) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Homesick](https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1) | 2:16 | 2022-10-14 |  |
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2021-04-14 |  |
 | [Howler](https://open.spotify.com/track/6EYEkBmwxpUTPw881iIwTL) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [Howler](https://open.spotify.com/album/1IOg1uUtdZiAlynGxlX4KA) | 2:43 | 2019-10-26 | 2020-05-18 |
 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-03-24 |  |
@@ -629,6 +633,7 @@
 | [Trace](https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:30 | 2019-12-07 | 2021-11-26 |
 | [Trancendent Sleep](https://open.spotify.com/track/1NY2tT1A7uZwchez1vBShQ) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Moving Mind](https://open.spotify.com/album/3BqwXPWyP3avzTWGxGEkHF) | 4:17 | 2019-05-26\* | 2019-06-29 |
 | [Tranquil](https://open.spotify.com/track/2abvtFxQLpWYqDSNnNrbRm) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Tranquil](https://open.spotify.com/album/2y5v7DSQIle4pMpl24C9ps) | 3:19 | 2019-12-07 |  |
+| [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2020-08-08 |  |
 | [Trust the Winds](https://open.spotify.com/track/4ZknZFZC856pglYDpLdGzS) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:01 | 2020-01-03 | 2021-09-14 |
 | [Truth](https://open.spotify.com/track/373jqeSKtGiGgfMLwNoCcv) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/0c2uw96zlJP8jMui1HA38h) | 1:52 | 2019-05-26\* | 2020-01-03 |

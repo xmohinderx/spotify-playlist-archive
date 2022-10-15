@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/37i9dQZF1DX5R53BjnKBjk)
 
-> Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: aocoral Arte: Isu Kim
+> Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Thalicia/Arte: Isu Kim
 
-197 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+200 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Celebração do Xingu ao Congo](https://open.spotify.com/track/2o96Fy3tpJkB9OWl2Yl77r) | [Mbé](https://open.spotify.com/artist/4BX83dK6A0IGZuCbnLfNv2) | [ROCINHA](https://open.spotify.com/album/4OvfJwaPFkTOnHJyXoZj8c) | 4:39 | 2022-01-07 | 2022-08-13 |
 | [celular](https://open.spotify.com/track/4Favpt6XGeo3pQ7x9lgfEe) | [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2), [adieu](https://open.spotify.com/artist/6UzTLaO4vzhybwSrD6Mnik) | [0800](https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf) | 3:09 | 2022-09-09 |  |
 | [Chama Grana](https://open.spotify.com/track/6z5ShAbGvJjDMUPksnZh1i) | [Terra Preta](https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP), [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt) | [POR SUA CAUSA](https://open.spotify.com/album/670ZOn9MBhuXQzuRoDXW0p) | 3:29 | 2022-01-14 | 2022-02-12 |
+| [Chocolate Branco](https://open.spotify.com/track/53Ut7bzms6gC6t7fPuiMRx) | [DFONNSO](https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR) | [Chocolate Branco](https://open.spotify.com/album/5fSGaCA3QMxI4T7Oe5fdKS) | 2:56 | 2022-10-14 |  |
 | [Chuva de Verão](https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng) | [Yasmim Silveira](https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s), [Raphael Garrido](https://open.spotify.com/artist/4NgK77VcKix9IFvO78qzLT) | [Chuva de Verão](https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U) | 3:00 | 2022-08-26 |  |
 | [Ciberneticamará](https://open.spotify.com/track/6w4wyRmLicvlRDG9ooxjB5) | [Luísa Bahia](https://open.spotify.com/artist/0cCiJNLI7Fe1aqYIP3FuYb), [Flaira Ferro](https://open.spotify.com/artist/3gmFXyR7bHc8wQW3y6c2UI) | [Ciberneticamará](https://open.spotify.com/album/3lWH340RTmPGs5qU2agBCC) | 3:24 | 2022-02-11 | 2022-09-24 |
 | [Cicatriz](https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL) | [Tati Maia](https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm) | [Cicatriz](https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c) | 2:27 | 2022-08-12 |  |
@@ -102,9 +103,10 @@
 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 | 2022-10-07 |  |
 | [Menina Erê](https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK) | [Menina Erê](https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN) | 4:12 | 2022-02-18 | 2022-05-17 |
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 | 2022-08-20 |
+| [Mercúrio Retrógrado](https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe) | [Savio di Maio](https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e) | [Mercúrio Retrógrado](https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6) | 2:36 | 2022-10-14 |  |
 | [Mestre Jandaraí](https://open.spotify.com/track/4nO4BI5Z4V38AaLxPSAALf) | [Numa Gama](https://open.spotify.com/artist/3ysogI5DJYxHA5oU5Rjkjh) | [Memórias de Oneyda](https://open.spotify.com/album/3pCYN8unhawhhsRFOVqmiA) | 2:47 | 2022-01-07 | 2022-05-17 |
 | [meu bem, meu bem](https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [meu bem, meu bem](https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU) | 2:48 | 2022-09-02 |  |
-| [Meu Foco](https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS) | [AUGE](https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ) | 3:14 | 2022-07-29 |  |
+| [Meu Foco](https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [AUGE](https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ) | 3:14 | 2022-07-29 |  |
 | [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 | 2022-03-26 |
 | [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 | 2022-07-29 |
 | [moça, veja bem](https://open.spotify.com/track/2QeUAohcBgrtawcQSybt8I) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/0JvXCZpHR706YVvpafApFh) | 4:38 | 2022-07-22 | 2022-09-24 |
@@ -201,6 +203,7 @@
 | [Verão](https://open.spotify.com/track/5NbOilBmttx0b5dJcdL697) | [Pseudo Banda](https://open.spotify.com/artist/7B5wVF8YwLqwfVaWk3HkDe), [Vaine](https://open.spotify.com/artist/2pdCZh6Kwn3lZqFIwPRY97) | [Verão](https://open.spotify.com/album/0Z7geQJsarPEigZos4VPEf) | 2:51 | 2022-01-14 | 2022-02-05 |
 | [Vinte e Oito Dias](https://open.spotify.com/track/2CIHeEt9jP0Qd2XIMINGdd) | [Yani](https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinte e Oito Dias](https://open.spotify.com/album/3oDWNLU7Onr7Qx59ZLsWM2) | 4:08 | 2022-01-07 | 2022-07-23 |
 | [Você Deveria Saber](https://open.spotify.com/track/6bt69Qzr4sj6kPNH3oMQFe) | [Miguel Arcanjo](https://open.spotify.com/artist/5pEeF9Rqc5QgLrVYeSR8MS) | [Você Deveria Saber](https://open.spotify.com/album/41s7qY4qhz77MgprH4wYJ5) | 3:24 | 2022-01-07 | 2022-08-13 |
+| [Você se foi](https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf) | [Thalicia](https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz) | [Você se foi](https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX) | 2:35 | 2022-10-14 |  |
 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 | 2022-08-26 |  |
 | [Vício](https://open.spotify.com/track/01qSQbvzNX5K5NoJ6Xhrjd) | [Akin](https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [Vício](https://open.spotify.com/album/15o7kghlFD3WBZoHsJpQAx) | 4:20 | 2022-01-28 | 2022-09-24 |
 | [WTF](https://open.spotify.com/track/1ZpViwwk8iEKbPucwMXZR7) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR) | [WTF](https://open.spotify.com/album/5mp5bJyYlTmwYimlpL3aoV) | 2:39 | 2022-09-09 |  |

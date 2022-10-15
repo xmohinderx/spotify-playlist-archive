@@ -13546,6 +13546,28 @@
     },
     {
       "album": {
+        "name": "Wingwoman",
+        "url": "https://open.spotify.com/album/5EB076dHjDLSI27bJw6PMi"
+      },
+      "artists": [
+        {
+          "name": "Liv Miraldi",
+          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
+        },
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Wingwoman",
+      "url": "https://open.spotify.com/track/0Hhx4yhcOFlRwl8ezjgvdW"
+    },
+    {
+      "album": {
         "name": "Don't Worry Darling (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7vd9ogxIg5CSBFuvHE60LZ"
       },

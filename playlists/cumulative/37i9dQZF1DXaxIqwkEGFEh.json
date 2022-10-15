@@ -699,10 +699,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 131115,
       "name": "Aye (feat. Offset)",
       "url": "https://open.spotify.com/track/7lgvHYbCxOle5HJJcfJzrS"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131115,
+      "name": "Aye (feat. Offset)",
+      "url": "https://open.spotify.com/track/7w5l6GTKE2SghmVdNgXng6"
     },
     {
       "album": {
@@ -1057,7 +1079,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 225048,
       "name": "Bit W The Fangs (feat. Gunna & Nechie)",
       "url": "https://open.spotify.com/track/0GM5C22p1n4LH4vO1oPfTh"
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 160033,
       "name": "Burglars & Murderers (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
@@ -3130,6 +3152,24 @@
     },
     {
       "album": {
+        "name": "Fresh Off a Lick",
+        "url": "https://open.spotify.com/album/4WYuCUuyeRlUv9F2AkPUVR"
+      },
+      "artists": [
+        {
+          "name": "Dee Watkins",
+          "url": "https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "Fresh Off a Lick",
+      "url": "https://open.spotify.com/track/5mfHibeb0X8PSAxI3muSbZ"
+    },
+    {
+      "album": {
         "name": "From Nothing",
         "url": "https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH"
       },
@@ -3203,6 +3243,28 @@
       "duration_ms": 194560,
       "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z"
+    },
+    {
+      "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194036,
+      "name": "G Nikes (feat. Polo G)",
+      "url": "https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O"
     },
     {
       "album": {
@@ -3608,6 +3670,28 @@
     },
     {
       "album": {
+        "name": "Gucci Flow (feat. Finesse2tymes)",
+        "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131120,
+      "name": "Gucci Flow (feat. Finesse2tymes)",
+      "url": "https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD"
+    },
+    {
+      "album": {
         "name": "H Spot (with Yo Gotti)",
         "url": "https://open.spotify.com/album/54l2xBRFjR3A3xFeWJhrej"
       },
@@ -3765,6 +3849,24 @@
       "duration_ms": 181894,
       "name": "HEARTLESS (feat. Drakeo the Ruler)",
       "url": "https://open.spotify.com/track/56ciHBiFTYcfJP2anTr6NW"
+    },
+    {
+      "album": {
+        "name": "Heaven For Thugs (Letter to Wap)",
+        "url": "https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390861,
+      "name": "Heaven For Thugs (Letter to Wap)",
+      "url": "https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv"
     },
     {
       "album": {
@@ -5673,7 +5775,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 166413,
       "name": "MF TRIMM",
       "url": "https://open.spotify.com/track/2Q3xRj8N2lElteuxQ6tnvL"
@@ -6256,6 +6358,28 @@
     },
     {
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
+    },
+    {
+      "album": {
         "name": "New 50's",
         "url": "https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr"
       },
@@ -6459,6 +6583,24 @@
       "duration_ms": 183333,
       "name": "Northside Southside (feat. Giggs)",
       "url": "https://open.spotify.com/track/6GihDPzqj62VkQVfLHncUn"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
     },
     {
       "album": {
@@ -6941,7 +7083,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 152878,
       "name": "PEP IN MY STEP",
       "url": "https://open.spotify.com/track/3nixei9buXWmxkA4BjX8k4"
@@ -7563,7 +7705,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185379,
-      "name": "Renegade (feat. Finesse2Tymes)",
+      "name": "Renegade (feat. Finesse2tymes)",
       "url": "https://open.spotify.com/track/7vNYajhTYaKSx9Ac9PEoLG"
     },
     {
@@ -7785,6 +7927,24 @@
       "duration_ms": 180344,
       "name": "Robbery Part 4",
       "url": "https://open.spotify.com/track/4CKAeNUTMTnvzpYGKZmQZa"
+    },
+    {
+      "album": {
+        "name": "Chapters Of The Trenches",
+        "url": "https://open.spotify.com/album/3648fJdBO6VSMn3tZo07SR"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118787,
+      "name": "Robbery Part 5",
+      "url": "https://open.spotify.com/track/4chjloVr9wD7lxtCR2L4ac"
     },
     {
       "album": {
@@ -8083,7 +8243,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 174643,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3EkiwX3Mp9GuT9Ne4HQy4D"
@@ -8123,7 +8283,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 173987,
       "name": "Save Me (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
@@ -9061,7 +9221,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 231085,
       "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
       "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"

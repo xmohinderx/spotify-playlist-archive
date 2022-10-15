@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Innoss'B
+> Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Koffi Olomide
 
-120 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+122 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2022-06-30 |  |
 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-06-30 |  |
 | [Butu Ya Lelo](https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ) | [Tcherly N](https://open.spotify.com/artist/5QhZSGrBxIQyLE7Ntl2VEi) | [Butu Ya Lelo](https://open.spotify.com/album/7brNGIzXrN2I5CUbsNmPTW) | 3:42 | 2022-06-30 | 2022-08-20 |
-| [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 |  |
+| [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 | 2022-10-15 |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-06-30 |  |
 | [CDQ](https://open.spotify.com/track/0CjGQyX0YHYibChVyStSnj) | [Arnaud Ndongala](https://open.spotify.com/artist/4MxUaA8AFEgDdjLIQKP3j8) | [CDQ](https://open.spotify.com/album/7e50CSpqBejmMVBRhMDIKy) | 2:52 | 2022-06-30 | 2022-07-16 |
 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2022-08-12 |  |
@@ -45,7 +45,7 @@
 | [Eloko Oyo](https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos](https://open.spotify.com/album/6IeIf8IVQfLGaYSckKPPsN) | 4:46 | 2022-06-30 | 2022-08-06 |
 | [Faya](https://open.spotify.com/track/4UuBi6buMUZ0kOlYHEIn1m) | [Dyss MK](https://open.spotify.com/artist/5omTTGUh0GnhAXY8ovFqDq), [DJ Jordan MasterBoy](https://open.spotify.com/artist/2xD0xzBe6BVwqLJDxliXd9) | [Faya](https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C) | 3:38 | 2022-07-29 |  |
 | [Fiohna Mukusa](https://open.spotify.com/track/5dseKmdnMxEJnlKPtyg2J5) | [Ministre Manzaka DJ](https://open.spotify.com/artist/45cBTgK3RwWjZwoBwJuukk) | [Monde A Part](https://open.spotify.com/album/1E45xmBvN36ojia6LMr1bL) | 4:13 | 2022-09-23 |  |
-| [Francis Manuana](https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin](https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s) | 5:53 | 2022-08-12 |  |
+| [Francis Manuana](https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin](https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s) | 5:53 | 2022-08-12 | 2022-10-15 |
 | [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 |  |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
 | [Holla](https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Holla](https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w) | 3:35 | 2022-08-05 |  |
@@ -67,6 +67,7 @@
 | [Lindanda](https://open.spotify.com/track/6zGeeZu4ZIGWmGtUfnZxaq) | [Arness Jermain](https://open.spotify.com/artist/6vfDDrucSWxrRzUkW8Wreb) | [Lindanda](https://open.spotify.com/album/5935dQepHG1XuwfD56FCgF) | 3:06 | 2022-07-29 |  |
 | [Loi](https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Loi](https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy) | 5:35 | 2022-06-30 |  |
 | [Loketu](https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Loketu](https://open.spotify.com/album/7iAhhT4SscGaSNhsNEUFH6) | 2:35 | 2022-06-30 | 2022-08-27 |
+| [Lubumbashi](https://open.spotify.com/track/4TbXW306MYRuyLl3f3fAaO) | [Zaire](https://open.spotify.com/artist/7eAsCMv2IYlqYV2eZCLkay) | [Lubumbashi](https://open.spotify.com/album/23zgjg8tmsPMWpML2KXG8A) | 2:35 | 2022-10-14 |  |
 | [LÉLÉ](https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [LÉLÉ](https://open.spotify.com/album/4aHWhpQsSAa9NAgg8ldI4D) | 3:09 | 2022-06-30 |  |
 | [Malele](https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Malele](https://open.spotify.com/album/0YgwuVtiEGQVpf4V8gJR2G) | 3:56 | 2022-09-23 |  |
 | [Matete](https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Matete](https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd) | 3:53 | 2022-08-19 |  |
@@ -103,6 +104,7 @@
 | [Run](https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Run](https://open.spotify.com/album/1lLdivmzyjNWRMos5ttRKa) | 3:29 | 2022-06-30 |  |
 | [Répondeur](https://open.spotify.com/track/215HuX5KUiYvdfQ5cO33Xd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:16 | 2022-06-30 |  |
 | [Sakwado](https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE) | [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR), [Gbandz](https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU) | [Sakwado](https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W) | 2:40 | 2022-06-30 |  |
+| [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 | 2022-10-14 |  |
 | [Science\-Fiction](https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Science\-Fiction](https://open.spotify.com/album/5OWv5Bpm5LYBwMGYKFkBpj) | 6:40 | 2022-08-26 | 2022-10-08 |
 | [Se Yo](https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Se Yo](https://open.spotify.com/album/1Bgi3Kwi0hub7WFY3XKsXz) | 7:21 | 2022-10-07 |  |
 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 | 2022-06-30 |  |

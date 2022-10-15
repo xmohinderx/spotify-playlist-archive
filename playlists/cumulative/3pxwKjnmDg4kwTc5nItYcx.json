@@ -9712,6 +9712,24 @@
     },
     {
       "album": {
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "album": {
         "name": "SPACE MAN",
         "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
       },
@@ -11325,6 +11343,24 @@
       "duration_ms": 160677,
       "name": "Watching TV",
       "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6kGWiXF2tpr7sCz1Ap1hFb"
+      },
+      "artists": [
+        {
+          "name": "Jamyang",
+          "url": "https://open.spotify.com/artist/5SqfYCWuVR4Cc2FGFYY2Tw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235147,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/53xhyrYyJMNylCQFJQgbCY"
     },
     {
       "album": {

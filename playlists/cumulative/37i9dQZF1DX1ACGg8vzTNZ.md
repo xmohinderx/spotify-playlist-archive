@@ -4,7 +4,7 @@
 
 > Instrumental, ambient music to awaken your imagination.
 
-60 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
+61 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 | 2022-01-10 | 2022-03-31 |
 | [Finding solace in the stars](https://open.spotify.com/track/3RF3QEGZwyQFHl6KICwnN5) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/17twwmQ7sZhUQ4rG5Eg71h) | 2:58 | 2022-01-10 | 2022-07-29 |
 | [Finding solace in the stars](https://open.spotify.com/track/41i2D4bw19DJy331n7d2cj) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/3BvgQP7CmrTLG3CplyXcZF) | 2:58 | 2022-07-11 |  |
+| [For Leah](https://open.spotify.com/track/1PVSCJHI5Q0jAyvu0qSKXm) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [For Leah](https://open.spotify.com/album/74tyKTLDk3ebFMoV0S16NL) | 3:13 | 2022-10-14 |  |
 | [Geaissvearra](https://open.spotify.com/track/1c7SfsVqWnlmKyURJgwcqH) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vaara](https://open.spotify.com/album/0wQnhH4X740joJyp3qcYHU) | 4:49 | 2022-01-10 | 2022-07-12 |
 | [Hands](https://open.spotify.com/track/6p2tTt91TXVyuTDlgNtTC2) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Hands](https://open.spotify.com/album/0kD0sQjX9gaY04IrziJcIf) | 3:23 | 2022-01-10 | 2022-03-31 |
 | [Her & the Sea](https://open.spotify.com/track/3fXIgil7Wu5SIuvwICY511) | [CLANN](https://open.spotify.com/artist/0YN64WuO9KaKCUbTx8hNd0) | [Kin Fables](https://open.spotify.com/album/0Uf6UV3INFgG210s3v0yKR) | 3:42 | 2022-01-10 | 2022-03-31 |

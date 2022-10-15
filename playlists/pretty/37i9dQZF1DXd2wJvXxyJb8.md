@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> só hit bombado e viralizando na net! confia/Barões da Pisadinha
+> só hit bombado e viralizando na net! confia
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,040 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,736 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Parada Louca](https://open.spotify.com/track/72g37RoelSnovZakG5MwnF) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Parada Louca](https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn) | 2:59 |
 | 70 | [Depende](https://open.spotify.com/track/2OsPujKDKv0PgbfsMHtU7m) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR) | [Depende](https://open.spotify.com/album/3UuIipzzWhzr5ynZN4oMbW) | 2:36 |
 
-Snapshot ID: `MTY2NTQyMjExNywwMDAwMDAwMDU2NWNjNTliNWJjNTJjMWFiNzJiMTNkNTlhNDVmZjc1`
+Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMDU4NjAxN2Y4MTBhYWFkYmYzZDkzNDczYWY1NTE1NjY3`

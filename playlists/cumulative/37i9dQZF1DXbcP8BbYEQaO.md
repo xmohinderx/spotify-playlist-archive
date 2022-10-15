@@ -4,7 +4,7 @@
 
 > meet me at midnight
 
-446 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+447 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [count on](https://open.spotify.com/track/1A4tabNlyLKLOHQW2XpjaU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Colin](https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu) | [count on](https://open.spotify.com/album/3Crvq8uqSTfvnn4IbIzAHY) | 3:26 | 2020-10-13\* | 2021-12-04 |
 | [Crazier Things](https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 5:04 | 2020-11-18 | 2021-11-20 |
+| [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 | 2022-10-14 |  |
 | [Cynical](https://open.spotify.com/track/2LW4Bkirg94ae861UMg4bW) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Cynical](https://open.spotify.com/album/6CkRa8wMIAPDJYiPXA6nHp) | 3:09 | 2020-10-13\* | 2021-09-25 |
 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2021-09-11 |  |
 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 | 2022-05-13 |  |
@@ -367,7 +368,7 @@
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-10 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-01 |  |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-10-23 | 2021-12-04 |
-| [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 | 2022-02-25 |  |
+| [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 | 2022-02-25 | 2022-10-15 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2020-10-13\* | 2020-11-18 |
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 |  |
 | [sorry](https://open.spotify.com/track/7EcUaKyjR0WlujOxkpUxh1) | [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [sorry](https://open.spotify.com/album/2FgOGpo1bbhTUmfUUdUrrr) | 2:34 | 2022-05-16 | 2022-06-24 |

@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -5665,7 +5665,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -7889,7 +7889,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -7969,7 +7969,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 162106,
       "name": "Le Premier",
       "url": "https://open.spotify.com/track/4sXAVFUEzZlJYQdkDYgNyt"
@@ -11691,7 +11691,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -12279,7 +12279,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0"
@@ -13055,6 +13055,24 @@
       "duration_ms": 159360,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
+    },
+    {
+      "album": {
+        "name": "Sueltate",
+        "url": "https://open.spotify.com/album/2I5ptbgP0qPk4kzZpIA1C6"
+      },
+      "artists": [
+        {
+          "name": "Koyote The Konnection",
+          "url": "https://open.spotify.com/artist/1rxb9HVNVVYjH12l3I5F0O"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190746,
+      "name": "Sueltate",
+      "url": "https://open.spotify.com/track/0zGCLDwYckDIwSSh7gh00i"
     },
     {
       "album": {

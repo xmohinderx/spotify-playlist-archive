@@ -4,7 +4,7 @@
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-65 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
+66 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-14 |  |
 | [Eclipse](https://open.spotify.com/track/1CN3tvx826AiRlcZSKjGdl) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Wonder](https://open.spotify.com/album/2hF3Z7WIOHkZwsm3rFPla1) | 2:34 | 2021-10-14 |  |
 | [Eclipse](https://open.spotify.com/track/6DsnPRnJLUUtzKrVVwUiAT) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Eclipse](https://open.spotify.com/album/44exvz3EXFURPy4cs0YXcb) | 2:34 | 2021-10-14 | 2022-10-13 |
-| [Falling For You](https://open.spotify.com/track/3G2V4UFoKTsUbJNCtNVJN1) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Falling For You](https://open.spotify.com/album/18LFvHoWe0ePVDzuFb8mHO) | 4:12 | 2021-10-14 |  |
+| [Falling For You](https://open.spotify.com/track/0VhqXi1cxFr6spSpVPPZwI) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Falling For You](https://open.spotify.com/album/3mveK1Bw9vWDka2T8S7MJp) | 4:12 | 2021-10-14 |  |
+| [Falling For You](https://open.spotify.com/track/3G2V4UFoKTsUbJNCtNVJN1) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Falling For You](https://open.spotify.com/album/18LFvHoWe0ePVDzuFb8mHO) | 4:12 | 2021-10-14 | 2022-10-15 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-10-14 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-10-14 |  |
 | [Honest](https://open.spotify.com/track/1xA7ZX7W3MoAec6NU3WU3c) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:18 | 2021-10-14 |  |

@@ -2519,7 +2519,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302184,
       "name": "Between",
       "url": "https://open.spotify.com/track/4ZJXmXQeC0qL1nPVAWNRGd"
@@ -3703,7 +3703,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210201,
       "name": "Centauri",
       "url": "https://open.spotify.com/track/6sbTqflJcUFfyAbiWC8def"
@@ -4245,7 +4245,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 195000,
       "name": "Coastin'",
       "url": "https://open.spotify.com/track/5AUyPXjDQ0m2BdFDWrhpPz"
@@ -9521,7 +9521,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 254666,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/3fY7n6r6Ky1OuFyf0qgE1O"
@@ -23530,6 +23530,28 @@
     },
     {
       "album": {
+        "name": "The Last Dinosaur",
+        "url": "https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U"
+      },
+      "artists": [
+        {
+          "name": "Little Foot",
+          "url": "https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "The Last Dinosaur",
+      "url": "https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0"
+    },
+    {
+      "album": {
         "name": "The Last Goodbye (feat. Bettye LaVette)",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -23719,7 +23741,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198500,
       "name": "The Roman",
       "url": "https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V"

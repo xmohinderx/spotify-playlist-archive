@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-169 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+176 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-07-15 |  |
 | [A Thousand Memories](https://open.spotify.com/track/0NicReIOJqnuhT5kPe2Q1u) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [A Thousand Memories](https://open.spotify.com/album/07W4VsvYKd4YDl7Zh1pG6B) | 3:06 | 2022-07-15 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2022-07-15 |  |
+| [Akitai](https://open.spotify.com/track/1nhygEpFiytaSNKmnj3QNp) | [Polydora](https://open.spotify.com/artist/0bOWZ1PEGNLA3kJTnkKTiT) | [Akitai](https://open.spotify.com/album/2HNm4TUulw9oTAyX3Wl4hZ) | 3:12 | 2022-10-15 |  |
+| [Alpha](https://open.spotify.com/track/3rZhO9sRiOj2iC0g8UlxBr) | [River Zomnia](https://open.spotify.com/artist/3dkf1Aj7lFgshUMWmIgcX6) | [Alpha](https://open.spotify.com/album/24iln1loly7XtwB6qsfBVy) | 3:05 | 2022-10-15 |  |
 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 | 2022-07-15 |  |
 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-07-15 |  |
@@ -37,6 +39,7 @@
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-07-15 |  |
 | [Closure 432 hz](https://open.spotify.com/track/5W2G3rrqupygc1iP3RGLg3) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 3:53 | 2022-10-07 |  |
 | [Comfort Zone](https://open.spotify.com/track/3QjA9DSJn9hEIkfiRYMBZB) | [Sounds And Beyond](https://open.spotify.com/artist/751p5MqwmdTxiqWVg0J46Y) | [Comfort Zone](https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw) | 2:34 | 2022-07-15 |  |
+| [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-15 |  |
 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 | 2022-07-15 |  |
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Consciousness](https://open.spotify.com/track/5k7FW9EOM1Xaxr1qdRCQzj) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Origin of I](https://open.spotify.com/album/34WplMhHu29z1djNneameH) | 3:32 | 2022-07-15 |  |
@@ -51,6 +54,7 @@
 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 | 2022-07-15 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-07-15 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-07-15 |  |
+| [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-07-15 |  |
 | [Eller](https://open.spotify.com/track/7dixtAcv16QYnWjtPhRPQd) | [Recitations from Earth](https://open.spotify.com/artist/5BXtXfmXj7Rh5K2G9QsxWj) | [Eller](https://open.spotify.com/album/4myRid1Fkb4ipyrcVqk0yJ) | 3:32 | 2022-07-15 |  |
 | [Elysian Fields](https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Elysian Fields](https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4) | 2:43 | 2022-07-15 |  |
@@ -70,6 +74,7 @@
 | [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 | 2022-07-15 |  |
 | [Glittering Tide](https://open.spotify.com/track/7GJuxyNKKWmuSMWFfvVLGx) | [Sine Eins](https://open.spotify.com/artist/6FXJATkFcpQfzxQN4uAccz) | [Sun Walker](https://open.spotify.com/album/7d4JftYo1y9nBSnRe30iDI) | 2:31 | 2022-07-15 |  |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-07-15 |  |
+| [Handwritten](https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:23 | 2022-10-15 |  |
 | [Heart](https://open.spotify.com/track/6Ju1cRnaWq0PU3NDFuUths) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:32 | 2022-09-30 |  |
 | [Heaven Sent](https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:24 | 2022-07-15 |  |
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-07-15 |  |
@@ -97,7 +102,7 @@
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2022-09-13 |  |
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-07-15 |  |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2022-07-15 |  |
-| [Mantra](https://open.spotify.com/track/0mhg4wkvEjgVUu3P0vBlyA) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Mantra](https://open.spotify.com/album/3yj63MjABGbwMgVP8Az0oK) | 3:45 | 2022-07-15 |  |
+| [Mantra](https://open.spotify.com/track/0mhg4wkvEjgVUu3P0vBlyA) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Mantra](https://open.spotify.com/album/3yj63MjABGbwMgVP8Az0oK) | 3:45 | 2022-07-15 | 2022-10-15 |
 | [Memento Vivere](https://open.spotify.com/track/2Vs8AIlAGaEyhh5y7vR7x7) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:37 | 2022-09-30 |  |
 | [Memorising Breaths](https://open.spotify.com/track/5VO4Whju6O7GuB28o8yaFN) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Memorising Breaths](https://open.spotify.com/album/05JPbUArv7MlJNtfuUEasr) | 3:01 | 2022-07-15 |  |
 | [Morning Breeze](https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 1:59 | 2022-07-15 |  |
@@ -117,7 +122,7 @@
 | [Path of Light](https://open.spotify.com/track/0AXQFmU88hVhan5teKTPl5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Path of Light](https://open.spotify.com/album/64r1FJ9RdY7J9qbWHpJEe2) | 3:40 | 2022-07-15 |  |
 | [Peaceful Clearing](https://open.spotify.com/track/7D1WJdXYD7lPLJigGxs04C) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [Vågor](https://open.spotify.com/album/5IOEaUuuDjv9psQ0PhQpFS) | 2:20 | 2022-07-15 |  |
 | [Peaceful Movement](https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Peaceful Movement](https://open.spotify.com/album/6WhbkTG9bSpcHmP01t2P87) | 2:53 | 2022-07-15 |  |
-| [Peaceful Wanderer](https://open.spotify.com/track/6EHrTWnHax9In83uWjgmO3) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Restora](https://open.spotify.com/album/33fCRxByXLoGdxXtx5X7qe) | 3:40 | 2022-07-15 |  |
+| [Peaceful Wanderer](https://open.spotify.com/track/6EHrTWnHax9In83uWjgmO3) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Restora](https://open.spotify.com/album/33fCRxByXLoGdxXtx5X7qe) | 3:40 | 2022-07-15 | 2022-10-15 |
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2022-07-15 |  |
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-07-15 |  |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-07-15 |  |
@@ -132,6 +137,7 @@
 | [Reflect](https://open.spotify.com/track/5L3CbldRc36fjCzTb9ttuj) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Reflect](https://open.spotify.com/album/4lBD9dWLYfzmdAA3rkltQn) | 3:17 | 2022-07-15 |  |
 | [Reflection \(417 Hz Meditation\)](https://open.spotify.com/track/04UjzBg49TiQmhabGit1tv) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Reflection](https://open.spotify.com/album/28Ah77GJBIGinUJOABPMqq) | 3:29 | 2022-08-19 |  |
 | [Reflections](https://open.spotify.com/track/3Y0a2d0xewXPTmziRlvBwm) | [Bonart](https://open.spotify.com/artist/3ZGw2U265tZNbX3AWnFKzp) | [Reflections](https://open.spotify.com/album/0Usdcja5hpHi1t64sUPeJc) | 4:37 | 2022-07-15 |  |
+| [Regreso](https://open.spotify.com/track/0xbwOBfj9VQzrixeUrkbv5) | [Yestize](https://open.spotify.com/artist/6Q7kUyZyeap1NroAeY39R1) | [Regreso](https://open.spotify.com/album/4NynEaNsMqhoOAWjxP2c6v) | 2:58 | 2022-10-15 |  |
 | [Renewal](https://open.spotify.com/track/7kgNuTgyO9T26DGV6aXptE) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Liquid Mind XI: Deep Sleep](https://open.spotify.com/album/71br0Ijnm48UVUoLBHaZZ8) | 8:11 | 2022-07-15 | 2022-09-15 |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-07-15 |  |
 | [Ritual](https://open.spotify.com/track/4OQ4Hhvd1fKTFiqhYHnUeR) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Ritual](https://open.spotify.com/album/0Bs9zCj7y6WH9ebf1gCVr6) | 3:37 | 2022-07-15 |  |
@@ -169,12 +175,13 @@
 | [Underview](https://open.spotify.com/track/5xcgi9ta3wVzBFktltBLMo) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Underview](https://open.spotify.com/album/5CxKbJBV7cYw5ayhZWMQrN) | 1:50 | 2022-07-15 |  |
 | [Velvetine](https://open.spotify.com/track/4840LfK9NqJAwfFTxJIrz2) | [Goran Solkjær](https://open.spotify.com/artist/4TS76DvkB16Zk3uoOTgByQ) | [Velvetine](https://open.spotify.com/album/1BD35jazKq9rYZlKhoM7xM) | 3:45 | 2022-07-15 |  |
 | [Walking Alongside the Gates of Heaven](https://open.spotify.com/track/6vOynuMgg62np7cBtV5qjk) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:04 | 2022-07-15 |  |
-| [Water's Spirit](https://open.spotify.com/track/0yGdf5S95BJaZGgBWCHC5z) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Water's Spirit](https://open.spotify.com/album/3O88RTXB9ybypCJUGORT1n) | 4:20 | 2022-07-15 |  |
+| [Water's Spirit](https://open.spotify.com/track/0yGdf5S95BJaZGgBWCHC5z) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Water's Spirit](https://open.spotify.com/album/3O88RTXB9ybypCJUGORT1n) | 4:20 | 2022-07-15 | 2022-10-15 |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2022-07-15 |  |
 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 | 2022-07-15 |  |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
 | [Yoga Nidra](https://open.spotify.com/track/0srGfXXqmeISaT3uSoaoXM) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Yoga Nidra](https://open.spotify.com/album/5EazHq0TDPzE5zqFuW8QwJ) | 2:34 | 2022-07-15 |  |
 | [Zeit zu schlafen](https://open.spotify.com/track/6BDciTeYRejg7wi9F63k4H) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Zeit zu schlafen](https://open.spotify.com/album/2imLIpOy9hSqRx2SAszBoa) | 1:47 | 2022-07-15 |  |
+| [Équilibre](https://open.spotify.com/track/1kY64LDhpgy30XGXj5c7Qa) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Équilibre](https://open.spotify.com/album/3ue6f4Rru74OH3ozKrFnU3) | 3:21 | 2022-10-15 |  |
 | [和 Harmony](https://open.spotify.com/track/578WQbtlCaB1LBoPYZLECn) | [Shunya Koyanagi](https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4) | [和 Harmony](https://open.spotify.com/album/2xqsxjexOjRgS8lYOpoKKU) | 3:04 | 2022-07-15 |  |
 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2022-07-15 |  |
 

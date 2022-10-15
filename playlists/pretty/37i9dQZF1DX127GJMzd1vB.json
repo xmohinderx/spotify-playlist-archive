@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 43422,
+  "num_followers": 43476,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTYxNywwMDAwMDAwMGY0OGEyNmZlZTU4YzRhYWI0MjU0YTY1YTU3YmQ4ZjVm",
+  "snapshot_id": "MTY0MDgyMTYxNywwMDAwMDAwMDEwNjlhYjJlMmQyOTRhNWYxMzUyYmM0ZmZjZDI5ZDAw",
   "tracks": [
     {
       "added_at": "2021-12-29 23:46:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Penas, Desenga\u00f1os... y Amores",
-        "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Yo Se Que Te Acordaras",
-      "url": "https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 150333,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Penas, Desenga\u00f1os... y Amores",
+        "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Yo Se Que Te Acordaras",
+      "url": "https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Paloma Querida",
-      "url": "https://open.spotify.com/track/7nQWIZIZ4W7ZKFbrF5R97L"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 154000,
       "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Paloma Querida",
+      "url": "https://open.spotify.com/track/7nQWIZIZ4W7ZKFbrF5R97L"
     },
     {
       "added_at": "2021-12-29 23:46:57",

@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/0wftiNjxIMvgt7ROVU5i7d"
+      },
+      "artists": [
+        {
+          "name": "Egemen K\u0131z\u0131ltekin",
+          "url": "https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W"
+        },
+        {
+          "name": "Tunahan Turhan",
+          "url": "https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173331,
+      "name": "01",
+      "url": "https://open.spotify.com/track/2U4fr16sIR5k6ep9iv3vZG"
+    },
+    {
+      "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor"
       },
@@ -369,7 +391,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 223200,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/4QB5XCHPHHE6ZW57IRFAGD"
@@ -435,6 +457,24 @@
       "duration_ms": 182857,
       "name": "Breaking Bad",
       "url": "https://open.spotify.com/track/3NHdgC5rnBdgHqMLIpDaUT"
+    },
+    {
+      "album": {
+        "name": "Bumpa",
+        "url": "https://open.spotify.com/album/2U8suAJvFKCrap8oEaZ7sn"
+      },
+      "artists": [
+        {
+          "name": "VOLB3X",
+          "url": "https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134857,
+      "name": "Bumpa",
+      "url": "https://open.spotify.com/track/1RkeQvcoimbBrGP7arlDiw"
     },
     {
       "album": {
@@ -537,6 +577,28 @@
       "duration_ms": 123272,
       "name": "COBRA",
       "url": "https://open.spotify.com/track/5EoeUH0rpvyh5kV0lDtiIG"
+    },
+    {
+      "album": {
+        "name": "COCO",
+        "url": "https://open.spotify.com/album/6fcMTTl8I6jE8eQee2Q5zV"
+      },
+      "artists": [
+        {
+          "name": "KEAN DYSSO",
+          "url": "https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5"
+        },
+        {
+          "name": "TBT Prod.",
+          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114673,
+      "name": "COCO",
+      "url": "https://open.spotify.com/track/5SOVV7vF2xE1AOPoboZxkH"
     },
     {
       "album": {
@@ -1735,7 +1797,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 214800,
       "name": "Maia",
       "url": "https://open.spotify.com/track/5yXp9Gy10qZ3N7wU7okJjr"
@@ -2251,7 +2313,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 172800,
       "name": "Pride",
       "url": "https://open.spotify.com/track/1HUTwupwYQDzD4xA5pNeFw"
@@ -2535,7 +2597,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 133333,
       "name": "Sharingan",
       "url": "https://open.spotify.com/track/1NYQGB4ldAKwE7F2IkYYPX"
@@ -2623,6 +2685,28 @@
       "duration_ms": 139200,
       "name": "Slow",
       "url": "https://open.spotify.com/track/5fGfZ1wkA2j6FGlIYAi6pO"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN"
+      },
+      "artists": [
+        {
+          "name": "7vvch",
+          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+        },
+        {
+          "name": "Bladdy-T",
+          "url": "https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW"
     },
     {
       "album": {

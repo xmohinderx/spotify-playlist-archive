@@ -4,7 +4,7 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-93 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
+94 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [How Blue Can You Get](https://open.spotify.com/track/1quawSUUeGvIaVcClgEjJH) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/3BPCyNp90t5O2e1kjWVrGR) | 7:16 | 2022-05-25 | 2022-07-29 |
 | [How Blue Can You Get](https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp) | 7:16 | 2022-07-08 |  |
 | [How Unlucky Can One Man Be](https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [Nick Holt](https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo), [The Teardrops](https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto) | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ) | 7:13 | 2022-07-08 |  |
+| [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 | 2022-10-14 |  |
 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 | 2022-06-14 | 2022-06-24 |
 | [I Loved Another Woman](https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks) | 2:55 | 2022-05-25 | 2022-07-29 |
 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 | 2022-06-14 | 2022-06-16 |
@@ -80,7 +81,7 @@
 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 | 2022-07-01 |  |
 | [Somebody Loan Me A Dime \- Remastered](https://open.spotify.com/track/1bCguZTvZwEhoMGFlngXsh) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 2:56 | 2022-05-25 | 2022-07-27 |
 | [Something With Feel](https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Something With Feel](https://open.spotify.com/album/5iuYE1T3bzro4dvnA3Z5ln) | 3:07 | 2022-05-25 | 2022-07-28 |
-| [Something With Feel](https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:07 | 2022-09-30 |  |
+| [Something With Feel](https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:07 | 2022-09-30 | 2022-10-15 |
 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 | 2022-05-25 | 2022-07-29 |
 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 | 2022-05-25 |  |
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2022-07-08 |  |

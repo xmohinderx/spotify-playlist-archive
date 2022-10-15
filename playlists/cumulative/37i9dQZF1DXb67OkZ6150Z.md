@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-351 songs - 21 hr 40 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+352 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,11 +172,12 @@
 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 | 2022-10-03 |  |
 | [It's You](https://open.spotify.com/track/6SkG8OCuHktTfEPBGB2uHL) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [It's You](https://open.spotify.com/album/0cZjs7bWRgLtzM9rih3Bsw) | 4:16 | 2022-02-25 | 2022-07-29 |
 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 | 2021-03-12 | 2022-07-28 |
-| [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 |  |
+| [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 | 2022-10-15 |
 | [Just the Two of Us](https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Just the Two of Us](https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC) | 2:44 | 2021-03-12 | 2022-04-17 |
 | [Kids](https://open.spotify.com/track/41KEwBsz0vFOMaSiujdfci) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Kids](https://open.spotify.com/album/4jyTfc5rR5SdTgGnlAdaCa) | 4:03 | 2022-02-25 | 2022-07-29 |
 | [Kiss](https://open.spotify.com/track/1IZ2RLaTBzvSnMPtLpyUf1) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [Kiss](https://open.spotify.com/album/0Gj3yIbkS5mFPtU4GwHwxf) | 5:08 | 2021-03-12 | 2022-04-17 |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr) | 3:07 | 2022-01-11 | 2022-08-10 |
+| [Knee Deep at ATP](https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6pTPviSRgaaaGzxGiuna5O) | 3:08 | 2022-09-03 |  |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs) | 3:08 | 2022-08-09 | 2022-10-13 |
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2021-03-12 | 2022-07-29 |
 | [La de Blink](https://open.spotify.com/track/6vjfB3BjJ9KjxULP5TwROw) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq) | [La de Blink](https://open.spotify.com/album/5pWgylTwP21EtG725ko5t5) | 2:48 | 2021-07-21 | 2022-04-19 |

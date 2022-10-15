@@ -4,7 +4,7 @@
 
 > Just chill.
 
-355 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+357 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-06-07 | 2022-10-13 |
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-10 | 2022-10-08 |
 | [everything's worth it](https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/5LYJ2vWmQ6FBjlaIZ5yoZl) | 4:35 | 2021-06-07 |  |
-| [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 | 2022-09-16 |  |
+| [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 | 2022-09-16 | 2022-10-15 |
+| [Fairweather Friends](https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv) | 3:10 | 2022-09-16 |  |
 | [Familiar](https://open.spotify.com/track/0cIW3VDH2FOnO3WGQYZ1MZ) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Familiar](https://open.spotify.com/album/2uBZAPxV889fqgWZBjxcjx) | 3:33 | 2020-04-27 | 2022-01-22 |
 | [Fascination](https://open.spotify.com/track/6lzaSbHNtNNO7J9yOdYa9E) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Fascination](https://open.spotify.com/album/3FVd8ZTI5e8gvq0IDrk6GB) | 4:29 | 2022-09-02 |  |
 | [Feel These Heavy Times](https://open.spotify.com/track/28lNe4BlMf3vS0B5JQPuUu) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Out of My Mind](https://open.spotify.com/album/6Ksncrh5J2X2iJVGbZGf0A) | 3:49 | 2020-04-24 | 2022-07-29 |
@@ -261,7 +262,8 @@
 | [Sentimental](https://open.spotify.com/track/6tsjOeopFsA1z5n4GkXsqb) | [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z), [Xandra](https://open.spotify.com/artist/2LAVKF9Udoyt6jxZNBpW7x) | [Sentimental](https://open.spotify.com/album/5mZMxiABBFXisV9Y4Mcs0M) | 3:46 | 2020-05-22 | 2022-06-18 |
 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-19 |  |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 | 2022-10-03 |
-| [Settle Down](https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4o2hbK2sZYnvVDOTaIDNrx) | 3:51 | 2022-04-29 |  |
+| [Settle Down](https://open.spotify.com/track/2N1xPOMaQRyQ9SAIiLkESd) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4qrjeTgHr22oG9piwLhsxA) | 3:51 | 2022-08-19 |  |
+| [Settle Down](https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4o2hbK2sZYnvVDOTaIDNrx) | 3:51 | 2022-04-29 | 2022-10-15 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2020-06-04 | 2022-01-22 |
 | [SG Lou](https://open.spotify.com/track/2fkWyHBfRt87VD2Iilb6AM) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [SG Lou](https://open.spotify.com/album/1jBjIutXhOUYpAWrveficC) | 3:52 | 2020-08-21 | 2022-01-22 |
 | [Sickworld](https://open.spotify.com/track/4YF95ySg5ilyCzPnG6Kskr) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Sickworld](https://open.spotify.com/album/3J1gp2Jd47E7bb5JeQZojv) | 6:42 | 2022-10-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,893 likes - 54 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,904 likes - 54 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 16 | [Mulatu](https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 6:20 |
 | 17 | [Betam New Emewodish](https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X) | [Dawit Tsige](https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ) | [Betam New Emiwodish](https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ) | 5:38 |
 | 18 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 |
-| 19 | [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 |
+| 19 | [Dèra](https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:23 |
 | 20 | [Ykomal Woy](https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 4:20 |
 | 21 | [Tizita](https://open.spotify.com/track/784q54gDzR98Mfd56z56OF) | [Buzuayew Demissie](https://open.spotify.com/artist/2Wm17zcM0MLD7TQBS1lgPq) | [Nahiom Favorites, Vol\. 19](https://open.spotify.com/album/4DfZwvE1S6ZimCJ7dEYwXg) | 5:56 |
 | 22 | [Debzezesh](https://open.spotify.com/track/5nUbqoz7j9btdIZkkuJL5a) | [Eyob Mekonen](https://open.spotify.com/artist/5hn5axBeYPCxuGA07FE731) | [Ende Kal](https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo) | 6:26 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 53 | [Shelter](https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK) | 4:19 |
 | 54 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
 
-Snapshot ID: `MTY2NTA2MTcwMiwwMDAwMDAwMDk0ZDEzY2Q5MjUzMzVkODZhMzBhNDdmNWM1ZTQ4ZWJm`
+Snapshot ID: `MTY2NTA2MTcwMiwwMDAwMDAwMGJjNTIzZjgxYTYzZTdlYzExZDVjMDJjNTIwZTA0OWEw`

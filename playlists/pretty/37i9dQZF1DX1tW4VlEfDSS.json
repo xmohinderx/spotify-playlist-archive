@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 332184,
+  "num_followers": 332219,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDFiNDM2NTg2M2E4ZjBlMzljODcwNmQ1MjI4YWZhNjhh",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGI0NmQ4ZTU3YjcxNjk4ZWQ5N2YyZDI0YjY1YjlkZjVk",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -155,26 +155,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Everybody Dance (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        },
-        {
-          "name": "Franklin",
-          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 168289,
-      "name": "Everybody Dance (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -199,18 +191,26 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "Everybody Dance (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+      "duration_ms": 168289,
+      "name": "Everybody Dance (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Do you Feel Like I do?",
         "url": "https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/3WALyLgFg8b8r4y31MQRZ0"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 205000,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi"
-      },
-      "artists": [
-        {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -939,6 +923,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
+      },
+      "artists": [
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "On My Mind - Radio Mix",
+      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
+        "name": "Say Mama",
+        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
       },
       "artists": [
         {
-          "name": "Sandy's Groove",
-          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
         }
       ],
-      "duration_ms": 240000,
-      "name": "On My Mind - Radio Mix",
-      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
+      "duration_ms": 177000,
+      "name": "Say Mama",
+      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -995,38 +995,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Say Mama",
-        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Say Mama",
-      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "GULLIBLE",
-        "url": "https://open.spotify.com/album/3J3hQHIAUdScU2PgBH2xbO"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 192581,
-      "name": "GULLIBLE",
-      "url": "https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Second Chance (feat. Kimberly Davis)",
         "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
       },
@@ -1043,6 +1011,22 @@
       "duration_ms": 204132,
       "name": "Second Chance (feat. Kimberly Davis)",
       "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "GULLIBLE",
+        "url": "https://open.spotify.com/album/3J3hQHIAUdScU2PgBH2xbO"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 192581,
+      "name": "GULLIBLE",
+      "url": "https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1135,6 +1119,22 @@
       "duration_ms": 260256,
       "name": "What Ya Here For?",
       "url": "https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/5eUitT6YJ0tKPE7VflH3HY"
+      },
+      "artists": [
+        {
+          "name": "CHEBO",
+          "url": "https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz"
+        }
+      ],
+      "duration_ms": 192260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik"
     }
   ],
   "unique_name": "Groove Theory",

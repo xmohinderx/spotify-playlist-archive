@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. In cover, Deda.",
-  "num_followers": 28048,
+  "num_followers": 28078,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQ2MCwwMDAwMDAwMDRlMDUyYzk5ZDdhYmUwN2RjNzBhNzg4ZjRlZmY1ZWNl",
+  "snapshot_id": "MTY2NTY5ODQ2MCwwMDAwMDAwMGFjMDczNjUzODg4ZGE5YTI0M2Q0NjQwMjA4MGU1NmMx",
   "tracks": [
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Iron Maiden",
-        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
-      },
-      "artists": [
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Iron Maiden",
-      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "Rebus",
         "url": "https://open.spotify.com/album/0Otjtd9sT4ZwhzX7AirKC6"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
+        "name": "Iron Maiden",
+        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
+      },
+      "artists": [
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Iron Maiden",
+      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1155,50 +1155,6 @@
       "duration_ms": 295293,
       "name": "Cani sciolti",
       "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lontano 2036",
-      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Stokka",
-          "url": "https://open.spotify.com/artist/4J7IDFi8WMrs8WpGnh8geP"
-        },
-        {
-          "name": "Mad Buddy",
-          "url": "https://open.spotify.com/artist/1xB5wW9mLQM0q8FEqY8OAJ"
-        },
-        {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Ghettoblaster",
-      "url": "https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1235,6 +1191,50 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Stokka",
+          "url": "https://open.spotify.com/artist/4J7IDFi8WMrs8WpGnh8geP"
+        },
+        {
+          "name": "Mad Buddy",
+          "url": "https://open.spotify.com/artist/1xB5wW9mLQM0q8FEqY8OAJ"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Ghettoblaster",
+      "url": "https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Lontano 2036",
+      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "SFIGA",
-        "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
-      },
-      "artists": [
-        {
-          "name": "Grido",
-          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "SFIGA",
-      "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "Fidarti di me",
         "url": "https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA"
       },
@@ -1291,6 +1271,58 @@
       "duration_ms": 160454,
       "name": "Fidarti di me",
       "url": "https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "Dead poets",
+        "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN"
+        },
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        },
+        {
+          "name": "The Rockness Monstah",
+          "url": "https://open.spotify.com/artist/7mXBMpEz4S7jAnBgdYq5mI"
+        },
+        {
+          "name": "Mic Handz",
+          "url": "https://open.spotify.com/artist/2g8mUNOx44gUxvJ2TzqtbD"
+        }
+      ],
+      "duration_ms": 291757,
+      "name": "Poeti estinti",
+      "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "SFIGA",
+        "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
+      },
+      "artists": [
+        {
+          "name": "Grido",
+          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "SFIGA",
+      "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1339,26 +1371,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Mai pi\u00f9",
-        "url": "https://open.spotify.com/album/1UMIdUVRJgDbPSU7s8M2bV"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        }
-      ],
-      "duration_ms": 155727,
-      "name": "Mai pi\u00f9",
-      "url": "https://open.spotify.com/track/7eCTouW8AsJxIhUuia3ASY"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "My Bad",
         "url": "https://open.spotify.com/album/2lbw1UhnNbogs7OGGvhCjK"
       },
@@ -1403,6 +1415,26 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
+        "name": "Mai pi\u00f9",
+        "url": "https://open.spotify.com/album/1UMIdUVRJgDbPSU7s8M2bV"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "duration_ms": 155727,
+      "name": "Mai pi\u00f9",
+      "url": "https://open.spotify.com/track/7eCTouW8AsJxIhUuia3ASY"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
         "name": "Blocknotes",
         "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
       },
@@ -1419,54 +1451,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "Dead poets",
-        "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN"
-        },
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        },
-        {
-          "name": "The Rockness Monstah",
-          "url": "https://open.spotify.com/artist/7mXBMpEz4S7jAnBgdYq5mI"
-        },
-        {
-          "name": "Mic Handz",
-          "url": "https://open.spotify.com/artist/2g8mUNOx44gUxvJ2TzqtbD"
-        }
-      ],
-      "duration_ms": 291757,
-      "name": "Poeti estinti",
-      "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 265840,
       "name": "Chiedi Alla Polvere 2008",
       "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Il Mio Giorno Migliore",
-        "url": "https://open.spotify.com/album/6ALhJ6zXjLDaiuy4OU2TjW"
-      },
-      "artists": [
-        {
-          "name": "Al Castellana",
-          "url": "https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z"
-        },
-        {
-          "name": "Tormento",
-          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
-        }
-      ],
-      "duration_ms": 289609,
-      "name": "Il Mio Giorno Migliore",
-      "url": "https://open.spotify.com/track/18Mm631s6Vr11mYyAJYL9A"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "Il Mio Giorno Migliore",
+        "url": "https://open.spotify.com/album/6ALhJ6zXjLDaiuy4OU2TjW"
+      },
+      "artists": [
+        {
+          "name": "Al Castellana",
+          "url": "https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        }
+      ],
+      "duration_ms": 289609,
+      "name": "Il Mio Giorno Migliore",
+      "url": "https://open.spotify.com/track/18Mm631s6Vr11mYyAJYL9A"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
         "name": "Black Market (St Luca Spenish Remix)",
         "url": "https://open.spotify.com/album/4jvApUPxBom7MVqP6rJ3xC"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 203250,
       "name": "Black Market - St Luca Spenish Remix",
       "url": "https://open.spotify.com/track/4Y5iO8sENPmNlbE7zsBAr3"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
         "name": "Luce Nell'Ombra",
         "url": "https://open.spotify.com/album/6qauuQW1zdvxxeIwPJijwY"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 235722,
       "name": "Luce Nell'Ombra",
       "url": "https://open.spotify.com/track/7DuL4j69WxBqjA5SAjuT5u"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2022-10-13 22:01:00",

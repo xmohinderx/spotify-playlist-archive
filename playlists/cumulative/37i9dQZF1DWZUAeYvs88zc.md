@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-438 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
+439 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-09-14 |  |
 | [Ghost](https://open.spotify.com/track/4mUV6ibaOhrkYNxFT0bSuL) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Ghost \- EP](https://open.spotify.com/album/4xRU1l0o51zNmeTPqFuVRB) | 0:29 | 2022-03-25 | 2022-07-02 |
 | [ghosts](https://open.spotify.com/track/1IQrWMzaUT0mwjP64lfQvR) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [idle](https://open.spotify.com/album/77EcAn5H4pGamI8JiwvP4T) | 4:24 | 2019-05-26\* | 2021-09-25 |
+| [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2022-10-07 |  |
 | [Give Me My Name Back](https://open.spotify.com/track/6YIkU44i9mfapJ4Zfs1ggz) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Give Me My Name Back](https://open.spotify.com/album/5YAOBLC1r8kUPAfKJnGLjJ) | 3:11 | 2019-05-26\* | 2021-05-28 |
 | [Go Now](https://open.spotify.com/track/2Lp6Vp03T7zLAWbl6jyUB8) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:06 | 2019-05-29 | 2019-08-09 |
 | [Golden](https://open.spotify.com/track/0WRccXTHXiYxaN8CFXPYGB) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 3:52 | 2021-10-27 | 2021-12-21 |
@@ -212,7 +213,7 @@
 | [Indecision](https://open.spotify.com/track/3WpCo0L32D1zsEwcDQ39VM) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:32 | 2019-07-27 | 2019-08-02 |
 | [Indestructible](https://open.spotify.com/track/4CZ8nFoCsNNXuaX0qBm8LX) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:40 | 2019-07-27 | 2019-08-10 |
 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 | 2019-05-26\* | 2021-05-27 |
-| [It’s You, Not Me \(Sabotage\)](https://open.spotify.com/track/2Vz1Kcs9Chj8SGb2UjPMxP) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [It’s You, Not Me \(Sabotage\)](https://open.spotify.com/album/5dApLNCSKjkys2FGOq7QAZ) | 2:56 | 2021-11-20 |  |
+| [It’s You, Not Me \(Sabotage\)](https://open.spotify.com/track/2Vz1Kcs9Chj8SGb2UjPMxP) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [It’s You, Not Me \(Sabotage\)](https://open.spotify.com/album/5dApLNCSKjkys2FGOq7QAZ) | 2:56 | 2021-11-20 | 2022-10-15 |
 | [Jealous \- Bakermat Remix](https://open.spotify.com/track/7BOu5S45QjJhriKH2QyvCj) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Jealous \(Remixes\)](https://open.spotify.com/album/4tCOKUKVTUDGhndvawdcjv) | 4:10 | 2019-07-27 | 2019-08-09 |
 | [John Hughes Movie](https://open.spotify.com/track/1rY5sQ6hjIWP6juaRCs455) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:36 | 2021-09-29 | 2022-07-29 |
 | [Josslyn](https://open.spotify.com/track/0UhKDHeZw2kHOz9HiRNFBH) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [The Results Of My Poor Judgement](https://open.spotify.com/album/0qXVEBzNL34X3NgqmI8hH4) | 3:09 | 2020-05-31 | 2021-10-23 |

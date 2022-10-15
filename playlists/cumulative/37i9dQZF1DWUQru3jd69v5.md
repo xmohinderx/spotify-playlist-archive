@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Il Ghost
 
-261 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+262 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [NO CONFIDENCE](https://open.spotify.com/track/4aCdjK8tuejHwGSTpgRCez) | [Rione](https://open.spotify.com/artist/7iMfaY3weGRYnarHrFogVH), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [NO CONFIDENCE](https://open.spotify.com/album/2I3c5Ebl05sIArI3uy3mtj) | 2:59 | 2022-09-22 |  |
 | [No Kizzy](https://open.spotify.com/track/31KBhThOSGbqFcWbeMhGyw) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [No Kizzy](https://open.spotify.com/album/0WIcy0I1BOINZSXYJJlLEe) | 3:08 | 2022-08-11 | 2022-09-02 |
 | [No Way](https://open.spotify.com/track/1p3CfTqbZS8D8eZMf4ISyy) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [No Way](https://open.spotify.com/album/3bcuFWLhPtnu5K5PVa364S) | 2:17 | 2022-06-02 | 2022-06-24 |
+| [NON MI BASTERÀ](https://open.spotify.com/track/6n2Kf18yFkWTbOANDeFJ69) | [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [NON MI BASTERÀ](https://open.spotify.com/album/34Xcpmvk5Hnoc3PI5Yl7u7) | 2:23 | 2022-10-14 |  |
 | [NON MI VA](https://open.spotify.com/track/47VdKYEREq0LtxxHr12nUw) | [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF) | [NON MI VA](https://open.spotify.com/album/081JgQyk3lZDneHdAiEGnw) | 3:08 | 2022-10-13 |  |
 | [Notte bianca](https://open.spotify.com/track/3XXFvqyOSRCf1vXYT535kA) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Notte bianca](https://open.spotify.com/album/6y4T4ZbS8R7dDACoZAZgXm) | 3:23 | 2022-07-14 | 2022-08-12 |
 | [Occhi](https://open.spotify.com/track/2T54X7430fR4NOlD6t7PGq) | [2G](https://open.spotify.com/artist/2dk5OVuVzNM0h7AqxbswF4) | [Occhi](https://open.spotify.com/album/65KeJGXJJHALXOmREbSsfC) | 2:32 | 2022-09-01 | 2022-09-30 |

@@ -790,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/5iG7oplAbHnwQ4JUvc52vX"
+      },
+      "artists": [
+        {
+          "name": "BANHANA",
+          "url": "https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/3pQZ4fLxNgHLRdb7YAccHt"
+    },
+    {
+      "album": {
         "name": "Ballad, Ryeoyo_KANG MINKYUNG",
         "url": "https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM"
       },
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 243253,
       "name": "Endlessly (Prod. SonIsaac)",
       "url": "https://open.spotify.com/track/3CveBxz6yDXJAqQpeBjJDT"
@@ -3249,7 +3267,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 232080,
       "name": "Good Night My Princess",
       "url": "https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl"
@@ -3622,6 +3640,24 @@
     },
     {
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/2NxrCMvZHSJXsm92CmPiiW"
+      },
+      "artists": [
+        {
+          "name": "Kim Yong Jun",
+          "url": "https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "How can I forget about you",
+      "url": "https://open.spotify.com/track/6IsDt2hW9kaH9cLVu4DIVH"
+    },
+    {
+      "album": {
         "name": "How could you",
         "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
       },
@@ -3713,7 +3749,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 265681,
       "name": "How should I say it",
       "url": "https://open.spotify.com/track/1oMQkyqsgpcdhzAskPCKtC"
@@ -4067,7 +4103,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 235197,
       "name": "I LUV U (with Mirani)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
@@ -4893,7 +4929,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 222508,
       "name": "It's all just lies",
       "url": "https://open.spotify.com/track/4T2XFY63jsrqFx2Hc7YXEn"
@@ -7145,7 +7181,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 196576,
       "name": "Real LOVE",
       "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
@@ -7383,7 +7419,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 221000,
       "name": "Same as Your Ex",
       "url": "https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ"
@@ -8224,6 +8260,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back In Time",
+        "url": "https://open.spotify.com/album/2DDALB3NxTOgxoRXAm8LlX"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "Take Me Back In Time",
+      "url": "https://open.spotify.com/track/3GOC3sFDrsNK61FQNEqODL"
+    },
+    {
+      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -8535,7 +8589,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 252533,
       "name": "The Memory of Star",
       "url": "https://open.spotify.com/track/29XPPKL4f4X9BqyiKyKyvY"
@@ -10102,6 +10156,28 @@
     },
     {
       "album": {
+        "name": "Your Smiling Face",
+        "url": "https://open.spotify.com/album/1Ug94rAL8WZ9NKskK6bL3R"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332426,
+      "name": "Your Smiling Face",
+      "url": "https://open.spotify.com/track/53xZlMoSVGa4qRxFsahgdX"
+    },
+    {
+      "album": {
         "name": "You\u2019re the best of me",
         "url": "https://open.spotify.com/album/4F43zvJZ28xKAfvow1Hxlp"
       },
@@ -10409,7 +10485,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 237931,
       "name": "\uc774\ub807\uac8c \uc9c0\uae08",
       "url": "https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX"

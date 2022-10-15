@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: Un Coraz\u00f3n",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: Pablo Martinez y Kairy Marquez",
   "name": "\u00c9xitos Cristianos",
   "published_playlist_ids": [
     "46xuGYmp3nbMhyLwZ3Xj5y"
@@ -1830,6 +1830,28 @@
     },
     {
       "album": {
+        "name": "El Es Fiel",
+        "url": "https://open.spotify.com/album/4ljoQwJXRB8M01sawNdvQx"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        },
+        {
+          "name": "Kairy Marquez",
+          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "El Es Fiel",
+      "url": "https://open.spotify.com/track/15MSm4FwuNGjdqb6t6ppWJ"
+    },
+    {
+      "album": {
         "name": "El Final de Mis Sue\u00f1os",
         "url": "https://open.spotify.com/album/41ylKotUgXDqeIidwtYvKD"
       },
@@ -3275,7 +3297,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 200333,
       "name": "Luna",
       "url": "https://open.spotify.com/track/3rEFHkpVayHvY6wx5Fb7a1"
@@ -4067,6 +4089,28 @@
       "duration_ms": 231008,
       "name": "Noches Enteras",
       "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+    },
+    {
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/3MSk7DD57l7CqyCIZl6hVQ"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243837,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/3lKlApf4R2kgiD9Lim9dMZ"
     },
     {
       "album": {
@@ -5721,7 +5765,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 244633,
       "name": "Tuyo - Remix",
       "url": "https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z"

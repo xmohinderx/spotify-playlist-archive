@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-589 songs - 1 day 11 hr 12 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+590 songs - 1 day 11 hr 15 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Honey, I'm Good.](https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/0XUNG1cssmwHh22loRqKdJ) | 3:19 | 2021-08-10 |  |
 | [Hoodie](https://open.spotify.com/track/410smJMzhna1ADC2ldqVHu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:39 | 2021-08-10 |  |
 | [Hotel](https://open.spotify.com/track/1z4OnhqV4ad4FEcAwV21Fy) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Hotel \- EP](https://open.spotify.com/album/5TieoUBxMIxeUyR3ZSnPkF) | 3:47 | 2021-08-10 |  |
-| [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 2:34 | 2022-05-11 |  |
+| [How Long Will I Love You](https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 2:34 | 2022-05-11 |  |
+| [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 2:34 | 2022-05-11 | 2022-10-15 |
 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/7CFQrZR4WeKEg4vweqp8Gv) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3) | 2:34 | 2021-08-10 | 2022-07-29 |
 | [How Would You Feel \(Paean\)](https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:40 | 2021-08-10 |  |
 | [Hula Hoop](https://open.spotify.com/track/07AiWpzE3B8aAuFAIfrlQ7) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:25 | 2022-05-11 |  |

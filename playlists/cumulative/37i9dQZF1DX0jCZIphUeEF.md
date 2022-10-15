@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-68 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
+69 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [He Is \(feat\. Song Williamson\) \- Ferrer & Sydenham Inc Vox Mix](https://open.spotify.com/track/5238avQlRSW9LeUN5sIGKI) | [Copyright](https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd), [Song Williamson](https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB) | [He Is](https://open.spotify.com/album/51gAjOsqdrk7lOt9aCXjwp) | 8:01 | 2022-08-01 |  |
 | [Hecate \- Original Mix](https://open.spotify.com/track/4dbAmImPbQ8CKtvbopT5ls) | [Amine K](https://open.spotify.com/artist/2sCOxaGZEmaDPlTLDboMnh) | [10 Years Hive Audio, Pt\. 3](https://open.spotify.com/album/5PmgOg1nXO0o0x2BjzVCw1) | 6:34 | 2022-08-01 |  |
 | [Holi](https://open.spotify.com/track/0KPRVpZipfBa416bU01fTp) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Niki4](https://open.spotify.com/artist/3ZIPK1vx39AtBHleH80CzV) | [Holi EP](https://open.spotify.com/album/3MaaYmcDVNUw3jKTRAx5nE) | 6:45 | 2022-08-01 |  |
-| [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-08-01 |  |
+| [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-08-01 | 2022-10-15 |
+| [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 | 2022-09-08 |  |
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2022-08-01 |  |
 | [Infinite](https://open.spotify.com/track/2ADIx3mKqYxEwa6mtaMEPT) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Infinite](https://open.spotify.com/album/1T5qmCtYT6lrjIHcCyu9Aa) | 7:09 | 2022-08-01 |  |
 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 | 2022-08-01 |  |

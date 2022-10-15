@@ -3013,7 +3013,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 177136,
       "name": "la danse",
       "url": "https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX"
@@ -3823,7 +3823,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 267480,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0"
@@ -4849,6 +4849,24 @@
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
+    },
+    {
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "album": {
@@ -6229,7 +6247,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 496546,
       "name": "Warm Data",
       "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"

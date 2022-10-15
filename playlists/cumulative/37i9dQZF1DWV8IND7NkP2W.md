@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-508 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+509 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [So Long \- Instrumental](https://open.spotify.com/track/4UvQOOyT1gGuTqxIw9tteA) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [So Long \(Instrumental\)](https://open.spotify.com/album/2MCywuCm8XdhjuDIzFY4S5) | 3:10 | 2021-12-23 | 2022-07-19 |
 | [Something Holy](https://open.spotify.com/track/2nkg8R5laGOkrt5bzGo9pK) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Something Holy](https://open.spotify.com/album/3zYErvP9VfJ4I1wL42uPve) | 2:25 | 2022-08-11 |  |
 | [sora no kanata](https://open.spotify.com/track/10g1elNvLdmdDgCzoJfwJY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/1ueh8S99rxAHLIbMyTSOnK) | 3:18 | 2022-07-28 | 2022-08-01 |
-| [sora no kanata](https://open.spotify.com/track/220qwCrb8vPdRPQqzzG24l) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 3:18 | 2022-10-06 |  |
+| [sora no kanata](https://open.spotify.com/track/220qwCrb8vPdRPQqzzG24l) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 3:18 | 2022-10-06 | 2022-10-15 |
 | [sora no kanata](https://open.spotify.com/track/5WTQJ99h1iioTt4RPhOX8g) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/35qhWebItQ3GV3QS7o56Cw) | 3:18 | 2022-04-21 | 2022-07-29 |
 | [Sorrow Of Youth](https://open.spotify.com/track/2ZLNL0JcFc3DNbFrTQMaHQ) | [14?](https://open.spotify.com/artist/1DZRj5FUmSmvLmFNiQacWK) | [Escape](https://open.spotify.com/album/6EXNFcRX6s93p409GJ234a) | 4:26 | 2021-12-23 | 2022-01-25 |
 | [Sounds Like Love](https://open.spotify.com/track/4Ix70rkYSbbXfzqLk6lvRM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [The Remixes Instrumental](https://open.spotify.com/album/52xioo3LkEQ7B1dfYD9SVl) | 4:00 | 2022-01-13 | 2022-06-29 |
@@ -491,6 +491,7 @@
 | [Water Circles](https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Water Circles](https://open.spotify.com/album/0vqTCC4FGn6WosT2pGb2rD) | 1:57 | 2022-01-13 |  |
 | [Water lily](https://open.spotify.com/track/1uYPMrxNN1SaB6sRjdWBYL) | [STUDIO75](https://open.spotify.com/artist/426lQwhWajxrxgvl7BRSiH) | [SHAMROCK vol1](https://open.spotify.com/album/00M1JNgdlJOYjgz1p68lCY) | 1:30 | 2021-12-23 | 2022-07-27 |
 | [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 | 2022-07-28 | 2022-10-09 |
+| [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 | 2022-10-13 |  |
 | [We Gathered Leaves](https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [We Gathered Leaves](https://open.spotify.com/album/5YRDw5rO8vIUxjtgHqICji) | 1:33 | 2021-12-23 |  |
 | [weather report](https://open.spotify.com/track/6hoLVkgEPTro70Me2pq8RV) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [weather report](https://open.spotify.com/album/6yG2ezI1VnnuqlpX4yOGHB) | 2:40 | 2022-05-26 | 2022-07-26 |
 | [What Is Peace 4 U](https://open.spotify.com/track/3GQSl6DYDVMK1trBd6xZUI) | [45](https://open.spotify.com/artist/7s2An89rlAjaY1HLgeLtHT) | [What Is Peace 4 U](https://open.spotify.com/album/1eNldbRjczJrgg80vWkyfI) | 3:16 | 2022-03-24 | 2022-07-29 |

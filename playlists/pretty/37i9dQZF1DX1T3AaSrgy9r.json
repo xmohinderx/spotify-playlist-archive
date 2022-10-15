@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 70293,
+  "num_followers": 70395,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDFlNjg3OTI3YjAxNzk4YTcyOTU0OTY4NWI2NWM1NDZj",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDc1NzlkYmNhMzcyYWQ4ZDYzMzMyNjY1MjhiNzhhNmQy",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Metropol",
-        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
-      },
-      "artists": [
-        {
-          "name": "Lunatic Calm",
-          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "Leave You Far Behind",
-      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Inner City Life",
         "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 231973,
       "name": "Inner City Life - Radio Edit",
       "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Metropol",
+        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Calm",
+          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Leave You Far Behind",
+      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "808:88:98",
+        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Pacific 707",
+      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "The Journey Man",
         "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 211533,
       "name": "Toxygene - 7\" Edit",
       "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "808:88:98",
-        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Pacific 707",
-      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Swamp Thing",
         "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Best Of Lamb 1996-2004 - Best Kept Secrets",
-        "url": "https://open.spotify.com/album/7cgueLeLixSTaOgoRQeR94"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 260640,
-      "name": "Gabriel",
-      "url": "https://open.spotify.com/track/0x7i1EB5EyFbqWRWiItLFs"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
         "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
       },
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "The Best Of Lamb 1996-2004 - Best Kept Secrets",
+        "url": "https://open.spotify.com/album/7cgueLeLixSTaOgoRQeR94"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/0x7i1EB5EyFbqWRWiItLFs"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Second Toughest In The Infants (Remastered)",
         "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
       },
@@ -1412,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1447,22 +1463,6 @@
       "duration_ms": 249000,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Bodyrock",
-      "url": "https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko"
     }
   ],
   "unique_name": "Generation Electronica",

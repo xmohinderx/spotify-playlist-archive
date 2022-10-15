@@ -4,7 +4,7 @@
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-300 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+301 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Giving Up On U](https://open.spotify.com/track/1tG4l4iUvZC6M1Y8MVBacK) | [Laser](https://open.spotify.com/artist/40V6p0CfGARmxEiHA2Nv1f), [Panda Eyes](https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz) | [Giving Up On U](https://open.spotify.com/album/6Nl7jAAYCOthnrUxFqEDwq) | 3:15 | 2022-05-06 | 2022-07-28 |
 | [Gold](https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Gold / YES](https://open.spotify.com/album/5OvG0ow70k4wROjF597ost) | 4:20 | 2022-05-06 | 2022-07-29 |
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2022-05-06 |  |
+| [Halo](https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Halo](https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6) | 2:36 | 2022-10-14 |  |
 | [Have Fun](https://open.spotify.com/track/4JdsnIZdnrkIU9emqiEhTo) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Have Fun](https://open.spotify.com/album/54ky6fqaBinet9a6SHAVxm) | 2:44 | 2022-05-24 | 2022-07-10 |
 | [Hear My Call \(feat\. Tyler Graves\)](https://open.spotify.com/track/2p1taQKLDOA4tIsLTlLSoj) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Gem & Tauri](https://open.spotify.com/artist/4pSG7BUZvHZGk1j7QoWcFp), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Hear My Call \(feat\. Tyler Graves\)](https://open.spotify.com/album/09KkysAzHf6jZjnQaEfgkz) | 3:08 | 2022-05-06 | 2022-07-28 |
 | [Heart Afire](https://open.spotify.com/track/4s4XzNKcU3PtmeV7OdXDmv) | [Defqwop](https://open.spotify.com/artist/0lfD4Ye7RAbP8FQiuE6aFs), [STRIX](https://open.spotify.com/artist/0kjukWYfMpUe8Yr2c9S9Sj) | [NCS is Love, NCS is Life, Vol\. 1](https://open.spotify.com/album/0R6JKXqMghl97Sx7ngToTm) | 4:00 | 2022-05-06 | 2022-06-24 |
@@ -162,7 +163,7 @@
 | [LSD](https://open.spotify.com/track/3Vwpo3aARHRjusbFsSlLk0) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [LSD](https://open.spotify.com/album/7ll9IBL7030mFRxrsuqkUl) | 3:08 | 2022-05-06 | 2022-05-10 |
 | [LUV U NEED U](https://open.spotify.com/track/3YVj9LLq5GMvBvoKubnUp0) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [LUV U NEED U](https://open.spotify.com/album/04ebYhavcGBpHqImHLMyml) | 2:26 | 2022-07-14 | 2022-07-26 |
 | [MADE 4 THIS](https://open.spotify.com/track/5KCgiQKyrpqldADnutzaj6) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [01953](https://open.spotify.com/album/6IcTEQmazY57A2WAQ2O3xW) | 2:42 | 2022-06-03 | 2022-06-23 |
-| [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2022-07-14 |  |
+| [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2022-07-14 | 2022-10-15 |
 | [Memories](https://open.spotify.com/track/4OZ7Xw6sxt4sMpmstB3qHS) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Where It All Began](https://open.spotify.com/album/0F48IWOiRVqr2bBV4J8c1H) | 2:49 | 2022-05-06 | 2022-07-27 |
 | [Menace](https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Spiral](https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co) | 3:16 | 2022-05-06 | 2022-07-29 |
 | [MENTAL STATE](https://open.spotify.com/track/6fWFFBD6VM5xEHpQUFhLe1) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MENTAL STATE](https://open.spotify.com/album/5yvOrCuESdit789o6CAl74) | 4:09 | 2022-05-06 | 2022-07-29 |

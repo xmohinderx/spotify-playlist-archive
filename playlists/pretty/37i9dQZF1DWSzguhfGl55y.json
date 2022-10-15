@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 575835,
+  "num_followers": 575952,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDdlY2NiNTQwOWI3NjM1MmYzMTBlZTJjNzkzYjAxY2Uw",
+  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMGNhMGYzODNiYWJkNThjZWE1MGY4Y2EyN2U2NTg4YWZk",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:50",
@@ -219,38 +219,6 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Kids (2 Finger an den Kopf)",
-      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
         "name": "Advanced Chemistry",
         "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
       },
@@ -271,6 +239,38 @@
       "duration_ms": 253680,
       "name": "Ahnma",
       "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Kids (2 Finger an den Kopf)",
+      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
     },
     {
       "added_at": "2022-09-21 12:36:50",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "OMG!",
-      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "OMG!",
+      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
         "name": "Samy Deluxe",
         "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
@@ -503,30 +503,6 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Beat of Life, Vol. 1",
-        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
-      },
-      "artists": [
-        {
-          "name": "DJ Tomekk",
-          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Trooper Da Don",
-          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Kimnotyze",
-      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
         "name": "Kompass ohne Norden (Premium Edition)",
         "url": "https://open.spotify.com/album/6ZcglelPRZIyIQ0jnFpZeT"
       },
@@ -539,22 +515,6 @@
       "duration_ms": 252786,
       "name": "Kompass ohne Norden",
       "url": "https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
-        "name": "Demotape",
-        "url": "https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Schwule M\u00e4dchen",
-      "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
     },
     {
       "added_at": "2022-09-21 12:36:50",
@@ -587,6 +547,50 @@
       "duration_ms": 215933,
       "name": "Mit freundlichen Gr\u00fc\u00dfen",
       "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "Beat of Life, Vol. 1",
+        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomekk",
+          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Trooper Da Don",
+          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Kimnotyze",
+      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "Blockschrift",
+        "url": "https://open.spotify.com/album/4Rzr6mHoq3nUppphdbmxwj"
+      },
+      "artists": [
+        {
+          "name": "Azad",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Adel Tawil",
+          "url": "https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Prison Break Anthem (Ich glaub an Dich) (feat. Adel Tawil) - Single Version",
+      "url": "https://open.spotify.com/track/1ISVPhtR7F0DMluQkhq3mT"
     },
     {
       "added_at": "2022-09-21 12:36:50",
@@ -635,22 +639,18 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Blockschrift",
-        "url": "https://open.spotify.com/album/4Rzr6mHoq3nUppphdbmxwj"
+        "name": "Demotape",
+        "url": "https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1"
       },
       "artists": [
         {
-          "name": "Azad",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        },
-        {
-          "name": "Adel Tawil",
-          "url": "https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Prison Break Anthem (Ich glaub an Dich) (feat. Adel Tawil) - Single Version",
-      "url": "https://open.spotify.com/track/1ISVPhtR7F0DMluQkhq3mT"
+      "duration_ms": 205293,
+      "name": "Schwule M\u00e4dchen",
+      "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
     },
     {
       "added_at": "2022-09-21 12:36:50",

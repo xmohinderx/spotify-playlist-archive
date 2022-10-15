@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-419 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+420 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2022-01-06 | 2022-10-08 |
 | [Flight 0005](https://open.spotify.com/track/2u0scduYhDt9J3HpSI4WWQ) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0005](https://open.spotify.com/album/0mQW3mCxl0aDAC2QntmnRi) | 2:29 | 2022-01-19 | 2022-05-11 |
 | [Flight 0006](https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0006](https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb) | 3:17 | 2022-05-13 |  |
-| [Flor.](https://open.spotify.com/track/6pHuXqGkFjSEB8rskIXvUJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT) | 3:56 | 2022-05-13 |  |
+| [Flor](https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq) | 3:56 | 2022-10-07 |  |
+| [Flor.](https://open.spotify.com/track/6pHuXqGkFjSEB8rskIXvUJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT) | 3:56 | 2022-05-13 | 2022-10-15 |
 | [Flow](https://open.spotify.com/track/12jCz2SdX6FIBrqRMqKTTZ) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Flow](https://open.spotify.com/album/6IcOHj5s1qUvxi7JAnWHeH) | 2:50 | 2022-03-09 | 2022-05-14 |
 | [Flow Azteca](https://open.spotify.com/track/418KnO8PCzJEdncY7h8S2X) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Flow Azteca](https://open.spotify.com/album/1OW0uAdcaJdw6HM974sGEy) | 3:31 | 2022-01-06 | 2022-01-20 |
 | [Flow Challenge](https://open.spotify.com/track/3dcBPJ2GemXkY8VJtwOC8M) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Flow Challenge](https://open.spotify.com/album/1l6ja9nTrBVBUhM5bW0gFR) | 2:23 | 2022-01-19 |  |

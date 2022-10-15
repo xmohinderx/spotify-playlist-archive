@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-152 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+153 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [In the Past](https://open.spotify.com/track/7BGQQE0Xgic9Bvk7BlRumP) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 1:56 | 2022-03-21 |  |
 | [Infinite Sustain](https://open.spotify.com/track/5AciiCKJKTLKRrAPSrKQy5) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Infinite Sustain](https://open.spotify.com/album/4bLXZwh88rBBy6bgFFBhVg) | 2:29 | 2022-03-21 |  |
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2022-03-21 |  |
+| [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
 | [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 | 2022-03-21 |  |
 | [Latitude](https://open.spotify.com/track/1BMuBZVM8iuYu5bhVMmaID) | [Antonin Luthar](https://open.spotify.com/artist/04pS81HPxt768ZxxeJY36Z) | [Latitude](https://open.spotify.com/album/4nt53fqQh4PzVtWIHI7qMG) | 3:18 | 2022-03-21 | 2022-08-13 |
 | [Lilting Fields](https://open.spotify.com/track/6QayqmOU37gap6xzt1geL8) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:55 | 2022-03-21 | 2022-09-07 |

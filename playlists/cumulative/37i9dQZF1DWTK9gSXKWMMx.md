@@ -4,12 +4,13 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-56 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
+57 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A True Blue Time](https://open.spotify.com/track/6Muua7JpWkTaH2jicQXrNT) | [Teres](https://open.spotify.com/artist/1h9MPFKFUMiWJewgZEeScp) | [Blues Piano & Chill](https://open.spotify.com/album/6t5oDLfuvPGNSiHsFNJifI) | 2:17 | 2021-12-03 |  |
 | [After Hours](https://open.spotify.com/track/73rUGMFKD8azs5WMmaokgT) | [Lluís Coloma](https://open.spotify.com/artist/0Hf2pumFziW2zckaLCVy0n) | [Rockin' My Blues in Chicago](https://open.spotify.com/album/0I2FcCjZmrBkzZ68go1yAD) | 3:55 | 2021-12-03 |  |
+| [Amazing Grace](https://open.spotify.com/track/3Xc6lFGNhHb31BJpj0bGy4) | [The Reverend](https://open.spotify.com/artist/0tZbykhCR3hUa19XhTOsoG) | [Amazing Grace](https://open.spotify.com/album/2UMQn9XEV8y75UJ5pjrbDI) | 2:30 | 2022-10-14 |  |
 | [Back Alley Blues](https://open.spotify.com/track/0YPkT8etYJykLRJIOUza6y) | [Peter Calandra](https://open.spotify.com/artist/3PtLe7U5nAWhiPJ8jKp6VB) | [Back Alley Blues](https://open.spotify.com/album/0G2mdy68fvOMjNszsGLuA8) | 6:33 | 2021-12-03 |  |
 | [Bad Habits Blues](https://open.spotify.com/track/5hiCKMtoJ3zKU6VGDVP2By) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 5:27 | 2021-12-03 |  |
 | [Bebe Blues \(Gray Wolf, Pianobebe\)](https://open.spotify.com/track/4TSXaLjKgwnRSDBzCEXcsY) | [Lupus et Musica](https://open.spotify.com/artist/6ECZEPupzJvln5hYliPb9G) | [Bebe Blues \(Gray Wolf, Pianobebe\)](https://open.spotify.com/album/5s6BXkAo2sebBYSqx5x5hb) | 3:29 | 2021-12-03 |  |

@@ -1279,10 +1279,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 138811,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3aKzcToMfpswBNceqkz7Qx"
+    },
+    {
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/6TwYVklJnjsP9lWaX2lw88"
+      },
+      "artists": [
+        {
+          "name": "Mark DVB",
+          "url": "https://open.spotify.com/artist/0nmXD5cuTDfvVHceT0bXb6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138811,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5jHfCQYPv6OdMU3BaV17Jd"
     },
     {
       "album": {
@@ -1431,8 +1449,8 @@
           "url": "https://open.spotify.com/artist/68HgwziOaOiC8YHLYRdDRU"
         },
         {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/2ghX8nUZup7YrWcHFrFTaC"
+          "name": "Tee Jay",
+          "url": "https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ"
         },
         {
           "name": "Rascoe Koas",

@@ -2036,6 +2036,24 @@
     },
     {
       "album": {
+        "name": "Substrata [Alternative Versions]",
+        "url": "https://open.spotify.com/album/1LKkDKteFePHRCNCtBhcPN"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503259,
+      "name": "Sphere Of No-Form - Alternative Version",
+      "url": "https://open.spotify.com/track/2Px24p2YvxnJt2nF4VShyO"
+    },
+    {
+      "album": {
         "name": "Coast / Range / Arc",
         "url": "https://open.spotify.com/album/7nBRRZImFPLUrd0XsjzOrX"
       },
@@ -2513,6 +2531,28 @@
       "duration_ms": 174000,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/3liR99bvHUIbDZv1bWKJNd"
+    },
+    {
+      "album": {
+        "name": "Vapors",
+        "url": "https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo"
+      },
+      "artists": [
+        {
+          "name": "Lennart Altgenug",
+          "url": "https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO"
+        },
+        {
+          "name": "Still Restless",
+          "url": "https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192283,
+      "name": "Vapors",
+      "url": "https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge"
     },
     {
       "album": {

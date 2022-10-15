@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-224 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+228 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ambient Shore](https://open.spotify.com/track/3IFcHLSFHp57q82Mp8Mljj) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Ambient Shore](https://open.spotify.com/album/1oqCHUxwf0YDo58hxx0pMs) | 2:30 | 2022-09-30 |  |
 | [Ambient Streams](https://open.spotify.com/track/0wrvlGSGG5AQ9WpsOhc68l) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 2:18 | 2021-12-17 |  |
 | [Amethyst](https://open.spotify.com/track/2dZRjii8b4IkFRDbt3Q00m) | [Universal Mind](https://open.spotify.com/artist/24B3hez0bgvZ1xSx1TzcOA) | [Amethyst](https://open.spotify.com/album/4iXemjL24zprZKSuo3sQgF) | 3:28 | 2021-12-17 |  |
+| [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 |  |
 | [Avenoir](https://open.spotify.com/track/2uAfciE7VqSEgakqkY5z0J) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Avenoir](https://open.spotify.com/album/3foIWfeetCI1u7WwKCQWyZ) | 2:54 | 2021-12-17 |  |
 | [Aves Aristophanis](https://open.spotify.com/track/0hf4OAdQiOvMlMcRsYoHqK) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:06 | 2021-12-17 |  |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2021-12-17 | 2022-09-03 |
@@ -88,6 +89,7 @@
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2021-12-17 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2022-04-21 |  |
 | [Hourglass](https://open.spotify.com/track/65MkFWA6FFrNfc33xuMy2N) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Hourglass](https://open.spotify.com/album/12LBbLeQwB7FHwGSqiWr03) | 3:27 | 2021-12-17 |  |
+| [Imagine Peace \- Meditation](https://open.spotify.com/track/2i3FV4l3oX8SG4hn1zJ1QK) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Imagine Peace \(Delta Waves\)](https://open.spotify.com/album/42FfOOiJgnOqDWWgUUoD8P) | 6:14 | 2022-10-14 |  |
 | [Impulser](https://open.spotify.com/track/6gdtCejkpEErLHR45XmaGj) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Impulser](https://open.spotify.com/album/1Xg3GRD8PQLbxO6d5BjIjm) | 3:28 | 2021-12-17 |  |
 | [In the Ocean](https://open.spotify.com/track/0kGK2sxMjCE5QO3trAAiiV) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [In the Ocean](https://open.spotify.com/album/74Q6lC88iLKTQb5jblUMjs) | 2:23 | 2021-12-17 |  |
 | [In Your Dreams](https://open.spotify.com/track/6RBnMISN2wQqniaEuLwZI5) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [In Your Dreams](https://open.spotify.com/album/0tOCqBrsy2pOqq3ivlEATG) | 2:54 | 2021-12-17 |  |
@@ -198,6 +200,7 @@
 | [Surrounded](https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lonely Planet](https://open.spotify.com/album/2WrxpI2N2kHCkKqKN0Xbjq) | 2:52 | 2021-12-17 |  |
 | [Tantra](https://open.spotify.com/track/16oB4C6uTdcJBU5FJYXKpR) | [Catch Your Dream](https://open.spotify.com/artist/3Vj6U9oLAjY6TVcpxl8DFX) | [Tantra](https://open.spotify.com/album/5xrAysMOBsKJRSZ0h2soYY) | 3:27 | 2021-12-17 |  |
 | [Temples of Qufu](https://open.spotify.com/track/33Pu5YVliAyFlf7aB7e8Q9) | [Zhu Lin](https://open.spotify.com/artist/5kVqstdlRUQK3cIHbOsyF0) | [Temples of Qufu](https://open.spotify.com/album/1MlXDeOHaH3Xb5uNUW6vBL) | 2:51 | 2021-12-17 |  |
+| [The Awakening](https://open.spotify.com/track/3smuAxUIVqSgUJMS9BDVqx) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [The Awakening](https://open.spotify.com/album/5069FBAkMxYSz6KzGsm0Tr) | 2:00 | 2022-10-14 |  |
 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2021-12-17 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-12-17 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-04-21 |  |
@@ -219,6 +222,7 @@
 | [Viento](https://open.spotify.com/track/2iNbdFBKtfrDqdt0e7rzSt) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Noche de Lluvia](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:03 | 2021-12-17 |  |
 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 | 2021-12-17 |  |
 | [Water Flowing](https://open.spotify.com/track/6yuUNwzKsytnqKjFU3oNrS) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [In the Ocean](https://open.spotify.com/album/74Q6lC88iLKTQb5jblUMjs) | 3:22 | 2021-12-17 |  |
+| [Water Therapy \- Soundscapes and Waves](https://open.spotify.com/track/7MviasItbMuhm79ZxyMr1o) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Sleep Among Nature](https://open.spotify.com/album/5qbZjpWtLEnQzhzevay6oy) | 3:36 | 2022-10-14 |  |
 | [Waterside](https://open.spotify.com/track/4BFqdKbhrjZfxyBmdmk9ny) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Twilight](https://open.spotify.com/album/0jFESdBUOr58lSkkDo8lpc) | 3:30 | 2021-12-17 |  |
 | [Waves](https://open.spotify.com/track/3krSmuVk00tFuJiTuNSZoO) | [IPHTA](https://open.spotify.com/artist/4VTQyY0a941xnmyoZT2GsH) | [Waves](https://open.spotify.com/album/3xjngxMowsTDMJD4WOaMLv) | 3:06 | 2021-12-17 |  |
 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 | 2021-12-17 |  |

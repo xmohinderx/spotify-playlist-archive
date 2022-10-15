@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> só hit bombado e viralizando na net! confia/Barões da Pisadinha
+> só hit bombado e viralizando na net! confia
 
 159 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 

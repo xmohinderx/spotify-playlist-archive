@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Acalma a Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+      },
+      "artists": [
+        {
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322512,
+      "name": "Acalma a Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "album": {
         "name": "Acalma o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
       },
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 265588,
       "name": "Chagas De Amor",
       "url": "https://open.spotify.com/track/6GsTFCk0ZRVu5JZcz4lTTW"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 267058,
       "name": "Quando o Sono Bater",
       "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
@@ -1169,6 +1187,28 @@
       "duration_ms": 218378,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
+    },
+    {
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281402,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO"
     },
     {
       "album": {

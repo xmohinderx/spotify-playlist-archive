@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 126316,
       "name": "19",
       "url": "https://open.spotify.com/track/6vsXEuQuTx6eCRcTFwSUix"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 136941,
       "name": "2 more minutes",
       "url": "https://open.spotify.com/track/63kIONRvO9SrjwVsYbTFUJ"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 182318,
       "name": "95 DEGREES",
       "url": "https://open.spotify.com/track/55BJoJzQuogFLeqihumlm9"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 120119,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2D9QFFd6YGk1XEoCI7v57I"
@@ -614,6 +614,24 @@
     },
     {
       "album": {
+        "name": "barcelona",
+        "url": "https://open.spotify.com/album/2JuEOpkytQC2KsRz1cVREB"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102539,
+      "name": "barcelona",
+      "url": "https://open.spotify.com/track/6hLMs5N7rRkIaCRfgYEB9B"
+    },
+    {
+      "album": {
         "name": "be alright",
         "url": "https://open.spotify.com/album/5kNJB5OX6LnFVMNKBLnM6E"
       },
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 166927,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 143795,
       "name": "Bitch Back (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 144466,
       "name": "BUCKLE UP",
       "url": "https://open.spotify.com/track/1O7cBHLXgkhH81A5Jax0mk"
@@ -1119,6 +1137,24 @@
       "duration_ms": 179352,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7"
+    },
+    {
+      "album": {
+        "name": "age tape 9",
+        "url": "https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126739,
+      "name": "careless",
+      "url": "https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA"
     },
     {
       "album": {
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 163200,
       "name": "digital gf",
       "url": "https://open.spotify.com/track/5vXkAnl3w8PadChqmfLZFJ"
@@ -1881,10 +1917,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 137142,
       "name": "dreamerboi",
       "url": "https://open.spotify.com/track/0LDYevJeLyC0gXiohSvcoi"
+    },
+    {
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/3nkc2fRxBrUp9X02PBcMjg"
+      },
+      "artists": [
+        {
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Dropout",
+      "url": "https://open.spotify.com/track/2sP1ndK4tyx9mIFSuVZfTF"
     },
     {
       "album": {
@@ -1943,7 +1997,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 208539,
       "name": "Dump It Dummy (feat. 2rare)",
       "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
@@ -2313,7 +2367,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 136091,
       "name": "Flat Tire",
       "url": "https://open.spotify.com/track/592UtxyRpf6eOrjS6b2Jur"
@@ -2443,7 +2497,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
@@ -2853,7 +2907,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 123093,
       "name": "Grin On Me 2",
       "url": "https://open.spotify.com/track/2cld913W9DGU1n4osTL3ju"
@@ -3017,7 +3071,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 224042,
       "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
       "url": "https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI"
@@ -3235,7 +3289,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 160000,
       "name": "I Don't Wanna",
       "url": "https://open.spotify.com/track/5X1cHnEvHVpI9dwZ82khQ3"
@@ -3417,7 +3471,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 165333,
       "name": "I'D GIVE IT ALL UP",
       "url": "https://open.spotify.com/track/6MsEajhvcMbnuWXT1y6HL2"
@@ -3940,6 +3994,28 @@
     },
     {
       "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/3I6F5HlKtBFwpzpeRyHqQB"
+      },
+      "artists": [
+        {
+          "name": "Garrett Sparrow",
+          "url": "https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs"
+        },
+        {
+          "name": "jackwoods",
+          "url": "https://open.spotify.com/artist/5Jq1Pr7kLEm3h5RlkSiQ5z"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "LIME",
+      "url": "https://open.spotify.com/track/6rB46iHlnzFSds3vC3X6h4"
+    },
+    {
+      "album": {
         "name": "Live Fast Die Numb",
         "url": "https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH"
       },
@@ -4245,7 +4321,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 157047,
       "name": "LYSA",
       "url": "https://open.spotify.com/track/5FZsAaTNEEz5LNBO0bcIZv"
@@ -4783,7 +4859,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 304606,
       "name": "No Problem (feat. Lil Wayne & 2 Chainz)",
       "url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH"
@@ -4801,7 +4877,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -4989,7 +5065,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 161766,
       "name": "One Mistake",
       "url": "https://open.spotify.com/track/4Issv5lPDAGvAAy2fE7EAX"
@@ -5087,7 +5163,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 127346,
       "name": "PAY ATTENTION",
       "url": "https://open.spotify.com/track/7h74fcrF3X8tHrATyM4Wx3"
@@ -5619,7 +5695,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 157995,
       "name": "RESCUE",
       "url": "https://open.spotify.com/track/2FUhoZx7SjJNaS2Yj87ICA"
@@ -5887,7 +5963,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 220432,
       "name": "Sad Baby",
       "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
@@ -6179,7 +6255,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 157377,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4iR9GcxaVVTHuZgb3KiNDY"
@@ -6241,7 +6317,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 160292,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4eeYVXUqJdGePFWBsNQDBR"
@@ -6353,7 +6429,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 123333,
       "name": "starstruck",
       "url": "https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9"
@@ -6639,7 +6715,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -7423,7 +7499,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 226045,
       "name": "where did u go?",
       "url": "https://open.spotify.com/track/0feoAoDhBeSuBLAHuyWGq9"
@@ -7495,7 +7571,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 116571,
       "name": "wonder why",
       "url": "https://open.spotify.com/track/6R6IEZgAq8clMRlm7KjnwS"

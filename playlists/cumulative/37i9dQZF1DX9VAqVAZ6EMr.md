@@ -2,7 +2,7 @@
 
 ### [Hinos Pop](https://open.spotify.com/playlist/37i9dQZF1DX9VAqVAZ6EMr)
 
-> De Britney a Madonna, os maiores hits do pop estão reunidos nesta playlist\. Foto: Anitta
+> De Britney a Madonna, os maiores hits do pop estão reunidos nesta playlist.
 
 100 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/5CHMXMBGiPa76tiBe4mEXy)
 

@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-192 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+193 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 | 2022-05-18 |  |
 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 | 2022-09-15 |  |
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2022-10-01 |  |
+| [Chameleon](https://open.spotify.com/track/5Ib3iCORnC0QBjNpkVnUva) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO) | 4:59 | 2021-10-06 |  |
 | [Chameleon](https://open.spotify.com/track/6WX84e2SacFICy3HoWjYaH) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 4:59 | 2021-10-06 | 2022-09-15 |
 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2021-10-06 |  |
 | [Charlier](https://open.spotify.com/track/55ZzaH20npWGDLevSLWSWJ) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Charlier](https://open.spotify.com/album/1GdfpqOYJGO0QONj1ccSyD) | 3:51 | 2021-10-06 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [They Call Me Magic \(Main Title Theme\)](https://open.spotify.com/track/2eeF4YCraIqJ5t6vP80DAt) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [They Call Me Magic \(Main Title Theme\)](https://open.spotify.com/album/1IB5VhDtp17iJXnNmvWWKm) | 1:04 | 2022-04-23 | 2022-10-01 |
 | [Thomas The Fib](https://open.spotify.com/track/7aWDd1MdZrgOb0W2DyAKq9) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey](https://open.spotify.com/album/4ZaedkRcNzuoavBWJXF2ha) | 5:41 | 2021-10-06 |  |
 | [Tide](https://open.spotify.com/track/2v2ZostkiMcb5EB9iRY8Ae) | [Kumi Takahara](https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Tide](https://open.spotify.com/album/0jFeqRTJcqVjsFq1XEyw9Y) | 6:02 | 2021-10-06 | 2022-07-29 |
-| [Tloque Nahuaque](https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu), [Orquesta Invisible de Lagos de Moreno](https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW) | [Tloque Nahuaque](https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N) | 6:31 | 2022-05-24 |  |
+| [Tloque Nahuaque](https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu), [Orquesta Invisible de Lagos de Moreno](https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW) | [Tloque Nahuaque](https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N) | 6:31 | 2022-05-24 | 2022-10-15 |
 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 | 2022-07-14 |  |
 | [Track X](https://open.spotify.com/track/6jezfOPKkARrn1J8AwHTE4) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the first time](https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX) | 4:44 | 2021-10-06 |  |
 | [Transparente](https://open.spotify.com/track/0f8d1vIRfkxvJ5GclHbboP) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj) | [Transparente](https://open.spotify.com/album/6CbayZoOeu8rrLuC1o1gUY) | 3:16 | 2022-02-18 | 2022-07-26 |

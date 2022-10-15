@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,758 likes - 107 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,931 likes - 107 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 47 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 |
 | 48 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 |
 | 49 | [drowning](https://open.spotify.com/track/0Te0I0OnjRbnXhXbahrN20) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/3uuPrpCbNKfaGqCsNqb721) | 2:18 |
-| 50 | [An Interior of Strange Beauty](https://open.spotify.com/track/12Ao5gXC6kg8MkL8j7Jn78) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 6:34 |
+| 50 | [An Interior of Strange Beauty](https://open.spotify.com/track/65YpsPCRVa7texeE1e6ycl) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/5AO9IVe4tEknGG9AdKTb7W) | 6:34 |
 | 51 | [埋立地](https://open.spotify.com/track/3h0oaWp8t7iJhViFhdzkdj) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [DREAM LAND](https://open.spotify.com/album/1OEGQXLpOEGx7i01ktPb51) | 3:06 |
 | 52 | [Win Some](https://open.spotify.com/track/0U1e0nOw2WlQ6l2sTgfxJS) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 5:12 |
 | 53 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 69 | [Teeth Agape](https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:35 |
 | 70 | [DREAD/TKOE \- Ellie Mason Remix](https://open.spotify.com/track/2MwDm5f1pxJyNSAMBUmLmr) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx) | [DREAD/TKOE \(Ellie Mason Remix\)](https://open.spotify.com/album/385cJszk9JFhRnqh5K2YiF) | 4:10 |
 | 71 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
-| 72 | [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 |
+| 72 | [I Need You Right Now](https://open.spotify.com/track/2x2ENNopXFR7unXK9eaeVs) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/3IMOeDHJcqQWabjem2xF6c) | 4:07 |
 | 73 | [Disappoint Me](https://open.spotify.com/track/1CBF3tKxaBh1bUPEdIneXS) | [Chris Imler](https://open.spotify.com/artist/46UqEw2cEH1SHxSBuSWfVw) | [Disappoint Me](https://open.spotify.com/album/0y1HxXpkJrceA55WLmTJsV) | 3:25 |
 | 74 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 |
 | 75 | [AS Too Wrong](https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq) | 4:14 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 106 | [Have You Felt Lately?](https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Let's Turn It Into Sound](https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3) | 3:54 |
 | 107 | [Normal Is Boring](https://open.spotify.com/track/5V1YHTOjbVAoH4ppT2sI21) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE) | [Normal Is Boring](https://open.spotify.com/album/3ZXO9QaHedT9Nrat9er7Mo) | 4:42 |
 
-Snapshot ID: `MTY2NTQ0NTMzNywwMDAwMDAwMDIyNWRhMmMwNzU0YWUxODRiYWU1NGUzOGEzNWJkZjBh`
+Snapshot ID: `MTY2NTQ0NTMzNywwMDAwMDAwMDUyMzRhYmY4YzU0ZmQ4ZWEyYWYxYmEyNzZiZWUxN2Uz`

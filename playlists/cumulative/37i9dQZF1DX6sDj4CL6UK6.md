@@ -2,9 +2,9 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> 'Parekh & Singh' are on the cover of IndiEnglish\. Stream now!
+> 'Frizzell D'souza' is on the cover of IndiEnglish\. Stream now!
 
-118 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+122 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-03-25 | 2022-07-29 |
 | [i'm tired](https://open.spotify.com/track/5UeN38kwUvd2pSd4gn1kAt) | [Trisha](https://open.spotify.com/artist/2Z5Y14aAgVmcGt9k9bzyL1) | [i'm tired](https://open.spotify.com/album/1hPXi29Hl972CSqagCVNNT) | 2:54 | 2022-05-25 |  |
 | [If I Tried](https://open.spotify.com/track/1GBzKGW8kLGhL6eMPZRly8) | [Sheil Sagar](https://open.spotify.com/artist/2PEzZphNZ2CtfL7V8j9AWy) | [If I Tried](https://open.spotify.com/album/7tAEmbfsN6V6fwnULj3rrd) | 4:18 | 2022-03-25 |  |
-| [Impact](https://open.spotify.com/track/4dkUcbDgKJ7f4PQRlpSSOQ) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Demons](https://open.spotify.com/album/3GfYjzOZ4XXKgsXnwzl17V) | 4:58 | 2022-03-25 |  |
+| [Impact](https://open.spotify.com/track/2hXrC6kBb64pbXesnK6BoA) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Demons](https://open.spotify.com/album/4bpvbIUSnxOGTlYt4iazyz) | 4:58 | 2022-09-26 |  |
+| [Impact](https://open.spotify.com/track/4dkUcbDgKJ7f4PQRlpSSOQ) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Demons](https://open.spotify.com/album/3GfYjzOZ4XXKgsXnwzl17V) | 4:58 | 2022-03-25 | 2022-10-15 |
 | [Imposter](https://open.spotify.com/track/5FNT87UIyz9TehAbTpAdUW) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Imposter](https://open.spotify.com/album/3SIczDLy4INHEsorycPJD1) | 3:28 | 2022-03-25 |  |
 | [In Denial](https://open.spotify.com/track/5edvBrslsD6xcBK3fWnQ75) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [roradoll](https://open.spotify.com/artist/3C56MZWRI4I9xzg2wp4Zn1), [Ishita Singh](https://open.spotify.com/artist/1hdsXhKriey9WLVnh4iNDO) | [In Denial](https://open.spotify.com/album/7AxIG2v1FOuaZX0L08D3H4) | 3:09 | 2022-06-29 |  |
 | [Inside Out](https://open.spotify.com/track/7LIAu8r9Zv92LF8ZpKq5Zn) | [Thermal And A Quarter](https://open.spotify.com/artist/6lF7uyAQEbDrnFNAXyyQQ6) | [Inside Out](https://open.spotify.com/album/414ncNsZZbp83LU3VtH8n2) | 5:46 | 2022-03-25 |  |
@@ -78,8 +79,11 @@
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-03-25 |  |
 | [Love Is Love](https://open.spotify.com/track/4QOhdspHbF735AWRRGJ7Zn) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 2:52 | 2022-09-30 |  |
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2022-03-25 |  |
-| [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 |  |
-| [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 |  |
+| [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-09-26 |  |
+| [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 | 2022-10-15 |
+| [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 | 2022-10-15 |  |
+| [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 | 2022-10-15 |
+| [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 | 2022-09-26 |  |
 | [Medieval Minds](https://open.spotify.com/track/5rhCzgfI1KYJJeCRvb10Kw) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [Medieval Minds](https://open.spotify.com/album/4Wu97w4VsQIhIZ1br2Modf) | 3:49 | 2022-04-12 | 2022-09-10 |
 | [Midnite Spaceflite](https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa) | [Midnite Spaceflite](https://open.spotify.com/album/0IeEWXCjt42ZgAVRUnPmWn) | 3:26 | 2022-09-02 |  |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-03-25 |  |

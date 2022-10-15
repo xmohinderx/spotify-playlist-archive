@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/1gYEYogFzvLBeen9BV5hI9)
+68 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/1gYEYogFzvLBeen9BV5hI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bueno y Fiel](https://open.spotify.com/track/0Ef4eWQf7AvVrf3idbCPsx) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 7:20 | 2022-09-16 | 2022-10-02 |
 | [Canto Danzo Salto](https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 2](https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh) | 4:34 | 2022-09-14 |  |
 | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/track/2Dro7J9lF4xyZe4rrSTTPE) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 4:26 | 2022-09-14 |  |
+| [Cristo No Está Muerto \(feat\. Juan Carlos Alvarado\)](https://open.spotify.com/track/6bDHJjWEiWux7haSU8r4g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:27 | 2022-10-14 |  |
 | [Cuando Pienso \(En Vivo\)](https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 2:25 | 2022-09-14 | 2022-10-12 |
 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 | 2022-09-14 |  |
 | [Dios en Casa](https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 4:52 | 2022-09-14 |  |
@@ -33,7 +34,7 @@
 | [Glorificate](https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 2:05 | 2022-09-14 |  |
 | [Glorioso Día](https://open.spotify.com/track/4ySbI6S4pEd3ipwasuVjec) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:13 | 2022-09-14 |  |
 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 | 2022-09-14 |  |
-| [Grande Y Fuerte](https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 3:20 | 2022-09-14 |  |
+| [Grande Y Fuerte](https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 3:20 | 2022-09-14 | 2022-10-15 |
 | [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 | 2022-09-14 |  |
 | [Impresionante](https://open.spotify.com/track/0z9vOkxQ0tRxGroYHGOc5b) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Impresionante](https://open.spotify.com/album/1sATIq5oVhLxAsV2wW7Xo2) | 5:36 | 2022-09-14 |  |
 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 | 2022-09-14 |  |

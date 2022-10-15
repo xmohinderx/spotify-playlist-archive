@@ -1,12 +1,12 @@
 {
-  "description": "The pulse of R&B music today.  Cover: Oxlade",
-  "num_followers": 5977332,
+  "description": "The pulse of R&B music today.  Cover: Beyonc\u00e9",
+  "num_followers": 5977806,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDg1MDRjYWI3OWQxNjNlNzlkNDM4MTViN2Q5ZmE4Yjc5",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGUwNDg1ODFiN2UzODVkMWVmYjg5YWRiNDg1ZWM2ZTNm",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:07",
@@ -59,22 +59,6 @@
       "duration_ms": 219130,
       "name": "Nothing Even Matters",
       "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
-    },
-    {
-      "added_at": "2022-09-23 04:03:45",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 173707,
-      "name": "The Words",
-      "url": "https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn"
     },
     {
       "added_at": "2022-08-26 04:03:40",
@@ -149,6 +133,22 @@
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
+      "added_at": "2022-07-09 00:42:47",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Tryna Be",
+      "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
+    },
+    {
       "added_at": "2022-09-30 04:03:30",
       "album": {
         "name": "What's Up (feat. Jagged Edge)",
@@ -169,20 +169,36 @@
       "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
     },
     {
-      "added_at": "2022-07-09 00:42:47",
+      "added_at": "2022-09-23 04:03:45",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 170653,
-      "name": "Tryna Be",
-      "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
+      "duration_ms": 173707,
+      "name": "The Words",
+      "url": "https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Spread Thin",
+      "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
     },
     {
       "added_at": "2022-09-30 04:03:30",
@@ -231,6 +247,26 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 153735,
+      "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
     },
     {
       "added_at": "2022-07-09 00:42:47",
@@ -421,6 +457,26 @@
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
+    },
+    {
       "added_at": "2022-09-09 04:05:52",
       "album": {
         "name": "LEGEND",
@@ -515,22 +571,6 @@
       "duration_ms": 218320,
       "name": "How (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Buckles Laboratories Presents: The Intermission",
-        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Spread Thin",
-      "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
     },
     {
       "added_at": "2022-09-23 04:03:45",
@@ -711,26 +751,6 @@
     {
       "added_at": "2022-09-09 04:05:52",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Love (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
-    },
-    {
-      "added_at": "2022-09-09 04:05:52",
-      "album": {
         "name": "age/sex/location",
         "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
@@ -747,22 +767,6 @@
       "duration_ms": 267740,
       "name": "Leak It (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/42j49u8GO8zuWiDCbZq2W4"
-    },
-    {
-      "added_at": "2022-06-17 13:37:27",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-06-17 13:37:27",
@@ -837,26 +841,6 @@
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
     },
     {
-      "added_at": "2022-06-17 13:37:27",
-      "album": {
-        "name": "Keeps On Fallin' (with Ella Mai)",
-        "url": "https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Keeps On Fallin' (with Ella Mai)",
-      "url": "https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4"
-    },
-    {
       "added_at": "2022-07-15 04:03:06",
       "album": {
         "name": "Sunshine (feat. Foushe\u00e9)",
@@ -877,24 +861,24 @@
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
     },
     {
-      "added_at": "2022-07-22 04:01:35",
+      "added_at": "2022-06-17 13:37:27",
       "album": {
-        "name": "Persuasive (with SZA)",
-        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+        "name": "Keeps On Fallin' (with Ella Mai)",
+        "url": "https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 210346,
-      "name": "Persuasive (with SZA)",
-      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+      "duration_ms": 175285,
+      "name": "Keeps On Fallin' (with Ella Mai)",
+      "url": "https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4"
     },
     {
       "added_at": "2022-07-09 00:42:47",

@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-201 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+202 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Shine](https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:29 | 2021-12-10 |  |
 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/7HqvttVInqkHNPlR4Nj4M9) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Showdown \(with Collie Buddz\)](https://open.spotify.com/album/3dDZbo4w9CxQ5OVwqJrXdO) | 4:25 | 2022-08-05 |  |
 | [Sleepers \(with RDGLDGRN\)](https://open.spotify.com/track/6QDOuB6F0j2VXJQFTHNB4k) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [RDGLDGRN](https://open.spotify.com/artist/5eUNUYMdI57xpVu0l2Qlm3) | [Of Illusion](https://open.spotify.com/album/3gN7jTMf7ZE4xCwbdUPOrF) | 3:43 | 2021-12-10 | 2022-07-26 |
-| [Slice of Sunshine \(with Claire Wright\)](https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Slice of Sunshine \(with Claire Wright\)](https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR) | 2:50 | 2022-08-05 |  |
+| [Slice of Sunshine \(with Claire Wright\)](https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Slice of Sunshine \(with Claire Wright\)](https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR) | 2:50 | 2022-08-05 | 2022-10-15 |
 | [Slow Ride](https://open.spotify.com/track/1qMrDdn5WfLmkQw3Np0eFW) | [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm) | [Slow Ride](https://open.spotify.com/album/6sxHexxRZSaulHeylFZP8f) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Snowman \(with Dirty Heads\)](https://open.spotify.com/track/1BzKS4LnJQdRotvaaP7gRB) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Snowman \(with Dirty Heads\)](https://open.spotify.com/album/7xa1P8sTjIeCuZDSUCM7nU) | 3:47 | 2021-12-10 | 2022-06-07 |
 | [So Much Trouble In The World](https://open.spotify.com/track/2wEzAwK1lQcGzHNdFOOJFv) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [So Much Trouble b/w Trust Me](https://open.spotify.com/album/6zIQgjBAP222dsqOgP0BiF) | 3:34 | 2021-12-10 | 2022-02-06 |
@@ -183,6 +183,7 @@
 | [Take Me To The Ocean](https://open.spotify.com/track/3PSUR87uYTJInyAyw1AzGi) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/1QsOqoswDE5wypmTTREyFn) | 4:30 | 2021-12-10 | 2022-07-29 |
 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 | 2022-07-06 |  |
 | [The Day You Came](https://open.spotify.com/track/4Z1PPnh4NSK5S7FYBtlFo7) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc), [Ali Campbell](https://open.spotify.com/artist/0gYuavkgXQapJXmASabd2o) | [The Day You Came](https://open.spotify.com/album/0jmfHMfpujODW6dGQhvI2P) | 4:03 | 2021-12-10 |  |
+| [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 | 2022-09-30 |  |
 | [The Sound Of Sunshine](https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [The Sound Of Sunshine](https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy) | 3:45 | 2021-12-10 |  |
 | [The Way I Feel](https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [The Way I Feel](https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri) | 2:37 | 2021-12-10 |  |
 | [There I Go](https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [There I Go](https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI) | 3:22 | 2021-12-10 |  |

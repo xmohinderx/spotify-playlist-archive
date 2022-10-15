@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-318 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+319 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-03-17 | 2022-07-26 |
 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2022-03-30 | 2022-10-14 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2022-02-03 | 2022-07-29 |
+| [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 | 2022-09-13 |  |
 | [Censure of Memory](https://open.spotify.com/track/3LUt0UNxbn1KnghqTGW3Ga) | [Rushab Nandha](https://open.spotify.com/artist/08JY95hQcpOet2v3lYRoaA) | [The Rain That Undid the Rose](https://open.spotify.com/album/0M6XjRby9kKG3eiY1Jjd72) | 1:50 | 2021-12-09 | 2022-06-16 |
 | [Changing](https://open.spotify.com/track/21ivnWB0BI4ufevCj5SqyQ) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Changing](https://open.spotify.com/album/6RzesJqEgRAREVaMIRU9Ve) | 3:47 | 2020-10-27\* | 2022-07-28 |
 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 | 2022-03-30 |  |
@@ -252,7 +253,7 @@
 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 | 2021-09-24 |  |
 | [Self Aware](https://open.spotify.com/track/4D7eFxcPYWqHQ7iyD2oiDp) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Self Aware](https://open.spotify.com/album/1sMcnA8gffc6mlU2Ez7ynd) | 4:46 | 2020-10-27\* | 2020-10-30 |
 | [Semolina](https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Semolina](https://open.spotify.com/album/6nX8TqbKoYgrjWui1j6QEx) | 3:28 | 2020-10-27\* | 2022-07-29 |
-| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 |  |
+| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 | 2022-10-15 |
 | [She'll Play Heck](https://open.spotify.com/track/6LoWmFCmGYEyz5BRsEv9SF) | [VALA](https://open.spotify.com/artist/26tcWRMjTwUJks8fvo4JIs) | [She'll Play Heck](https://open.spotify.com/album/6xyJE3ChVeKIKSJBL8qCrR) | 3:35 | 2020-10-30 | 2022-07-09 |
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-05-21 | 2022-04-20 |
 | [Sinking](https://open.spotify.com/track/4Z4dOZKs9rQuhuSSlLGY99) | [Lazy Days](https://open.spotify.com/artist/5FGn2Rme0MBoLoWvh6zKp7) | [Sinking](https://open.spotify.com/album/3jHCMgLxcachy9KxKabFSC) | 1:48 | 2021-04-02 | 2022-04-21 |

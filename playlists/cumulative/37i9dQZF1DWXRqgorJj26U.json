@@ -1334,6 +1334,24 @@
     },
     {
       "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei"
+    },
+    {
+      "album": {
         "name": "Straight Shooter",
         "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
       },

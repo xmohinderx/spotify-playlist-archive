@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw blues.
 
-124 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
+125 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Keep Sinking](https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 3:53 | 2022-05-25 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-05-25 | 2022-07-29 |
-| [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 | 2022-07-08 |  |
+| [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 | 2022-07-08 | 2022-10-15 |
 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 | 2022-07-08 |  |
 | [Long Way Home](https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Ramblin' Man Blues](https://open.spotify.com/album/7I2bdm0uQNyjb25zg1qssP) | 5:38 | 2022-05-25 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-07-08 |  |
@@ -114,6 +114,7 @@
 | [T.B\. Blues](https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:51 | 2022-05-25 | 2022-07-27 |
 | [Take a Little Walk With Me](https://open.spotify.com/track/6oMY5SOMbPuUPkV0RkNzzH) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [David "Honeyboy" Edwards](https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 2:59 | 2022-07-08 | 2022-07-13 |
 | [Take A Little Walk With Me](https://open.spotify.com/track/0GE8NTX8wh5TodHp85at1R) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Otis Spann Is The Blues](https://open.spotify.com/album/1gOYJ8uvSBe021ieQL2z9f) | 3:29 | 2022-05-25 | 2022-07-29 |
+| [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 | 2022-10-15 |  |
 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 | 2022-05-25 |  |
 | [That's All Right \(Mama\)](https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mean Ole Frisco](https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr) | 2:20 | 2022-07-08 | 2022-07-29 |
 | [The Easy Blues](https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:21 | 2022-05-25 |  |

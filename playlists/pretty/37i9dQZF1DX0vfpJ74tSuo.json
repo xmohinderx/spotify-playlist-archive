@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 41489,
+  "num_followers": 41602,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM0MywwMDAwMDAwMGMzNmNjNDY5MTM2YjNkNmQwMDExOGQ2NGExZjMxMTUx",
+  "snapshot_id": "MTY2NTc2Mjk0NSwwMDAwMDAwMDcyZWZhZmE2OTE1OGVhOWYyMmM1ZGU3NDQ1OTQwODJi",
   "tracks": [
     {
       "added_at": "2022-10-10 12:52:23",
@@ -157,20 +157,28 @@
       "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
     },
     {
-      "added_at": "2022-10-10 12:52:23",
+      "added_at": "2022-10-15 01:39:25",
       "album": {
-        "name": "Se\u00f1or Blues",
-        "url": "https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA"
+        "name": "Sisters & Brothers",
+        "url": "https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        },
+        {
+          "name": "Maria Muldaur",
+          "url": "https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT"
         }
       ],
-      "duration_ms": 280080,
-      "name": "Queen Bee",
-      "url": "https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf"
+      "duration_ms": 204960,
+      "name": "Don't Ever Let Nobody Drag Your Spirit Down",
+      "url": "https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -187,6 +195,22 @@
       "duration_ms": 156866,
       "name": "Bring It On Home",
       "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Se\u00f1or Blues",
+        "url": "https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 280080,
+      "name": "Queen Bee",
+      "url": "https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -387,22 +411,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "I Started Out With Nothin And I Still Got Most Of It Left",
-        "url": "https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Walkin Man",
-      "url": "https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -435,6 +443,22 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
+        "name": "I Started Out With Nothin And I Still Got Most Of It Left",
+        "url": "https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Walkin Man",
+      "url": "https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
         "name": "Discover",
         "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
       },
@@ -455,22 +479,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "I Am The Moon: IV. Farewell",
-        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "I Can Feel You Smiling",
-      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
@@ -483,6 +491,22 @@
       "duration_ms": 383760,
       "name": "Dengue Woman Blues",
       "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "I Am The Moon: IV. Farewell",
+        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "I Can Feel You Smiling",
+      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -519,22 +543,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Buffalo Nichols",
         "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
@@ -547,6 +555,22 @@
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -851,6 +875,22 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 233695,
+      "name": "Jim Lee Blues Pt. 1",
+      "url": "https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -867,22 +907,6 @@
       "duration_ms": 227503,
       "name": "Born Of A Woman",
       "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 233695,
-      "name": "Jim Lee Blues Pt. 1",
-      "url": "https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1003,22 +1027,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "The Complete Prestige / Bluesville Recordings",
-        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Automobile Blues",
-      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -1031,6 +1039,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "The Complete Prestige / Bluesville Recordings",
+        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Automobile Blues",
+      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1131,22 +1155,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -1159,6 +1167,22 @@
       "duration_ms": 176001,
       "name": "The Dolls Are Sleeping",
       "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1215,6 +1239,22 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
         "name": "Skip James Live Vol. 2 Bloomington 1968 Part 1",
         "url": "https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM"
       },
@@ -1263,22 +1303,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -1307,26 +1331,6 @@
       "duration_ms": 280306,
       "name": "I'm So Lonely",
       "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Lone Star Blues",
-      "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
     }
   ],
   "unique_name": "Morning Blues",

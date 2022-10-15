@@ -2,7 +2,7 @@
 
 ### [Pulando da Cama](https://open.spotify.com/playlist/37i9dQZF1DXa4ss91ghMY4)
 
-> Chegou a hora de sair da cama e deixar seu dia mais pop! Foto: Doja Cat
+> Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
 479 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
 

@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-277 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
+286 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2022-04-04 |  |
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-04 |  |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-04 |  |
+| [After All](https://open.spotify.com/track/1NNxb9HgLDdGvrq4aIfaH0) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [After All](https://open.spotify.com/album/0LjEawGHQt8fln9x6FkG4b) | 2:20 | 2022-10-14 |  |
 | [Aftontimma](https://open.spotify.com/track/1svRACx5V80ifZCa1xC6DJ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Aftontimma](https://open.spotify.com/album/0GUcfgnAq4LSrBPAUG92qC) | 2:40 | 2022-04-04 |  |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-04 |  |
 | [Amour naturel](https://open.spotify.com/track/39bh8hsTP2ZBQWH0E308rT) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [Amour naturel](https://open.spotify.com/album/390yjRO6OCnaiCCMz6HNu3) | 2:52 | 2022-04-04 |  |
@@ -93,6 +94,7 @@
 | [Help me find a way](https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Help me find a way](https://open.spotify.com/album/28W9ZCs4H4PenLaqNYYq2w) | 3:03 | 2022-04-04 | 2022-04-29 |
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2022-04-04 | 2022-05-21 |
 | [Hideaway](https://open.spotify.com/track/3MKCO2mNSbhTbRu7x5qxev) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Hideaway](https://open.spotify.com/album/00wr0WdNovcbqyteByPHyc) | 2:21 | 2022-04-28 |  |
+| [Hiding Place](https://open.spotify.com/track/2zePaAERT1cj4MZKRtsiYt) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC), [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L) | [Hiding Place](https://open.spotify.com/album/4VX3JpR132r6qBSe5F9F4E) | 2:18 | 2022-10-14 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-04-04 |  |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-04-04 |  |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-04-04 | 2022-04-29 |
@@ -111,6 +113,8 @@
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2022-04-04 |  |
 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2022-04-04 | 2022-04-29 |
 | [Ivy](https://open.spotify.com/track/4TJ7yhDcJvODuiWbnsZrxt) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Ivy](https://open.spotify.com/album/4Ucz3esn08Zl2rN6BcYrPK) | 2:55 | 2022-04-04 |  |
+| [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 | 2022-10-14 |  |
+| [Je vous ai trouvé](https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [Je vous ai trouvé](https://open.spotify.com/album/2u9QYGFP25RUHD19s0rd4e) | 2:20 | 2022-10-14 |  |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-04-04 |  |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-04 |  |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-04-04 | 2022-07-08 |
@@ -154,6 +158,7 @@
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-04-04 |  |
 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2022-04-04 | 2022-04-29 |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-04-04 |  |
+| [Má sestra](https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Má sestra](https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe) | 2:05 | 2022-10-14 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2022-04-04 |  |
 | [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 | 2022-07-28 |  |
 | [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-04-04 | 2022-07-29 |
@@ -165,6 +170,7 @@
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-04 |  |
 | [One Step After Another](https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [One Step After Another](https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG) | 2:06 | 2022-04-04 |  |
 | [Open Mind Open Heart](https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Open Mind Open Heart](https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf) | 3:06 | 2022-04-04 |  |
+| [Open Thoughts](https://open.spotify.com/track/3yO3vslrpSAPNFnWuKh2x3) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Open Thoughts](https://open.spotify.com/album/7v1vAxGArRuuXSSshwjA1X) | 2:50 | 2022-10-14 |  |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-04 |  |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-04 |  |
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-04-04 |  |
@@ -178,6 +184,7 @@
 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-04-04 |  |
 | [Piano Lessons](https://open.spotify.com/track/5j9Vjiln6TM2ZZ97Ht7kh6) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Piano Lessons](https://open.spotify.com/album/5vNFNc8TTZjNDrt88SBdux) | 2:32 | 2022-04-04 |  |
 | [Piha](https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy) | [Alexander Luchs](https://open.spotify.com/artist/0neAXQKhBdzCt4Si34HNzB) | [Piha](https://open.spotify.com/album/15RupUZmdLHRPgUX5PCAdf) | 3:19 | 2022-04-04 |  |
+| [Play You a Song](https://open.spotify.com/track/0uK4AAlSHrO037pClTccfp) | [Yichu Ann Chen](https://open.spotify.com/artist/6ZKZfb4BMulwGKbB6XBcds) | [Play You a Song](https://open.spotify.com/album/4xjr0robvMhlBsvkmTorbN) | 1:56 | 2022-10-14 |  |
 | [Postponed](https://open.spotify.com/track/1f36Sh0RqA6lg6sg4YSHSi) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Postponed](https://open.spotify.com/album/3PsJzHi81Q8HjB6htTnVdh) | 2:21 | 2022-09-20 |  |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-04-04 | 2022-05-21 |
 | [Pure Joy](https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Pure Joy](https://open.spotify.com/album/2PCZzOR3EMGI7m6yXLceZN) | 2:49 | 2022-07-07 |  |
@@ -213,6 +220,7 @@
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-04 |  |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-04 | 2022-04-29 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-04 | 2022-05-21 |
+| [Silent sky](https://open.spotify.com/track/7jOC9bmHMZ5m4S1ZDAYgzn) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Silent sky](https://open.spotify.com/album/5Tn1LjIS50nbr4oNRCOBdF) | 2:12 | 2022-10-14 |  |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-04-04 | 2022-07-08 |
 | [Skating](https://open.spotify.com/track/6XPtAzmKf0gUtE4pCJDXnA) | [Oscar Basza](https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ) | [Skating](https://open.spotify.com/album/4574dK3qTHbOSym2PFJsLL) | 2:15 | 2022-04-04 |  |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-04 |  |
@@ -224,6 +232,7 @@
 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 | 2022-09-20 |  |
 | [Stay](https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU) | [OEN](https://open.spotify.com/artist/4RPFMzyyG8F2ygQzFLLFGD) | [Lonely Nights](https://open.spotify.com/album/5p8qHNadHlMX8Gn2uoNJlH) | 2:34 | 2022-04-04 |  |
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-04-04 |  |
+| [Stella](https://open.spotify.com/track/2STinkqXpJg7A6Hh7TS3ck) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Stella](https://open.spotify.com/album/4GvGyLV8AzmiAtgbS3NBhe) | 2:25 | 2022-10-14 |  |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-04-04 |  |
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-04-04 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-04-04 |  |

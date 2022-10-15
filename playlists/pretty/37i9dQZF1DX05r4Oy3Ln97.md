@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,694 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,772 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 20 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 |
 | 21 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 |
 | 22 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 |
-| 23 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
-| 24 | [Never Going Home](https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 2:49 |
+| 23 | [Never Going Home](https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 2:49 |
+| 24 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
 | 25 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
-| 26 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 |
-| 27 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 |
+| 26 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 |
+| 27 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 |
 | 28 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 |
 | 29 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 |
 | 30 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 |
 | 60 | [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 |
 
-Snapshot ID: `MTY2NDUzOTc5NSwwMDAwMDAwMDFiMGUxNGNjOTdmYzczNWY3OThiMDExYzFkYzZkOGQ2`
+Snapshot ID: `MTY2NTc1MzcyNywwMDAwMDAwMDAxYTJkNGJiZGRhZDBmZTYzN2M4YzgzMWM2YTg2NWQ5`

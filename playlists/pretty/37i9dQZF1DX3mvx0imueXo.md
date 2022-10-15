@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,880 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,925 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 36 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
 | 37 | [Trample Dem](https://open.spotify.com/track/7Dyln70mOiNJJOCsgieCHc) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:08 |
 | 38 | [La famille](https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [La famille](https://open.spotify.com/album/0BJBR7bKD0h5vRTX6nE1Jd) | 3:41 |
-| 39 | [Cry Cry Blood](https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Cry Cry Blood](https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC) | 3:49 |
-| 40 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
+| 39 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
+| 40 | [Cry Cry Blood](https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Cry Cry Blood](https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC) | 3:49 |
 | 41 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
 | 42 | [Honey \(feat\. Hollie Cook\)](https://open.spotify.com/track/1mXRyHsVvA3EVIRMcFPiuC) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Down to Earth](https://open.spotify.com/album/1ZILnlUmwWbgFRyQMc1bj6) | 4:29 |
 | 43 | [Stay Woke](https://open.spotify.com/track/6osoYGfqRBZ2QdHo1pBCk5) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L), [Danjah](https://open.spotify.com/artist/2ZyQXz3BsnPPB5bcUYZ6hO), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Stay Woke](https://open.spotify.com/album/34i058rgu3AHHS7IoIy25O) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Lots Of Sign](https://open.spotify.com/track/4RNgiFBdRT9e8NRLoNdlwu) | [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Lots Of Sign](https://open.spotify.com/album/6svqHHx9tpGobba8ZBlxR4) | 3:47 |
 | 50 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 
-Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMDMxZWNmNTFiODdiYjZmMzI1MDA5MTdlZDc5NjEyNDRm`
+Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMGY2MmUxNWUxZDE4YzY1MzQyZGZiZDBmYmI0NTlmNWFj`

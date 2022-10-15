@@ -1312,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "South Bound",
+        "url": "https://open.spotify.com/album/167ijXAsdSVBFkQdl679kB"
+      },
+      "artists": [
+        {
+          "name": "Joey Michels",
+          "url": "https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "South Bound",
+      "url": "https://open.spotify.com/track/7llVeNGB92oOl4xeooJGq0"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/5i3UxTh2U1lcAxpspXmxDG"
       },
@@ -1345,6 +1363,24 @@
       "duration_ms": 258773,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/1DOf7lJ4tKA4qNUwehfjFI"
+    },
+    {
+      "album": {
+        "name": "Stormy Sea",
+        "url": "https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164191,
+      "name": "Stormy Sea",
+      "url": "https://open.spotify.com/track/5sRBN3gSOlHizpDLn7hLJo"
     },
     {
       "album": {
@@ -1457,6 +1493,42 @@
       "duration_ms": 181840,
       "name": "Tracks and Lines - 2000 Remaster",
       "url": "https://open.spotify.com/track/2E5QCoyvDTM7oLJpF6K2wc"
+    },
+    {
+      "album": {
+        "name": "Train Ride",
+        "url": "https://open.spotify.com/album/2IJcIF95WPnyh0CAwqDBcI"
+      },
+      "artists": [
+        {
+          "name": "Josh Henning",
+          "url": "https://open.spotify.com/artist/3E7euSFqjyYvuAzF69w1Zk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/2kuGJ5Dfda4zr6j3AtSU4m"
+    },
+    {
+      "album": {
+        "name": "Stormy Sea",
+        "url": "https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122924,
+      "name": "Twin Cities Blues",
+      "url": "https://open.spotify.com/track/5QTNOAonSo9nw9mYNjb07R"
     },
     {
       "album": {

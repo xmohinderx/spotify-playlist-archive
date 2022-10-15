@@ -288,6 +288,32 @@
     },
     {
       "album": {
+        "name": "Bebe y Bebe",
+        "url": "https://open.spotify.com/album/5G6bxvNKMT61N0bZ6zup8G"
+      },
+      "artists": [
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        },
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194347,
+      "name": "Bebe y Bebe",
+      "url": "https://open.spotify.com/track/33F6yLeQoBxXW0aZTVPlF7"
+    },
+    {
+      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/7eBXArBA76Ul3M0g0gYUwA"
       },
@@ -471,7 +497,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 181655,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7lhZb7Mc2QCXtetUjVljjl"
@@ -1457,7 +1483,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 199052,
       "name": "El Humo",
       "url": "https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs"
@@ -1515,7 +1541,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 247301,
       "name": "El Mario de Tu Mujer",
       "url": "https://open.spotify.com/track/2CC8kheTSKvDiNbJsRMvBU"
@@ -1869,6 +1895,56 @@
       "duration_ms": 155107,
       "name": "Engorilao",
       "url": "https://open.spotify.com/track/5s41yFuX41Qom3b1fEKrhf"
+    },
+    {
+      "album": {
+        "name": "Enpiripimpiao (Remix)",
+        "url": "https://open.spotify.com/album/4Euz08I8y3Q9eto2J9Rwr9"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        },
+        {
+          "name": "La Santa Ganga",
+          "url": "https://open.spotify.com/artist/0w91GAjzBTivPNCXUiCBst"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        },
+        {
+          "name": "Eleven One",
+          "url": "https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR"
+        },
+        {
+          "name": "You R",
+          "url": "https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe"
+        },
+        {
+          "name": "Young Gatillo",
+          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297278,
+      "name": "Enpiripimpiao - Remix",
+      "url": "https://open.spotify.com/track/4VkaLl2C7yKR3Y5Ryeit10"
     },
     {
       "album": {
@@ -4443,7 +4519,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 205080,
       "name": "Siente El Ki",
       "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
@@ -5113,7 +5189,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 187440,
       "name": "Telacuti",
       "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
@@ -5749,6 +5825,24 @@
       "duration_ms": 188893,
       "name": "Yo Lo Cojo",
       "url": "https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV"

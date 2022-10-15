@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-100 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+103 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,13 +37,14 @@
 | [Essential Transformation](https://open.spotify.com/track/13dIRMP00LvvzqhY9OLOSk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Essential Transformation](https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8) | 4:08 | 2022-07-08 |  |
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-02-28 |  |
 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 | 2022-02-28 |  |
+| [Facile Senses](https://open.spotify.com/track/6Om9JiR0nLPL5w0XG8krNc) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Facile Senses](https://open.spotify.com/album/1IhQrP1R85Jk319wNJWEzW) | 3:06 | 2022-10-14 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2022-02-28 |  |
 | [Forests and Hills](https://open.spotify.com/track/2SGRhqZAjesAw183DQmV9L) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Forests and Hills](https://open.spotify.com/album/4RIXar48wxLqPfxwnycwNF) | 4:14 | 2022-02-28 |  |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-02-28 |  |
 | [Gymnopedie](https://open.spotify.com/track/3TB9KL7iUVd7N5ihzghGw4) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 3:37 | 2022-02-28 |  |
 | [Hibiskus](https://open.spotify.com/track/6tSOfNDxTCws7cj8LXqRhi) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Hibiskus](https://open.spotify.com/album/6Y4JcLZN0Nk4n01QEaY2Na) | 3:33 | 2022-02-28 |  |
 | [Hvis du bare vidste](https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Hvis du bare vidste](https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk) | 2:42 | 2022-02-28 |  |
-| [I am that I am](https://open.spotify.com/track/5S6NgnFZhPxKozqr2KR9m0) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [I am that I am](https://open.spotify.com/album/3PE8Dd9Q9ao9I7Cd0lsroM) | 3:50 | 2022-02-28 |  |
+| [I am that I am](https://open.spotify.com/track/5S6NgnFZhPxKozqr2KR9m0) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [I am that I am](https://open.spotify.com/album/3PE8Dd9Q9ao9I7Cd0lsroM) | 3:50 | 2022-02-28 | 2022-10-15 |
 | [Ikaria](https://open.spotify.com/track/4NVV2FdOTnoUh8wn6YKD5v) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Ikaria](https://open.spotify.com/album/7icipzkeRenveeDSeaYXEK) | 2:52 | 2022-02-28 |  |
 | [In And Around](https://open.spotify.com/track/4726jds0AnASQYMT4gazmH) | [Alex Cambozo](https://open.spotify.com/artist/1ldeIYrSl6pDLlJkPyyqkP) | [In And Around](https://open.spotify.com/album/7vrR4A4dtEj0gLG5AuxKib) | 2:48 | 2022-02-28 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-02-28 |  |
@@ -64,6 +65,7 @@
 | [Mind Potential](https://open.spotify.com/track/7ciSUJLpfhwIROe5isZ40b) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Mind Potential](https://open.spotify.com/album/0TN86qtasVxZuR4t89VhEM) | 3:20 | 2022-09-30 |  |
 | [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 | 2022-06-24 |  |
 | [Mystery of Life](https://open.spotify.com/track/683DWdGZBYaRVjQwO7v7X5) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:03 | 2022-02-28 |  |
+| [Natural Beauty](https://open.spotify.com/track/0YqMuFuT9EWKMFQnZeDlYL) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Natural Beauty](https://open.spotify.com/album/26ZL2DE2ENhMPEJBqbkdxq) | 2:16 | 2022-10-14 |  |
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2022-02-28 |  |
 | [Nightsky](https://open.spotify.com/track/6zmG3oMYGljGbfCNxrYBSZ) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Nightsky](https://open.spotify.com/album/4u9zBt4isiVIeJfVXYsxAn) | 2:32 | 2022-04-21 |  |
 | [Northern Light](https://open.spotify.com/track/0Ph9pISD17s2DLfboy0rZI) | [Kee Marcello Nylon Nation](https://open.spotify.com/artist/6nr71zoxIIzQndEmpvyuiN) | [Skies](https://open.spotify.com/album/7nWdcWGFSk37JKHLTh9G7W) | 2:46 | 2022-02-28 |  |
@@ -104,6 +106,7 @@
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-02-28 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2022-02-28 |  |
 | [Velvetine](https://open.spotify.com/track/4840LfK9NqJAwfFTxJIrz2) | [Goran Solkjær](https://open.spotify.com/artist/4TS76DvkB16Zk3uoOTgByQ) | [Velvetine](https://open.spotify.com/album/1BD35jazKq9rYZlKhoM7xM) | 3:45 | 2022-02-28 | 2022-03-30 |
+| [Visions](https://open.spotify.com/track/4E3T3Waohrg2QN3DRNV0wG) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Natural Beauty](https://open.spotify.com/album/26ZL2DE2ENhMPEJBqbkdxq) | 2:34 | 2022-10-14 |  |
 | [volatile](https://open.spotify.com/track/0xfdG0kvDuuYWfzfoUF11N) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [volatile](https://open.spotify.com/album/3ejmdIOzSjSK77jXZokL1a) | 2:34 | 2022-02-28 |  |
 | [Walk The Earth](https://open.spotify.com/track/6UeToMuJzKjBMTwBzUToua) | [Man In Cloud](https://open.spotify.com/artist/1gwUh8lFeihWpMGyuYYARs) | [Walk The Earth](https://open.spotify.com/album/0PtQeqx1U6vqmcidsR199S) | 2:55 | 2022-02-28 |  |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2022-02-28 |  |

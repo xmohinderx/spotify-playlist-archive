@@ -4,7 +4,7 @@
 
 > Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw?si=lhAF\_Zx7Sruk6PRZSdzSoA">Lil Yachty</a>
 
-87 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
+88 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-09-22 |  |
 | [Born To Win](https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:58 | 2022-09-15 |  |
 | [Bottle Girls \(feat\. Polo G & Almighty Jay\)](https://open.spotify.com/track/0bytLQW2lHZf8QcSaXnGMc) | [Manifest](https://open.spotify.com/artist/77PzT8wY3OapM2BHoyACz5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [Bottle Girls \(feat\. Polo G & Almighty Jay\)](https://open.spotify.com/album/5U1QskyIQkYSdRrtiHKPuG) | 2:15 | 2022-10-06 |  |
+| [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 |  |
 | [Chocolate \(feat\. Young Thug and Gunna\)](https://open.spotify.com/track/6PvHZ5vVjUhngh0t3pIsPc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:28 | 2022-10-13 |  |
 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2022-05-05 |  |
 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 | 2022-08-25 |  |

@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-294 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
+295 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 | 2022-02-14 |  |
 | [Awake My Soul](https://open.spotify.com/track/3khbaRkdMXpwxd6Ege88gj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:15 | 2022-02-14 | 2022-10-13 |
 | [Awake My Soul](https://open.spotify.com/track/5VwKEmrYEN5eAPvWqrrKS2) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 4:15 | 2021-02-16 | 2022-07-27 |
+| [Awake My Soul](https://open.spotify.com/track/2jTkLdldm7xtHUfHKhzR7S) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:15 | 2022-02-14 |  |
 | [Bartering](https://open.spotify.com/track/1SKZjfRjZ6YBXkdNievyqv) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/54P7mAzX2sFa5iQ6rH1q60) | 2:37 | 2019-09-29\* | 2022-07-29 |
 | [Be Good Or Be Gone](https://open.spotify.com/track/25eTGO7LUbNk1N0FNXoaFH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End Of History](https://open.spotify.com/album/3AiBzMGzdk5QQWLWRhXUTz) | 3:19 | 2021-04-24 | 2021-05-28 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-02-14 |  |
@@ -105,7 +106,7 @@
 | [I Get to Love You](https://open.spotify.com/track/3CV4lFELdziNM1OnHU8nwz) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [I Get to Love You](https://open.spotify.com/album/1HsdgBRnsxFPpt3HjknZEP) | 3:59 | 2019-09-29\* | 2021-02-18 |
 | [I Got What I Wanted](https://open.spotify.com/track/14RuwoKFrfao2Gc5jvdVUH) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Joan Shelley](https://open.spotify.com/album/4XAQKwnvGWlFTorhU1ENqk) | 3:06 | 2020-06-12 | 2021-01-12 |
 | [I Had Me a Girl \- Acoustic](https://open.spotify.com/track/5httWo3PlCFeoS21CBKFHN) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:35 | 2020-06-12 | 2021-01-15 |
-| [I Know](https://open.spotify.com/track/6L7aiftxZhpxxAny9Xcfir) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [I Am Nice](https://open.spotify.com/album/6eAwB9rX4Otl19sbnt1Onv) | 3:15 | 2019-09-29\* |  |
+| [I Know](https://open.spotify.com/track/6L7aiftxZhpxxAny9Xcfir) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [I Am Nice](https://open.spotify.com/album/6eAwB9rX4Otl19sbnt1Onv) | 3:15 | 2019-09-29\* | 2022-10-15 |
 | [I Like to Be With Me When I'm With You](https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [The Collection](https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i) | 3:50 | 2019-09-29\* | 2022-07-29 |
 | [I Remember](https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:31 | 2020-06-12 | 2021-01-15 |
 | [I Thought That We Said Goodbye](https://open.spotify.com/track/6RTxuZ6tiJpsh2OgmmeP2C) | [Teddy Thompson](https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN), [Kelly Jones](https://open.spotify.com/artist/71A5hrxi0MahwK8CIHXnPw) | [Little Windows](https://open.spotify.com/album/0F84GKdM2jENEDBlahlFYW) | 2:39 | 2020-01-04 | 2021-10-16 |

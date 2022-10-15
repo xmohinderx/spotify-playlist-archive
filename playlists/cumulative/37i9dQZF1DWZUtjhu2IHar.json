@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "My Demons Are Still My Best Friends",
+        "url": "https://open.spotify.com/album/2ZGQb6w08t7rlmfHGHzPci"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Chillthefuckout.",
+      "url": "https://open.spotify.com/track/4WiRsBAUd4fqHmIqrSoznL"
+    },
+    {
+      "album": {
         "name": "Chillthefuckout.",
         "url": "https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 167000,
       "name": "Chillthefuckout.",
       "url": "https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7"

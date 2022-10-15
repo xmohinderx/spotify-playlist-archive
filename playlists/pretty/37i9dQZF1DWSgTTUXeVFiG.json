@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 8799,
+  "num_followers": 8839,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGIxNTA1NjM5NjliMDA1NzYzMzQ5ZjExOTZkZTMxOThl",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDVjMzU5MTRkODllNTM2YjRiNTU5NGI5YzI3ODBmNWE3",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Todos Vuelven Live, Vol. 1",
+        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+        }
+      ],
+      "duration_ms": 351026,
+      "name": "Amor y Control - Live",
+      "url": "https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -835,22 +855,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
       },
@@ -867,18 +871,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "30 A\u00f1os de Power",
-        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
+        "name": "A Night Of Salsa",
+        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
       },
       "artists": [
         {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 330800,
-      "name": "Qui\u00e9reme Tal Como Soy - Live",
-      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+      "duration_ms": 401466,
+      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
+      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
     }
   ],
   "unique_name": "Vivo de Salsa",

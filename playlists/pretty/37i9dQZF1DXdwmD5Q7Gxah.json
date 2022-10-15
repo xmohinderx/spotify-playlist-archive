@@ -1,13 +1,45 @@
 {
-  "description": "All the indescribable feelings that music gives you. cover: men i trust",
-  "num_followers": 938190,
+  "description": "All the indescribable feelings that music gives you. cover: hope tala",
+  "num_followers": 938604,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU0NjUxOSwwMDAwMDAwMDBjZGZmMDZhYTBlYTJkNWRiZTQ4OGYxYjBlODIwNGVm",
+  "snapshot_id": "MTY2NTc3MDAwMSwwMDAwMDAwMDc0ZDY4Y2Q3OTY3M2I2ZTRkNjI4MTM4YzFmNGEyZDU5",
   "tracks": [
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Stayed at the Party",
+        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 213166,
+      "name": "Stayed at the Party",
+      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+    },
     {
       "added_at": "2022-09-28 01:24:44",
       "album": {
@@ -23,54 +55,6 @@
       "duration_ms": 195289,
       "name": "Billie Toppy",
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2022-10-08 01:34:01",
-      "album": {
-        "name": "An Orange Colored Day",
-        "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Letters from the Imaginary",
-      "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"
-    },
-    {
-      "added_at": "2022-10-08 00:30:12",
-      "album": {
-        "name": "SYT",
-        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "SYT",
-      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
-    },
-    {
-      "added_at": "2022-10-11 16:52:48",
-      "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
     },
     {
       "added_at": "2022-10-12 03:48:39",
@@ -89,20 +73,52 @@
       "url": "https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev"
     },
     {
-      "added_at": "2022-10-07 23:25:16",
+      "added_at": "2022-10-11 16:52:48",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
       },
       "artists": [
         {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
         }
       ],
-      "duration_ms": 196964,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/4yBMmSErU2Qy5A9Pd54VVd"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 140526,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng"
+    },
+    {
+      "added_at": "2022-10-14 16:15:15",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2022-09-22 17:26:08",
@@ -121,20 +137,56 @@
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
-      "added_at": "2022-09-27 22:47:26",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+        "name": "Pull",
+        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+      "duration_ms": 196615,
+      "name": "Pull",
+      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
+    },
+    {
+      "added_at": "2022-10-14 17:53:21",
+      "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "OPEN LETTER (feat. Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 246935,
+      "name": "OPEN LETTER (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI"
     },
     {
       "added_at": "2022-08-04 04:00:00",
@@ -151,6 +203,102 @@
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
+    },
+    {
+      "added_at": "2022-10-14 16:15:15",
+      "album": {
+        "name": "wide eyed",
+        "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 214068,
+      "name": "wide eyed",
+      "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Crazy Sexy Dream Girl",
+        "url": "https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 146633,
+      "name": "Crazy Sexy Dream Girl",
+      "url": "https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT"
+    },
+    {
+      "added_at": "2022-10-08 00:30:12",
+      "album": {
+        "name": "SYT",
+        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "SYT",
+      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
+    },
+    {
+      "added_at": "2022-10-08 01:34:01",
+      "album": {
+        "name": "An Orange Colored Day",
+        "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Letters from the Imaginary",
+      "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"
+    },
+    {
+      "added_at": "2022-10-07 23:25:16",
+      "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 196964,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
+    },
+    {
+      "added_at": "2022-09-27 22:47:26",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -577,6 +725,22 @@
       "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 224561,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
+    },
+    {
       "added_at": "2022-09-22 17:26:08",
       "album": {
         "name": "Unconditional",
@@ -659,22 +823,6 @@
       "duration_ms": 207076,
       "name": "rewind [Feat. PawPaw Rod]",
       "url": "https://open.spotify.com/track/23tcm2RHu5zkvqVHjqLK4A"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 224561,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
     },
     {
       "added_at": "2022-09-09 17:04:50",
@@ -1543,22 +1691,6 @@
       "duration_ms": 259071,
       "name": "A New Kind Of Love - Demo",
       "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
-    },
-    {
-      "added_at": "2022-08-03 16:05:27",
-      "album": {
-        "name": "Bedside",
-        "url": "https://open.spotify.com/album/6KbYLgPQPoXADBXV4LhtkR"
-      },
-      "artists": [
-        {
-          "name": "Pierz Barry",
-          "url": "https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1"
-        }
-      ],
-      "duration_ms": 253218,
-      "name": "Bedside",
-      "url": "https://open.spotify.com/track/0WIb4zQlCptgIkV5oIBadk"
     },
     {
       "added_at": "2022-07-21 16:00:00",

@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-265 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
+266 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,9 +138,10 @@
 | [La Única Voz \(En Vivo\)](https://open.spotify.com/track/5kBretIv7ZwEtsHkGVOHha) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Única Voz \(En Vivo\)](https://open.spotify.com/album/0cXt0t5PRtJf4JeaNlpVZz) | 4:03 | 2022-04-01 | 2022-07-29 |
 | [La Única Voz \- En Vivo](https://open.spotify.com/track/7fkEs3xGUfFp68mFhR8Zar) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 5:36 | 2022-04-01 | 2022-07-28 |
 | [Labios de Seda \- En Vivo](https://open.spotify.com/track/65tZTcEHzp0kUd09bJxM6B) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Huracanes en Luna Plateada \(En Vivo\)](https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx) | 4:30 | 2022-04-01 | 2022-07-29 |
-| [Las Cosas Que No Se Tocan \- En Vivo Luna Park](https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 4:04 | 2022-04-01 |  |
+| [Las Cosas Que No Se Tocan \- En Vivo Luna Park](https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 4:04 | 2022-04-01 | 2022-10-15 |
 | [Lejos Es No Estar \- En Vivo Obras 2006](https://open.spotify.com/track/67wShIsPjDtFlGH1M6G2nM) | [Cabezones](https://open.spotify.com/artist/7FGAi3mSjLMsq6p8SErsTA), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Lejos Es No Estar \(En Vivo Obras 2006\)](https://open.spotify.com/album/2OCV92YhFKuwfs7VC4Q3M4) | 3:41 | 2022-06-10 | 2022-07-17 |
 | [Libros Sapenciales \- En Vivo en Mr\. Jones](https://open.spotify.com/track/09Pwn1Wp7Sl9zCrKkpFwI2) | [Willy Quiroga](https://open.spotify.com/artist/2qQX5DzzT2p5Uhf5nVkTyE), [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Esta Noche No Parece Igual \(En Vivo en Mr\. Jones\)](https://open.spotify.com/album/3ruPgicuSbKH3JFcDMr4P6) | 7:48 | 2022-04-01 | 2022-06-20 |
+| [Llega llega llega \- Vivo en Obras](https://open.spotify.com/track/5iADCLb4Q9ZMaRAx0yHNO0) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir), [Joaquin del Mundo](https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS) | [Llega llega llega \(Vivo en Obras\)](https://open.spotify.com/album/3UIVJ4b4NAzKUXiDx5WUPo) | 4:27 | 2022-10-14 |  |
 | [Lo Frágil De La Locura \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 4:43 | 2022-06-24 |  |
 | [Lo Frágil De La Locura \- Live](https://open.spotify.com/track/1FxvFXAutp76HSgRv3E9NV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo](https://open.spotify.com/album/7N0ZseL9dDJRCUfLSMDTrK) | 4:43 | 2022-04-01 | 2022-07-28 |
 | [Loco un Poco \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/6sFlPg9uvTFUbZiPQuINTE) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Loco un Poco \(En Vivo en el Teatro Ópera\)](https://open.spotify.com/album/34EF129K1HSEGO3egVmPJc) | 3:49 | 2022-04-01 | 2022-07-29 |

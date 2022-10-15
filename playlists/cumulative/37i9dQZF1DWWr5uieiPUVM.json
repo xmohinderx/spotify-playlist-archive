@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: WIU",
+  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: Veigh",
   "name": "Trapperz Brasil",
   "published_playlist_ids": [
     "2bZk5f2KVSoGqtFW20OKam"
@@ -540,6 +540,28 @@
     },
     {
       "album": {
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
+    },
+    {
+      "album": {
         "name": "Bandido N\u00e3o Dan\u00e7a BB",
         "url": "https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu"
       },
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 195000,
       "name": "Dinheiro me sonda",
       "url": "https://open.spotify.com/track/1qL1qTH8oYIPec1WhHLoCA"
@@ -2053,7 +2075,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
@@ -2525,6 +2547,36 @@
       "duration_ms": 202218,
       "name": "Momento (feat. Luccas Carlos)",
       "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
+    },
+    {
+      "album": {
+        "name": "Movimento - Spotify Singles",
+        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158076,
+      "name": "Movimento - Spotify Singles",
+      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
     },
     {
       "album": {

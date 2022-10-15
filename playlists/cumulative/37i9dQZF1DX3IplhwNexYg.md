@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Wunderhorse
 
-307 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+309 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Birthday](https://open.spotify.com/track/2AKdrnTd4ghOtZqBL0ftr6) | [Nectar](https://open.spotify.com/artist/0KrkFYlEHw4rOmAXtK9L7g) | [Knocking at the Door](https://open.spotify.com/album/4cTkQGmo5za5yeoCL9HrHj) | 4:02 | 2021-03-09 | 2022-01-17 |
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-08-18 | 2022-09-30 |
 | [Black Tar](https://open.spotify.com/track/0OAXqItnyxKQUVpJNILG2V) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Black Tar](https://open.spotify.com/album/3ribJK72rYHmbPFnAwA51N) | 2:57 | 2022-08-18 | 2022-09-30 |
-| [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 | 2022-09-01 |  |
+| [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 | 2022-10-13 |  |
+| [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 | 2022-09-01 | 2022-10-15 |
 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 | 2022-10-06 |  |
 | [Blu Shirt Boy](https://open.spotify.com/track/7bAT6eo8VuSTPKA52CxPTJ) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/0wIdXaa8pAUQh5H0DBVmXK) | 3:43 | 2022-09-08 | 2022-10-13 |
 | [Blue](https://open.spotify.com/track/2Jtv7FYvZFQkz7GLJCIbTh) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Blue](https://open.spotify.com/album/34PFa8obv2n5a5s1zEGnus) | 3:00 | 2021-03-09 | 2022-01-17 |
@@ -282,7 +283,8 @@
 | [The Way It Shatters](https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The Way It Shatters](https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl) | 4:22 | 2022-02-04 | 2022-07-29 |
 | [The Year I Broke](https://open.spotify.com/track/7tdoduOQJNzwq7f8CdMLBw) | [Prince of Lilies](https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5) | [The Year I Broke](https://open.spotify.com/album/4MWAP25bhaNgK9ANcplc9J) | 3:58 | 2021-07-16 | 2022-03-02 |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-08-18 | 2022-10-14 |
-| [Thick of the Honey](https://open.spotify.com/track/0G8KKrqaEyNIHp8yqBLMQE) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/6eOz2VditU3qXKseQ7pcoT) | 2:17 | 2022-10-13 |  |
+| [Thick of the Honey](https://open.spotify.com/track/0G8KKrqaEyNIHp8yqBLMQE) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/6eOz2VditU3qXKseQ7pcoT) | 2:17 | 2022-10-13 | 2022-10-15 |
+| [Thick of the Honey](https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw) | 2:17 | 2022-10-13 |  |
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-18 | 2022-09-04 |
 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-08 |  |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-09-01 | 2022-09-20 |

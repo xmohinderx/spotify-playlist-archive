@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/2UMQn9XEV8y75UJ5pjrbDI"
+      },
+      "artists": [
+        {
+          "name": "The Reverend",
+          "url": "https://open.spotify.com/artist/0tZbykhCR3hUa19XhTOsoG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/3Xc6lFGNhHb31BJpj0bGy4"
+    },
+    {
+      "album": {
         "name": "Back Alley Blues",
         "url": "https://open.spotify.com/album/0G2mdy68fvOMjNszsGLuA8"
       },

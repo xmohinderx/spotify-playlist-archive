@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230792,
+  "num_followers": 230811,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDFiZTZhN2MxZjBmODI0MmY3YjE3NDllYWIxYTI5YTYy",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGE4ZWMwOWMwNDYxZjcxN2E5MjhmYWY0NGQ1YzRjZjdj",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -543,22 +543,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Love Me (Don't Worry)",
-        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Tullio",
-          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Love Me (Don't Worry)",
-      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -579,18 +575,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+        "name": "Love Me (Don't Worry)",
+        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
       },
       "artists": [
         {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
         }
       ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+      "duration_ms": 162000,
+      "name": "Love Me (Don't Worry)",
+      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
-      },
-      "artists": [
-        {
-          "name": "Vivaldi Verdes",
-          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
-        }
-      ],
-      "duration_ms": 235549,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "I Need My Girl",
         "url": "https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 222838,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
+      },
+      "artists": [
+        {
+          "name": "Vivaldi Verdes",
+          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+        }
+      ],
+      "duration_ms": 235549,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
-      },
-      "artists": [
-        {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
-        }
-      ],
-      "duration_ms": 218584,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Follow the Sun",
         "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 243624,
       "name": "Follow the Sun",
       "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
+      },
+      "artists": [
+        {
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+        }
+      ],
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -983,18 +983,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Midnight Sky",
-        "url": "https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg"
+        "name": "Crying Wolf",
+        "url": "https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L"
       },
       "artists": [
         {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+          "name": "Sugar Jesus",
+          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
+        },
+        {
+          "name": "Leda",
+          "url": "https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O"
         }
       ],
-      "duration_ms": 214096,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
+      "duration_ms": 218360,
+      "name": "Crying Wolf",
+      "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
     },
     {
       "added_at": "2021-08-05 09:09:59",

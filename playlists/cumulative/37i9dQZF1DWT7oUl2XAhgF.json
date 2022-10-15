@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
+  "description": "A new take on a classic sound. Cover: Lee Fields",
   "name": "Retro Soul",
   "published_playlist_ids": [
     "19AFs6pZ8WyCXnrxjl6M3m"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 198200,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 244359,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
@@ -3462,6 +3462,28 @@
     },
     {
       "album": {
+        "name": "Feel Like Going Home",
+        "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228431,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
+    },
+    {
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo"
       },
@@ -3549,6 +3571,24 @@
       "duration_ms": 224626,
       "name": "Tumblin'",
       "url": "https://open.spotify.com/track/6KjXOo6ViBjRuibYNwCzdV"
+    },
+    {
+      "album": {
+        "name": "Two Jobs",
+        "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "Two Jobs",
+      "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
     },
     {
       "album": {
@@ -3643,6 +3683,24 @@
       "duration_ms": 290626,
       "name": "Warpaint",
       "url": "https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L"
+    },
+    {
+      "album": {
+        "name": "What A Difference She Made",
+        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175696,
+      "name": "What A Difference She Made",
+      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
     },
     {
       "album": {

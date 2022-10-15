@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-298 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+304 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2021-12-17 |  |
 | [Calm Embrace](https://open.spotify.com/track/5rMCyc5FUpkpAx2MIB9Bja) | [Esa Plant](https://open.spotify.com/artist/0QQlMFDABAtm2cdSGJdB4p) | [Calm Embrace](https://open.spotify.com/album/0ECjtVkMi9MHOwrDdsi3eo) | 2:56 | 2021-12-17 |  |
 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
+| [Calming Seas](https://open.spotify.com/track/6fAmC1bZzVgA9E5gNrdy5k) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Calming Seas](https://open.spotify.com/album/6RZEo3ZuNrZadQxwmxbtra) | 2:50 | 2022-10-15 |  |
 | [Calming Tune](https://open.spotify.com/track/4nwPbxRsKm81Alkoj3nZMi) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Feel a Sense](https://open.spotify.com/album/2QSLLC0Kby30GZgyJ7NSy8) | 3:18 | 2021-12-17 |  |
 | [Carry Me](https://open.spotify.com/track/3kv3rN2ODEKUXav5prNo0D) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [Another sky](https://open.spotify.com/album/1XTNxiid9MngqpVKSkKFxf) | 3:08 | 2022-09-13 |  |
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-12-17 |  |
@@ -84,6 +85,7 @@
 | [Dormiveglia](https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Dormiveglia](https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89) | 3:21 | 2021-12-17 |  |
 | [Dreams Come True](https://open.spotify.com/track/1eUZnVvwrOptdKQ8vvi3Yh) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Carry On](https://open.spotify.com/album/5ryLW7nz2xS5nPpkFidx9F) | 3:02 | 2021-12-17 | 2022-04-22 |
 | [Drift](https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/02GKbWNl7dGVPOWgNzswQY) | 4:00 | 2022-07-08 |  |
+| [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Dusk Sermons](https://open.spotify.com/track/4eoA6gqXBqpCuCemOineDh) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [Dusk Sermons](https://open.spotify.com/album/6jTsueHPtmp2svmRED9FOk) | 3:21 | 2022-02-25 |  |
 | [Dvala](https://open.spotify.com/track/14N0SnNoSSqdIVSHCBXnCb) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Dvala](https://open.spotify.com/album/5eHx7IxJ0eXfVfD8KMMxD9) | 3:06 | 2022-04-07 |  |
 | [Eascodset](https://open.spotify.com/track/1BMgyrYXHolIe6e0oU9OqQ) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Eascodset](https://open.spotify.com/album/7zPoPXFJwRprw2MwaLjr7V) | 3:06 | 2022-07-22 |  |
@@ -116,6 +118,7 @@
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2021-12-17 |  |
 | [Gentle Words](https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN) | [Sperenza](https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ) | [Gentle Words](https://open.spotify.com/album/1gEp3FcH0gC7gGJ4EbwCn0) | 4:03 | 2021-12-17 |  |
 | [Glaciers](https://open.spotify.com/track/77VlInzvpsNl69mz2bVB5W) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Glaciers](https://open.spotify.com/album/0BDgPFL7CTLC6t0IoyzwJS) | 2:53 | 2021-12-17 |  |
+| [Glowing](https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glowing](https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l) | 2:13 | 2022-10-15 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-12-17 |  |
 | [Grounded Mind](https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [In The Stillness](https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK) | 3:04 | 2021-12-17 | 2022-04-22 |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2021-12-17 |  |
@@ -123,6 +126,7 @@
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-01-05 |  |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2021-12-17 |  |
 | [Honouring the Promise](https://open.spotify.com/track/2TkTycXLW2EbeXeBIuPGU7) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Honouring the Promise](https://open.spotify.com/album/4XNXRAgmYCln4JkUE294Lc) | 3:29 | 2021-12-17 |  |
+| [Hoop](https://open.spotify.com/track/7mop8SiZz46KwraJSoiLVU) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Hoop](https://open.spotify.com/album/4BpMZT3U6v1VJb74mmCSfe) | 3:28 | 2022-10-15 |  |
 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 | 2022-09-02 |  |
 | [Hope Street](https://open.spotify.com/track/2GW2FdCD7NePDJ4GFaEnpP) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Hope Street](https://open.spotify.com/album/0lYW6kBdZvNW532PyGPUSY) | 3:28 | 2021-12-22 |  |
 | [Hopeful](https://open.spotify.com/track/6pnhLxKJShRqP5YeXdtkWc) | [Asher Francis](https://open.spotify.com/artist/7A3PJ0HRctOwwSLMIwFDte) | [Hopeful](https://open.spotify.com/album/5qNrPIDJil1rGVkiO8LI9A) | 2:11 | 2021-12-17 |  |
@@ -188,6 +192,7 @@
 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 | 2021-12-17 |  |
 | [My Heart](https://open.spotify.com/track/4cAGCkkLv77F0VWFPkQxUG) | [Bella Mie](https://open.spotify.com/artist/1aqj4NItjznvMP8uHTeCLR) | [My Heart](https://open.spotify.com/album/4a77dNUR7QMqW1ltyaDhIT) | 2:57 | 2022-02-15 |  |
 | [Nattfrost](https://open.spotify.com/track/3fUemEodduDcg2XrhWDi5E) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Nattfrost](https://open.spotify.com/album/2FxNMZY92CHoltjtg6Y2Ho) | 3:12 | 2021-12-17 |  |
+| [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-15 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-12-17 |  |
 | [Nightfall](https://open.spotify.com/track/4HeTp7uxT3yqJQYXP5RnPN) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Nightfall](https://open.spotify.com/album/1NFDvhPuSJWgIDfJjfqnXz) | 3:15 | 2021-12-17 |  |
 | [No me despiertes](https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [No me despiertes](https://open.spotify.com/album/2ZiLz7HnpiTwkZiP3ZW7gF) | 3:07 | 2021-12-17 |  |
@@ -305,6 +310,7 @@
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2021-12-17 | 2022-09-03 |
 | [Ängarna](https://open.spotify.com/track/13RPTSwWAEQ2XU7PgHj6YQ) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Ängarna](https://open.spotify.com/album/48qEJ2qLRnVcrd9b4unnAJ) | 3:05 | 2021-12-17 |  |
 | [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2021-12-17 |  |
+| [Équilibre](https://open.spotify.com/track/1kY64LDhpgy30XGXj5c7Qa) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Équilibre](https://open.spotify.com/album/3ue6f4Rru74OH3ozKrFnU3) | 3:21 | 2022-10-15 |  |
 | [어스름](https://open.spotify.com/track/5z7sxlo3kf8eg8s3Zkb8dQ) | [Woong Sun Hee](https://open.spotify.com/artist/1HYFlkIP8WNiSu2E5R5Txx) | [어스름](https://open.spotify.com/album/6dTC18Wb6YRS6nDpFSOn8A) | 1:38 | 2021-12-17 | 2022-04-22 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

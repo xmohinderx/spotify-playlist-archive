@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-142 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
+144 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2022-01-12 |  |
 | [Space 11 \(Invisible Pages Over\)](https://open.spotify.com/track/786FgaRDsjLgvViIu30sam) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [From Sleep](https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3) | 5:15 | 2021-12-22 | 2022-07-29 |
 | [Space 11 \(Invisible Pages Over\)](https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 5:15 | 2022-07-11 |  |
+| [Sphere Of No\-Form \- Alternative Version](https://open.spotify.com/track/2Px24p2YvxnJt2nF4VShyO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata \[Alternative Versions\]](https://open.spotify.com/album/1LKkDKteFePHRCNCtBhcPN) | 8:23 | 2022-10-14 |  |
 | [Stave Peak](https://open.spotify.com/track/1Y315hvTFn1VMon294Tn7y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7nBRRZImFPLUrd0XsjzOrX) | 6:40 | 2021-12-22 | 2022-08-19 |
 | [Stave Peak](https://open.spotify.com/track/1zkg1Iy9lFRF5ZQHMEiR9y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7mPWzggbkjqPQM9tDQa64s) | 6:40 | 2022-08-17 |  |
 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 | 2022-07-11 |  |
@@ -140,6 +141,7 @@
 | [unother](https://open.spotify.com/track/363mTP8zzRAr36wlbcdHRP) | [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Improvisational Loops](https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU) | 1:02 | 2021-12-22 |  |
 | [Unreal](https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7) | 2:53 | 2022-07-11 |  |
 | [Unreal](https://open.spotify.com/track/3liR99bvHUIbDZv1bWKJNd) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(OST\)](https://open.spotify.com/album/3w0DWCRJXBcB0aCgeOJ7LX) | 2:54 | 2021-12-22 | 2022-07-29 |
+| [Vapors](https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge) | [Lennart Altgenug](https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO), [Still Restless](https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0) | [Vapors](https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo) | 3:12 | 2022-10-14 |  |
 | [Variations on a Theme by St\-Dipshit](https://open.spotify.com/track/3Q3ZAHNfjtWSTEUIBuXc1K) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Kyle Bobby Dunn and the Infinite Sadness](https://open.spotify.com/album/2NVB7DIA1wTUEM7KmXnWeZ) | 9:22 | 2021-12-22 |  |
 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 | 2021-12-22 |  |
 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 | 2021-12-22 |  |

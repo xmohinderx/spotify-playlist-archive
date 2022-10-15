@@ -368,6 +368,28 @@
     },
     {
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/19zw55AIExi0SYdFJRBHGf"
+      },
+      "artists": [
+        {
+          "name": "CP",
+          "url": "https://open.spotify.com/artist/54FkNwUXQGoOXQF6nU3ZeB"
+        },
+        {
+          "name": "Maurex",
+          "url": "https://open.spotify.com/artist/2h8Uc3bjHkRnEc2PVpO8Je"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/05t8u8aUPngMb4a0K35GUC"
+    },
+    {
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/7bSGqZgFrAhPYWeZsVUjVk"
       },
@@ -551,6 +573,32 @@
       "duration_ms": 207873,
       "name": "Como Tu (feat. Ivandro)",
       "url": "https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin"
+    },
+    {
+      "album": {
+        "name": "Conquista Mundo",
+        "url": "https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M"
+      },
+      "artists": [
+        {
+          "name": "Mulatoh Prod",
+          "url": "https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR"
+        },
+        {
+          "name": "Tino OG",
+          "url": "https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST"
+        },
+        {
+          "name": "Akapta G",
+          "url": "https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152347,
+      "name": "Conquista Mundo",
+      "url": "https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT"
     },
     {
       "album": {
@@ -1649,7 +1697,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 188400,
       "name": "Novo Demais",
       "url": "https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32"
@@ -2231,6 +2279,24 @@
       "duration_ms": 219850,
       "name": "Sentimentos Acabam",
       "url": "https://open.spotify.com/track/7MDv6pCAscqW0spDgAoGaW"
+    },
+    {
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg"
+      },
+      "artists": [
+        {
+          "name": "Camy Breezy",
+          "url": "https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE"
     },
     {
       "album": {

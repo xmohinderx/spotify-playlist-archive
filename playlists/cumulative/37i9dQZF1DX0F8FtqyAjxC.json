@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 365866,
       "name": "Behind The Groove",
       "url": "https://open.spotify.com/track/6nXCHvql32RBADi95fvHo9"
@@ -156,6 +156,28 @@
     },
     {
       "album": {
+        "name": "Maze (Remastered)",
+        "url": "https://open.spotify.com/album/6TU0GXA9Vq80VYdmuCpCFQ"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Color Blind - Remastered",
+      "url": "https://open.spotify.com/track/07KpzznlVZq9sp5WdzPogV"
+    },
+    {
+      "album": {
         "name": "Tellin' It",
         "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
@@ -171,6 +193,24 @@
       "duration_ms": 178280,
       "name": "Come to Mama",
       "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+    },
+    {
+      "album": {
+        "name": "Cosmic Slop",
+        "url": "https://open.spotify.com/album/49hvcA7jIUDu41njTP17uL"
+      },
+      "artists": [
+        {
+          "name": "Funkadelic",
+          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320383,
+      "name": "Cosmic Slop",
+      "url": "https://open.spotify.com/track/4ZdqnIpnuiC5Z4C88HAD7T"
     },
     {
       "album": {
@@ -203,7 +243,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 493013,
       "name": "Din Da Da",
       "url": "https://open.spotify.com/track/79ZIOqBMGxyYlWeTVvJ0GE"
@@ -282,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Fencewalk: The Anthology",
+        "url": "https://open.spotify.com/album/6yy1bbnruEzaoaG7CKGzYd"
+      },
+      "artists": [
+        {
+          "name": "Mandrill",
+          "url": "https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Echoes In My Mind",
+      "url": "https://open.spotify.com/track/3VU2rPWk2Nyd2amSKbJSHw"
+    },
+    {
+      "album": {
         "name": "Feel My Love",
         "url": "https://open.spotify.com/album/2N0cm35gQQENQcZc0EDwjJ"
       },
@@ -293,7 +351,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 405406,
       "name": "Feel My Love",
       "url": "https://open.spotify.com/track/5pyCu38w9NUJtSrnbeec1R"
@@ -589,7 +647,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 540220,
       "name": "Life 4 Living",
       "url": "https://open.spotify.com/track/36abYTyqMC13buaMnlm8Zg"
@@ -803,7 +861,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 300826,
       "name": "On and On",
       "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
@@ -843,6 +901,24 @@
       "duration_ms": 510000,
       "name": "Party On",
       "url": "https://open.spotify.com/track/1grcWuufWEJofCLzNV8oDa"
+    },
+    {
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404160,
+      "name": "Peace Piece",
+      "url": "https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de"
     },
     {
       "album": {
@@ -922,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Template",
+        "url": "https://open.spotify.com/album/27uFfXEjpgDLcJpAxTNvSv"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282443,
+      "name": "Template",
+      "url": "https://open.spotify.com/track/4EFrD2CImPNjn1wUWETNIO"
+    },
+    {
+      "album": {
         "name": "Predictions",
         "url": "https://open.spotify.com/album/0qWXzm79bgbNGIq2VPBML7"
       },
@@ -951,7 +1045,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 272625,
       "name": "The Beat Goes on and On",
       "url": "https://open.spotify.com/track/72y8Ux1ab53mniGZ7N15gG"
@@ -969,10 +1063,46 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 359026,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/6dj90j7iqYqu622y7N5zxe"
+    },
+    {
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/0xokdAGKPT5G5kld9cgcOX"
+      },
+      "artists": [
+        {
+          "name": "Maceo",
+          "url": "https://open.spotify.com/artist/4u1hXzJpF34tGtqdnfmUsZ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638800,
+      "name": "The Soul Of A Black Man",
+      "url": "https://open.spotify.com/track/3dsU7yv3LlIGbuy2FgOHOj"
+    },
+    {
+      "album": {
+        "name": "Think That I Don't Need Your Love",
+        "url": "https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223414,
+      "name": "Think That I Don't Need Your Love",
+      "url": "https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ"
     },
     {
       "album": {
@@ -1005,7 +1135,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 207080,
       "name": "Wanted, Dead or Alive",
       "url": "https://open.spotify.com/track/0xGqjGe6XghqiCqeAObpqx"
@@ -1027,6 +1157,24 @@
       "duration_ms": 265226,
       "name": "Way Back When",
       "url": "https://open.spotify.com/track/0afUIcc44wK2Y1LMGBH2k6"
+    },
+    {
+      "album": {
+        "name": "Philadelphia Soul - Rarities",
+        "url": "https://open.spotify.com/album/77j7xefFvOKQuSLeR80Uii"
+      },
+      "artists": [
+        {
+          "name": "Universal Love",
+          "url": "https://open.spotify.com/artist/3VBt6nOfrVaEr3iRDXI6rP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293373,
+      "name": "We Gonna Rock This Place",
+      "url": "https://open.spotify.com/track/4TxZdik0UxuIKvwLsfNx7U"
     },
     {
       "album": {

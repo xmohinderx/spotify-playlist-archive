@@ -161,7 +161,7 @@
     {
       "album": {
         "name": "Wonder What",
-        "url": "https://open.spotify.com/album/7bSbz7kMBZskWvr9QegmIY"
+        "url": "https://open.spotify.com/album/2RIflWL6QYuwyTsvZDMphI"
       },
       "artists": [
         {
@@ -172,6 +172,24 @@
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Can't See Your Face Anymore",
+      "url": "https://open.spotify.com/track/1CvBeKh7m3dySJXPtBntda"
+    },
+    {
+      "album": {
+        "name": "Wonder What",
+        "url": "https://open.spotify.com/album/7bSbz7kMBZskWvr9QegmIY"
+      },
+      "artists": [
+        {
+          "name": "Swan Lingo",
+          "url": "https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 198000,
       "name": "Can't See Your Face Anymore",
       "url": "https://open.spotify.com/track/5dCaK9fWpT5U4m9BO96uCc"

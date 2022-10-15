@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 88 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 89 | [Chanson pour Bérénice Einberg](https://open.spotify.com/track/5uyRqg6TNVaj6r0tajpN1E) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 4:05 |
 | 90 | [Drama](https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:48 |
-| 91 | [Ukulele](https://open.spotify.com/track/2kNtI2GZUKQxG8axWnP8ck) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [BLUE](https://open.spotify.com/album/5khcjrGY49VUT9mcCblhJx) | 3:01 |
+| 91 | [Ukulele](https://open.spotify.com/track/2CFfXB3DwicvuraLddhokV) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [BLUE](https://open.spotify.com/album/56CovnRrY1xrrMSWLkk0L6) | 3:01 |
 | 92 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
 | 93 | [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 |
 | 94 | [Jour 2](https://open.spotify.com/track/2FyxwoPkYNyweSmgnvsMhd) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 99 | [Moon Girl](https://open.spotify.com/track/5wm2vGAyBWAtpYRexMmy4T) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Victor Bongiovanni](https://open.spotify.com/artist/0YYuoHejzcETsCCEyCUFnh) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 2:35 |
 | 100 | [Mermaid From L.A.](https://open.spotify.com/track/5uzUMWMKG2suofVX4wUWrM) | [Bealby Point](https://open.spotify.com/artist/3RFcQWqSi7oW9hBmapQ25X) | [Mermaid From L.A.](https://open.spotify.com/album/5AD3pHTy0BcJmHu13k3j3q) | 3:16 |
 
-Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDM4MGE4ODEwNmQ1NzNkMDU3MzYyMzlkMDhiYmUyMGVj`
+Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDYzYmM1YWNhYmJiNGI1OGQyODYxNzYwNTE1OWZlNmI5`

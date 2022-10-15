@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Paramore",
+  "description": "For the Hard Rock and full volume lovers. Cover: Godsmack",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -1194,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217606,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/0IcUCRcLXR9S8OGFt0iT1L"
+    },
+    {
+      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/3JolNj9VZDQUstG558KiiB"
       },
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 378313,
       "name": "Pawns & Kings",
       "url": "https://open.spotify.com/track/3MNZ79grelbBXsQcKUQZAh"
@@ -3371,6 +3389,24 @@
       "duration_ms": 176107,
       "name": "Peacemaker",
       "url": "https://open.spotify.com/track/0gRv4lU4ZFvaOEw4mJw8Z7"
+    },
+    {
+      "album": {
+        "name": "Permanent Rebellion",
+        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193976,
+      "name": "Permanent Rebellion",
+      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
       "album": {
@@ -4247,7 +4283,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
@@ -4945,6 +4981,24 @@
       "duration_ms": 206511,
       "name": "This Is For You (feat. Justin Hawkins)",
       "url": "https://open.spotify.com/track/4oh6OiLBNDqTWBZb2CZC5t"
+    },
+    {
+      "album": {
+        "name": "This Is War",
+        "url": "https://open.spotify.com/album/0DUICmYXcg9M1N3xaKvtSu"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243622,
+      "name": "This is War",
+      "url": "https://open.spotify.com/track/4K4budASa3lo3sBlfUT7Ex"
     },
     {
       "album": {

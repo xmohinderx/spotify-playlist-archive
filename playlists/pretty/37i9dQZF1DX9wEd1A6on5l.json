@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 18962,
+  "num_followers": 19001,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDI3MjUxMzc2ZTc2YmUxYjkwNjAyN2Q2YmZjYzBkOWVi",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDM2Y2M4ODllYjUwNGEwNDdmZDI5ZjI1NzY5ZTI1N2Q1",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Eh God (Barnabas)",
+      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Holy Father",
         "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
       },
@@ -1177,20 +1193,24 @@
       "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-09-30 07:00:51",
       "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
+        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Eh God (Barnabas)",
-      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
+      "duration_ms": 189000,
+      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
+      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1213,24 +1233,20 @@
       "url": "https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9"
     },
     {
-      "added_at": "2022-09-30 07:00:51",
+      "added_at": "2022-09-23 06:29:30",
       "album": {
-        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
-        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
-      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1305,22 +1321,6 @@
       "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
-      "added_at": "2022-09-23 06:29:30",
-      "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Champion Sound",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1453,26 +1453,6 @@
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Don't Call Me (feat. Zinoleesky)",
-        "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Don't Call Me (feat. Zinoleesky)",
-      "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
-    },
-    {
       "added_at": "2022-09-23 06:29:30",
       "album": {
         "name": "Patek",
@@ -1499,6 +1479,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Don't Call Me (feat. Zinoleesky)",
+        "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Don't Call Me (feat. Zinoleesky)",
+      "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
@@ -1515,6 +1515,38 @@
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Come My Way",
+        "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 208718,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
     },
     {
       "added_at": "2022-07-22 04:27:00",
@@ -1535,38 +1567,6 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Come My Way",
-        "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 208718,
-      "name": "Come My Way",
-      "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
     }
   ],
   "unique_name": "Party Dey!",

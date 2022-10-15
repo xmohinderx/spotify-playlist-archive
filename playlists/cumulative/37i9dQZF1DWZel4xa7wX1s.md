@@ -4,7 +4,7 @@
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-104 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
+105 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Blind Leading The Blind](https://open.spotify.com/track/2WbrVeftLDcSAfQBHxA9P4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/1sWcGlojlFQctnfRWlmUjI) | 3:44 | 2019-11-29 | 2022-07-29 |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2019-11-29 | 2022-07-29 |
 | [Champion Of The World](https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:17 | 2019-11-29 |  |
-| [Chelsea](https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Chelsea](https://open.spotify.com/album/2Fr2BpLSBpck5R21kysYox) | 4:49 | 2019-11-29 |  |
+| [Chelsea](https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Chelsea](https://open.spotify.com/album/2Fr2BpLSBpck5R21kysYox) | 4:49 | 2019-11-29 | 2022-10-15 |
 | [Devil's Tower](https://open.spotify.com/track/1PCRrXONHBtqfxXnRL1IKc) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Devil's Tower](https://open.spotify.com/album/7c9tmy3Crbn9b94xJ7wtbT) | 3:43 | 2019-11-29 | 2022-07-29 |
 | [Didn't I](https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Bridget Cady](https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z) | [Blood Red Roses \(Deluxe Version\)](https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa) | 4:00 | 2019-11-29 |  |
 | [Didn't I](https://open.spotify.com/track/6dr3VRZV5SS8abPR4SbvnA) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Bridget Cady](https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z) | [Didn't I](https://open.spotify.com/album/5R1izqEWxeyPGrsglmoYIr) | 4:00 | 2019-11-29 | 2022-07-29 |
@@ -44,6 +44,7 @@
 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 | 2019-11-29 |  |
 | [For Real](https://open.spotify.com/track/5xIXisYiSN60TOr9udGTrL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [For Real / The Best Of Everything](https://open.spotify.com/album/47cu5tTEfZujAblpkBkXgt) | 3:51 | 2019-11-29 | 2022-07-29 |
 | [Found It](https://open.spotify.com/track/7MNrm7QSIPBgzXIsXic6r1) | [Jacob Dinesen](https://open.spotify.com/artist/0yXCyc8MNNuv0YCWpxeg0a) | [Found It](https://open.spotify.com/album/5H1QLPF0VNl4JxWISA3aPZ) | 3:27 | 2019-11-29 | 2022-07-29 |
+| [Four Leaf Clover](https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Let's Go Sunshine](https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe) | 3:23 | 2019-11-29 |  |
 | [Four Leaf Clover \- Edit](https://open.spotify.com/track/7aq4RmtNftNpqUaeoZb5ao) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Four Leaf Clover \(Edit\)](https://open.spotify.com/album/1oCxUmpYZvKbka1mENWf4C) | 3:11 | 2019-11-29 | 2022-10-13 |
 | [Friends](https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Still on My Mind](https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn) | 3:23 | 2019-11-29 |  |
 | [Friends](https://open.spotify.com/track/3dprzFQ0wYBeI1LHPVz549) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Friends](https://open.spotify.com/album/2r2CMBNfSpGiJFXIGwWQV3) | 3:23 | 2019-11-29 | 2022-07-29 |

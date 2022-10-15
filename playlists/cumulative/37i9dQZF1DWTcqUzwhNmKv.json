@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lamb Of God on top of the biggest Metal playlist!",
+  "description": "Architects on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -135,6 +135,24 @@
       "duration_ms": 224801,
       "name": "Angst",
       "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
+    },
+    {
+      "album": {
+        "name": "What Is It//Kill It",
+        "url": "https://open.spotify.com/album/2yJV9zQTy3D005yEBwqGjy"
+      },
+      "artists": [
+        {
+          "name": "Vended",
+          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Antibody",
+      "url": "https://open.spotify.com/track/2W3gG3gJdA6zzIwBmWD4bT"
     },
     {
       "album": {
@@ -1100,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Ded to Me",
+        "url": "https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL"
+      },
+      "artists": [
+        {
+          "name": "Vended",
+          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224350,
+      "name": "Ded to Me",
+      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7"
+    },
+    {
+      "album": {
         "name": "deep fake",
         "url": "https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF"
       },
@@ -1241,7 +1277,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 221560,
       "name": "Don't Pray For Me",
       "url": "https://open.spotify.com/track/5HmNls885b2Egmu60z4fo3"
@@ -1499,6 +1535,24 @@
       "duration_ms": 301640,
       "name": "False Providence (feat. Mick Gordon)",
       "url": "https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ"
+    },
+    {
+      "album": {
+        "name": "Weapons Of The Modern Age",
+        "url": "https://open.spotify.com/album/53VtJpStdfdFG2MSJRgZgC"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278093,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t"
     },
     {
       "album": {
@@ -1885,7 +1939,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 487559,
       "name": "Harridan",
       "url": "https://open.spotify.com/track/1mnAE4tnyYZaUGTiazDdmR"
@@ -2871,7 +2925,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 335150,
       "name": "Nothing Feels Right (feat. Zakk Wylde)",
       "url": "https://open.spotify.com/track/1K2MfPrkhy3pAYFL0m4Y64"
@@ -3113,6 +3167,46 @@
       "duration_ms": 188111,
       "name": "Party in My Head",
       "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
+    },
+    {
+      "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+    },
+    {
+      "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441402,
+      "name": "Patient Number 9 (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/3YYnFEXCLNbaWuC0hIEnIS"
     },
     {
       "album": {
@@ -3839,7 +3933,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 294426,
       "name": "Soldier On!",
       "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
@@ -4113,7 +4207,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 236000,
       "name": "Stormtroopers",
       "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
@@ -4387,6 +4481,24 @@
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
     },
     {
       "album": {
@@ -5395,7 +5507,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 283786,
       "name": "Yen",
       "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"

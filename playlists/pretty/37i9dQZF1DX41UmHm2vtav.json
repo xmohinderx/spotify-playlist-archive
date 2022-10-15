@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 362944,
+  "num_followers": 363032,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTY2MCwwMDAwMDAwMDgxNzliMzA4MGI0NGVlZTRhY2JlNTRhZmZhODAxM2My",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDg5NTZkNjZkOTk5YzkwYjU2NWViZTNjOWNmZGNmZGM1",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:00",
@@ -455,8 +455,8 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "\u00c1gua de Coco",
-        "url": "https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH"
+        "name": "Vem pro Mar",
+        "url": "https://open.spotify.com/album/6KM6hXviSBq4erdXgVPAvX"
       },
       "artists": [
         {
@@ -466,7 +466,7 @@
       ],
       "duration_ms": 305847,
       "name": "\u00c1gua de Coco",
-      "url": "https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc"
+      "url": "https://open.spotify.com/track/1MFanLEhxtE5NULojdFkB3"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Um Dia Inteiro",
         "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 184000,
       "name": "Um Dia Inteiro",
       "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Descobridor dos Sete Mares: Remix",
-        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Descobridor dos Sete Mares: Remix",
-      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Descobridor dos Sete Mares: Remix",
+        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Descobridor dos Sete Mares: Remix",
+      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
     },
     {
       "added_at": "2022-10-07 03:01:00",

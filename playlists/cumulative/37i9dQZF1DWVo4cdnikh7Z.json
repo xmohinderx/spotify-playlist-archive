@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Naane Varuvean",
+  "description": "New Music from Kollywood.\nCover : Prince",
   "name": "Latest Tamil",
   "published_playlist_ids": [
     "3lJTsYcdZXxaz1Tx9gEyN0"
@@ -1550,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Edhuvum Kedaikalana? (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc"
+      },
+      "artists": [
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Edhuvum Kedaikalana? - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb"
+    },
+    {
+      "album": {
         "name": "Ella Ella - Ganster Gangaraju",
         "url": "https://open.spotify.com/album/7Ii0a6dZbDjmRkb0TegHqr"
       },
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 246412,
       "name": "Hey Sita Hey Rama",
       "url": "https://open.spotify.com/track/3TIlbSi5ZYakIPyB7heWQO"
@@ -3301,7 +3319,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 187500,
       "name": "Maatna Gaali (From \"Gulu Gulu\")",
       "url": "https://open.spotify.com/track/3nHbr0Xr0Wkzu15QEgvVfE"
@@ -4521,7 +4539,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 251377,
       "name": "Orr Kadhal Kanaa - From \"Farhana\"",
       "url": "https://open.spotify.com/track/2sizHChPI8FuMSwQXcVV7c"
@@ -4687,7 +4705,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 66500,
       "name": "Patak Patak - 1 Min Music",
       "url": "https://open.spotify.com/track/31kAiaXUVp1ZLtuFmkhkYr"
@@ -4823,7 +4841,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 208679,
       "name": "Piriyadhey",
       "url": "https://open.spotify.com/track/38uokF7r2knE7SH6vf6DqT"
@@ -5949,7 +5967,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 285306,
       "name": "Thani Maramai (From \"Buffoon\")",
       "url": "https://open.spotify.com/track/0YGMPiD1JZpdTGEYIMHhyn"
@@ -6111,7 +6129,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 278377,
       "name": "Theethiriyaai (From \"Brahmastra (Tamil)\")",
       "url": "https://open.spotify.com/track/5XbHpOBN1vTU3hN1YzLqHL"
@@ -6269,7 +6287,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 283929,
       "name": "Thumbi Thullal",
       "url": "https://open.spotify.com/track/7tvDj0JY0HBSikV4mR7VE9"
@@ -6577,7 +6595,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 313333,
       "name": "Uyir Urugudhey (From \"Cobra\")",
       "url": "https://open.spotify.com/track/4UKTifFM0LKxkhqyGndZHi"
@@ -6621,7 +6639,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 272710,
       "name": "Vaa Maa Thendral - From \"Parole\"",
       "url": "https://open.spotify.com/track/4YYM5FqlFhVZBwGSVIpavP"
@@ -7065,6 +7083,24 @@
       "duration_ms": 202605,
       "name": "Whistle Song",
       "url": "https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk"
+    },
+    {
+      "album": {
+        "name": "Prince (Tamil)",
+        "url": "https://open.spotify.com/album/768hQJ2fKFv4Lq4TE0J1Hj"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Who Am I ?",
+      "url": "https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI"
     },
     {
       "album": {

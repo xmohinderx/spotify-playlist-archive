@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-54 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/3zjUy4MI1JxgA135u6K15F)
+55 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/3zjUy4MI1JxgA135u6K15F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [ONE CALL AWAY](https://open.spotify.com/track/1TNXQu4wOglxXV2XjUII6w) | [Nikodimos](https://open.spotify.com/artist/3UR6EeXwoBQuXxKPxtEgLu), [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f), [Uno Lizard](https://open.spotify.com/artist/55NG0TSJpgCpuOC9CmbYTI), [Jack Eden](https://open.spotify.com/artist/4SoKBzX90SCV81NhF8swSw) | [NIKODIMOS WORLD](https://open.spotify.com/album/3fduHLRKqiR4gmYZc3zsdT) | 4:15 | 2022-07-13 |  |
 | [Opening The Door](https://open.spotify.com/track/4mt18mSjIRBRsItG0spHZD) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Opening the Door](https://open.spotify.com/album/4PT8J0fOr38VIH5ULZamLh) | 3:52 | 2022-07-13 |  |
 | [Play with Me \(Jane\) \- Sweet Garage Mix](https://open.spotify.com/track/3sU7qHqWOWPk1YEplL2kvP) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Play With Me \(Jane\)](https://open.spotify.com/album/5yw7I6Mf12GNkqimorLZQY) | 5:44 | 2022-07-13 |  |
-| [Prince Endormi](https://open.spotify.com/track/3TUPWzo9cdnUzdABdpavX3) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p) | 3:15 | 2022-07-13 |  |
+| [Prince Endormi](https://open.spotify.com/track/11cXXPbQP5SlmbaGaf7JYJ) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/4NbXqLwluwiNPhWMCZdYXq) | 3:15 | 2022-07-13 |  |
+| [Prince Endormi](https://open.spotify.com/track/3TUPWzo9cdnUzdABdpavX3) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p) | 3:15 | 2022-07-13 | 2022-10-15 |
 | [Raise A Blaze](https://open.spotify.com/track/5RXccoJ4MO40vfV8XYwJ4Q) | [Foreal People](https://open.spotify.com/artist/3HzsfFc9UxQSimCcQw3xIC), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Xan Blacq](https://open.spotify.com/artist/2sVAWIEKxum8gecpOhz3f4) | [Produced With Love II](https://open.spotify.com/album/7wUa8ZVa8c6Le3NpvtNluk) | 7:33 | 2022-07-13 |  |
 | [Reminds Me \- Jex Opolis remix](https://open.spotify.com/track/5Xv0nb0LbqpraEfSzmB7kV) | [yehno](https://open.spotify.com/artist/7kitc2kVddgUbOp99xEQr5), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Reminds Me \(Jex Opolis Remix\)](https://open.spotify.com/album/2lVNqVxMaQDfTWlz6tFYKF) | 6:26 | 2022-07-13 |  |
 | [Rhodos](https://open.spotify.com/track/1ar0mVyxXVepHFzO1IfWWj) | [Ultraflex](https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg) | [Rhodos](https://open.spotify.com/album/4VbGj95fho0crDc1kroJBM) | 3:48 | 2022-07-13 |  |

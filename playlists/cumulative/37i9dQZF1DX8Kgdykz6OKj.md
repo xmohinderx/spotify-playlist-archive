@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-268 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
+269 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Sunlit Days](https://open.spotify.com/track/7EEIZkHebAmutt3jxzdo39) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Sunlit Days](https://open.spotify.com/album/1lK9JKimaxwnn0gf6Se7fK) | 3:38 | 2021-12-16 | 2022-07-29 |
 | [Sunrise Love](https://open.spotify.com/track/04SOsj1h4TCNSuGk8Fbl14) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Luvbird](https://open.spotify.com/artist/2vmQ4q3IQKzvHaHTJAh3Ph), [Alex](https://open.spotify.com/artist/3tcg7Z0kQOlKon0aR03QNe) | [Palettes](https://open.spotify.com/album/4WsuSiZsFuddq0r6f8dMJl) | 1:41 | 2022-04-11 | 2022-04-21 |
 | [Super Fly Funk](https://open.spotify.com/track/16dyAuXav2Oxrl5IABKscC) | [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S), [People Without Shoes](https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL) | [Super Fly Funk](https://open.spotify.com/album/3wFFstL9TziIljKsbCajnj) | 2:40 | 2021-12-16 | 2022-07-29 |
-| [Talk About Us](https://open.spotify.com/track/5zEOSknIlvu5qsOXIuNKxE) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Talk About Us](https://open.spotify.com/album/3CzmXTz41QqnmC9xWE6QeC) | 3:15 | 2021-12-16 |  |
+| [Talk About Us](https://open.spotify.com/track/5zEOSknIlvu5qsOXIuNKxE) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Talk About Us](https://open.spotify.com/album/3CzmXTz41QqnmC9xWE6QeC) | 3:15 | 2021-12-16 | 2022-10-15 |
+| [Talk About Us](https://open.spotify.com/track/7GcCIkXh9Y4qDSXnMLJgHW) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Nobody Cares Till Everybody Does](https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc) | 3:15 | 2022-10-13 |  |
 | [Talk to Me](https://open.spotify.com/track/0Fum6cgfDCPM8rE1OiPOTi) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H), [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy) | [Talk to Me](https://open.spotify.com/album/3pcbeVlYaQzu49o02DGiXP) | 3:34 | 2022-01-13 | 2022-06-11 |
 | [Terrapin](https://open.spotify.com/track/5LvQxdpf7SPx0ZkpkftwwN) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Don't Feed the Birds](https://open.spotify.com/album/567ZlcK2pGAR2xDVJYmppY) | 2:53 | 2021-12-16 |  |
 | [Thank Me Later](https://open.spotify.com/track/43z8SY9RCF1pFgYHeR0EoJ) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Emesa](https://open.spotify.com/artist/4TbtEjqnAiyGub7hfbrctY), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [8track](https://open.spotify.com/artist/1Bao9QEvTArL3kVI2mqmTp) | [Thank Me Later](https://open.spotify.com/album/1owGIyctZGbQFKJvQpvFBJ) | 2:44 | 2022-06-13 | 2022-07-12 |

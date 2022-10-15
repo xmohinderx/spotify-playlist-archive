@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1741,
+  "num_followers": 1742,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMGU4MWFhMmMwYjVmNGMwZTYwYTcwZTNhZTgzYjRmNjU1",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDhmMmI2ZDQyZmYwN2Q3ZDE4NmFmODRkM2RkZDljNmI2",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "Highlight",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 255689,
       "name": "YOU (feat. Beenzino)",
       "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "Highlight",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Go Your Way",
-      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+      "duration_ms": 282118,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 282118,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+      "duration_ms": 116000,
+      "name": "Go Your Way",
+      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
     },
     {
       "added_at": "2022-09-05 15:56:32",

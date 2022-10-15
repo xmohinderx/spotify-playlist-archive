@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: FIDLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,365 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,533 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
-| 2 | [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 |
+| 2 | [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 |
 | 3 | [Cavalier](https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Cavalier](https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL) | 2:55 |
 | 4 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 |
 | 5 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 38 | [On My Own](https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [On My Own](https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO) | 4:15 |
 | 39 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 |
 | 40 | [Kid Bruises](https://open.spotify.com/track/4wiGs6E59rKMCwVsSDyJoH) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Kid Bruises](https://open.spotify.com/album/5TWGm6Lw38ZNAEcarAq21O) | 3:19 |
-| 41 | [Dead and Gone](https://open.spotify.com/track/7gpXmJgNOpapz5GxFs0FGW) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [Dead and Gone](https://open.spotify.com/album/26d640oDNCm5BcEYt3vX5r) | 2:44 |
+| 41 | [Dead and Gone](https://open.spotify.com/track/1E3gbjnloxboIn5r3K8IcD) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [Seventh Wave](https://open.spotify.com/album/4bZnVnQDg85dT7S4SReDcJ) | 2:44 |
 | 42 | [Circuitry's God](https://open.spotify.com/track/403vJALozVD8tK8WMtk02F) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 1:45 |
 | 43 | [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 |
 | 44 | [Rat Race](https://open.spotify.com/track/4nfqM6p3jcMF8ZLq91kywq) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Reality Cheques](https://open.spotify.com/album/67DsYDB31JTEUZfuY2xv5s) | 3:35 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 100 | [Kill to Be Heard](https://open.spotify.com/track/1B5w8VVuKPTjd7nEYgMoY0) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Kill to Be Heard](https://open.spotify.com/album/5U6WPf9eTW0ImDXqzDNNWJ) | 1:58 |
 | 101 | [Body](https://open.spotify.com/track/0QO95tKfPVqs8mQo1W5NBV) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Body](https://open.spotify.com/album/1DnDutO6JLbg2DLZrRGuzb) | 2:31 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGNiN2I1NTIzZWM3NmZjMDJhNDU3MzcxYTU5NmYxMWY0`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDZkM2JjNTU5N2ZkNzdiYzdiOTBhNGZkZDEzOGNmODgy`

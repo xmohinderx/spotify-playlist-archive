@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 26 | [BITE BACK](https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [BITE BACK](https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy) | 3:10 |
 | 27 | [Hate Conquers All](https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hate Conquers All](https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0) | 2:46 |
 | 28 | [The Wounded World](https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:10 |
-| 29 | [She Thinks She's Punk Rock n Roll](https://open.spotify.com/track/6rORfOw4UI416oAolzgOXk) | [Hands Off Gretel](https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i) | [The Angry EP](https://open.spotify.com/album/5lq1pUDqoUtbqcDTRhziDW) | 2:05 |
-| 30 | [The Kids Are Alt\-Right](https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Kids Are Alt\-Right](https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX) | 2:43 |
+| 29 | [The Kids Are Alt\-Right](https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Kids Are Alt\-Right](https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX) | 2:43 |
+| 30 | [She Thinks She's Punk Rock n Roll](https://open.spotify.com/track/6rORfOw4UI416oAolzgOXk) | [Hands Off Gretel](https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i) | [The Angry EP](https://open.spotify.com/album/5lq1pUDqoUtbqcDTRhziDW) | 2:05 |
 | 31 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 |
 | 32 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/2W2J1ZwcqZL0ug37sRUoqH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:09 |
 | 33 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 47 | [The Left is Right](https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut) | [Desaparecidos](https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM) | [Payola](https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU) | 2:25 |
 | 48 | [Accelerate](https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Body Bag Your Scene](https://open.spotify.com/album/5Pa9fiKgIHnciDv8wdiCw0) | 3:47 |
 | 49 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
-| 50 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Heads You Win, Tails We Lose](https://open.spotify.com/album/2jlrZxuzk2a1WfdDT17rAd) | 2:59 |
+| 50 | [Our Great Divide](https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:16 |
 
-Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMGMxYjFmZmM5ZjU1ZmViYTg4MDhmYWFjZmY3ZWI1Nzc2`
+Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMGQ5ZGM2ZDVmZjRhOTc3ZWFlNjk1MTk2Y2FkMjMxMWZm`

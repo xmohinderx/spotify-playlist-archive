@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-403 songs - 1 day 2 hr 20 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+405 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Deathbed](https://open.spotify.com/track/2Z1GInPPpxZkc2B2ZHPA68) | [Engrossed](https://open.spotify.com/artist/1hv2s5LpM3wCsYTNHLuHdP) | [Deathbed](https://open.spotify.com/album/3vdzyOymFCOC2C4k4PbNtC) | 3:37 | 2022-01-07 | 2022-07-26 |
 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 | 2022-03-11 |  |
 | [Deathtouch](https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Deathtouch](https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ) | 3:21 | 2021-12-17 |  |
-| [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2021-12-17 |  |
+| [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2021-12-17 | 2022-10-15 |
 | [Defiled](https://open.spotify.com/track/7lJREQdTv5g2PdTtWMUBSA) | [Hive](https://open.spotify.com/artist/5DA5dDq3y1s10tuBK4HVn6) | [Hive](https://open.spotify.com/album/4pIygQy4Bn15AtMgXh4a0y) | 3:49 | 2021-12-17 | 2022-01-01 |
 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 | 2021-12-17 |  |
 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 | 2022-05-27 |  |
@@ -257,6 +257,7 @@
 | [No Rest](https://open.spotify.com/track/31GDLqmnlvXCH3qUrCXiMt) | [Honest Crooks](https://open.spotify.com/artist/1FfmZ9XUvmJO0VRqqBbhvz) | [No Rest](https://open.spotify.com/album/6zX619hHYrnkHHn54gBJ9g) | 3:49 | 2021-12-31 | 2022-07-28 |
 | [No Time To Suffer](https://open.spotify.com/track/3a4afK7qfkQyhZbjxHHuXE) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [No Time To Suffer](https://open.spotify.com/album/0cIFoaXSemx7TYiqC6EI9n) | 3:55 | 2022-01-21 | 2022-07-28 |
 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 | 2021-12-17 |  |
+| [Nu World Order](https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [Nu World Order](https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6) | 2:55 | 2022-10-14 |  |
 | [Nu11](https://open.spotify.com/track/71znMFmbSmumzXb2EczBHb) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Penance](https://open.spotify.com/album/4b8sNQIh75Wl0Ivv6MO1KZ) | 3:55 | 2022-01-07 | 2022-07-13 |
 | [Oblivion](https://open.spotify.com/track/3p8F6Pmomawi6PV0QrQsCn) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa), [Mark Poida](https://open.spotify.com/artist/6Joj2xo7rEfJJyjRYABTyF) | [Oblivion](https://open.spotify.com/album/286eIneQaiB2VzdHCiPN9O) | 3:59 | 2021-12-17 | 2022-04-09 |
 | [Oblivion](https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Tim Lambesis](https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9) | [Oblivion](https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz) | 4:29 | 2021-12-17 |  |
@@ -329,7 +330,7 @@
 | [Subsistence](https://open.spotify.com/track/6ifbaBmTWX9cjzuq9qGELQ) | [Together in Tragedy](https://open.spotify.com/artist/4QbAK8ShoFElp2EABLWzSc) | [Memoriam](https://open.spotify.com/album/6eDQh4ZnNdjf1rqrt9L69l) | 3:42 | 2022-01-14 | 2022-05-26 |
 | [Substance Affliction](https://open.spotify.com/track/0AjfTu8ytKKRMkoBG66fWC) | [Advocates](https://open.spotify.com/artist/1LTYpqN3WnLHdE9wRuBGPE) | [The Complex Truth](https://open.spotify.com/album/4NLFfM7FoJ8K2U3VQvfacy) | 3:20 | 2022-01-07 | 2022-01-26 |
 | [Sun//Eater](https://open.spotify.com/track/1QeQ1bq6jitMzdgNu8nK1L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Sun//Eater](https://open.spotify.com/album/2lJtDqPcOAXkNLgh18YTFB) | 6:10 | 2022-05-13 | 2022-06-24 |
-| [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:36 | 2022-04-15 |  |
+| [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:36 | 2022-04-15 | 2022-10-15 |
 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 | 2022-06-17 |  |
 | [Synaptic Depravation](https://open.spotify.com/track/0qYSwywyNslSTuCUrBInwg) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Synaptic Depravation](https://open.spotify.com/album/6cbulNIl1MwMkCEcwaQu4R) | 6:09 | 2022-04-01 | 2022-07-24 |
 | [Synthetic Smile](https://open.spotify.com/track/6QrALflBXHCdDUPOgNViCe) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Synthetic Smile](https://open.spotify.com/album/1GTLz7qK0mKXXFLhKcNa2Y) | 3:02 | 2022-03-11 | 2022-07-27 |
@@ -377,6 +378,7 @@
 | [Two Steps](https://open.spotify.com/track/7xDqmcKDp4054gnvccfTnK) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Two Steps](https://open.spotify.com/album/7oGehKuFNAi8QjjbJokrc3) | 3:22 | 2021-12-17 | 2022-07-29 |
 | [Two Towers](https://open.spotify.com/track/6wohgfWGvvT0Q2WuzvLqQd) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Oh What the Future Holds](https://open.spotify.com/album/6Ye3ONH5U76f9MqPg3zxcl) | 5:46 | 2022-07-08 |  |
 | [Two Towers](https://open.spotify.com/track/7hfqSLe4P7w8Xhf5FWpWIX) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Two Towers](https://open.spotify.com/album/42FnKt94WapVmqUVK7gMtD) | 5:46 | 2022-01-07 | 2022-07-29 |
+| [Umbra Mortis](https://open.spotify.com/track/7zYKsvi8vRZqalpr4kXH99) | [She Must Burn](https://open.spotify.com/artist/2I564QfxXihOsyNErH69aF) | [Umbra Mortis](https://open.spotify.com/album/1ABmyygUD2atoRVgFhAS9C) | 4:24 | 2022-10-14 |  |
 | [Vagabond](https://open.spotify.com/track/4EFuZ53kf1sFPonGzm91Tn) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Vagabond](https://open.spotify.com/album/6S1zbRqOtLompF42QCyA0N) | 3:11 | 2021-12-17 | 2022-04-09 |
 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 | 2021-12-17 |  |
 | [Vile Genesis](https://open.spotify.com/track/3LuCXxrytnHzIldoHQXbgt) | [Inferi](https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A) | [Vile Genesis](https://open.spotify.com/album/4sBrQDIdbC4nUN5xxJPV9W) | 5:44 | 2021-12-17 | 2022-07-28 |

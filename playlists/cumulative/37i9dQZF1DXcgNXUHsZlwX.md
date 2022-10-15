@@ -2,9 +2,9 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. Photo: Daniel Bélanger
+> De la douceur pour accompagner votre journée\. Photo: Hanorah
 
-374 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+376 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Coup de soleil](https://open.spotify.com/track/0NyhAtRM4o8SAWEdIflxby) | [Nooom](https://open.spotify.com/artist/2onf6pDejZ19BQ5i8YxobO), [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Coup de soleil](https://open.spotify.com/album/19NyteEHJgka9SrhVnvbR4) | 4:00 | 2022-04-22 | 2022-04-26 |
 | [Coup de soleil](https://open.spotify.com/track/2xOefBxmeK7PXxCeHYCDhG) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Coup de soleil](https://open.spotify.com/album/5QNYXEOGwjQ5nZ27jn2NH1) | 3:48 | 2021-05-08 | 2021-09-08 |
 | [Courir](https://open.spotify.com/track/4qhwhVDsbTfBsYDd0pmnzy) | [Guillaume Arsenault](https://open.spotify.com/artist/1Xrx0Xnznngb6qjtaWKZ4M) | [Courir \- Single](https://open.spotify.com/album/5ebTUBNcmux7eMrcdk2NxL) | 3:33 | 2021-01-03\* | 2021-12-18 |
-| [Couvre\-feu](https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT) | 4:04 | 2021-01-03\* |  |
+| [Couvre\-feu](https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT) | 4:04 | 2021-01-03\* | 2022-10-15 |
 | [Crier tout bas](https://open.spotify.com/track/4tWyK8bdS4YUkpXZIW9uav) | [Gabriel Cyr](https://open.spotify.com/artist/2sqgY6vt8CHeaCIfLcw6J8) | [La Voix 2019](https://open.spotify.com/album/0R9SDt52a9zP9PQ1f1uN6z) | 3:46 | 2021-02-22 | 2021-05-28 |
 | [Dagues](https://open.spotify.com/track/6UzLLH6dYuOvpjnavhDQS0) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Dans le noir](https://open.spotify.com/album/6acP1CsAciv95uGVTNfNe7) | 3:51 | 2021-01-15 | 2022-06-22 |
 | [Dahlia](https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Dahlia](https://open.spotify.com/album/2JIQTUXCAVjUq0LvLbZFMr) | 4:17 | 2021-01-03\* | 2022-07-23 |
@@ -219,6 +219,7 @@
 | [Lubie](https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8) | 3:17 | 2021-01-03\* | 2022-07-29 |
 | [Lubie](https://open.spotify.com/track/62ZILfGIjQ9y7CUyfoR0z2) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/0PgBQ2nr9lGwY49QjAhMaa) | 3:17 | 2022-07-08 | 2022-08-02 |
 | [Ma belle Clodie](https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a) | [Lauma](https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK) | [Pixels](https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk) | 5:02 | 2021-01-03\* | 2022-02-12 |
+| [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 | 2022-10-14 |  |
 | [Ma déroute \(Radio Edit\)](https://open.spotify.com/track/7tzJ2UyWtJX2CFUvKYVLuE) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [Ma déroute \(Radio Edit\)](https://open.spotify.com/album/13fBLkvKWZ5bfMLdngqNdJ) | 2:55 | 2021-03-27 | 2021-05-08 |
 | [Ma maladie mentale](https://open.spotify.com/track/6KICOrKKfsT0MGAVpxNpg9) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 3:25 | 2021-09-19 | 2021-09-20 |
 | [Ma tronche](https://open.spotify.com/track/1rGI6HAegFJntpek5ssm2b) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Ma tronche](https://open.spotify.com/album/4mzr25KT55EDlQBKeGK6BH) | 3:11 | 2021-01-18 | 2021-05-08 |
@@ -302,7 +303,7 @@
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
-| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 |  |
+| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2022-10-15 |
 | [Qué vendrá](https://open.spotify.com/track/7vM9PYre666so0kS0IBEhJ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Qué vendrá](https://open.spotify.com/album/5IoQT1ITAc60MPlgMLSjQh) | 2:57 | 2021-02-23 | 2021-05-28 |
 | [Radio bingo](https://open.spotify.com/track/0sGeklmSEIOvf71AJqsPvK) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [J'ai Bu](https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK) | 4:24 | 2021-01-03\* | 2021-10-02 |
 | [Ramenez\-moi](https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Ramenez\-moi](https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5) | 3:13 | 2021-02-13 | 2022-02-12 |
@@ -335,6 +336,7 @@
 | [Terre noire](https://open.spotify.com/track/1xHEbSwUjoTbVvWnLvz3gj) | [Dany Nicolas](https://open.spotify.com/artist/4RqDCZuQ8Rr65wpnZn4dTR) | [Terre noire](https://open.spotify.com/album/6XoJAvreDI9mz7vGm751fz) | 3:54 | 2021-04-19 | 2021-05-06 |
 | [Tes yeux](https://open.spotify.com/track/2dlWYj35UwwhCFRgsemKMN) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Ok](https://open.spotify.com/album/51glN59N897tCM4oRftAMP) | 5:01 | 2021-10-13 | 2022-07-29 |
 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 | 2021-10-09 |  |
+| [The Drudge](https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [The Drudge](https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH) | 3:05 | 2022-10-14 |  |
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 |  |
 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 | 2021-10-09 |  |
 | [Toi pis moi pis c'est tout](https://open.spotify.com/track/5tOAwNMGpEPxFhgdcA40jb) | [Pat Groulx et les Bas Blancs](https://open.spotify.com/artist/7sj7sDK2ZfwTZ6vgPDcnpg) | [Toi pis moi pis c'est tout](https://open.spotify.com/album/2vDpAshyPeS95oGebMAI8g) | 3:28 | 2021-01-03\* | 2021-01-25 |

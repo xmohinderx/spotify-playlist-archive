@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists.",
-  "num_followers": 44389,
+  "num_followers": 44430,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMDY4NzQ5NGQ1NzZmMDEwZDljYzUwMjc1NzI1ZDc5OGFl",
+  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMGIxNDdlMzA2YmQxMDI3Y2FkYmQ3MmZhNDIyMGU3MzNi",
   "tracks": [
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "\u30e1\u30ea\u30af\u30ea",
-        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
+        "name": "You Are My Christmas",
+        "url": "https://open.spotify.com/album/1H2KIeUtIl00tQVemrGaHM"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "2BiC",
+          "url": "https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax"
         }
       ],
-      "duration_ms": 310833,
-      "name": "THE CHRISTMAS SONG",
-      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
+      "duration_ms": 230108,
+      "name": "You Are My Christmas",
+      "url": "https://open.spotify.com/track/4YcDY2jcAbfW647AJEcskA"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Like Christmas",
-        "url": "https://open.spotify.com/album/1nKUE9kMGJ0MtssOmUzutw"
+        "name": "\u30e1\u30ea\u30af\u30ea",
+        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
       },
       "artists": [
         {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Like Christmas",
-      "url": "https://open.spotify.com/track/3PeIvDEnn0o7EH4uBc4JY8"
+      "duration_ms": 310833,
+      "name": "THE CHRISTMAS SONG",
+      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "Like Christmas",
+        "url": "https://open.spotify.com/album/1nKUE9kMGJ0MtssOmUzutw"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Like Christmas",
+      "url": "https://open.spotify.com/track/3PeIvDEnn0o7EH4uBc4JY8"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 205782,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1467,6 +1483,38 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "Christmas Again",
+        "url": "https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu"
+      },
+      "artists": [
+        {
+          "name": "1set",
+          "url": "https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Christmas Again",
+      "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Our Christmas",
+        "url": "https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih"
+      },
+      "artists": [
+        {
+          "name": "Kylie",
+          "url": "https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2"
+        }
+      ],
+      "duration_ms": 216565,
+      "name": "Our Christmas",
+      "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "Be Your Christmas",
         "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
       },
@@ -1499,54 +1547,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Christmas Again",
-        "url": "https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu"
-      },
-      "artists": [
-        {
-          "name": "1set",
-          "url": "https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Christmas Again",
-      "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "You Are My Christmas",
-        "url": "https://open.spotify.com/album/1H2KIeUtIl00tQVemrGaHM"
-      },
-      "artists": [
-        {
-          "name": "2BiC",
-          "url": "https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax"
-        }
-      ],
-      "duration_ms": 230108,
-      "name": "You Are My Christmas",
-      "url": "https://open.spotify.com/track/4YcDY2jcAbfW647AJEcskA"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Our Christmas",
-        "url": "https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih"
-      },
-      "artists": [
-        {
-          "name": "Kylie",
-          "url": "https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2"
-        }
-      ],
-      "duration_ms": 216565,
-      "name": "Our Christmas",
-      "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 237062,
       "name": "Merry solo Christmas",
       "url": "https://open.spotify.com/track/0TlhUx5h1eNsBng4dmIl44"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Your Christmas",
+        "url": "https://open.spotify.com/album/2WMyiJMS8Jyi4XTnrOuQz9"
+      },
+      "artists": [
+        {
+          "name": "Benaddict",
+          "url": "https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz"
+        }
+      ],
+      "duration_ms": 237322,
+      "name": "Your Christmas",
+      "url": "https://open.spotify.com/track/1iVa2ZhhxEnP2KyVv9vLtA"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Your Christmas",
-        "url": "https://open.spotify.com/album/2WMyiJMS8Jyi4XTnrOuQz9"
-      },
-      "artists": [
-        {
-          "name": "Benaddict",
-          "url": "https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz"
-        }
-      ],
-      "duration_ms": 237322,
-      "name": "Your Christmas",
-      "url": "https://open.spotify.com/track/1iVa2ZhhxEnP2KyVv9vLtA"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "The Christmas Book Page 2",
         "url": "https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3"
       },
@@ -1623,38 +1623,6 @@
       "duration_ms": 239777,
       "name": "Winter Land",
       "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "The Barberettes Carol : Hun Hun Christmas",
-        "url": "https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB"
-      },
-      "artists": [
-        {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Wish me a merry Christmas",
-        "url": "https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q"
-      },
-      "artists": [
-        {
-          "name": "Ra.D",
-          "url": "https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S"
-        }
-      ],
-      "duration_ms": 243229,
-      "name": "Wish me a merry Christmas (I need somebody part.2)",
-      "url": "https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1695,6 +1663,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "Wish me a merry Christmas",
+        "url": "https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q"
+      },
+      "artists": [
+        {
+          "name": "Ra.D",
+          "url": "https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S"
+        }
+      ],
+      "duration_ms": 243229,
+      "name": "Wish me a merry Christmas (I need somebody part.2)",
+      "url": "https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "KIM TAE WOO with Friends",
         "url": "https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef"
       },
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Semester",
-        "url": "https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy"
+        "name": "The Barberettes Carol : Hun Hun Christmas",
+        "url": "https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB"
       },
       "artists": [
         {
-          "name": "Linus' Blanket",
-          "url": "https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy"
+          "name": "The Barberettes",
+          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Christmas Train",
-      "url": "https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB"
+      "duration_ms": 277040,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1759,22 +1743,38 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi"
+        "name": "Semester",
+        "url": "https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy"
       },
       "artists": [
         {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
-        },
-        {
-          "name": "GB9",
-          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+          "name": "Linus' Blanket",
+          "url": "https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy"
         }
       ],
-      "duration_ms": 212352,
-      "name": "White Blanket (feat. Gilgu Bongu)",
-      "url": "https://open.spotify.com/track/7GXU0kLoZmYq1fFoDfxGtm"
+      "duration_ms": 219800,
+      "name": "Christmas Train",
+      "url": "https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Merry Christmas JAM!",
+        "url": "https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi"
+      },
+      "artists": [
+        {
+          "name": "SWEET SORROW",
+          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
+        },
+        {
+          "name": "Choi Joon",
+          "url": "https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Merry Christmas JAM!",
+      "url": "https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1803,50 +1803,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/2jEm0ykpfPcONFbJ1LEgOj"
-      },
-      "artists": [
-        {
-          "name": "2LSON",
-          "url": "https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY"
-        },
-        {
-          "name": "Sun Ahn",
-          "url": "https://open.spotify.com/artist/6gXQ2KemBfEPPiIksjd5Gm"
-        },
-        {
-          "name": "LILAC",
-          "url": "https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj"
-        }
-      ],
-      "duration_ms": 265296,
-      "name": "Merry Christmas (Feat. Sun Ahn, Kate Kim)",
-      "url": "https://open.spotify.com/track/2lvtjJ7cAEL9yLrFto2Aal"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Merry Christmas JAM!",
-        "url": "https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi"
-      },
-      "artists": [
-        {
-          "name": "SWEET SORROW",
-          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
-        },
-        {
-          "name": "Choi Joon",
-          "url": "https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Merry Christmas JAM!",
-      "url": "https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "Christmas For You",
         "url": "https://open.spotify.com/album/4lvKvWJ3cjA8mpluskguGb"
       },
@@ -1871,6 +1827,50 @@
       "duration_ms": 268133,
       "name": "Christmas For You (feat. Bennyway, SaeYeon, SeongJin)",
       "url": "https://open.spotify.com/track/2Cu1PfHyxkoc7RDkNRLVSu"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "KIM TAE WOO with Friends",
+        "url": "https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef"
+      },
+      "artists": [
+        {
+          "name": "Kim Tae Woo",
+          "url": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
+        },
+        {
+          "name": "Na Yul",
+          "url": "https://open.spotify.com/artist/7uZVlC67kBdmkptwKGPcLl"
+        }
+      ],
+      "duration_ms": 193701,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/4QfmlkwbaWuZrsN8FZ0If3"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/2jEm0ykpfPcONFbJ1LEgOj"
+      },
+      "artists": [
+        {
+          "name": "2LSON",
+          "url": "https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY"
+        },
+        {
+          "name": "Sun Ahn",
+          "url": "https://open.spotify.com/artist/6gXQ2KemBfEPPiIksjd5Gm"
+        },
+        {
+          "name": "LILAC",
+          "url": "https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj"
+        }
+      ],
+      "duration_ms": 265296,
+      "name": "Merry Christmas (Feat. Sun Ahn, Kate Kim)",
+      "url": "https://open.spotify.com/track/2lvtjJ7cAEL9yLrFto2Aal"
     }
   ],
   "unique_name": "Christmas K-Pop",

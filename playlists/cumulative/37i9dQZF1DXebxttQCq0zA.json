@@ -1226,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "Drommenes Verden",
+        "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
+      },
+      "artists": [
+        {
+          "name": "Casper Bjerke",
+          "url": "https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Drommenes Verden",
+      "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
+    },
+    {
+      "album": {
         "name": "D\u00e8s vu",
         "url": "https://open.spotify.com/album/3bdqf1w2uj49fxFv3ZqopB"
       },

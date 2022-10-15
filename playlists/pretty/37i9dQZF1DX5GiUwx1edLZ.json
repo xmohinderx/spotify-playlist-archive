@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 272530,
+  "num_followers": 272526,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMDQ1Yzk0MDE2ZGMyYTNiOTNkZGFmNTgwNjY0MjA5ZGEw",
+  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMDZlMTRhZTQyNzQ1NDU4NTAzYzU1MzYzOTBmYTNkODk3",
   "tracks": [
     {
       "added_at": "2022-09-30 14:01:12",
@@ -295,26 +295,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Lullaby (Acoustic)",
         "url": "https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 237923,
       "name": "Lullaby - Acoustic",
       "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "More Than You Know (Acoustic)",
-        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "More Than You Know - Acoustic",
-      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "You for Me (Acoustic)",
         "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 185381,
       "name": "You for Me - Acoustic",
       "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Lonely Together (Acoustic)",
         "url": "https://open.spotify.com/album/3IPBaA3vOQN7aGCQoZU40K"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 182078,
       "name": "Lonely Together - Acoustic",
       "url": "https://open.spotify.com/track/3fgjE7IXIkrPag6YKcKeHa"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 282744,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Believe In The Kingdom",
         "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 201600,
       "name": "Praise You (feat. Meaco) - Chill Mix",
       "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 282744,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1219,6 +1219,30 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Feel Good (feat. Daya) [Acoustic]",
+        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 239772,
+      "name": "Feel Good (feat. Daya) - Acoustic",
+      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "How You Love Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
       },
@@ -1255,30 +1279,6 @@
       "duration_ms": 260839,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Feel Good (feat. Daya) [Acoustic]",
-        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 239772,
-      "name": "Feel Good (feat. Daya) - Acoustic",
-      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "They Don't Know Us (Piano Version)",
-        "url": "https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0"
-      },
-      "artists": [
-        {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
-        }
-      ],
-      "duration_ms": 201762,
-      "name": "They Don't Know Us - Piano Version",
-      "url": "https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Shed a Light (The Remixes Part 2)",
         "url": "https://open.spotify.com/album/65h91TpH6k56OdninmMeov"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 199120,
       "name": "Shed a Light - Acoustic Version",
       "url": "https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "They Don't Know Us (Piano Version)",
+        "url": "https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        }
+      ],
+      "duration_ms": 201762,
+      "name": "They Don't Know Us - Piano Version",
+      "url": "https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Synchronize (VIP / Acoustic)",
-        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
-      },
-      "artists": [
-        {
-          "name": "Hellberg",
-          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
-        },
-        {
-          "name": "Aaron Richards",
-          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
-        }
-      ],
-      "duration_ms": 228095,
-      "name": "Synchronize - Acoustic",
-      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Spectrum EP",
         "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
       },
@@ -1707,6 +1687,26 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Synchronize (VIP / Acoustic)",
+        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+      },
+      "artists": [
+        {
+          "name": "Hellberg",
+          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+        },
+        {
+          "name": "Aaron Richards",
+          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+        }
+      ],
+      "duration_ms": 228095,
+      "name": "Synchronize - Acoustic",
+      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "No Time For Tears (Acoustic)",
         "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
@@ -1723,26 +1723,6 @@
       "duration_ms": 205305,
       "name": "No Time For Tears - Acoustic",
       "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "End Of The World (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "End Of The World - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1803,6 +1783,26 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "End Of The World (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "End Of The World - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Don't Think Twice, It's All Right",
-        "url": "https://open.spotify.com/album/45mad8tBukWnEQ3NWikMO3"
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
       "artists": [
         {
-          "name": "Patrick Baker",
-          "url": "https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT"
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
         }
       ],
-      "duration_ms": 209774,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2m3ouxt4GwarBCRCmwDJdO"
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1955,6 +1939,22 @@
       "duration_ms": 167619,
       "name": "Here Tonight - Acoustic Version",
       "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Don't Think Twice, It's All Right",
+        "url": "https://open.spotify.com/album/45mad8tBukWnEQ3NWikMO3"
+      },
+      "artists": [
+        {
+          "name": "Patrick Baker",
+          "url": "https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2m3ouxt4GwarBCRCmwDJdO"
     }
   ],
   "unique_name": "mint Acoustic",

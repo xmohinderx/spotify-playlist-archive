@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,839 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,865 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 41 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 |
 | 42 | [No Time \(feat\. Nia Archives, Beenie Man, Cristale & ShaSimone\)](https://open.spotify.com/track/1ONDma4NENd2D7ig3HvJ1Z) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [No Time \(feat\. Nia Archives, Beenie Man, Cristale & ShaSimone\)](https://open.spotify.com/album/6RWLMGjUpEKOndzpfWVbVL) | 2:48 |
 | 43 | [VINEGAR HILL](https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [BADBOI](https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu) | 3:03 |
-| 44 | [Rush](https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx) | 3:36 |
+| 44 | [Rush](https://open.spotify.com/track/6cn2qPW4Xb7n6CVOMldvDw) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/6dr7L7mHSIjWAbgHYztMzd) | 3:36 |
 | 45 | [Drop Your Pants](https://open.spotify.com/track/6r65O1RCtXFSBd29TGOcBF) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 4:16 |
 | 46 | [Cafe Racer](https://open.spotify.com/track/472kQwl5Q4dn19oHkUvGhb) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Cafe Racer](https://open.spotify.com/album/71pOhDRYyDDP0XQXduI6ce) | 2:39 |
 | 47 | [Hidden Land \(feat\. Raj Mahal\)](https://open.spotify.com/track/2t7xROriuoYRMFV4eEpfhR) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Raj Mahal](https://open.spotify.com/artist/7x10xDm8HzItrVOMaE6DGT) | [Petroleum / Hidden Land](https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 | 70 | [Speedy Gs](https://open.spotify.com/track/5FHLW4748Qp01kvyPjbODM) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5) | [Speedy Gs](https://open.spotify.com/album/34mNJp5MMW4GiyY82f2iEo) | 3:46 |
 
-Snapshot ID: `MTY2MjYxNjU1MiwwMDAwMDAwMDlhZWUzMGRmZDVkMmJkZjY4Y2YzMjY0OWZmYmFkNzY5`
+Snapshot ID: `MTY2MjYxNjU1MiwwMDAwMDAwMGMwZjQwNzhmYzk4N2FiNWE2MDRiYzdlMWU5NDQ1ZjE0`

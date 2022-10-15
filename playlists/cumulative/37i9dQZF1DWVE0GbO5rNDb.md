@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole!
 
-217 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
+218 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Come with Me \- Blaikz VIP Mix](https://open.spotify.com/track/0zEZAsva0HGUkxjTbfdCuY) | [Brockman](https://open.spotify.com/artist/4p3A88PoDDvw33MUUS0dWu), [Basti M](https://open.spotify.com/artist/11qAAJhhilyPUCysMmCVRA), [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde) | [Come with Me \(Blaikz VIP Mix\)](https://open.spotify.com/album/2Np95YW2Jc4TWVsJKDyUpT) | 3:16 | 2022-07-22 | 2022-07-26 |
 | [Coming Home](https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Coming Home](https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F) | 3:11 | 2022-05-06 | 2022-07-29 |
 | [Conversations with Myself](https://open.spotify.com/track/6qPrflyKbyU6LTe6p75Dnc) | [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd), [R I V I E R A](https://open.spotify.com/artist/5I90qYDTQGW8PouvhwSvCm) | [Conversations with Myself](https://open.spotify.com/album/1vuWHMUps3Vv82nHXaK7pP) | 3:13 | 2022-05-17 | 2022-06-30 |
-| [Cry Dancing](https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Cry Dancing](https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl) | 2:59 | 2022-05-17 |  |
+| [Cry Dancing](https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Cry Dancing](https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl) | 2:59 | 2022-05-17 | 2022-10-15 |
 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 | 2022-05-06 |  |
 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 | 2022-07-22 |  |
 | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM) | 2:44 | 2022-05-06 | 2022-07-29 |
@@ -217,6 +217,7 @@
 | [With You](https://open.spotify.com/track/3xbMNOS8K9CNbI4G7idaMx) | [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [With You](https://open.spotify.com/album/6Nz55aKMohw3EYlIbzhgB5) | 3:08 | 2022-06-17 |  |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-05-06 |  |
 | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5) | 2:54 | 2022-07-15 |  |
+| [Worst Thing](https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:38 | 2022-10-07 |  |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-17 | 2022-09-13 |
 | [You](https://open.spotify.com/track/4vrnHICJfoguGfzLkQeyy5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [You](https://open.spotify.com/album/4RE02XZPC2HudccO2yKKeP) | 3:48 | 2022-06-03 | 2022-06-08 |
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-07-22 |  |

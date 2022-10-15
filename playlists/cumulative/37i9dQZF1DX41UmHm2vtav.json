@@ -3472,6 +3472,24 @@
     },
     {
       "album": {
+        "name": "Vem pro Mar",
+        "url": "https://open.spotify.com/album/6KM6hXviSBq4erdXgVPAvX"
+      },
+      "artists": [
+        {
+          "name": "Nu Azeite",
+          "url": "https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305847,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/1MFanLEhxtE5NULojdFkB3"
+    },
+    {
+      "album": {
         "name": "\u00c1gua de Coco",
         "url": "https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH"
       },
@@ -3483,7 +3501,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 305847,
       "name": "\u00c1gua de Coco",
       "url": "https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc"

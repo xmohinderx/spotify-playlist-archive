@@ -1378,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "BANGON",
+        "url": "https://open.spotify.com/album/7A3odyLiefo13WCMwnv8nm"
+      },
+      "artists": [
+        {
+          "name": "$leepyHead",
+          "url": "https://open.spotify.com/artist/1yTuGfjk4ijlf6W7NjpOlm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136225,
+      "name": "BANGON",
+      "url": "https://open.spotify.com/track/74LYPFrmfXkZuB90qfMAAM"
+    },
+    {
+      "album": {
         "name": "BASSLINES",
         "url": "https://open.spotify.com/album/3IBwBoYu09Z7UMAysw0OSk"
       },

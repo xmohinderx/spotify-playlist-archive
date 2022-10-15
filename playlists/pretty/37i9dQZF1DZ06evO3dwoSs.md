@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,227 likes - 47 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,412 likes - 47 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 46 | [100 Ways to Hate](https://open.spotify.com/track/3MqBeOg7m00il51nSHaH7U) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:20 |
 | 47 | [War Is the Answer](https://open.spotify.com/track/53GK1KimbnONpkyckcWkiD) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:18 |
 
-Snapshot ID: `Mjc3NjExMjQsMDAwMDAwMDA3NzYwNWRjOTE1ZmFkYTRmNjA5MjlmMTg0ZGQxMThmOQ==`
+Snapshot ID: `Mjc3NjI1NzYsMDAwMDAwMDA0NDEwN2QxMGFmYzM0YWFmNzY0MDRjNTQ2ZWE0MWFmNw==`

@@ -25943,6 +25943,24 @@
     {
       "album": {
         "name": "Lovely Weather",
+        "url": "https://open.spotify.com/album/1wp6QFL3N7sgi1GBX7Rn6U"
+      },
+      "artists": [
+        {
+          "name": "Lowheart",
+          "url": "https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187760,
+      "name": "Lovely Weather",
+      "url": "https://open.spotify.com/track/0PSTO4wm4OdLVtnSH7ciym"
+    },
+    {
+      "album": {
+        "name": "Lovely Weather",
         "url": "https://open.spotify.com/album/4H486vjhzhdNFu7cRWw7Ay"
       },
       "artists": [
@@ -25953,7 +25971,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 187760,
       "name": "Lovely Weather",
       "url": "https://open.spotify.com/track/0bSsno2oGtfZZHSnuLZsGl"
@@ -41375,10 +41393,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 175146,
       "name": "The End of the World",
       "url": "https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm"
+    },
+    {
+      "album": {
+        "name": "The End of the World!",
+        "url": "https://open.spotify.com/album/1xIxBF7LvxRAVehVr6oXKR"
+      },
+      "artists": [
+        {
+          "name": "Natasha Hunt Lee",
+          "url": "https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/20UbaFXoGiRFSU1IpFOSAb"
     },
     {
       "album": {

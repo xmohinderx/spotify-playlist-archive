@@ -744,7 +744,7 @@
     },
     {
       "album": {
-        "name": "Endless Love / \u4ef2\u826f\u30d4\u30fc\u30b9",
+        "name": "Endless Love / Nakayopiece",
         "url": "https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH"
       },
       "artists": [
@@ -773,10 +773,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 308626,
       "name": "Esquisse",
       "url": "https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9"
+    },
+    {
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308786,
+      "name": "Esquisse",
+      "url": "https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3"
     },
     {
       "album": {

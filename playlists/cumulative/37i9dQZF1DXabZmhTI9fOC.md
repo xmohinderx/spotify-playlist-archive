@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-292 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
+294 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Hit The Road Jack](https://open.spotify.com/track/13WrQpPeut2MTy6jbRwc2Y) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Hit The Road Jack](https://open.spotify.com/album/43QLie5HQcXQ90k46XHiqR) | 3:31 | 2022-07-23 | 2022-10-13 |
 | [Hit The Road Jack](https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/0U4YQE1rVs1bFFdRTv5s6u), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Hit The Road Jack](https://open.spotify.com/album/2JiWOGcnPYwlkQSdUn2ZGx) | 3:31 | 2022-07-23 |  |
 | [Hole Right Where My Heart Is](https://open.spotify.com/track/3HYZs5IHvtfeGx1EfNtflG) | [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Hole Right Where My Heart Is](https://open.spotify.com/album/2XMltzQDjVCRgHa44NFnrz) | 2:38 | 2022-08-01 |  |
-| [Honeymoon Phase](https://open.spotify.com/track/1MfySlDz4KVR2re96y4WF7) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Honeymoon Phase](https://open.spotify.com/album/1ni7569njFsd9Txac3J0zB) | 4:06 | 2022-08-26 |  |
+| [Honeymoon Phase](https://open.spotify.com/track/1MfySlDz4KVR2re96y4WF7) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Honeymoon Phase](https://open.spotify.com/album/1ni7569njFsd9Txac3J0zB) | 4:06 | 2022-08-26 | 2022-10-15 |
+| [Honeymoon Phase](https://open.spotify.com/track/2oMMNaeDXtpiQ9KNgIg0Mp) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Honeymoon Phase](https://open.spotify.com/album/3juRcm088xxR1J8zwEzTQp) | 4:06 | 2022-08-26 |  |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-08-12 |  |
 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2022-08-19 |  |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-08-12 |  |
@@ -142,7 +143,8 @@
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/0dHF8t7OIhgPele5WRUfWG) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:31 | 2022-08-08 |  |
 | [I'm Not Perfect](https://open.spotify.com/track/7eNo9ESORi0F5hR0GXGhJJ) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 4:51 | 2022-08-19 |  |
 | [I'm So Sexy](https://open.spotify.com/track/31K7pGlDd11TQsZhqI8Zlc) | [Kaya Ka$h](https://open.spotify.com/artist/6QuZkHjInozjNbXM2UwQSw) | [Push It](https://open.spotify.com/album/4XzL2CHy05G5jNXQjLqTA3) | 2:54 | 2022-08-01 |  |
-| [If Love Is a Gun](https://open.spotify.com/track/36bkD8bm12O4AabO9kYJRP) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [If Love Is a Gun](https://open.spotify.com/album/1OBhRRfnkYOcPAgSUDrQDn) | 3:41 | 2022-08-26 |  |
+| [If Love Is a Gun](https://open.spotify.com/track/03xV3ebbI1fZMq0sLL2sbi) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [If Love Is a Gun](https://open.spotify.com/album/2OYInbdA0LPyLlAubjhJE4) | 3:41 | 2022-08-26 |  |
+| [If Love Is a Gun](https://open.spotify.com/track/36bkD8bm12O4AabO9kYJRP) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [If Love Is a Gun](https://open.spotify.com/album/1OBhRRfnkYOcPAgSUDrQDn) | 3:41 | 2022-08-26 | 2022-10-15 |
 | [In the Morning](https://open.spotify.com/track/5u2PCVTLGTsAPswB5D7B63) | [Able Heart](https://open.spotify.com/artist/1Qr7z3g1f7L93ZWdCKGSjV) | [In the Morning](https://open.spotify.com/album/1DJuHHnjcXPXO8nhOiRVIb) | 2:46 | 2022-08-19 |  |
 | [In The Stars](https://open.spotify.com/track/5bFg6rdrEWuuc1D760jbcg) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 3:36 | 2022-08-01 |  |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-07-25 |  |

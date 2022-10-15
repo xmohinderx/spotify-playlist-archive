@@ -234,6 +234,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392240,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR"
+    },
+    {
+      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
@@ -1281,7 +1303,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 308500,
       "name": "Departures",
       "url": "https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s"
@@ -1399,6 +1421,24 @@
       "duration_ms": 267254,
       "name": "Disko Axiom",
       "url": "https://open.spotify.com/track/34y5Y8P2RLdWOeu976BvTP"
+    },
+    {
+      "album": {
+        "name": "Don't Push EP",
+        "url": "https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA"
+      },
+      "artists": [
+        {
+          "name": "Coll\u00e9",
+          "url": "https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412605,
+      "name": "Don't Push",
+      "url": "https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3"
     },
     {
       "album": {
@@ -1629,6 +1669,42 @@
       "duration_ms": 461323,
       "name": "Enough Love To Hate It",
       "url": "https://open.spotify.com/track/5acS3Wo0XQYn8AaDwysMfk"
+    },
+    {
+      "album": {
+        "name": "Entropia / Oz",
+        "url": "https://open.spotify.com/album/12EPii6rzVBf0VSm0ycrcP"
+      },
+      "artists": [
+        {
+          "name": "Cream (PL)",
+          "url": "https://open.spotify.com/artist/42lamKjAQaDXMmc96XnVXF"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485589,
+      "name": "Entropia",
+      "url": "https://open.spotify.com/track/3Pr1mDjQtdlmL3PNhAwI6x"
+    },
+    {
+      "album": {
+        "name": "Epic Resurrection",
+        "url": "https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401361,
+      "name": "Epic Resurrection",
+      "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
     },
     {
       "album": {
@@ -2451,7 +2527,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 556908,
       "name": "I Feel Love - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM"
@@ -2517,7 +2593,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 308825,
       "name": "In Mindibu",
       "url": "https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T"
@@ -2731,7 +2807,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
@@ -3181,6 +3257,24 @@
       "duration_ms": 457404,
       "name": "Luma - Tim Engelhardt Remix",
       "url": "https://open.spotify.com/track/5FxwIddNBkGhTTCGpkwJMr"
+    },
+    {
+      "album": {
+        "name": "Lune",
+        "url": "https://open.spotify.com/album/0XFcO1WYiomvBUxvEF0eN6"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567031,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/1oKsE0srIjDkWCtwPTB6TJ"
     },
     {
       "album": {
@@ -4729,7 +4823,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 232008,
       "name": "Run To You - John Digweed & Nick Muir Heads Down Mix",
       "url": "https://open.spotify.com/track/22iZ5ScvuYxW8YzKycxNc8"
@@ -5724,6 +5818,24 @@
     },
     {
       "album": {
+        "name": "Trife",
+        "url": "https://open.spotify.com/album/6U4olz1BCDozivoX3RGyZf"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Trife",
+      "url": "https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v"
+    },
+    {
+      "album": {
         "name": "Sarcophyton / Trilobit",
         "url": "https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E"
       },
@@ -6259,7 +6371,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 333913,
       "name": "Your Inner Workings",
       "url": "https://open.spotify.com/track/3nEHRDu0SiBcMYg5WuHsN0"

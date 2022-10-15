@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-134 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+135 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Syukur \(feat\. Yusuf Islam\)](https://open.spotify.com/track/60i1Mt5fuwxGFFvRR4zr4p) | [Raihan](https://open.spotify.com/artist/0wWm1rOeaLQ4jkLpn8tmTt), [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Lagenda Hit](https://open.spotify.com/album/1X0p2XZgfQHURXrpDlHTKd) | 5:30 | 2021-10-21 |  |
 | [Tajdar\-E\-Haram](https://open.spotify.com/track/5R6920vG1ZLfJRHdtjYLso) | [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [Greatest Hits Of Sabri Brothers Vol \-1](https://open.spotify.com/album/7aSicRbA49R2zYwtsfCopg) | 13:02 | 2022-04-18 | 2022-10-07 |
 | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 | 2022-03-31 | 2022-04-18 |
-| [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/2RxSdiXHpxhapIp3ZNXqiF) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/09nvjpbZCcck9ZfxGrtWXR) | 5:23 | 2021-10-21 |  |
+| [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/2RxSdiXHpxhapIp3ZNXqiF) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/09nvjpbZCcck9ZfxGrtWXR) | 5:23 | 2021-10-21 | 2022-10-15 |
+| [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/56mquX7ESE8e0TPVpnyd2V) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/0l8CT0Zhi8ZqFYqhgPLXuB) | 5:23 | 2022-10-06 |  |
 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 | 2021-10-21 |  |
 | [Tarhatazed](https://open.spotify.com/track/0vJFdc2FpnPh8yA0kGfktN) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/1bbKMkgzgyZ0K3rmMezZ68) | 7:27 | 2021-10-21 | 2022-04-01 |
 | [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 | 2022-10-06 |  |

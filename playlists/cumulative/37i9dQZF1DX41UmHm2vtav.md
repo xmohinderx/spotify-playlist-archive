@@ -4,7 +4,7 @@
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-145 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0mYePZvO0R1lksRZVy4eTm)
+146 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/0mYePZvO0R1lksRZVy4eTm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 | 2022-06-29 |  |
 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 | 2022-06-29 |  |
 | [Zé do caroço](https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [Zé do caroço](https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q) | 3:12 | 2022-06-29 |  |
-| [Água de Coco](https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Água de Coco](https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH) | 5:05 | 2022-06-29 |  |
+| [Água de Coco](https://open.spotify.com/track/1MFanLEhxtE5NULojdFkB3) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Vem pro Mar](https://open.spotify.com/album/6KM6hXviSBq4erdXgVPAvX) | 5:05 | 2022-10-07 |  |
+| [Água de Coco](https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Água de Coco](https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH) | 5:05 | 2022-06-29 | 2022-10-15 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

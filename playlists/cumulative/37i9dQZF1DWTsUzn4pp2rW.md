@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-217 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+218 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Just a Little Bit](https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB) | [Waltzing on Waves](https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW) | [Just a Little Bit](https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou) | 3:26 | 2021-11-19 |  |
 | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx) | [Quiana Lynell](https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48) | [A Little Love](https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt) | 3:20 | 2022-07-14 |  |
 | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/track/4VEApzvhECrSVK3v4tRDnX) | [Quiana Lynell](https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48) | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/album/5Itcp6z0DJ1F2DXQFk85gI) | 3:20 | 2021-11-19 | 2022-07-29 |
+| [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 | 2022-10-13 |  |
 | [Just Like Chet](https://open.spotify.com/track/3JCFkb1gVqjIT0hLFyX0Dc) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:36 | 2022-08-25 | 2022-09-01 |
 | [Just Like Chet](https://open.spotify.com/track/7MUT6pSYjzAUJYSg3Hva02) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:36 | 2022-08-30 | 2022-10-13 |
 | [Kettle](https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Kettle](https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG) | 4:24 | 2022-07-14 |  |
@@ -173,7 +174,7 @@
 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 | 2021-11-19 |  |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2021-11-19 |  |
 | [She Used To Be Mine](https://open.spotify.com/track/3QjBj0FOOlDmIt9s3YZAwX) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [She Used To Be Mine](https://open.spotify.com/album/0ck5yBjvct1p5w6FRXQo2Y) | 4:24 | 2021-11-19 | 2022-07-29 |
-| [She Used To Be Mine](https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH) | 4:24 | 2022-07-14 |  |
+| [She Used To Be Mine](https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH) | 4:24 | 2022-07-14 | 2022-10-15 |
 | [She's Awesome](https://open.spotify.com/track/52rIpC68rq8AgpAootOn7B) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [She's Awesome](https://open.spotify.com/album/6aPCC4FFb2kryUdUgAtjLN) | 4:40 | 2021-11-19 | 2022-10-08 |
 | [Sleeping Satellite](https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Francoise Sanders](https://open.spotify.com/artist/1gziOczQaDTj4pXbljZPX2) | [Sleeping Satellite](https://open.spotify.com/album/57aN9GJYwKxpSe0bJDTT2G) | 2:39 | 2021-11-19 |  |
 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 | 2021-11-19 | 2022-10-08 |

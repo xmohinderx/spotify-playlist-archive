@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 205760,
       "name": "A Moment Of Mystery (feat. Toro y Moi)",
       "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 201494,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/5HLBgsugOZIaTAgT3rlxl4"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 311409,
       "name": "Creation - Abasi and Atai",
       "url": "https://open.spotify.com/track/3QdkTCAblUw2lXNADIkTD9"
@@ -3459,7 +3459,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 265120,
       "name": "Lady Luck, Pt. II: Listen",
       "url": "https://open.spotify.com/track/36C82NpdErYgJB4AS9F2Z1"
@@ -3612,6 +3612,24 @@
     },
     {
       "album": {
+        "name": "Lila's Theme",
+        "url": "https://open.spotify.com/album/1BnNxLd5vbkaxvEU8x5a3N"
+      },
+      "artists": [
+        {
+          "name": "Lila Drew",
+          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208178,
+      "name": "Lila's Theme",
+      "url": "https://open.spotify.com/track/3YQRELjxAeVd4SPxVo7AoN"
+    },
+    {
+      "album": {
         "name": "Swagism",
         "url": "https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu"
       },
@@ -3679,7 +3697,7 @@
     {
       "album": {
         "name": "Any Otherville",
-        "url": "https://open.spotify.com/album/2pX3p5DMtffPVvoj8WI3hD"
+        "url": "https://open.spotify.com/album/7MdPZgfEzckjFLDMdfvj1v"
       },
       "artists": [
         {
@@ -3690,6 +3708,24 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178387,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/26IwxWynDBbYeH1LQBbBuf"
+    },
+    {
+      "album": {
+        "name": "Any Otherville",
+        "url": "https://open.spotify.com/album/2pX3p5DMtffPVvoj8WI3hD"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 178387,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/2m2waNWjpMs86VezrND2CJ"
@@ -4819,7 +4855,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 222000,
       "name": "Receipt",
       "url": "https://open.spotify.com/track/5SN8d9C032oQFD5OPLQSuT"
@@ -5248,6 +5284,32 @@
     },
     {
       "album": {
+        "name": "Set It Free",
+        "url": "https://open.spotify.com/album/5Qi5s5V3CpIxDEoXI6SuBb"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Aima The Dreamer",
+          "url": "https://open.spotify.com/artist/1ORLJq5AanngmpKPFBbMpG"
+        },
+        {
+          "name": "Dakini Star",
+          "url": "https://open.spotify.com/artist/0VMuXwSyQxE29S8J7GM3lN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298149,
+      "name": "Set It Free",
+      "url": "https://open.spotify.com/track/2s9IaOOEUsGCb7KmNspnht"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
       },
@@ -5337,6 +5399,28 @@
       "duration_ms": 243673,
       "name": "Show Me Your Soul",
       "url": "https://open.spotify.com/track/2QAIHt55p0lrGAIF3Ed15B"
+    },
+    {
+      "album": {
+        "name": "sleeping at the party",
+        "url": "https://open.spotify.com/album/1LfsBRYd27TebvLfvRfwJT"
+      },
+      "artists": [
+        {
+          "name": "Mathien",
+          "url": "https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D"
+        },
+        {
+          "name": "Eliy Orcko",
+          "url": "https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155858,
+      "name": "sleeping at the party",
+      "url": "https://open.spotify.com/track/30G23Xya0gUldzvByLdvmv"
     },
     {
       "album": {
@@ -5825,7 +5909,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 338253,
       "name": "Sweet Isolation",
       "url": "https://open.spotify.com/track/5ccKgqQaJa2ccgx74610OZ"
@@ -6266,6 +6350,46 @@
     },
     {
       "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD"
+      },
+      "artists": [
+        {
+          "name": "Kabwasa",
+          "url": "https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm"
+    },
+    {
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "album": {
         "name": "Kensho !",
         "url": "https://open.spotify.com/album/2mXtxxxa66pPJ833JWy1o5"
       },
@@ -6456,6 +6580,28 @@
     },
     {
       "album": {
+        "name": "B.B.3",
+        "url": "https://open.spotify.com/album/4dupqsqU305eTwu1pdFIPL"
+      },
+      "artists": [
+        {
+          "name": "Jared Evan",
+          "url": "https://open.spotify.com/artist/6HfPfjqkmkpLbYqYhTeNuB"
+        },
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/0kp0CNhNG6n1cUvaCMGyxK"
+    },
+    {
+      "album": {
         "name": "Yod Stewart",
         "url": "https://open.spotify.com/album/4NoXIbNMpg24qQw7Pc70y6"
       },
@@ -6581,7 +6727,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 184728,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m"
@@ -6695,6 +6841,32 @@
       "duration_ms": 129287,
       "name": "waiting all night - A.N.T.E Remix A.N.T.E Remix",
       "url": "https://open.spotify.com/track/1Lqe4dwE7iDeDxkMrbdhoS"
+    },
+    {
+      "album": {
+        "name": "edbl & friends - James Berkeley",
+        "url": "https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        },
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205355,
+      "name": "Waiting Line",
+      "url": "https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi"
     },
     {
       "album": {
@@ -6939,7 +7111,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 208280,
       "name": "Will They Try",
       "url": "https://open.spotify.com/track/25bNfiteje5iDrNwgn8ZTP"

@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-219 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+224 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-23 |  |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-12-23 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
+| [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-14 |  |
 | [For a while](https://open.spotify.com/track/0AGYeuTCEtwHWZ45RZNaHN) | [Ida Eline](https://open.spotify.com/artist/5KytELOgYZTg1s0VxUG9Nw) | [For a while](https://open.spotify.com/album/7l4681Ts204dYgHCOiZjba) | 3:04 | 2021-12-23 |  |
 | [For Emmabelle](https://open.spotify.com/track/6f096qqr3TLKBEoWxy8HPg) | [Donato Manna](https://open.spotify.com/artist/7ITvoe7pKuN7DqVBje697p) | [For Emmabelle](https://open.spotify.com/album/2NbjoYfZ6toamz1EPAA4lu) | 3:29 | 2021-12-23 | 2022-09-03 |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2021-12-23 |  |
@@ -82,8 +83,9 @@
 | [Gentle Awakening](https://open.spotify.com/track/0muXOxjvHlY8ZB83N751FC) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Gentle Awakening](https://open.spotify.com/album/2PlDvwBw3WfTCnyV11rAMl) | 3:30 | 2021-12-23 |  |
 | [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-15 |  |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2021-12-23 |  |
+| [Glowing](https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glowing](https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l) | 2:13 | 2022-10-14 |  |
 | [Guide](https://open.spotify.com/track/5seZHcpzWoUqYdpniMO4nc) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:23 | 2021-12-23 |  |
-| [Hearts Made of Gold](https://open.spotify.com/track/3saEHBnU9n5mDGwXchbre6) | [Lisa Rex](https://open.spotify.com/artist/2phMpVsIMBg1Htuv0lF9Pq) | [Hearts Made of Gold](https://open.spotify.com/album/6wd4w4oIY1olCuu689poNo) | 3:05 | 2021-12-23 |  |
+| [Hearts Made of Gold](https://open.spotify.com/track/3saEHBnU9n5mDGwXchbre6) | [Lisa Rex](https://open.spotify.com/artist/2phMpVsIMBg1Htuv0lF9Pq) | [Hearts Made of Gold](https://open.spotify.com/album/6wd4w4oIY1olCuu689poNo) | 3:05 | 2021-12-23 | 2022-10-15 |
 | [Heaven's Shore](https://open.spotify.com/track/1pAmp7cLogyrAnOyxrTdYY) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:32 | 2021-12-23 |  |
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-01-07 |  |
 | [Hidden Principles](https://open.spotify.com/track/3DHSM5fxFWtCCS57USzgPU) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Sense of Unity](https://open.spotify.com/album/4N9bbWQC5sE5d3QeIdYLaT) | 3:11 | 2021-12-23 |  |
@@ -127,6 +129,7 @@
 | [Morze Bałtyckie](https://open.spotify.com/track/1cpOnZ05SwPJ2uy2vIAqy4) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Morze Bałtyckie](https://open.spotify.com/album/0BBQJZf1gXSob0ie1QzSr8) | 3:01 | 2021-12-23 |  |
 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
 | [My Road](https://open.spotify.com/track/69rn7QWmrgXcXPSaO2tVFZ) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [My Road](https://open.spotify.com/album/6Iq3praO2HtKnUk6fRvGbf) | 2:58 | 2021-12-23 |  |
+| [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-12-23 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2021-12-23 |  |
 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 | 2021-12-23 |  |
@@ -207,6 +210,7 @@
 | [The NIght Sky](https://open.spotify.com/track/74BilO0zChICzNl6bXBFWI) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 2:58 | 2021-12-23 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2021-12-23 |  |
 | [This Moment](https://open.spotify.com/track/435xpWs0hfZnFv9BrDvx6a) | [The Beautiful Star](https://open.spotify.com/artist/4V0NOMqZ61n2HOODkKvRrE) | [This Moment](https://open.spotify.com/album/6ZzY2FvGMt36JIfYhLXnsY) | 3:00 | 2021-12-23 |  |
+| [Thorns](https://open.spotify.com/track/3WWF9kTWsPRVfgX6BFLisb) | [Rama Fiore](https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366) | [Blossom](https://open.spotify.com/album/6Ali5VGJJO9MkkPrhhLcmc) | 3:07 | 2022-10-14 |  |
 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 | 2021-12-23 |  |
 | [Time Flies Away](https://open.spotify.com/track/22avKCPSA6gN7p3lKbTytV) | [Tin Shui](https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs) | [Time Flies Away](https://open.spotify.com/album/5QyzVz6mNSkD253nZf1989) | 3:02 | 2021-12-23 |  |
 | [Tum Somnum](https://open.spotify.com/track/3Q2ykZ9rFuFOvYDcAOY6w3) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Tum Somnum](https://open.spotify.com/album/2ALQCc03yCk75pGsH8DEnc) | 3:05 | 2021-12-23 |  |
@@ -221,6 +225,7 @@
 | [Violet Ocean](https://open.spotify.com/track/3ffNZwshGDc3VLJQgdis5r) | [Ocean Floor](https://open.spotify.com/artist/4nNuiFBkkhspJCQ31LWnVg) | [Noise Cloud](https://open.spotify.com/album/4DVvvyoccdAaUu3rgqY8dG) | 2:36 | 2021-12-23 |  |
 | [Warmest Embrace](https://open.spotify.com/track/0Sn8lWeOkc5crNhOus3hw9) | [Dean Valio](https://open.spotify.com/artist/5eLXROpXyDsljbkItKaQxc) | [Warmest Embrace](https://open.spotify.com/album/7ubPYdlFJBArDcBJh1SQ5u) | 4:54 | 2021-12-23 |  |
 | [Wasserturm](https://open.spotify.com/track/3kn4W6GH3GjN1PH7UIwW5X) | [Claude Sabatier](https://open.spotify.com/artist/5oRDhVSff6UD1uX7cZa7mf) | [Wasserturm](https://open.spotify.com/album/1DKbXEZvcEYWz06DnbWjhx) | 3:20 | 2021-12-23 |  |
+| [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-14 |  |
 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2022-09-30 |  |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-23 |  |
 | [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-07 |  |

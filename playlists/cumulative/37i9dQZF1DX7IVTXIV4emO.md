@@ -4,7 +4,7 @@
 
 > manejando la tranquilidad 🏝  🥥  🏝
 
-214 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/3Q9pI8ajNSCNFWh0sMcjRH)
+215 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/3Q9pI8ajNSCNFWh0sMcjRH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [EL Diablo](https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj) | [EL Fresh](https://open.spotify.com/artist/5SKKmrCayBdpFX1A7l42Cw), [Ledavile](https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk) | [EL Diablo](https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI) | 2:44 | 2022-02-04 | 2022-02-24 |
 | [El Efecto \- Remix](https://open.spotify.com/track/74j34STf8L6uADnTN69ohv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [El Efecto \(Remix\)](https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo) | 4:49 | 2022-02-23 |  |
 | [El Jardin Prohibido](https://open.spotify.com/track/5eufP63aSvtJuoI33YyRxF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7bsw0uld3wQioChBQcnED8) | 5:25 | 2022-02-23 | 2022-07-29 |
-| [El Jardín Prohibido](https://open.spotify.com/track/7wOo717wUEeV7wgcdUZbUA) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5) | 5:25 | 2022-07-01 |  |
+| [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 | 2022-07-01 |  |
+| [El Jardín Prohibido](https://open.spotify.com/track/7wOo717wUEeV7wgcdUZbUA) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5) | 5:25 | 2022-07-01 | 2022-10-15 |
 | [Ela Já Tá Louca](https://open.spotify.com/track/4aUnmZzTqfrETKCmE6zvaw) | [Anderson Neiff](https://open.spotify.com/artist/0DLzO3qfGGEJyXwLflcgXK), [John Johnis](https://open.spotify.com/artist/2s3XhkYhy3bag3w84FBJdv) | [Ela Já Tá Louca](https://open.spotify.com/album/7LzEHTCI3xc4gf8Z1QrANi) | 2:27 | 2022-02-04 | 2022-02-24 |
 | [Elegí \(feat\. Dímelo Flow\)](https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Elegí \(feat\. Dímelo Flow\)](https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb) | 3:17 | 2022-02-23 |  |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-02-04 | 2022-02-24 |

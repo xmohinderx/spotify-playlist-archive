@@ -478,24 +478,6 @@
     },
     {
       "album": {
-        "name": "Chasing Ghost",
-        "url": "https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "date_added": "2022-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179406,
-      "name": "Chasing Ghost",
-      "url": "https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V"
-    },
-    {
-      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN"
       },
@@ -511,6 +493,24 @@
       "duration_ms": 179406,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1"
+    },
+    {
+      "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179406,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V"
     },
     {
       "album": {

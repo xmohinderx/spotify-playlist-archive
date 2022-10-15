@@ -4,7 +4,7 @@
 
 > Have a nice relaxed dinner with some chill indie music.
 
-132 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5DQOvJsKzXZMJCIkrgn4FQ)
+133 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5DQOvJsKzXZMJCIkrgn4FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2018-11-19 |  |
 | [High Hopes](https://open.spotify.com/track/5rZXBHUU2qz7huEckTwpqo) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 3:50 | 2018-11-19 | 2022-07-29 |
 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 | 2018-11-19 |  |
-| [Higher Love](https://open.spotify.com/track/30fUMnf2FI00EVTMRhOHhb) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Silver Lining](https://open.spotify.com/album/5U017xFzIEof40cTb7Z1SF) | 3:33 | 2018-11-19 |  |
+| [Higher Love](https://open.spotify.com/track/30fUMnf2FI00EVTMRhOHhb) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Silver Lining](https://open.spotify.com/album/5U017xFzIEof40cTb7Z1SF) | 3:33 | 2018-11-19 | 2022-10-15 |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2018-11-19 |  |
 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 | 2018-11-19 | 2022-07-29 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 | 2018-11-19 |  |
@@ -132,6 +132,7 @@
 | [We Will Become Silhouettes](https://open.spotify.com/track/53hXLQsByJC4B3UCNcmh0E) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/19AxGebIDoa4PrkvuZ2ACZ) | 5:00 | 2018-11-19 | 2022-07-29 |
 | [We Will Become Silhouettes \- Remastered](https://open.spotify.com/track/0xn9WsyWhNbfI82Ipnpwqa) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 5:00 | 2018-11-19 |  |
 | [Where Are You Now](https://open.spotify.com/track/1fbiarYX9ZHCDLp4mj8XHA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 3:37 | 2018-11-19 | 2022-10-13 |
+| [Where Are You Now](https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 3:37 | 2018-11-19 |  |
 | [Where Are You Now](https://open.spotify.com/track/4rzWrb9KT2v71cyuHhcbJY) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/7HcmUZBCV4XR2YwEiQN5jK) | 3:39 | 2018-11-19 | 2022-07-29 |
 | [Wolves](https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 6:14 | 2018-11-19 |  |
 | [Wolves](https://open.spotify.com/track/5IPIpXq8znsSOybCsbd88v) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3lhfsi28kDMTySq1ZSstz6) | 6:14 | 2018-11-19 | 2022-07-29 |

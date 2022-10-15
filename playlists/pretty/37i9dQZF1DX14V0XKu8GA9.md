@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,743 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,785 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 57 | [I’m Back](https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 1:57 |
 | 58 | [Palm Trees](https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Palm Trees](https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun) | 4:10 |
 | 59 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
-| 60 | [SAUCE ME UP](https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [SAUCE ME UP PESO](https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp) | 3:13 |
+| 60 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
 | 61 | [i'm Hot](https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [i'm Hot](https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF) | 2:08 |
-| 62 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
+| 62 | [SAUCE ME UP](https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [SAUCE ME UP PESO](https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp) | 3:13 |
 | 63 | [Badabing](https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Badabing](https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha) | 3:05 |
 | 64 | [Smile Now](https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Smile Now](https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU) | 2:50 |
 | 65 | [Palo De Santo](https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [Vivir...](https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM) | 2:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [Benz](https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP) | [Street Active](https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Baby Yungin](https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO) | [Benz](https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq) | 2:35 |
 | 80 | [It's Whateva](https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [It's Whateva](https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA) | 2:58 |
 
-Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMGFiNjYyZTI1MTc5Yjg0ZTk2NjFmODBmMzgwOGI0NTRi`
+Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMDhjZTFmNDVmYTA3ZDhjMGU1MTE0NDVlMDQzYTFmNmQ2`

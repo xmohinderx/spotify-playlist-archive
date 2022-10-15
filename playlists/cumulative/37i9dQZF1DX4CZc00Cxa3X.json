@@ -842,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig A.F.",
+          "url": "https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216195,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp"
       },
@@ -1780,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "Ile De Reve",
+        "url": "https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws"
+      },
+      "artists": [
+        {
+          "name": "Private Agenda",
+          "url": "https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357293,
+      "name": "P.S.R.",
+      "url": "https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q"
+    },
+    {
+      "album": {
         "name": "Antarctican Dream Machine",
         "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
       },
@@ -2617,7 +2653,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192000,
       "name": "Upward Swimming Fish",
       "url": "https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB"
@@ -2661,7 +2697,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 334468,
       "name": "Waiting For The Wind To Blow",
       "url": "https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1"

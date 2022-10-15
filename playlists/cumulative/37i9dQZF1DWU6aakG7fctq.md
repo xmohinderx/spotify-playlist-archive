@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Selene
 
-156 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
+157 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Para Nada](https://open.spotify.com/track/0f4PXAx8MCRSYl5A4RzNla) | [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [Para Nada](https://open.spotify.com/album/46qWTQj6l7vkquJKCWS5uS) | 2:26 | 2021-11-18 | 2022-07-27 |
 | [Para Siempre](https://open.spotify.com/track/7rHsKRxkxeNPSUHsrHCkJV) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Para Siempre](https://open.spotify.com/album/1ImtcFxcNGLx6GVaaSJZpy) | 3:18 | 2021-11-18 | 2022-07-25 |
 | [Paradise](https://open.spotify.com/track/6csiIHo2pYktlmyXZgKJns) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Paradise](https://open.spotify.com/album/2zaWUjh9T05lm2r3gKOqsk) | 3:43 | 2021-11-18 |  |
-| [Paranoia Pop](https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv) | 3:52 | 2021-11-18 |  |
+| [Paranoia Pop](https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv) | 3:52 | 2021-11-18 | 2022-10-15 |
+| [Paranoia Pop](https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:52 | 2022-09-06 |  |
 | [Park Ave](https://open.spotify.com/track/3PwZAzJ9NiYojvVC2WyxMX) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Colour](https://open.spotify.com/album/1eximXgBemioPPvQAmIc18) | 3:14 | 2022-01-10 | 2022-07-27 |
 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 | 2021-11-18 |  |
 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 | 2021-11-18 | 2022-09-07 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-59 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/4NjL2b04S4u48PKHjzlyC6)
+60 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4NjL2b04S4u48PKHjzlyC6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Blue \- Flume Remix](https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Blue \(Flume Remix\)](https://open.spotify.com/album/0jihZJEz7ZnvQVN6WBj5RC) | 2:46 | 2022-05-24 |  |
 | [Bring The Sun feat\. Gry \- Original Mix](https://open.spotify.com/track/276YatmSVaFpD1L6Sclj6Q) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN) | [You Go Girl](https://open.spotify.com/album/50bVD7KSoqvKfvPVLqOHto) | 8:20 | 2022-05-24 |  |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 | 2022-05-24 |  |
-| [Can't See Your Face Anymore](https://open.spotify.com/track/5dCaK9fWpT5U4m9BO96uCc) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Wonder What](https://open.spotify.com/album/7bSbz7kMBZskWvr9QegmIY) | 3:18 | 2022-05-24 |  |
+| [Can't See Your Face Anymore](https://open.spotify.com/track/1CvBeKh7m3dySJXPtBntda) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Wonder What](https://open.spotify.com/album/2RIflWL6QYuwyTsvZDMphI) | 3:18 | 2022-05-24 |  |
+| [Can't See Your Face Anymore](https://open.spotify.com/track/5dCaK9fWpT5U4m9BO96uCc) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Wonder What](https://open.spotify.com/album/7bSbz7kMBZskWvr9QegmIY) | 3:18 | 2022-05-24 | 2022-10-15 |
 | [CHANCES](https://open.spotify.com/track/439X8jGytErRiPnaoUJHju) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g) | 3:38 | 2022-05-24 |  |
 | [Codeina](https://open.spotify.com/track/749vq4AE25hT0k0ba1Zknp) | [Bclip](https://open.spotify.com/artist/7kGL1m1wkAzKUrLCqaDVDT), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Codeina](https://open.spotify.com/album/4mEfTeBJYd9XczuIVoPy3y) | 3:26 | 2022-05-24 |  |
 | [Drowning](https://open.spotify.com/track/7gw6R8syjMYMkcdLNubFPu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Drowning](https://open.spotify.com/album/1Y9kWCOmN77yxC2io3A8D9) | 3:45 | 2022-05-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: AJR",
+  "description": "make it pop! cover: joan",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -1760,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "dirty white chucks",
+        "url": "https://open.spotify.com/album/6CUvOeg6Sn0Lnhh6yiYwHN"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158118,
+      "name": "dirty white chucks",
+      "url": "https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9"
+    },
+    {
+      "album": {
         "name": "Disappointment (feat. Rxseboy)",
         "url": "https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd"
       },
@@ -1823,6 +1841,24 @@
       "duration_ms": 175578,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/6sVXCrb5Z4xCliIVP5UdAB"
+    },
+    {
+      "album": {
+        "name": "don't wanna be your friend",
+        "url": "https://open.spotify.com/album/1mkkEUHXdKdejjCLXDzdzr"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165956,
+      "name": "don't wanna be your friend",
+      "url": "https://open.spotify.com/track/2sMH4QWOM6pho9EY2RTPoO"
     },
     {
       "album": {
@@ -2464,6 +2500,24 @@
     },
     {
       "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173983,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm"
       },
@@ -2915,7 +2969,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 171768,
       "name": "Hide And Seek",
       "url": "https://open.spotify.com/track/6oRcj35Qy5531TgH3ZHwbT"
@@ -5210,6 +5264,24 @@
     },
     {
       "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212568,
+      "name": "Oh Caroline",
+      "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "album": {
         "name": "OH NO!",
         "url": "https://open.spotify.com/album/0oKwWq3FGBprGxwSKxwOvV"
       },
@@ -5373,7 +5445,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
@@ -6235,7 +6307,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 187576,
       "name": "She's Not You",
       "url": "https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz"
@@ -7721,7 +7793,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 164314,
       "name": "Undone",
       "url": "https://open.spotify.com/track/1pger5HtepNjzJcNIsP9Pq"

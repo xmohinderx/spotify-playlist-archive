@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving folk & roots scene\. Cover: Bonny Light Horseman
+> Explore the ever\-evolving folk & roots scene\. Cover: SYML
 
-295 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
+297 songs - 18 hr 33 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,14 +32,14 @@
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 | 2022-07-29 |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-12-10 | 2022-01-29 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-03-18 | 2022-04-29 |
-| [B61](https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [B61](https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1) | 3:41 | 2022-01-07 |  |
+| [B61](https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [B61](https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1) | 3:41 | 2022-01-07 | 2022-10-15 |
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-12-10 | 2022-04-16 |
 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 | 2022-09-25 |
 | [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-08-01 |
 | [Bad Behavior](https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:37 | 2022-09-23 |  |
 | [Ballad of an Unknown](https://open.spotify.com/track/6rBkSRxinFvMtOYYbKegma) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 3:19 | 2022-04-01 |  |
 | [Bedrock](https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Bedrock](https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf) | 3:30 | 2022-01-21 | 2022-02-05 |
-| [Bedrock](https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:30 | 2022-02-04 |  |
+| [Bedrock](https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:30 | 2022-02-04 | 2022-10-15 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-11 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-05-06 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-10 | 2022-06-04 |
@@ -197,6 +197,7 @@
 | [Promise Rings](https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 4:14 | 2022-04-08 | 2022-06-25 |
 | [Pterodactyl](https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Pterodactyl](https://open.spotify.com/album/757iG6V3Y2AYwEwGONa6DS) | 4:06 | 2022-07-29 |  |
 | [Purple](https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM) | 4:25 | 2022-01-07 | 2022-07-23 |
+| [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 | 2022-10-14 |  |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-22 |  |
 | [Radio Silence](https://open.spotify.com/track/1VasZLD50MXapYxpDbr5nb) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Pins And Needles](https://open.spotify.com/album/6vf4IMJjuEUZiRCwvQOEHL) | 3:42 | 2021-12-10 | 2022-05-28 |
 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 | 2022-02-11 |  |
@@ -233,6 +234,7 @@
 | [Still Trying](https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:09 | 2022-01-14 | 2022-01-22 |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-12-10 | 2022-01-29 |
 | [Sunday Drive](https://open.spotify.com/track/7h5aMCjigDY5Swa5OroljV) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sunday Drive](https://open.spotify.com/album/3SoYuufmYmFFejuIYi5a3d) | 3:42 | 2021-12-10 | 2022-02-19 |
+| [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-14 |  |
 | [Sweet Home](https://open.spotify.com/track/2fnoVSzvOqstrEIzJ9F0Mh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx) | 4:08 | 2022-02-18 | 2022-05-20 |
 | [Sweet Misery](https://open.spotify.com/track/6BLxLHO1PL5jOoRknuFS9e) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/7bKPxEAWKsZsgH4sQ20cqN) | 3:09 | 2021-12-10 | 2022-03-12 |
 | [Sweet Unknown](https://open.spotify.com/track/0xFHQ72ymUwAN2QneFYjrH) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/0aTcsM65p88W6cw7qwG3EM) | 3:58 | 2021-12-10 | 2022-04-02 |

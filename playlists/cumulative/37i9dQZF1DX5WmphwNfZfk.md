@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: young friend
 
-896 songs - 1 day 21 hr 44 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+897 songs - 1 day 21 hr 47 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Essayer](https://open.spotify.com/track/2lzkrk1S2oY4r46gMBwc8E) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Essayer](https://open.spotify.com/album/3GNSgrDaW3Fsffp6GijGdy) | 4:05 | 2021-12-06 | 2022-01-08 |
 | [Estrellas](https://open.spotify.com/track/12xPalbdr11FAzvb4GEQU9) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Estrellas](https://open.spotify.com/album/1XciJ0ujHmZSljO19r4sjs) | 2:59 | 2022-04-01 | 2022-05-07 |
 | [Evadirte](https://open.spotify.com/track/1RwllHXLprNmMDBRkp3X93) | [LMBC](https://open.spotify.com/artist/41ydZ0W1RUb6N2ObIdVP04), [Bebeboy](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [Toronto Barrio](https://open.spotify.com/album/4Q4lX2Cp8t6nQZ5MT8wGbw) | 3:53 | 2022-01-07 | 2022-02-05 |
-| [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 | 2022-10-07 |  |
+| [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 | 2022-10-07 | 2022-10-15 |
+| [Everything I'm Not](https://open.spotify.com/track/6zJKS2ThHSC5kcQ9uXDcnU) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/6Qhq8Uz0MzaoywuchU3QoE) | 2:42 | 2022-10-07 |  |
 | [Exercise Your Demons](https://open.spotify.com/track/0nUMz1ddHrabm2V1a9KCAl) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Exercise Your Demons](https://open.spotify.com/album/6iJxyB81NTPgHLgFH4P6OC) | 2:53 | 2022-04-01 | 2022-05-07 |
 | [Exes and Why's](https://open.spotify.com/track/7Bd6thM3CYtgUK7ODwvBe3) | [Meg DeAngelis](https://open.spotify.com/artist/1yolJlMzhzK1UWcHTC7Mw2) | [Exes and Why's](https://open.spotify.com/album/5cY0nAnVSTNDnWOfhkTkCQ) | 2:25 | 2022-03-04 | 2022-04-02 |
 | [extra](https://open.spotify.com/track/7KZySbbZKymxgsecEaFmPQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [extra](https://open.spotify.com/album/6dY3Qu3XLfiiisvdeN3jee) | 3:14 | 2022-05-11 | 2022-07-02 |

@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/3SZjxYfXYl3LWNI3VVV4NC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202921,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa"
+    },
+    {
+      "album": {
         "name": "Back in the High Life Again / The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg"
       },
@@ -3615,7 +3633,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"

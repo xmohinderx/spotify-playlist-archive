@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,198 likes - 135 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,316 likes - 135 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 100 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 |
 | 101 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 |
 | 102 | [Trafalgar](https://open.spotify.com/track/6Klz0YteuP0CQmHvqHNFkd) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Trafalgar](https://open.spotify.com/album/1bFDU1We8vz1qZTETrhGYk) | 3:23 |
-| 103 | [I will be back](https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [I will be back](https://open.spotify.com/album/6WFcDbSDSNawB0MoVLXBsL) | 1:14 |
+| 103 | [I will be back](https://open.spotify.com/track/6XXoKr31cHpEcZkGZsxXYQ) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [I will be back](https://open.spotify.com/album/6CvhepfhkTKXJGD6SiPaCo) | 1:14 |
 | 104 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 |
 | 105 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 |
 | 106 | [Uma Valsa e dois Amores](https://open.spotify.com/track/4DMdVTsX30OCuKZMWSNnO0) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Uma Valsa e dois Amores](https://open.spotify.com/album/7uCzTmgWQgau9Y3OSCnZet) | 3:33 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 134 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 |
 | 135 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
 
-Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGU1OTBlNzRjYTE0NmZjYjljMDU4MmQ3OTQyMDFhMjQ4`
+Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGUwNjE4ZTdmZTc5ODBkNGNjODJhNjFlYTUzYTA3ZGYz`

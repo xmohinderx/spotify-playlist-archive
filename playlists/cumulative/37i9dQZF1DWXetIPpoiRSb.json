@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The freshest pop sounds. Cover: Tate McRae",
+  "description": "The freshest pop sounds. Cover: Raye",
   "name": "New Pop Revolution",
   "published_playlist_ids": [
     "5O9jjDsmvcXgHKwc2ajhjj"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 178537,
       "name": "All My Loving",
       "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 153195,
       "name": "American Psycho (with Mae Muller feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/32il27dOrLpIru8Evp4Pu7"
@@ -1834,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196682,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
+    },
+    {
+      "album": {
         "name": "Life Support",
         "url": "https://open.spotify.com/album/1TKYO9znkrY14VayHze05r"
       },
@@ -2170,6 +2188,24 @@
     },
     {
       "album": {
+        "name": "It Wasn't Perfect, But We Tried",
+        "url": "https://open.spotify.com/album/70N1mJFxBKb492iWoNEezl"
+      },
+      "artists": [
+        {
+          "name": "Grace Davies",
+          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210673,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/38H3WCklnDRSvNxTJMJtIB"
+    },
+    {
+      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/3GyomH7dFhBWrQuvyY7DpH"
       },
@@ -2423,6 +2459,28 @@
       "duration_ms": 201178,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
+    },
+    {
+      "album": {
+        "name": "Call On Me (with Tove Lo)",
+        "url": "https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196314,
+      "name": "Call On Me (with Tove Lo)",
+      "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
     },
     {
       "album": {
@@ -4254,6 +4312,28 @@
     },
     {
       "album": {
+        "name": "Escapism. / The Thrill Is Gone.",
+        "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
+    },
+    {
+      "album": {
         "name": "Every Bottle (Is My Boyfriend)",
         "url": "https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP"
       },
@@ -5804,6 +5884,24 @@
     },
     {
       "album": {
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh"
+    },
+    {
+      "album": {
         "name": "The Good Times and The Bad Ones",
         "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
       },
@@ -6553,6 +6651,24 @@
       "duration_ms": 227613,
       "name": "House With No Mirrors",
       "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
+    },
+    {
+      "album": {
+        "name": "How Could You",
+        "url": "https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "How Could You",
+      "url": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
     },
     {
       "album": {
@@ -9231,7 +9347,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 172111,
       "name": "Mona Lisa, Mona Lisa",
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
@@ -11635,7 +11751,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210280,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/01S9Y2qZZkQs23TJmTmmUb"
@@ -11849,7 +11965,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
@@ -15965,7 +16081,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 221256,
       "name": "You",
       "url": "https://open.spotify.com/track/7MMJ9Q17oBliVibFIJUno7"

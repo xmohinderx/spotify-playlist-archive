@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Pipe Bueno, Silvestre Dangond, Darell
 
-85 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
+86 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Dale Pa' Ya \(feat\. Gente de Zona\)](https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Dale Pa' Ya \(feat\. Gente De Zona\)](https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA) | 3:36 | 2022-10-07 |  |
 | [Danza Negra](https://open.spotify.com/track/1g3uCv2BINkWHSnlkTgH1g) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Maestro Lucho](https://open.spotify.com/album/06MO7kElzwx7ET2sc0gN00) | 2:17 | 2022-05-20 | 2022-10-08 |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-05-20 |  |
-| [Descarga](https://open.spotify.com/track/1fIRT6UpxIJhYfPBAyVD20) | [La Pambelé](https://open.spotify.com/artist/0CRVq33mNJl6sTcWvH6WzV) | [La Pambelé](https://open.spotify.com/album/7fJEer6X6zpSWW7Rbm2w7t) | 8:38 | 2022-10-07 |  |
+| [Descarga](https://open.spotify.com/track/1fIRT6UpxIJhYfPBAyVD20) | [La Pambelé](https://open.spotify.com/artist/0CRVq33mNJl6sTcWvH6WzV) | [La Pambelé](https://open.spotify.com/album/7fJEer6X6zpSWW7Rbm2w7t) | 8:38 | 2022-10-07 | 2022-10-15 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-28 |  |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-20 |  |
 | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/track/1j5zmxtObsNWBsd4pZMCqi) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/album/0SXL43fhwmNUWngNuDXLCO) | 6:00 | 2022-08-05 | 2022-10-08 |
@@ -82,6 +82,7 @@
 | [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 | 2022-09-02 |  |
 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 | 2022-05-20 | 2022-05-27 |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-05-20 |  |
+| [Sé Que Estás Con Él](https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [INTRUSO](https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw) | 3:12 | 2022-10-14 |  |
 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2022-05-20 |  |
 | [Te Quiero](https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:49 | 2022-05-20 |  |
 | [Te Tengo Ganas](https://open.spotify.com/track/3FhMGOGlgzEmgyzr54nhWy) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Te Tengo Ganas](https://open.spotify.com/album/1f2WGOxmrj7IT5CVQKhHUZ) | 3:30 | 2022-05-20 | 2022-10-08 |

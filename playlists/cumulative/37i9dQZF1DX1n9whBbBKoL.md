@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-172 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+173 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Sown from Luleå](https://open.spotify.com/track/71koc8oGlklnEFA2WHrv6K) | [Howard Lieberman](https://open.spotify.com/artist/6X3He75SSgFfKl09gJYBCZ) | [Modules](https://open.spotify.com/album/1FgzNTRzrMEPA08RirWMfj) | 3:58 | 2021-11-10 | 2022-04-22 |
 | [Standing Wave](https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Teegarden C](https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR) | 4:08 | 2022-04-06 |  |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
+| [Starscape](https://open.spotify.com/track/6tIvKwJhiK1VJ9xc0RqCL2) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:16 | 2022-10-14 |  |
 | [Still](https://open.spotify.com/track/3MAn3fACQt6uwlEaE9IGNN) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Still](https://open.spotify.com/album/6NiOGqYGcLd9q7bWw1NPEm) | 3:12 | 2021-11-10 |  |
 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 | 2021-11-10 |  |
 | [Sunscape](https://open.spotify.com/track/6UFrx6aIfTd6KWEW0lRkD9) | [Beyond The Last Star](https://open.spotify.com/artist/4FyxCX5Fab17TzC7lmzjJI) | [Beyond The Last Star](https://open.spotify.com/album/6HB8IHuSbf5k1ufN8LRAv4) | 2:45 | 2021-11-10 | 2022-07-16 |

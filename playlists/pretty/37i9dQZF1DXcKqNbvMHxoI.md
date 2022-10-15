@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,883 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,914 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 75 | [05:10 AM / DREAM I NEVER HAD](https://open.spotify.com/track/57rsP9XufjzYaw7yG01XAB) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [FRIDAY FOREVER](https://open.spotify.com/album/5i9U5MGjNDeP5wQxZNTOw6) | 4:38 |
 | 76 | [Carlos \(make it thru\)](https://open.spotify.com/track/4pok08MvDsJzOM6kMpWHmc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:23 |
 | 77 | [2005 NYE](https://open.spotify.com/track/6ezV370O6dVoAf9DtRK4X9) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/4PPA1thVaDI5MUuRqmNTR9) | 4:47 |
-| 78 | [Ur <3](https://open.spotify.com/track/0hx4xTylyRQFNFFnVUJydy) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/3WVQ7KA54YAxv7fQ5pfFE2) | 3:43 |
+| 78 | [Ur <3](https://open.spotify.com/track/6BSxcPX8hKm6O4ZLsKw9qS) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/4ykOmXue0lJlEcirTef37v) | 3:43 |
 | 79 | [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDQ4YTliZmQ1ZDZkNTkyZjIyODM4MTAwMGE1NDExZTc1`
+Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDg2NmQ0ZTdiNDczNDg1YjkzNDgzNjExYmRjMDdlNDU1`

@@ -2654,6 +2654,28 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        },
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG"
+    },
+    {
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
       },
@@ -2825,10 +2847,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 136510,
       "name": "Sand On The Beach",
       "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
+    },
+    {
+      "album": {
+        "name": "Sand on the Beach",
+        "url": "https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136510,
+      "name": "Sand on the Beach",
+      "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
     },
     {
       "album": {

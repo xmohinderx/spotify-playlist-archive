@@ -273,6 +273,24 @@
     {
       "album": {
         "name": "Another Year",
+        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "album": {
+        "name": "Another Year",
         "url": "https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC"
       },
       "artists": [
@@ -611,6 +629,24 @@
       "duration_ms": 226393,
       "name": "Christmas Is Home",
       "url": "https://open.spotify.com/track/7ulgUfxA8oIGmaqQX6bRkX"
+    },
+    {
+      "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
       "album": {
@@ -2147,7 +2183,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 147134,
       "name": "Rise Up Shepherd",
       "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
@@ -2259,7 +2295,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 284906,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"

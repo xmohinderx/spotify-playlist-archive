@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-47 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+48 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ding Dong, Merrily On High](https://open.spotify.com/track/44KfRf2QBhyChudtmInTXX) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights \- Die schönsten Melodien für eine entspannte Weihnachtszeit](https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS) | 4:29 | 2022-10-07 |  |
 | [Fairytale of New York](https://open.spotify.com/track/2Lef0CHyds1JR5t8oPXXzw) | [Finer](https://open.spotify.com/artist/3yqe3yOVIhznLkPAa5BLYF), [MacGowan](https://open.spotify.com/artist/3YodJpFPfyv3k86DOoAJPQ), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:12 | 2021-12-16 |  |
 | [Feliz Navidad](https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 4:23 | 2021-12-16 |  |
+| [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-10-14 |  |
 | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/track/48HpzCZRKhMWKvOI3Ic0rl) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz) | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/album/2oy471jjrzeyB6AAWle1sL) | 2:29 | 2021-12-16 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 | 2021-12-16 |  |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 | 2021-12-16 |  |

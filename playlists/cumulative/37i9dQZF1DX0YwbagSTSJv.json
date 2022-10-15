@@ -722,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/7yLFBGdnd3w67xZXUwiBeD"
+      },
+      "artists": [
+        {
+          "name": "Lush Lotus",
+          "url": "https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/2g5vMBKaniR71KugH2O1uC"
+    },
+    {
+      "album": {
         "name": "Eternity and Beyond",
         "url": "https://open.spotify.com/album/5eyxjz1D0sA4KPH7wrOa05"
       },

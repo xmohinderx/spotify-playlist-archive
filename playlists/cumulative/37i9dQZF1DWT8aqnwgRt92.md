@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-294 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+295 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [『劇場版 Free!\-the Final Stroke\-』後編オリジナルサウンドトラック「Never Ending Blue」](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 | 2022-05-28 | 2022-06-08 |
 | [eclatante](https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [eclatante](https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x) | 4:21 | 2022-07-12 | 2022-08-17 |
 | [Endless Love](https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love/仲良ピース](https://open.spotify.com/album/329JSn2SToLHrtusx8fN55) | 1:42 | 2022-10-01 | 2022-10-03 |
-| [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / 仲良ピース](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 | 2022-10-01 |  |
-| [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-15 |  |
+| [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / Nakayopiece](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 | 2022-10-01 |  |
+| [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-15 | 2022-10-15 |
+| [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2022-10-13 |  |
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-05-28 | 2022-07-01 |
 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-02 | 2022-10-05 |
 | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 | 2022-06-01 |

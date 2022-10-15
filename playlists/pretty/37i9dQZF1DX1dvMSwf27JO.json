@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYxNjEyNCwwMDAwMDAwMDNmMmM3NTcwMWYzMGIzNmYwMzVkM2RhODQ5ZWM4ZWVm",
+  "snapshot_id": "MTY2NTcyNDkyMCwwMDAwMDAwMGRhNTgzNzQwODEwOTU1MjQzOTgwZGUyMmFjNWE0NTVh",
   "tracks": [
     {
       "added_at": "2022-10-08 01:04:52",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
     },
     {
-      "added_at": "2022-10-12 23:08:44",
-      "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "NOSTYLIST",
-      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
-    },
-    {
       "added_at": "2022-10-07 18:33:44",
       "album": {
         "name": "Drunk",
@@ -219,6 +203,22 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "added_at": "2022-10-12 23:08:44",
+      "album": {
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "NOSTYLIST",
+      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Clint Eastwood",
-      "url": "https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "on & on",
         "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 135013,
       "name": "on & on",
       "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Clint Eastwood",
+      "url": "https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 236213,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Portamento",
-        "url": "https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 233655,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0vAb3U3NJhiuib2B7sJdeJ"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 157303,
       "name": "Lava",
       "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Portamento",
+        "url": "https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 233655,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0vAb3U3NJhiuib2B7sJdeJ"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -867,6 +867,22 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1191,22 +1207,18 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Giving Up",
-        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Mafro",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 203751,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+      "duration_ms": 185560,
+      "name": "Super Stars",
+      "url": "https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1227,22 +1239,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Super Stars",
-      "url": "https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
       },
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
       },
@@ -1353,22 +1369,6 @@
       "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
     },
     {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 134142,
-      "name": "Shimmy",
-      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
-    },
-    {
       "added_at": "2022-10-08 01:04:52",
       "album": {
         "name": "Dinsdag",
@@ -1387,6 +1387,38 @@
       "duration_ms": 162997,
       "name": "Dinsdag",
       "url": "https://open.spotify.com/track/5EI94cNPh81RIh1NZy5qqR"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 134142,
+      "name": "Shimmy",
+      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1485,6 +1517,38 @@
       "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
+      "added_at": "2022-10-14 05:22:00",
+      "album": {
+        "name": "VF VOL II",
+        "url": "https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 178389,
+      "name": "THE ONE",
+      "url": "https://open.spotify.com/track/02WA04hf6p2mOqI6fQHYfv"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "dress up!",
+        "url": "https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ"
+      },
+      "artists": [
+        {
+          "name": "lil hero",
+          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
+        }
+      ],
+      "duration_ms": 129488,
+      "name": "BIG FLIRT",
+      "url": "https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK"
+    },
+    {
       "added_at": "2022-10-07 18:33:44",
       "album": {
         "name": "Campfire",
@@ -1503,22 +1567,6 @@
       "duration_ms": 135013,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/4U5ovGD4My7MOISvUEtYaf"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "dress up!",
-        "url": "https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ"
-      },
-      "artists": [
-        {
-          "name": "lil hero",
-          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
-        }
-      ],
-      "duration_ms": 129488,
-      "name": "BIG FLIRT",
-      "url": "https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1543,22 +1591,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Kauai",
-        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "girl ur so pretty",
         "url": "https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4"
       },
@@ -1571,22 +1603,6 @@
       "duration_ms": 188543,
       "name": "girl ur so pretty",
       "url": "https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Free Form Mixtape",
-        "url": "https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Fae",
-          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Baby Pillz",
-      "url": "https://open.spotify.com/track/7uxlLKlY5FIYymJF3tU7ai"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1639,22 +1655,6 @@
       "duration_ms": 149813,
       "name": "Nectarine Lane",
       "url": "https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1793,6 +1793,42 @@
       "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
     },
     {
+      "added_at": "2022-10-14 05:22:00",
+      "album": {
+        "name": "Wrote a Lil Song",
+        "url": "https://open.spotify.com/album/1MkF1udZZGjXUiowE99wNx"
+      },
+      "artists": [
+        {
+          "name": "Chong the Nomad",
+          "url": "https://open.spotify.com/artist/586OHhbBhXRpOY8LezbUcK"
+        },
+        {
+          "name": "Maiah Manser",
+          "url": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
+        }
+      ],
+      "duration_ms": 154119,
+      "name": "Wrote a Lil Song",
+      "url": "https://open.spotify.com/track/2n2P1kKC478cwWnEULeXn1"
+    },
+    {
+      "added_at": "2022-10-14 05:22:00",
+      "album": {
+        "name": "RAGGA",
+        "url": "https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 162111,
+      "name": "RAGGA",
+      "url": "https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF"
+    },
+    {
       "added_at": "2022-10-07 18:33:44",
       "album": {
         "name": "VIZIO",
@@ -1827,6 +1863,22 @@
       "duration_ms": 234097,
       "name": "Sweet Feeling",
       "url": "https://open.spotify.com/track/7Mn9dYd4L0AQZCRWqqnkPw"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Free Form Mixtape",
+        "url": "https://open.spotify.com/album/73rCTj22iO75ygdt5uoj31"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Baby Pillz",
+      "url": "https://open.spotify.com/track/1PVH01aOkNQ6PzxT4Lqtfm"
     }
   ],
   "unique_name": "'fit check",

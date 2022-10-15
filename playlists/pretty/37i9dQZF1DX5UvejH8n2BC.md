@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,875 likes - 32 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,916 likes - 32 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 5 | [Hope That We Can Be Together Soon \(feat\. Sharon Paige\)](https://open.spotify.com/track/1nJUvlF4nwEKVHF1UNEOua) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 3:42 |
 | 6 | [Don't Let It Go to Your Head \- 12" Version](https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Happy To Be With You](https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d) | 4:51 |
 | 7 | [Strut Your Funky Stuff \- 12" Version](https://open.spotify.com/track/2ZHEd0c9amAX10cbYdBtQ9) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 6:16 |
-| 8 | [A Love of Your Own](https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [Sing About Life](https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r) | 5:30 |
+| 8 | [I Believe in Love](https://open.spotify.com/track/38xyVKgU4XvfO4LRHIdiJ9) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [What Color Is Love](https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF) | 3:56 |
 | 9 | [Love, Need and Want You](https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:58 |
-| 10 | [I Believe in Love](https://open.spotify.com/track/38xyVKgU4XvfO4LRHIdiJ9) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [What Color Is Love](https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF) | 3:56 |
+| 10 | [A Love of Your Own](https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [Sing About Life](https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r) | 5:30 |
 | 11 | [TSOP \(The Sound of Philadelphia\)](https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:47 |
 | 12 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 13 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [Was That All It Was](https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:56 |
 | 32 | [Breaking and Entering \- 12" Version](https://open.spotify.com/track/7EeTRmNCoGhvN1CM3qbMOu) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [David Todd](https://open.spotify.com/artist/5OYReAyrBw6qS3vOtMCaZA) | [The Women of Philadelphia International Records \- The Remixes](https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu) | 7:00 |
 
-Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMDlkNGQ5YTAwODAyOWNlYjQyYjhlYWY4YzEyMDczMmY5`
+Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMGFmYmQ1OWRlMjljZWFhODExNjBlYjc0NjU0ZTBiOGUy`

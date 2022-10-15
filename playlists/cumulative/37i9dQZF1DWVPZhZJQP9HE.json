@@ -1986,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "Malar",
+        "url": "https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Aryan",
+          "url": "https://open.spotify.com/artist/7w7JsEht5xieUuMnFgLNZ1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215571,
+      "name": "Malar",
+      "url": "https://open.spotify.com/track/23oT1fb1GhQD0kSeLpVtHv"
+    },
+    {
+      "album": {
         "name": "Manadhin Oru Paadhi",
         "url": "https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,137 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,138 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 17 | [Hollywood](https://open.spotify.com/track/40ZsN7vKatjbyoY8zx0DM8) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 4:01 |
 | 18 | [mime](https://open.spotify.com/track/4sISzyWDHQQIOor9HokS7X) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:08 |
 | 19 | [Liar](https://open.spotify.com/track/53yWQ1FObrwPlVYCZdR6es) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/55aI0Y84kAkGiqk8Y7BPGp) | 2:26 |
-| 20 | [i don't miss u](https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:58 |
+| 20 | [i don't miss u](https://open.spotify.com/track/1Ui5h8uVd1Mbzw0xD9QOjh) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/0bgCvlryOs9JHw0alDKqdS) | 2:58 |
 | 21 | [Soufflé](https://open.spotify.com/track/4hP4t2ArzB5QA7nzJGjruX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Soufflé](https://open.spotify.com/album/66fpUIHYlOz0NlgG6TX7RI) | 2:09 |
 | 22 | [Diamond Tears](https://open.spotify.com/track/3PPk8VonR0Ov8EKkmCkyvS) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Love u – to Death](https://open.spotify.com/album/3buQH4TCBwPOcMFliqJUHT) | 3:30 |
 | 23 | [Do Better](https://open.spotify.com/track/2q4YX9A2WafCCcqdZtKVIj) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/674GmlI4tJvUQ1W3sjYaay) | 3:33 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 67 | [everybody's cool but me](https://open.spotify.com/track/4dfFLWjpgnTcq5StTAa5dK) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [everybody's cool but me](https://open.spotify.com/album/0pfzmfdiultGZ4TdNa8h14) | 3:03 |
 | 68 | [Bummer Summerrr](https://open.spotify.com/track/5d1nXqp2jtg70hT6JYxIYI) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [Everything Matters](https://open.spotify.com/album/0JlHoU7t4nfpzHnzd8stUo) | 3:59 |
 | 69 | [Buttons](https://open.spotify.com/track/1pZ9xYDzyq9KHTVrqBUEsn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/6szHJ15dr9M4oJfOW8XAbH) | 3:36 |
-| 70 | [Sue](https://open.spotify.com/track/3Ebf3n6GX9i8OLig5lNXtL) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [Sue](https://open.spotify.com/album/0QE5VjoQrx4dadRYhaeQ0G) | 3:22 |
+| 70 | [Sue](https://open.spotify.com/track/0yygnZCAvPeopsfgI1IWFC) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [SEX](https://open.spotify.com/album/5Xz5UbVUN2fqucwGnpwXJg) | 3:22 |
 | 71 | [Runaway Man](https://open.spotify.com/track/2bbG9OmvZLCsdWoRu7rj2m) | [Olivia Willhite](https://open.spotify.com/artist/70Mu5ttTV5XTLxs4uzF0H0) | [Runaway Man](https://open.spotify.com/album/1kSqEoIqznzirT0Gi4IxzW) | 3:09 |
 | 72 | [Hey There Cowgirl](https://open.spotify.com/track/0FeEyD4FZqDh78DhShxGCx) | [Palm Springsteen](https://open.spotify.com/artist/0uCRjVc8oWaEvazuCMDOXD) | [Hey There Cowgirl](https://open.spotify.com/album/4hqsi3T2wX4ogN2syEH7LR) | 3:38 |
 | 73 | [Talking Heads](https://open.spotify.com/track/1h9dZPr48ANzFAiWDu4lU1) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Talking Heads](https://open.spotify.com/album/0OjT45QCcSSsysP8CoaZf9) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDYwZTMwNjQ4NTM5MzhhMjA4MzkxOTYwOWY5NzdjZTk4`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDk1ZDgwYTA2ZTlmNWU0ZGY0ZWQzZDgyMjYxMzc3NWJh`

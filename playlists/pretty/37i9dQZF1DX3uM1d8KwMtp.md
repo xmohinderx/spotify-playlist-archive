@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,575 likes - 57 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,616 likes - 57 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 5 | [Rumor](https://open.spotify.com/track/0IyZ6gCFUyGs3zP2ItaTo1) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Timeless](https://open.spotify.com/album/6HMZO1TTb8HuJE61QP0MPz) | 7:00 |
 | 6 | [Algerian Resurrection](https://open.spotify.com/track/3trqXz0dgBUORXtrwYTUtU) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [Algerian Resurrection](https://open.spotify.com/album/3ZjvsoFEJSX0wKoqvf18M3) | 5:45 |
 | 7 | [Anchor Point](https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:59 |
-| 8 | [How Can I Resist](https://open.spotify.com/track/54w3b8DMRcWWXSbnckLQq9) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/5MjBnaVcD8NQYeXTFjcMlS) | 6:28 |
+| 8 | [How Can I Resist](https://open.spotify.com/track/0YnPozuKonupUAmhWinO88) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/4cL2WyIcSwWgRlQxrXDN2M) | 6:28 |
 | 9 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
 | 10 | [Initio](https://open.spotify.com/track/0NfTsHY1lwjMrtVnT6rf6W) | [Yarkin Bora](https://open.spotify.com/artist/2Yj7cRMoeqgjxRmTek9AVm) | [Initio](https://open.spotify.com/album/57LVfnJPGPKINK5Ub19OkC) | 5:24 |
 | 11 | [Canario \- PAAX \(Tulum\) Remix](https://open.spotify.com/track/6Ragp4iHxvYs6RvqCusJr0) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr), [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Canario \(Incl\. Mollono.Bass Remix\)](https://open.spotify.com/album/0Q2MQry6VfhtmNBKoyYvYv) | 6:27 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 56 | [Madan](https://open.spotify.com/track/6WnGITNOKFXawCwqnFuYbW) | [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Madan](https://open.spotify.com/album/3MJa5lVzJNQsB8aH7RkGNn) | 3:38 |
 | 57 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 |
 
-Snapshot ID: `MTY2NTY0NjgxMSwwMDAwMDAwMDE1ZDY2N2U1MTkxZGQyYzEwZGZjZTVjZDExNmU3YWJj`
+Snapshot ID: `MTY2NTY0NjgxMSwwMDAwMDAwMDk5MTRmMGYwZjE1ZGRmNDRkNWM1NzU0Yzc3OGVkZWZk`

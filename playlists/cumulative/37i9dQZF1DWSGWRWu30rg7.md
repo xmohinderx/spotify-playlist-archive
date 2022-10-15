@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Avolia  Artwork: Isu Kim.
 
-1,155 songs - 2 day 22 hr 52 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+1,156 songs - 2 day 22 hr 57 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [LUKEWARM](https://open.spotify.com/track/1QTof3zC0UqzCxVA9jVkbF) | [Jordie Yose](https://open.spotify.com/artist/6VywJDkajUQLLBojKT4C4L), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [LUKEWARM](https://open.spotify.com/album/5SV8FQesh6Aam6JSEmDDux) | 4:51 | 2022-09-09 | 2022-09-23 |
 | [Lupa Diri](https://open.spotify.com/track/4UMdnTWQiYnXtEfPo8uWV6) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP) | [Lupa Diri](https://open.spotify.com/album/5vpfjjBoO57yoJDhGeO0gF) | 3:01 | 2022-09-01 | 2022-09-16 |
 | [Lupakan Semua](https://open.spotify.com/track/6yDXKoP6W4GuaO9OHux1a1) | [Ray Walters](https://open.spotify.com/artist/2aFbcsgujMtDhvEzKYKdf2) | [Lupakan Semua](https://open.spotify.com/album/7jE9y5tnmW9cV0rNLG7YQe) | 4:27 | 2022-09-29 | 2022-10-14 |
+| [LUSH](https://open.spotify.com/track/5ooReiUZ0DAvkCDmfethNK) | [HAQ](https://open.spotify.com/artist/56UBLpfnOrbIT9MryWZ6GG) | [LUSH](https://open.spotify.com/album/3aYcPGbfpLIZQsaLyhryyo) | 4:49 | 2022-10-13 |  |
 | [Ma Belle](https://open.spotify.com/track/30TS4Ld5TEeobMIlSxldGF) | [Rama Setiawan](https://open.spotify.com/artist/3x4QdbY16rr4lCuW7PSfbO) | [Ma Belle](https://open.spotify.com/album/2zWtzAlGOIboTedpsvN6mh) | 4:51 | 2022-03-24 | 2022-04-15 |
 | [Maaf](https://open.spotify.com/track/6VhtDZV7eHEatBKY8ujkag) | [Alurmaju](https://open.spotify.com/artist/2oCJv9Wf6AUmHdTLbWkODL) | [Maaf](https://open.spotify.com/album/7dXq3k4VknMLT7KFnyV9v1) | 5:04 | 2022-05-05 | 2022-05-20 |
 | [MAAF](https://open.spotify.com/track/0J9MShKahBkKlFushpDLRe) | [Tempo Doeloe](https://open.spotify.com/artist/1LS14GKVzSI2fjIdi0rzaQ) | [MAAF](https://open.spotify.com/album/1MOyP1QKESPVXWkfDPOSIR) | 4:42 | 2022-05-05 | 2022-05-20 |

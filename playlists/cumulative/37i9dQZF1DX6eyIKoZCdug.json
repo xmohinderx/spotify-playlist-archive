@@ -329,10 +329,32 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 288000,
       "name": "Dig Dig",
       "url": "https://open.spotify.com/track/2adtZMj7MVTG9AcV4Z0hxS"
+    },
+    {
+      "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Dig Dig",
+      "url": "https://open.spotify.com/track/7ilCVsvni3DcYP7V1K4amh"
     },
     {
       "album": {
@@ -1461,7 +1483,7 @@
     {
       "album": {
         "name": "Too Sweet (O Dun)",
-        "url": "https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S"
+        "url": "https://open.spotify.com/album/253e0DnC2BETCzs8ukwBkn"
       },
       "artists": [
         {
@@ -1472,6 +1494,24 @@
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216842,
+      "name": "Too Sweet (O Dun)",
+      "url": "https://open.spotify.com/track/1EX1Pke2k6d2ry5XLbDtqE"
+    },
+    {
+      "album": {
+        "name": "Too Sweet (O Dun)",
+        "url": "https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 216842,
       "name": "Too Sweet (O Dun)",
       "url": "https://open.spotify.com/track/2mfWkv1pXb95OtgGDufSSR"

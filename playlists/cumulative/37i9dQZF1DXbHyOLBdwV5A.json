@@ -374,6 +374,28 @@
     },
     {
       "album": {
+        "name": "Em Teus Bra\u00e7os",
+        "url": "https://open.spotify.com/album/46QDV92Y95zImk6yOoEh58"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Renata Pattez",
+          "url": "https://open.spotify.com/artist/2q4zIxOv0rcbqQoulO4trv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201562,
+      "name": "Em Teus Bra\u00e7os",
+      "url": "https://open.spotify.com/track/6n89wXct0e1amNIzsW9NkJ"
+    },
+    {
+      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
@@ -1127,7 +1149,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 171155,
       "name": "Pr\u00edncipe da Paz (feat. Kennto) - Remix",
       "url": "https://open.spotify.com/track/2ViDvuc0g7b2dfB3R96Gis"

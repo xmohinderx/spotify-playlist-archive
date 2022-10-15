@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-319 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
+320 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [La Despedida](https://open.spotify.com/track/5IiNGJpeajwa7B7QuR0FpS) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [La Despedida](https://open.spotify.com/album/3wTWogljdWM0KKN8jhr3gm) | 3:22 | 2021-11-05 | 2022-03-04 |
 | [La Media Vuelta](https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [La Media Vuelta](https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km) | 3:17 | 2021-11-05 |  |
 | [La Música](https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [La Música](https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M) | 4:14 | 2022-04-17 |  |
+| [La Verdad \- Remix](https://open.spotify.com/track/3AH4bfHW8Ni0BnUrWiVHIX) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [La Verdad \(Remix\)](https://open.spotify.com/album/0uaEJlqOsFE9ssc0iNebAz) | 3:17 | 2022-08-27 |  |
 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 | 2022-04-17 | 2022-08-28 |
 | [Latinos](https://open.spotify.com/track/0tLbFnGtKIR37kamt4qiAZ) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Futuro](https://open.spotify.com/album/2M253GMXCAKTKLtm2uGdp2) | 3:23 | 2021-11-05 | 2022-03-18 |
 | [Lente](https://open.spotify.com/track/42jzCcL5qdr1zJxnShsy6M) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Lente](https://open.spotify.com/album/5ERkznsAlQ08Ha962OBMwr) | 3:11 | 2021-11-05 | 2022-04-18 |
@@ -151,7 +152,7 @@
 | [Lo Primero](https://open.spotify.com/track/62wcs7NhqaDGt9PILwW2AG) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Lo Primero](https://open.spotify.com/album/2NaWsKweNrktENSMR12255) | 3:04 | 2022-04-17 | 2022-07-29 |
 | [Lo Tengo](https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Lo Tengo](https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD) | 3:32 | 2022-04-29 |  |
 | [Lo Tengo](https://open.spotify.com/track/2IlZIQwTZkYZMmIYCxPPjP) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Lo Tengo](https://open.spotify.com/album/4xzXbSnPoZC2tGyvErIibP) | 3:32 | 2022-04-17 | 2022-07-29 |
-| [Los Bendigo](https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [La Evolución](https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q) | 2:37 | 2022-04-17 |  |
+| [Los Bendigo](https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [La Evolución](https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q) | 2:37 | 2022-04-17 | 2022-10-15 |
 | [Los Haters](https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS) | [Mesianico](https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Los Haters](https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU) | 2:32 | 2022-04-17 | 2022-09-21 |
 | [Love](https://open.spotify.com/track/7A8j7qaoYsKa38Cvg64AZz) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Antivirus](https://open.spotify.com/album/4w7Slsv9LjzUCJRafERJx7) | 3:31 | 2021-11-05 | 2022-03-18 |
 | [Luna](https://open.spotify.com/track/3rEFHkpVayHvY6wx5Fb7a1) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Luna](https://open.spotify.com/album/6jLDlv6qLUjwVgvcq8h3NB) | 3:20 | 2022-08-27 |  |

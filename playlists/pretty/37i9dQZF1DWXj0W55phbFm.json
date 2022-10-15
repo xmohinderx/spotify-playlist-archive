@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 19047,
+  "num_followers": 19109,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMGZmMTAxMWY4ZjFmODBmYmE3NDgyMGEzZDhkYmU0ZDM2",
+  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMGQ3OTI3MWRjNzZkNDI0NDdlYTM2MzMzYmE2M2I4ODFj",
   "tracks": [
     {
       "added_at": "2022-10-11 14:49:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Here Comes Louis Smith (Remastered)",
-        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
-      },
-      "artists": [
-        {
-          "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
-        }
-      ],
-      "duration_ms": 402546,
-      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+        "name": "Here Comes Louis Smith (Remastered)",
+        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Louis Smith",
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
         }
       ],
-      "duration_ms": 268506,
-      "name": "Comin' Down",
-      "url": "https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx"
+      "duration_ms": 402546,
+      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -915,6 +899,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Comin' Down",
+      "url": "https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Woody III",
-        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Organ Grinder",
-      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Marsalis Standard Time - Volume I",
         "url": "https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 385733,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Woody III",
+        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1279,22 +1263,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Beiderbecke, Bix: Bix Lives! (1926-1930)",
-        "url": "https://open.spotify.com/album/5W97y6BVQ6m3xBrfuL7MUQ"
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
       },
       "artists": [
         {
-          "name": "Bix Beiderbecke",
-          "url": "https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7"
-        },
-        {
-          "name": "Bix Beiderbecke Gang",
-          "url": "https://open.spotify.com/artist/6c0g5bgaTZuztsFItdH0wi"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/2Slpoc7hyJngbrpX0wa3T5"
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1315,6 +1295,26 @@
       "duration_ms": 208240,
       "name": "Squeaky's Blues",
       "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Beiderbecke, Bix: Bix Lives! (1926-1930)",
+        "url": "https://open.spotify.com/album/5W97y6BVQ6m3xBrfuL7MUQ"
+      },
+      "artists": [
+        {
+          "name": "Bix Beiderbecke",
+          "url": "https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7"
+        },
+        {
+          "name": "Bix Beiderbecke Gang",
+          "url": "https://open.spotify.com/artist/6c0g5bgaTZuztsFItdH0wi"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/2Slpoc7hyJngbrpX0wa3T5"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 509373,
-      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 285800,
       "name": "Instigator",
       "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 509373,
+      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "A Rift In Decorum: Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 337893,
       "name": "Response - Live",
       "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1519,30 +1519,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "One Of Many",
-        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wheeler",
-          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
-        },
-        {
-          "name": "John Taylor",
-          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
-        }
-      ],
-      "duration_ms": 359746,
-      "name": "Aneba",
-      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Noir en rouge (Live in Paris)",
         "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
       },
@@ -1571,6 +1547,30 @@
       "duration_ms": 429666,
       "name": "Concentric Circles",
       "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "One Of Many",
+        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wheeler",
+          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        {
+          "name": "John Taylor",
+          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+        }
+      ],
+      "duration_ms": 359746,
+      "name": "Aneba",
+      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "From The Top (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
-      },
-      "artists": [
-        {
-          "name": "Pete Candoli",
-          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
-        }
-      ],
-      "duration_ms": 224103,
-      "name": "Drumette",
-      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Hub-Tones",
         "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 390400,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "From The Top (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Candoli",
+          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
+        }
+      ],
+      "duration_ms": 224103,
+      "name": "Drumette",
+      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        }
+      ],
+      "duration_ms": 418642,
+      "name": "Sweet Peach Tree",
+      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        }
-      ],
-      "duration_ms": 418642,
-      "name": "Sweet Peach Tree",
-      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Big Brass",
         "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
       },
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 448386,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2022-10-11 14:49:50",

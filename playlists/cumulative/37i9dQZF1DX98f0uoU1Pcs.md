@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Pretty Sick
 
-320 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+322 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-14 |  |
 | [Jimmy Neutron](https://open.spotify.com/track/0QQHnDejdUQbpnOhPgyYmE) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Jimmy Neutron](https://open.spotify.com/album/7dBwBWAzcOAJmXma3PeQ5G) | 3:51 | 2022-06-17 |  |
 | [John L](https://open.spotify.com/track/5XtZpzK2QfBCRG93IQznkW) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cavalcade](https://open.spotify.com/album/7AsC27VDa3yOksZrfBSD6D) | 5:13 | 2022-01-07 | 2022-03-12 |
-| [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 |  |
+| [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 | 2022-10-15 |
 | [Just Business](https://open.spotify.com/track/6BcJYG21BoTBFGyAL6kgLI) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Just Business](https://open.spotify.com/album/5D4dwGzMYUMcJDtDSDMffz) | 4:04 | 2021-10-07 | 2022-03-12 |
 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 | 2022-01-07 | 2022-09-20 |
 | [Keep The Lights On Me](https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Keep The Lights On Me](https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ) | 3:47 | 2021-10-07 | 2022-04-29 |
@@ -198,7 +198,7 @@
 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 | 2021-10-07 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-11-05 | 2022-01-08 |
 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-16 |  |
-| [More Than It Hurts You](https://open.spotify.com/track/5DQtZx4cWbuNvHfsTQHcSL) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [More Than It Hurts You](https://open.spotify.com/album/6qtUvdJ3U9u2UYIn6WR4JS) | 3:54 | 2022-07-08 |  |
+| [More Than It Hurts You](https://open.spotify.com/track/5DQtZx4cWbuNvHfsTQHcSL) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [More Than It Hurts You](https://open.spotify.com/album/6qtUvdJ3U9u2UYIn6WR4JS) | 3:54 | 2022-07-08 | 2022-10-15 |
 | [Morning View](https://open.spotify.com/track/7z0ZmNJLTyMKEziFzRTk1l) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Morning View](https://open.spotify.com/album/5y6uzBy9o0NYH9aSy46jNX) | 3:15 | 2022-08-16 |  |
 | [Motel \#27](https://open.spotify.com/track/1Y3ljpiOvGbiXRGo60DMLT) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:48 | 2022-07-08 | 2022-10-01 |
 | [Motel \#27](https://open.spotify.com/track/74e2qzhkn66GvgTLJAicFR) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Motel \#27](https://open.spotify.com/album/5R6iPKAslcZJBhP9r6IqNJ) | 2:48 | 2021-10-07 | 2022-07-29 |
@@ -243,6 +243,7 @@
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-07-08 |  |
 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 | 2022-06-10 | 2022-08-06 |
 | [San Fernando Shadow Blues](https://open.spotify.com/track/2NTZeFqSfijcBrTK5RpOSG) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry) | 3:14 | 2022-06-17 |  |
+| [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 | 2022-10-14 |  |
 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 | 2022-02-25 | 2022-10-01 |
 | [Scratchcard Lanyard](https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [New Long Leg](https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz) | 4:06 | 2022-01-07 | 2022-08-06 |
 | [Searching for You](https://open.spotify.com/track/2GUHbp8MTMsnPbpaEJdyXf) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Weird Nightmare](https://open.spotify.com/album/7vGjC7xBodi7rDb7pnwX4L) | 3:03 | 2022-07-08 |  |
@@ -300,6 +301,7 @@
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-16 | 2022-09-04 |
 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-19 |  |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-08-26 | 2022-09-20 |
+| [Tired Vibes](https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Tired Vibes](https://open.spotify.com/album/5U2iECSjFWm0q26RelJ0yE) | 3:08 | 2022-10-14 |  |
 | [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 |  |
 | [Too Late Now](https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:29 | 2022-06-10 |  |
 | [Treat Me So Bad](https://open.spotify.com/track/2lXiGLiubvktFmadJkYvoA) | [Otherkin](https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX) | [OK](https://open.spotify.com/album/4tYOeXYsu470FQpn7aXk6c) | 3:07 | 2021-10-07 | 2022-04-29 |

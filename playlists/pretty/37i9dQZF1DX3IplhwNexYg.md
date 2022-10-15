@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Wunderhorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,765 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,768 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 29 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 |
 | 30 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 31 | [Dreams](https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Dreams](https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o) | 3:14 |
-| 32 | [Thick of the Honey](https://open.spotify.com/track/0G8KKrqaEyNIHp8yqBLMQE) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/6eOz2VditU3qXKseQ7pcoT) | 2:17 |
-| 33 | [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 |
+| 32 | [Thick of the Honey](https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw) | 2:17 |
+| 33 | [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 |
 | 34 | [End of the World](https://open.spotify.com/track/3kMn5466igLcIipucTOrSt) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [End of the World](https://open.spotify.com/album/14DWK40JwAG6to2t1KpEGK) | 4:15 |
 | 35 | [Commander Trainwreck](https://open.spotify.com/track/5QSX6X9d0wSn6JLWHCrpsR) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/2gcoQ0InYl6g9gjNTDuFmp) | 3:08 |
 | 36 | [Between The Rocks](https://open.spotify.com/track/2FK5khW8jinlrJOy0TWVxM) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Between The Rocks](https://open.spotify.com/album/3JDZzKj3R9MGJEncZLi5ZQ) | 3:31 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 84 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 |
 | 85 | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/album/764Zqu3swQwYLSLz5qftq6) | 4:30 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDNiNjlmMWRhNjA4Mjg5N2NjMDIzZGExODM1MTc4Mzg4`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDVlMWZjMGZkY2RjNDcwZTM0MmNlM2JhNGY4YjMxN2E1`

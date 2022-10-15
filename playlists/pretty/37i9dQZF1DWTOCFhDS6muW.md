@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,123 likes - 38 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,134 likes - 38 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 34 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 |
 | 35 | [Imagenes](https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:15 |
 | 36 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
-| 37 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
-| 38 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
+| 37 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
+| 38 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 
-Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMDY4NjRkOTRlMjdhMmRkOGU0OGQ0ZGEwMjE2NjY2ZWFl`
+Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMGY2YzVlYTE1NzhhMWZkZWFlOTdhYWY0ODAwOGZkZjg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Divorce
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,735 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,890 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 43 | [My Girl Likes](https://open.spotify.com/track/5dTrwACgS2aUqr50KAdYW1) | [Alfie Neale](https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG) | [My Girl Likes](https://open.spotify.com/album/2XQgYUHKJwE8KBxuP4Hhfi) | 2:59 |
 | 44 | [Hoax](https://open.spotify.com/track/2zvVM36NvH377E0p4MvoSN) | [sleepyhead](https://open.spotify.com/artist/2mN0zIDP0EVyzKYCmiS9hD) | [Hoax](https://open.spotify.com/album/74pBjk9zqem2veJTEGI9Ab) | 2:44 |
 | 45 | [Tupperware Party](https://open.spotify.com/track/3ji7qRyfJlMd7iwFnjKeKW) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Tupperware Party](https://open.spotify.com/album/31IWZKt9EsQDDfDUK9meyf) | 4:53 |
-| 46 | [The Enemy](https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/11ZyrIRcdhp4j1IjaozNDR) | 3:08 |
+| 46 | [The Enemy](https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa) | 3:08 |
 | 47 | [Feel Me](https://open.spotify.com/track/6VpkW5Hx1Pn7qZWigHUApF) | [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR) | [Feel Me](https://open.spotify.com/album/1z1gebR1MgtOVOCml4Q1XG) | 3:28 |
-| 48 | [Burning Questions](https://open.spotify.com/track/5jwibtM6x3f8SMSNWY7Ca7) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Burning Questions](https://open.spotify.com/album/4fj6OCEJNaXK31wUbtL80K) | 3:03 |
+| 48 | [Burning Questions](https://open.spotify.com/track/0U0w9e5Uwaz0Xaz8n0yq1l) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Burning Questions](https://open.spotify.com/album/5LeihhqFkY7ZuMO2OAsYcr) | 3:03 |
 | 49 | [Jet Plane 5000](https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK), [Rebekah Fitch](https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6) | [Jet Plane 5000](https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ) | 2:44 |
 | 50 | [Vision](https://open.spotify.com/track/39wW7uJ7JdjjYCcLRgzozF) | [Bakare](https://open.spotify.com/artist/5XjxzHow7IADc0UMEcvxbn) | [Vision](https://open.spotify.com/album/1cwEaB9fdUZbNXGHQlC6hP) | 2:50 |
 | 51 | [Will U?](https://open.spotify.com/track/5P21Hso7pxsKcw8eKD2uSA) | [Marika](https://open.spotify.com/artist/4FmPYAalf626cq25ZfwbG4) | [Will U?](https://open.spotify.com/album/1cQOGRO6hvQmK1HSNz8WTU) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [go try](https://open.spotify.com/track/12qBV7gzIJ9QVWiAdO5MDY) | [petal boy](https://open.spotify.com/artist/0ZPEyvYITWMAedn4Wtx0mr) | [go try](https://open.spotify.com/album/5aiFK7YdNdJrY2v2qahmBz) | 2:20 |
 | 80 | [Time](https://open.spotify.com/track/6pgVOGVTieiaFKjwm21sj7) | [The Redroom](https://open.spotify.com/artist/4qZOiL7Zg2SqD2zLxU6nDr) | [Time](https://open.spotify.com/album/3Rt39vK5b06MCI9rGS4DjO) | 3:28 |
 
-Snapshot ID: `MTY2NTU1NDQwMCwwMDAwMDAwMGUwZmU1ZTQ0ZjUxMzVkMTEyMzZiODNlNWYyZmM0OWQ1`
+Snapshot ID: `MTY2NTU1NDQwMCwwMDAwMDAwMDE3N2NmYzM4OTczZTE0OWY4OWIwNjY1NzNmNGJhZWEz`

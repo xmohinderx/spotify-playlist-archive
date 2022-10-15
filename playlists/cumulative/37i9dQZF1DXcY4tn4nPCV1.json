@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/0LjEawGHQt8fln9x6FkG4b"
+      },
+      "artists": [
+        {
+          "name": "Morunas",
+          "url": "https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140681,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/1NNxb9HgLDdGvrq4aIfaH0"
+    },
+    {
+      "album": {
         "name": "Aftontimma",
         "url": "https://open.spotify.com/album/0GUcfgnAq4LSrBPAUG92qC"
       },
@@ -1542,6 +1560,28 @@
     },
     {
       "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/4VX3JpR132r6qBSe5F9F4E"
+      },
+      "artists": [
+        {
+          "name": "Holly Jones",
+          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
+        },
+        {
+          "name": "Astrid Sky",
+          "url": "https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138831,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/2zePaAERT1cj4MZKRtsiYt"
+    },
+    {
+      "album": {
         "name": "Higo",
         "url": "https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0"
       },
@@ -1863,6 +1903,42 @@
       "duration_ms": 175058,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/4TJ7yhDcJvODuiWbnsZrxt"
+    },
+    {
+      "album": {
+        "name": "Je t'ai vu",
+        "url": "https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X"
+      },
+      "artists": [
+        {
+          "name": "Projet Calmant",
+          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180030,
+      "name": "Je t'ai vu",
+      "url": "https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8"
+    },
+    {
+      "album": {
+        "name": "Je vous ai trouv\u00e9",
+        "url": "https://open.spotify.com/album/2u9QYGFP25RUHD19s0rd4e"
+      },
+      "artists": [
+        {
+          "name": "Verney P\u00e9pin",
+          "url": "https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140505,
+      "name": "Je vous ai trouv\u00e9",
+      "url": "https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C"
     },
     {
       "album": {
@@ -2644,6 +2720,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1 sestra",
+        "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
+      },
+      "artists": [
+        {
+          "name": "Jani Lechleiter",
+          "url": "https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125055,
+      "name": "M\u00e1 sestra",
+      "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
+    },
+    {
+      "album": {
         "name": "M\u00e9canique",
         "url": "https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa"
       },
@@ -2839,6 +2933,24 @@
       "duration_ms": 186500,
       "name": "Open Mind Open Heart",
       "url": "https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA"
+    },
+    {
+      "album": {
+        "name": "Open Thoughts",
+        "url": "https://open.spotify.com/album/7v1vAxGArRuuXSSshwjA1X"
+      },
+      "artists": [
+        {
+          "name": "Cedric Grey",
+          "url": "https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170187,
+      "name": "Open Thoughts",
+      "url": "https://open.spotify.com/track/3yO3vslrpSAPNFnWuKh2x3"
     },
     {
       "album": {
@@ -3073,6 +3185,24 @@
       "duration_ms": 199287,
       "name": "Piha",
       "url": "https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy"
+    },
+    {
+      "album": {
+        "name": "Play You a Song",
+        "url": "https://open.spotify.com/album/4xjr0robvMhlBsvkmTorbN"
+      },
+      "artists": [
+        {
+          "name": "Yichu Ann Chen",
+          "url": "https://open.spotify.com/artist/6ZKZfb4BMulwGKbB6XBcds"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Play You a Song",
+      "url": "https://open.spotify.com/track/0uK4AAlSHrO037pClTccfp"
     },
     {
       "album": {
@@ -3706,6 +3836,24 @@
     },
     {
       "album": {
+        "name": "Silent sky",
+        "url": "https://open.spotify.com/album/5Tn1LjIS50nbr4oNRCOBdF"
+      },
+      "artists": [
+        {
+          "name": "Kiara Leonard",
+          "url": "https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132937,
+      "name": "Silent sky",
+      "url": "https://open.spotify.com/track/7jOC9bmHMZ5m4S1ZDAYgzn"
+    },
+    {
+      "album": {
         "name": "Silentness",
         "url": "https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ"
       },
@@ -3901,6 +4049,24 @@
       "duration_ms": 172500,
       "name": "Stay here",
       "url": "https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ"
+    },
+    {
+      "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/4GvGyLV8AzmiAtgbS3NBhe"
+      },
+      "artists": [
+        {
+          "name": "Mima Renard",
+          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145058,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/2STinkqXpJg7A6Hh7TS3ck"
     },
     {
       "album": {

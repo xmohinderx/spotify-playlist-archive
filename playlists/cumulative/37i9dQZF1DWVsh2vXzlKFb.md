@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-285 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
+286 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Close To You](https://open.spotify.com/track/6SQJyYv6qZHhneGddKRdT0) | [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Jsdrmns](https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l) | [Close To You](https://open.spotify.com/album/40FZJu1z9sHJD8qYLqifUm) | 2:44 | 2022-03-24 | 2022-04-21 |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2022-07-14 | 2022-10-13 |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-08-13 | 2022-07-29 |
+| [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2022-08-25 |  |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2021-08-13 |  |
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-08-13 |  |
 | [Come Around \(Sunny Day\)](https://open.spotify.com/track/2lRqxdx0l9emxWfFHwYTmJ) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Come Around \(Sunny Day\)](https://open.spotify.com/album/3hArdcJ7gO3sb2Wp546QfH) | 2:52 | 2022-06-10 | 2022-07-29 |
@@ -267,7 +268,7 @@
 | [Up To Something](https://open.spotify.com/track/1GcVyRrHS4g76on0l09DpX) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Up To Something](https://open.spotify.com/album/5m6zW9ofJz4uH2ZLfdlx8H) | 3:32 | 2022-07-14 | 2022-07-28 |
 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 | 2022-06-10 | 2022-07-09 |
 | [wachito rico](https://open.spotify.com/track/0OYf62rdwDouKohtCALD55) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:34 | 2021-08-13 |  |
-| [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2022-03-22 |  |
+| [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2022-03-22 | 2022-10-15 |
 | [Want](https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Want](https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf) | 4:24 | 2021-08-13 | 2022-06-21 |
 | [Wasting Time](https://open.spotify.com/track/6TTD2b8DnGfv6HwitYu0hE) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Wasting Time](https://open.spotify.com/album/2pIuUTvKlHTajz5skj8a2a) | 2:47 | 2021-08-13 | 2022-07-26 |
 | [Watch Me Break Apart](https://open.spotify.com/track/2Jz1wxAIf1GMP4Zamk79En) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Watch Me Break Apart](https://open.spotify.com/album/6kjvqn8olE0GLWe3vSzOrF) | 3:55 | 2021-08-13 | 2022-05-11 |

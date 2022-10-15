@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-115 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+117 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adwarmance \- The Wetlands](https://open.spotify.com/track/3wXpfT2eIV1HScP3UU2vIF) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [The Wetlands](https://open.spotify.com/album/2eBxYJQfDK8XNK4IwQ9uCD) | 3:40 | 2022-05-25 |  |
 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 | 2022-05-25 |  |
 | [Angelic Harmony](https://open.spotify.com/track/5LfG3nuryC9SQ1KUtKSjUq) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 3:02 | 2022-05-25 |  |
+| [At One With Nature](https://open.spotify.com/track/3ex5KMu8ncO5iDWzAObPMy) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [At One With Nature](https://open.spotify.com/album/55FaUwYwc5gOqYc0Mtm5ua) | 2:53 | 2022-10-14 |  |
 | [Atmospheric](https://open.spotify.com/track/4p5uqijQA8OV5DjyYKeVCD) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmospheric](https://open.spotify.com/album/0aawXx5LA6NQfE3a7BBbzj) | 1:36 | 2022-05-25 |  |
 | [Avenoir](https://open.spotify.com/track/2uAfciE7VqSEgakqkY5z0J) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Avenoir](https://open.spotify.com/album/3foIWfeetCI1u7WwKCQWyZ) | 2:54 | 2022-05-25 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2022-05-25 | 2022-07-16 |
@@ -87,6 +88,7 @@
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2022-05-25 |  |
 | [Plain Water](https://open.spotify.com/track/0Xic6q8uMVdaI7QOTlbIqQ) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Project Gayā](https://open.spotify.com/album/6Iz5qEsZN5rB962SlPlOm7) | 3:46 | 2022-05-25 |  |
 | [Planet X](https://open.spotify.com/track/1VtyLawVwNXPAZAfkxxGrt) | [Cafia](https://open.spotify.com/artist/0euoBJrICwz0xXf5UCemWh) | [Planet X](https://open.spotify.com/album/5odMYG74StGRhjLZQAXRe7) | 2:58 | 2022-05-25 |  |
+| [Pompeiana Waters](https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana Waters](https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ) | 2:54 | 2022-10-14 |  |
 | [Quechee](https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y) | [Stig Dahl](https://open.spotify.com/artist/3MYCekQ5MCvigzegvwg0Vt) | [Quechee](https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL) | 3:50 | 2022-05-25 |  |
 | [Rain Spirit](https://open.spotify.com/track/3lrkbRgRSxQFXlJRz2PbK7) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Rain Spirit](https://open.spotify.com/album/3mkEeKRZoNrsIDvUp8h3X0) | 2:36 | 2022-05-25 |  |
 | [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/track/4oetcmOX3Se7HSEzFuymZ4) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/album/5DE6bYPWsWnnSYfDRTXIf6) | 3:09 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Maella
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,255 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,254 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 18 | [Love Stayed With Me](https://open.spotify.com/track/56RHNouupvzg1nbKkXlDsD) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Lila](https://open.spotify.com/album/5RgZJWdZUJmxDrHoavId7i) | 3:06 |
 | 19 | [Animal](https://open.spotify.com/track/1guMgGOENhgW76OGn4DUj5) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [HEARTBREAK CULTURE](https://open.spotify.com/album/0h4ltIAXfZL6eknfLjgAfX) | 3:12 |
 | 20 | [Slovo \- From "Slovo"](https://open.spotify.com/track/0vYWJ3nfHrac9jDDB6BLvA) | [Lenka Dusilová](https://open.spotify.com/artist/3VbN94vOm46nI5TTJgnKtI), [Vojtech Dyk](https://open.spotify.com/artist/5v4vIRZAtZLAeOgXzy5cQP) | [Slovo \(From "Slovo"\)](https://open.spotify.com/album/3ytJKacarJhKLDqmXjo6QO) | 3:41 |
-| 21 | [Soil](https://open.spotify.com/track/3AHHbXEjjpPkQA8ETetnaV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Soil](https://open.spotify.com/album/3JWcZrU8fUvGYitKKnf6Va) | 2:38 |
+| 21 | [Soil](https://open.spotify.com/track/0EDd5Iv2S0E2KJ6XRAilAy) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Soil](https://open.spotify.com/album/6Y6YJAyqnXnPsoUovF2xqo) | 2:38 |
 | 22 | [S odvahou vlka](https://open.spotify.com/track/4hOVPDlBdL52LPG9kYAEGr) | [Sabina Krovakova](https://open.spotify.com/artist/1RwXX8h0gMVqZvEq1kU2lm) | [S odvahou vlka](https://open.spotify.com/album/5otvLoQQSV8rAdxm1IIHGn) | 3:13 |
 | 23 | [Letní Lásky](https://open.spotify.com/track/7gHWVmb1xtGI8u64AWieWL) | [Annie](https://open.spotify.com/artist/67IQhB57JST5EyO2UrLssN) | [Letní Lásky](https://open.spotify.com/album/3sM1Nvb1uidmQ4ghlIoXU6) | 2:52 |
 | 24 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Different Kind](https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr) | [Nikita Kingston](https://open.spotify.com/artist/3AQCll40tEdIjzCdEOQHXQ) | [Different Kind](https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh) | 3:12 |
 | 50 | [Pohoda jazz](https://open.spotify.com/track/76FKtbVayqE0BXUCm2j0rm) | [Naty Hrychová](https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3) | [Pohoda jazz](https://open.spotify.com/album/3IrYmzYAiUT9C6JkzdDmp3) | 3:04 |
 
-Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMDIyOWY0NDUyOGQwYTcxMmQwM2RlNDA1NTBlODQ1Mzg0`
+Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMGIyNzMxYmNiYzVkYTAyYmY3ZWRkMjI0ZjgzZTQ4OWMw`

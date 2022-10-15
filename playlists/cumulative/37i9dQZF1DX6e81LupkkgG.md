@@ -2,9 +2,9 @@
 
 ### [Friozinho](https://open.spotify.com/playlist/37i9dQZF1DX6e81LupkkgG)
 
-> Músicas aconchegantes para aquecer a alma nos dias frios\. Foto: Khalid
+> Músicas aconchegantes para aquecer a alma nos dias frios.
 
-172 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+173 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,10 +167,11 @@
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2022-02-18 |  |
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-18 |  |
 | [Wide Awake](https://open.spotify.com/track/70BaFHsIiw4NcypR0zNaJr) | [Laura Bretan](https://open.spotify.com/artist/0Y6f7SArenwsTGRonkDGj0) | [Wide Awake](https://open.spotify.com/album/0ZhlU8Cu7KdZNNYJcYKWwB) | 3:33 | 2022-02-18 | 2022-03-17 |
-| [Wild World \- Re\-Imagined](https://open.spotify.com/track/2iJdQgMbl6jhqtN6pmsWZU) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Wild World \(Re\-Imagined\)](https://open.spotify.com/album/6tPacSl3dOTBjRgu1dvv4t) | 3:34 | 2022-10-07 |  |
+| [Wild World \- Re\-Imagined](https://open.spotify.com/track/2iJdQgMbl6jhqtN6pmsWZU) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Wild World \(Re\-Imagined\)](https://open.spotify.com/album/6tPacSl3dOTBjRgu1dvv4t) | 3:34 | 2022-10-07 | 2022-10-15 |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2022-02-18 |  |
 | [Words Ain't Enough](https://open.spotify.com/track/5hFGGQukKw4vKgxRg3KeBC) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/22Q7rFTYQyqwcgmpNJbjrP) | 2:04 | 2022-02-18 | 2022-07-29 |
 | [Words Ain't Enough](https://open.spotify.com/track/6BSDpXlm2gtorEzoH4RNHw) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:04 | 2022-07-22 |  |
+| [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-14 |  |
 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 | 2022-02-18 |  |
 | [You Are The Reason](https://open.spotify.com/track/2VgJDTfkuwlm7WIHnvtRCQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/7svCjsI5rs6xm58d82z5Pl) | 3:24 | 2022-02-18 | 2022-07-29 |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2022-07-22 |  |

@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-203 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+205 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 | 2022-01-14 | 2022-03-15 |
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-12-20 | 2022-07-19 |
 | [Portuguese Knives](https://open.spotify.com/track/2xiaqtvivM2PUPpSVqaIw6) | [Lost Love](https://open.spotify.com/artist/5IAbKA1N8YXggDLpdheaVh) | [Portuguese Knives](https://open.spotify.com/album/7sbcjY48QJNHxzOjEOnxRK) | 1:40 | 2021-12-20 | 2022-03-01 |
+| [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 | 2022-10-13 |  |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-18 |  |
 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 | 2022-07-04 |  |
 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 | 2022-08-25 |  |
@@ -153,7 +154,8 @@
 | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/track/1GlaDUecMXdHig5D1tgY8p) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/album/2d28oUb7mIuWnjuZk7TSE2) | 2:33 | 2021-12-20 | 2022-09-10 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 | 2022-02-21 | 2022-07-29 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:19 | 2022-07-18 |  |
-| [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 | 2022-10-13 |  |
+| [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 | 2022-10-13 | 2022-10-15 |
+| [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 | 2022-10-13 |  |
 | [sarah jessica parker](https://open.spotify.com/track/42FjlGrFOZ958Dj0ctpqkr) | [Summer Heights](https://open.spotify.com/artist/2LAH4zTDmnodSIEEl6T1Ku) | [sarah jessica parker](https://open.spotify.com/album/5dvS4MtkUSjmWAVxP3xYHk) | 3:16 | 2021-12-20 | 2022-01-15 |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2022-09-29 |  |
 | [Say Yes](https://open.spotify.com/track/0w8aZyDeFw67itdrjqy6O3) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Say Yes](https://open.spotify.com/album/41rZSLcBmbZS9FsvEDcNYI) | 2:38 | 2021-12-20 | 2022-09-10 |

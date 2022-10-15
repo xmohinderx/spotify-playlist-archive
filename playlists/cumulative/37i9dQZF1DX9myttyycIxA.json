@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Sorry",
+  "description": "Underground indie rock gems. Cover: Runnner",
   "name": "undercurrents",
   "published_playlist_ids": [
     "4XA1SOQIX98lp2gcRgRzUr"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 159981,
       "name": "1TL2DU4 (Feat. girlpuppy)",
       "url": "https://open.spotify.com/track/3kNe7jhyAX4swhKqBM6KJK"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 249930,
       "name": "2007",
       "url": "https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8"
@@ -310,7 +310,7 @@
       "artists": [
         {
           "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "url": "https://open.spotify.com/artist/7ieMNoNgTOt4EoE1VQOlrB"
         },
         {
           "name": "Atwood",
@@ -320,7 +320,7 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192414,
+      "duration_ms": 147966,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq"
     },
@@ -2613,7 +2613,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 231120,
       "name": "Cujo Kiddies",
       "url": "https://open.spotify.com/track/4pRuTo2NDiLE8HTPv9VpNE"
@@ -4109,7 +4109,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 147000,
       "name": "Freight Yard",
       "url": "https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO"
@@ -5096,6 +5096,24 @@
     },
     {
       "album": {
+        "name": "billboard for my feelings",
+        "url": "https://open.spotify.com/album/56ItE1DkjSUDT9WmjW8WHs"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Hide - Instrumental",
+      "url": "https://open.spotify.com/track/1LaSaxGG7c2o7gBlVPAKax"
+    },
+    {
+      "album": {
         "name": "Swan",
         "url": "https://open.spotify.com/album/2WNatU5Euq27Fc9lrte3KI"
       },
@@ -5631,6 +5649,24 @@
       "duration_ms": 159124,
       "name": "I Miss That",
       "url": "https://open.spotify.com/track/40yDp3u7EFOZvCNy0vgF6N"
+    },
+    {
+      "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
     },
     {
       "album": {
@@ -6561,7 +6597,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 163693,
       "name": "Know Completely",
       "url": "https://open.spotify.com/track/737eGDyMecWKeNpYSgBiBJ"
@@ -6705,7 +6741,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210489,
       "name": "Let Me Hate",
       "url": "https://open.spotify.com/track/1GgP54v1bcv3FfswJ1cJZU"
@@ -7700,6 +7736,24 @@
     },
     {
       "album": {
+        "name": "no worries",
+        "url": "https://open.spotify.com/album/0YZABvfm3F0e9wSo5HMCTG"
+      },
+      "artists": [
+        {
+          "name": "Human Barbie",
+          "url": "https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "no worries",
+      "url": "https://open.spotify.com/track/2iI7C0lkcSU0lpxq29JLLB"
+    },
+    {
+      "album": {
         "name": "Nobody Waits",
         "url": "https://open.spotify.com/album/3JETkmpBQ8Sp7mqVVu4bzC"
       },
@@ -7787,6 +7841,24 @@
       "duration_ms": 184000,
       "name": "nothing to do",
       "url": "https://open.spotify.com/track/4LkMLBc3HDYi7lQsaeq7C7"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/2L5u7oVg5oIoSk0a11Ef7g"
+      },
+      "artists": [
+        {
+          "name": "Little Guilt",
+          "url": "https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192046,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/0WwPT9bZCwOlqaj2G7Pojr"
     },
     {
       "album": {
@@ -8244,6 +8316,28 @@
     },
     {
       "album": {
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG"
+    },
+    {
+      "album": {
         "name": "Pls",
         "url": "https://open.spotify.com/album/5nAYqQTnaU48kSylS4lFzw"
       },
@@ -8569,7 +8663,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 300000,
       "name": "reasons",
       "url": "https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC"
@@ -8699,7 +8793,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 178972,
       "name": "Ronnie",
       "url": "https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo"
@@ -8789,7 +8883,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 183960,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR"
@@ -9446,6 +9540,24 @@
     },
     {
       "album": {
+        "name": "Some Things Never Change",
+        "url": "https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4"
+      },
+      "artists": [
+        {
+          "name": "Priestgate",
+          "url": "https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217870,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC"
+    },
+    {
+      "album": {
         "name": "Someone to Love",
         "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
       },
@@ -9749,7 +9861,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 215318,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o"
@@ -11423,10 +11535,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 161040,
       "name": "Violent",
       "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
+    },
+    {
+      "album": {
+        "name": "Meet Me at the Gloaming",
+        "url": "https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK"
+      },
+      "artists": [
+        {
+          "name": "A.O. Gerber",
+          "url": "https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Walk in the Dark",
+      "url": "https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe"
     },
     {
       "album": {
@@ -11881,6 +12011,24 @@
       "duration_ms": 202802,
       "name": "You Are a Runner and I Am My Father's Son",
       "url": "https://open.spotify.com/track/5MUBfoCUmCLpGgqvvi3ool"
+    },
+    {
+      "album": {
+        "name": "Quiet the Room",
+        "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188175,
+      "name": "You are my House",
+      "url": "https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr"
     },
     {
       "album": {

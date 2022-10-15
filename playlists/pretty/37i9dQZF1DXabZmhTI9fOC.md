@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,919 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,923 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 27 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/7iogzI63n0krNMjNDDvo48) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/5TsOq6NsaIaEvq676QTIvf) | 2:51 |
 | 28 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
 | 29 | [This Year's Love](https://open.spotify.com/track/5WaeGIKHjPftV4gcoDRmaI) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [This Year's Love](https://open.spotify.com/album/1xfhaxi2p8iW1LJ8RxsIUx) | 3:44 |
-| 30 | [If Love Is a Gun](https://open.spotify.com/track/36bkD8bm12O4AabO9kYJRP) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [If Love Is a Gun](https://open.spotify.com/album/1OBhRRfnkYOcPAgSUDrQDn) | 3:41 |
+| 30 | [If Love Is a Gun](https://open.spotify.com/track/03xV3ebbI1fZMq0sLL2sbi) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [If Love Is a Gun](https://open.spotify.com/album/2OYInbdA0LPyLlAubjhJE4) | 3:41 |
 | 31 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
 | 32 | [Want Me Like That](https://open.spotify.com/track/0yYfFxknXxcxNbCPmPSenF) | [dzill](https://open.spotify.com/artist/0aeSR9F60KayCEJQsBIQ5D) | [Want Me Like That](https://open.spotify.com/album/1Kw43zJte9DGhZV1Wizp4M) | 2:47 |
 | 33 | [Fly Another Night](https://open.spotify.com/track/13szSjVyBPmZMjR6PT0xug) | [Julianne Hope](https://open.spotify.com/artist/2ToMcwd6c1EfzUi9LMyNSP) | [Fly Another Night](https://open.spotify.com/album/79VOj3qx6UTutw6yrVLQ0u) | 3:37 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 39 | [King Is Born](https://open.spotify.com/track/42oDlc0uKug0m43EKnqqJV) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [King Is Born](https://open.spotify.com/album/0LqqjetVFpcMh5dpHxaSKc) | 3:11 |
 | 40 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
 | 41 | [OK Not To Be OK](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [OK Not To Be OK](https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2) | 2:39 |
-| 42 | [Honeymoon Phase](https://open.spotify.com/track/1MfySlDz4KVR2re96y4WF7) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Honeymoon Phase](https://open.spotify.com/album/1ni7569njFsd9Txac3J0zB) | 4:06 |
+| 42 | [Honeymoon Phase](https://open.spotify.com/track/2oMMNaeDXtpiQ9KNgIg0Mp) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Honeymoon Phase](https://open.spotify.com/album/3juRcm088xxR1J8zwEzTQp) | 4:06 |
 | 43 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 |
 | 44 | [Selfish](https://open.spotify.com/track/4PV0uE5pZSh44E3NqNNDEH) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Selfish](https://open.spotify.com/album/5oGJKFb3M2At4rwLBDFlTP) | 3:43 |
 | 45 | [Like We Used To](https://open.spotify.com/track/1hg3f4wLfa6vD8M3tBkqFm) | [Friends At The Falls](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Be The Change](https://open.spotify.com/album/3KgzhcNSixTtFIPGoJk3Qg) | 3:14 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDllZTE2MzFjZTc1YTg2NWYyMzE2MTA5MWNiNzI4YjU3`
+Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDZmZDYxYzUwNzBiNTUxN2I1YjVhZGJjMzU5MTg2ZGRl`

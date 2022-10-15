@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-159 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+160 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blanket on the Ground](https://open.spotify.com/track/0fNVf87epF7g8qTtAozihN) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt), [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Come See Me and Come Lonely](https://open.spotify.com/album/606eNhfSHz9jVyyoVZ9p85) | 3:50 | 2021-10-15 |  |
 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 | 2022-02-11 | 2022-07-29 |
 | [Blue Bonnet Breeze](https://open.spotify.com/track/0wSRvzs3I0Dig07ejN2jiZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 5:19 | 2022-07-22 |  |
+| [Bobby's Going Crazy Again](https://open.spotify.com/track/05OA2DSIjJN8xPMAnjpMv2) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Bobby's Going Crazy Again](https://open.spotify.com/album/5RSxdRljXMRcVKm8ghUbLj) | 2:28 | 2022-10-14 |  |
 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 | 2021-10-15 |  |
 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/6SewJZC2f9ETwJR2zZWkOP) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot...Brand New Man/Believe](https://open.spotify.com/album/0BNJ0USnQIvtEdWYmooZ8q) | 3:10 | 2021-10-15 | 2022-07-29 |
 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 | 2022-07-22 |  |

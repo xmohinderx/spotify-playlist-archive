@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-233 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+234 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Fever](https://open.spotify.com/track/3La5HUF1nBwTVCWjwOpEmz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Fever](https://open.spotify.com/album/5IoORLuEpBsvIfCALa0rim) | 3:56 | 2021-07-16 |  |
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-07-16 |  |
 | [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 |  |
-| [Flowers](https://open.spotify.com/track/0Ys9zkCKuGpBO9wHBG30Jj) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/0T7mEuUdWxVECRH3LIt4EE) | 2:19 | 2021-07-16 |  |
+| [Flowers](https://open.spotify.com/track/0Ys9zkCKuGpBO9wHBG30Jj) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/0T7mEuUdWxVECRH3LIt4EE) | 2:19 | 2021-07-16 | 2022-10-15 |
+| [Flowers](https://open.spotify.com/track/1i888NGaVHKEZX8ooyKMJv) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/769s0o4Q4cWxhN3cJUYnHS) | 2:19 | 2021-07-16 |  |
 | [Flowers](https://open.spotify.com/track/6bQx6qOENXNZOg404fDD3U) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Flowers](https://open.spotify.com/album/1TuLZxWiU277r6sk4ZZkIz) | 2:19 | 2021-07-16 | 2022-07-29 |
 | [For You](https://open.spotify.com/track/50bMSujg47Xc9LRuy6Xra9) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [Then I Try Some More](https://open.spotify.com/album/5BAoM2lFRqmdcPVJaZTHZ2) | 2:07 | 2021-07-16 | 2022-07-24 |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2021-07-16 |  |

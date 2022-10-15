@@ -4,7 +4,7 @@
 
 > Relax with this Peaceful Indie Ambient mix.
 
-211 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
+212 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Regenerative Being](https://open.spotify.com/track/1Rz3x1bF09JeEj2cTWH2mg) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Regenerative Being](https://open.spotify.com/album/6XEnKjyRl2J16ViEVwLent) | 7:21 | 2018-11-26 | 2022-07-29 |
 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 | 2018-11-26 |  |
 | [Sapsorrow](https://open.spotify.com/track/2JMQgYjMgCM2I8RTC4BU9b) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Lungs Quicken](https://open.spotify.com/album/2HK44OdvH7XiGLDo0BGlvN) | 2:53 | 2018-11-26 | 2022-07-28 |
-| [Save Me \- Skeleton Mix](https://open.spotify.com/track/1t6QtgCmzFzfmeDkSa530b) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [It's Alright / Save Me](https://open.spotify.com/album/17p4MoyfCn8VcNiPktFNmJ) | 4:09 | 2018-11-26 |  |
+| [Save Me \- Skeleton Mix](https://open.spotify.com/track/1t6QtgCmzFzfmeDkSa530b) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [It's Alright / Save Me](https://open.spotify.com/album/17p4MoyfCn8VcNiPktFNmJ) | 4:09 | 2018-11-26 | 2022-10-15 |
 | [Save Me \- Skeleton Mix](https://open.spotify.com/track/6INlCF3Ru7CqLnIf2GNKKC) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [Save Me \(Skeleton Mix\)](https://open.spotify.com/album/5ZVarZLlOmGvC1dTvyfNWt) | 4:09 | 2018-11-26 | 2022-07-29 |
 | [Scenescof](https://open.spotify.com/track/3ZY8cSF7Xy6BDZo8GpQfv2) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Scenescof](https://open.spotify.com/album/3rkipOsGRgmHfcxydgwlAr) | 2:36 | 2020-10-15 |  |
 | [Silent from Above](https://open.spotify.com/track/04ohpWQHENREA5pmiIvrNB) | [Mirrorring](https://open.spotify.com/artist/2M8pAavH6JayxeN0HfQzBv) | [Foreign Body](https://open.spotify.com/album/15OVBQYlldnAnwLnEywCJA) | 4:58 | 2018-11-26 | 2022-07-28 |
@@ -167,6 +167,7 @@
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2018-11-26 |  |
 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 | 2018-11-26 | 2022-07-29 |
 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 | 2018-11-26 | 2022-10-13 |
+| [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2018-11-26 |  |
 | [Sometime](https://open.spotify.com/track/5eIEPFGkfKt4IgCfuSWoUu) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [Sometime](https://open.spotify.com/album/53DZ5iCzju9lqG0mh54rKK) | 3:08 | 2018-11-26 | 2022-07-29 |
 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 | 2018-11-26 |  |
 | [St.Marie](https://open.spotify.com/track/2SmPtJR4MG7k9H4IhXOyiI) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St.Marie](https://open.spotify.com/album/49ZxsMev6T1HY6tOE1PT2a) | 2:29 | 2018-11-26 | 2022-07-29 |

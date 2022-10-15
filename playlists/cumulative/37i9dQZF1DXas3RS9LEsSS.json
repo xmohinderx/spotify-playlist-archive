@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Que Pena",
+        "url": "https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv"
+      },
+      "artists": [
+        {
+          "name": "Bender Bucowski",
+          "url": "https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172898,
+      "name": "Que Pena",
+      "url": "https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB"
+    },
+    {
+      "album": {
         "name": "Pappo's Blues, Vol.8: Caso Cerrado",
         "url": "https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5"
       },

@@ -551,7 +551,7 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 128793,
@@ -2839,7 +2839,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 188307,
       "name": "Blue Spirits",
       "url": "https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B"
@@ -3207,7 +3207,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 164706,
       "name": "Boys Who Kiss You In Their Car",
       "url": "https://open.spotify.com/track/0mFM1XxrkVkKTmuzwwa2IO"
@@ -3869,7 +3869,7 @@
           "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180935,
@@ -6029,6 +6029,42 @@
       "duration_ms": 284578,
       "name": "Dionne (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
+    },
+    {
+      "album": {
+        "name": "ap vol. I",
+        "url": "https://open.spotify.com/album/36BzRzxO8gAWRzbM9M0fMe"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151556,
+      "name": "dirty laundry",
+      "url": "https://open.spotify.com/track/3YqR8e9TdO83Hq0a3MwlEE"
+    },
+    {
+      "album": {
+        "name": "Shades Of Indigo",
+        "url": "https://open.spotify.com/album/2MZigZKrCrvDzLK2BQIYEF"
+      },
+      "artists": [
+        {
+          "name": "Lynnea M",
+          "url": "https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175501,
+      "name": "Disgustingly Perfect",
+      "url": "https://open.spotify.com/track/3TyqbrNobEQI53qfkYiBTV"
     },
     {
       "album": {
@@ -8314,6 +8350,24 @@
     },
     {
       "album": {
+        "name": "Fucking Married",
+        "url": "https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193248,
+      "name": "Fucking Married",
+      "url": "https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu"
+    },
+    {
+      "album": {
         "name": "all the things that could go wrong",
         "url": "https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H"
       },
@@ -9353,7 +9407,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
@@ -10545,7 +10599,7 @@
           "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235093,
@@ -10981,7 +11035,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 137210,
       "name": "I Gotta I Gotta",
       "url": "https://open.spotify.com/track/2pKLhfqiY6yD1tZWlbE3tQ"
@@ -12549,6 +12603,24 @@
       "duration_ms": 188676,
       "name": "Keepintouch",
       "url": "https://open.spotify.com/track/6tZ7kmyy0FhG9Ksx6oX2rb"
+    },
+    {
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5lNsa5iKyqspfNLp3BOHKB"
+      },
+      "artists": [
+        {
+          "name": "Max Leone",
+          "url": "https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/4jrlqSONOaNg5QNU1Zc8Nb"
     },
     {
       "album": {
@@ -16777,7 +16849,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 142829,
       "name": "One More Weekend",
       "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
@@ -18019,7 +18091,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 159417,
       "name": "pretty kids",
       "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
@@ -18483,7 +18555,7 @@
           "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194800,
@@ -20779,7 +20851,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 158476,
       "name": "stars",
       "url": "https://open.spotify.com/track/1Gk59qaFLA8KzfYk9UUOTH"
@@ -21979,7 +22051,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 203076,
       "name": "SYT",
       "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
@@ -22631,7 +22703,7 @@
           "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157570,

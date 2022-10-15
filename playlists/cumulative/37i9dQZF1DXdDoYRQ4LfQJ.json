@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "The hottest corridos in the US! Bien Al Tiro con Fuerza Regida, Los Gemelos de Sinaloa & Calle 24",
+  "description": "The hottest corridos in the US! Bien Al Tiro con Luis R Conriquez, Peso Pluma. ",
   "name": "Al Tiro",
   "published_playlist_ids": [
     "4NUSWCdJAi5DEcSry3A1Ae"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 180324,
       "name": "El Pelo Chino",
       "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
@@ -3242,6 +3242,24 @@
     },
     {
       "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180271,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+    },
+    {
+      "album": {
         "name": "Sencillo Soy",
         "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
       },
@@ -3459,7 +3477,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 205627,
       "name": "Soy Nacido En LA",
       "url": "https://open.spotify.com/track/4upkNwyr8C3WvglPL6xXqw"

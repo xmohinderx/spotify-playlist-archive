@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favorite punks. Cover: jxdn",
-  "num_followers": 34022,
+  "num_followers": 34024,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMDYzMzFkMWU3NDE0MDZjZGQ0MGRlOTAzMWJkMDYwZjEx",
+  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMDc2OGM3NGJmMjJkNTA1NGIzNzU0ZThlNWFiZjQyZWM5",
   "tracks": [
     {
       "added_at": "2021-11-19 13:39:50",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+        "name": "Maybe Memories",
+        "url": "https://open.spotify.com/album/1jnsarG7BdXCoxvIAejkbJ"
       },
       "artists": [
         {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 132637,
-      "name": "You\u2019re a Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
+      "duration_ms": 174893,
+      "name": "Alone This Holiday - Recorded for KROQ",
+      "url": "https://open.spotify.com/track/2JeHW3MNfFLHxmVjfJ40LN"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Maybe Memories",
-        "url": "https://open.spotify.com/album/1jnsarG7BdXCoxvIAejkbJ"
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Alone This Holiday - Recorded for KROQ",
-      "url": "https://open.spotify.com/track/2JeHW3MNfFLHxmVjfJ40LN"
+      "duration_ms": 132637,
+      "name": "You\u2019re a Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "\u2026And A Happy New Year",
-        "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Mr. Winter",
-      "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Somewhere in My Memory",
         "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
       },
@@ -859,22 +843,34 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "It's Christmas And I Fucking Miss You",
-        "url": "https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn"
+        "name": "\u2026And A Happy New Year",
+        "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
       },
       "artists": [
         {
-          "name": "Charly Bliss",
-          "url": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
-        },
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 161083,
-      "name": "It's Christmas And I Fucking Miss You",
-      "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
+      "duration_ms": 201640,
+      "name": "Mr. Winter",
+      "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 182286,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -895,18 +891,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+        "name": "It's Christmas And I Fucking Miss You",
+        "url": "https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn"
       },
       "artists": [
         {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "Charly Bliss",
+          "url": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
+        },
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 182286,
-      "name": "Grandma Got Run Over By A Reindeer",
-      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
+      "duration_ms": 161083,
+      "name": "It's Christmas And I Fucking Miss You",
+      "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "The Human Highlight Reel",
-        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
-      },
-      "artists": [
-        {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Decemberism",
-      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "December's Here",
         "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Stoke Extinguisher",
-        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
+        "name": "The Human Highlight Reel",
+        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
         }
       ],
-      "duration_ms": 139133,
-      "name": "New Year's Revolution",
-      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
+      "duration_ms": 184880,
+      "name": "Decemberism",
+      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1067,6 +1051,22 @@
       "duration_ms": 183466,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Stoke Extinguisher",
+        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "New Year's Revolution",
+      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1099,22 +1099,6 @@
       "duration_ms": 86386,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Father Christmas",
-      "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1195,6 +1179,22 @@
       "duration_ms": 216115,
       "name": "Snow",
       "url": "https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
     },
     {
       "added_at": "2021-11-19 13:39:50",

@@ -4,7 +4,7 @@
 
 > Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-108 songs - 8 hr 32 min - not published yet
+109 songs - 8 hr 35 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baatein Kuch Ankahee Si \- Unplugged](https://open.spotify.com/track/4yWEl7boNZlIUQ32enHCsi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Suhail Kaul](https://open.spotify.com/artist/42jgHGbOryNOmlSgJPGljN) | [Life In A Metro \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6leYdBPs1XzfUgpc8xgeSi) | 4:18 | 2022-03-24 |  |
 | [Bahara](https://open.spotify.com/track/1gwO79MdYdumgIjxq8eCxB) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 5:25 | 2021-10-19 |  |
 | [Bahara \- Chill Version](https://open.spotify.com/track/0495XdT8Vts83c6D62srGw) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 4:04 | 2022-08-26 |  |
+| [Bahara X](https://open.spotify.com/track/0BlKsjU5Md37Z1CZ6UY6bT) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Bahara X](https://open.spotify.com/album/23TvDnvBF4D7pZrzWQ4WGm) | 2:47 | 2022-10-14 |  |
 | [Bandeya \(feat\. Arijit Singh\) \- From "Dil Juunglee"](https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Bandeya \(feat\. Arijit Singh\) \[From "Dil Juunglee"\]](https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h) | 3:04 | 2021-07-28 |  |
 | [Barso Re](https://open.spotify.com/track/32DWojMZeZebVrfBkhAkKy) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Uday Mazumdar](https://open.spotify.com/artist/6VWjZcB6nolKvE74s0ds7M) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 5:29 | 2022-06-28 |  |
 | [Bheegi Bheegi Raaton Mein \- Refresh Version](https://open.spotify.com/track/0iJoj3HdKhkZKudoOSw4TF) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY) | [Bheegi Bheegi Raaton Mein \(Refresh Version\)](https://open.spotify.com/album/1pjna2sDF6BR19Nte8drUW) | 3:50 | 2022-08-01 |  |

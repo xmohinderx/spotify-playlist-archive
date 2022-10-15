@@ -2396,6 +2396,24 @@
     },
     {
       "album": {
+        "name": "Human Scum",
+        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275419,
+      "name": "Human Scum",
+      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
+    },
+    {
+      "album": {
         "name": "The Shadowthrone",
         "url": "https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V"
       },
@@ -3507,7 +3525,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 281443,
       "name": "Nosferatu",
       "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"

@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-210 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+212 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 | 2022-04-08 |  |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2022-06-21 |
 | [Barbaridad](https://open.spotify.com/track/5I8icolCLnyGH6KceHWwlE) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [Barbaridad](https://open.spotify.com/album/5rmeyjO9VebVcGDei9BSwg) | 6:23 | 2022-04-08 | 2022-07-16 |
+| [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 | 2022-10-14 |  |
 | [Besos de Mentira](https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe) | 4:18 | 2022-07-08 |  |
 | [Besos de Mentira](https://open.spotify.com/track/6mw673LImrCKhhaSuREN77) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/59YXxHDuctzI9DD49Or8yb) | 4:18 | 2022-04-08 | 2022-07-29 |
 | [Bichos / Vicious](https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Loumania](https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8) | 2:58 | 2022-04-08 | 2022-07-26 |
@@ -107,6 +108,7 @@
 | [Libido](https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm) | [María Tyrana](https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu) | [Libido](https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr) | 2:55 | 2022-04-08 |  |
 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/2bQn1ATsEIWwswbsPpOrp9) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida de Perros](https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4) | 3:56 | 2022-04-08 |  |
 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23) | 4:00 | 2022-04-08 |  |
+| [Lo Nuestro](https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Lo Nuestro](https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz) | 1:53 | 2022-10-14 |  |
 | [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 | 2022-04-08 | 2022-07-29 |
 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 | 2022-04-08 | 2022-07-17 |
 | [Lo Que Haces](https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Uno](https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi) | 3:52 | 2022-04-08 |  |
@@ -114,7 +116,7 @@
 | [Lo Veo Gris](https://open.spotify.com/track/0RHVYiUSPutbG3sjRjemeI) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Lo Veo Gris](https://open.spotify.com/album/4PF0nXE8q8UbDMYOlhbCsE) | 4:07 | 2022-04-08 | 2022-07-29 |
 | [Locura Espacial](https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Rindanse Terricolas](https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS) | 3:03 | 2022-04-08 |  |
 | [Los Demás](https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Chocadito](https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2) | 4:45 | 2022-04-08 |  |
-| [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 |  |
+| [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 | 2022-10-15 |
 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 | 2022-04-08 |  |
 | [Luna Amarilla](https://open.spotify.com/track/4p3ztBZL2hIwDpaERqjQVB) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Luna Amarilla](https://open.spotify.com/album/6q9cTnFyVu2c0b4XvGolg4) | 2:54 | 2022-04-08 | 2022-07-25 |
 | [Mala Fama](https://open.spotify.com/track/0t0uZpS1A6jXkUilUlVRVp) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Mala Fama](https://open.spotify.com/album/2zuZybH0KHlQ3X2rETX7zN) | 4:08 | 2022-04-08 |  |
@@ -129,7 +131,7 @@
 | [Mi Destino](https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Glup](https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9) | 3:25 | 2022-04-08 |  |
 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 | 2022-04-08 |  |
 | [Milagro](https://open.spotify.com/track/4IbgQmI6Pwh7fchypm4EEW) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Milagro](https://open.spotify.com/album/43Qds07LHMxKUDjTJ6N57L) | 3:33 | 2022-04-08 |  |
-| [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 | 2022-04-08 |  |
+| [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 | 2022-04-08 | 2022-10-15 |
 | [Morada](https://open.spotify.com/track/6KQeXWaC0MW1w7Csykf1ME) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Morada](https://open.spotify.com/album/7jlHr6be9TdEtZtfDQsnWn) | 4:37 | 2022-04-08 | 2022-07-29 |
 | [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 | 2022-04-08 |  |
 | [Mágico](https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Éxitos Chilenos](https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw) | 3:07 | 2022-07-08 |  |

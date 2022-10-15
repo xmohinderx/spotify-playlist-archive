@@ -4,7 +4,7 @@
 
 > groovy.
 
-113 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
+114 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Cecil Taylor](https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Fanfare](https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z) | 6:30 | 2021-10-08 |  |
 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 | 2021-10-08 | 2022-07-29 |
 | [Cosmic American Blues](https://open.spotify.com/track/4S057bezdn8681JCxHCUfc) | [OJR](https://open.spotify.com/artist/3BxLJvBTizcXZfwkydW2oT) | [Cosmic American Blues](https://open.spotify.com/album/5QorcySCg1FnehS2GM7aHA) | 4:09 | 2021-10-08 | 2022-07-29 |
-| [Defection](https://open.spotify.com/track/0bXJRygxrZNviJXpQiPGDE) | [Nixon Mask](https://open.spotify.com/artist/3qd7SVOfNjhMKmIOqDRbDC) | [BBQ Downer](https://open.spotify.com/album/0b4JcLGhZ4ePAFHejnYyUO) | 4:44 | 2022-07-22 |  |
+| [Defection](https://open.spotify.com/track/0bXJRygxrZNviJXpQiPGDE) | [Nixon Mask](https://open.spotify.com/artist/3qd7SVOfNjhMKmIOqDRbDC) | [BBQ Downer](https://open.spotify.com/album/0b4JcLGhZ4ePAFHejnYyUO) | 4:44 | 2022-07-22 | 2022-10-15 |
 | [Defection](https://open.spotify.com/track/6o6tIXVvITarKUoU8kKpOY) | [Nixon Mask](https://open.spotify.com/artist/3qd7SVOfNjhMKmIOqDRbDC) | [Defection](https://open.spotify.com/album/4NKAlFl6tzcsuRmW0D9xPw) | 4:44 | 2021-10-08 | 2022-07-29 |
 | [Do What Feeds Your Soul](https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Do What Feeds Your Soul](https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw) | 2:35 | 2022-07-22 |  |
 | [Domino](https://open.spotify.com/track/4UPVhpMIAuTUS6NDaEajXI) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Domino](https://open.spotify.com/album/5nXc9eJPrasJL63AxYDMS6) | 4:03 | 2021-10-08 | 2022-07-29 |
@@ -81,6 +81,7 @@
 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 | 2021-10-08 |  |
 | [Out The Door](https://open.spotify.com/track/3qQhgP33KDnEdF1XdVJGwK) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [There Will Come Soft Rains](https://open.spotify.com/album/4hfr4fU8gI3kqxgY9Exx0o) | 2:14 | 2021-10-08 | 2022-07-29 |
 | [Pain](https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Pain](https://open.spotify.com/album/1hTVL3pZnKaEUCKHWmZGoP) | 3:39 | 2021-10-08 | 2022-07-29 |
+| [Partition](https://open.spotify.com/track/2zoJ9SMaicLiQc22enBTII) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 6:03 | 2022-10-14 |  |
 | [Pretty Bird](https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 3:46 | 2021-10-08 | 2022-07-18 |
 | [Pretty Little Lazies](https://open.spotify.com/track/48TSuxtSV3nLsHLbwSw2UY) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Destroyer](https://open.spotify.com/album/6i91Krcop9ZJeTzPLqhPZO) | 4:58 | 2021-10-08 | 2022-07-29 |
 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 | 2021-10-08 |  |

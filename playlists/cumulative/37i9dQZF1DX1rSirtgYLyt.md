@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-87 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+88 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 | 2022-06-24 |  |
 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 | 2022-06-24 |  |
 | [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 | 2022-06-24 |  |
+| [The Sky Is Crying](https://open.spotify.com/track/5F1PDuoQ9ajtBnKAPVOqT4) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Stax Profiles: Albert King](https://open.spotify.com/album/5QeVc1L4mudB1lsTNeeiGL) | 4:11 | 2022-10-14 |  |
 | [There's A Bright Side Somewhere](https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [River Of Time](https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU) | 2:59 | 2022-06-24 |  |
 | [Tom Cat Blues](https://open.spotify.com/track/3XPY2HNMUsCPXOGKWXcPQn) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/2bj1nmObmKUBAYmznB3crd) | 3:03 | 2022-06-24 | 2022-07-29 |
 | [Tom Cat Blues](https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r) | 3:03 | 2022-07-08 |  |

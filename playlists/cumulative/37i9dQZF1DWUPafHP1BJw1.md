@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-139 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
+141 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Morning Has Broken](https://open.spotify.com/track/4TaDnIQ6UmD8BW07VCH0ie) | [Rick Wakeman](https://open.spotify.com/artist/0mkcYaXUbJUs5mJointuzB) | [Piano Portraits](https://open.spotify.com/album/1Yo5LUdLUSn2fwNgYFEebf) | 3:41 | 2021-11-19 | 2022-05-07 |
 | [Moves Like Jagger](https://open.spotify.com/track/4GI6DgHjcyThFVotaMepa4) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Moves Like Jagger](https://open.spotify.com/album/236GnBMmPj4RzbhhpADljT) | 2:58 | 2021-11-19 | 2022-01-05 |
 | [My Gift Is My Song \(Single Edit\): Your Song / Goodbye Yellow Brick Road](https://open.spotify.com/track/257EJQlyUhELc7VqoBqMcx) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [My Gift Is My Song](https://open.spotify.com/album/3bGTshvqxl7igqEbBuFlW4) | 3:53 | 2022-03-25 |  |
-| [Never Enough \(From "The Greatest Showman"\)](https://open.spotify.com/track/3Lq1M8hjMMK5a2L0brZUsy) | [Justin Paul](https://open.spotify.com/artist/31k3xHULLQ3baqc2yNf0ic), [Jenny Oaks Baker](https://open.spotify.com/artist/6u6cDYW0wy9KRhsuyUadVb), [The Shadow Mountain Symphony](https://open.spotify.com/artist/4YLMkJaoIMy481Gf4n5UdX) | [Epic](https://open.spotify.com/album/6MTmVRcfXZS1Ri4yQT9Gv9) | 3:33 | 2021-11-19 |  |
+| [Never Enough \(From "The Greatest Showman"\)](https://open.spotify.com/track/3Lq1M8hjMMK5a2L0brZUsy) | [Justin Paul](https://open.spotify.com/artist/31k3xHULLQ3baqc2yNf0ic), [Jenny Oaks Baker](https://open.spotify.com/artist/6u6cDYW0wy9KRhsuyUadVb), [The Shadow Mountain Symphony](https://open.spotify.com/artist/4YLMkJaoIMy481Gf4n5UdX) | [Epic](https://open.spotify.com/album/6MTmVRcfXZS1Ri4yQT9Gv9) | 3:33 | 2021-11-19 | 2022-10-15 |
+| [Never Enough \(From "The Greatest Showman"\)](https://open.spotify.com/track/3hz0FkSMzk9lvBqmYwiOIC) | [Justin Paul](https://open.spotify.com/artist/31k3xHULLQ3baqc2yNf0ic), [Jenny Oaks Baker](https://open.spotify.com/artist/6u6cDYW0wy9KRhsuyUadVb), [The Shadow Mountain Symphony](https://open.spotify.com/artist/4YLMkJaoIMy481Gf4n5UdX) | [Epic](https://open.spotify.com/album/6rsxJNPhDo0ABe5PYYk43u) | 3:33 | 2022-10-14 |  |
 | [Never Gonna Give You Up \(feat\. Simply Three\)](https://open.spotify.com/track/4TijaNZQchZj9E86WK5jSH) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Our Flashback Wedding](https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo) | 3:54 | 2021-11-19 | 2022-05-14 |
 | [Nightcall \- From "Drive"](https://open.spotify.com/track/3BCe21LqWVOWWDfHjuoeeR) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Nightcall \(From "Drive"\)](https://open.spotify.com/album/3j4Luk2uwaiahexJJUIioz) | 3:01 | 2021-11-19 |  |
 | [No Time to Die](https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT) | [Queenz of Piano](https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz) | [No Time to Die](https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr) | 2:21 | 2021-11-19 |  |
@@ -146,6 +147,7 @@
 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 | 2021-11-19 |  |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-19 |  |
 | [Yesterday Once More](https://open.spotify.com/track/19qP5vtDpeJEcSNb38HiJc) | [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n) | [Yesterday Once More](https://open.spotify.com/album/3yDYZd5HRXPfwR4B7wJl6n) | 3:20 | 2021-11-19 |  |
+| [You Are The Reason](https://open.spotify.com/track/4o7NgKeVcNZeyGR27FOtPs) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [You Are The Reason](https://open.spotify.com/album/2lCk8Gp0JgIAsqAqDNIGyi) | 3:27 | 2022-10-14 |  |
 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 | 2022-03-30 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

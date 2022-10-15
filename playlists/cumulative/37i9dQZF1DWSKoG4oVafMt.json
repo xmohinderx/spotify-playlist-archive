@@ -2516,6 +2516,24 @@
     },
     {
       "album": {
+        "name": "Duawan",
+        "url": "https://open.spotify.com/album/4WVcXIgE0dPcBZIGpiyFQI"
+      },
+      "artists": [
+        {
+          "name": "Pav Dharia",
+          "url": "https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Duawan",
+      "url": "https://open.spotify.com/track/6B3Ky26cKgdW3bsqarkmX0"
+    },
+    {
+      "album": {
         "name": "Dupatta Tera Satrang Da (Cover Version)",
         "url": "https://open.spotify.com/album/6bF6K2aCqiPPn7BgMuKOCj"
       },

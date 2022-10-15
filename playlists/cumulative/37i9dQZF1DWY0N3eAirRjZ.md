@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
-61 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
+62 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Poliahu](https://open.spotify.com/track/1ID6ZAYyyWb8HUwrhenIZl) | [Teresa Bright](https://open.spotify.com/artist/6zsIn96BUt3FjnorApFEH2) | [A Gallery](https://open.spotify.com/album/6BOkerDmpyiUNm8PaOc25k) | 4:22 | 2022-05-02 |  |
 | [Popoki Slack Key](https://open.spotify.com/track/6oipvFEyEy8DQS9dGKQ5wS) | [Ray Kane](https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR) | [Wa'ahila](https://open.spotify.com/album/2EIWZ57Tbsd1RLdFVKRoSw) | 2:42 | 2022-05-02 |  |
 | [Popoki Slack Key \- Instrumental](https://open.spotify.com/track/63Fq2OlIJKdNK1kSl54iv5) | [Ray Kane](https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR) | [Wa\`ahila](https://open.spotify.com/album/5Uw3em9fZbu9FYvGzIbbq3) | 2:42 | 2022-05-02 | 2022-07-29 |
+| [Prisoner of Love](https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/5kDBvjhGj56MWI1hjG6PCk) | 4:20 | 2022-10-14 |  |
 | [Pua Hone](https://open.spotify.com/track/2Y579kQwREtBRxOzelmCGJ) | [The Brothers Cazimero](https://open.spotify.com/artist/7oFAub69yHYo7cJVlTK4Zb) | [Hoala](https://open.spotify.com/album/6hSkHQVlc7e8Y1J70iDONh) | 3:44 | 2022-05-02 |  |
 | [Pua Kukui](https://open.spotify.com/track/3Zc3GJyUPUotDpXWfzt2kJ) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby Pahinui Hawaiian Band, Vol\. 2](https://open.spotify.com/album/6ZKOm6EM2prCwhhtSSxD05) | 3:54 | 2022-05-02 |  |
 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 | 2022-05-02 |  |

@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: FKA Twigs
 
-298 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+300 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2022-02-21 |  |
 | [Avant Gardener](https://open.spotify.com/track/2tM5AwrKDhvW8LDJ8F5lk4) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/026cA6KDDycBWn56lPF9a5) | 5:12 | 2021-11-15 | 2022-07-29 |
 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 | 2021-11-15 | 2022-07-28 |
-| [Baby Pillz](https://open.spotify.com/track/7uxlLKlY5FIYymJF3tU7ai) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:27 | 2022-09-29 |  |
+| [Baby Pillz](https://open.spotify.com/track/1PVH01aOkNQ6PzxT4Lqtfm) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/73rCTj22iO75ygdt5uoj31) | 2:27 | 2022-09-29 |  |
+| [Baby Pillz](https://open.spotify.com/track/7uxlLKlY5FIYymJF3tU7ai) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:27 | 2022-09-29 | 2022-10-15 |
 | [Back to the Middle](https://open.spotify.com/track/77hmyDdKIn5JmAJmWp6264) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Monomania](https://open.spotify.com/album/68gYjtaIWlvCscoxuCqAiZ) | 2:36 | 2022-02-21 | 2022-06-24 |
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2022-02-21 |  |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2022-02-21 | 2022-10-14 |
@@ -258,7 +259,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/4g3Ax56IslQkI6XVfYKVc5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/0rxKf57PZvWEoU8v3m5W2q) | 3:36 | 2021-11-15 | 2022-07-15 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-02-21 |  |
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2021-11-15 |  |
-| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 |  |
+| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 | 2022-10-15 |
 | [The Mother We Share](https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD) | 3:11 | 2022-02-21 | 2022-07-26 |
 | [The Night Josh Tillman Came To Our Apt.](https://open.spotify.com/track/3Xg2iQGIZuqV0vjzisyzq0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 3:36 | 2022-02-21 | 2022-07-14 |
 | [The Others](https://open.spotify.com/track/7B03rbWrOQtbjzpxMPAzoi) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Reasons To Dream](https://open.spotify.com/album/1CZX30Fm8HRRlSKm30qyu2) | 3:57 | 2022-02-21 | 2022-06-21 |
@@ -284,6 +285,7 @@
 | [Wakin on a Pretty Day](https://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/2imxOfDIDk2voAYCZP88u2) | 9:30 | 2021-11-15 | 2022-07-29 |
 | [Walrus](https://open.spotify.com/track/7lbkMraoYo4Lop0rSwdzCV) | [D.D Dumbo](https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR) | [Utopia Defeated](https://open.spotify.com/album/2HFzHGB6jiMSRdrODrk83s) | 3:10 | 2021-11-15 | 2022-07-28 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-02-21 | 2022-10-13 |
+| [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-09-29 |  |
 | [We Used to Wait](https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:01 | 2022-02-21 | 2022-07-23 |
 | [Weekend](https://open.spotify.com/track/0tMrhzihI4NuFUKWHJv3RM) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/60ibpZMH9GFX5hQWd53UgE) | 3:20 | 2022-02-21 | 2022-05-25 |
 | [What's It All For?](https://open.spotify.com/track/2Y28HmBMyRrCgL0PTbkP7O) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [What's It All For?](https://open.spotify.com/album/2r3dPQxGEa9YiErCWHV5on) | 4:11 | 2022-02-21 | 2022-06-18 |

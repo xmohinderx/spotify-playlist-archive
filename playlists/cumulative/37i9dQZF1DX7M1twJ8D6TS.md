@@ -4,7 +4,7 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-153 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
+154 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 | 2021-12-10 |  |
 | [Honky Tonk in Heaven](https://open.spotify.com/track/3LYSQ5CHv7qyuPA4PK3MUL) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Honky Tonk in Heaven](https://open.spotify.com/album/6blKYRGQnBEQcX9niF4QZW) | 3:59 | 2021-04-16 |  |
 | [Honky Tonk On](https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Red Dirt Texas](https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28) | 3:26 | 2021-10-08 |  |
-| [Horses in Heaven](https://open.spotify.com/track/5ymisOfkphZPfkPGd2l5Df) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/2oBVd4wvuvjmWmNVkG4l3Q) | 4:07 | 2022-03-18 |  |
+| [Horses in Heaven](https://open.spotify.com/track/3IQqdI9Z4th4c7TcFwTdS7) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8) | 4:07 | 2022-05-27 |  |
+| [Horses in Heaven](https://open.spotify.com/track/5ymisOfkphZPfkPGd2l5Df) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/2oBVd4wvuvjmWmNVkG4l3Q) | 4:07 | 2022-03-18 | 2022-10-15 |
 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 | 2021-09-03 |  |
 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 | 2021-07-16 |  |
 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 | 2021-10-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,554 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,910 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 14 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
 | 15 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
 | 16 | [Feel Alive](https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Lone / Feel Alive](https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG) | 3:18 |
-| 17 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
-| 18 | [Darkest Hour](https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Darkest Hour \[UKF10\]](https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh) | 4:45 |
+| 17 | [Darkest Hour](https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Darkest Hour \[UKF10\]](https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh) | 4:45 |
+| 18 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
 | 19 | [This Feeling](https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [This Feeling](https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH) | 4:21 |
 | 20 | [Fire](https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Matisse](https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV) | [Fire](https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3) | 4:20 |
 | 21 | [Holding On](https://open.spotify.com/track/4iBXsLZwRBV2qwiz29s5by) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Holding On](https://open.spotify.com/album/4KLxuKqdInrzo8HEPGUgTo) | 2:44 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 35 | [Badman](https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Badman](https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot) | 2:39 |
 | 36 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 |
 | 37 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 |
-| 38 | [HOT DRUM](https://open.spotify.com/track/0gcPFlSLjkVqz84RcDhyJk) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [HOT DRUM](https://open.spotify.com/album/4mIPs9KZN79m1Gjx97rs3E) | 4:26 |
-| 39 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 |
+| 38 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 |
+| 39 | [HOT DRUM](https://open.spotify.com/track/0gcPFlSLjkVqz84RcDhyJk) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [HOT DRUM](https://open.spotify.com/album/4mIPs9KZN79m1Gjx97rs3E) | 4:26 |
 | 40 | [Gang](https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule) | [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU) | [Gang](https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf) | 4:31 |
 | 41 | [Sentient \- Joe Ford Remix](https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8) | [Droptek](https://open.spotify.com/artist/4Pn0zmbERg32YIOjl2nOQf), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Symbiosis Remixed Part 1](https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U) | 4:46 |
 | 42 | [Take You Down](https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Take You Down / Melange](https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Think About Me](https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Think About Me](https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT) | 4:40 |
 | 50 | [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 |
 
-Snapshot ID: `MTY2NTY5MDgyNywwMDAwMDAwMGU4ZDZhMjE1ZTEyMDU2Y2JlNzFhNWM0ZmZkMTc4Yzc2`
+Snapshot ID: `MTY2NTc3MTQwMSwwMDAwMDAwMGZlZDRlMjI1MDE3ZWFkZjI2NDNiNzVhM2E2YzZlNmE5`

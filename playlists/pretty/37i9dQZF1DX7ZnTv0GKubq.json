@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 335370,
+  "num_followers": 335390,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE1ODU1MiwwMDAwMDAwMGE3Y2NkMzQ0MzNjYTQ1NjIwMmY1YzA3NGE1OTQ4Zjdj",
+  "snapshot_id": "MTY2MTE1ODU1MiwwMDAwMDAwMDExNDU2NDJkMGMyMDlmNjRmNzUyOWU3NGU0NjZiZDE1",
   "tracks": [
     {
       "added_at": "2022-08-22 08:55:52",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
+        "name": "Isolation Tapes",
+        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "Plastic Plants",
+      "url": "https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Isolation Tapes",
-        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "Plastic Plants",
-      "url": "https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
         "name": "New Light",
         "url": "https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 151791,
       "name": "New Light",
       "url": "https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
     },
     {
       "added_at": "2022-08-22 08:55:52",

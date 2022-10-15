@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-118 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+119 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lyin' Low](https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lyin' Low](https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4) | 4:18 | 2022-01-28 |  |
 | [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 | 2022-01-28 |  |
 | [Mercy](https://open.spotify.com/track/4w0QzyomWJrHmSTa5e4ewe) | [Zelly](https://open.spotify.com/artist/1qM5w3OHdjYkPRQi7pKM4F) | [Mercy EP](https://open.spotify.com/album/5vz8G9TxA2WmQuiClujyp8) | 3:09 | 2022-01-28 |  |
+| [Middle of a Heart](https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Middle of a Heart](https://open.spotify.com/album/5vzJc5UkAhd1GZvJpM0ODL) | 4:00 | 2022-10-14 |  |
 | [New Light](https://open.spotify.com/track/3eTXEabmUmHcTbx6d9u1nq) | [Ava Earl](https://open.spotify.com/artist/4PouHBQ1thPvzhfP1LsSAQ) | [The Roses](https://open.spotify.com/album/1Qr5eJnPsGtPRVliGuqkTI) | 3:24 | 2022-01-28 |  |
 | [No More Candy](https://open.spotify.com/track/1TRwhlZHJVd6kgFu1SgzQ7) | [Cash & Skye](https://open.spotify.com/artist/0ZwK1LsLZvFbhLU6OycrhO) | [No More Candy](https://open.spotify.com/album/2o0u8HkyHrQfy4mrD3JZjJ) | 2:50 | 2022-01-28 |  |
 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 | 2022-01-28 |  |
@@ -107,7 +108,7 @@
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 |  |
 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2022-01-28 |  |
-| [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 | 2022-01-28 |  |
+| [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 | 2022-01-28 | 2022-10-15 |
 | [Sunk Like a Stone](https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Sunk Like a Stone](https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb) | 3:45 | 2022-01-28 |  |
 | [Surfboard](https://open.spotify.com/track/6vOCld6YP52WjVal0LoVii) | [Dave Hause](https://open.spotify.com/artist/6b58ZzXRHPakxMhPx7xHAx) | [Surfboard](https://open.spotify.com/album/77NueVTYdHXbx8bmZ5EoIf) | 3:14 | 2022-01-28 |  |
 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 | 2022-01-28 |  |

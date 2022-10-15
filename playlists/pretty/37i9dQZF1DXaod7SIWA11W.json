@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Tasha Cobbs Leonard",
-  "num_followers": 26058,
+  "num_followers": 26141,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU3Mzk3NiwwMDAwMDAwMDk0MmE1NTc5NzZiMGI4Mzc3MDdjMWE3YTk0MmEwODg4",
+  "snapshot_id": "MTY2NDU3Mzk3NiwwMDAwMDAwMDE5ZmJjNjM3ZDNmZjZlNzk4ZGIyODU3ZDFmYTlhMDA0",
   "tracks": [
     {
       "added_at": "2022-09-30 21:39:36",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Wrong About You (Live)",
-        "url": "https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 393306,
-      "name": "Wrong About You (Live)",
-      "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "CALL",
         "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 160000,
       "name": "CALL",
       "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
+        "name": "Wrong About You (Live)",
+        "url": "https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 393306,
+      "name": "Wrong About You (Live)",
+      "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 140554,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 189009,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "The End.",
-        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 140554,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 235994,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "Easy!",
         "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 235994,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "Lift Me Again (Acoustic)",
         "url": "https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
-      },
-      "artists": [
-        {
-          "name": "Matthews Ntlele",
-          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 397297,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
+      },
+      "artists": [
+        {
+          "name": "Matthews Ntlele",
+          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "Take Me to the Fire",
+        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 182552,
+      "name": "Take Me to the Fire",
+      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "Prosper (Remix)",
         "url": "https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 190588,
       "name": "Prosper (Remix)",
       "url": "https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "Take Me to the Fire",
-        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 182552,
-      "name": "Take Me to the Fire",
-      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
     },
     {
       "added_at": "2022-09-30 21:39:36",

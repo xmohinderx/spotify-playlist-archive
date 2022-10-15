@@ -74,6 +74,32 @@
     },
     {
       "album": {
+        "name": "All Night (feat. Scott Mac)",
+        "url": "https://open.spotify.com/album/10AgnqPReiWVrEG3TKCZ3j"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "C-BooL",
+          "url": "https://open.spotify.com/artist/67VM1TW9hWE9hlVYcmioaH"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "All Night (Radio Edit) (feat. Scott Mac)",
+      "url": "https://open.spotify.com/track/0mXl1OxRJosurefeFAncD6"
+    },
+    {
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -3369,7 +3395,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"

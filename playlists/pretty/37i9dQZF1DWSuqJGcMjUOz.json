@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2110,
+  "num_followers": 2109,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDAzMTY3OGUwN2VmZDAxODRhMzQ5ZjljMmI4YTc4MDRk",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDg0MjNjMTQ4MTQzZWZjMzY3MDlkNmQzOWEwNTdmOTJl",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "COUCOU",
-        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
-      },
-      "artists": [
-        {
-          "name": "Mathieu B\u00e9rub\u00e9",
-          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
-        }
-      ],
-      "duration_ms": 238060,
-      "name": "JOS\u00c9PHINE",
-      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "H\u00e9doniste",
         "url": "https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 199073,
       "name": "H\u00e9doniste",
       "url": "https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "COUCOU",
+        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
+      },
+      "artists": [
+        {
+          "name": "Mathieu B\u00e9rub\u00e9",
+          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
+        }
+      ],
+      "duration_ms": 238060,
+      "name": "JOS\u00c9PHINE",
+      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 149226,
       "name": "Entre mes jambes",
       "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sablier",
-        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
-      },
-      "artists": [
-        {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
-        }
-      ],
-      "duration_ms": 146866,
-      "name": "Perdu",
-      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Avec les yeux",
         "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 211706,
       "name": "Masque d'or",
       "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sablier",
+        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "Perdu",
+      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
-      },
-      "artists": [
-        {
-          "name": "Comment Debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "\u00c9lectro-Vacances",
         "url": "https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 186128,
       "name": "Amazone (feat. Laurence Camille)",
       "url": "https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+      },
+      "artists": [
+        {
+          "name": "Comment Debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
     },
     {
       "added_at": "2022-05-25 18:00:00",

@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-231 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+232 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2021-11-12 |  |
 | [Embers](https://open.spotify.com/track/5narWdetexXv1ucBDuZJfO) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [E M B E R S: Ch\. 2](https://open.spotify.com/album/0HzOvrhMs78v5rqBqhXLCD) | 3:10 | 2021-11-12 | 2022-07-21 |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-12 |  |
+| [Fault Line](https://open.spotify.com/track/3sThVFtOmlfOUh3yE2ObQd) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [The Space Between](https://open.spotify.com/album/3RDaPTTnQLcL2HuI5HQb2s) | 3:07 | 2022-10-14 |  |
 | [Feel the Night](https://open.spotify.com/track/0FeMcfh8VQJGqwxA43wDfV) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Feel the Night](https://open.spotify.com/album/5wlRaLX971FI816pA5ubb7) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Feels](https://open.spotify.com/track/5bk2qz4ydMCEBhNONsaRGZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Easy](https://open.spotify.com/album/5NhzKPy0eiRmH3PfOsGmtF) | 3:26 | 2021-11-12 | 2022-07-06 |
 | [Feels](https://open.spotify.com/track/6x7WJwbHiNoCKoKtGWawsZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Easy](https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX) | 3:26 | 2022-03-12 |  |
@@ -192,7 +193,7 @@
 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 | 2021-11-12 | 2022-07-27 |
 | [Sword from the Stone](https://open.spotify.com/track/1EGqBPvJRNtBNTuwO3wT3S) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sword from the Stone \(Gingerbread Mix\)](https://open.spotify.com/album/47uaVUQDYHtEKt6zQpzulP) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-03-12 |  |
-| [Ten Steps Back](https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:27 | 2022-03-12 |  |
+| [Ten Steps Back](https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:27 | 2022-03-12 | 2022-10-15 |
 | [Ten Steps Back](https://open.spotify.com/track/2lBi4wDhV3TQZOWIcHfq62) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Tender feat\. Yoke Lore](https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Tender feat\. Yoke Lore](https://open.spotify.com/album/0YEXWeaZ335jOntWXoFbia) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [The Future of an End](https://open.spotify.com/track/3aGkfDKhQBWj5KYJraBI8c) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/3VClaRmW4RzpKst551M1Bk) | 4:10 | 2021-11-12 | 2022-07-29 |

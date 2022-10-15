@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 161632,
       "name": "Embrazando",
       "url": "https://open.spotify.com/track/5CfabusnRCoAHPYUheMg3u"
@@ -980,6 +980,28 @@
     },
     {
       "album": {
+        "name": "Lealdade",
+        "url": "https://open.spotify.com/album/3UVCBgMLJwuPuujCg6tm6G"
+      },
+      "artists": [
+        {
+          "name": "Clara Dalua",
+          "url": "https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Lealdade",
+      "url": "https://open.spotify.com/track/02qzKn3hIHuPL7jf1gxZY6"
+    },
+    {
+      "album": {
         "name": "Leonina",
         "url": "https://open.spotify.com/album/4u2kqsIlaDICKs1SpSoa5Y"
       },
@@ -1363,7 +1385,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 155428,
       "name": "N.S.D.P",
       "url": "https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR"
@@ -1645,6 +1667,32 @@
       "duration_ms": 135517,
       "name": "Pra Te Envolver",
       "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
+    },
+    {
+      "album": {
+        "name": "Princesinha 220v",
+        "url": "https://open.spotify.com/album/6JtCRz1ZnHQWMLpqQrw5c2"
+      },
+      "artists": [
+        {
+          "name": "Thaiga",
+          "url": "https://open.spotify.com/artist/2pah7gsh8SfyngWVHzvsY4"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "Princesinha 220v",
+      "url": "https://open.spotify.com/track/6BBxKxvZC6oI01ujBVeI5a"
     },
     {
       "album": {
@@ -2001,7 +2049,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 144000,
       "name": "S\u00f3 Mais um Trapper",
       "url": "https://open.spotify.com/track/077llN7tZH947zQPJFAsMJ"
@@ -2174,6 +2222,28 @@
     },
     {
       "album": {
+        "name": "Tukikis",
+        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174083,
+      "name": "Tukikis",
+      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
+    },
+    {
+      "album": {
         "name": "Futuro II Dia",
         "url": "https://open.spotify.com/album/6ZIGGpDGt3wkgHtEgmBE1a"
       },
@@ -2211,7 +2281,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 153808,
       "name": "VSFD",
       "url": "https://open.spotify.com/track/7z2JlXkcvVP7pOaRmvwn03"
@@ -2233,10 +2303,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 161076,
       "name": "\u00c0 Mil",
       "url": "https://open.spotify.com/track/1lYGqblxNkawkTCH6wbqth"
+    },
+    {
+      "album": {
+        "name": "11.11",
+        "url": "https://open.spotify.com/album/15d6lSeL5rDks8tksYpQSv"
+      },
+      "artists": [
+        {
+          "name": "Brenda Minni",
+          "url": "https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161076,
+      "name": "\u00c0 Mil",
+      "url": "https://open.spotify.com/track/6dTVjamvjG1SNwiAbEHVsQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx"

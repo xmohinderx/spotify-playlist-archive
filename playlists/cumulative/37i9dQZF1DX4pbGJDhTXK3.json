@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 166730,
       "name": "Perseverance",
       "url": "https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE"
@@ -1515,6 +1515,24 @@
       "duration_ms": 234213,
       "name": "Staying In",
       "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
+    },
+    {
+      "album": {
+        "name": "It's Album Time",
+        "url": "https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268440,
+      "name": "Strandbar",
+      "url": "https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV"
     },
     {
       "album": {

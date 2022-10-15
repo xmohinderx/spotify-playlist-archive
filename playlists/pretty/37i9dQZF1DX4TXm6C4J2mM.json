@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157089,
+  "num_followers": 157082,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMDcyZjg3NjMwMDE1YTZlNWUyYWU5OTc4MzEzZTk1Nzkx",
+  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMDc2MjdhY2Y3ZGViMjVkYzg4N2I3NWUxY2E4ZTI3Y2Rj",
   "tracks": [
     {
       "added_at": "2022-10-10 21:14:39",
@@ -675,30 +675,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Make It To Heaven (with Raye)",
-        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Make It To Heaven (with Raye)",
-      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Make It To Heaven (with Raye)",
+        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "Make It To Heaven (with Raye)",
+      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Make You Mine (feat. Moa Lisa)",
-        "url": "https://open.spotify.com/album/7J7m238D5jzzO8td6XGJHa"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "Moa Lisa",
-          "url": "https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Make You Mine (feat. Moa Lisa)",
-      "url": "https://open.spotify.com/track/1ICPREUY4yMNeFEgbNh7D5"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Stars Align (with Jolin Tsai)",
         "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
       },
@@ -871,22 +851,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Detroit 3 AM (Radio Edit)",
-        "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
+        "name": "Make You Mine (feat. Moa Lisa)",
+        "url": "https://open.spotify.com/album/7J7m238D5jzzO8td6XGJHa"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Moa Lisa",
+          "url": "https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E"
         }
       ],
-      "duration_ms": 188640,
-      "name": "Detroit 3 AM - Radio Edit",
-      "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
+      "duration_ms": 213333,
+      "name": "Make You Mine (feat. Moa Lisa)",
+      "url": "https://open.spotify.com/track/1ICPREUY4yMNeFEgbNh7D5"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -911,6 +891,26 @@
       "duration_ms": 156774,
       "name": "Taste",
       "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Detroit 3 AM (Radio Edit)",
+        "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Detroit 3 AM - Radio Edit",
+      "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/62juGlcwPNJfv4XTQU6CTI"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 125878,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/6smjJBiF02qPiSlGdJGmlG"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1103,6 +1103,30 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Te Bot\u00e9",
+        "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Axel Cooper",
+          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
+        },
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Te Bot\u00e9",
+      "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "In My Head (On My Mind)",
         "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
       },
@@ -1139,30 +1163,6 @@
       "duration_ms": 152109,
       "name": "i miss u - VIZE Remix",
       "url": "https://open.spotify.com/track/4zvJFnv4nIwW1rAN4XlhBc"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Te Bot\u00e9",
-        "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Axel Cooper",
-          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
-        },
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "Te Bot\u00e9",
-      "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Return of the Mack (feat. Afrojack)",
-        "url": "https://open.spotify.com/album/4diHNC5rT08L3YWmTSY5Wm"
-      },
-      "artists": [
-        {
-          "name": "Chasner",
-          "url": "https://open.spotify.com/artist/60bBAf1WFPnIwyBSfXj9xv"
-        },
-        {
-          "name": "Rob Adans",
-          "url": "https://open.spotify.com/artist/17ofLR1AMLtSrxZO8Ew8Eu"
-        },
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 187960,
-      "name": "Return of the Mack (feat. Afrojack)",
-      "url": "https://open.spotify.com/track/4Mghl1kqNADilBMsFVMWRK"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Wanna Go",
         "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 148200,
       "name": "Wanna Go",
       "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Return of the Mack (feat. Afrojack)",
+        "url": "https://open.spotify.com/album/4diHNC5rT08L3YWmTSY5Wm"
+      },
+      "artists": [
+        {
+          "name": "Chasner",
+          "url": "https://open.spotify.com/artist/60bBAf1WFPnIwyBSfXj9xv"
+        },
+        {
+          "name": "Rob Adans",
+          "url": "https://open.spotify.com/artist/17ofLR1AMLtSrxZO8Ew8Eu"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Return of the Mack (feat. Afrojack)",
+      "url": "https://open.spotify.com/track/4Mghl1kqNADilBMsFVMWRK"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Sara Sangfelt",
-          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Bass Goes Down",
         "url": "https://open.spotify.com/album/5HQkMx3unrkhwyB3qJvG1p"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 144449,
       "name": "Bass Goes Down",
       "url": "https://open.spotify.com/track/1Y6H3XEqOSTrqKFissnVGd"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1935,26 +1935,6 @@
       "duration_ms": 123870,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -2047,26 +2027,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Hypnotize (feat. Gia Koka)",
-        "url": "https://open.spotify.com/album/0koiPedJfp8HRR8G1TYnLh"
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
       },
       "artists": [
         {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         },
         {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        },
-        {
-          "name": "Gia Koka",
-          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
         }
       ],
-      "duration_ms": 161760,
-      "name": "Hypnotize (feat. Gia Koka)",
-      "url": "https://open.spotify.com/track/0LyrSQgF6gZfWAyt24LsfU"
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -2091,6 +2067,30 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Hypnotize (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/0koiPedJfp8HRR8G1TYnLh"
+      },
+      "artists": [
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        },
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        },
+        {
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Hypnotize (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/0LyrSQgF6gZfWAyt24LsfU"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -2135,26 +2135,18 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Balance (Remixes, Pt. 3)",
-        "url": "https://open.spotify.com/album/2QBxrVxid8ePJ7nyDvkB5I"
+        "name": "Fight Dirty",
+        "url": "https://open.spotify.com/album/51bTkbGwIOXalNW9rh8sdb"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Matluck",
-          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
         }
       ],
-      "duration_ms": 211250,
-      "name": "Don't Let Me Go - Lucas & Steve Remix",
-      "url": "https://open.spotify.com/track/5krNtVmwuJ6wIUTwvG343G"
+      "duration_ms": 180982,
+      "name": "Fight Dirty",
+      "url": "https://open.spotify.com/track/49081NhigGNTQ3QvZCirRz"
     }
   ],
   "unique_name": "Tr\u00e4ning",

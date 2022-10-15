@@ -4,7 +4,7 @@
 
 > If it's indie and it's hot, it's here\. Cover: Royel Otis
 
-595 songs - 1 day 9 hr 52 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+597 songs - 1 day 9 hr 57 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [All My Time](https://open.spotify.com/track/5hZ1PDuNnUWT96cIquKnIt) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Smoke](https://open.spotify.com/album/6fOJ3l5P1bJpSYUdjgGEby) | 3:13 | 2021-12-28 | 2022-01-21 |
 | [Always Got The Love](https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Always Got The Love](https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1) | 3:27 | 2022-06-15 | 2022-09-02 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-17 | 2022-06-18 |
-| [AMERICAN DREAM](https://open.spotify.com/track/1dZpKFO7vErbONAuYB4ON3) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [AMERICAN DREAM](https://open.spotify.com/album/2K7Rl7AGmFmMvx4tYnC05u) | 2:31 | 2022-08-18 |  |
+| [AMERICAN DREAM](https://open.spotify.com/track/1dZpKFO7vErbONAuYB4ON3) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [AMERICAN DREAM](https://open.spotify.com/album/2K7Rl7AGmFmMvx4tYnC05u) | 2:31 | 2022-08-18 | 2022-10-15 |
+| [AMERICAN DREAM](https://open.spotify.com/track/1iD13PhU1SoDEvDTXungA1) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [3034](https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx) | 2:31 | 2022-10-14 |  |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-04-21 | 2022-07-05 |
 | [Anakin](https://open.spotify.com/track/2UwGt0YhbHfGoEUPgcMDs6) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Anakin](https://open.spotify.com/album/29sRzR6ZbXnEhH8jQfPss3) | 4:33 | 2022-08-08 |  |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-01-13 | 2022-03-04 |
@@ -488,7 +489,8 @@
 | [Stranger](https://open.spotify.com/track/5F5Cb0thmZcqJaLHkjew2j) | [Dallas James](https://open.spotify.com/artist/5zjrHbnk0MjND0NZSDH8it) | [Stranger](https://open.spotify.com/album/3LFsU2ASz6whvajCg4KjIw) | 2:58 | 2022-08-25 |  |
 | [Stranger Days](https://open.spotify.com/track/2YrFwJC9jDaI0BoxtKRI9K) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger Days](https://open.spotify.com/album/1TaRqKa2nsaqSYMJgAwuvT) | 4:11 | 2022-02-02 | 2022-04-08 |
 | [Strangers \(with Mansionair\)](https://open.spotify.com/track/63TjlMDhCFiZyZTRAa8o9a) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\)](https://open.spotify.com/album/4rYakF7UP26hxhM6Wbb6aV) | 3:37 | 2021-12-28 | 2022-01-28 |
-| [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-04 |  |
+| [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 | 2022-10-14 |  |
+| [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-04 | 2022-10-15 |
 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 | 2022-06-16 | 2022-08-26 |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-04 | 2022-05-13 |
 | [Sugarcoated](https://open.spotify.com/track/2vikHaqM94lU7kRMvlBX4s) | [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Sugarcoated](https://open.spotify.com/album/7y1Kn87gsjWScTeAVfRpBn) | 3:33 | 2021-12-28 | 2022-01-28 |

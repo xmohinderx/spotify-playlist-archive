@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Sarah Kang",
+  "description": "Featuring that new vintage. Cover: Ashe",
   "name": "Retro Pop",
   "published_playlist_ids": [
     "3Icin3X1CyEouQNp33mzQK"
@@ -115,6 +115,32 @@
       "duration_ms": 171773,
       "name": "All Summer",
       "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
+    },
+    {
+      "album": {
+        "name": "All That I Need",
+        "url": "https://open.spotify.com/album/6Bi5mLTgH9zeVRmYb4AmCo"
+      },
+      "artists": [
+        {
+          "name": "Ebony Loren",
+          "url": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY"
+        },
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        },
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222457,
+      "name": "All That I Need",
+      "url": "https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T"
     },
     {
       "album": {
@@ -321,6 +347,24 @@
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
+    },
+    {
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
       "album": {
@@ -951,7 +995,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 203415,
       "name": "Do That for You",
       "url": "https://open.spotify.com/track/6nxRxeYjAKJfwtWGO1CtjO"
@@ -1113,7 +1157,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 209293,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
@@ -2440,7 +2484,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/0KqOkbIFceB9082jY7XdWF"
         },
         {
           "name": "Joey Dosik",
@@ -3148,6 +3192,24 @@
     },
     {
       "album": {
+        "name": "omw",
+        "url": "https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171161,
+      "name": "omw",
+      "url": "https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA"
+    },
+    {
+      "album": {
         "name": "On Top of the World",
         "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
       },
@@ -3401,6 +3463,24 @@
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx"
+    },
+    {
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169410,
+      "name": "Places We Won't Walk",
+      "url": "https://open.spotify.com/track/0wfnEetPwlLHmnzhRXvPuk"
     },
     {
       "album": {
@@ -4245,7 +4325,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
@@ -4317,7 +4397,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 209893,
       "name": "The Good",
       "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
@@ -4585,7 +4665,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 191012,
       "name": "When You Lose Someone (Acoustic)",
       "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"

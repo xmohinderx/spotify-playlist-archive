@@ -2430,6 +2430,24 @@
     },
     {
       "album": {
+        "name": "Seventh Wave",
+        "url": "https://open.spotify.com/album/4bZnVnQDg85dT7S4SReDcJ"
+      },
+      "artists": [
+        {
+          "name": "No Fun At All",
+          "url": "https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164392,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/1E3gbjnloxboIn5r3K8IcD"
+    },
+    {
+      "album": {
         "name": "Dead and Gone",
         "url": "https://open.spotify.com/album/26d640oDNCm5BcEYt3vX5r"
       },
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 164392,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/7gpXmJgNOpapz5GxFs0FGW"
@@ -8971,10 +8989,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 136510,
       "name": "Sand On The Beach",
       "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
+    },
+    {
+      "album": {
+        "name": "Sand on the Beach",
+        "url": "https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136510,
+      "name": "Sand on the Beach",
+      "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
     },
     {
       "album": {

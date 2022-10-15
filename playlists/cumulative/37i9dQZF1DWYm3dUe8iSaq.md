@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-129 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+131 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 | 2022-04-08 |  |
 | [Lava Lamps](https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Lava Lamps](https://open.spotify.com/album/45zGYTaMmmAXbYhfVFQcMk) | 2:53 | 2022-04-08 |  |
 | [Lay My Heart](https://open.spotify.com/track/1SCnDY0ACXbgOI1tNGAii7) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Lay My Heart](https://open.spotify.com/album/2gVuq83HoNYj37he1sYLsz) | 6:35 | 2022-04-08 | 2022-10-08 |
-| [Lightly Looms \- 7" Version](https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn) | 4:02 | 2022-10-07 |  |
+| [Lightly Looms \- 7" Version](https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn) | 4:02 | 2022-10-07 | 2022-10-15 |
+| [Lightly Looms \- 7" Version](https://open.spotify.com/track/0NsVmoq9k7ZgRRHYaWGnp4) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/7AEDoJS05ptPYwehCkijnT) | 4:02 | 2022-10-07 |  |
 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc) | 4:02 | 2022-04-08 | 2022-10-14 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-04-08 |  |
 | [Love, The Time Is Now](https://open.spotify.com/track/2X2ltpPYs3HykJgy4aLEPx) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Love, The Time Is Now](https://open.spotify.com/album/46HlGccHfYbuywxnAMhEUw) | 2:23 | 2022-10-07 |  |
@@ -103,7 +104,8 @@
 | [Save Tonight](https://open.spotify.com/track/4kG6Rt94q7eJaikOFrqsTn) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2SaLXyTTBlIZCLuAQ2c4ne) | 4:30 | 2022-04-08 | 2022-05-21 |
 | [See You Soon](https://open.spotify.com/track/2OdqJAQFY84ZQAaFbczULE) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [See You Soon](https://open.spotify.com/album/6uYNAmDsREjFET28WNsqLM) | 2:51 | 2022-04-08 | 2022-07-29 |
 | [See You Soon](https://open.spotify.com/track/3XLotoeuhWAsfWqYEVwF4D) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 2:51 | 2022-07-01 |  |
-| [Silence](https://open.spotify.com/track/2o9l8P2roRBaTUK3TpuDbg) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Silence](https://open.spotify.com/album/3HsB6Zu84OqoJH9HfUQLdl) | 4:04 | 2022-07-01 |  |
+| [Silence](https://open.spotify.com/track/2o9l8P2roRBaTUK3TpuDbg) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Silence](https://open.spotify.com/album/3HsB6Zu84OqoJH9HfUQLdl) | 4:04 | 2022-07-01 | 2022-10-15 |
+| [Silence](https://open.spotify.com/track/6IAgGNsx1TSppM1g2ig4Il) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Silence](https://open.spotify.com/album/0xZA75KUxVBNV4Nwz2ni1Y) | 4:04 | 2022-10-07 |  |
 | [Smoke](https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Smoke](https://open.spotify.com/album/6bbFvcKFbe4xqSxGzyIegJ) | 3:38 | 2022-04-08 |  |
 | [So It Is](https://open.spotify.com/track/5nVX6Lv58ZcwPcK3v2nVkw) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [So It Is](https://open.spotify.com/album/10ngV2CcheV7HQSrhmVLNa) | 4:05 | 2022-07-01 |  |
 | [So It Is](https://open.spotify.com/track/6DlCP3851iJayqnAim9VV4) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [So It Is](https://open.spotify.com/album/1ZRcIpMIyEytofwk1LVd8F) | 4:05 | 2022-04-08 | 2022-07-29 |

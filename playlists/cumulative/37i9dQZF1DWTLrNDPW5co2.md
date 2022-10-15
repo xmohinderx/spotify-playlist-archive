@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-86 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+88 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,11 @@
 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 | 2021-10-15 | 2022-06-04 |
 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 | 2022-07-14 |  |
 | [Cocky](https://open.spotify.com/track/6g2iUBWLQbCFVMqtTaFPhh) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/34CRtqpBcQQzhYfZbkHy3l) | 4:50 | 2021-10-15 | 2022-07-29 |
-| [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 | 2021-10-15 |  |
+| [Come Back](https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R) | 4:37 | 2022-07-14 |  |
+| [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 | 2021-10-15 | 2022-10-15 |
 | [Come For Me](https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Come For Me](https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC) | 3:44 | 2022-07-14 |  |
-| [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-14 |  |
+| [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-14 | 2022-10-15 |
+| [Company](https://open.spotify.com/track/2d6YYtRjKgAlO1xBubTjMM) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/3T3gVP98ZNhdVBoYJP1LPT) | 3:36 | 2022-07-14 |  |
 | [Downtown \(feat\. Annette Bowen & Nikki\-O\)](https://open.spotify.com/track/7JN4rYLphO4zyPP04Ibftj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Annette Bowen](https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6), [Nikki\-O](https://open.spotify.com/artist/1cVdPPKt04x4LIFGW4rUnL) | [Downtown \(feat\. Annette Bowen & Nikki\-O\)](https://open.spotify.com/album/4gxf9I5X6rUywK85hFwvrZ) | 3:55 | 2021-10-15 | 2022-06-04 |
 | [DRaiN](https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DRaiN](https://open.spotify.com/album/1PFSvtdr5l2fYt0L2NIDov) | 2:39 | 2022-06-03 |  |
 | [Drunken Clouds](https://open.spotify.com/track/3XWCKVGT137CUdNDYm3waR) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 4:13 | 2022-06-03 |  |

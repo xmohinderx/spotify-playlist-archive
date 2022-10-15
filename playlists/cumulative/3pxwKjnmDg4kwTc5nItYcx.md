@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-629 songs - 1 day 9 hr 58 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+631 songs - 1 day 10 hr 6 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Sorry](https://open.spotify.com/track/3te1jfT0NVC7BamNwpoSPW) | [Bonnie Anderson](https://open.spotify.com/artist/6TnYKQ80Ne0DlAISzTXB6A) | [Sorry](https://open.spotify.com/album/7aQV4QjHiSMkykarett4Y3) | 3:11 | 2019-08-27\* | 2019-11-11 |
 | [Sound Of Your Name](https://open.spotify.com/track/6xMRkOAJC6Y7tUvIcqkdwu) | [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sound Of Your Name](https://open.spotify.com/album/1lC9CRKXwTkpIfyfWSGaDN) | 3:18 | 2020-02-14 | 2021-05-12 |
 | [Sound of Your Voice](https://open.spotify.com/track/79EPrcuYKoky4lG3BvmzCy) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [The Mirror Talk EP](https://open.spotify.com/album/5iVjJgRq6O9s0VguOtHFox) | 3:02 | 2019-11-18 | 2020-05-19 |
+| [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 | 2022-10-14 |  |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-02-25 |  |
 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-19 |  |
 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 | 2019-08-27\* | 2020-04-06 |
@@ -602,6 +603,7 @@
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2020-10-16 |  |
 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 | 2021-05-08 |  |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 |  |
+| [Waves](https://open.spotify.com/track/53xhyrYyJMNylCQFJQgbCY) | [Jamyang](https://open.spotify.com/artist/5SqfYCWuVR4Cc2FGFYY2Tw) | [Waves](https://open.spotify.com/album/6kGWiXF2tpr7sCz1Ap1hFb) | 3:55 | 2022-10-14 |  |
 | [We All Have \(feat\. Matt Berninger\)](https://open.spotify.com/track/3cabEB5HG1oocs574S4icH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [We All Have \(feat\. Matt Berninger\)](https://open.spotify.com/album/7muvMsqEbqB2YmsX4ONcHE) | 2:39 | 2021-02-06 | 2022-07-30 |
 | [We Are Warriors](https://open.spotify.com/track/15fb3LJiJbuc5s272jXdUq) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [We Are Warriors](https://open.spotify.com/album/6tHvL1cUXtz3IzXgGhqlZz) | 3:45 | 2020-04-24 | 2021-05-12 |
 | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/track/6CX9CaAS6KTOo6Iq1NL9j0) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61), [Pearl](https://open.spotify.com/artist/4glqVTS8QrVGh4DNuXNu9b) | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/album/2xPYrMxfsdT2Wdea5tvPTG) | 3:16 | 2022-06-17 |  |

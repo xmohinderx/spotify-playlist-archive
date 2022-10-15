@@ -4,7 +4,7 @@
 
 > Upbeat piano for stepping out
 
-259 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
+260 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2022-06-07 |  |
 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 | 2022-06-07 |  |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-06-07 |  |
-| [Lavender](https://open.spotify.com/track/7cMwmMmh2RRtGv1jl3QPUH) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Lavender](https://open.spotify.com/album/0ydbZvW2I6oagnbyzvYg15) | 2:56 | 2022-06-07 |  |
+| [Lavender](https://open.spotify.com/track/7cMwmMmh2RRtGv1jl3QPUH) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Lavender](https://open.spotify.com/album/0ydbZvW2I6oagnbyzvYg15) | 2:56 | 2022-06-07 | 2022-10-15 |
 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 | 2022-06-07 |  |
 | [Le Carrousel](https://open.spotify.com/track/732WjGszph77XuuwYTpjpJ) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Le Carrousel](https://open.spotify.com/album/2NtVUnyN8ABOx2W0yJBePl) | 2:41 | 2022-06-07 | 2022-07-28 |
 | [Le soleil printanier](https://open.spotify.com/track/1k1BWZh9UpPcf3rDHUl0Ly) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Le soleil printanier](https://open.spotify.com/album/6UpR7OvugbL76JUpTxUzOO) | 2:41 | 2022-06-07 |  |
@@ -227,6 +227,7 @@
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2022-06-07 | 2022-07-19 |
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-06-07 |  |
 | [Te souviens\-tu](https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:10 | 2022-06-07 |  |
+| [That's why I stay](https://open.spotify.com/track/4foc5c5MA7gjjDSz5KcOp9) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [That's why I stay](https://open.spotify.com/album/6GpyzzwDlwS8EhUJiLibNO) | 2:26 | 2022-09-23 |  |
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2022-06-07 |  |
 | [The Farewell](https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1Ak9Cy3afdJz2itTFxLDWy) | 2:48 | 2022-06-07 |  |
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2022-06-07 |  |

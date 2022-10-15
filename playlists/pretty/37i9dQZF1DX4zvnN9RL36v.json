@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2924,
+  "num_followers": 2939,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGU2N2Q4MjE3OWNlYjFhZDM2NjQzZDNlZTk5MmY4MDcy",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGY0YWZmNWJiZDIxZDA1NTFlZjdhNzhjNjc4ZjFlN2M3",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
-      },
-      "artists": [
-        {
-          "name": "\uc720\ubbf8 Youme",
-          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
-      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 249438,
       "name": "Her",
       "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
+      },
+      "artists": [
+        {
+          "name": "\uc720\ubbf8 Youme",
+          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
+      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
     },
     {
       "added_at": "2022-08-18 14:25:32",

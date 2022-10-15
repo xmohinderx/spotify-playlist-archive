@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Buddy Guy
 
-232 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+233 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [New Way of Walking](https://open.spotify.com/track/6pdn2fxWKwdRHrwqA3u4HV) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [New Way of Walking](https://open.spotify.com/album/0Agtzdkxg9yg1BhVO4Lbwd) | 5:15 | 2022-02-04 | 2022-02-26 |
 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 | 2022-06-03 | 2022-07-16 |
 | [No More Worlds to Conquer](https://open.spotify.com/track/2AHYMvycHP8KlxZjv11Hnm) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [No More Worlds to Conquer](https://open.spotify.com/album/3kMKDFdC0FV6s8rwPmRRrR) | 3:54 | 2022-02-18 | 2022-04-23 |
+| [Nobody's Fool](https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Nobody's Fool](https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV) | 3:36 | 2022-10-14 |  |
 | [Oh Betty](https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty](https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o) | 3:56 | 2022-03-11 | 2022-06-04 |
 | [Oh Miss Carolina](https://open.spotify.com/track/2ebAPmQjP4GkGULOtisl5x) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Last Light on the Highway](https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae) | 4:12 | 2020-12-14 | 2022-02-26 |
 | [Oh My Darling](https://open.spotify.com/track/3vnlOTElobxdCHvgGyLrGN) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 5:37 | 2020-12-14 | 2022-02-26 |

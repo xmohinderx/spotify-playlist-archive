@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Divorce
 
-575 songs - 1 day 7 hr 13 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
+577 songs - 1 day 7 hr 19 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Bossfight](https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Pariss Elektra](https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE) | [Bossfight](https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG) | 4:24 | 2022-04-20 | 2022-05-19 |
 | [Boundaries](https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [Boundaries](https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg) | 4:22 | 2022-01-19 | 2022-04-07 |
 | [Brick Phone](https://open.spotify.com/track/7oZKdKYkNL13uZ6bQfZa2j) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu) | [Brick Phone](https://open.spotify.com/album/0dLYraWUlJml3Isy4Ta7Iw) | 3:38 | 2022-07-20 | 2022-09-01 |
-| [Burning Questions](https://open.spotify.com/track/5jwibtM6x3f8SMSNWY7Ca7) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Burning Questions](https://open.spotify.com/album/4fj6OCEJNaXK31wUbtL80K) | 3:03 | 2022-09-28 |  |
+| [Burning Questions](https://open.spotify.com/track/0U0w9e5Uwaz0Xaz8n0yq1l) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Burning Questions](https://open.spotify.com/album/5LeihhqFkY7ZuMO2OAsYcr) | 3:03 | 2022-10-12 |  |
+| [Burning Questions](https://open.spotify.com/track/5jwibtM6x3f8SMSNWY7Ca7) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Burning Questions](https://open.spotify.com/album/4fj6OCEJNaXK31wUbtL80K) | 3:03 | 2022-09-28 | 2022-10-15 |
 | [but my sister](https://open.spotify.com/track/4NHGE6ml5ymmtYJgncrWNm) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [but my sister](https://open.spotify.com/album/6iGobvJdiBpAwORj4E23xy) | 3:28 | 2022-08-03 | 2022-10-13 |
 | [c.w.u.c](https://open.spotify.com/track/1zZo5HS1jPKm0yWcrL7gxy) | [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN) | [c.w.u.c](https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C) | 2:41 | 2022-06-22 | 2022-08-04 |
 | [cabin fever](https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [cabin fever](https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6) | 1:13 | 2022-04-06 | 2022-06-30 |
@@ -521,7 +522,8 @@
 | [That's My Girl](https://open.spotify.com/track/5mIcfBmdGpLec0g5AS6RTb) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [That's My Girl](https://open.spotify.com/album/3yTw9o8gB8XKALrQUmFX8f) | 3:04 | 2022-06-29 | 2022-09-28 |
 | [That's Why, Save Me](https://open.spotify.com/track/0IUugunYSIbxbnDrqIj7P0) | [Ella McMurray](https://open.spotify.com/artist/7KB4ARlXXhbOJN9BsLtaC0) | [That's Why, Save Me](https://open.spotify.com/album/2HZWUVNoLzIHJRGj1Hm4PD) | 2:15 | 2022-04-13 | 2022-07-07 |
 | [The Basics Are Coming Back](https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [The Basics Are Coming Back / Burnout](https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1) | 3:38 | 2022-03-02 | 2022-03-24 |
-| [The Enemy](https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/11ZyrIRcdhp4j1IjaozNDR) | 3:08 | 2022-05-18 |  |
+| [The Enemy](https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/11ZyrIRcdhp4j1IjaozNDR) | 3:08 | 2022-05-18 | 2022-10-15 |
+| [The Enemy](https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa) | 3:08 | 2022-10-12 |  |
 | [The Hitchhiker's Guide to the Fallacy](https://open.spotify.com/track/3hRRV48T0PYU5hXGF3Gxko) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [The Hitchhiker's Guide to the Fallacy](https://open.spotify.com/album/14ex4jx046i3C32ntwcn76) | 2:51 | 2022-03-30 | 2022-06-15 |
 | [The Only Way](https://open.spotify.com/track/6JRvFphzc5Vn6aX6Pralfb) | [Tommy Evans](https://open.spotify.com/artist/4CcYOJCtBvHYTZH3MxnKVI), [Ishy](https://open.spotify.com/artist/1MyyqAStRmviRB8jzhwl91), [Beat Finder General](https://open.spotify.com/artist/431DIe544IQCqRiqCivLVG) | [Falling Upwards](https://open.spotify.com/album/1P9P51xFZfwDkdzKF2jyu6) | 2:50 | 2022-01-05 | 2022-01-29 |
 | [Therapist](https://open.spotify.com/track/0QjoETKuBskw27GdPnGU4p) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Therapist](https://open.spotify.com/album/6A6MJI3UhSs2IU7seoBVkI) | 3:30 | 2022-08-24 | 2022-09-22 |

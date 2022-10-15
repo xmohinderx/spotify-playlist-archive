@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105829,
+  "num_followers": 105825,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDY3NjNiYmQwNDUwZTA5YzNlNGE0N2RlYzljYjhlZjMz",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDk0YzA4MjZkZGI1NzY0MDUwMjAyZDM4ODc3ZTc1NDc1",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "Rare (Deluxe)",
         "url": "https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 176786,
       "name": "Do It",
       "url": "https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Let's Fall in Love for the Night",
-      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
     },
     {
       "added_at": "2020-08-24 22:19:29",

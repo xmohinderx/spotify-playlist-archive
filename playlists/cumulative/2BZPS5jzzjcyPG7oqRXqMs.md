@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-161 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+162 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Left It In The Water \- Edit](https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Left It In The Water](https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM) | 3:34 | 2022-07-29 |  |
 | [Let It Roll](https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Let It Roll](https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL) | 3:48 | 2022-07-22 |  |
 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 | 2022-02-17 |  |
+| [Live Up To Your Name](https://open.spotify.com/track/0wTrxg0xcGj7vuxjdmkBBb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Live Up To Your Name](https://open.spotify.com/album/0tkp1dWnazRvLaUMzKFnzk) | 4:24 | 2022-10-14 |  |
 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 | 2022-07-01 |  |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-18 | 2022-07-02 |

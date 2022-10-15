@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 33882,
+  "num_followers": 33898,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGEwY2NlNWUzMjY1NzIwMWU4ZTk5Y2IzY2M1YjRkYjA2",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDQ5NzU5ZDgwOTg5ODZjYWM5MDg1NDNmOTE1ZTA5OWMz",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -47,26 +47,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Caro\u0308l Von Holz",
-        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Holzbl\u00e4ser",
-          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
-        }
-      ],
-      "duration_ms": 254971,
-      "name": "Caro\u0308l Von Holz",
-      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "I'm the Santa Claoz",
         "url": "https://open.spotify.com/album/5ur5bMTCXPReTT3YhpBUZP"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 162000,
       "name": "I'm the Santa Claoz",
       "url": "https://open.spotify.com/track/48PfM9HJ5CKQHP89DahiHn"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Caro\u0308l Von Holz",
+        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Holzbl\u00e4ser",
+          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
+        }
+      ],
+      "duration_ms": 254971,
+      "name": "Caro\u0308l Von Holz",
+      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "2020 Christmas",
+        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
+      },
+      "artists": [
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "2020 Christmas",
+      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "A Very Decent Christmas",
         "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 167373,
       "name": "Christmas is Here (feat. Late Night Alumni)",
       "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "2020 Christmas",
-        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
-      },
-      "artists": [
-        {
-          "name": "Dominique",
-          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "2020 Christmas",
-      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/0OwaoKbTLogu3Q3TW47ruD"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 207315,
       "name": "Have Yourself A Merry Little Christmas - Auxjack Remix",
       "url": "https://open.spotify.com/track/7kHfwWZGNpO6BlunidRzd0"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Kaskade Christmas",
-        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 233900,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Christmas With Yellow Claw",
         "url": "https://open.spotify.com/album/25bktrqlypnTwJ50DhC3n2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 224400,
       "name": "Hush Dear Santa",
       "url": "https://open.spotify.com/track/7uS0lTOVielpbtTmFz4xY4"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 233900,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC"
     }
   ],
   "unique_name": "Electronic Christmas",

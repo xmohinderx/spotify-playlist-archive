@@ -2,7 +2,7 @@
 
 ### [Gospel Acústico](https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L)
 
-> Relaxe com hinos acústicos\. Foto: André e Felipe
+> Relaxe com hinos acústicos\. Foto: Clovis, Ton Carfi
 
 84 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
 

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-806 songs - 1 day 18 hr 11 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+807 songs - 1 day 18 hr 14 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Baddest](https://open.spotify.com/track/4ZUk1PNxNSk3Q2uuHhrtPS) | [Trey & Zay](https://open.spotify.com/artist/1pSnX1wadmFf0PtC1uRhoL), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Baddest](https://open.spotify.com/album/3RJFvXDA7pU15hYtczkjmq) | 2:15 | 2022-06-18 | 2022-06-20 |
 | [Bag Gardinerne](https://open.spotify.com/track/3zzg8loGt2AMnAabmWV2Mv) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:41 | 2022-09-03 | 2022-09-05 |
 | [Bagateller](https://open.spotify.com/track/4xJgu4DNPpGMZ2Wc9BnDXa) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Bagateller](https://open.spotify.com/album/1YYxj063ukjklfeS6VER9z) | 3:05 | 2021-10-10 | 2021-11-14 |
+| [BAGLÆNS](https://open.spotify.com/track/5pHKhwqzcjNZ6orNRKXZY6) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [BAGLÆNS](https://open.spotify.com/album/4fcJ22gFbtjkfbF9You5ZN) | 3:30 | 2022-10-14 |  |
 | [Baianá](https://open.spotify.com/track/3pbqH8vafUbh1oqo8HYwK5) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:21 | 2022-01-15 | 2022-04-11 |
 | [Balance \(feat\. KESI & Benny Jamz\)](https://open.spotify.com/track/3ZgG8vSIEbgHxKawwMUHNB) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:35 | 2022-09-03 |  |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-05 | 2022-04-10 |
@@ -674,7 +675,7 @@
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-30 | 2021-05-07 |
 | [SOMMER I DECEMBER \(BURHAN G X PAULINE\)](https://open.spotify.com/track/1wYaMTdeKO4U9NkfUE2W7i) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [SOMMER I DECEMBER \(BURHAN G X PAULINE\)](https://open.spotify.com/album/4ZNvFGgdcQk2r5uToSO8XP) | 2:43 | 2022-05-07 | 2022-05-12 |
 | [SORT AMG \(feat\. Jimilian\)](https://open.spotify.com/track/3dkFiY1M26iQ50ZDWctdyG) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [SORT AMG \(feat\. Jimilian\)](https://open.spotify.com/album/2UxsNWGIbPHwPaUBKTIu9h) | 2:27 | 2022-08-27 | 2022-09-18 |
-| [Sover Du Nu](https://open.spotify.com/track/4RbUT7mO2RlHtaXFxxI3OZ) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Stiv Kuling](https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU) | 3:08 | 2022-10-01 |  |
+| [Sover Du Nu](https://open.spotify.com/track/4RbUT7mO2RlHtaXFxxI3OZ) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Stiv Kuling](https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU) | 3:08 | 2022-10-01 | 2022-10-15 |
 | [Sover Du Nu](https://open.spotify.com/track/7xKoWkRMgg2KGyzN3zNQeF) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Sover Du Nu](https://open.spotify.com/album/4ypnwb4Xpg3shd2R9nfGPs) | 3:08 | 2022-09-24 | 2022-10-02 |
 | [Spinner \(feat\. MAS\)](https://open.spotify.com/track/5WJUzjQjh6s4HjPmNZQq26) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:59 | 2022-06-18 | 2022-06-22 |
 | [Stable \(feat\. Artigeardit & Lamin\)](https://open.spotify.com/track/6Zw7r9dPtbX0D1CcIS8caf) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [CSKI VOL\. 2](https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j) | 2:58 | 2022-02-05 | 2022-05-22 |

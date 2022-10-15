@@ -262,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Angel Flying Too Close to the Ground (Live at Budokan, Tokyo, Japan - Feb. 23, 1984)",
+        "url": "https://open.spotify.com/album/1O4zM6MElfZzvm3C3zIFvq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/0nyJppAEiqe7LHRjhkQroH"
+    },
+    {
+      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 767346,
       "name": "Free Bird - 1976/Live At Bill Graham's Winterland",
       "url": "https://open.spotify.com/track/3p1IcfYdwYjMqeY9ipRTMi"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 248600,
       "name": "Georgia on My Mind - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
       "url": "https://open.spotify.com/track/0OmDJkht9AEeXrJkRR5iJA"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 608040,
       "name": "Gimme Three Steps/Call Me The Breeze - 1976/Live At Bill Graham's Winterland",
       "url": "https://open.spotify.com/track/7yfrdrdGjR0Sk1ustStfX3"

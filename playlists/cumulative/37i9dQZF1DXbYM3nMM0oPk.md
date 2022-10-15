@@ -4,7 +4,7 @@
 
 > A mega mix of 75 favorites from the last few years!
 
-317 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/653GHkpxw7GmjVxcOlv7fz)
+318 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/653GHkpxw7GmjVxcOlv7fz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2021-02-28 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2022-07-01 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2022-06-10 | 2022-07-29 |
-| [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 | 2021-01-15 |  |
+| [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 | 2021-01-15 | 2022-10-15 |
 | [Bad Things \(with Camila Cabello\)](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [bloom](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) | 3:59 | 2021-02-27 | 2022-04-20 |
 | [Banana \(feat\. Shaggy\) \- DJ FLe \- Minisiren Remix](https://open.spotify.com/track/0dZpw3h6KZhcHec61qwevZ) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [DJ Fle](https://open.spotify.com/artist/2fZcYu4ltOFdwsnDmLQ9jl) | [Banana \(feat\. Shaggy\) \[DJ FLe \- Minisiren Remix\]](https://open.spotify.com/album/4txsHyrnh5YNezMNlknYv4) | 3:30 | 2020-10-13\* | 2021-05-24 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2020-10-20 | 2022-04-21 |
@@ -98,6 +98,7 @@
 | [Falling](https://open.spotify.com/track/2rRJrJEo19S2J82BDsQ3F7) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/1Hy76RlNvOHe6cpih1RxXq) | 2:39 | 2021-10-09 | 2022-04-17 |
 | [Find U Again \(feat\. Camila Cabello\)](https://open.spotify.com/track/5Uw7Dut2lZfexn3Y09swpf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 2:56 | 2020-10-20 | 2022-04-20 |
 | [Finesse \- Remix; feat\. Cardi B](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Finesse \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) | 3:37 | 2021-02-24 | 2021-05-20 |
+| [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-10-14 |  |
 | [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS](https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM) | 3:22 | 2021-02-24 | 2022-04-19 |
 | [fuck, i'm lonely](https://open.spotify.com/track/322tcqPhma7F6hfCeLisx0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [fuck, i'm lonely](https://open.spotify.com/album/60sI3iRfHfu7YpcTpZ29W1) | 3:18 | 2020-10-20 | 2022-07-29 |
 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:55 | 2021-02-27 | 2022-04-16 |

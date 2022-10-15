@@ -2194,6 +2194,28 @@
     },
     {
       "album": {
+        "name": "Horse Camp",
+        "url": "https://open.spotify.com/album/1ODN74LHSCnOjxXLONNau8"
+      },
+      "artists": [
+        {
+          "name": "The Lowest Pair",
+          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
+        },
+        {
+          "name": "Small Town Therapy",
+          "url": "https://open.spotify.com/artist/1ZcHWUVh8VPTXDNiCshH7y"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276293,
+      "name": "Oak Leaf",
+      "url": "https://open.spotify.com/track/06VlkEKZwY1iuTWSYbMuAL"
+    },
+    {
+      "album": {
         "name": "Fish Pond Fish",
         "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
@@ -2465,6 +2487,24 @@
       "duration_ms": 197013,
       "name": "Real World",
       "url": "https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F"
+    },
+    {
+      "album": {
+        "name": "Rhododendron",
+        "url": "https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Rhododendron",
+      "url": "https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX"
     },
     {
       "album": {
@@ -3657,6 +3697,32 @@
       "duration_ms": 195720,
       "name": "Wildflower Perfume",
       "url": "https://open.spotify.com/track/0fyuuHnhbYhfBGtiCnuLFq"
+    },
+    {
+      "album": {
+        "name": "Silver Dagger",
+        "url": "https://open.spotify.com/album/5UGcLFijKx1XSVgr41x9hm"
+      },
+      "artists": [
+        {
+          "name": "Justin Hiltner",
+          "url": "https://open.spotify.com/artist/3kvTlQprzIXOBQsJO7rOln"
+        },
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6rsuwVUBiRAgFfczaLPYgW"
+        },
+        {
+          "name": "Marcy Marxer",
+          "url": "https://open.spotify.com/artist/7rL5DXjb0BqTjvu5P6C4rO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240270,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/06Csr6ofiaP6S81JYnnQtO"
     },
     {
       "album": {

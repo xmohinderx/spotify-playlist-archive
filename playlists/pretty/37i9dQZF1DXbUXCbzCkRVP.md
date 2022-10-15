@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,330 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,396 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 45 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 |
 | 46 | [Avalanche](https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 2:39 |
 | 47 | [Albert's Shuffle \- 2002 Remix w/o Horns](https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK) | [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv), [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 6:58 |
-| 48 | [Night Train](https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 2:59 |
-| 49 | [Side Tracked](https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:05 |
+| 48 | [Side Tracked](https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:05 |
+| 49 | [Night Train](https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 2:59 |
 | 50 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
 
-Snapshot ID: `MTY2NTQwNjM1OSwwMDAwMDAwMGEyN2FjNGEyZWRiZDA4ZGQ4ODc2ZGY2MmNjZWY2ZTdh`
+Snapshot ID: `MTY2NTc2MjkyNywwMDAwMDAwMGMwNjJlMjM4MmZmYWIwZDgzODc3ZDAxMTE3MDI2MzY3`

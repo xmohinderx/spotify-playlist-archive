@@ -4,7 +4,7 @@
 
 > The ultimate garden concert!
 
-74 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/2cNSvVMQCF10eXKYBDvGQX)
+75 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/2cNSvVMQCF10eXKYBDvGQX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2021-05-17 |  |
 | [The Melting Of The Sun](https://open.spotify.com/track/4unEJMppi4oB9yoYRnTnq7) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Melting Of The Sun](https://open.spotify.com/album/0mOmcNkbEpgXvSWlhrHtdj) | 4:17 | 2021-05-17 |  |
 | [The Thrill](https://open.spotify.com/track/4wqzOaLxiCRy2Et8tRyNSX) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [The Thrill](https://open.spotify.com/album/2M0nxA3m2sZ5DyDzCdzScf) | 3:54 | 2021-05-17 |  |
-| [Tiger](https://open.spotify.com/track/39UWlEnYolv3LfQoEYqJIn) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Tiger](https://open.spotify.com/album/4OPBRShV2OxYoT4hAenDPl) | 3:00 | 2021-05-17 |  |
+| [Tiger](https://open.spotify.com/track/39UWlEnYolv3LfQoEYqJIn) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Tiger](https://open.spotify.com/album/4OPBRShV2OxYoT4hAenDPl) | 3:00 | 2021-05-17 | 2022-10-15 |
+| [Tiger](https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM) | 3:00 | 2021-05-17 |  |
 | [Wat's Wrong \(feat\. Zacari & Kendrick Lamar\)](https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 5:30 | 2021-05-17 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-05-17 |  |
 | [Wildflowers](https://open.spotify.com/track/6jjZOVWqQy1CWn3Uoh3wlZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Massive Country Hits](https://open.spotify.com/album/4nbKNsLAUA4MjIOx68I9N6) | 3:36 | 2021-05-17 | 2022-07-29 |

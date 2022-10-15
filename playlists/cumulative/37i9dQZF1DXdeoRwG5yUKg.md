@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-126 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+127 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Gold](https://open.spotify.com/track/0okw8NRaGP97EFyBmvTyT1) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Last Light on the Highway](https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae) | 4:57 | 2020-11-05 |  |
 | [Grab Ahold](https://open.spotify.com/track/0C6pIDg2abd0am3BwgeBM7) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Sky Still Blue](https://open.spotify.com/album/0VGS15dOqh1uA2mYF6cRaq) | 4:03 | 2020-11-05 |  |
 | [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 | 2020-12-08 |  |
+| [Haunted by You](https://open.spotify.com/track/03hLqqYkI9NrrkyCd6IbAg) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Haunted by You](https://open.spotify.com/album/7iryZotVB6K4OtMufi4Tfm) | 4:42 | 2022-10-14 |  |
 | [Hearts](https://open.spotify.com/track/2rPiEp1fCw6lTF9NWsO8XH) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 5:13 | 2020-11-05 | 2022-09-03 |
 | [Heavenly](https://open.spotify.com/track/7tLvtMMRMSzxqT6wTfGuAI) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Heavenly](https://open.spotify.com/album/6pYjhJeycyRubBoSv2RGjN) | 3:32 | 2020-11-05 |  |
 | [How Many Tears](https://open.spotify.com/track/3d8ZtqYPchg3dY05IpPNIM) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [How Many Tears](https://open.spotify.com/album/3PP99enC9m8vnlM5FJST6X) | 3:32 | 2021-04-09 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-66 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+68 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dhoom Dhaam \(From "Dasara"\)](https://open.spotify.com/track/67ZucGJu7FbvZ3bKK2pRy1) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Meenakshi Elayaraja](https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Dhoom Dhaam \(From "Dasara"\) \- Single](https://open.spotify.com/album/5eSoVOXHkHSEaL5MBMpJc1) | 4:02 | 2022-10-03 | 2022-10-06 |
 | [Dippam Dappam](https://open.spotify.com/track/3LEMmV0BgtM7TaJk40PFZU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 3:29 | 2022-04-28 |  |
 | [Edakku Modakku \(From "Naai Sekar"\)](https://open.spotify.com/track/5vrZxAYip2EmN7nvZE3UvX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Edakku Modakku \(From "Naai Sekar"\)](https://open.spotify.com/album/0yEnhyVVbO7StjERiZMwOX) | 3:09 | 2021-12-11 |  |
+| [Edhuvum Kedaikalana? \- From "Think Indie"](https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Edhuvum Kedaikalana? \(From "Think Indie"\)](https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc) | 2:49 | 2022-10-14 |  |
 | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/album/340wvzkkhWbH7wllc3UDLM) | 2:47 | 2021-12-01 | 2022-08-17 |
 | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/album/52wMl2ktm9T0EnixrpPwBz) | 3:32 | 2022-01-28 |  |
 | [Eyy Beta Idhu En Patta](https://open.spotify.com/track/0DY2T4yHZ0hvXrtWkG0itF) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Pushpa \- The Rise](https://open.spotify.com/album/08ao6XwCHVwzkABGokCrAh) | 3:56 | 2021-12-01 |  |
@@ -72,6 +73,7 @@
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2021-12-01 |  |
 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 | 2022-05-15 |  |
 | [Whistle Song](https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/3EwO4dSwucabYpmiSgVDjJ) | 3:22 | 2022-06-22 | 2022-08-08 |
+| [Who Am I ?](https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Prince \(Tamil\)](https://open.spotify.com/album/768hQJ2fKFv4Lq4TE0J1Hj) | 4:03 | 2022-10-14 |  |
 | [Yaathi Yaathi](https://open.spotify.com/track/36d0fy3TbyWFR4mth7hpVd) | [Abhishek C S](https://open.spotify.com/artist/1GofTjmdzOjxQojvoMxgfi), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Yaathi Yaathi](https://open.spotify.com/album/1MtVc2FnYzeClvBrICMnRw) | 3:59 | 2021-12-01 |  |
 | [Yelo Pullelo](https://open.spotify.com/track/44tt44Coydbx27QJlWiKXb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 3:25 | 2021-12-01 |  |
 

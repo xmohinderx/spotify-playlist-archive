@@ -780,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Rapport",
+        "url": "https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217526,
+      "name": "Rapport",
+      "url": "https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH"
+    },
+    {
+      "album": {
         "name": "TV Animation BLEACH Original Soundtrack 1",
         "url": "https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD"
       },

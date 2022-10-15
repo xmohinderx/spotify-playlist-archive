@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Shanti Celeste
 
-481 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+482 songs - 1 day 11 hr 40 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 | 2022-05-19 | 2022-08-12 |
 | [Come For Me](https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Come For Me](https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC) | 3:44 | 2022-06-09 | 2022-07-15 |
 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 | 2021-11-24\* | 2022-01-21 |
-| [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-06-23 |  |
+| [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-06-23 | 2022-10-15 |
+| [Company](https://open.spotify.com/track/2d6YYtRjKgAlO1xBubTjMM) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/3T3gVP98ZNhdVBoYJP1LPT) | 3:36 | 2022-10-13 |  |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-19 |  |
 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 | 2022-07-28 | 2022-08-20 |
 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/5YZQKpxMO2VDzoAiLCRbzt) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/24bJOVy2HNPw8qB0kWbA18) | 3:02 | 2022-07-21 | 2022-07-29 |
@@ -153,7 +154,7 @@
 | [everything's gunna be alright, niina said so](https://open.spotify.com/track/2rgN4YlCsfujwfmcL2UA12) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [100 dollar bill](https://open.spotify.com/album/1qynLst7OhBvksTgLTJZiw) | 4:15 | 2022-06-09 | 2022-08-27 |
 | [Ex Voto](https://open.spotify.com/track/4A6TC1uWovEvUhY61WuwhV) | [David Kochs](https://open.spotify.com/artist/59FBgWtPAe1RKnBbVOWEWP) | [Warming Unit LP](https://open.spotify.com/album/4t5GxMIFlutPJWB2YV7TQO) | 3:04 | 2022-06-09 | 2022-07-29 |
 | [Express Yourself](https://open.spotify.com/track/1eyLFH7hE2nekDclVJTUuE) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Express Yourself / Radiator](https://open.spotify.com/album/56PFS6rrDqyg7c23TcZXsR) | 3:46 | 2022-06-30 | 2022-10-14 |
-| [f1 racer](https://open.spotify.com/track/0Ume2ALqcG0LDPecFmNgAV) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [MK 3.5: f1 racer & locked in \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 2:26 | 2022-10-06 |  |
+| [f1 racer](https://open.spotify.com/track/0Ume2ALqcG0LDPecFmNgAV) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [MK 3.5: F1 Racer & Locked In \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 2:26 | 2022-10-06 |  |
 | [Faisal \(Envelops Me\)](https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Faisal \(Envelops Me\)](https://open.spotify.com/album/4ypZdBrZq9WRWbEkpqUA4D) | 4:10 | 2021-11-24\* | 2022-01-13 |
 | [Fall In Love](https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Fall In Love](https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV) | 5:49 | 2022-08-26 |  |
 | [Feel About You \- Edit](https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 3:36 | 2022-06-09 | 2022-09-23 |

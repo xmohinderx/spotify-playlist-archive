@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-264 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+265 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Am I Losing You \- Remastered](https://open.spotify.com/track/5UJCcSSiQRXT9ONGbgihDE) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Ultimate Ronnie Milsap](https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Amarillo by Morning](https://open.spotify.com/track/40UaGjNcP6ZRNDksHLrCli) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 2:48 | 2021-12-10 | 2022-07-29 |
 | [Anymore](https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [Anymore](https://open.spotify.com/album/5DfR3WXx0ior8OriOD9cK1) | 4:05 | 2021-12-10 | 2022-07-27 |
+| [Anyone](https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Anyone](https://open.spotify.com/album/3SZjxYfXYl3LWNI3VVV4NC) | 3:22 | 2022-10-14 |  |
 | [Back in the High Life Again](https://open.spotify.com/track/1wfBLVzNoH2pQEeydZAs6N) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 4:40 | 2021-12-10 | 2022-07-23 |
 | [Banana Pancakes](https://open.spotify.com/track/7B1qzMdyg0NnqNmRCLqbRs) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:36 | 2021-12-10 | 2022-07-13 |
 | [Bartender's Blues](https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 4:11 | 2021-12-10 | 2022-08-17 |
@@ -198,7 +199,7 @@
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Uncovered](https://open.spotify.com/album/5hs99gvzSISGOEmncgy853) | 3:30 | 2021-12-10 |  |
 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-12-10 |  |
 | [Should've Been A Cowboy](https://open.spotify.com/track/7c20lA9sS4c5CeulMOSAZt) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Should've Been A Cowboy](https://open.spotify.com/album/4qU7lxvipvrDnPVfydiiaH) | 3:35 | 2022-03-11 | 2022-07-26 |
-| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 |  |
+| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 | 2022-10-15 |
 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 | 2021-12-10 |  |
 | [Six Days On The Road](https://open.spotify.com/track/032sAei1X5MdodhFWfTwE2) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2022-03-11 | 2022-04-20 |
 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 | 2021-12-10 |  |

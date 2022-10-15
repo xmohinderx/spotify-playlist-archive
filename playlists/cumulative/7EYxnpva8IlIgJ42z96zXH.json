@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 186920,
       "name": "A Temporary High - Kito Remix",
       "url": "https://open.spotify.com/track/58542V08lKKhMHfkdU2Ugo"
@@ -2607,7 +2607,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 218683,
       "name": "Drifted",
       "url": "https://open.spotify.com/track/7IXpJCo6Tvizl4AY5lz1mc"
@@ -5944,6 +5944,24 @@
     },
     {
       "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/45kDJdYs8wGa5QEgPgf3Da"
+      },
+      "artists": [
+        {
+          "name": "TAY-G",
+          "url": "https://open.spotify.com/artist/5RIpbDhYiHLLph1U8AAehr"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117187,
+      "name": "Mariachi",
+      "url": "https://open.spotify.com/track/61HeSUQSphsL6pFuMnt4cC"
+    },
+    {
+      "album": {
         "name": "Mask Off",
         "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
       },
@@ -8084,6 +8102,24 @@
     },
     {
       "album": {
+        "name": "Shaded Blu",
+        "url": "https://open.spotify.com/album/2fosWbC9RvftudqavthdyQ"
+      },
+      "artists": [
+        {
+          "name": "Adult Art Club",
+          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Shaded Blu",
+      "url": "https://open.spotify.com/track/04g6Rh5XRWI8SQAaXRgydS"
+    },
+    {
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/1bfN1ujl48yk3nJTtNSQts"
       },
@@ -9016,6 +9052,28 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/4GabZkqfT3U88nTRefv4uN"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        },
+        {
+          "name": "r.em.edy",
+          "url": "https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181685,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/2oAu6FcBxUemCoj9jiGIky"
+    },
+    {
+      "album": {
         "name": "Taste of You",
         "url": "https://open.spotify.com/album/6OcfV7fsmHKyV8wXMzXvei"
       },
@@ -9093,7 +9151,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 250432,
       "name": "Ten Birds",
       "url": "https://open.spotify.com/track/356jo5rmKJDM5Uk0xT6qV5"

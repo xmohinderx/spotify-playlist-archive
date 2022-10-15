@@ -4,7 +4,7 @@
 
 > october? here we call it girl in red month 🍂🍁
 
-738 songs - 1 day 15 hr 9 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+739 songs - 1 day 15 hr 12 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -721,6 +721,7 @@
 | [While You're At It](https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [While You're At It](https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS) | 2:07 | 2022-09-08 |  |
 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2022-05-19 |  |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2022-05-19 |  |
+| [Wingwoman](https://open.spotify.com/track/0Hhx4yhcOFlRwl8ezjgvdW) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Wingwoman](https://open.spotify.com/album/5EB076dHjDLSI27bJw6PMi) | 2:56 | 2022-10-13 |  |
 | [With You All the Time \- \(from "Don't Worry Darling"\)](https://open.spotify.com/track/6bcWgQ2pMEKgvxCKGKb68g) | [Alice and Jack](https://open.spotify.com/artist/3nuzy35aOGrCBDNHPiFkH6) | [Don't Worry Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vd9ogxIg5CSBFuvHE60LZ) | 2:59 | 2022-09-23 |  |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2022-05-19 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-05-19 |  |

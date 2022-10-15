@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,762 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,125 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 56 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 |
 | 57 | [La Luna](https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Antologia Carlitos La Mona Jimenez](https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg) | 4:05 |
 | 58 | [Luna En Capricornio](https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Luna En Capricornio](https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe) | 2:59 |
-| 59 | [De Quien Es la Culpa / Como Lo Hacias Con El](https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Sigan Bailando](https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe) | 6:27 |
-| 60 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
+| 59 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
+| 60 | [De Quien Es la Culpa / Como Lo Hacias Con El](https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Sigan Bailando](https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe) | 6:27 |
 | 61 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
 | 62 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
 | 63 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 83 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 |
 | 84 | [No Te Creas Tan Importante](https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Para Rato!](https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ) | 3:47 |
 | 85 | [200 Copas \- En Vivo](https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas \(En Vivo\)](https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU) | 3:38 |
-| 86 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
+| 86 | [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 |
 | 87 | [Vuela](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es De Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 |
-| 88 | [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 |
+| 88 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
 | 89 | [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 |
 | 90 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 |
 | 91 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
-| 92 | [Cuarte Party](https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Cuarte Party](https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA) | 9:32 |
-| 93 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
+| 92 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
+| 93 | [Cuarte Party](https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Cuarte Party](https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA) | 9:32 |
 | 94 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
-| 95 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
+| 95 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
 | 96 | [Clavadito en Mi Piel](https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Clavadito en Mi Piel](https://open.spotify.com/album/7IyvidqKyPRQSYdh7IxNqQ) | 3:42 |
-| 97 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 |
-| 98 | [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 |
-| 99 | [Los Infieles](https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pleno](https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr) | 3:29 |
-| 100 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
+| 97 | [Mentira](https://open.spotify.com/track/7mYr1AckRMJGRIjXipJ7yW) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Mentira](https://open.spotify.com/album/6uSys9pSb3hy8jUOFlM8Uw) | 3:29 |
+| 98 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 |
+| 99 | [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 |
+| 100 | [Respetemos el duelo](https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dos Amantes](https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2) | 2:54 |
 
-Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDU0YmJmMDNiMTE0MDRkMjUxM2Q0ZDBlMDE1MWRmOTE2`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDEzODk2MjA3ZWVjYjhhMTcwMDkzYWJlMDZhNDQ5OGU1`

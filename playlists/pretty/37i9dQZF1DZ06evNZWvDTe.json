@@ -1,35 +1,15 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 6990,
+  "num_followers": 6997,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NjExMjQsMDAwMDAwMDBjMjZlNDZlNDc1ZGM4MzA1YTU1MzQxMmJlMGU3YmQzNg==",
+  "snapshot_id": "Mjc3NjI1NzYsMDAwMDAwMDA3YmU1NjNjNGMxZGEyODMzMGU1NTgxZDMzYjk0YjNmOA==",
   "tracks": [
     {
-      "added_at": "2022-10-13 13:24:35",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 229345,
-      "name": "Non Living Thing (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
-    },
-    {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Labadi (feat. King Promise)",
         "url": "https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4"
@@ -49,7 +29,27 @@
       "url": "https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 229345,
+      "name": "Non Living Thing (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Oofeets",
         "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "SR3",
         "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/5HX1iC3WxQtCfoUnYjVbam"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Sarkology",
         "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
@@ -353,31 +353,7 @@
       "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/70gNO57xq8Anipepibg32m"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "DJ Tira",
-          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
-        }
-      ],
-      "duration_ms": 253043,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L"
-    },
-    {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Masta Groove",
         "url": "https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY"
@@ -401,7 +377,31 @@
       "url": "https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/70gNO57xq8Anipepibg32m"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        }
+      ],
+      "duration_ms": 253043,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L"
+    },
+    {
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "No Fugazy",
         "url": "https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "One Shot (feat. Shatta Wale & Sarkodie)",
         "url": "https://open.spotify.com/album/67FjgBHWQh0hxSiGJOeaZm"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/2uhNP5JVU6OVoL5lOvH1tR"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Dw3",
         "url": "https://open.spotify.com/album/4taXdW8VaokKg5ycpjgLl6"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/4ISf9ZEUJyhcTBC4C8NP6l"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "M3gye Wo Girl (feat. Shatta Wale)",
         "url": "https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Wavy (feat. Sarkodie)",
         "url": "https://open.spotify.com/album/2zeHV57xWREaaxS5S3hhoB"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/7mD6V6JHA0daZKOvVrBKp7"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Epistles of Mama",
         "url": "https://open.spotify.com/album/22SPXtFzEEjbhUCDB44BQk"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/6usx8a6PVggafBOtKGUTyQ"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
@@ -637,27 +637,7 @@
       "url": "https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
-      "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
-    },
-    {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "CEO FLOW",
         "url": "https://open.spotify.com/album/3VFxOFL1DWLq1naU93Ab0P"
@@ -677,7 +657,27 @@
       "url": "https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
+      "album": {
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+    },
+    {
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
@@ -717,51 +717,23 @@
       "url": "https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/5djGPnowlb7n7u63XrblWp"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Efya",
-          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
         }
       ],
-      "duration_ms": 199952,
-      "name": "Saara (feat. Efya)",
-      "url": "https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a"
+      "duration_ms": 182164,
+      "name": "Sub Zero",
+      "url": "https://open.spotify.com/track/55z37b4GACx19xCvJezn9x"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
-      "album": {
-        "name": "Unlimited (The Tape)",
-        "url": "https://open.spotify.com/album/15HPzfbTwAjT3ZaQXrpPnP"
-      },
-      "artists": [
-        {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "FInally",
-      "url": "https://open.spotify.com/track/2owWE178Z5yaQcJUzNgf5U"
-    },
-    {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
@@ -781,7 +753,27 @@
       "url": "https://open.spotify.com/track/7DgHNchZQxCFOM34f2UsiF"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "duration_ms": 199952,
+      "name": "Saara (feat. Efya)",
+      "url": "https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a"
+    },
+    {
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9"
@@ -809,7 +801,7 @@
       "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
@@ -829,7 +821,47 @@
       "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
+      "album": {
+        "name": "Unlimited (The Tape)",
+        "url": "https://open.spotify.com/album/15HPzfbTwAjT3ZaQXrpPnP"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "FInally",
+      "url": "https://open.spotify.com/track/2owWE178Z5yaQcJUzNgf5U"
+    },
+    {
+      "added_at": "2022-10-14 13:36:42",
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+    },
+    {
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
@@ -849,39 +881,7 @@
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
-      "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/5djGPnowlb7n7u63XrblWp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 182164,
-      "name": "Sub Zero",
-      "url": "https://open.spotify.com/track/55z37b4GACx19xCvJezn9x"
-    },
-    {
-      "added_at": "2022-10-13 13:24:35",
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
-    },
-    {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/68vc2EUK4BQgFM3epVVlqp"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Teef Teef",
         "url": "https://open.spotify.com/album/1xikDf9KeiwGCPmi2BHEVX"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/675Kfnzftrr18DztlsHekL"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/3oXVoYCkJbjZE632mfnSG7"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/3KVKxXqDAszAvmmVYR9rIv"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
         "name": "Yawa (feat. Sarkodie)",
         "url": "https://open.spotify.com/album/2Vhd4O8Ed5IEdt0c655ATo"
@@ -1013,24 +1013,24 @@
       "url": "https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp"
     },
     {
-      "added_at": "2022-10-13 13:24:35",
+      "added_at": "2022-10-14 13:36:42",
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         },
         {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 248713,
-      "name": "Saa Okodie No (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
+      "duration_ms": 225307,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
     }
   ],
   "unique_name": "This Is Sarkodie",

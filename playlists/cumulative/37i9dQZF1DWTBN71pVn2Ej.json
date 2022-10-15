@@ -1680,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Greener Grass",
+        "url": "https://open.spotify.com/album/5B3f2hJ9Adl5StkQBq8bpf"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237920,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/6IboepxmrdjdyKDYrBDn7Y"
+    },
+    {
+      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
       },
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 230381,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW"
@@ -1817,10 +1835,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 167973,
       "name": "I Don't Need a Rocket to Find My Own Space",
       "url": "https://open.spotify.com/track/0WeFSW2vxAJ94y0EXWcTkt"
+    },
+    {
+      "album": {
+        "name": "The Warring Twenties",
+        "url": "https://open.spotify.com/album/3Anw877vaJLBkPoCCxVXVR"
+      },
+      "artists": [
+        {
+          "name": "LostAlone",
+          "url": "https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "I Don't Need a Rocket to Find My Own Space",
+      "url": "https://open.spotify.com/track/6UmsvKbBFOkDOxlgVIU6XY"
     },
     {
       "album": {
@@ -2229,6 +2265,24 @@
       "duration_ms": 168231,
       "name": "Little Miss Innocent",
       "url": "https://open.spotify.com/track/12IZSgW7o6fR37QUIfBA1A"
+    },
+    {
+      "album": {
+        "name": "I Don't Belong Anywhere",
+        "url": "https://open.spotify.com/album/2tg6crJ0g14sgA9qDLpRT3"
+      },
+      "artists": [
+        {
+          "name": "October Drift",
+          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231340,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/1CGXfTg13n4ffV2pSVqnkW"
     },
     {
       "album": {
@@ -2985,7 +3039,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 179540,
       "name": "RICH$$$",
       "url": "https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY"
@@ -3118,6 +3172,24 @@
     },
     {
       "album": {
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/4SjIdmDhVUA1eunwERtgPv"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "Self Portrait",
+      "url": "https://open.spotify.com/track/3hyNFwOZD4Gn9OiTaVuXrd"
+    },
+    {
+      "album": {
         "name": "Separate Ways",
         "url": "https://open.spotify.com/album/2YYRNRiW5C1FZiET3a1UVq"
       },
@@ -3165,7 +3237,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 233264,
       "name": "spiralling",
       "url": "https://open.spotify.com/track/310DWtC6vJzSPdexKb0Dnq"
@@ -3219,7 +3291,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 202330,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/1bgCgY2vAwJ3mRMjb0g8lA"
@@ -3417,7 +3489,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 231477,
       "name": "System (Failing)",
       "url": "https://open.spotify.com/track/0pDeQOXbQyA3rWKDxwS45c"
@@ -3590,6 +3662,24 @@
     },
     {
       "album": {
+        "name": "The Perfume of Decay",
+        "url": "https://open.spotify.com/album/7jzP2HrR4TyQA6wC5xJ56S"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220862,
+      "name": "The Perfume of Decay",
+      "url": "https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj"
+    },
+    {
+      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
       },
@@ -3681,6 +3771,24 @@
       "duration_ms": 200872,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6Vu4gc4ABD2KIBMLXgKSJn"
+    },
+    {
+      "album": {
+        "name": "Tribe",
+        "url": "https://open.spotify.com/album/0KN1TdgMQxIWmNnmwjC9RJ"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207605,
+      "name": "Tribe",
+      "url": "https://open.spotify.com/track/68SIJ8nkxtDWaVkvGW0ob7"
     },
     {
       "album": {

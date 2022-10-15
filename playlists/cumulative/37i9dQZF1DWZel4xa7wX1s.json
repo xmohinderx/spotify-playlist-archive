@@ -377,7 +377,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 289693,
       "name": "Chelsea",
       "url": "https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc"
@@ -681,6 +681,24 @@
       "duration_ms": 207677,
       "name": "Found It",
       "url": "https://open.spotify.com/track/7MNrm7QSIPBgzXIsXic6r1"
+    },
+    {
+      "album": {
+        "name": "Let's Go Sunshine",
+        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2019-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203081,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
     },
     {
       "album": {

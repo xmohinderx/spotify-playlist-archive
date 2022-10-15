@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-100 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+101 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2021-10-26 | 2022-03-17 |
 | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/track/2c15izvJZsztJa3QWer3sW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/album/19uZMpx3fqVJW5z7sdfQrF) | 3:07 | 2021-10-26 | 2022-03-17 |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/6UgCwRo8iOguJ0DbGZh29q) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 4:02 | 2021-10-26 | 2022-03-17 |
-| [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 2:20 | 2022-03-17 |  |
+| [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 2:20 | 2022-03-17 | 2022-10-15 |
+| [Seven](https://open.spotify.com/track/3zMLVcYxdBYXfzd3v0UK4k) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/3e3JdUqN93nSTtx0MIHTuK) | 2:20 | 2022-03-17 |  |
 | [Sharingan](https://open.spotify.com/track/369BjuBIVwQ9Z0ZvNrdCK9) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/3Dp4gQKgU5nDuFp10dwDoC) | 3:03 | 2022-03-17 |  |
 | [Shining](https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/0mWrV1xXwbYAXuOkC7KK9Y) | 3:09 | 2022-03-17 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-10-26 | 2022-03-17 |

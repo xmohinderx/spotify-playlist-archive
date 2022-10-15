@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 11306,
+  "num_followers": 11318,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMGFjZWU1YWFjOWNjYjcxNGYxYjg4NDdlNGJiZjc3NDMw",
+  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMDkyN2JkZTQ2ZTFlNzk0YjE3NGM5NzNiNjkxNjM4YzI0",
   "tracks": [
     {
       "added_at": "2022-05-20 11:08:57",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Hard Life",
-        "url": "https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Hard Life",
-      "url": "https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Hard Life",
+        "url": "https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Hard Life",
+      "url": "https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -487,18 +503,18 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+        "name": "Isolation Tapes",
+        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+      "duration_ms": 210226,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -515,22 +531,6 @@
       "duration_ms": 279638,
       "name": "Life Isn't",
       "url": "https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Isolation Tapes",
-        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t"
-      },
-      "artists": [
-        {
-          "name": "A\u00efrto",
-          "url": "https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV"
-        }
-      ],
-      "duration_ms": 175275,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Crazy Good",
         "url": "https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3"
       },
@@ -691,6 +675,38 @@
       "duration_ms": 231976,
       "name": "Crazy Good",
       "url": "https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t"
+      },
+      "artists": [
+        {
+          "name": "A\u00efrto",
+          "url": "https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV"
+        }
+      ],
+      "duration_ms": 175275,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -811,6 +827,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/6jPxo5X8PDJCaDcvqVSeNC"
       },
@@ -843,22 +875,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 223517,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6"
       },
@@ -875,6 +891,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 223517,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
@@ -887,6 +919,22 @@
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -919,22 +967,6 @@
       "duration_ms": 210027,
       "name": "Preaching To The Choir",
       "url": "https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -999,18 +1031,18 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
+        "name": "Somewhere In-Between",
+        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
       },
       "artists": [
         {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
         }
       ],
-      "duration_ms": 248878,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0"
+      "duration_ms": 176706,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/0hB3Ht06fhqwX8YHKk6Jrp"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -1035,50 +1067,18 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Somewhere In-Between",
-        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
       },
       "artists": [
         {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
         }
       ],
-      "duration_ms": 176706,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/0hB3Ht06fhqwX8YHKk6Jrp"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Come Around EP",
-        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 228473,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe"
+      "duration_ms": 248878,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0"
     },
     {
       "added_at": "2022-05-20 11:08:57",

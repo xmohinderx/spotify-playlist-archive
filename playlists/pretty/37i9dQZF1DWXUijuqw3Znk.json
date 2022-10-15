@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2247,
+  "num_followers": 2257,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMGRkOTkwODk3YjgxMGMyYWQ0MGM1NWMwMzg0YWQ4ZWY5",
+  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDdjZWQyYTkyYjI5Zjk4ZTEwNWMyMjNmZDM1MGZkNGEz",
   "tracks": [
     {
       "added_at": "2022-10-07 04:35:55",
@@ -267,6 +267,30 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Rollin' (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
@@ -295,30 +319,6 @@
       "duration_ms": 223087,
       "name": "Simon Dominic",
       "url": "https://open.spotify.com/track/5MQqzMHkLwQQltVSE6ImXm"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Rollin' (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 270500,
       "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 220926,
+      "name": "Always Awake - Bonus Track",
+      "url": "https://open.spotify.com/track/6DcJLFmrrkwqhVOtIKr36u"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "HIGH RISK HIGH RETURN",
         "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 231182,
       "name": "COMPASS (Feat. Chin)",
       "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 220926,
-      "name": "Always Awake - Bonus Track",
-      "url": "https://open.spotify.com/track/6DcJLFmrrkwqhVOtIKr36u"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "TELEVISION",
-        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 176244,
-      "name": "Genius (Behind the scene)",
-      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
         "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 187893,
       "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
       "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "TELEVISION",
+        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 176244,
+      "name": "Genius (Behind the scene)",
+      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 186644,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+      "duration_ms": 161191,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 161191,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1655,22 +1655,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         },
         {
-          "name": "Ja Mezz",
-          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 256071,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1703,26 +1707,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         },
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Ja Mezz",
+          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
         }
       ],
-      "duration_ms": 273267,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+      "duration_ms": 256071,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG"
-      },
-      "artists": [
-        {
-          "name": "A-chess",
-          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
-        },
-        {
-          "name": "KOONTA",
-          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Going Home (feat. Koonta)",
-      "url": "https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1875,6 +1855,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG"
+      },
+      "artists": [
+        {
+          "name": "A-chess",
+          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Going Home (feat. Koonta)",
+      "url": "https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "changes",
         "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
       },
@@ -1891,6 +1891,22 @@
       "duration_ms": 249875,
       "name": "changes (feat. Loopy)",
       "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 240542,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1915,22 +1931,6 @@
       "duration_ms": 129600,
       "name": "Yessir!",
       "url": "https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 240542,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
     },
     {
       "added_at": "2022-10-07 04:35:55",

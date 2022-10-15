@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-527 songs - 1 day 22 hr 17 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+528 songs - 1 day 22 hr 20 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Binaural Focus Drone](https://open.spotify.com/track/2O0gaBmFsBZXUlG8CMiMyq) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:36 | 2021-10-20 |  |
 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 | 2021-10-20 | 2022-09-10 |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-07-29 |
+| [Blob On The Lawn](https://open.spotify.com/track/6hBn3ujYOMYKwTF1fXgQMS) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/22pNuld3QFrQ2dBfztOIU6) | 2:52 | 2022-03-11 |  |
 | [Blonde](https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Blonde](https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl) | 4:10 | 2021-10-20 |  |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-20 | 2022-07-29 |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2021-10-20 |  |
@@ -406,7 +407,7 @@
 | [Solar System](https://open.spotify.com/track/5bPirVpdc1Dc6S9sccjSBj) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Spheres \(Original Score\)](https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR) | 2:05 | 2021-10-20 | 2022-07-25 |
 | [Solar Witnesses](https://open.spotify.com/track/5YKNMbXHA0TaiAiOL8meI9) | [Jupiter Jax](https://open.spotify.com/artist/5EvzRLTfx4YJA71RPEHPmq) | [No Such Thing](https://open.spotify.com/album/66qp2ZAHZ7a6WY19rK2btp) | 1:34 | 2021-10-20 | 2022-07-29 |
 | [Solidit](https://open.spotify.com/track/1nfZXgLSdbR188vL2P7vrF) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Solidit](https://open.spotify.com/album/4Iu295PX9PaSbEpgcjdTAb) | 3:50 | 2021-10-20 | 2022-07-24 |
-| [Some Way](https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv) | 3:37 | 2022-01-21 |  |
+| [Some Way](https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv) | 3:37 | 2022-01-21 | 2022-10-15 |
 | [Somni](https://open.spotify.com/track/2oqXgGtnE6ze9Hqib8sm2U) | [Bhed](https://open.spotify.com/artist/292vJ2PVmjnLGPKq7NsFLk) | [Somni](https://open.spotify.com/album/2LPIoyjK6VR7i3kSH7f1Ff) | 6:54 | 2021-10-20 | 2022-07-26 |
 | [SOTRS](https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 9:30 | 2021-10-20 |  |
 | [SOTRS](https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 9:30 | 2021-10-20 | 2022-07-14 |

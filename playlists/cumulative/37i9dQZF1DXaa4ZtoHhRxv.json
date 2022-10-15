@@ -1588,6 +1588,28 @@
     },
     {
       "album": {
+        "name": "The Bergie Remixes",
+        "url": "https://open.spotify.com/album/4zjYxvgfXJRwKR4mNJgvKb"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        },
+        {
+          "name": "Bergie",
+          "url": "https://open.spotify.com/artist/3KztHBCsYWbX5d8xn7XeU9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205125,
+      "name": "Make You Mine - Bergie Remix",
+      "url": "https://open.spotify.com/track/4lHyZfiqN1tL4g77Gelbax"
+    },
+    {
+      "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },

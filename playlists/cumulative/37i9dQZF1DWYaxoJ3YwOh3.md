@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-67 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
+68 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Savasana Dream](https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Savasana Dream](https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS) | 2:44 | 2022-09-30 |  |
 | [Shining Through](https://open.spotify.com/track/1ZbwflBaFjdfZbdK4C5uK1) | [Hamid Motebassem](https://open.spotify.com/artist/76AfiUNXweLpRzTYqcAFPx) | [The Azeri Project](https://open.spotify.com/album/3qWl7PaIKVOhc4COB6ExP6) | 1:37 | 2022-09-06 |  |
 | [Silent Saunas](https://open.spotify.com/track/2uO03QD9Ftji8n2ZLKglGi) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Silent Saunas](https://open.spotify.com/album/3HByXhtdotcuoB91KHcc1R) | 3:59 | 2022-09-06 |  |
-| [Siretzi Yares Daran \(They Have Taken the One I Love\)](https://open.spotify.com/track/2W2AKnHmEN76MnVYBRtos8) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 6:59 | 2022-09-06 |  |
+| [Siretzi Yares Daran \(They Have Taken the One I Love\)](https://open.spotify.com/track/2W2AKnHmEN76MnVYBRtos8) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 6:59 | 2022-09-06 | 2022-10-15 |
+| [Siretzi Yares Daran \(They Have Taken the One I Love\)](https://open.spotify.com/track/2dhdVOLoYr46OUlsS70S1f) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 6:59 | 2022-09-30 |  |
 | [Spiritual Mindfulness](https://open.spotify.com/track/4S4igfG2j922w8hrDWRHvj) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 3:54 | 2022-09-06 |  |
 | [Still Waves \(432hz\)](https://open.spotify.com/track/6qlL9nfU00kj1bPr99uryF) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Still Waves \(432hz\)](https://open.spotify.com/album/0FmfRdFZX0sdEsU5VOtA1i) | 3:52 | 2022-09-06 |  |
 | [Stress Relief](https://open.spotify.com/track/5fF2vOX7ujJVBFLGRko9yv) | [Cafe Tantra Chill](https://open.spotify.com/artist/72vLOUKSCa5df8OyEqJ4VY) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:20 | 2022-09-06 |  |

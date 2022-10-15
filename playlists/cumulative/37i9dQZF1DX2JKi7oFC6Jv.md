@@ -4,7 +4,7 @@
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-131 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/7I0Kgq7rLWFyN1Pzlv21nE)
+132 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/7I0Kgq7rLWFyN1Pzlv21nE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 | 2022-04-13 |  |
 | [Things We Do For Love](https://open.spotify.com/track/6VMgYAmlFTJrrKbGcLcAGH) | [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD), [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [Divas](https://open.spotify.com/album/4E2qErSKAkvn3yJc4LBXAH) | 3:31 | 2022-04-13 | 2022-07-27 |
 | [Things We Do for Love](https://open.spotify.com/track/6aK9ltNssyBsh0C6Q9ZsVZ) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH), [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD) | [Uk Garage Beats V4](https://open.spotify.com/album/0IhOfm65ovw4xuw8XXsef3) | 3:31 | 2022-04-13 |  |
-| [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 | 2022-04-13 |  |
+| [Timbao](https://open.spotify.com/track/1jbha5KqgpV5qH4A4kZDnu) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/3bKvBimZKZhXnnpfTT9awr) | 3:48 | 2022-04-13 |  |
+| [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 | 2022-04-13 | 2022-10-15 |
 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 | 2022-04-13 |  |
 | [Too Many Man \- Club Mix](https://open.spotify.com/track/6NOc7HLccGFAAc4HPXTedy) | [Boy Better Know](https://open.spotify.com/artist/180XcSBai6RDpuElMcKk2v) | [Too Many Man](https://open.spotify.com/album/4qEUion6i9WeVZnBuXhB90) | 3:33 | 2022-04-13 | 2022-07-29 |
 | [Township Funk](https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi) | 5:49 | 2022-04-13 |  |

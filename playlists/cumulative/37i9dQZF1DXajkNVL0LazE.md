@@ -4,7 +4,7 @@
 
 > Indie folk that defined the 2000s.
 
-196 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/7oAJosHP5U7Gjb4MjQ0A6m)
+197 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/7oAJosHP5U7Gjb4MjQ0A6m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 | 2022-02-04 |  |
 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 | 2022-02-04 |  |
 | [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2022-02-04 | 2022-10-13 |
+| [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 | 2022-02-04 |  |
 | [Lost in My Mind](https://open.spotify.com/track/7paeGrohxo8xM3LlsIXYBM) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3MhJ8lLj98SPgtiH16ZmXo) | 4:19 | 2022-02-04 | 2022-07-29 |
 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 | 2022-02-04 |  |
 | [Lull](https://open.spotify.com/track/5ohBqt39l2dSC7fCf80LaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Weather Systems](https://open.spotify.com/album/4mpnWLDzpd4Xb8xgDJFHgu) | 5:09 | 2022-02-04 | 2022-07-29 |
@@ -137,7 +138,7 @@
 | [Rivers and Roads](https://open.spotify.com/track/7d1GPc45c9wtmYxNSwLXTy) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3MhJ8lLj98SPgtiH16ZmXo) | 4:44 | 2022-02-04 | 2022-07-29 |
 | [Romulus](https://open.spotify.com/track/1G8ie1boOkATlOVesYdv2C) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/4mIfqTE8DOnFRFWUQH02Og) | 4:41 | 2022-02-04 | 2022-07-29 |
 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 | 2022-02-04 |  |
-| [Rooks](https://open.spotify.com/track/2UZnNDCLZHMWR0LCEzFxBB) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Rook](https://open.spotify.com/album/5pYcP11SaCxYKqUAXeBIu2) | 3:21 | 2022-02-04 |  |
+| [Rooks](https://open.spotify.com/track/2UZnNDCLZHMWR0LCEzFxBB) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Rook](https://open.spotify.com/album/5pYcP11SaCxYKqUAXeBIu2) | 3:21 | 2022-02-04 | 2022-10-15 |
 | [Rooks](https://open.spotify.com/track/3wS568uaBrv1ULtMmh9bbN) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Rook](https://open.spotify.com/album/3eM6iFsshHr3QnFn0jYCCQ) | 3:21 | 2022-02-04 | 2022-07-27 |
 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 | 2022-02-04 |  |
 | [Santa Maria de Feira](https://open.spotify.com/track/0kBh6vvWzdzomwviQXL7PN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Cripple Crow](https://open.spotify.com/album/08v5KUgZWDkUzKY2Q3m0OC) | 4:35 | 2022-02-04 | 2022-07-13 |

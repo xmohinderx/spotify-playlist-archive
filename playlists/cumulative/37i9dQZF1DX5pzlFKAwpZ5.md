@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-121 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+125 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2022-10-14 |
 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 |  |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2022-01-07 |  |
+| [Brook](https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:14 | 2022-10-15 |  |
 | [Byakudan Rework](https://open.spotify.com/track/5f3MAWb9wPn5doAeeMhedd) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Byakudan Rework](https://open.spotify.com/album/7gKKb1hDCBX16LzNGjwt83) | 2:54 | 2022-01-07 |  |
 | [Cassiopeia, 6 July 1982](https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [MDT001](https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 | 2022-01-07 |  |
@@ -89,6 +90,7 @@
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-01-07 |  |
 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 | 2022-01-07 |  |
 | [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 | 2022-01-07 |  |
+| [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-15 |  |
 | [Simple](https://open.spotify.com/track/3NycsY2xkMtw46D7rlUs3v) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 3:12 | 2022-03-25 |  |
 | [Sink](https://open.spotify.com/track/2sIqJEaOkljoxWkK6xeCXz) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Escapism](https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE) | 6:24 | 2022-01-07 |  |
 | [Slow Flow](https://open.spotify.com/track/36rMFJK7q1LOwc3JBD6gne) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.1](https://open.spotify.com/album/4cnvrE64yUSs7WlrfIzpAH) | 4:54 | 2022-07-22 | 2022-08-04 |
@@ -114,7 +116,9 @@
 | [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 | 2022-10-01 |
 | [ubi](https://open.spotify.com/track/5SpqLL6fVoeRKSPrBqIz1k) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:03 | 2022-01-07 | 2022-07-29 |
 | [Under Water](https://open.spotify.com/track/1eRK03Al2xKms7tEV7baym) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Mist](https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6) | 3:36 | 2022-01-07 |  |
+| [Unexpected](https://open.spotify.com/track/4dEaEf5BHeVegBLSjDxz6s) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Unexpected](https://open.spotify.com/album/3T1YzxxMKpRbyGmmJhJw52) | 4:06 | 2022-10-15 |  |
 | [Uprise](https://open.spotify.com/track/6Irafr3hWhoQOgWkNUQXIr) | [Keigo Tanaka](https://open.spotify.com/artist/6t4tsh9Xx0oPZQayHbxLb3) | [Uprise](https://open.spotify.com/album/4KZAgayKyBYJaD4ZQ9cxH2) | 8:15 | 2022-03-25 |  |
+| [Veil](https://open.spotify.com/track/59fyg6qoudEnDdbZFTnifW) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:06 | 2022-10-15 |  |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-06 |  |
 | [Warm Rain in June I](https://open.spotify.com/track/6Le1Cc6RGvSJjOcqNmrVL0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Black Swallow](https://open.spotify.com/album/5Jjb86zs7y0MmchMBNvpNU) | 3:34 | 2022-01-07 |  |
 | [Wash Away](https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Wash Away](https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq) | 3:01 | 2022-01-07 |  |

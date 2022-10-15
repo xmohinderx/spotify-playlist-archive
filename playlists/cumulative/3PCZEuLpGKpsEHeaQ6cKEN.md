@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: D.O.D &amp; Raphaella
 
-281 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+282 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Two Caps](https://open.spotify.com/track/6xBU9ordUqC3tzhE3uKVKl) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Two Caps](https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA) | 3:03 | 2022-08-25 |  |
 | [Two Monkeys](https://open.spotify.com/track/2cprut9Zu20P4cs1PyzYdF) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Two Monkeys](https://open.spotify.com/album/3gINmRK5VytJ8OumRWoXx7) | 3:16 | 2022-06-16 |  |
 | [Typical Love](https://open.spotify.com/track/5aFCPiMAXl7htQm6Yv5l4I) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Typical Love](https://open.spotify.com/album/1q3fMhvN1FYfWeVOEb6ny0) | 2:55 | 2022-06-09 | 2022-10-14 |
+| [Under The Night](https://open.spotify.com/track/14S1jiM3WdvPmGiDXKcaK1) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Under The Night](https://open.spotify.com/album/1mH8hpB8Esljgm9mq9CLZh) | 2:39 | 2022-10-14 |  |
 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 | 2022-06-09 |  |
 | [Vulnerability](https://open.spotify.com/track/3yznQfWr6iE6mNgQ4HJCkt) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/5iLIMtmPbmcPDVqUcdbv0m) | 3:45 | 2022-09-29 |  |
 | [Wait For Me \(feat\. Goody Grace & Ant Clemons\)](https://open.spotify.com/track/5yTxd9MTDw2kuvc2U3aqN7) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Season 1: Welcome Home](https://open.spotify.com/album/0oNEklwYgT45OsnLIsKM1I) | 2:40 | 2022-06-09 |  |

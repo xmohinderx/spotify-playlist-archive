@@ -15032,6 +15032,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Morning",
+        "url": "https://open.spotify.com/album/6JnE8rSaUHTaDAvX2z6car"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65547,
+      "name": "Wonderful Morning",
+      "url": "https://open.spotify.com/track/05ABFqBySEaFvOI3K9KYGh"
+    },
+    {
+      "album": {
         "name": "Orange Glow",
         "url": "https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk"
       },

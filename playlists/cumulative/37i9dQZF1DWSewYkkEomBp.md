@@ -4,7 +4,7 @@
 
 > The perfect tunes to accompany your lazy day in the garden.
 
-131 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
+132 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 | 2020-05-18 |  |
 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 | 2020-05-18 | 2022-07-29 |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2020-05-18 |  |
-| [Time of the Season \- Mono Version](https://open.spotify.com/track/2iUyvvPhSYN68f67c7xeVo) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season / She's Not There](https://open.spotify.com/album/3U7gkGSzvOl0QqCe0dnOdW) | 3:34 | 2020-05-18 |  |
+| [Time of the Season \- Mono Version](https://open.spotify.com/track/2iUyvvPhSYN68f67c7xeVo) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season / She's Not There](https://open.spotify.com/album/3U7gkGSzvOl0QqCe0dnOdW) | 3:34 | 2020-05-18 | 2022-10-15 |
+| [Time of the Season \- Mono Version](https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 3:34 | 2020-05-18 |  |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 | 2020-05-18 |  |
 | [Walking In Rhythm](https://open.spotify.com/track/65vssm44ghOVf4tBZMY2AE) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [The Blackbyrds](https://open.spotify.com/album/25cjuydCsuQUOiMvEsnsVj) | 4:13 | 2020-05-18 | 2022-07-29 |
 | [Walking In Rhythm](https://open.spotify.com/track/6lBOzYGkoPJz4tte6J4g0N) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Flying Start](https://open.spotify.com/album/6idrZJZqD3UZ4o1WuhvBhp) | 4:14 | 2020-05-18 |  |

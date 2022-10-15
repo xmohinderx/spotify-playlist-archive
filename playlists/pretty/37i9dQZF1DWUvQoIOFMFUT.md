@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,280 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,273 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 25 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 |
 | 26 | [Only the River](https://open.spotify.com/track/63B3O9pt9RwbeBfDvAae6H) | [Alex Luca](https://open.spotify.com/artist/3Gf3YElKXsG1ukhCyxHR9l) | [Only the River](https://open.spotify.com/album/3O6op1uiIABkqL3B55WbIZ) | 2:38 |
 | 27 | [Flow Freely \- From the Documentary Film “Reflection \- A Walk With Water”](https://open.spotify.com/track/0M1uEYzwNYhEZQ5qItkBA1) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Justin Kauflin](https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU) | [Flow Freely \(From the Documentary Film “Reflection \- A Walk With Water”\)](https://open.spotify.com/album/0kDvak6UcXulmP9xTE0yFY) | 3:32 |
-| 28 | [Circles](https://open.spotify.com/track/5zsUUcqFU7CggQrBHnKbYV) | [WILDES](https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR) | [Circles](https://open.spotify.com/album/3ZoiCRWnbxTaQfxuFmGBGi) | 4:18 |
+| 28 | [Circles](https://open.spotify.com/track/5myZVX38UJW62XkDZR3N4u) | [WILDES](https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR) | [Circles](https://open.spotify.com/album/47NSsDlBHgoKAdNAYgQQ9F) | 4:18 |
 | 29 | [Bones](https://open.spotify.com/track/4ikx8rEoPUzILdxGpi5goG) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 2:58 |
 | 30 | [Borders](https://open.spotify.com/track/1CJqhfEyugSrJlt6nioGMP) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Borders](https://open.spotify.com/album/4HF2by1nUuHhMrhSqDvIwE) | 4:20 |
 | 31 | [Take Me Apart](https://open.spotify.com/track/5Vklvoh0PmgKfekJyVadFs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Take Me Apart](https://open.spotify.com/album/0AKeQGFy4FxMEaE6yS65bY) | 4:00 |
-| 32 | [Full Moon](https://open.spotify.com/track/4UAjNk9bNHnu38kFGAvpUv) | [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Full Moon](https://open.spotify.com/album/7q0xGQXyCQOBNxcOot3P2c) | 3:41 |
+| 32 | [Full Moon](https://open.spotify.com/track/0XUHPViPq6xyFgpqkdZnB8) | [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Full Moon](https://open.spotify.com/album/7hYEoB8u0RqrfHFTCG9Bam) | 3:41 |
 | 33 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
 | 34 | [Liquid Love](https://open.spotify.com/track/02X75Hn5XDRg60ZtLYLCqi) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:51 |
 | 35 | [It’s All So Incredibly Loud](https://open.spotify.com/track/0H8LHYMi4hzbwSzxp7DOxR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [It’s All So Incredibly Loud](https://open.spotify.com/album/0YuU3tqK56d8UfewdAqCIl) | 4:19 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 72 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
 | 73 | [David](https://open.spotify.com/track/6LXSmPnZczqqzYqVFHupHW) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [White Noise EP](https://open.spotify.com/album/2ogVdcADw5gMNtKuccLQRw) | 3:52 |
 | 74 | [Innocent Fallacy](https://open.spotify.com/track/2P6KUtMod1AtEWqTzGMMJV) | [nuriveben](https://open.spotify.com/artist/1IIdVNdiJ3ooW3K3AW28tr) | [Innocent Fallacy](https://open.spotify.com/album/2brcj8KuBs3PiNRIouSyIJ) | 7:06 |
-| 75 | [Glass Shards](https://open.spotify.com/track/1Yhkq1TUW3d1WYyhS7Vt9g) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:08 |
+| 75 | [Glass Shards](https://open.spotify.com/track/2ZJk9T8MQLZsBVFlePHXn3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:08 |
 | 76 | [Jealous](https://open.spotify.com/track/2i0AHHG97Cs8tRrBea2tH1) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/1aOr4fzpxI4I1MWzwtXKcl) | 3:36 |
 | 77 | [Magpie](https://open.spotify.com/track/4mRAyZ4H0WbktJqQ7CWCxR) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Magpie](https://open.spotify.com/album/2d7qZUjyAPfRYZ8FVM2pe1) | 5:57 |
 | 78 | [Tethered, Wrapped Around](https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 100 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDY4MzNlZTViZjMzZGQ4MTMwZWUxYmRkY2RkOGU1NWI5`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGJlOGUwNTA1NjhmZWI4Y2IxYTI1NzAyOTQ2ODE1NmNk`

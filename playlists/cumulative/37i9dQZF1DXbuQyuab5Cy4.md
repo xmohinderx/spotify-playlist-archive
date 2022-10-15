@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-98 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
+99 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Dancing with the Devil \(feat\. Patrick Stump & Travis Barker\)](https://open.spotify.com/track/23qsXVjMacN21DNRjfWEBx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Get Wet](https://open.spotify.com/album/7d2uP5sqFrhFz9p6CA9gu6) | 3:58 | 2021-10-28 |  |
 | [Dead](https://open.spotify.com/track/7cdOiZBLqp31qFjMTBAXTL) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Duality](https://open.spotify.com/album/4VT2smjUwrP73Ni00hyLta) | 3:20 | 2021-10-28 |  |
 | [Dead To Me \- Original Mix](https://open.spotify.com/track/6yaihZ7YizWwJ61Cu6Kktl) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 3:50 | 2021-10-28 |  |
+| [DEADZONE](https://open.spotify.com/track/3I8sa5jauQT4bDGLLsCPB0) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [Welcome Presents Little Comp Of Horrors Vol\. 4](https://open.spotify.com/album/3wwM2kBsfuXEYiiVtMiSLg) | 3:39 | 2022-10-14 |  |
 | [Dem Fraid](https://open.spotify.com/track/3Ui9jL2IyUyu2EzffYmqPp) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Taranchyla](https://open.spotify.com/artist/2xSkGZBEbUVJ8z1E0d0pzB) | [Cartel](https://open.spotify.com/album/6ElpxZorQUL5VgWl4TVVQi) | 3:30 | 2021-10-28 |  |
 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 | 2021-10-28 |  |
 | [Evil Inside \- VIP](https://open.spotify.com/track/3WK7bi8adAzITYZdoSQuZz) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Evil Inside \(VIP\)](https://open.spotify.com/album/53dtE8qPToUhpY5U8HFzPc) | 3:10 | 2021-10-28 |  |

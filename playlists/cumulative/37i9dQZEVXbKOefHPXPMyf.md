@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-738 songs - 1 day 17 hr 52 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+739 songs - 1 day 17 hr 56 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Baby Tu Me Encantas \- Spanish Version](https://open.spotify.com/track/79f59WX858txqdTECC9czE) | [Hansel Casty](https://open.spotify.com/artist/1EwJJnjwVcj5dwPW5YfLcQ) | [Baby Tu Me Encantas \(Spanish Version\)](https://open.spotify.com/album/4kCOoxEas1r7QHbeUrVXnI) | 2:09 | 2022-09-28 |  |
 | [Babymama \- Remix](https://open.spotify.com/track/1d3mQY9cJeyx0EMxBkXORn) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Babymama \(Remix\)](https://open.spotify.com/album/1s00bDiU1JmP4Hpgb7A6Hs) | 7:24 | 2022-01-20 | 2022-01-26 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-30 | 2022-09-11 |
-| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-26 |  |
+| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-26 | 2022-10-15 |
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-04-13 | 2022-05-08 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-29 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-04-20 |
@@ -285,6 +285,7 @@
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-24 | 2022-01-27 |
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-07-16 | 2022-08-28 |
 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2022-04-13 | 2022-04-18 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-14 |  |
 | [Higher Power](https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:26 | 2022-03-20 | 2022-03-28 |
 | [Himno al 15 de Setiembre](https://open.spotify.com/track/7qrHx8xDWEyaIZZ7bmhAdy) | [Fabián Arias Álvarez](https://open.spotify.com/artist/1uZWZBf8tI658fw0tAyYVi), [Educación Musical Región de Coto](https://open.spotify.com/artist/0HB0bXmhN7rELEvnOErRqC) | [Himno al 15 de Setiembre](https://open.spotify.com/album/2XXgjMeGT5DdTzh1ZLXErP) | 3:14 | 2022-09-16 | 2022-09-24 |
 | [Himno del Club Sport Cartaginés](https://open.spotify.com/track/0YgVKMJ7bRq7rtJkQ5sVfa) | [Fuerza Azul \- Cartaginés](https://open.spotify.com/artist/1Vh7W88iSKpmKtMDFoX6Bz) | [Csc](https://open.spotify.com/album/5WND3hr66BkbLkdegbhAvo) | 2:09 | 2022-07-02 | 2022-07-18 |

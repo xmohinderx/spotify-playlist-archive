@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,405 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,610 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 76 | [Show Me What I'm Looking For](https://open.spotify.com/track/2h8iXIwEdEnQywhFC4q5e5) | [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Coming To Terms](https://open.spotify.com/album/3UEZrwx6H0nszMN2g15JoD) | 4:00 |
 | 77 | [One Thing](https://open.spotify.com/track/2BepFzUWfczDk68DXj10w3) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Finger Eleven](https://open.spotify.com/album/4KbP58I8HjOsd1S8J7Ahjx) | 4:39 |
 | 78 | [Miserable At Best](https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 5:16 |
-| 79 | [Home](https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 4:15 |
-| 80 | [Just So You Know](https://open.spotify.com/track/3MEt5KPNRD7RpE8BnvJe6B) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Right Where You Want Me](https://open.spotify.com/album/2fcFCBEV9lCi8eQeLJIDYA) | 3:53 |
+| 79 | [Just So You Know](https://open.spotify.com/track/3MEt5KPNRD7RpE8BnvJe6B) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Right Where You Want Me](https://open.spotify.com/album/2fcFCBEV9lCi8eQeLJIDYA) | 3:53 |
+| 80 | [Home](https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 4:15 |
 | 81 | [Torn](https://open.spotify.com/track/0KDaN0HL3TcJVTbXlQCEsS) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/6HOvWskl058duikMCVOLcW) | 4:04 |
 | 82 | [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 |
 | 83 | [Broken](https://open.spotify.com/track/5f6cTFoUenDiCJDGecYiuB) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Who We Are](https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 99 | [Everything](https://open.spotify.com/track/0QRcOtv4LE9C2QTfbbkL1e) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Fefe Dobson](https://open.spotify.com/album/12PDdl6duI4nUZJZzQuNdK) | 4:11 |
 | 100 | [Tomorrow \- Radio Remix](https://open.spotify.com/track/1QWgvZgnWuwZF1RCt5JcMB) | [Lillix](https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v) | [Tomorrow](https://open.spotify.com/album/3dqH1U87BjXCP2LMm2lSPd) | 3:39 |
 
-Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMGM3MGNjOTE5NzU2ZTllMTVhNDFlMmU3MWUwMWZkMjVl`
+Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMDE2ZDk1MDcxZjhkNjVhY2ZhZTI1ZmI1MzAzNTA3MjFm`

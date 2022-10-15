@@ -2,9 +2,9 @@
 
 ### [Top Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Mati Gómez
+> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Silvestre Dangond
 
-310 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+311 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 | 2022-02-02 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-13 |  |
 | [Suéltame](https://open.spotify.com/track/2gChGZjncJenm7wtuyuvIt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Suéltame](https://open.spotify.com/album/47Tem5uw8ayCTyhDv1oXOY) | 2:53 | 2022-05-30 |  |
+| [Sé Que Estás Con Él](https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [INTRUSO](https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw) | 3:12 | 2022-10-14 |  |
 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 | 2022-06-24 |  |
 | [Te Aviso, Te Anuncio \(Tango\)](https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:43 | 2022-02-02 |  |
 | [Te Deseo Lo Mejor](https://open.spotify.com/track/2RYKs5FhTBbhCwMMnYLOZY) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Tormenta](https://open.spotify.com/album/0QqqgvhdpvsLgWDEuEEAjd) | 2:36 | 2022-05-30 |  |

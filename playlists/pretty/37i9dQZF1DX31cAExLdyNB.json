@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 52510,
+  "num_followers": 52562,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDA1YTJjMWQ3ZjRhY2UyMmU1YThkMWE1YWMzNTAwNWMx",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDlhMGYyZjZmZTEyMGI4NTE4NzE1Njk0OTc3YjI2NzA4",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "nu love",
+        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "A Hero's Death (Soulwax Remix)",
         "url": "https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 269540,
       "name": "A Hero's Death - Soulwax Remix",
       "url": "https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "nu love",
-        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
     },
     {
       "added_at": "2022-07-29 05:00:00",

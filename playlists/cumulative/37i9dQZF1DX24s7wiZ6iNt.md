@@ -4,7 +4,7 @@
 
 > Our editorial picks for Indie's best of 2021 in Canada\. Cover: EKKSTACY
 
-131 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
+132 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Tongues](https://open.spotify.com/track/4cdatGZQkKpBKZOiXptz5I) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:22 | 2021-12-01 |  |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2021-12-01 |  |
 | [U&ME](https://open.spotify.com/track/4UoZigJdqn8y8jmMzuvmLd) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/4zAk9vfm8nKpkUpCYssqf7) | 3:18 | 2021-12-01 | 2022-07-29 |
-| [Ukulele](https://open.spotify.com/track/2kNtI2GZUKQxG8axWnP8ck) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [BLUE](https://open.spotify.com/album/5khcjrGY49VUT9mcCblhJx) | 3:01 | 2021-12-01 |  |
+| [Ukulele](https://open.spotify.com/track/2CFfXB3DwicvuraLddhokV) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [BLUE](https://open.spotify.com/album/56CovnRrY1xrrMSWLkk0L6) | 3:01 | 2021-12-01 |  |
+| [Ukulele](https://open.spotify.com/track/2kNtI2GZUKQxG8axWnP8ck) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [BLUE](https://open.spotify.com/album/5khcjrGY49VUT9mcCblhJx) | 3:01 | 2021-12-01 | 2022-10-15 |
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2021-12-01 |  |
 | [Understand It](https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:40 | 2021-12-01 | 2022-07-29 |
 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2021-12-01 |  |

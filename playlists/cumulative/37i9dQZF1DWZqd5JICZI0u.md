@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-421 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+426 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-05-18 |  |
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-09 |  |
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
+| [Choices](https://open.spotify.com/track/0NbAwRGkpCrY8FZsH6Cf3H) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Rebirth](https://open.spotify.com/album/15HpGCrBSILKo4XjPgTocD) | 3:12 | 2022-10-14 |  |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-12 |  |
 | [Clear Blue](https://open.spotify.com/track/4UEs7H32py3zfPCor8nbZZ) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Clear Blue](https://open.spotify.com/album/570gd1Pe8AyrSI6KCayw4p) | 2:31 | 2022-04-01 |  |
 | [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Roni Adrian](https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
@@ -112,6 +113,7 @@
 | [Elysian Fields](https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Elysian Fields](https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4) | 2:43 | 2022-06-16 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2020-11-19 |  |
 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 | 2022-06-16 |  |
+| [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 | 2022-10-14 |  |
 | [Endless Nights](https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/39G4Sh25irfylUiwli0abu) | 2:58 | 2020-09-30\* |  |
 | [Energy](https://open.spotify.com/track/5gdW6VVL4UNnqtvGs5yyjJ) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 4:11 | 2020-09-30\* | 2021-07-14 |
 | [Equilibrium](https://open.spotify.com/track/0aRSGdv7ImXsxk91fTqEf5) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 3:03 | 2020-09-30\* | 2021-09-14 |
@@ -139,6 +141,7 @@
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-02-09 |  |
 | [Forms](https://open.spotify.com/track/3JpsWjYzqrQLuwx4o0OSic) | [Henry Jonson](https://open.spotify.com/artist/7BOTwPd38KO5Lg7HWf9c3p) | [Forms](https://open.spotify.com/album/5ukW8HsrI4P0uZ9sU0cumH) | 2:44 | 2021-09-04 |  |
 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 | 2022-03-24 |  |
+| [Free](https://open.spotify.com/track/4Gy64kPK6SVwKdb4rs1emJ) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4) | [Anxiety Relief](https://open.spotify.com/album/5XF1VUAdmwVLiFHLh2892C) | 2:23 | 2022-10-14 |  |
 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 | 2020-09-30\* | 2021-09-14 |
 | [Fyna](https://open.spotify.com/track/6l0hNEgi62kkGZ69RuVblp) | [Sundale](https://open.spotify.com/artist/3LFFYvQWGZPeQPOJcqKXfi) | [Fyna](https://open.spotify.com/album/0jvaidHFliZFQ7u1yETVRg) | 2:38 | 2022-09-13 |  |
 | [Gahari](https://open.spotify.com/track/0vCB3eNnNzQVsJn8H1NdYp) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Gahari](https://open.spotify.com/album/0Pglv1QmWfbj2oYgLNOzlj) | 2:16 | 2020-09-30\* | 2021-10-21 |
@@ -239,6 +242,7 @@
 | [Muladhara](https://open.spotify.com/track/3pOIvvzAM9nj0ipjmGGhRs) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 4:53 | 2022-09-30 |  |
 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 | 2020-09-30\* |  |
 | [Nature](https://open.spotify.com/track/2hNvIVkTOLl86RJ2i3C72n) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Forest Wisdom](https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa) | 3:18 | 2020-09-30\* | 2021-09-14 |
+| [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
 | [Nebula](https://open.spotify.com/track/3Iy6ZS7a2MYK90Z9Cmmfjp) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:53 | 2020-09-30\* | 2021-07-14 |
 | [Neda](https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Neda](https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw) | 2:35 | 2021-03-24 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2020-09-30\* | 2022-08-13 |
@@ -418,6 +422,7 @@
 | [What Matters Most](https://open.spotify.com/track/3rPFA1lIlvYgmQbblz3sDp) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [What Matters Most](https://open.spotify.com/album/4uKx9Kfx0M03BSYctWm3iJ) | 3:15 | 2022-02-18 |  |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2021-10-21 |  |
 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 | 2021-11-19 |  |
+| [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-14 |  |
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2020-09-30\* | 2021-07-14 |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2020-09-30\* | 2022-08-13 |
 | [Winds of Haryana](https://open.spotify.com/track/5M2vSYhLSDww1n3x2zB1qN) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 | 2020-09-30\* | 2021-10-21 |

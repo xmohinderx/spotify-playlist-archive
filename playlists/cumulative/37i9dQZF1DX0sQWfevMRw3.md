@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0sQWfevMRw3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0sQWfevMRw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0sQWfevMRw3)
 
-### [Nu dricker jag mig full och hjärtelös!](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
+### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Raggen måste gå!!
+> Nu dricker jag mig full och hjärtelös!
 
 406 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
 

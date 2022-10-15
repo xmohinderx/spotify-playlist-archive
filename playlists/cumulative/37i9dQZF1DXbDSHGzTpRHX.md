@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-152 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+154 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Honeypie](https://open.spotify.com/track/6JqYhSdTE4WbQrMXxPH5cD) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Honeypie](https://open.spotify.com/album/3JMNN9Fv4kbEZqt4tFwHFZ) | 2:15 | 2019-12-10 | 2022-07-29 |
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2019-12-10 |  |
 | [I Don't Care](https://open.spotify.com/track/2Ni252QabsHI8nq6K30aV9) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [I Don't Care](https://open.spotify.com/album/1hdsybfpeNL3lLXFOXZXfq) | 2:56 | 2019-12-10 |  |
-| [i don't miss u](https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:58 | 2019-12-10 |  |
+| [i don't miss u](https://open.spotify.com/track/1Ui5h8uVd1Mbzw0xD9QOjh) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/0bgCvlryOs9JHw0alDKqdS) | 2:58 | 2019-12-10 |  |
+| [i don't miss u](https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:58 | 2019-12-10 | 2022-10-15 |
 | [i don't think i love you anymore](https://open.spotify.com/track/1saZ5nnaCWBjOK09izEK9c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/2LQ2jwXMR5yG9SBfVR6FwG) | 3:49 | 2019-12-10 | 2022-10-13 |
 | [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 | 2019-12-10 |  |
 | [Icing on the Cake](https://open.spotify.com/track/2Yfk1z6IWQFzczDAt8kr6G) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/6MECuIrDtZP9R0bVekN6sQ) | 1:56 | 2019-12-10 | 2022-07-29 |
@@ -130,7 +131,8 @@
 | [stay](https://open.spotify.com/track/7o10Zzm6Lfa14CEzdWuMpA) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [stay](https://open.spotify.com/album/2SnEhRy1hTf0s96iWqmvnN) | 2:14 | 2019-12-10 | 2022-07-29 |
 | [sucks 4 u](https://open.spotify.com/track/0qQttaaUxs4p9UdhqKUi1f) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/6Tu5CCCBJvyF0x6BQuzj0G) | 3:25 | 2019-12-10 |  |
 | [sucks 4 u](https://open.spotify.com/track/4jeV6FqP8W41lTYqSHcs6E) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/7MMhGXIuHsVNqck2wTf8kZ) | 3:25 | 2019-12-10 | 2022-07-29 |
-| [Sue](https://open.spotify.com/track/3Ebf3n6GX9i8OLig5lNXtL) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [Sue](https://open.spotify.com/album/0QE5VjoQrx4dadRYhaeQ0G) | 3:22 | 2019-12-10 |  |
+| [Sue](https://open.spotify.com/track/0yygnZCAvPeopsfgI1IWFC) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [SEX](https://open.spotify.com/album/5Xz5UbVUN2fqucwGnpwXJg) | 3:22 | 2019-12-10 |  |
+| [Sue](https://open.spotify.com/track/3Ebf3n6GX9i8OLig5lNXtL) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [Sue](https://open.spotify.com/album/0QE5VjoQrx4dadRYhaeQ0G) | 3:22 | 2019-12-10 | 2022-10-15 |
 | [Superfruit](https://open.spotify.com/track/7ayF9ECtSW7wG9z7jvktPQ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/4FnuxJYVZgYBwPMgxgwDJN) | 2:18 | 2019-12-10 |  |
 | [Superfruit](https://open.spotify.com/track/34tp5m2KBIzTPz1hj2nKN4) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/1IW3786Odeh2iZdvXU8xxQ) | 2:18 | 2019-12-10 | 2022-07-29 |
 | [Sweet](https://open.spotify.com/track/6PJaduT27BZFudBlgmDbYd) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/3dcOXXKdffEkzaO7RULHoi) | 3:46 | 2019-12-10 | 2022-07-29 |

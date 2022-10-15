@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Maddie & Tae
+> Today's top country hits of the week, worldwide! Cover: Bailey Zimmerman
 
 565 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
@@ -118,7 +118,7 @@
 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 | 2020-06-12 | 2020-06-20 |
 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/17TSJlshgQ5zu0e8dedAla) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/1LVNYhjG7hkowdUwgwOdXj) | 3:43 | 2020-02-15 | 2020-07-04 |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-11-12 | 2022-06-18 |
-| [Doing Life With Me](https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Doing Life With Me](https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0) | 3:15 | 2020-12-12 | 2021-02-27 |
+| [Doing Life With Me](https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Doing Life With Me](https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0) | 3:15 | 2020-12-12 |  |
 | [Don't It Sound Alright](https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Don't It Sound Alright](https://open.spotify.com/album/3zLyedIJvUMz9V6iLeFPlv) | 3:38 | 2022-09-30 |  |
 | [Don't Need No Reason](https://open.spotify.com/track/1ATvZTCBsBo7tL6YwHUc1m) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:12 | 2020-11-20 | 2020-12-06 |
 | [Done](https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 3:40 | 2020-06-29 | 2020-08-30 |
@@ -304,7 +304,7 @@
 | [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 | 2021-01-27 | 2021-08-14 |
 | [Long Live](https://open.spotify.com/track/1OTX8FOeKJt1v9mIxuF8sc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Long Live](https://open.spotify.com/album/2pl9wFZJHfPJIVuHw5WYl3) | 2:32 | 2020-09-19 | 2021-04-17 |
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-03-14 | 2021-03-27 |
-| [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 | 2022-05-06 |  |
+| [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 | 2022-05-06 | 2022-10-15 |
 | [Look What God Gave Her](https://open.spotify.com/track/1HY7Ze0NWqDJkl4g4MV62Q) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Look What God Gave Her](https://open.spotify.com/album/302VQGTJKXl3wUNxHntBnH) | 2:48 | 2019-05-26\* | 2019-08-31 |
 | [Lose You](https://open.spotify.com/track/0vK1vDEvEMvSpFEKW62Qub) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Lose You](https://open.spotify.com/album/3roOLsfxMpvsd8cEGJPyrc) | 3:23 | 2020-11-22 | 2021-02-27 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2022-03-25 | 2022-06-18 |

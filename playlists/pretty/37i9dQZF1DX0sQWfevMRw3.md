@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain](/playlists/plain/37i9dQZF1DX0sQWfevMRw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0sQWfevMRw3)
 
-### [Nu dricker jag mig full och hjärtelös!](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
+### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Raggen måste gå!!
+> Nu dricker jag mig full och hjärtelös!
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,837 likes - 99 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,208 likes - 99 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 98 | [Gasen i botten](https://open.spotify.com/track/4oDtrm4m6Op3krgnZmgg6c) | [Eddie Meduza](https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS) | [En jävla massa hits](https://open.spotify.com/album/61YtIcx4S60zeiYe45rqgG) | 3:20 |
 | 99 | [JAG VILL SUPA](https://open.spotify.com/track/4o7sIxm5dJeK1rY7Nft54F) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [JAG VILL SUPA](https://open.spotify.com/album/08p4RiVUZqpmrPV2sY1SmJ) | 2:18 |
 
-Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDQwZTFjYzM3YmQ0Njc1YzI1ZWVmYTZiZTkwNGNiYjAx`
+Snapshot ID: `MTY2NTcyODk3NiwwMDAwMDAwMDk2ZTI4ZDNkYzVjYTE0YTA0YjIzZjNiMDlhZmY5ZWNk`

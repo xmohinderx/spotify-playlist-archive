@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-581 songs - 1 day 8 hr 3 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+583 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Dear Nora](https://open.spotify.com/track/1LcS46a5AxfmQDfarJEjCV) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:16 | 2021-12-01 | 2022-01-20 |
 | [Death to the Landlord](https://open.spotify.com/track/0WsWklqPGk8kV2Ut773ZfJ) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Death to the Landlord](https://open.spotify.com/album/1obcxRANeiJghHa0W52AoK) | 5:31 | 2022-09-21 |  |
 | [Death Wish](https://open.spotify.com/track/5TeiMihQPtOXalkkhQC25r) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6), [Mason Levi](https://open.spotify.com/artist/2lx2zCw0a5evbYvfBlft1J) | [Death Wish](https://open.spotify.com/album/6wU1BcX0FRXBFHyNZ7XtQP) | 3:14 | 2022-07-20 | 2022-08-25 |
-| [Decay](https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w) | 3:07 | 2022-09-14 |  |
+| [Decay](https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w) | 3:07 | 2022-09-14 | 2022-10-15 |
+| [Decay](https://open.spotify.com/track/5ZBDSjEqPgFVut3KVen0rk) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MfKzK1PNrXOyRkugJGgXq) | 3:07 | 2022-10-12 |  |
 | [Deceiver](https://open.spotify.com/track/2Jl2j5MQ1xiim6uqtFJiib) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Deceiver](https://open.spotify.com/album/3BggejLVlfeTno0cG1FZ2K) | 3:42 | 2022-05-04 | 2022-05-26 |
 | [Deja Vu](https://open.spotify.com/track/3rHRacrfCVhtzrvgYSA8WJ) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:27 | 2022-03-03 | 2022-05-12 |
 | [Demons](https://open.spotify.com/track/3PUpUZVebwk8Ff3XAlV6in) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [BOYS DO CRY](https://open.spotify.com/album/7wezeeUZVM2EAzsdqlNzWj) | 3:01 | 2021-12-01 | 2022-01-13 |
@@ -512,7 +513,8 @@
 | [The City](https://open.spotify.com/track/4ogrk8iGbQKDFjb9RF9dyb) | [AV Dummy](https://open.spotify.com/artist/7EEhQh6CQf7tOSOu98fofs) | [The City](https://open.spotify.com/album/0kT8FjFhFfiOOywd2VBu2L) | 3:50 | 2022-03-30 | 2022-05-05 |
 | [The Days](https://open.spotify.com/track/0r4K9FMDyj8TIKmfqNSKcE) | [Last Place Runner\-ups](https://open.spotify.com/artist/7mdbdlYmnUJVDIAvLUuznw) | [The Days](https://open.spotify.com/album/1bsmqUQ4Z7aquvHmS6rTwU) | 2:49 | 2022-07-20 | 2022-09-22 |
 | [The Funhouse](https://open.spotify.com/track/056PQr5KUlsRlntQsrNXWd) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [The Funhouse](https://open.spotify.com/album/74CD5vRjAS3QS0zxTQSiXZ) | 4:14 | 2022-03-09 | 2022-05-19 |
-| [The Hardest Part](https://open.spotify.com/track/3HmoazjE5rjgMpOlU2X1XT) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [The Hardest Part](https://open.spotify.com/album/1w5xtFGuunvvyeL9pJxJkf) | 4:04 | 2022-09-28 |  |
+| [The Hardest Part](https://open.spotify.com/track/1NehDnoT38Zc6YVWj9QITX) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Desperately Imagining Someplace Quiet](https://open.spotify.com/album/7cYFcPZ0TMDsDefppHIbgG) | 4:04 | 2022-10-12 |  |
+| [The Hardest Part](https://open.spotify.com/track/3HmoazjE5rjgMpOlU2X1XT) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [The Hardest Part](https://open.spotify.com/album/1w5xtFGuunvvyeL9pJxJkf) | 4:04 | 2022-09-28 | 2022-10-15 |
 | [The Healing](https://open.spotify.com/track/2luce2mv0ZBMSri8wsoyN5) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [The Healing](https://open.spotify.com/album/1pJcIpGwM1j538Z8Ocmm7I) | 4:02 | 2022-09-28 |  |
 | [The Less I Think I Know](https://open.spotify.com/track/4Dk4u3xMRJ27MzqLegVC4l) | [The Volts](https://open.spotify.com/artist/5QT40bRc3P8vkAw6iOCD3k) | [The Less I Think I Know](https://open.spotify.com/album/6YDIrV0GayDbVFokPs0MBQ) | 3:34 | 2022-08-24 |  |
 | [The Lonely One](https://open.spotify.com/track/5BCiue66Xv2k6bISCuPtv6) | [The Tullamarines](https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5) | [The Lonely One](https://open.spotify.com/album/52RF3uchaEb0sp2Y35hke9) | 3:34 | 2022-06-15 | 2022-07-21 |

@@ -4,7 +4,7 @@
 
 > The hits you know like you’ve never heard before\.  Cover: Harry Styles.
 
-151 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
+152 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 | 2021-09-08 |  |
 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 | 2021-09-08 |  |
 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 | 2021-09-08 |  |
+| [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 | 2022-05-27 |  |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 3:52 | 2021-09-08 | 2022-10-14 |
 | [Coloring Outside The Lines \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:48 | 2021-09-08 |  |
 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 | 2021-09-08 |  |
@@ -68,7 +69,7 @@
 | [home/i want your love \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 10:22 | 2021-09-08 |  |
 | [Hotel Key \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 4:01 | 2021-09-08 |  |
 | [Hunger \- Recorded At RAK Studios, London](https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 3:34 | 2021-09-08 |  |
-| [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 | 2021-09-08 |  |
+| [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 | 2021-09-08 | 2022-10-15 |
 | [I Fall Apart \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:51 | 2021-09-08 |  |
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:22 | 2022-05-27 |  |
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 | 2021-09-08 | 2022-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,348 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,353 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 63 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 |
 | 64 | [I Got Your Ice Cold Nugrape](https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3) | [Nugrape Twins](https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM) | [The Road Is Rough and Rocky](https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U) | 2:56 |
 | 65 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
-| 66 | [Appetite Blues](https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:35 |
+| 66 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 |
 | 67 | [Mama, What About Your Daughter \- Single Version](https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:29 |
-| 68 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 |
+| 68 | [Appetite Blues](https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:35 |
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMGI1ZWUwM2UyZDZiYzZiMzJiOTVjYmIxZTg1NDhiOTM4`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDQyMDdkNDNhMTkzMjdkYmQ2OGYxODcxNWE0YzlhN2Zk`

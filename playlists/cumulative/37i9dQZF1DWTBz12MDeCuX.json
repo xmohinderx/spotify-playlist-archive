@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/47McqFdHcA7UpY3p2mxjjy"
       },
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 195397,
       "name": "Fundb\u00fcro (feat. Longus Mongus)",
       "url": "https://open.spotify.com/track/7JRllPDGJ7Ybri53ECJlcl"
@@ -7605,6 +7623,28 @@
       "duration_ms": 109945,
       "name": "What a time",
       "url": "https://open.spotify.com/track/18BFTTWMWcZuDiGwPGYYLJ"
+    },
+    {
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/03sL2gAoxL7VqlGabXD5Dk"
+      },
+      "artists": [
+        {
+          "name": "FOREIGN MERCY",
+          "url": "https://open.spotify.com/artist/6CZ3UDXZJ5In2W2jzTrvvE"
+        },
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159756,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/5OsCJw5j99GPAjXY0Dlqra"
     },
     {
       "album": {

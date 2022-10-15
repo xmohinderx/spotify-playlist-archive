@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 75768,
+  "num_followers": 75821,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMDkxNDM1YTg5NjExYzhlMzMwNTBlNDVmNjZmZDMxOTkz",
+  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMDNmYzM3NGUxYjg1NzA3MTc1NDIyYjQ5YTU4ZWMxYWY1",
   "tracks": [
     {
       "added_at": "2022-09-15 12:23:59",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
-      "added_at": "2022-10-14 01:43:23",
+      "added_at": "2022-10-15 01:34:39",
       "album": {
         "name": "Stechm\u00fcck",
         "url": "https://open.spotify.com/album/3loW6CAy3YilP4SdZBkIqu"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
-      "added_at": "2022-10-14 01:43:23",
+      "added_at": "2022-10-15 01:34:39",
       "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
         "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
-        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
-      },
-      "artists": [
-        {
-          "name": "\uff12\uff18\uff11\uff14",
-          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
-        }
-      ],
-      "duration_ms": 563600,
-      "name": "\u60b2\u54c0",
-      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 135269,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
+        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
+      },
+      "artists": [
+        {
+          "name": "\uff12\uff18\uff11\uff14",
+          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
+        }
+      ],
+      "duration_ms": 563600,
+      "name": "\u60b2\u54c0",
+      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -811,6 +811,26 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Tar (Jan Jelinek Remix)",
+        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "duration_ms": 359543,
+      "name": "Tar - Jan Jelinek Remix",
+      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Homescreen Glow",
         "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
       },
@@ -859,22 +879,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Tar (Jan Jelinek Remix)",
-        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
         }
       ],
-      "duration_ms": 359543,
-      "name": "Tar - Jan Jelinek Remix",
-      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -891,38 +907,6 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2022-04-12 01:36:14",
-      "album": {
-        "name": "lavender's love",
-        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "lavender's love",
-      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        }
-      ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -959,6 +943,22 @@
       "duration_ms": 227258,
       "name": "Anxi.",
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
+    },
+    {
+      "added_at": "2022-04-12 01:36:14",
+      "album": {
+        "name": "lavender's love",
+        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "lavender's love",
+      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+        "name": "Several Shades of the Same Color",
+        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "Patricia",
+          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
         }
       ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+      "duration_ms": 303302,
+      "name": "Liminal States",
+      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Several Shades of the Same Color",
-        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
       },
       "artists": [
         {
-          "name": "Patricia",
-          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
         }
       ],
-      "duration_ms": 303302,
-      "name": "Liminal States",
-      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "L'\u00e9treinte Imaginaire",
-        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
-      },
-      "artists": [
-        {
-          "name": "Auscultation",
-          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
-        }
-      ],
-      "duration_ms": 393717,
-      "name": "Promise You'll Haunt Me",
-      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
-    },
-    {
       "added_at": "2022-03-29 02:05:38",
       "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
@@ -1157,6 +1141,22 @@
       "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "L'\u00e9treinte Imaginaire",
+        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
+      },
+      "artists": [
+        {
+          "name": "Auscultation",
+          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
+        }
+      ],
+      "duration_ms": 393717,
+      "name": "Promise You'll Haunt Me",
+      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
+    },
+    {
       "added_at": "2022-02-25 03:33:17",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -1171,22 +1171,6 @@
       "duration_ms": 346588,
       "name": "Exotic Contents",
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
-      "added_at": "2022-01-12 18:40:19",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -1221,6 +1205,22 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
+      "added_at": "2022-01-12 18:40:19",
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "The Crucible",
@@ -1235,6 +1235,22 @@
       "duration_ms": 207407,
       "name": "Green Phase, Part One",
       "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Underwater Lament",
+      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
     },
     {
       "added_at": "2022-01-21 20:27:00",
@@ -1273,20 +1289,20 @@
       "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-08-24 01:27:39",
       "album": {
-        "name": "The Alias Sessions",
-        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Floatleaf",
+          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
         }
       ],
-      "duration_ms": 320933,
-      "name": "Underwater Lament",
-      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
+      "duration_ms": 180000,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1303,22 +1319,6 @@
       "duration_ms": 346479,
       "name": "Blooms",
       "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
-    },
-    {
-      "added_at": "2022-08-24 01:27:39",
-      "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
-      },
-      "artists": [
-        {
-          "name": "Floatleaf",
-          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Eve",
-      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dub Protection & The Sportswear Mystics",
-        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
       "artists": [
         {
-          "name": "The Diabolical Liberties",
-          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
         }
       ],
-      "duration_ms": 311480,
-      "name": "Dub Protection",
-      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1479,18 +1475,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+        "name": "Dub Protection & The Sportswear Mystics",
+        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "The Diabolical Liberties",
+          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+      "duration_ms": 311480,
+      "name": "Dub Protection",
+      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/7ELFgIC6BEMI1BgEA3xDE5"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Translate",
-        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
-      },
-      "artists": [
-        {
-          "name": "Luke Abbott",
-          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
-        }
-      ],
-      "duration_ms": 108237,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
-    },
-    {
       "added_at": "2022-03-11 06:16:07",
       "album": {
         "name": "The Vaulting Sky",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Translate",
+        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
+      },
+      "artists": [
+        {
+          "name": "Luke Abbott",
+          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
+        }
+      ],
+      "duration_ms": 108237,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Inkjet / Fluo",
         "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
       },
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Muckbirth",
-        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
-      },
-      "artists": [
-        {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Muckbirth",
-      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
-    },
-    {
       "added_at": "2022-02-25 03:47:46",
       "album": {
         "name": "Plonk",
@@ -1643,6 +1627,22 @@
       "duration_ms": 382111,
       "name": "Plonk III",
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Muckbirth",
+        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
+      },
+      "artists": [
+        {
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Muckbirth",
+      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2022-04-29 18:23:46",
@@ -1661,6 +1661,22 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 356813,
+      "name": "F7",
+      "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
+    },
+    {
       "added_at": "2022-08-17 17:11:39",
       "album": {
         "name": "Grauer Sand",
@@ -1675,22 +1691,6 @@
       "duration_ms": 246367,
       "name": "Grauer Sand",
       "url": "https://open.spotify.com/track/66IbIrMufglj4589q8126r"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
     }
   ],
   "unique_name": "Refractions",

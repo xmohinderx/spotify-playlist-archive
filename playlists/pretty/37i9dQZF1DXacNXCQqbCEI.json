@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 324477,
+  "num_followers": 324583,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDZhMGRmNzAxNjA2ODdjZGEwY2VhYzQ0ZWNiYjExZDEx",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDQ1ODczYWFhODY5YTA1YmVhZWNmMTQzZGRhYTk0ZjFm",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
-      "added_at": "2022-10-14 02:06:36",
+      "added_at": "2022-10-15 01:59:16",
       "album": {
         "name": "El pavo real",
         "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
     },
     {
-      "added_at": "2022-10-14 02:06:36",
+      "added_at": "2022-10-15 01:59:16",
       "album": {
         "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
         "url": "https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4"
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Serpiente Dorada",
-        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 189569,
-      "name": "Serpiente Dorada",
-      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Balnear",
         "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 213386,
       "name": "Solitario",
       "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Serpiente Dorada",
+        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 189569,
+      "name": "Serpiente Dorada",
+      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -595,26 +595,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Shika Shika Presents Eco",
-        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
-      },
-      "artists": [
-        {
-          "name": "Di Laif",
-          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
-        },
-        {
-          "name": "Maf\u00e9 Tula",
-          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
-        }
-      ],
-      "duration_ms": 332830,
-      "name": "Paso Por El Fuego",
-      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 245280,
       "name": "Como Lo Ped\u00ed",
       "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Shika Shika Presents Eco",
+        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
+      },
+      "artists": [
+        {
+          "name": "Di Laif",
+          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
+        },
+        {
+          "name": "Maf\u00e9 Tula",
+          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
+        }
+      ],
+      "duration_ms": 332830,
+      "name": "Paso Por El Fuego",
+      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -703,58 +703,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Tribo",
-        "url": "https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa"
-      },
-      "artists": [
-        {
-          "name": "De Juepuchas",
-          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
-        },
-        {
-          "name": "Raissa Fayet",
-          "url": "https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x"
-        },
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "Tribo",
-      "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Sierra Madre (Remix)",
-        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
-      },
-      "artists": [
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "Danger",
-          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-        },
-        {
-          "name": "H\u00e9ctor Guerra",
-          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
-        },
-        {
-          "name": "Noe Gonzalez Molina",
-          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Sierra Madre (Remix)",
-      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Bleu de lune (El Buho Remix)",
         "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
       },
@@ -787,6 +735,58 @@
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Sierra Madre (Remix)",
+        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Danger",
+          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
+        },
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Noe Gonzalez Molina",
+          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Sierra Madre (Remix)",
+      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Tribo",
+        "url": "https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa"
+      },
+      "artists": [
+        {
+          "name": "De Juepuchas",
+          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+        },
+        {
+          "name": "Raissa Fayet",
+          "url": "https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "Tribo",
+      "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Semillero",
         "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1023,22 +1039,6 @@
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
-      },
-      "artists": [
-        {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Prieto Riddiman Remixes",
-        "url": "https://open.spotify.com/album/1DYhKEFj38cTOH0VqJkcqu"
+        "name": "P\u00e1jaro",
+        "url": "https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP"
       },
       "artists": [
         {
-          "name": "Agrupacion Chang\u00f3",
-          "url": "https://open.spotify.com/artist/4sVxogNVnTtnikmperp8YS"
-        },
-        {
-          "name": "Prieto Riddiman",
-          "url": "https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 214799,
-      "name": "Entre Pat\u00eda y Sanquianga (Remix)",
-      "url": "https://open.spotify.com/track/3N2DH7xV0Z737nxuOQ1w3o"
+      "duration_ms": 222787,
+      "name": "P\u00e1jaro",
+      "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

@@ -4,7 +4,7 @@
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-112 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
+113 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 | 2022-09-22 |  |
 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 | 2022-09-22 |  |
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-09-22 |  |
-| [Kuku Kee Me \- Remix](https://open.spotify.com/track/0TsZ0Y4rTdQ19A9xbHj1SZ) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Kuku Kee Me \(Remix\)](https://open.spotify.com/album/55alfG4RRkhzSXrarFSsa2) | 2:57 | 2022-09-23 |  |
+| [Kuku Kee Me \- Remix](https://open.spotify.com/track/0TsZ0Y4rTdQ19A9xbHj1SZ) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Kuku Kee Me \(Remix\)](https://open.spotify.com/album/55alfG4RRkhzSXrarFSsa2) | 2:57 | 2022-09-23 | 2022-10-15 |
+| [Kuku Kee Me \- Remix](https://open.spotify.com/track/4MNgW7UNCnIsxyz7D411GH) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Kuku Kee Me \(Remix\)](https://open.spotify.com/album/42j4mil8EJDT9ekyFWRYE2) | 2:57 | 2022-09-23 |  |
 | [Kuzola](https://open.spotify.com/track/2aDPkl4GCO2b53goL5Ia4W) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Baia](https://open.spotify.com/album/1u5tVyHknrgMtdMW2i6TLG) | 3:55 | 2022-09-22 |  |
 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 | 2022-10-04 |  |
 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-22 |  |

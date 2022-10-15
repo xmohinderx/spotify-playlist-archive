@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: Koe Wetzel
 
-192 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+193 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-22 | 2022-10-03 |
 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 | 2022-01-28 |  |
 | [Rose Gold](https://open.spotify.com/track/4nNmIoO7YIm8EuoY8pUrXE) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Rose Gold](https://open.spotify.com/album/7hC8aKFF9Fc72zsjmFILxh) | 5:29 | 2021-11-01 | 2022-07-29 |
-| [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 | 2022-02-04 |  |
+| [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 | 2022-02-04 | 2022-10-15 |
 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 | 2021-11-01 |  |
 | [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-09-30 |  |
 | [Skeletons](https://open.spotify.com/track/2hJI1lFKKWAsy6UAPSQyVU) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/39DlwBJdvZ1f3j0kNHKRtR) | 3:39 | 2021-11-01 | 2022-10-01 |
@@ -175,6 +175,7 @@
 | [Trailer Park](https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:38 | 2022-03-11 |  |
 | [Train](https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Train](https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ) | 2:57 | 2021-11-01 |  |
 | [Trouble With Angels](https://open.spotify.com/track/3BaVluQUA7ajqvFIp1iSkl) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Trouble With Angels](https://open.spotify.com/album/30PgSxZ5SpbUlJB6RjDmfo) | 3:15 | 2021-11-01 | 2022-07-09 |
+| [TRUCK BED](https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [TRUCK BED](https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq) | 2:47 | 2022-10-14 |  |
 | [Truck In The Yard](https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Truck In The Yard](https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ) | 3:02 | 2022-07-08 |  |
 | [Tumbling Down](https://open.spotify.com/track/2xSyFh6jZSMxzK0yoQGglx) | [Nashvillains](https://open.spotify.com/artist/72zURLJbsKSs1i89kP8ZaL) | [Tumbling Down](https://open.spotify.com/album/3V0czn2onTZVwPrQtdCDfe) | 3:43 | 2021-11-01 | 2022-07-27 |
 | [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 | 2022-02-11 | 2022-07-22 |

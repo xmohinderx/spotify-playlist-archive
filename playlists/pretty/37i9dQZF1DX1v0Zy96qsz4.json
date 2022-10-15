@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 207,
+  "num_followers": 233,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMDlkYmYwYWY1NzRkY2ViZDQ3MDhkNDA4NjkyMGMyOWVh",
+  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMDM3N2QyZTA0NGU3NWMwZTE3ZjAxMDY2NzIwOWYxN2M0",
   "tracks": [
     {
       "added_at": "2022-10-02 02:05:19",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "The Low End Theory",
         "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 197417,
       "name": "Demon High",
       "url": "https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2022-10-02 02:05:19",

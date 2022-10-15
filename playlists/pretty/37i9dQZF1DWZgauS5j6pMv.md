@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,983 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,087 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 42 | [End of Tha Night](https://open.spotify.com/track/4FCEeZGENqjVz9dDRsKJoM) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4), [W1SE](https://open.spotify.com/artist/5YZ60iVD9jdR63DD2jUhSt) | [End of Tha Night](https://open.spotify.com/album/4H51nFp0Ojxn4mRa8WHraj) | 3:09 |
 | 43 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 |
 | 44 | [Until I Get Back](https://open.spotify.com/track/2inueyaWWmc0Hu0LJwMetH) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Until I Get Back](https://open.spotify.com/album/0mqVkEjfEhg8jXz7HRtWqJ) | 4:33 |
-| 45 | [Worthy](https://open.spotify.com/track/0L4Wp1wN1MFPvLvwgHQhIO) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Worthy](https://open.spotify.com/album/4R4b6PdvbfQTsF3engj7X5) | 3:05 |
+| 45 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 |
 | 46 | [Keep That Funk Alive](https://open.spotify.com/track/6pSQEg63mPYvaXQVJdmEy9) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Unify](https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5) | 4:21 |
 | 47 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 | 48 | [Coming Around](https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Vermillion Sands](https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx) | 3:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 96 | [Soldiers \- WheelUP Remix](https://open.spotify.com/track/0o0ZBQhwlBi6qRI4IcDqFN) | [Tiawa](https://open.spotify.com/artist/0QrKRZo0bqCEvzjXfanjqw), [WheelUP](https://open.spotify.com/artist/5azPv1y5kPJljpHQmy5K32) | [Embora / Soldiers \(WheelUP Remix\)](https://open.spotify.com/album/5YqECs7M67DiV0nJ4GrGEq) | 3:16 |
 | 97 | [Backstroke](https://open.spotify.com/track/58reBSxHG9lSIe4LHu6i05) | [Dezzy Hollow](https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0) | [Backstroke](https://open.spotify.com/album/0mDxd23dpALqYKbB9XczdG) | 2:27 |
 | 98 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 |
-| 99 | [You Got Me](https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/2cogfCjxAEmXoWHFex4gDN) | 3:00 |
+| 99 | [You Got Me](https://open.spotify.com/track/01VawRVmW4NMgKUxiZ5doE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/5D2PG86teTWdvU5rlxnh2O) | 3:00 |
 | 100 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDJhODQyYTBlNmE0MzE0NDNlMWFkZWQ3Y2Q5YWI0YzVm`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDM5YWNlOTQ1ZGNhMjU5YWMxMTc1ZGRlNTAzMzM2YmM2`

@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Raye",
-  "num_followers": 532679,
+  "num_followers": 532824,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGJlYzIwY2VlYzhhNDI2NzQ2ZjhkOTIzMjJjYzkxZTVh",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGEzYmI0MTA3N2NmNzRlNTU2OGYxN2M1ZTU5NzMzNmFj",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
       },
@@ -667,8 +683,8 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "dear god",
-        "url": "https://open.spotify.com/album/3UeI2SPgnM2NlSz89wZkHX"
+        "name": "young forever",
+        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
       },
       "artists": [
         {
@@ -678,7 +694,7 @@
       ],
       "duration_ms": 132106,
       "name": "dear god",
-      "url": "https://open.spotify.com/track/0gYCvYlev8i1e7Hj1SpSWW"
+      "url": "https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg"
     },
     {
       "added_at": "2022-10-13 23:00:00",

@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 336000,
       "name": "Bottles & Bay",
       "url": "https://open.spotify.com/track/14c0GxZ4lot2bHSx9lZ0I6"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5Pu7psyoFgkFFYdx6upeMf"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 132270,
       "name": "California Nights",
       "url": "https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 195079,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK"
@@ -4401,7 +4401,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 162063,
       "name": "I Just Died In Your Arms Tonight (feat. Andros)",
       "url": "https://open.spotify.com/track/0bP88wC19xydrjB4vHe8Be"
@@ -7403,7 +7403,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 236279,
       "name": "Pacing",
       "url": "https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9"
@@ -7637,7 +7637,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 169043,
       "name": "Pull Me",
       "url": "https://open.spotify.com/track/46QfufNUnY25faVWLkohut"
@@ -7717,7 +7717,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 188852,
       "name": "Ready To Love",
       "url": "https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4"
@@ -8855,7 +8855,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 203615,
       "name": "Somewhere Out There",
       "url": "https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm"
@@ -9844,6 +9844,28 @@
     },
     {
       "album": {
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/2qvW8ahIuTJGoQPsBAHpxa"
+      },
+      "artists": [
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Those Were the Days",
+      "url": "https://open.spotify.com/track/27APnPhv82IdHrehOUv7lP"
+    },
+    {
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
       },
@@ -10582,6 +10604,32 @@
     },
     {
       "album": {
+        "name": "What You Know",
+        "url": "https://open.spotify.com/album/2tohUWi1yiCdaDnoziBWqd"
+      },
+      "artists": [
+        {
+          "name": "KHEMIS",
+          "url": "https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d"
+        },
+        {
+          "name": "BNHM",
+          "url": "https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N"
+        },
+        {
+          "name": "Levka Rey",
+          "url": "https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/5nh2uDBGukTzGo1vanSpaK"
+    },
+    {
+      "album": {
         "name": "Whatever You Like",
         "url": "https://open.spotify.com/album/6ZdIp3hlkuZvNceiXKMFqg"
       },
@@ -10923,7 +10971,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 229198,
       "name": "Wrong Side of Love (with Darius Rucker)",
       "url": "https://open.spotify.com/track/1vxjmNMsJRLEhoYGpOXOXB"

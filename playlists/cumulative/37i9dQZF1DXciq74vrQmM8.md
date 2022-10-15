@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 // just announced: <a href="https://www.universe.com/misfits\-2\-0\-antiprom">misfits anti\-prom</a> in london 🎈😈
 
-347 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+349 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [BANSHEE HOLLOW](https://open.spotify.com/track/58flRCPtcit55PD4jaga1W) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BANSHEE HOLLOW](https://open.spotify.com/album/52ytO4git0zRExoV1kK9zA) | 1:50 | 2021-12-27 | 2022-02-04 |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-08-25 |  |
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 | 2022-08-19 |
-| [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 | 2022-07-28 |  |
+| [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 | 2022-07-28 | 2022-10-15 |
+| [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 | 2022-10-13 |  |
 | [be no one](https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [be no one](https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv) | 4:21 | 2021-12-27 | 2022-01-19 |
 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 | 2022-06-09 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A), [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Behind Closed Doors](https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ) | 3:03 | 2021-12-27 | 2022-02-18 |
@@ -351,7 +352,8 @@
 | [XO](https://open.spotify.com/track/3N0nHIHc4rXKF3p3lXzXYY) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [XO](https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI) | 2:14 | 2022-10-13 |  |
 | [xo I hope u die](https://open.spotify.com/track/7yFWkDBtuI18tyiE4atPPb) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [xo I hope u die](https://open.spotify.com/album/5DPzn03qYFHkkW2u8MF3Ge) | 2:19 | 2022-08-27 | 2022-09-02 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-02-04 | 2022-03-04 |
-| [You've Created a Monster](https://open.spotify.com/track/0ItZEK2MuBvrACJm7hIjgx) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/6Qy4DtpIf0rOVtu1npYT77) | 2:38 | 2022-03-31 |  |
+| [You've Created a Monster](https://open.spotify.com/track/0ItZEK2MuBvrACJm7hIjgx) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/6Qy4DtpIf0rOVtu1npYT77) | 2:38 | 2022-03-31 | 2022-10-15 |
+| [You've Created a Monster](https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/7ftqRI6pFDYwFZYGARS9wP) | 2:38 | 2022-10-13 |  |
 | [ZERO FIVE STARS](https://open.spotify.com/track/2HXLC1alUzezTMoBM0Sxkb) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/6iEbn9hlgnnd9wa7qgemhO) | 2:36 | 2021-12-27 | 2022-02-18 |
 | [ZERO FIVE STARS](https://open.spotify.com/track/7pLPs5Yph0xTeEMAA4Heff) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/5nFvLGogWjDGiJ25xBknPG) | 2:36 | 2021-12-27 | 2022-01-12 |
 | [Червь / Worm](https://open.spotify.com/track/3QxOyYp44vD7hkoOr5oslj) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Червь / Worm](https://open.spotify.com/album/0D0aIv3n85HJFtNuuXOxUc) | 2:54 | 2022-02-04 | 2022-04-01 |

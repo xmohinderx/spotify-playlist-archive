@@ -4,7 +4,7 @@
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-102 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/0U6BItUewcPTCkrT4zM3lw)
+103 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0U6BItUewcPTCkrT4zM3lw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 | 2021-10-08 |  |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2021-10-08 |  |
 | [Sexy](https://open.spotify.com/track/6YvwtYk5zrGsMosUzG6GpZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kosha Dillz](https://open.spotify.com/artist/64ea3gojfUUFJSJiyZbVK7) | [Sexy](https://open.spotify.com/album/1dpBfnpv9ynPSPcoqr4Ogw) | 2:46 | 2021-10-08 | 2022-10-14 |
-| [Sous les rivières](https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Le tournant \(Deluxe\)](https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW) | 3:38 | 2021-10-08 |  |
+| [Sexy](https://open.spotify.com/track/7rB1GMCXdmSvPTgzPAjJtz) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kosha Dillz](https://open.spotify.com/artist/64ea3gojfUUFJSJiyZbVK7) | [Sexy](https://open.spotify.com/album/7cnjwAHHRlwL1QZGv25an6) | 2:46 | 2021-10-08 |  |
+| [Sous les rivières](https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Le tournant \(Deluxe\)](https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW) | 3:38 | 2021-10-08 | 2022-10-15 |
 | [Sous les rivières](https://open.spotify.com/track/3y9pU3vApshiVOJ5ngTZAB) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Sous les rivières](https://open.spotify.com/album/3gJsg7WPQjSNNoYuObwx9Z) | 3:38 | 2021-10-08 | 2022-07-29 |
 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 | 2021-10-08 |  |
 | [Sweat](https://open.spotify.com/track/0drXYOymxrIl2lzhVnsiMH) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sweat](https://open.spotify.com/album/0r5iMvc6l6oJDyHgQLMxaT) | 3:24 | 2021-10-08 |  |

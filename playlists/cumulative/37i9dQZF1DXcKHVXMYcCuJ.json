@@ -2413,7 +2413,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 227046,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/297ObeqSx8qhJYIytrusWm"
@@ -2435,6 +2435,24 @@
       "duration_ms": 227046,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/52Je6f392v0tFXm85fboJY"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/0jd5yRLuxLK5njzgpsnzxq"
+      },
+      "artists": [
+        {
+          "name": "Twin Wild",
+          "url": "https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227046,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/79P7jTFo4tvUDG8PbICO6b"
     },
     {
       "album": {

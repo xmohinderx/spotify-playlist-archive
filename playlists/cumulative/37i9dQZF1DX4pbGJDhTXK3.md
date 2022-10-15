@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-100 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
+101 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Nocturne](https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Songs From the End of the World](https://open.spotify.com/album/6VkHZKzQFZgnGy70mxeojF) | 6:17 | 2022-06-23 |  |
 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 | 2022-06-02 |  |
 | [Out Of The Pink \- Prins Thomas Remix](https://open.spotify.com/track/1RN5bFXENoJ1Y9Ackmx61j) | [CYRK](https://open.spotify.com/artist/14gs7nuIA4nh6ZETqbe9Pr), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Out Of The Pink \(Prins Thomas Remix\)](https://open.spotify.com/album/5tsc8TQmJI0tuKJ2ygtMlB) | 6:43 | 2022-06-02 | 2022-07-27 |
-| [Perseverance](https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE) | [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [Perseverance](https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS) | 2:46 | 2022-06-02 |  |
+| [Perseverance](https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE) | [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [Perseverance](https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS) | 2:46 | 2022-06-02 | 2022-10-15 |
 | [Pharos Époque](https://open.spotify.com/track/6oMU6zmbrCwjn6vgxWjrR6) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Pharos Époque](https://open.spotify.com/album/6miq6ZSyjvPfjiCw0WGMc8) | 2:43 | 2022-06-02 | 2022-09-19 |
 | [Real Life](https://open.spotify.com/track/05kq5oZONvE5Ls4Y9oaqie) | [Lost Girls](https://open.spotify.com/artist/6Kw9BTxzFraz25S8HCe8pQ), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7), [Håvard Volden](https://open.spotify.com/artist/5qfLwIMPtIom9LXgMoRcw0) | [Menneskekollektivet](https://open.spotify.com/album/7nX7RnOWqFF2NorZEMq7iZ) | 6:03 | 2022-06-02 | 2022-07-28 |
 | [Real Life](https://open.spotify.com/track/7JQS0KugXwJEJrN0EX7HGf) | [Lost Girls](https://open.spotify.com/artist/6Kw9BTxzFraz25S8HCe8pQ), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7), [Håvard Volden](https://open.spotify.com/artist/5qfLwIMPtIom9LXgMoRcw0) | [Menneskekollektivet](https://open.spotify.com/album/2s78eWRhSxsb7KaEbi4p4Q) | 6:03 | 2022-07-28 | 2022-08-31 |
@@ -87,6 +87,7 @@
 | [Stargaze](https://open.spotify.com/track/5XSi9uwzMcwRAPjLrydEOv) | [Erik Skantze](https://open.spotify.com/artist/2J8pNk0h9erP2XcerGPB5R) | [10 Years of Full Pupp](https://open.spotify.com/album/6IZdTRzDKC8mlDQw4Tsy3m) | 6:33 | 2022-06-02 | 2022-07-28 |
 | [Staying In](https://open.spotify.com/track/5kx5OYMtDOYmkHN973rr0m) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/2KskrAgPQBKonLKPpMCQqS) | 3:54 | 2022-06-02 | 2022-07-29 |
 | [Staying In](https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 3:54 | 2022-07-28 |  |
+| [Strandbar](https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 4:28 | 2022-09-01 |  |
 | [Strandbar](https://open.spotify.com/track/6reLfBSO38qmFgHgz6kAs0) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/4pefQ21iSk8hdnxw3WSB5Y) | 4:28 | 2022-06-02 | 2022-10-13 |
 | [Tea In The Desert](https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae) | [Bonada](https://open.spotify.com/artist/6sBWpQ5pWojqFXt62W1FwZ) | [Tea In The Desert](https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ) | 3:30 | 2022-06-23 |  |
 | [Tensions](https://open.spotify.com/track/2QQUDbP66s6xGINZZNkICG) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Tensions](https://open.spotify.com/album/0a8YaBpZkRFwqlsFyfAMKF) | 6:28 | 2022-07-28 | 2022-08-10 |

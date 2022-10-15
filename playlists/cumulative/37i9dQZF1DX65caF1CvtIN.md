@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-129 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
+130 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 | 2022-08-03 |  |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-08-03 |  |
 | [Si tu savais](https://open.spotify.com/track/49QAgh5l0nGw2iuWt8bBEE) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Si tu savais](https://open.spotify.com/album/5ucIbz9WZWASmWC1sK6963) | 2:21 | 2022-08-03 |  |
+| [Silent Bath](https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Silent Bath](https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv) | 2:35 | 2022-10-14 |  |
 | [Silhouette](https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Silhouette](https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9) | 2:49 | 2022-08-03 |  |
 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 | 2022-08-03 |  |
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-08-03 |  |

@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-302 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+307 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2021-11-10 |  |
 | [Crystal Glass](https://open.spotify.com/track/3LUbhoAnLn3pLz6R9JYGXU) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [Vågor](https://open.spotify.com/album/5IOEaUuuDjv9psQ0PhQpFS) | 2:52 | 2021-11-10 |  |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-09-13 |  |
+| [Cumbre](https://open.spotify.com/track/79YtzS8PtQlSgRnn1Z8Pni) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Cumbre](https://open.spotify.com/album/3mZkf1eqF4gNLPyQ4iLJdh) | 2:18 | 2022-10-15 |  |
 | [Curves](https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Curves](https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ) | 3:14 | 2021-11-10 |  |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2021-11-10 |  |
 | [Dark Lights](https://open.spotify.com/track/7hb9cJh5t16WJiRWVPbzMZ) | [Emmitt Howard](https://open.spotify.com/artist/4ZWPxlJt6aJXZ6ZqtSKsDe) | [Dark Lights](https://open.spotify.com/album/24jHwcu0OnEKV4DCiiCxRF) | 2:37 | 2021-11-10 |  |
@@ -96,6 +97,7 @@
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-11-10 |  |
 | [Elixir](https://open.spotify.com/track/5axCXjWT2onmHspsd1OfBT) | [Valérian Christophe](https://open.spotify.com/artist/6SCBzE0YewrwW07e57yvqv) | [Elixir](https://open.spotify.com/album/02OAmhoiEOOuc0ezoC6kOv) | 2:20 | 2022-06-16 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2021-11-10 |  |
+| [Endelig](https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Endelig](https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR) | 2:39 | 2022-10-15 |  |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2021-11-10 |  |
 | [Essence](https://open.spotify.com/track/2EnLnhNkVlMlqwpz4b8lct) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 2](https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva) | 3:30 | 2021-11-10 | 2022-02-03 |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2021-11-10 |  |
@@ -116,6 +118,7 @@
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2021-11-10 |  |
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2021-11-10 |  |
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
+| [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-15 |  |
 | [For You Always](https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds) | [Local Monocle](https://open.spotify.com/artist/0qa5B4ML0R0hNETkHLlar9) | [For You Always](https://open.spotify.com/album/4842rhAalZUOP83xfkhvpd) | 3:11 | 2021-11-10 |  |
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2021-11-10 |  |
 | [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2021-11-10 |  |
@@ -189,6 +192,7 @@
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-11-10 |  |
 | [Ngày Mai](https://open.spotify.com/track/3ZDiGCemtha740KIO5Ocpy) | [Haleema Pham](https://open.spotify.com/artist/1vdaAXHf2Bv6wYhyW2xXHe) | [Ngày Mai](https://open.spotify.com/album/5yBiBd2qFl3rYPU23ADfO7) | 3:10 | 2021-11-10 |  |
 | [Nightfall](https://open.spotify.com/track/4HeTp7uxT3yqJQYXP5RnPN) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Nightfall](https://open.spotify.com/album/1NFDvhPuSJWgIDfJjfqnXz) | 3:15 | 2021-11-10 |  |
+| [Nightrain](https://open.spotify.com/track/3qNtyx6HFRRFsj4wF5vslr) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Fauna](https://open.spotify.com/album/300oF5rPceFBu1MQQsLQjv) | 2:36 | 2022-10-15 |  |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2021-11-10 |  |
 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2021-11-10 |  |
 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 | 2021-11-10 |  |
@@ -272,6 +276,7 @@
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2021-11-10 |  |
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2021-11-10 |  |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-11-10 |  |
+| [The Sea Of Tranquility](https://open.spotify.com/track/1xSShAVCtaLdetNXE5TcnQ) | [Sleeping Luna](https://open.spotify.com/artist/3qgnBj2gbx4W6sWwyJpkWM) | [The Sea Of Tranquility](https://open.spotify.com/album/62JyAC5h2bYL3GSPY0Iv1W) | 2:53 | 2022-10-15 |  |
 | [Thinking of You](https://open.spotify.com/track/0ZHZ3KsAl0AVBONDmUY3mv) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Thinking of You](https://open.spotify.com/album/6jKwbDWoBziX5qErZMUSa5) | 2:34 | 2021-11-10 |  |
 | [Tickling Sands](https://open.spotify.com/track/5Mo96DgFoFbc11UVgtIRB4) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Tickling Sands](https://open.spotify.com/album/3yhVe5nKL8Vsgd03lPsxDN) | 2:34 | 2021-11-10 |  |
 | [Tidal Flow](https://open.spotify.com/track/63yQS5uf762DJHLssPlrNw) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:42 | 2021-11-10 |  |

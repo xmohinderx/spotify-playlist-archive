@@ -364,6 +364,24 @@
     },
     {
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "album": {
         "name": "Call 100 Times",
         "url": "https://open.spotify.com/album/0NIwXml1beCMBBADUgsKFZ"
       },
@@ -976,6 +994,24 @@
     },
     {
       "album": {
+        "name": "Heaven For Thugs (Letter to Wap)",
+        "url": "https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390861,
+      "name": "Heaven For Thugs (Letter to Wap)",
+      "url": "https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv"
+    },
+    {
+      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6"
       },
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 165478,
       "name": "IronMan",
       "url": "https://open.spotify.com/track/1VztOdqFSTBEjBJMTbmfNW"
@@ -1628,6 +1664,28 @@
     },
     {
       "album": {
+        "name": "On 10",
+        "url": "https://open.spotify.com/album/4kgelPL8DSWJdhG3sOtLgq"
+      },
+      "artists": [
+        {
+          "name": "SipTee",
+          "url": "https://open.spotify.com/artist/31rh41TZtR4OpDLeWa4muz"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192432,
+      "name": "On 10 (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/5QUd0OsjBoPDrNMUlovc7y"
+    },
+    {
+      "album": {
         "name": "Outside (Better Days)",
         "url": "https://open.spotify.com/album/1DJ4bBATfVNTZ3Y0JlX9oi"
       },
@@ -1863,7 +1921,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 217411,
       "name": "Realer and Realer (feat. Jackboy)",
       "url": "https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP"
@@ -2103,7 +2161,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 193595,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC"

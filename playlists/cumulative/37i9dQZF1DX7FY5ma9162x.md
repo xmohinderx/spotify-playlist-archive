@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: The Weeknd
 
-493 songs - 1 day 3 hr 29 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
+494 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-04-29 |  |
 | [Island](https://open.spotify.com/track/0MixyrdAgx7kW8bRMgNlf8) | [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Island](https://open.spotify.com/album/6LCDzwjkua6GHdt9niRW3k) | 3:29 | 2022-04-01 | 2022-04-21 |
 | [Jealous \(feat\. Chris Brown, Lil Wayne & Big Sean\)](https://open.spotify.com/track/7rpfivzGLlfaGadk5IiRen) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Father Of Asahd](https://open.spotify.com/album/4vuV7xWL4TDaaO412nbhuK) | 4:15 | 2022-04-01 | 2022-04-20 |
-| [Jerry Sprunger \(with T\-Pain\)](https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Chixtape 5](https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f) | 3:53 | 2022-04-01 |  |
+| [Jerry Sprunger \(with T\-Pain\)](https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Chixtape 5](https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f) | 3:53 | 2022-04-01 | 2022-10-15 |
 | [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 | 2022-03-11 | 2022-07-29 |
 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/13L4184XlA7KaHQdMJx6br) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/4vuV7xWL4TDaaO412nbhuK) | 3:41 | 2022-04-01 | 2022-04-21 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2022-03-11 |  |
@@ -356,6 +356,7 @@
 | [Red Flag](https://open.spotify.com/track/5F4zfKfeVqBjJnR6mMJqTj) | [Ley Vara](https://open.spotify.com/artist/5HAxw9TeQTbFuULp22xkXO) | [Red Flag](https://open.spotify.com/album/1UA7V81eiugRkEexDm5DPX) | 3:24 | 2022-04-01 | 2022-04-17 |
 | [Red Light](https://open.spotify.com/track/4WjVfh6dSZs7bF3AazJMIM) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [STAY](https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp) | 2:45 | 2022-04-01 | 2022-04-21 |
 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/0nzqv2KS3q7SMA2s18RbAJ) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Red Lights \(feat\. Wale\)](https://open.spotify.com/album/1LaQ5Og0q3iP5UAKDJuMbE) | 3:39 | 2022-03-11 | 2022-07-28 |
+| [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2022-10-07 |  |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-09-02 | 2022-10-13 |
 | [Regrets](https://open.spotify.com/track/2RuOxSKuPvJmIgBEWUUTio) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Regrets](https://open.spotify.com/album/48sL5JqeLIfdHLKtogMGWx) | 3:45 | 2022-04-01 | 2022-05-06 |
 | [Ride](https://open.spotify.com/track/5hJb8AP76Z82b8ThCDJeOq) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 3:25 | 2022-04-01 | 2022-05-25 |

@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-412 songs - 1 day 10 hr 16 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+413 songs - 1 day 10 hr 20 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [I Remember Clifford](https://open.spotify.com/track/5LaTsDrhrpXwLniidLpnF7) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 7:08 | 2022-04-14 | 2022-10-08 |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-30 |  |
 | [I Was So Young, And You Were So Beautiful](https://open.spotify.com/track/4N7iWwgqcWr3p5JzngOSEF) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 3:54 | 2022-04-14 | 2022-10-08 |
+| [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-13 |  |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/58fxygPUPdfBIUm9BDv0f7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone](https://open.spotify.com/album/6erfmbovMLCppgaLh8TesF) | 3:06 | 2022-04-14 | 2022-04-27 |
 | [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-08-29 | 2022-10-08 |
 | [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2022-04-14 | 2022-10-08 |
@@ -410,7 +411,7 @@
 | [Windows](https://open.spotify.com/track/0m8tSPLHhjhGToD6LW0RPp) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [The Best Of Chick Corea](https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus) | 3:11 | 2022-04-14 | 2022-04-27 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2022-04-14 | 2022-08-30 |
-| [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2022-04-14 |  |
+| [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2022-04-14 | 2022-10-15 |
 | [You Go to My Head](https://open.spotify.com/track/0K98aZItWBqCnFiMMiXiD8) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 5:16 | 2022-04-14 | 2022-10-08 |
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-09-29 |  |
 | [You're My Everything](https://open.spotify.com/track/6PQTALunXWR81WZE5IjCzq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [You're My Everything](https://open.spotify.com/album/5mR2QjUeqbtA8yD9GJfIB8) | 3:39 | 2022-08-29 |  |

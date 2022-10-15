@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Blues, Ballads",
+        "url": "https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx"
+      },
+      "artists": [
+        {
+          "name": "Blues Company",
+          "url": "https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "Blue And Lonesome",
+      "url": "https://open.spotify.com/track/2mGIN7Wttje8xPUVyhIwZg"
+    },
+    {
+      "album": {
         "name": "Blues For Rampart Street",
         "url": "https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW"
       },
@@ -305,6 +323,24 @@
       "duration_ms": 209666,
       "name": "Cherry Pickin' Blues",
       "url": "https://open.spotify.com/track/5jQzD7M8t0EjR3lK1MN7Bt"
+    },
+    {
+      "album": {
+        "name": "Blues, Ballads",
+        "url": "https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx"
+      },
+      "artists": [
+        {
+          "name": "Blues Company",
+          "url": "https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346906,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/4lx1OefOTwZqbVp4j5kBBg"
     },
     {
       "album": {

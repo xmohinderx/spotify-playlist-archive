@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206787,
+  "num_followers": 206819,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDE3MWIxYWE5NjJiMDg0MjgyMThlYWVkNTc5MjgyOTI4",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDEyNjM1MmZjMmM5YTk1MmZlZWM4OWRmMzFjNDYyNzZh",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -91,6 +91,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Hijo de Puta",
+        "url": "https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl"
+      },
+      "artists": [
+        {
+          "name": "Asspera",
+          "url": "https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Hijo de Puta",
+      "url": "https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Victimas del Vaciamiento",
         "url": "https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 243106,
       "name": "El Pibe Tigre",
       "url": "https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Hijo de Puta",
-        "url": "https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl"
-      },
-      "artists": [
-        {
-          "name": "Asspera",
-          "url": "https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Hijo de Puta",
-      "url": "https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov"
     },
     {
       "added_at": "2020-10-24 03:38:51",

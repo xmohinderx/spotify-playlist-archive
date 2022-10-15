@@ -2,9 +2,9 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Ease into these recent hits and new songs from your favorite artists\. Cover: Shawn Mendes
+> Ease into these recent hits and new songs from your favorite artists\. Cover: Zach Bryan
 
-971 songs - 2 day 5 hr 34 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+972 songs - 2 day 5 hr 37 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-26 | 2022-10-01 |
 | [Old Memories \(Originals\)](https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 2:59 | 2021-12-11 | 2022-01-15 |
 | [Older Than I Am](https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 | 2020-04-24 | 2020-07-03 |
+| [omw](https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0) | 2:51 | 2022-10-14 |  |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2020-05-16 | 2020-09-25 |
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-07-10 | 2021-08-14 |
 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 | 2021-06-26 | 2021-08-14 |
@@ -863,7 +864,7 @@
 | [This Shouldn't Work](https://open.spotify.com/track/5emMvT62CP2ulTtk7Q1TsZ) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [This Shouldn't Work](https://open.spotify.com/album/36GFEZJyNWa3bWlMgxE8Qn) | 3:14 | 2020-03-20 | 2020-04-04 |
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2019-06-07 | 2019-06-14 |
 | [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 | 2022-09-16 | 2022-09-24 |
-| [Time \- From the Motion Picture "Amsterdam"](https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Time \(From the Motion Picture "Amsterdam"\)](https://open.spotify.com/album/3VDUN8potNxTgF520R642l) | 3:42 | 2022-09-16 |  |
+| [Time \- From the Motion Picture "Amsterdam"](https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Time \(From the Motion Picture "Amsterdam"\)](https://open.spotify.com/album/3VDUN8potNxTgF520R642l) | 3:42 | 2022-09-16 | 2022-10-15 |
 | [time online](https://open.spotify.com/track/1Qafu0IHjwAA6mqryQvElc) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 4:06 | 2020-10-18 | 2020-11-13 |
 | [Tiny Riot](https://open.spotify.com/track/0u7b8p0mxUUNT7xeuYUtlP) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Tiny Riot](https://open.spotify.com/album/1yoYSNh7PxIc2gvKHqpLa6) | 3:24 | 2021-03-26 | 2021-09-14 |
 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 | 2021-03-19 | 2021-05-15 |

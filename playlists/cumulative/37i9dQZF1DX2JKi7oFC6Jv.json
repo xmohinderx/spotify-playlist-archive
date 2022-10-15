@@ -2383,7 +2383,7 @@
     {
       "album": {
         "name": "Basta / Timbao",
-        "url": "https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA"
+        "url": "https://open.spotify.com/album/3bKvBimZKZhXnnpfTT9awr"
       },
       "artists": [
         {
@@ -2394,6 +2394,24 @@
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Timbao",
+      "url": "https://open.spotify.com/track/1jbha5KqgpV5qH4A4kZDnu"
+    },
+    {
+      "album": {
+        "name": "Basta / Timbao",
+        "url": "https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 228500,
       "name": "Timbao",
       "url": "https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ"

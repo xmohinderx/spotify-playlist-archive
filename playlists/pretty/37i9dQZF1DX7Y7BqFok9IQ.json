@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 134766,
+  "num_followers": 134828,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGI2YzZhOGQ3YzIyZjJhOGJlMDE2YmFiMTljYjA1Nzlj",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGIzMGU4Yzc3NGNiYWIyMDliZTE2NzE1Njc2NjI3M2Ri",
   "tracks": [
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "duration_ms": 165954,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
+    },
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
@@ -23,38 +39,6 @@
       "duration_ms": 225309,
       "name": "Painted Horse",
       "url": "https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF"
-      },
-      "artists": [
-        {
-          "name": "Orianthi",
-          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
-        }
-      ],
-      "duration_ms": 228517,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "True Lies",
-        "url": "https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "True Lies",
-      "url": "https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF"
+      },
+      "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        }
+      ],
+      "duration_ms": 228517,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "QCNH",
@@ -87,54 +87,6 @@
       "duration_ms": 173253,
       "name": "Suit in the Back",
       "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 201803,
-      "name": "Nothing But The Blues",
-      "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Destination Unknown",
-        "url": "https://open.spotify.com/album/11HPOujLHHqTCpAbVNnBd5"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "Destination Unknown",
-      "url": "https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Poison the Water",
-        "url": "https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H"
-      },
-      "artists": [
-        {
-          "name": "David Starr",
-          "url": "https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1"
-        }
-      ],
-      "duration_ms": 231743,
-      "name": "Poison the Water",
-      "url": "https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -153,20 +105,20 @@
       "url": "https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "I Need To Be",
-        "url": "https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp"
+        "name": "True Lies",
+        "url": "https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV"
       },
       "artists": [
         {
-          "name": "The Cassaday Concoction",
-          "url": "https://open.spotify.com/artist/39jwyTOAsOtp0yMWtcxkbi"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 289607,
-      "name": "I Need To Be",
-      "url": "https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X"
+      "duration_ms": 351746,
+      "name": "True Lies",
+      "url": "https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -199,6 +151,22 @@
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "WAYS",
+        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 181218,
+      "name": "Any Way the Wind Blows",
+      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -251,22 +219,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "WAYS",
-        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 181218,
-      "name": "Any Way the Wind Blows",
-      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -313,6 +265,22 @@
       "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
     },
     {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Taking Me Back",
@@ -329,20 +297,20 @@
       "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2021-04-30 04:01:00",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
       },
       "artists": [
         {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 260133,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -363,22 +331,6 @@
       "duration_ms": 208000,
       "name": "Wicked Girl",
       "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -427,6 +379,22 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -481,6 +449,22 @@
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 201803,
+      "name": "Nothing But The Blues",
+      "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
+    },
+    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Bones Owens",
@@ -495,22 +479,6 @@
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -657,6 +625,22 @@
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Sugar and Spice",
+        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn & Chris Arndt",
+          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
+        }
+      ],
+      "duration_ms": 214921,
+      "name": "Sugar and Spice",
+      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "El Dorado",
@@ -687,22 +671,6 @@
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Sugar and Spice",
-        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn & Chris Arndt",
-          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
-        }
-      ],
-      "duration_ms": 214921,
-      "name": "Sugar and Spice",
-      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -757,22 +725,6 @@
       "url": "https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Ain't None Watered Down",
-        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 192436,
-      "name": "Ain't None Watered Down",
-      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Lie Lie Lie",
@@ -819,6 +771,54 @@
       "duration_ms": 270753,
       "name": "Scarborough Street Fight",
       "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Ain't None Watered Down",
+        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 192436,
+      "name": "Ain't None Watered Down",
+      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Ones to Keep Close",
+        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 196843,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Gotta Be Movin\u2019",
+      "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
     }
   ],
   "unique_name": "Modern Blues Rock",

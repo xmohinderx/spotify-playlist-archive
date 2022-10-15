@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-02",
-  "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios. Foto: Khalid",
+  "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
   "name": "Friozinho",
   "published_playlist_ids": [
     "77CETNz3OnGknxn7YVBmE8"
@@ -3001,7 +3001,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 214493,
       "name": "Wild World - Re-Imagined",
       "url": "https://open.spotify.com/track/2iJdQgMbl6jhqtN6pmsWZU"
@@ -3059,6 +3059,24 @@
       "duration_ms": 124365,
       "name": "Words Ain't Enough",
       "url": "https://open.spotify.com/track/6BSDpXlm2gtorEzoH4RNHw"
+    },
+    {
+      "album": {
+        "name": "would you love me now?",
+        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205646,
+      "name": "would you love me now?",
+      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
     },
     {
       "album": {

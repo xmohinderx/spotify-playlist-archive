@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-105 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
+107 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-06-01 |  |
 | [Sticky Leaves](https://open.spotify.com/track/1j9UotLEYOEdebJQTQtcnX) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Sticky Leaves](https://open.spotify.com/album/6Llq7REmvVXsfrslrQXn7T) | 3:52 | 2021-08-19 | 2022-07-29 |
 | [Sticky Leaves](https://open.spotify.com/track/4qlIIxYpHFE4z4IncQrn2N) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Paris 12](https://open.spotify.com/album/2pWwQGSsGVaYiPEf5GS57D) | 3:52 | 2022-06-01 |  |
-| [Suddenly](https://open.spotify.com/track/5ED5vnF6SpG7gdv7XBjEvF) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:25 | 2021-08-19 |  |
+| [Suddenly](https://open.spotify.com/track/2ok5iJpqLf67O6Rzxg56OI) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:25 | 2022-06-01 |  |
+| [Suddenly](https://open.spotify.com/track/5ED5vnF6SpG7gdv7XBjEvF) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:25 | 2021-08-19 | 2022-10-15 |
 | [Sunscreen](https://open.spotify.com/track/0W7xlf67zsK37ByIPR6bm8) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/3ccYKuSYirTP5lJ3wKYhNM) | 2:49 | 2021-08-19 | 2022-07-29 |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-06-01 |  |
 | [Talking to Myself](https://open.spotify.com/track/6x0ftAis9Td4BqUdUTB4ul) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [Talking to Myself](https://open.spotify.com/album/1d8IyFdAR2yI8p4Hr7h8qM) | 3:12 | 2021-08-19 |  |
@@ -104,7 +105,8 @@
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2021-08-19 |  |
 | [Us \- Acoustic](https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Us \(Acoustic\)](https://open.spotify.com/album/4RZ3Ux3PeYeKXXH8MuEuu4) | 3:55 | 2021-08-19 |  |
 | [White Noise](https://open.spotify.com/track/2DyOeiu42RDou7a8bAK7o0) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [White Noise](https://open.spotify.com/album/6gffGCGNyz9Ynf6lXszc42) | 3:42 | 2021-08-19 | 2022-07-29 |
-| [White Noise](https://open.spotify.com/track/40jGEoOWxVGBSH3KAj10Vi) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:42 | 2022-06-01 |  |
+| [White Noise](https://open.spotify.com/track/40jGEoOWxVGBSH3KAj10Vi) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:42 | 2022-06-01 | 2022-10-15 |
+| [White Noise](https://open.spotify.com/track/6rCjkeurS1X32ZQZyrLtR1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:42 | 2022-06-01 |  |
 | [Winter's Love](https://open.spotify.com/track/2aXezkhSUuCVEACRHHK1CB) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Paper](https://open.spotify.com/album/73Ful0q2t6NtMsIhpDbAsj) | 4:25 | 2021-08-19 |  |
 | [Wish That You Were Here \- From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture](https://open.spotify.com/track/1FrrRHxMKVvd85O3gancxW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Wish That You Were Here \(From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6) | 6:42 | 2022-06-01 |  |
 | [Wish That You Were Here \- From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture](https://open.spotify.com/track/6xLwpq74Od2hg00JvOIot4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Wish That You Were Here \(From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kFm9f7gOLwf3WyUd5ld7M) | 6:42 | 2021-08-19 | 2022-07-29 |

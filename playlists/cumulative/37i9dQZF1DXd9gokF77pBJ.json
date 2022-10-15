@@ -713,7 +713,7 @@
     {
       "album": {
         "name": "Kamo Eagle",
-        "url": "https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p"
+        "url": "https://open.spotify.com/album/4NbXqLwluwiNPhWMCZdYXq"
       },
       "artists": [
         {
@@ -724,6 +724,24 @@
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195914,
+      "name": "Prince Endormi",
+      "url": "https://open.spotify.com/track/11cXXPbQP5SlmbaGaf7JYJ"
+    },
+    {
+      "album": {
+        "name": "Kamo Eagle",
+        "url": "https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 195914,
       "name": "Prince Endormi",
       "url": "https://open.spotify.com/track/3TUPWzo9cdnUzdABdpavX3"

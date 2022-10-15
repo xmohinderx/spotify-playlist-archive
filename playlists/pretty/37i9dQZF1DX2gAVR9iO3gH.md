@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó featuring Natti Natasha & Wisin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,800 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,851 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 21 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 |
 | 22 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 23 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
-| 24 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
-| 25 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
+| 24 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
+| 25 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
 | 26 | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/track/4WvUzMxcub8CWjvHyMuEXu) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/album/51JvtglRteGeqbA0j6UciV) | 2:57 |
 | 27 | [Donde CRJ](https://open.spotify.com/track/21HLNrCGG69HTGhBcjV0aP) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Donde Crj](https://open.spotify.com/album/0kiiuoODOXxqdT3ftaSlcU) | 3:37 |
 | 28 | [Principe del 305](https://open.spotify.com/track/414tv41gxCF9CKSKv21gNb) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [Dayme Beats](https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW) | [Principe del 305](https://open.spotify.com/album/4i4u6gNcS3kykJ4Ncg7SAy) | 2:22 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 92 | [Confesión](https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu) | 3:20 |
 | 93 | [LA CANCIÓN](https://open.spotify.com/track/4dC6muizwbm0zgzuSIP7kU) | [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv) | [LA CANCIÓN](https://open.spotify.com/album/1mqXnDs578VdV5a6gRPpcN) | 3:15 |
 | 94 | [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 |
-| 95 | [2seater](https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [2seater](https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0) | 2:41 |
-| 96 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 |
+| 95 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 |
+| 96 | [2seater](https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [2seater](https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0) | 2:41 |
 | 97 | [Uno Pal Otro](https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp) | 3:37 |
 | 98 | [Probadita](https://open.spotify.com/track/43XGVPv2cXGIoVxXMDbvRL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:50 |
 | 99 | [El Vecino](https://open.spotify.com/track/0DYn7KksyoJzCBKqRb2Zos) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Payaso x Ley](https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA) | [El Vecino](https://open.spotify.com/album/44OIaXOjATppNlZco0tFZT) | 3:30 |
 | 100 | [Castigada](https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Cory](https://open.spotify.com/artist/7o7FisMfKqVaysG1CSIWrr) | [Castigada](https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL) | 3:16 |
 
-Snapshot ID: `MTY2Mzk2Mzk1NCwwMDAwMDAwMDVhNDk2ZmFhMzYzZWEwZjFlZThiZTEzMzUzM2E3MzJk`
+Snapshot ID: `MTY2Mzk2Mzk1NCwwMDAwMDAwMGViMDk3MmNjNzM4YTFjOGQzZWUxNjIxNmJiYTEyMDU5`

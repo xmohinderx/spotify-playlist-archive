@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-118 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+119 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2022-09-13 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2021-12-22 |  |
 | [Dynasty](https://open.spotify.com/track/5Ie3qzaZXpR7MLeCN5k2ph) | [Reflowed](https://open.spotify.com/artist/2kYcrynI6pCgHgYdFE4oMK) | [Dynasty](https://open.spotify.com/album/1UnntuIvY26T6Wj7F82W4C) | 3:16 | 2022-07-08 |  |
+| [Emotional Healing](https://open.spotify.com/track/73r7Bj4SU8ZLdjMbtDlkjy) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Emotional Healing](https://open.spotify.com/album/4oigpI299VEBlzpSkSzHN8) | 2:31 | 2022-10-14 |  |
 | [Emotional Music \(Chakra Balancing\)](https://open.spotify.com/track/4nOyZYW1lFwMeiwF23sB3O) | [Reiki Music](https://open.spotify.com/artist/1MKdS4gCWclRAcVydpTv9T) | [Reiki Music \- Vital Energy Nature Zen Music for Reiki, Qi Gong, Tai Chi, Yoga and Mindfulness Meditation](https://open.spotify.com/album/5JEA9dSY3SccUqniOKsqjz) | 6:42 | 2021-12-22 | 2022-09-15 |
 | [Five Bowls of Tibetan](https://open.spotify.com/track/4yhqoMdd45giViFd7UVT1d) | [Five Bowls of Tibetan](https://open.spotify.com/artist/2ep4utLbfFM6R7fWqPwAeo) | [Himalayan Shimmer](https://open.spotify.com/album/05bVIBjzo0rOl1aQBF7WRR) | 3:23 | 2021-12-22 |  |
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-01-06 | 2022-01-21 |
@@ -77,7 +78,7 @@
 | [Quite A Ways](https://open.spotify.com/track/2ASqUS3DbDDBxbnoFrYp1Q) | [Inez Wolde](https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu) | [Quite A Ways](https://open.spotify.com/album/5rCg7By2k4dFUxYXYVqX1b) | 2:28 | 2021-12-22 |  |
 | [Radiant Trust](https://open.spotify.com/track/7qCGORMXbhsWRN4ngiq2zy) | [Arissa Farrow](https://open.spotify.com/artist/6Wt3fy35MAVaFlyo8s3g6v) | [Radiant Trust](https://open.spotify.com/album/5ISQKMXsvXaLBUVQesJ3FO) | 3:01 | 2021-12-22 |  |
 | [Rainfall](https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Rainfall](https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe) | 3:50 | 2022-05-05 |  |
-| [Raise Me Up](https://open.spotify.com/track/4xQHXRTY5A3YbWBLt79QcJ) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:33 | 2021-12-22 |  |
+| [Raise Me Up](https://open.spotify.com/track/4xQHXRTY5A3YbWBLt79QcJ) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:33 | 2021-12-22 | 2022-10-15 |
 | [Recline](https://open.spotify.com/track/5sAIeiXf3O08GhLBb9sO9R) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Recline](https://open.spotify.com/album/6Whp4MggXtkjsGYWct0aGU) | 4:14 | 2021-12-22 | 2022-09-03 |
 | [Rejuvenation](https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Rejuvenation](https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ) | 3:20 | 2021-12-22 |  |
 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 | 2021-12-22 |  |

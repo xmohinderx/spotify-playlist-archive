@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. R\u00edo Roma & Pepe Aguilar en portada. ",
+  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Chelo Ram\u00edrez en portada. ",
   "name": "Mariachi Joven",
   "published_playlist_ids": [
     "5wcPkKyyBQErURyxu67foA"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 317226,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/5PeaVtXNXfu8EWDZfpSEgb"
@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/3FFt1fElUJya5Bi9zQrZQa"
+      },
+      "artists": [
+        {
+          "name": "Misael Espinoza",
+          "url": "https://open.spotify.com/artist/1msDpGTq1MREJh7JBdQu9k"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/3ZT6RVJWZ9DBitAAQrRoIH"
+    },
+    {
+      "album": {
         "name": "Casi Algo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
       },
@@ -243,7 +261,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
@@ -261,7 +279,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 189200,
       "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
       "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
@@ -363,6 +381,24 @@
       "duration_ms": 257640,
       "name": "C\u00f3mo Te Olvido",
       "url": "https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h"
+    },
+    {
+      "album": {
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "album": {
@@ -435,7 +471,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 166066,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh"
@@ -547,7 +583,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP"
@@ -587,10 +623,46 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192827,
       "name": "Hoy Dame el Gusto",
       "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+    },
+    {
+      "album": {
+        "name": "Imborrable",
+        "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
+      },
+      "artists": [
+        {
+          "name": "Chelo Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Imborrable",
+      "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
+    },
+    {
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "album": {
@@ -866,6 +938,24 @@
     },
     {
       "album": {
+        "name": "No Me Hace Falta Nada",
+        "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193841,
+      "name": "No Me Hace Falta Nada",
+      "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
+    },
+    {
+      "album": {
         "name": "No Me Queda M\u00e1s",
         "url": "https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR"
       },
@@ -917,6 +1007,24 @@
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
+    },
+    {
+      "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "album": {
@@ -1076,6 +1184,32 @@
     },
     {
       "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
+    },
+    {
+      "album": {
         "name": "Que Se Sepa Nuestro Amor",
         "url": "https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr"
       },
@@ -1171,7 +1305,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 190800,
       "name": "Si Es Feliz",
       "url": "https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X"
@@ -1301,7 +1435,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192480,
       "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
@@ -1363,6 +1497,28 @@
       "duration_ms": 202506,
       "name": "Tipos De Borrachos",
       "url": "https://open.spotify.com/track/0Fo45JKIv5IXU8ZKEhjxpl"
+    },
+    {
+      "album": {
+        "name": "Todo Me Recuerda A Ti",
+        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "Todo Me Recuerda A Ti",
+      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
     },
     {
       "album": {
@@ -1439,6 +1595,28 @@
       "duration_ms": 200493,
       "name": "Viento",
       "url": "https://open.spotify.com/track/5RnXVDdILr94evzMVEtFuH"
+    },
+    {
+      "album": {
+        "name": "X Personas Como T\u00fa",
+        "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        },
+        {
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173016,
+      "name": "X Personas Como T\u00fa",
+      "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Gigantes do Rap Nacional](https://open.spotify.com/playlist/37i9dQZF1DXaljDe6fISR1)
 
-> Ouça grandes MCs do hip hop nacional\. Foto: MV Bill, Kmila CDD
+> Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 
 89 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 

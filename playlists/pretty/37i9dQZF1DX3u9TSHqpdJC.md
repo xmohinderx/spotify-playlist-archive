@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: emlyn Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,897 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,931 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 64 | [Pretty Boy](https://open.spotify.com/track/3wzjs9jgyha7FRp8cdJMzV) | [Maya's Revenge](https://open.spotify.com/artist/2n2S5DTbYFtrLkdhVfRrg3) | [Pretty Boy](https://open.spotify.com/album/1F9XrnjbzV2LBufT8DFLX3) | 2:38 |
 | 65 | [Hoax](https://open.spotify.com/track/62dLlWjRndXdRnNdHevtT9) | [JORDI UP LATE](https://open.spotify.com/artist/5OSJ6leUukUa7Fk1Xi5zqZ) | [Hoax](https://open.spotify.com/album/7cwUcgrNEvsDwc4jfY6HIR) | 4:02 |
 | 66 | [Still Recovering](https://open.spotify.com/track/1oUpiKRdQIsabZrCy62Fuj) | [Bryce Drew](https://open.spotify.com/artist/0voFFXMYiielT0CtNVPa34) | [Still Recovering](https://open.spotify.com/album/5vD9RqksWJzIiYFNfTMuMD) | 3:54 |
-| 67 | [The End of the World](https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO) | 2:55 |
+| 67 | [The End of the World](https://open.spotify.com/track/20UbaFXoGiRFSU1IpFOSAb) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/1xIxBF7LvxRAVehVr6oXKR) | 2:55 |
 | 68 | [Pretty Little Toxic Tendencies](https://open.spotify.com/track/5DBs9x5yBOZb7LsurZM9aB) | [Girl Wilde](https://open.spotify.com/artist/3mXtJbEuxKBrOFSKIP16t2) | [Pretty Little Toxic Tendencies](https://open.spotify.com/album/5Ki8DtzEg2JqQYcchDfuNT) | 2:03 |
 | 69 | [World of You](https://open.spotify.com/track/3bQzbPfA6SB4hxtkSEvLBm) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 2:18 |
 | 70 | [Next Ex](https://open.spotify.com/track/5EWfxatg6wrWvNGvjsfpvb) | [Katie Belle](https://open.spotify.com/artist/7HLN8q74hfXmbPl1uMG6Uz) | [Next Ex](https://open.spotify.com/album/7H8mRQ7pwL5cSTsajNaMYX) | 2:36 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 72 | [This Ain't Love](https://open.spotify.com/track/0IczCbpywu1KpAh7w4QrPc) | [Hood Taylor](https://open.spotify.com/artist/4hDzxvAmdmSeCLFwZN2Anb) | [This Ain't Love](https://open.spotify.com/album/5LO7BclebYOb4yoyNBddKf) | 2:33 |
 | 73 | [Ferrari](https://open.spotify.com/track/4VPC5p5QqRMyJV4wH2lA3V) | [Intrnet Boyfriend](https://open.spotify.com/artist/1GCiZ9cSa7qDaCucd0YGpS), [Lilo.](https://open.spotify.com/artist/3PMhs64xe6htFc6SGP7jZs) | [Ferrari](https://open.spotify.com/album/0JPbpjIxyJ8NtEei75dvzf) | 3:05 |
 | 74 | [Dodged a Bullet](https://open.spotify.com/track/75o1btgNJlFm629CY6xuop) | [Delilah Brao](https://open.spotify.com/artist/5dWRkpyqnoYDNouN02NDdk) | [Dodged a Bullet](https://open.spotify.com/album/4VomBfdaxV9UshwgYqokXs) | 2:24 |
-| 75 | [Lovely Weather](https://open.spotify.com/track/0bSsno2oGtfZZHSnuLZsGl) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/4H486vjhzhdNFu7cRWw7Ay) | 3:07 |
+| 75 | [Lovely Weather](https://open.spotify.com/track/0PSTO4wm4OdLVtnSH7ciym) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/1wp6QFL3N7sgi1GBX7Rn6U) | 3:07 |
 | 76 | [I Am Running](https://open.spotify.com/track/18aClaeCzkxIUiB82eM5jo) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [I Am Running](https://open.spotify.com/album/2zSGPMJbVh6jwk1uGfMCpq) | 4:13 |
 | 77 | [Sociopath](https://open.spotify.com/track/6CpFDHNMRiPk47pQeQIb0B) | [Juliet Oliver](https://open.spotify.com/artist/1QLoDhTcjhHU3EpKDVVUv0) | [Sociopath](https://open.spotify.com/album/0COrBjpdJ0RPKnXdjkuVFF) | 3:28 |
 | 78 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 97 | [I Don't Cry When I'm High](https://open.spotify.com/track/3HIgZczBhbuSBLEkolSNk2) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [I Don't Cry When I'm High](https://open.spotify.com/album/0kIKiBWuyajSSjoGxL7PhU) | 2:44 |
 | 98 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 |
 
-Snapshot ID: `MTY2NTU0NzIwMCwwMDAwMDAwMDA1Njc3YjQyYjFkZjRkNzIwYTU2Y2FkZWJkM2QyYTY3`
+Snapshot ID: `MTY2NTU0NzIwMCwwMDAwMDAwMDY4MTVhZmY1NGVlMWNjNDI5NzA5OGE2ZTNkYWU2ODgy`

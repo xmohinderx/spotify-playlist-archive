@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: TORA
 
-102 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+103 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Headless Chicken](https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Headless Chicken](https://open.spotify.com/album/4dZ8oDnHYryYJ66VKiBjxD) | 8:39 | 2022-03-04 |  |
 | [Hollywood Woman](https://open.spotify.com/track/4N5QsHoAC40TVNWKxQXjXF) | [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [West Coast Grooves](https://open.spotify.com/album/6pp0yGrv9FuAI0BFl42Vcx) | 1:56 | 2021-05-04 |  |
 | [I Don't Funk with You](https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 2:33 | 2022-09-23 |  |
+| [Illuminate, Pt\. II](https://open.spotify.com/track/2CGdWIMOBsgUmgiwS5rMvN) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Rock Candy](https://open.spotify.com/album/1PTQRv4S9laI9rIt99d1RV) | 2:04 | 2022-10-14 |  |
 | [Journey Through](https://open.spotify.com/track/2ht5zHY5EJYjNdvwLQpkz0) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [I Found The Sun Again](https://open.spotify.com/album/0nW69fDBiiEmlI9POYb0wF) | 5:54 | 2021-05-04 |  |
 | [Journey Through](https://open.spotify.com/track/6RQwWe0auWqd1RwFD4Pt64) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [I Found The Sun Again](https://open.spotify.com/album/3yNjUAz8wM1CxGCiEQcVzz) | 5:54 | 2021-05-04 | 2022-07-29 |
 | [Just Funky \(feat\. Travis Carlton & Lemar Carter\)](https://open.spotify.com/track/7DYbZkxRMGvy7OUx7676nk) | [Tomo Fujita](https://open.spotify.com/artist/4p00lD0GrsSqEK0sxFQpET), [Lemar Carter](https://open.spotify.com/artist/4LIPbJNLsO8GVfA5BLorLm), [Travis Carlton](https://open.spotify.com/artist/1aRHDzpzYUMLJBwZItVsTP) | [Blue Sky \(feat\. Travis Carlton\)](https://open.spotify.com/album/5k7TV6UPBb7DSyp81aqk37) | 4:44 | 2021-05-04 |  |

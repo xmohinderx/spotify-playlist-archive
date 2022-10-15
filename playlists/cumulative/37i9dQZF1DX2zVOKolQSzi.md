@@ -4,13 +4,14 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-73 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
+74 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2021-05-05 |  |
 | [504](https://open.spotify.com/track/7GSRWFN6ThzMKGh6vqBZ1u) | [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Unlock Your Mind](https://open.spotify.com/album/30DZF2u3CHEE3pWZibviRQ) | 4:39 | 2021-05-05 |  |
-| [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-05-05 |  |
+| [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-05-05 | 2022-10-15 |
+| [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 | 2021-05-05 |  |
 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 | 2021-05-05 |  |
 | [Authoritay](https://open.spotify.com/track/3NpljGXwV6dJa4gLgRFUjN) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi), [Alan Evans of Soulive](https://open.spotify.com/artist/3cEs37Ym7xl5I0CRPLqv9D) | [Drop Hop](https://open.spotify.com/album/60OL88xTNfrkqf8upIuNlm) | 3:25 | 2021-05-05 |  |
 | [Back Seat Lover](https://open.spotify.com/track/6cuQsekkJ92W3bXwObcUth) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA) | 3:51 | 2021-05-05 |  |
@@ -23,7 +24,7 @@
 | [City Heights](https://open.spotify.com/track/16Hj0P5jkxkhRMkL1Spz3Y) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Sure Fire Soul Ensemble](https://open.spotify.com/album/6xX9JoQh6kquEkXmudqfO3) | 3:43 | 2021-05-05 |  |
 | [Colorful Midst](https://open.spotify.com/track/6PbY8O3q4hKwTZcsqmo5ba) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [The Main Squeeze](https://open.spotify.com/album/01rFrRHFCxVOpb4SympYlU) | 4:10 | 2021-05-05 |  |
 | [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 | 2021-05-05 |  |
-| [Cory Wong](https://open.spotify.com/track/1L9qsoNnyT3r8fgr2Pr7Ty) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 4:06 | 2021-05-05 |  |
+| [Cory Wong](https://open.spotify.com/track/1L9qsoNnyT3r8fgr2Pr7Ty) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/0KqOkbIFceB9082jY7XdWF) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 4:06 | 2021-05-05 |  |
 | [Crave](https://open.spotify.com/track/1Eu00VxwsLMjHI6nQZ9RtW) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 2:53 | 2021-05-05 |  |
 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 | 2021-05-05 |  |
 | [Do U Want It?](https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:50 | 2021-05-05 |  |

@@ -4,12 +4,12 @@
 
 > All the vibes\. All the feels\. 🫠
 
-225 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
+227 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Flawless' Do It Well Pt\. 3 \(feat\. Summer Walker\)](https://open.spotify.com/track/6Ok5DivyUJjsLVUUWLzz6o) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:51 | 2020-11-12 | 2022-04-29 |
-| [235 \(2:35 I Want You\)](https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [235 \(2:35 I Want You\)](https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh) | 3:51 | 2021-02-10 |  |
+| [235 \(2:35 I Want You\)](https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [235 \(2:35 I Want You\)](https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh) | 3:51 | 2021-02-10 | 2022-10-15 |
 | [24hrs](https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [24hrs](https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz) | 3:22 | 2022-04-22 | 2022-04-29 |
 | [4th Baby Mama](https://open.spotify.com/track/3WSBP6JEf4Y2aKD2swQ8AG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:45 | 2021-11-12 |  |
 | [About Time](https://open.spotify.com/track/3mcy6y6Ht5UX22WxlRT6pV) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Space and Time](https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E) | 2:52 | 2021-07-06 | 2022-04-29 |
@@ -61,6 +61,7 @@
 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 | 2022-05-13 |  |
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2022-05-13 |  |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 | 2019-05-26\* | 2021-02-11 |
+| [Easily](https://open.spotify.com/track/0RnxpSzxzwZgFQ0NahQr9K) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:30 | 2022-10-13 |  |
 | [Easily](https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:30 | 2022-07-28 | 2022-10-13 |
 | [Easily](https://open.spotify.com/track/3TpXajg1nKzG3ngc9tBwrD) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Easily](https://open.spotify.com/album/6q8ucEDesX2Tk4F864VcYB) | 3:30 | 2019-05-26\* | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Drive Slow](https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH) | 5:14 | 2019-06-19\* |  |
@@ -113,7 +114,7 @@
 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 | 2019-05-26\* |  |
 | [Keep Me Around](https://open.spotify.com/track/7kQ5eCSvLropJUPuEYaUbX) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Keep Me Around](https://open.spotify.com/album/3MPbBDFqY66cvdC68ddmpx) | 2:22 | 2022-04-15 | 2022-07-29 |
 | [L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 | 2019-06-19\* | 2021-02-11 |
-| [LANSDOWNE](https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/3EFR2ie3oqo42zrUoAgR3R) | 2:33 | 2021-05-11 |  |
+| [LANSDOWNE](https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/3EFR2ie3oqo42zrUoAgR3R) | 2:33 | 2021-05-11 | 2022-10-15 |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2019-06-19\* |  |
 | [Let's Get Lost \(feat\. Devon Baldwin\)](https://open.spotify.com/track/5DSr1NMci58MEgS20vivSL) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Devon Baldwin](https://open.spotify.com/artist/5JYReWgOGu4JKm5pqmACqG) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 4:00 | 2019-05-26\* | 2020-05-01 |
 | [Let's Go](https://open.spotify.com/track/4VA0v1bv45og1IVCGr9gxl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Let's Go](https://open.spotify.com/album/39sITSzMPwk6cL47lsAnUe) | 3:24 | 2019-05-26\* | 2019-06-19 |
@@ -184,6 +185,7 @@
 | [Shot Down](https://open.spotify.com/track/58nciIyr5vKpUJkUXXkxCq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Shot Down](https://open.spotify.com/album/1aL0tA9ErudUMrpaFnyP9v) | 3:29 | 2019-05-26\* | 2022-04-16 |
 | [Shot For Me](https://open.spotify.com/track/6k7b4mcxLP5HPo6hNoXoM6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 3:44 | 2019-06-19\* | 2022-04-16 |
 | [Slow Down \(feat\. Masego\)](https://open.spotify.com/track/08kLpLmjmhpDHOLgllAd4T) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [MANTIC](https://open.spotify.com/album/79XZHjSZloC8UIUMT1g5JM) | 2:59 | 2020-08-22 | 2020-09-05 |
+| [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 | 2022-10-13 |  |
 | [Sober](https://open.spotify.com/track/6olUplztLFFfU7fMYmFXOP) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/5GBcqixIFDPEom7AUNbFiM) | 4:12 | 2019-05-26\* | 2022-05-09 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-07-28 | 2022-10-14 |
 | [Some Kind Of Drug \(feat\. Marc E\. Bassy\)](https://open.spotify.com/track/1Bqxj0aH5KewYHKUg1IdrF) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 3:42 | 2019-05-26\* | 2021-02-11 |

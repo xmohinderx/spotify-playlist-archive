@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,724 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,744 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 37 | [Reach](https://open.spotify.com/track/5gDNXpsEXyq7P95jU3xUwM) | [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [FWM003](https://open.spotify.com/album/75Rv1yZhnL1PRuP13yOd86) | 5:21 |
 | 38 | [$iTTIN](https://open.spotify.com/track/3wZLmGJV2hpACYcOsdU5M4) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [$iTTIN](https://open.spotify.com/album/46N9zgTpTMOJzhett7MWKv) | 5:28 |
 | 39 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
-| 40 | [sadguitar\_V777.wav](https://open.spotify.com/track/0sUpjP1nHRRPJ5I0gq9BdH) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/51Di4JF9jeiTr3IFPmvCsV) | 3:57 |
+| 40 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 |
 | 41 | [Heartbreaker](https://open.spotify.com/track/6aUakYB97afCEmAqlyE5Wx) | [Deadboy](https://open.spotify.com/artist/2YbV1TIoIl1Un54MmSvZ3V) | [U Cheated](https://open.spotify.com/album/21DasTK7T1uQXiOhCmnsW3) | 5:20 |
 | 42 | [Like We Used To](https://open.spotify.com/track/0gRHszG24gRBpaDmRB8lJO) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Like We Used To / Helter Skelter](https://open.spotify.com/album/1kntJfXB19YvHAugu2Itqs) | 4:26 |
 | 43 | [See Other People](https://open.spotify.com/track/1kEd5QLxm8yfcTr3CVxGNS) | [Cosmin TRG](https://open.spotify.com/artist/4jRLIIrKvl4rAmir58oDK0) | [Generation Dubstep](https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH) | 4:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 69 | [Rayna \- Shanti Celeste Remix](https://open.spotify.com/track/4hmKziZXTpDbqBqW7hZW7V) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Rayna \(Shanti Celeste Remix\)](https://open.spotify.com/album/5aC4FfAUuHAIqtYmuu1Ki4) | 6:52 |
 | 70 | [Gasoline, Pt\. 2](https://open.spotify.com/track/76rWWUIdZ3QonRhUOzLjvS) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P) | [Days After Breaking](https://open.spotify.com/album/30UnTsr4oe3T2QzpKYt7OB) | 6:30 |
 
-Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDQyZjQ2OGJhZGNhMjM2NmEzODFmN2IyZTA2MmYzMDM1`
+Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDU5OGQ1NTM0NDNhMmY5MDU5ZWQyNDIxNjc0NmZjMWRl`

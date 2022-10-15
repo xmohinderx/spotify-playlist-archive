@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 76685,
+  "num_followers": 76967,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDUyZTBhNTE5MmM0YzdiNzE0OTY4YTU0MmYwOWU1NDYx",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDQ3MzQ3YzM0NjVhZTA1NmQ4ZGVhMjM5NzlmZTY3YmFj",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Alien Lanes",
+        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
+      },
+      "artists": [
+        {
+          "name": "Guided By Voices",
+          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+        }
+      ],
+      "duration_ms": 93306,
+      "name": "Game Of Pricks",
+      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 245626,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Alien Lanes",
-        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
-      },
-      "artists": [
-        {
-          "name": "Guided By Voices",
-          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
-        }
-      ],
-      "duration_ms": 93306,
-      "name": "Game Of Pricks",
-      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Thirteen Tales From Urban Bohemia",
-        "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 319970,
-      "name": "Godless",
-      "url": "https://open.spotify.com/track/7zPyyV3kRtp9PWtPJJbNZ1"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+        "name": "Thirteen Tales From Urban Bohemia",
+        "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
       },
       "artists": [
         {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
         }
       ],
-      "duration_ms": 309106,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+      "duration_ms": 319970,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/7zPyyV3kRtp9PWtPJJbNZ1"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1307,6 +1291,22 @@
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Under the Western Freeway",
-        "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
-      },
-      "artists": [
-        {
-          "name": "Grandaddy",
-          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "A.M. 180",
-      "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Refried Ectoplasm [Switched On Volume 2]",
         "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 215825,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Under the Western Freeway",
+        "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
+      },
+      "artists": [
+        {
+          "name": "Grandaddy",
+          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "A.M. 180",
+      "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Mic City Sons",
         "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 208000,
       "name": "Plainclothes Man",
       "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2022-05-30 14:05:21",

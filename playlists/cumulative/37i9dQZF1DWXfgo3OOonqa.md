@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-623 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+624 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,8 @@
 | [Säg Hey](https://open.spotify.com/track/3UiLc2vXILlqQufCQlpsVV) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [Säg Hey](https://open.spotify.com/album/0s3wUEsfiPbIv8b0EXCIc9) | 3:08 | 2022-05-26 | 2022-06-10 |
 | [Säg till dom](https://open.spotify.com/track/0oHeQDhx8WSamTsvx4cfyM) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Young&Strapped](https://open.spotify.com/album/5jQeVs9qODgBoddT5zsowp) | 2:12 | 2022-06-01 | 2022-07-08 |
 | [Så Mycket Bättre](https://open.spotify.com/track/7e7UShiUVgffJasVnD8bHV) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Så Mycket Bättre](https://open.spotify.com/album/0ZGgUwdfRGwzc5xAbSrbXI) | 2:40 | 2022-03-03 | 2022-04-15 |
-| [SÖDERMALM](https://open.spotify.com/track/6WLFyN5UYRWIadKHq3LLRV) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SÖDERMALM](https://open.spotify.com/album/4l331F1fTBQYuVufhFeaEZ) | 2:33 | 2022-08-25 |  |
+| [SÖDERMALM](https://open.spotify.com/track/6WLFyN5UYRWIadKHq3LLRV) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SÖDERMALM](https://open.spotify.com/album/4l331F1fTBQYuVufhFeaEZ) | 2:33 | 2022-08-25 | 2022-10-15 |
+| [SÖDERMALM \- Remix](https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SÖDERMALM \(Remix\)](https://open.spotify.com/album/3UwYbsJK4kFYtSGENGqK7S) | 2:34 | 2022-10-13 |  |
 | [Take Me High](https://open.spotify.com/track/6jPl7GZeCsfatf2tQZC8hv) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Take Me High](https://open.spotify.com/album/5KTcN31IHSQvIudWXK4z9T) | 2:04 | 2022-02-17 | 2022-03-25 |
 | [Take ova](https://open.spotify.com/track/4OgHnCxOsksOOAdAinc5An) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [Wlak](https://open.spotify.com/album/4AZYDRYX7q4VMSRRBAHgpS) | 2:39 | 2022-09-08 |  |
 | [Talk My Shit](https://open.spotify.com/track/0xcMGWAdU3Z7hIn3867I3c) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Talk My Shit](https://open.spotify.com/album/1cxHIXUXv5mlfMbQ8mTvsM) | 2:40 | 2022-02-25 | 2022-03-25 |

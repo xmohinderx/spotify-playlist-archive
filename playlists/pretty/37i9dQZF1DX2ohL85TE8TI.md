@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Golden Spoon \(금수저\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468,075 likes - 107 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,367 likes - 107 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 106 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
 | 107 | [Howling](https://open.spotify.com/track/3aoxA2eTxDjhi3Gxqcs14V) | [Im Yoon Seong](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [Insider \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1F9iWEozvamdo7yGTaC3PT) | 3:22 |
 
-Snapshot ID: `MTY2NTU2NjQ1NywwMDAwMDAwMDQ3MjkyNGE1Mzk1YmRjYmY2MjFmMWM4ODFjNzljN2Yz`
+Snapshot ID: `MTY2NTcxNzAzOSwwMDAwMDAwMGJjOWY5ZjE4ZDI3MTJiMTAyY2RlOGM5YjRhNjI0YTk4`

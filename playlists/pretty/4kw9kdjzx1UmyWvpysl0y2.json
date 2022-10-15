@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127198,
+  "num_followers": 127193,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY4OSw1OGM3YWMyMjI3ODE3OWI0MzE1NjJkYzY5MjkxNDI0NDc1ZDk3NzE4",
+  "snapshot_id": "MzY5Myw1OTg4M2ZiMTZjMzVmOGQ3MzQ2ODFjOTEwMWY1NWE2ZGM5YWMxNWY2",
   "tracks": [
+    {
+      "added_at": "2022-10-14 22:09:29",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ"
+      },
+      "artists": [
+        {
+          "name": "Yula",
+          "url": "https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8"
+        }
+      ],
+      "duration_ms": 223301,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy"
+    },
+    {
+      "added_at": "2022-10-14 22:08:52",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK"
+    },
     {
       "added_at": "2022-10-13 16:45:10",
       "album": {

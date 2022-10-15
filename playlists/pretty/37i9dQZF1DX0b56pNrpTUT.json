@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 311,
+  "num_followers": 330,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDFlMTE2MDFjMGI0ZWNlMzI0YTdjODg2ODhjYTVmNDEz",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGYxNmE4MWMyZWRiOGU2Nzc5YzMxYTliNWNkZjY1NjAw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Nah It Ain't The Same",
-        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251831,
-      "name": "Nah It Ain't The Same",
-      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 177666,
       "name": "MIA (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Nah It Ain't The Same",
+        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251831,
+      "name": "Nah It Ain't The Same",
+      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Messy Love",
-        "url": "https://open.spotify.com/album/5i8nyVa8L6o87WqHRRKCPz"
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 215146,
-      "name": "Messy Love",
-      "url": "https://open.spotify.com/track/7kktQmvJ8xLjHzHrBVo8tH"
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
+        "name": "Messy Love",
+        "url": "https://open.spotify.com/album/5i8nyVa8L6o87WqHRRKCPz"
       },
       "artists": [
         {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
+      "duration_ms": 215146,
+      "name": "Messy Love",
+      "url": "https://open.spotify.com/track/7kktQmvJ8xLjHzHrBVo8tH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Out the Way",
+        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out the Way",
+      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Out the Way",
-        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
       "artists": [
         {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 155414,
-      "name": "Out the Way",
-      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 138857,
       "name": "Anger",
       "url": "https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2022-10-01 16:00:00",

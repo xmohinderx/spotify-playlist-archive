@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,492 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,501 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 36 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 |
 | 37 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:11 |
 | 38 | [Litmas](https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Litmas](https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR) | 3:08 |
-| 39 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 |
-| 40 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
-| 41 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 |
+| 39 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 |
+| 40 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 |
+| 41 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
 | 42 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 |
 | 43 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
 | 44 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 49 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 |
 | 50 | [Hark the Herald Angels Sing](https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:35 |
 
-Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMDk2MzE4ZTlhMGVlNWUwNTViNjA4YjQ4MjgyMTI1NjM1`
+Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMDZjMzJlOTYwMTQ4ZWJhN2IxMTE0ZDY3OTlmZWUyNDRj`

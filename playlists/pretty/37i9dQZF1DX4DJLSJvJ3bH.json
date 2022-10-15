@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 59898,
+  "num_followers": 59901,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjAyNiwwMDAwMDAwMDdlYTQ4MGFiYjY5NjlmZTJiZTBjNDAzN2YzMjM3ODlm",
+  "snapshot_id": "MTY2NDI2MjAyNiwwMDAwMDAwMGI3MDkzZmIzMzE3ODgxZjI4YzdkMjRhNjhjMWVjYmE0",
   "tracks": [
     {
       "added_at": "2022-09-27 07:00:26",
@@ -251,18 +251,22 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Away In a Manger",
-        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
       },
       "artists": [
         {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 69541,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -295,6 +299,22 @@
       "duration_ms": 181773,
       "name": "The Christmas Waltz - Remastered 1999",
       "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -347,22 +367,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -383,6 +387,38 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 160290,
+      "name": "Christmas Don't Be Late",
+      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "Ultimate Christmas",
         "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
@@ -395,6 +431,34 @@
       "duration_ms": 172000,
       "name": "It Came Upon A Midnight Clear",
       "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "Selections From Irving Berlin's White Christmas",
+        "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        {
+          "name": "Danny Kaye",
+          "url": "https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj"
+        },
+        {
+          "name": "Trudy Stevens",
+          "url": "https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -431,70 +495,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 160290,
-      "name": "Christmas Don't Be Late",
-      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "Selections From Irving Berlin's White Christmas",
-        "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        },
-        {
-          "name": "Danny Kaye",
-          "url": "https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj"
-        },
-        {
-          "name": "Trudy Stevens",
-          "url": "https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "When My Heart Finds Christmas",
-        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Merry Christmas from Jos\u00e9 James",
         "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 178066,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "When My Heart Finds Christmas",
+        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
-      },
-      "artists": [
-        {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Baby It's Cold Outside",
-      "url": "https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Here's Love",
         "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
       },
@@ -787,34 +771,34 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Billy Eckstine Sings",
-        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
       },
       "artists": [
         {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+          "name": "Matt Belsante",
+          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
+      "duration_ms": 266586,
+      "name": "Baby It's Cold Outside",
+      "url": "https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7"
     },
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+        "name": "Reflections III Christmas",
+        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
         }
       ],
-      "duration_ms": 163173,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
+      "duration_ms": 213889,
+      "name": "Make Me a Present of You",
+      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -835,18 +819,34 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Reflections III Christmas",
-        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
       "artists": [
         {
-          "name": "Sissel",
-          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 213889,
-      "name": "Make Me a Present of You",
-      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
+      "duration_ms": 163173,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "Billy Eckstine Sings",
+        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "More Sounds Of Christmas",
         "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 241866,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "The Capitol Vaults Jazz Series",
+        "url": "https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 346440,
+      "name": "Santa Claus Blues - 2004 - Remaster",
+      "url": "https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "The Capitol Vaults Jazz Series",
-        "url": "https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3"
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
       },
       "artists": [
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
         }
       ],
-      "duration_ms": 346440,
-      "name": "Santa Claus Blues - 2004 - Remaster",
-      "url": "https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq"
+      "duration_ms": 309453,
+      "name": "A Toast to Friends",
+      "url": "https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -1235,22 +1251,6 @@
       "duration_ms": 235106,
       "name": "Ring The Bells",
       "url": "https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 309453,
-      "name": "A Toast to Friends",
-      "url": "https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

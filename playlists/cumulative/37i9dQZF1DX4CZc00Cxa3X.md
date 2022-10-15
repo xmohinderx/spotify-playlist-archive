@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-148 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+150 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Faded Earth](https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 3:47 | 2022-07-01 | 2022-07-21 |
 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-03-17 | 2022-05-05 |
 | [Farewell](https://open.spotify.com/track/04Azta7QhSUXNODJmbvOui) | [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Home Normal](https://open.spotify.com/album/2oiQ6Ck93DZDl9DHDOqpS1) | 6:18 | 2022-03-30 | 2022-07-26 |
+| [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 | 2022-10-14 |  |
 | [Fireflies](https://open.spotify.com/track/763djtvLAPkAhk6t5oOUoi) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Solace](https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp) | 3:04 | 2022-03-17 |  |
 | [Float](https://open.spotify.com/track/3hQBDDsRJvPQINJFdNR8fW) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Ataraxy](https://open.spotify.com/album/7xI71UxQsCovNwR8tcNcVy) | 3:02 | 2022-03-30 |  |
 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 | 2022-03-17 |  |
@@ -100,6 +101,7 @@
 | [Oxy](https://open.spotify.com/track/2RJ7GPeSQpQ7aB7hYQRgtY) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/0nUNrbg1HfP1COqD1AdR84) | 7:55 | 2022-03-30 | 2022-07-28 |
 | [Ozu](https://open.spotify.com/track/0RTRJxsKOSWzmfLnrsgW4i) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [Zebra](https://open.spotify.com/album/7fMlt5bR4ddUnzLnMR91Qf) | 2:18 | 2022-03-30 | 2022-07-29 |
 | [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 | 2022-07-08 |  |
+| [P.S.R.](https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q) | [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [Ile De Reve](https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws) | 5:57 | 2022-10-14 |  |
 | [Passage](https://open.spotify.com/track/1O9RWAwUb7MhiohlNpM4vp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Antarctican Dream Machine](https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz) | 3:23 | 2022-08-11 |  |
 | [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 |  |
 | [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 |  |
@@ -143,9 +145,9 @@
 | [Undone](https://open.spotify.com/track/0BqU3lLOYW0OLRpNhvKDUC) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 2:36 | 2022-07-01 |  |
 | [Unfolding \(feat\. Goldmund\)](https://open.spotify.com/track/3TY0bVEJuSw1m80A9g6i9N) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Quiet Drift](https://open.spotify.com/album/07tYs3VgPhfY8sUe097xAo) | 2:57 | 2022-03-17 | 2022-07-29 |
 | [Upstream](https://open.spotify.com/track/3dAQ9qpxPkRg3U5stdog6i) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [Upstream](https://open.spotify.com/album/6ckbxqv6WBX9MbmkaC3axo) | 3:31 | 2022-03-17 |  |
-| [Upward Swimming Fish](https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 3:12 | 2022-05-25 |  |
+| [Upward Swimming Fish](https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 3:12 | 2022-05-25 | 2022-10-15 |
 | [Vanir \- Endless Melancholy Rework](https://open.spotify.com/track/2V4D7nvTxdd0LGW58sVp18) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Endless Melancholy](https://open.spotify.com/artist/7hYVnkmEfs0BP27MvYAFEw) | [The Fallout](https://open.spotify.com/album/4tRQM2yaKGtDHqZmE1ayzP) | 3:54 | 2022-03-17 |  |
-| [Waiting For The Wind To Blow](https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 5:34 | 2022-03-17 |  |
+| [Waiting For The Wind To Blow](https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 5:34 | 2022-03-17 | 2022-10-15 |
 | [Wake](https://open.spotify.com/track/4M1hruYTFKjnNnJKcZpVp1) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [O Woods / Wake](https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS) | 2:12 | 2022-03-17 |  |
 | [Warm Kane](https://open.spotify.com/track/2xHWrX7F2osJqmEd7LEA7I) | [Moss Covered Technology](https://open.spotify.com/artist/6HFnyRY6gI7JSXJENeJLTd) | [Seafields](https://open.spotify.com/album/4ZKpcRya5XM5USp8FrSWSq) | 5:06 | 2022-03-30 | 2022-07-29 |
 | [Wellspring](https://open.spotify.com/track/24VUp1TcA8U27YfwlNenlQ) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Grow Slow, Grow Deep](https://open.spotify.com/album/73ztsZPcbmcb1NxpqhRy4I) | 3:23 | 2022-05-06 |  |

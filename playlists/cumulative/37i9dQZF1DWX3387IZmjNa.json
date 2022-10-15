@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 220422,
       "name": "Consistency (feat. Jhene Aiko)",
       "url": "https://open.spotify.com/track/0pA1KdUSZEDAL0swN18Mh8"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 217704,
       "name": "Don't Look At Numbers - Remix",
       "url": "https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi"
@@ -1602,6 +1620,24 @@
     },
     {
       "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209291,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/0GQDQ69wAjCuWWre6M4pgA"
       },
@@ -2029,7 +2065,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 209185,
       "name": "Lesson Learned",
       "url": "https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v"
@@ -3334,6 +3370,28 @@
     },
     {
       "album": {
+        "name": "Crazy Girls",
+        "url": "https://open.spotify.com/album/4v2qjXfnaXaqzjeAgG2ArU"
+      },
+      "artists": [
+        {
+          "name": "Day Sulan",
+          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231828,
+      "name": "Slide-In (feat. YG)",
+      "url": "https://open.spotify.com/track/47YxktAwOYF7RXfDbBuzI6"
+    },
+    {
+      "album": {
         "name": "I GOT ISSUES",
         "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
@@ -3431,6 +3489,50 @@
       "duration_ms": 171428,
       "name": "STILL CHOSE YOU (feat. Mustard)",
       "url": "https://open.spotify.com/track/637YZncqOkeFzcTmr7YijJ"
+    },
+    {
+      "album": {
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/0l7iZ6objNnhQYiAFzMWOM"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3Z2ASDuTah7auTOSVmDMo5"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157835,
+      "name": "Stop Playin (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/6kSPwMUYpnBDIWViA3MKMT"
     },
     {
       "album": {
@@ -3539,7 +3641,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 138716,
       "name": "Teach Her The Game",
       "url": "https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT"
@@ -3821,7 +3923,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 149059,
       "name": "WASTING YOUR TIME",
       "url": "https://open.spotify.com/track/1HvjQc9BqIQVhQvR8BqkvR"

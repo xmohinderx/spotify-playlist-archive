@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 245123,
       "name": "Half Hour Verve",
       "url": "https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k"
@@ -2469,6 +2469,24 @@
       "duration_ms": 148396,
       "name": "White Flower, Dark Hill",
       "url": "https://open.spotify.com/track/0BRO9cvv6fwiIS66imPHu1"
+    },
+    {
+      "album": {
+        "name": "White Flower, Dark Hill",
+        "url": "https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148396,
+      "name": "White Flower, Dark Hill",
+      "url": "https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6"
     },
     {
       "album": {

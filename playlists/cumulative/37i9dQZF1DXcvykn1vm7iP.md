@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-94 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+95 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 | 2022-08-05 |  |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-08-05 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-08-05 |  |
+| [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-08-05 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-08-05 |  |
-| [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-08-05 |  |
+| [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-08-05 | 2022-10-15 |
 | [gahara sapana गहरा सपना](https://open.spotify.com/track/3mima9lt5qBHwtEVzcRbwn) | [Gopali Swoo](https://open.spotify.com/artist/77IUPOfqdTIqqgrem0svOx) | [gahara sapana गहरा सपना](https://open.spotify.com/album/71vVNGE5ue2qBkajUCBmLP) | 2:01 | 2022-08-05 |  |
 | [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-11 |  |
 | [Gravitational Waves](https://open.spotify.com/track/1i309cGCtJxtZ7h4XEHxYC) | [Ocean Mysteries](https://open.spotify.com/artist/1AZbxwiejbmkWYiVfbseXP) | [Immersions](https://open.spotify.com/album/3E3TWLQv6BXRxFJIq1Bdio) | 3:20 | 2022-08-05 |  |

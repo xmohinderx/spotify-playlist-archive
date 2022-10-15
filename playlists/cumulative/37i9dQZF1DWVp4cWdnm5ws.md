@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-101 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+103 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dime Girls](https://open.spotify.com/track/5PxDyfqi8WA1j8irV3f2ks) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Alex Bruce](https://open.spotify.com/album/7c6dDiWcYxOAAoWn358ZyB) | 3:51 | 2022-03-24 |  |
 | [Diwa](https://open.spotify.com/track/5pQ6g1ZKnkg7Yi0NT6TAwl) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Diwa](https://open.spotify.com/album/3HynclQw8K5pH9gTKhWNA8) | 5:09 | 2021-11-25 | 2022-03-25 |
 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 | 2022-03-24 |  |
-| [Eleven:Eleven](https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Eleven:Eleven](https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I) | 2:22 | 2022-03-24 |  |
+| [Eleven: Eleven](https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:22 | 2022-09-29 |  |
+| [Eleven:Eleven](https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Eleven:Eleven](https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I) | 2:22 | 2022-03-24 | 2022-10-15 |
 | [ERE](https://open.spotify.com/track/1sX7doViqq2BqfPbk80bwl) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Aypi](https://open.spotify.com/artist/6M1HtgIYfE2rpDB8ZVhVWa) | [ERE](https://open.spotify.com/album/4znUJaAlO9iG8Lu09spdqg) | 3:18 | 2021-11-25 | 2022-03-25 |
 | [Fake Friends](https://open.spotify.com/track/1qFvMil1TioIjDWSwYMjaB) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Fake Friends](https://open.spotify.com/album/2uWessfZbbv4YtDZMlwIVw) | 3:00 | 2021-11-25 | 2022-03-25 |
 | [Fake Love](https://open.spotify.com/track/1XR7JW85VGvDqbtcDBMuXf) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fake Love](https://open.spotify.com/album/2O2yvHrN3CNNNaeUj7b8AG) | 3:34 | 2021-11-25 | 2022-03-25 |
@@ -99,7 +100,8 @@
 | [Tinatangi \(feat\. Chrstn\)](https://open.spotify.com/track/5Pgssd39LAfVsR9gvUVwU7) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Tinatangi \(feat\. Chrstn\)](https://open.spotify.com/album/2blX1IaoX5oHe8dNb06MbE) | 4:18 | 2022-08-25 |  |
 | [To Pick a Lock](https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [To Pick a Lock](https://open.spotify.com/album/27dbQwfPkrwR4Mn4JAH7CU) | 5:12 | 2021-11-25 | 2022-03-25 |
 | [Tumitigil Ang Mundo](https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Tumitigil Ang Mundo](https://open.spotify.com/album/2Jg15zG5g9QnXZT0O1Wjjj) | 4:07 | 2022-07-15 |  |
-| [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-24 |  |
+| [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-24 | 2022-10-15 |
+| [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 | 2022-09-29 |  |
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2021-11-25 | 2022-03-25 |
 | [Up!](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up!](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 | 2022-04-01 |  |
 | [Wag Kang Umalis](https://open.spotify.com/track/5khydlMrB3SAr4pHDDNSs6) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [Wag Kang Umalis](https://open.spotify.com/album/3nGMv7k9vSWD0dqUKbOngY) | 3:36 | 2021-11-25 | 2022-03-25 |

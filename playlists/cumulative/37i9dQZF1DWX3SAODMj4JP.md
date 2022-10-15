@@ -4,7 +4,7 @@
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-72 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
+73 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mesa](https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [A Mesa](https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV) | 5:06 | 2022-09-02 |  |
 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 | 2022-09-02 |  |
 | [Abraço](https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Abraço](https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX) | 4:04 | 2022-09-02 |  |
+| [Além do Que Se Vê](https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Além do Que Se Vê](https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2) | 5:01 | 2022-10-14 |  |
 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 | 2022-09-02 |  |
 | [Aonde Está Deus?](https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 4:10 | 2022-09-02 |  |
 | [Asas](https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb) | [Itagon](https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh), [Renata Calheiros](https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ) | [Primeiro](https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6) | 4:42 | 2022-09-02 |  |
@@ -30,7 +31,7 @@
 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 | 2022-09-02 |  |
 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 | 2022-09-02 |  |
 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 | 2022-09-02 |  |
-| [Ele Fará](https://open.spotify.com/track/5RI306qvVfFeOrc0Gly2Zr) | [Tiago Duarte](https://open.spotify.com/artist/4YvseyTTL4ReKpJvATPCc5), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Ele Fará](https://open.spotify.com/album/24Mg0aXWn9UAUFRBbd7jlx) | 3:31 | 2022-09-30 |  |
+| [Ele Fará](https://open.spotify.com/track/5RI306qvVfFeOrc0Gly2Zr) | [Tiago Duarte](https://open.spotify.com/artist/4YvseyTTL4ReKpJvATPCc5), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Ele Fará](https://open.spotify.com/album/24Mg0aXWn9UAUFRBbd7jlx) | 3:31 | 2022-09-30 | 2022-10-15 |
 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 | 2022-09-02 |  |
 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 | 2022-09-02 |  |
 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 | 2022-09-02 |  |

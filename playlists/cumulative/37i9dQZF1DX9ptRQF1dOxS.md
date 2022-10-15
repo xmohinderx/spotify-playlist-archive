@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Connie Constance
 
-446 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
+447 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Big Woman](https://open.spotify.com/track/4YkEW0NUEldXj6bxpYUZcy) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Big Woman](https://open.spotify.com/album/7EeSFxb1JTYVPnXJbES8jT) | 2:53 | 2022-03-08 | 2022-04-06 |
 | [Bitter Weather](https://open.spotify.com/track/3ZMValyp4PQloRuoabxrHw) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bitter Weather](https://open.spotify.com/album/4qpjYXm2zE2s1gVwga9nJQ) | 3:40 | 2022-08-03 | 2022-09-07 |
 | [Black Hole](https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L) | [Siobhán](https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp) | [Black Hole](https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq) | 4:01 | 2022-08-03 | 2022-09-07 |
-| [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 | 2022-09-06 |  |
+| [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 | 2022-10-05 |  |
+| [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 | 2022-09-06 | 2022-10-15 |
 | [Blind \(feat\. Lil Yachty\)](https://open.spotify.com/track/3V5sdHDIMBRjhRq6MyIua6) | [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Blind \(feat\. Lil Yachty\)](https://open.spotify.com/album/4ld5J2ldDN0e7klEtmsXuR) | 2:18 | 2022-03-08 | 2022-04-06 |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-09-06 | 2022-10-06 |
 | [Blood](https://open.spotify.com/track/0pMrULAcytPwFR5tGGnzVQ) | [Saltwater Sun](https://open.spotify.com/artist/4N8Ccd33SHnh2cNlojKYBv) | [Blood](https://open.spotify.com/album/2J6jqoCHru9GNwFxSGDdbu) | 3:51 | 2022-08-03 | 2022-09-07 |

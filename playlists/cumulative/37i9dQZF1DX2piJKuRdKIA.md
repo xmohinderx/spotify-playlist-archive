@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-67 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
+68 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Deseándote](https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:43 | 2021-04-30 |  |
 | [Desnúdate Mujer](https://open.spotify.com/track/5gH9swPA4CDuuRrXeKkvPX) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Tú Me Vuelves Loco \(Baile Total\)](https://open.spotify.com/album/7kt8nJfzerlsCFzYyFiuz5) | 4:49 | 2021-04-30 |  |
 | [El Jardin Prohibido](https://open.spotify.com/track/5eufP63aSvtJuoI33YyRxF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7bsw0uld3wQioChBQcnED8) | 5:25 | 2021-04-30 | 2022-07-29 |
-| [El Jardín Prohibido](https://open.spotify.com/track/7wOo717wUEeV7wgcdUZbUA) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5) | 5:25 | 2022-07-28 |  |
+| [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 | 2022-07-28 |  |
+| [El Jardín Prohibido](https://open.spotify.com/track/7wOo717wUEeV7wgcdUZbUA) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5) | 5:25 | 2022-07-28 | 2022-10-15 |
 | [Ella Feat\. Luis Enrique](https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 5:48 | 2021-04-30 |  |
 | [Entre La Espada y La Pared](https://open.spotify.com/track/0342wDs42Efmi0BuaWO6zA) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Entre La Espada Y La Pared](https://open.spotify.com/album/6BfyCa897cBsKTTRqqnD1E) | 5:37 | 2021-04-30 |  |
 | [Extraño Tu Amor](https://open.spotify.com/track/4WcWjBoSYqZBwqeYlz0qey) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [25 Años, 25 Éxitos, 25 Artistas, Vol\. 1](https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ) | 4:27 | 2021-04-30 |  |

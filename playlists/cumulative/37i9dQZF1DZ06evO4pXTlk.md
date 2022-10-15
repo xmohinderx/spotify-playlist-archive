@@ -4,7 +4,7 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/4HQ8jbRFH0oLg7Xqm9c9uw)
+54 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/4HQ8jbRFH0oLg7Xqm9c9uw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [I Wanna Be Sedated](https://open.spotify.com/track/29p7YwJIPrek6T2dwrrVwK) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [So No One Told You Life Was Gonna Be This Way](https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg) | 2:32 | 2022-10-12 |  |
 | [Inbetween Days](https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [So No One Told You Life Was Gonna Be This Way](https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg) | 2:51 | 2022-10-12 |  |
 | [Kevin Costner](https://open.spotify.com/track/4ygRXngoKVPpErJQnkfCbX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 4:05 | 2022-09-16 | 2022-10-12 |
-| [Kick It](https://open.spotify.com/track/6nqjjqn9K6y0nWNFYtGJ0J) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:04 | 2022-09-18 |  |
+| [Kick It](https://open.spotify.com/track/6nqjjqn9K6y0nWNFYtGJ0J) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:04 | 2022-09-18 | 2022-10-15 |
 | [Kids On Drugs](https://open.spotify.com/track/2ZXfg1glFbYHlXlMCvih7n) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:22 | 2022-09-16 |  |
 | [Lament](https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 5:00 | 2022-09-16 |  |
 | [Listen\. Don't Panic](https://open.spotify.com/track/5obgk2nN9DpMqkAD2aiLHM) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 2:51 | 2022-09-18 | 2022-09-20 |
@@ -44,6 +44,7 @@
 | [Mannequin Champion](https://open.spotify.com/track/6BsmNOJrNCiOG4Ioo0EZsD) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Stairs to Noise: The Scatterbrain](https://open.spotify.com/album/0nge5MyzEgVNZnc4OPg518) | 3:09 | 2022-09-16 | 2022-10-13 |
 | [Nightschool](https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 2:50 | 2022-09-16 |  |
 | [North East Kid](https://open.spotify.com/track/3BHcWIcajwKPhrT3Updvcf) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Shaking In The Water](https://open.spotify.com/album/37fJg1RvCkrUGzq3XqhrGH) | 3:50 | 2022-09-16 |  |
+| [Pop Song](https://open.spotify.com/track/7qxqqrFH4KyMhNye5gtoHi) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 2:59 | 2022-10-14 |  |
 | [Ready to Call](https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Ready to Call](https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS) | 3:39 | 2022-09-16 |  |
 | [Real Love](https://open.spotify.com/track/5lfjKinwOHkwLfExvzMOLI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 | 2022-09-16 |  |
 | [Say Yes](https://open.spotify.com/track/4Bglz77Z736LzNpBCQrE2M) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Stairs to Noise: The Scatterbrain](https://open.spotify.com/album/0nge5MyzEgVNZnc4OPg518) | 2:11 | 2022-10-12 |  |

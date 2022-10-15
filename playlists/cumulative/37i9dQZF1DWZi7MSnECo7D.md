@@ -2,7 +2,7 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Daniel \- Chico e o Mar
+> Novidades e destaques do indie nacional\. Foto: sofi frozza
 
 281 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
@@ -83,7 +83,7 @@
 | [Difícil](https://open.spotify.com/track/6ynlZyyVnqMZ8iD8G3ZjGX) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Difícil](https://open.spotify.com/album/5PnBdVhjBi6dfATnhLSnIa) | 3:06 | 2022-02-18 |  |
 | [Divino](https://open.spotify.com/track/5h28ZG3vmzEhgiuin5dWSP) | [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Divino](https://open.spotify.com/album/553NTE8SrClMg4a25TURbw) | 2:48 | 2022-05-06 | 2022-05-20 |
 | [Diz Pra Mim](https://open.spotify.com/track/4mUbsGonFV5Hyy7M179XIW) | [Breno Branches](https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj) | [Diz Pra Mim](https://open.spotify.com/album/2S7TRi5ykIbUrCanDTEif0) | 2:46 | 2022-08-12 | 2022-09-24 |
-| [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2022-07-01 |  |
+| [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2022-07-01 | 2022-10-15 |
 | [Domingo](https://open.spotify.com/track/2lRsKNaA8pmA6zPJvqZnaf) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj), [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Domingo](https://open.spotify.com/album/3qyC2kRaHZZ7xPsMp7ChnW) | 3:12 | 2022-08-05 |  |
 | [Door](https://open.spotify.com/track/5YkZTtb0htLlo2F1Um6knO) | [Gato de Rua](https://open.spotify.com/artist/2q9BBqImQUlzKzpj1k2KqH) | [Door](https://open.spotify.com/album/0ypjYPdOJBi7Ed3njS6dSu) | 2:12 | 2022-07-22 | 2022-08-13 |
 | [Dóidóidói](https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY) | [Labaq](https://open.spotify.com/artist/3lYrvAJgDMVswjcn0Zi0La) | [Dóidóidói](https://open.spotify.com/album/5ORpzqsldrjpCGMBlhSUQA) | 2:46 | 2022-04-01 | 2022-04-29 |
@@ -124,7 +124,7 @@
 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 | 2022-05-13 | 2022-07-23 |
 | [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 | 2022-07-09 |
 | [Leds do Japão](https://open.spotify.com/track/7BvivZBQZnRfKUABTyWnwl) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf) | [Leds do Japão](https://open.spotify.com/album/5fGPs5zSyeVMc5mwXNTZMp) | 5:27 | 2022-06-10 |  |
-| [Leo](https://open.spotify.com/track/2OXQt8umfFX1MwvrxAmhjp) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Leo](https://open.spotify.com/album/31LNhs3PMNI7Epfjjs1Wge) | 3:29 | 2022-08-05 |  |
+| [Leo](https://open.spotify.com/track/2OXQt8umfFX1MwvrxAmhjp) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Leo](https://open.spotify.com/album/31LNhs3PMNI7Epfjjs1Wge) | 3:29 | 2022-08-05 | 2022-10-15 |
 | [Let's Do It All Again](https://open.spotify.com/track/4JagVYqLNcy8n8Wh5Pd8cr) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Let's Do It All Again](https://open.spotify.com/album/4ApqIkbwlIRlpeUdChTu0B) | 6:37 | 2022-05-27 | 2022-06-11 |
 | [Levi](https://open.spotify.com/track/1ZzxFNP76eCZ1P18vEGViU) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [a2ele](https://open.spotify.com/artist/2IBOTsCvUK65Wq5eiq0Pkw) | [Levi](https://open.spotify.com/album/0kRSqhVqdtK9t0VJECEfIo) | 4:02 | 2022-07-22 |  |
 | [Lia](https://open.spotify.com/track/02AfIrjEzN8REjSe5ypcXF) | [Lado Fim do Mundo](https://open.spotify.com/artist/66ItPiB5AheRX2jXy4vzZa) | [Lia](https://open.spotify.com/album/45yv7cwCF6mQHYtYYLWkzR) | 5:08 | 2022-01-14 | 2022-02-12 |
@@ -198,7 +198,7 @@
 | [Pode Chegar](https://open.spotify.com/track/1xY1qLVrlFZPYjpklP1cl4) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Parte do Que Vem](https://open.spotify.com/album/7s4EA9tZu5gK98FOSBL1ZS) | 4:15 | 2022-07-01 | 2022-08-20 |
 | [Polaroids](https://open.spotify.com/track/3D454eHAU28YfY74uwyI9b) | [Betina](https://open.spotify.com/artist/60xTz0cmopLyYBnQg9QGoK), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Polaroids](https://open.spotify.com/album/4BA0EFWHNxlc1q7ubXMMon) | 3:36 | 2022-05-13 | 2022-06-25 |
 | [Por Enquanto](https://open.spotify.com/track/7Jqb8ZKO0cqj8fewm1A5e3) | [Joana Bentes](https://open.spotify.com/artist/0kRYwayXJKJRNHMJSRnmJm) | [De Volta Pra Cássia](https://open.spotify.com/album/1bA4ihMlX3gCtliW150HdR) | 3:26 | 2022-01-14 | 2022-01-29 |
-| [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 |  |
+| [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 | 2022-10-15 |
 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 | 2022-01-28 | 2022-06-18 |
 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 | 2022-09-02 |  |
 | [PRAZER](https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [PRAZER](https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll) | 3:48 | 2022-06-03 | 2022-06-25 |
@@ -266,7 +266,7 @@
 | [Tão Bom](https://open.spotify.com/track/3N3CYAXcoMidDy23zqmb76) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Tão Bom](https://open.spotify.com/album/5q7Ro5XgKmvB56PLxea3qW) | 2:25 | 2022-03-11 | 2022-04-09 |
 | [Ultraleve](https://open.spotify.com/track/3Rab6Z0ZW6knxay13dEvx7) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/1nnNN82IroJUO8dhiGFPXz) | 3:51 | 2022-07-22 | 2022-08-06 |
 | [Ultraleve](https://open.spotify.com/track/3gzeiDNfU4OwnSmsk3xwCK) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Ultraleve](https://open.spotify.com/album/7lqAhSyVbl2kMmuCOtkjdU) | 3:51 | 2022-01-14 | 2022-07-29 |
-| [Um Disco Inteiro Sobre Você](https://open.spotify.com/track/62THnH2BxbSEwZTFlOVomK) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Um Disco Inteiro Sobre Você](https://open.spotify.com/album/3p63N0ELjftXsCrariyQPv) | 2:41 | 2022-08-05 |  |
+| [Um Disco Inteiro Sobre Você](https://open.spotify.com/track/62THnH2BxbSEwZTFlOVomK) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Um Disco Inteiro Sobre Você](https://open.spotify.com/album/3p63N0ELjftXsCrariyQPv) | 2:41 | 2022-08-05 | 2022-10-15 |
 | [Um Jeito de Te Ver](https://open.spotify.com/track/48SszxHGmA1ur8cLYiLOjN) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Um Jeito de Te Ver](https://open.spotify.com/album/0VNr3di0Wzka6Rq5ZZoUE7) | 4:13 | 2022-06-24 |  |
 | [Um Milhão de Coisas](https://open.spotify.com/track/0nRiU5YRgqDMqueJIKc3PS) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [Marina Linhares](https://open.spotify.com/artist/18CW4muXWkQYm6AWdnGaZN) | [Um Milhão de Coisas](https://open.spotify.com/album/10HVepUzkvVL56OEagQSlR) | 3:07 | 2022-01-14 | 2022-06-04 |
 | [Uma Grande Saudade Boba](https://open.spotify.com/track/1E2VQwCR0BndVnisLn8Frg) | [Bordoá](https://open.spotify.com/artist/1iAW1QQLoyyWN2yrcWt4ct) | [Uma Grande Saudade Boba](https://open.spotify.com/album/4kEgbijNbP9KRKww5xNcjN) | 3:17 | 2022-04-29 | 2022-08-20 |

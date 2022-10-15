@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-127 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+128 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Son Mansour](https://open.spotify.com/track/1oS4FFInuBOkj92do6lsU3) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Son Mansour](https://open.spotify.com/album/5nUNmXQJPXLXTMYDU56zQP) | 5:44 | 2022-04-13 | 2022-07-22 |
 | [Sunday Showers \- Original Mix](https://open.spotify.com/track/2B2VCQULbAItuMzrS2O6Nn) | [Kentphonik](https://open.spotify.com/artist/5WvbWfo8umWyqSrmB8DviH) | [Hiya Kaya EP](https://open.spotify.com/album/41ai9POiSflKh3DVyyq6V8) | 7:01 | 2022-04-13 |  |
 | [Sunny Street](https://open.spotify.com/track/7FSxMDMfkL58IKUHvDKRxk) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Sunny Street](https://open.spotify.com/album/68O4P4A7mJeHEfKdza0cif) | 5:36 | 2022-04-13 |  |
-| [Sunsets in Marrakech](https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd) | 6:18 | 2022-10-07 |  |
+| [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 | 2022-10-13 |  |
+| [Sunsets in Marrakech](https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd) | 6:18 | 2022-10-07 | 2022-10-15 |
 | [Teak \- Omerar Nanda Remix](https://open.spotify.com/track/0uNqMpO7ClAfIl1Van5RpT) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf), [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Teak](https://open.spotify.com/album/3pdVTHeoE6XsBd1rWFEOUr) | 6:38 | 2022-04-13 |  |
 | [Terravita](https://open.spotify.com/track/5zkW6ZBqED2TWNRjcZLS5n) | [Minörs](https://open.spotify.com/artist/26ZaXcjW7CImOrTU2jxZL3) | [Terravita](https://open.spotify.com/album/3KCQr6cXvICTcTNnXdhEQe) | 6:57 | 2022-04-13 |  |
 | [The Call](https://open.spotify.com/track/2HGPDuJuzcZcwWUbQBTtHO) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P), [Elly Ball](https://open.spotify.com/artist/7HXdeGBPEYJDB97Yy1sHMH) | [The Call](https://open.spotify.com/album/43AbiDnZdsiZmWc2ZuqMKb) | 6:40 | 2022-04-13 | 2022-07-22 |

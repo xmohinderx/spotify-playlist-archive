@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-387 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+389 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 | 2022-01-07 |  |
 | [Salto al Vacío](https://open.spotify.com/track/0LyZKZQYsSkKOkng3pLCIy) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Salto al Vacío](https://open.spotify.com/album/1OEuHStPc9si4yV1IpWp5a) | 3:16 | 2022-01-07 | 2022-06-21 |
 | [SANTIAGO, PT\. II \(DISTANCIA\) \[feat\. Heartgaze\]](https://open.spotify.com/track/2ncK9wKyHdM93WFVIVcu4r) | [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [SANTIAGO...](https://open.spotify.com/album/7CWmlWercbmIicYIOGEoUt) | 4:09 | 2022-04-01 | 2022-04-20 |
+| [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-14 |  |
 | [Ser Eternos](https://open.spotify.com/track/2Nbd4vA664gAa23iCmbP4X) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Ser Eternos](https://open.spotify.com/album/12LRUTem7DZkK72rfo2Jvk) | 3:40 | 2022-01-07 | 2022-07-28 |
 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 | 2022-07-15 |  |
 | [Si Fueras Lluvia](https://open.spotify.com/track/5caJvmpnwLPvsgxiFUZI3d) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/37eZe9AY6enYaoBM625PQI) | 3:12 | 2022-01-07 | 2022-07-29 |
@@ -325,12 +326,13 @@
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2022-01-07 |  |
 | [Sigue Avanzando](https://open.spotify.com/track/5No9pEIGYQn4Bztsz6L6RA) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Sigue Avanzando](https://open.spotify.com/album/6geCczIBzauYZ2oVaqVXBi) | 4:22 | 2022-01-07 | 2022-07-25 |
 | [Sigue Avanzando](https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Sigue Avanzando](https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA) | 3:34 | 2022-05-06 | 2022-07-19 |
-| [Sin Señal](https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Sin Señal](https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX) | 3:38 | 2022-01-07 |  |
+| [Sin Señal](https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Sin Señal](https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX) | 3:38 | 2022-01-07 | 2022-10-15 |
+| [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 | 2022-10-14 |  |
 | [Sinceridark](https://open.spotify.com/track/0W6VT5I7pgWvSQXtYm7ayd) | [Rompevientos](https://open.spotify.com/artist/4oq8knLG4FDYEc5Uascyx6), [Lulú Hojman](https://open.spotify.com/artist/7zRYWedGqx0ON6WlfBgK71) | [Relaciones Humanas](https://open.spotify.com/album/5wJRrgzpR0apKnZkx8xLB7) | 2:57 | 2022-01-07 | 2022-04-16 |
 | [Soledad](https://open.spotify.com/track/1tzJow8f25eQmTj4KvrXf3) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/5dMNce8X1rbwCsLL2Vmnn2) | 2:53 | 2022-01-28 | 2022-07-17 |
 | [Solo](https://open.spotify.com/track/7yiWH51BhnISk26tmTrgbT) | [Chucho Nave](https://open.spotify.com/artist/2HzCdz4inInXUvCs5LYZK9) | [Solo](https://open.spotify.com/album/7KNf7f4cNHOeLahtzWdofc) | 3:38 | 2022-01-28 | 2022-04-21 |
 | [Solo Pienso en Ti](https://open.spotify.com/track/3nQ6RegxSfZAw7PbORJi2e) | [Coctel Intergaláctico](https://open.spotify.com/artist/6BqhcMZGzPkabwaUYZ6JG3) | [Solo Pienso en Ti](https://open.spotify.com/album/3eeL7kGmNlbHdo6CvjN9qS) | 3:52 | 2022-01-07 | 2022-07-24 |
-| [SOMOS TAN INTENSOS](https://open.spotify.com/track/6LTS9XjUZXVDr0DY0b8AQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:32 | 2022-01-07 |  |
+| [SOMOS TAN INTENSOS](https://open.spotify.com/track/6LTS9XjUZXVDr0DY0b8AQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:32 | 2022-01-07 | 2022-10-15 |
 | [Sos Tan Perfecta](https://open.spotify.com/track/1kMSSiTNKUDC4qI1e2dJ62) | [Bröder](https://open.spotify.com/artist/3VcnxGSCx7N2B17v615v0g) | [Bröder](https://open.spotify.com/album/0p4g6SmATh0ihg0wQAxXvU) | 2:35 | 2022-01-07 | 2022-07-10 |
 | [Subtítulo: Te Amo](https://open.spotify.com/track/04T6yie5egZkdNjOfuMOw1) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Subtítulo: Te Amo](https://open.spotify.com/album/6bW9BQdiMATcuQLXRYn8VF) | 3:29 | 2022-01-07 | 2022-07-29 |
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-01-07 |  |

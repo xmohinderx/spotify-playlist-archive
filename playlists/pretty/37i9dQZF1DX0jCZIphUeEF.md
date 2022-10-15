@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 66 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,073 likes - 66 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 20 | [Karavane](https://open.spotify.com/track/49jrwKKNhC5TvU6W9NzFue) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Gio Israel](https://open.spotify.com/artist/0vMjghiQIFzwaoWNC5kQEr) | [Without Borders](https://open.spotify.com/album/2Fgzwt5QD6EFeApnyr1jzB) | 6:49 |
 | 21 | [Lovely \- Vocal Good Vibes Mix](https://open.spotify.com/track/591N75XjzRms0Cvcm9qSRw) | [Disco Incorporated](https://open.spotify.com/artist/03bYU8vPMd45QD6byp08HJ) | [Funky Summer Grooves, Vol\. 1](https://open.spotify.com/album/1yv6X3GBXHTc5mZxh9xEuZ) | 5:04 |
 | 22 | [Positive Energy](https://open.spotify.com/track/2OpqW5F6CXi0Nnz0imgGwk) | [Hotmood](https://open.spotify.com/artist/3XhaUjDe9xDwneumjdsmsa) | [Mandrill Cuts 018](https://open.spotify.com/album/0PFCxme5RaHAxL9kZnfvqt) | 5:34 |
-| 23 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 |
+| 23 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 |
 | 24 | [Starlight](https://open.spotify.com/track/3Sy7ls80tj135RutN7hWWk) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [Starlight](https://open.spotify.com/album/5uYX6qjy7ZtnmvrmxQaFPx) | 7:20 |
 | 25 | [Holi](https://open.spotify.com/track/0KPRVpZipfBa416bU01fTp) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Niki4](https://open.spotify.com/artist/3ZIPK1vx39AtBHleH80CzV) | [Holi EP](https://open.spotify.com/album/3MaaYmcDVNUw3jKTRAx5nE) | 6:45 |
 | 26 | [Guapa](https://open.spotify.com/track/5qd4C8cEW0VNNQoZ9tNaX7) | [Calamar Crew](https://open.spotify.com/artist/28Tqd0YiUZ7fWNvikZjAiN), [Leon \(FR\)](https://open.spotify.com/artist/0OUY2dHEjLzNhvAbBD3Ouj) | [We Rise By Lifting Others](https://open.spotify.com/album/7bHGruOG4gvKtOLzJq2eQO) | 6:48 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 65 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 |
 | 66 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 
-Snapshot ID: `MTY2MjYzNTgwNiwwMDAwMDAwMDYzMTQwMDRiZWY4ZmI4Mzc4ZGI5YWRkNDYyOGE0OWZm`
+Snapshot ID: `MTY2MjYzNTgwNiwwMDAwMDAwMDBiNWZiYjBmODQ2NGFjZGIxOTk3YmExMGY5OGYwNmI5`

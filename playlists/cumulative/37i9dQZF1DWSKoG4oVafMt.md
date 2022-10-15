@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-582 songs - 1 day 7 hr 29 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+583 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Dreams](https://open.spotify.com/track/6Ghvb6ELWbMh3b0G8IMHuV) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Medhavini](https://open.spotify.com/artist/4fGzJLb60423e3BJn1BEJJ) | [Dreams](https://open.spotify.com/album/5AVJ4YMpAWgq9fLtcFdgWd) | 2:43 | 2022-02-15 | 2022-04-06 |
 | [Dreams Unfold](https://open.spotify.com/track/046srpP68Vu1evgrTPEQOU) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Dreams Unfold](https://open.spotify.com/album/6Gqu6tiY8zJPtgaXHBwSwZ) | 3:13 | 2022-02-14 |  |
 | [Dua Mangdi](https://open.spotify.com/track/0cMx4Mk2g47IvinNJEIWbB) | [Karan Dhillon](https://open.spotify.com/artist/7hmEpCcjK4KFhb7zjEt6LJ), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [Dua Mangdi](https://open.spotify.com/album/4indLUuIZjVgHQ6vtgD5s8) | 3:07 | 2022-02-08 | 2022-02-12 |
+| [Duawan](https://open.spotify.com/track/6B3Ky26cKgdW3bsqarkmX0) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Duawan](https://open.spotify.com/album/4WVcXIgE0dPcBZIGpiyFQI) | 3:32 | 2022-10-14 |  |
 | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/track/4y7quCfMwPefnExRvymRJZ) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Atul Sharma](https://open.spotify.com/artist/3XogEyWUGyJGPSIjKuR2Qc) | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/album/6bF6K2aCqiPPn7BgMuKOCj) | 3:11 | 2022-05-04 | 2022-05-20 |
 | [Duur Duur](https://open.spotify.com/track/2mNo6XKxgVrwe9bragteLg) | [Manik Bhatheja](https://open.spotify.com/artist/2cTrrcxX0yWlBAQ3rOrUlo), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Duur Duur](https://open.spotify.com/album/7iXfaoRqgCrwwwQJUmhC8C) | 3:47 | 2022-02-15 | 2022-03-11 |
 | [Ego](https://open.spotify.com/track/3pxKYqkCKgaGHVExK4BX2e) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Ego](https://open.spotify.com/album/37RerQlYpnNfS1tbXdri0O) | 3:29 | 2022-07-04 | 2022-07-12 |

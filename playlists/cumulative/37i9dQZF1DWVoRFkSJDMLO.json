@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 156080,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3u9ptDnhV4pUhyjBaG3i6D"
@@ -3410,6 +3410,32 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg"
+      },
+      "artists": [
+        {
+          "name": "STANY",
+          "url": "https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -3849,7 +3875,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 153624,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3ExMrqRmSf7KYz4DYehvFj"
@@ -4108,6 +4134,28 @@
     },
     {
       "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq"
+      },
+      "artists": [
+        {
+          "name": "Small Doctor",
+          "url": "https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7"
+    },
+    {
+      "album": {
         "name": "Sexercise",
         "url": "https://open.spotify.com/album/0Fs09qciesC6WZoaoaCvA3"
       },
@@ -4163,7 +4211,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 206886,
       "name": "Shake Mama",
       "url": "https://open.spotify.com/track/5WbnPaU30IItTQmvmf9vTv"
@@ -4243,6 +4291,24 @@
       "duration_ms": 158400,
       "name": "So Me Stay",
       "url": "https://open.spotify.com/track/0S8VgLfuZwWJMGXUBJXlEy"
+    },
+    {
+      "album": {
+        "name": "Outta Body Experience Riddim",
+        "url": "https://open.spotify.com/album/7mbglZnNuCUrYTzfLKgMDW"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "So Me Stay",
+      "url": "https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF"
     },
     {
       "album": {

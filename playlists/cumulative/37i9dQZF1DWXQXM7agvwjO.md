@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Say Sue Me \(South Korea\)
 
-431 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+433 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Can We Have A Conversation?](https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Can We Have A Conversation?](https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF) | 2:34 | 2022-03-24 | 2022-05-20 |
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2022-06-30 | 2022-07-22 |
 | [Cause U](https://open.spotify.com/track/1CQjCixIGB3y8NwV4f8Zsq) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 3:24 | 2022-08-04 | 2022-09-16 |
-| [Center Of The Universe](https://open.spotify.com/track/5d8W3FelJJYH2S5YpkP7bm) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Center Of The Universe](https://open.spotify.com/album/0HrAgLrgGfqr9MC16d3HZ0) | 3:07 | 2022-10-06 |  |
+| [Center of the Universe](https://open.spotify.com/track/5ZibH2171yDvE6mTVAVG25) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:07 | 2022-10-13 |  |
+| [Center Of The Universe](https://open.spotify.com/track/5d8W3FelJJYH2S5YpkP7bm) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Center Of The Universe](https://open.spotify.com/album/0HrAgLrgGfqr9MC16d3HZ0) | 3:07 | 2022-10-06 | 2022-10-15 |
 | [Cerita Bahaya](https://open.spotify.com/track/3vudXFZo78HISE8sA9Lwo3) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Cerita Bahaya](https://open.spotify.com/album/0qJbdOQddkmhalfruJob47) | 5:15 | 2022-07-07 | 2022-09-23 |
 | [Chances](https://open.spotify.com/track/7nXsY5j0SJoANUJ6NtmXFe) | [FUAD](https://open.spotify.com/artist/0sFxcrZPKTFoOL4LCAL7NW) | [Dispositions](https://open.spotify.com/album/46hd6Aj37dUTCVHPERBWGt) | 3:13 | 2022-08-18 | 2022-08-26 |
 | [Changes](https://open.spotify.com/track/2hfvgjrLurakx7qltP75KO) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Pastor Pedro & The Candle Light Children, Vol\. 01](https://open.spotify.com/album/0YTOYMjzjsoGvJcUkIra4s) | 4:58 | 2022-05-26 | 2022-07-01 |
@@ -132,6 +133,7 @@
 | [Forever](https://open.spotify.com/track/3Q9xCPaEU0vla6XzjIIKpx) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Forever](https://open.spotify.com/album/5GOTTBCBjwIyQfvl9zfhtW) | 3:45 | 2022-05-26 | 2022-07-08 |
 | [Forgot That We're Once](https://open.spotify.com/track/3mguOTnxR0SjzKdZOwKSSZ) | [ease](https://open.spotify.com/artist/0DufYQJcuM2V7MfRShf9xY) | [Forgot That We're Once](https://open.spotify.com/album/1qeHfDPOKFX0koGq2oE7RJ) | 6:10 | 2022-06-02 | 2022-07-01 |
 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 | 2022-05-12 | 2022-07-01 |
+| [FRAME ME](https://open.spotify.com/track/5e0m1h7LM0VHIS6hERZ1oi) | [SURYEON](https://open.spotify.com/artist/5jyPaTMuPzds0MAd8WtxAd) | [FRAME ME](https://open.spotify.com/album/4SAM3JA0SDCCEivNyqWNua) | 2:26 | 2022-10-13 |  |
 | [Friend Zone](https://open.spotify.com/track/0nzD87lkCYiY5Pxjvwp45P) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:25 | 2022-08-11 | 2022-09-30 |
 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 | 2022-05-26 | 2022-07-29 |
 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-05-26 | 2022-06-18 |

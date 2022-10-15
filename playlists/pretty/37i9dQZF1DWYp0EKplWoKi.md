@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Remik González & Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,752 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,913 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 46 | [Conexión Jalisco](https://open.spotify.com/track/4Efuy6w8IowYUirlwm7zIy) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Basado En Hechos Reales](https://open.spotify.com/album/3PxXtDVhMYpvFnD7gULBXr) | 3:29 |
 | 47 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 |
 | 48 | [Aunque Me Llames](https://open.spotify.com/track/2Ni9hThJLlN7FYiZCc5Hje) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Aunque Me Llames](https://open.spotify.com/album/77XOAYM4BA0PdRbPLKs8d8) | 4:58 |
-| 49 | [El Wuero](https://open.spotify.com/track/7tFtEGmpRkveItiDU9ezWO) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [El Wuero](https://open.spotify.com/album/3Ihn94Nnln08fB5n29C6jq) | 3:25 |
+| 49 | [El Wuero](https://open.spotify.com/track/3MnWZrI41jCRsJ26OFZs6f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [El Wuero](https://open.spotify.com/album/5eeF5bNOku4AVbA0JQVj74) | 3:25 |
 | 50 | [Pedacito de Tierra](https://open.spotify.com/track/1NF9ieouGK5eoRcmDQArlq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pedacito de Tierra](https://open.spotify.com/album/68GIhg1AYzoarOghUnGfDq) | 4:08 |
 
-Snapshot ID: `MTY2NTExODgwMCwwMDAwMDAwMGU0OGRmMGUxZjJiMWE0NDY0OWNmZTdmYWZiZmFmZjBh`
+Snapshot ID: `MTY2NTExODgwMCwwMDAwMDAwMGRjY2U5ZWFkNzdmMzAwODUyNjZjZWNhYzY1NzlmNGFk`

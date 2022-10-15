@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-160 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+161 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Fly](https://open.spotify.com/track/3yuCAw61jqfyv2KzMoVdXA) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Divenire \(Deluxe Edition\)](https://open.spotify.com/album/2EhFeiWsTdfqzdFskVUxBg) | 4:38 | 2021-12-10 | 2022-01-05 |
 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 | 2021-12-10 |  |
 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 | 2021-12-10 |  |
+| [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-10-14 |  |
 | [Globes](https://open.spotify.com/track/0oT5AOdk4IUqVDOaIN86ng) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Globes](https://open.spotify.com/album/3fMs5z9oLrJ2unce2K05Xt) | 2:34 | 2021-12-10 |  |
 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 | 2021-12-10 |  |
 | [Himitsu](https://open.spotify.com/track/17DJuwGNugAo1UzfyA7On8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [By the Border](https://open.spotify.com/album/2ahyKR00M06DOvnNfXeGmd) | 2:38 | 2021-12-10 |  |

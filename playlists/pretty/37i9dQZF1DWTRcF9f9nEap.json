@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 50624,
+  "num_followers": 50705,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4NjQ2OSwwMDAwMDAwMDA3M2ZiNzQ4NWIwYjc2MmYzNDIwYzk0NmQ5NjlkYjYw",
+  "snapshot_id": "MTY2NDg4NjQ2OSwwMDAwMDAwMDEyYjJlYWYxMmUzZDljNmFlZjk0M2YxMmVlYmJiZWM3",
   "tracks": [
     {
       "added_at": "2022-10-04 12:27:49",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-04 12:27:49",
       "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 390893,
-      "name": "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl"
-    },
-    {
-      "added_at": "2022-10-04 12:27:49",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 156813,
       "name": "Ain't No Easy Way",
       "url": "https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH"
+    },
+    {
+      "added_at": "2022-10-04 12:27:49",
+      "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 390893,
+      "name": "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl"
     },
     {
       "added_at": "2022-10-04 12:27:49",

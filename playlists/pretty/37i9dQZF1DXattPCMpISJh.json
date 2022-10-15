@@ -1,13 +1,29 @@
 {
-  "description": "A new take on a classic sound. Cover: Agnes",
-  "num_followers": 60900,
+  "description": "A new take on a classic sound. Cover: The Jack Moves",
+  "num_followers": 61034,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGZkMmY4YWMzNWM5ZmI0N2YwOTZiMWZhYjQyNWJjN2Fm",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg5MjQ3NTlmNGM3OTkxMzA5ZDJiNGFmODc0YTZmOWU5",
   "tracks": [
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
+    },
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
@@ -115,6 +131,22 @@
       "duration_ms": 184944,
       "name": "This Thing Called Life",
       "url": "https://open.spotify.com/track/633MWumcbiIslUnqr7u7XN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Never Knew",
+        "url": "https://open.spotify.com/album/3KTdCe9WcP5b5SnXfL80UJ"
+      },
+      "artists": [
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "Never Knew",
+      "url": "https://open.spotify.com/track/5GwzmBgVwaS14JuB65ZMoQ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -259,26 +291,6 @@
       "duration_ms": 233757,
       "name": "Passion (feat. Nile Rodgers) - Fred Falke Remix",
       "url": "https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/6JqXrsNLQjSeKDd979ivzG"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Tom",
-          "url": "https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr"
-        },
-        {
-          "name": "Hotel Mira",
-          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
-        }
-      ],
-      "duration_ms": 193065,
-      "name": "Time and Time Again",
-      "url": "https://open.spotify.com/track/5jkPpSNNTrdqz9J57Ovanl"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1699,26 +1711,6 @@
       "duration_ms": 188398,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4475NmYiujibxkv2O7sWED"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Can't Stop Writing Songs About You",
-      "url": "https://open.spotify.com/track/36AHZnLUtm7QmS1VhuxeiF"
     },
     {
       "added_at": "2021-09-24 04:02:00",

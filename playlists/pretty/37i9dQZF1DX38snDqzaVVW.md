@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,600 likes - 54 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,627 likes - 54 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 7 | [Argos Farfish](https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:38 |
 | 8 | [Sante Yalla](https://open.spotify.com/track/1fyJioPh0qZQUHY9mBwnHY) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Lamp Fall](https://open.spotify.com/album/2bO5zAnAVOkBwiEngpFHmn) | 4:37 |
 | 9 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0Us6QgjBhIKXeGU43kiJfT) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Abu Obaida Hassan & His Tambour: The Shaigiya Sound of Sudan](https://open.spotify.com/album/6nX1I3VbQKyt8AoCGofZYO) | 8:15 |
-| 10 | [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/2RxSdiXHpxhapIp3ZNXqiF) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/09nvjpbZCcck9ZfxGrtWXR) | 5:23 |
+| 10 | [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/56mquX7ESE8e0TPVpnyd2V) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/0l8CT0Zhi8ZqFYqhgPLXuB) | 5:23 |
 | 11 | [Power of Soul](https://open.spotify.com/track/5YnyA2XqNiD0Rcrma0R0IU) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Power Of Soul](https://open.spotify.com/album/4blKLLF57DrHhUyxtaziZX) | 7:04 |
 | 12 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 |
 | 13 | [You Are My Sunshine](https://open.spotify.com/track/7CpgcbEqRxOMAFelj7bZBa) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tell 'Em I'm Gone](https://open.spotify.com/album/7K3ZqU69hSFJjhIDuUrujP) | 3:13 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 53 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 54 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MTY2NTA2MjU1MSwwMDAwMDAwMDFhMDk4NTc3NDVjYzY5MmY0ZGY0MzdkOTk1NjYxMzRl`
+Snapshot ID: `MTY2NTA2MjU1MSwwMDAwMDAwMDdiNGNkMmEyNWEyM2ExMjkyMTJkNGI2MTUzNDExYTg5`

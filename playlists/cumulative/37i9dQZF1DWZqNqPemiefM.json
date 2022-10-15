@@ -1097,10 +1097,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 259200,
       "name": "Cat and Bird",
       "url": "https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM"
+    },
+    {
+      "album": {
+        "name": "Cat and Bird",
+        "url": "https://open.spotify.com/album/7EPXZAQmlagFelPn83wYWV"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Cat and Bird",
+      "url": "https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU"
     },
     {
       "album": {

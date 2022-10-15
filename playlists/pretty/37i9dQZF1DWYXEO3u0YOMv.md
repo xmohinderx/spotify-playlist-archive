@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,310 likes - 102 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,480 likes - 102 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 11 | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/track/2byhNUJkS3z214Q9TXKZr0) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/album/07qWWiZQ6qvwPSYvgDHBvx) | 4:21 |
 | 12 | [CHIASTOLITE](https://open.spotify.com/track/7DLUK91fqimI1vEg4CKGyb) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [CHIASTOLITE \(アーティスト盤\)](https://open.spotify.com/album/0sVkWv5RlIvshKAasVHBUN) | 4:13 |
 | 13 | [B.B.](https://open.spotify.com/track/0qsR8AYGQ8HAfejVgaWI0z) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [B.B.](https://open.spotify.com/album/4w4xDSa5ztppzU0Cyyxrfk) | 3:48 |
-| 14 | [FOCUS](https://open.spotify.com/track/5r0aTftKf1MCAeWQ2tgdoX) | [Shoutarou Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [FOCUS](https://open.spotify.com/album/2awJEw9oin6k4EkOnj3aYP) | 3:45 |
+| 14 | [FOCUS](https://open.spotify.com/track/5r0aTftKf1MCAeWQ2tgdoX) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [FOCUS](https://open.spotify.com/album/2awJEw9oin6k4EkOnj3aYP) | 3:45 |
 | 15 | [PUNCH LINE!](https://open.spotify.com/track/779aOT2cX0kTf1L5IQKXTX) | [しょこたん](https://open.spotify.com/artist/0nvuPKl0u8lOSyHBRREoEL), [Dempagumi](https://open.spotify.com/artist/0xL9QDj516M42wr7gMpPaT) | [PUNCH LINE!\(妄想パンチラボイスComplete Edition\)](https://open.spotify.com/album/4pAMRlH6p5PWVacUt6ukIq) | 4:02 |
 | 16 | [蜜蜜蜜](https://open.spotify.com/track/6cfgcfp2hzwSCwWIaelPYx) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [あゆみくりかまきがやって来る!クマァ!クマァ!クマァ!](https://open.spotify.com/album/2X4zGs64aVBu5oZz2s2KzO) | 3:43 |
 | 17 | [混ぜるな危険](https://open.spotify.com/track/4icsCUGIuwTmzx3YcSLTcu) | [筋肉少女帯](https://open.spotify.com/artist/59ti9jHDeW9RDyV8IOvEMM) | [おまけのいちにち\(闘いの日々\)](https://open.spotify.com/album/49rdLq99CUtHRPco1DBbGb) | 4:17 |

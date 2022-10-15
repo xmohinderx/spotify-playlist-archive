@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-272 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+273 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Been in My Dream](https://open.spotify.com/track/5YcDPNfFhUC2oc5ck6xsrn) | [Dave Jakes](https://open.spotify.com/artist/7j3DzdE5Y0f9ogr29iM6FX), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Been in My Dream](https://open.spotify.com/album/4Olhk6RRM2vYDDYyjD77ED) | 3:50 | 2020-10-30 | 2021-06-12 |
 | [Believe](https://open.spotify.com/track/4A57CXs3jAmyNTMAwWaV53) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/6OA97YC9HbLfdREQKnsH2R) | 3:40 | 2019-06-16\* | 2022-04-18 |
 | [Believe](https://open.spotify.com/track/1KDPWUuA213r6M2WbWUauE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 | 2022-04-11 | 2022-10-13 |
+| [Believe](https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 | 2022-09-16 |  |
 | [Bend the Light](https://open.spotify.com/track/5TWYYgERxHKBzjOU2pSaJw) | [Acceptance](https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW) | [Bend the Light](https://open.spotify.com/album/302sDcs0BFMYeAdZIcLuOW) | 4:14 | 2020-09-22 | 2021-06-12 |
 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 | 2021-06-09 |  |
 | [Big Ideas](https://open.spotify.com/track/7E4A4C0GkJxBNTbH5GGK9m) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Big Ideas](https://open.spotify.com/album/1S2ryIhicWRq8XE1e3rv6j) | 4:26 | 2019-06-16\* | 2022-07-29 |
@@ -102,7 +103,7 @@
 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-11 |  |
 | [Gemini](https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr) | [PLGRMS](https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k) | [Gemini](https://open.spotify.com/album/53BCrCrl3BENt20FFixjn9) | 3:45 | 2019-06-16\* |  |
 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 | 2019-06-16\* | 2020-07-31 |
-| [Get Hurt](https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Get Hurt](https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj) | 3:43 | 2019-06-16\* |  |
+| [Get Hurt](https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Get Hurt](https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj) | 3:43 | 2019-06-16\* | 2022-10-15 |
 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 | 2022-04-11 |  |
 | [Get Out](https://open.spotify.com/track/6NsRMcD9MBp9sYXtcnJSGK) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Get Out](https://open.spotify.com/album/46b2Kj5wkKfMHewslgCV5v) | 3:21 | 2019-06-16\* | 2022-07-29 |
 | [Ghost](https://open.spotify.com/track/06k2bYET2TMAkekjmV5fja) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [You Haunt Me](https://open.spotify.com/album/2u9iJU1eeLy4QOx6SkMsLM) | 3:37 | 2019-06-16\* | 2022-01-15 |

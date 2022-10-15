@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "25 MPH Town",
+      "url": "https://open.spotify.com/track/12hKwLLwQx391fBOUqqOu9"
+    },
+    {
+      "album": {
         "name": "4 Goodyears",
         "url": "https://open.spotify.com/album/00KSXGcqRlZxhAvrTohEBB"
       },
@@ -3115,6 +3133,24 @@
       "duration_ms": 211377,
       "name": "Sunrise, Sunburn, Sunset",
       "url": "https://open.spotify.com/track/0kNlf24bhUUKvJ2jkBsH3I"
+    },
+    {
+      "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Suwannee",
+      "url": "https://open.spotify.com/track/5rTVK41PWQcD1w3yFf58qG"
     },
     {
       "album": {

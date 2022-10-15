@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-86 songs - 5 hr 12 min - not published yet
+87 songs - 5 hr 16 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [POWER TO STRIVE](https://open.spotify.com/track/6oJfbR19mNWigjpCYBfuwY) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 4](https://open.spotify.com/album/4Ts2JxoesNxryyiBGphX6a) | 2:19 | 2022-10-06 |  |
 | [Principio de lucha](https://open.spotify.com/track/2L5qMBCehiabKLwRs2Cp8b) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:29 | 2022-10-06 |  |
 | [quincy's craft](https://open.spotify.com/track/0tnqNundeaHkwHWFegIUDu) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:15 | 2022-10-06 |  |
+| [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-10-14 |  |
 | [raw breath of danger](https://open.spotify.com/track/4yeMdLoSA4QYKb6J4wcnbW) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:17 | 2022-10-06 |  |
 | [Re:pray](https://open.spotify.com/track/0aNaeyNx5RP95NwUmoH45s) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Re:pray/寂しくて眠れない夜は](https://open.spotify.com/album/5zBBgsa30uX7qrtaMWeX2T) | 5:07 | 2022-10-06 |  |
 | [Rolling star](https://open.spotify.com/track/2Z4850ifGB2hDXtnoicpzd) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [Rolling star](https://open.spotify.com/album/0TAU4czk8somNU9Ms6tT08) | 3:10 | 2022-10-06 |  |

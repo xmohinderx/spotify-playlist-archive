@@ -2,7 +2,7 @@
 
 ### [Ídolos del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DWTyvco9C4Og0)
 
-> Las leyendas del mariachi están aquí\. Vicente Fernández en portada.
+> Las leyendas del mariachi están aquí\. Pepe Aguilar en portada.
 
 150 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2V0PHZyuVaI8QUBHcbfV2Z)
 

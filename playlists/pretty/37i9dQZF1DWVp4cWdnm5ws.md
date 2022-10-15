@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,190 likes - 45 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,227 likes - 45 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 37 | [Golden Arrow](https://open.spotify.com/track/3GYrHsq8M1hc7G6P0OP4R8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 3:47 |
 | 38 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 |
 | 39 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 |
-| 40 | [Eleven:Eleven](https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Eleven:Eleven](https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I) | 2:22 |
-| 41 | [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 |
+| 40 | [Eleven: Eleven](https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:22 |
+| 41 | [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 |
 | 42 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 |
 | 43 | [Dime Girls](https://open.spotify.com/track/5PxDyfqi8WA1j8irV3f2ks) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Alex Bruce](https://open.spotify.com/album/7c6dDiWcYxOAAoWn358ZyB) | 3:51 |
 | 44 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 |
 | 45 | [When I'm with You](https://open.spotify.com/track/7cUL0JOx3w4uvhEkZJlQam) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/221mR3WaKt3P8PVSbTiZqj) | 3:52 |
 
-Snapshot ID: `MTY2NDQ2NzIwMCwwMDAwMDAwMGFlMjc2MWY1MjAyNTc1M2EzYmU4ZDkwMTM3OGZkYTA5`
+Snapshot ID: `MTY2NDQ2NzIwMCwwMDAwMDAwMDlmN2RlNDdjOTQ2ZDQ3NDg4NWYzM2FlZmUwYzkyYWZj`

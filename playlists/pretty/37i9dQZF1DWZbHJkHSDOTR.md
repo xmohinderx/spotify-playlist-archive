@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,445 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,448 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 42 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 |
 | 43 | [Black Creek Drive](https://open.spotify.com/track/7IULkVSVV4e8kfL4JZWhx8) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [3511](https://open.spotify.com/album/0oMyGTRdTb2gdyUD19SYYE) | 3:29 |
 | 44 | [Come As You Are](https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Come As You Are](https://open.spotify.com/album/6XaNdyhuuqggoEE4umcfjk) | 3:31 |
-| 45 | [LANSDOWNE](https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/3EFR2ie3oqo42zrUoAgR3R) | 2:33 |
+| 45 | [LANSDOWNE](https://open.spotify.com/track/6Dv76051LlfL1LvMpcPLKw) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/2phfndUK6vGdlNO7I3GxrH) | 2:33 |
 | 46 | [Situation](https://open.spotify.com/track/6Vr0pzwD8ecdfUJUCKE6hJ) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:30 |
 | 47 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 |
 | 48 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 77 | [Killing Me](https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl) | 3:25 |
 | 78 | [Let Me Know](https://open.spotify.com/track/2spZ9rKMixDBSl3NYjRbjn) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Let Me Know](https://open.spotify.com/album/4ZrOpeUetMLEnqFx1U4twz) | 2:56 |
 | 79 | [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 |
-| 80 | [Joy](https://open.spotify.com/track/2TpOAYb6L51KteAfASpq16) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:34 |
+| 80 | [Joy](https://open.spotify.com/track/2i4RMLQIE3L7gklTquZvZx) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:34 |
 | 81 | [Corazón](https://open.spotify.com/track/2NwGsgYpGT9ta65bxgzdtb) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Corazón](https://open.spotify.com/album/3k9dqyw1PdOMrf8oIHtzQy) | 3:18 |
 | 82 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/3eteKSKRw5l6ZtXFoEoZKG) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Homegrown \(Deluxe\)](https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa) | 3:47 |
 | 83 | [Feelings](https://open.spotify.com/track/24RQJmFOshzqaWUocbKQf8) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Feelings](https://open.spotify.com/album/6ldPi4TwPODZvzfuKW1oF6) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 99 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 |
 | 100 | [Sugar](https://open.spotify.com/track/5XGTYltLDKyl7MW3MzydnL) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/2sf79K9Sr8UC3FYoAwkmys) | 3:33 |
 
-Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMDRmYWIwZjI1NTgyNzdlN2QzYmNjMWExYWU2Yjg1NjNj`
+Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMGU3MTA4ODE5MmY3NTdmMGIzZGJmYTBmMTJlMTQ0ODE4`

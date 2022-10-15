@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 43603,
+  "num_followers": 44080,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDMyZGYxMmFhNzUzZjM5YTM0NzFkYTVkMzkyNzMxYzFl",
+  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMGEwYWRmMDgzY2NjNzU3YWJmOGU3OGI0YjRlNWY3MzU4",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "You're Toxic",
-        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 371555,
-      "name": "You're Toxic",
-      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Rock With Me",
         "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
       },
@@ -207,54 +191,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Choir Of Spirits",
-        "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
       },
       "artists": [
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 405439,
-      "name": "Choir Of Spirits",
-      "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
-    },
-    {
-      "added_at": "2022-10-14 01:51:56",
-      "album": {
-        "name": "Lonely Traveller",
-        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
-      },
-      "artists": [
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 366038,
-      "name": "Lonely Traveller",
-      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -283,6 +231,58 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Choir Of Spirits",
+        "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 405439,
+      "name": "Choir Of Spirits",
+      "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
+    },
+    {
+      "added_at": "2022-10-15 01:44:08",
+      "album": {
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
-      "added_at": "2022-10-14 01:51:56",
+      "added_at": "2022-10-15 01:44:08",
       "album": {
         "name": "Human Race",
         "url": "https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD"
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Injection (Original Mix)",
+        "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        },
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+        }
+      ],
+      "duration_ms": 421846,
+      "name": "Injection - Original Mix",
+      "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Hercules",
         "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 357227,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Injection (Original Mix)",
-        "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
-      },
-      "artists": [
-        {
-          "name": "Kaspar",
-          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
-        },
-        {
-          "name": "A*S*Y*S",
-          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
-        }
-      ],
-      "duration_ms": 421846,
-      "name": "Injection - Original Mix",
-      "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
     }
   ],
   "unique_name": "Techno Workout",

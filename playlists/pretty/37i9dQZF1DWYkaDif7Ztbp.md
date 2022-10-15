@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb?si=wPRZU\_71SbClpQMHe9DmqQ"> 1da Banton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,831 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,836 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

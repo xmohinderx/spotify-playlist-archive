@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27074,
+  "num_followers": 27077,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDAyMTk3MTY4OWExNGJjMGE2NzcxNGM3ZjY3NTcyNDJl",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDIyOWU0ZmIwNzM4YjE4NGI1NTY3MDY2YzE0MGY3NDQ0",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -175,26 +175,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Final Song",
         "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 235826,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -887,26 +887,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Perfect (feat. Haris)",
-        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
-        }
-      ],
-      "duration_ms": 176517,
-      "name": "Perfect (feat. Haris)",
-      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 159760,
       "name": "Harder (with Bebe Rexha)",
       "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Perfect (feat. Haris)",
+        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "Perfect (feat. Haris)",
+      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Thing For You (With Martin Solveig)",
         "url": "https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 191398,
       "name": "Thing For You (With Martin Solveig)",
       "url": "https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Lion",
-        "url": "https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Lion",
-      "url": "https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj"
     },
     {
       "added_at": "2020-02-18 13:31:30",

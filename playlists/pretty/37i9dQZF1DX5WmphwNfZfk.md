@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: young friend
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,944 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,959 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 18 | [Have It In You](https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Have It In You](https://open.spotify.com/album/3Xe1osfRtpz1aIlyxv8Zq4) | 3:22 |
 | 19 | [Polite Guy](https://open.spotify.com/track/4Bno5500l8ITFXGIWkFD49) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [BIG WOOF](https://open.spotify.com/album/64LB0ATlxMAuqrXleghhvz) | 1:55 |
 | 20 | [HEAT](https://open.spotify.com/track/5C2lBA8cceb0EwyCPDEsH8) | [Ramsay Almighty](https://open.spotify.com/artist/1wkmDig3ums4HIkGMfFwqE) | [HEAT](https://open.spotify.com/album/0nM49aJlprwlEfV674EPDv) | 2:58 |
-| 21 | [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 |
+| 21 | [Everything I'm Not](https://open.spotify.com/track/6zJKS2ThHSC5kcQ9uXDcnU) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/6Qhq8Uz0MzaoywuchU3QoE) | 2:42 |
 | 22 | [SSII.](https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SSII.](https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1) | 4:36 |
 | 23 | [Perfect Timing](https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [In The Meantime...](https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX) | 2:10 |
 | 24 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 |
 | 50 | [Fuel](https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Fuel](https://open.spotify.com/album/5qSAmaMFLK5Cu8TliExrhe) | 2:12 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDQ2NzNhNDk0Y2M3ZGJjNmIwZjYxOWRkMGJlZGI1ZWE3`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGE2MTAxM2NjZWQ3MmJjZTRjNjQ2OGI5ZmVlMGY3ZDkw`

@@ -952,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Rock Candy",
+        "url": "https://open.spotify.com/album/1PTQRv4S9laI9rIt99d1RV"
+      },
+      "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124405,
+      "name": "Illuminate, Pt. II",
+      "url": "https://open.spotify.com/track/2CGdWIMOBsgUmgiwS5rMvN"
+    },
+    {
+      "album": {
         "name": "I Found The Sun Again",
         "url": "https://open.spotify.com/album/0nW69fDBiiEmlI9POYb0wF"
       },

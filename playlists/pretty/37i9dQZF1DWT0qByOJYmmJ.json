@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 557509,
+  "num_followers": 557832,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMDAzYTg0MWQ2YTUwNjNiMGVhMzk1OGE0MzA1Y2U4MGYw",
+  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMDgwMTI1ZTFiZDE1ODU0M2RmMGYxNmVmODk4MTI5ZWIy",
   "tracks": [
     {
       "added_at": "2022-09-09 23:42:18",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
+        "name": "H\u00e1blame de T\u00fa",
+        "url": "https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Combusti\u00f3n",
+      "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
-        "name": "H\u00e1blame de T\u00fa",
-        "url": "https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Combusti\u00f3n",
-      "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "L\u00e1grimas De Miel",
-        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "L\u00e1grimas De Miel",
-      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 171978,
       "name": "Vino Tinto",
       "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "L\u00e1grimas De Miel",
+        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "L\u00e1grimas De Miel",
+      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Amar",
-        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
       "artists": [
         {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 179071,
-      "name": "Amar",
-      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+        "name": "Amar",
+        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
         }
       ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+      "duration_ms": 179071,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
-      },
-      "artists": [
-        {
-          "name": "valeria d\u00e1vila",
-          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
-        }
-      ],
-      "duration_ms": 214865,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Si Nos Volvemos A Encontrar",
         "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 204507,
       "name": "Si Nos Volvemos A Encontrar",
       "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Elefante Rosado",
+        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Elefante Rosado",
+      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Elefante Rosado",
-        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
       },
       "artists": [
         {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Elefante Rosado",
-      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
+      "duration_ms": 214865,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Adi\u00f3s Amor",
-        "url": "https://open.spotify.com/album/0XDiT3wvemIhWDfuBvAJWo"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 227407,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/5rpQcu6N5omwxP8ai4UYmO"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Cada Vez M\u00e1s > :-(",
         "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+        "name": "Tqm",
+        "url": "https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "CoolestAndie",
+          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
         }
       ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+      "duration_ms": 216958,
+      "name": "Tqm",
+      "url": "https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

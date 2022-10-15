@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 433892,
+  "num_followers": 434179,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMTMzOCwwMDAwMDAwMDdiNjNhZTk2NDU1MTBiMjE3NTE4Njk5ZTFmYmExZTkx",
+  "snapshot_id": "MTY2NDUxMTMzOCwwMDAwMDAwMGVkZDUxZGRiYjRmZjE4NTg4ZTg5N2IyMjE0YWU2MmRj",
   "tracks": [
     {
       "added_at": "2021-10-21 15:13:27",
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
-      "added_at": "2022-10-14 01:28:22",
+      "added_at": "2022-10-15 01:21:17",
       "album": {
         "name": "La Que Un D\u00eda Te Am\u00f3",
         "url": "https://open.spotify.com/album/7a6Zqzjdwb6rvlu1TV41ps"
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -713,26 +713,6 @@
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
-      "added_at": "2022-08-26 16:29:02",
-      "album": {
-        "name": "Nunca Digas Jam\u00e1s",
-        "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rojo",
-          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
-        },
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        }
-      ],
-      "duration_ms": 213189,
-      "name": "Nunca Digas Jam\u00e1s",
-      "url": "https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Amor Supremo (Desnudo)",
@@ -763,6 +743,26 @@
       "duration_ms": 193373,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "added_at": "2022-08-26 16:29:02",
+      "album": {
+        "name": "Nunca Digas Jam\u00e1s",
+        "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "duration_ms": 213189,
+      "name": "Nunca Digas Jam\u00e1s",
+      "url": "https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Felices x Siempre",
-        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Felices x Siempre",
-      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
@@ -871,6 +855,22 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Felices x Siempre",
+        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Felices x Siempre",
+      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
-      "added_at": "2022-03-09 03:17:35",
-      "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Euphoria (Standard US/Latin version)",
@@ -975,6 +959,22 @@
       "duration_ms": 218760,
       "name": "La Mujer Que No So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
+    },
+    {
+      "added_at": "2022-03-09 03:17:35",
+      "album": {
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Amor Ordinario",
-      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 223200,
       "name": "Usted",
       "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Amor Ordinario",
+      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
     },
     {
       "added_at": "2022-04-14 00:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1693,22 +1693,6 @@
       "url": "https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1"
     },
     {
-      "added_at": "2022-01-24 17:37:24",
-      "album": {
-        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Dos Oruguitas",
-      "url": "https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Franco De Vita En Primera Fila",
@@ -1723,6 +1707,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2022-01-24 17:37:24",
+      "album": {
+        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9"
     },
     {
       "added_at": "2021-10-21 15:13:27",

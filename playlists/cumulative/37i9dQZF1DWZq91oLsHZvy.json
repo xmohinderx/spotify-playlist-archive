@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 172307,
       "name": "Call A Friend",
       "url": "https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85"
@@ -2765,6 +2765,24 @@
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Louvor & Adoração](https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel)
 
-> A música certa para o seu momento de adoração\. Foto: Isaias Saad
+> A música certa para o seu momento de adoração\. Foto: Sarah Beatriz, Samuel Messias
 
-93 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/4jOyagKiotU0lUPqsmWnAd)
+94 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/4jOyagKiotU0lUPqsmWnAd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Redentor](https://open.spotify.com/track/2YOZHcypOnfbG5cfsSpW4N) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Redentor](https://open.spotify.com/album/4yNYug0DEgvDuYMT3qXGjG) | 6:22 | 2022-09-09 |  |
 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 | 2022-09-09 |  |
 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 | 2022-09-09 |  |
-| [Seu Amor / Diante da Cruz](https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor / Diante da Cruz](https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS) | 8:17 | 2022-09-09 |  |
+| [Seu Amor / Diante da Cruz](https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor / Diante da Cruz](https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS) | 8:17 | 2022-09-09 | 2022-10-15 |
 | [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/track/7D5SHB5Qr6otVfXUh0jveD) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/album/2C2DPyXztvrrDzgKEdCAXI) | 7:25 | 2022-09-09 |  |
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-09-09 |  |
 | [Sol da Justiça](https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Sol da Justiça](https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w) | 5:41 | 2022-09-09 |  |
@@ -97,6 +97,7 @@
 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 | 2022-09-09 |  |
 | [Você é Precioso](https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Você é Precioso](https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr) | 4:22 | 2022-09-09 |  |
 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 | 2022-09-09 |  |
+| [Vou Me Humilhar](https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB) | 3:56 | 2022-10-14 |  |
 | [Yeshua](https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [MOVER](https://open.spotify.com/artist/0wNTBKHmaWnXfxiPbdvi2m) | [Momentos](https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX) | 8:42 | 2022-09-09 |  |
 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 | 2022-09-09 |  |
 | [Águas Purificadoras/Oceanos \- Ao Vivo](https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [John Dias](https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc) | [Águas Purificadoras/Oceanos \(Ao Vivo\)](https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5) | 6:38 | 2022-09-09 |  |

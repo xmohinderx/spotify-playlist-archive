@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 28 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 779 likes - 28 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 11 | [Victory Line](https://open.spotify.com/track/5ANtXtO9R4gR16Q41yCOtR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:54 |
 | 12 | [Distant Light](https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:39 |
 | 13 | [Dust & Bones](https://open.spotify.com/track/3N7w9YAUm1QW4HpZ28SZBP) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:34 |
-| 14 | [The Rat](https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO) | 4:20 |
+| 14 | [Bottled Time](https://open.spotify.com/track/6S3jt0KW7ZAxUOP360WEDE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Dust & Bones](https://open.spotify.com/album/0ZfE9R2b4E0cP0O2A58nZ3) | 3:07 |
 | 15 | [Deserter](https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:18 |
 | 16 | [Your Heavy Heart](https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:44 |
-| 17 | [Bottled Time](https://open.spotify.com/track/6S3jt0KW7ZAxUOP360WEDE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Dust & Bones](https://open.spotify.com/album/0ZfE9R2b4E0cP0O2A58nZ3) | 3:07 |
+| 17 | [The Rat](https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO) | 4:20 |
 | 18 | [Two Heads](https://open.spotify.com/track/4a7J8atRYTomOWzMAJm6UN) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Diamond Days EP](https://open.spotify.com/album/70FYVDqcCDDDWrDxosXSfB) | 3:38 |
 | 19 | [Dinosaurs](https://open.spotify.com/track/0kNvVLZsEgWBzhfYwboY70) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:31 |
 | 20 | [Bright Eyes](https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 2:57 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 27 | [Place Isn't Lost](https://open.spotify.com/track/1rQPIRmI5TbCwL3uXvCpjQ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/0nRCOJnkNw1P1AR0vRJYEa) | 2:58 |
 | 28 | [Rattlesnakes](https://open.spotify.com/track/4c3BGa7Epnb2X2t5jLRU0x) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:28 |
 
-Snapshot ID: `Mjc3NjExMjQsMDAwMDAwMDBkODUxMThkYjMzY2QzNzQyNDhiNTBiZDBmNTA5MDVhZQ==`
+Snapshot ID: `Mjc3NjI1NzYsMDAwMDAwMDA3NDI1Yjk3MWYwYTdkMjUxMGMzNGUxNzUyOWNlNzEzMQ==`

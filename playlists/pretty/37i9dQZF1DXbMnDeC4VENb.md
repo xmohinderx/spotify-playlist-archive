@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,810 likes - 63 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,901 likes - 63 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 16 | [Por Ti](https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Necesitaba Estar Hecho](https://open.spotify.com/album/18XHxHDHCSzZm9AneUgONr) | 3:06 |
 | 17 | [Bye Bye](https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bye Bye](https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR) | 4:27 |
 | 18 | [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 |
-| 19 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 |
+| 19 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 |
 | 20 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
 | 21 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
 | 22 | [Quédate](https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Quédate](https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o) | 3:20 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 62 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 |
 | 63 | [Para Toda La Vida](https://open.spotify.com/track/31Rbj4gvq87oBt9EuQFABG) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Para Toda La Vida](https://open.spotify.com/album/56nijUIQ3etVw5dJDxz9dS) | 3:48 |
 
-Snapshot ID: `MTY2MjM5OTU4MiwwMDAwMDAwMDQxMjIwY2U2MmI1YWNkYzk2ZmQwNDgxNjJjNDg1ZWUy`
+Snapshot ID: `MTY2MjM5OTU4MiwwMDAwMDAwMDhmY2Q3OGM5MjFkMzU1ODllMThlYjRiZmE1YzIyYjg0`

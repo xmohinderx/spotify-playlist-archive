@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 204000,
       "name": "Again",
       "url": "https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78"
@@ -1604,6 +1604,28 @@
     },
     {
       "album": {
+        "name": "Quality Over Opinion",
+        "url": "https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322320,
+      "name": "Don\u2019t Care",
+      "url": "https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja"
       },
@@ -2034,6 +2056,24 @@
     },
     {
       "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
+    },
+    {
+      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -2115,7 +2155,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 168045,
       "name": "Givin'",
       "url": "https://open.spotify.com/track/0miEcUq0VOQnaJ1oJL4Qum"
@@ -2185,6 +2225,24 @@
       "duration_ms": 218786,
       "name": "Golden Ticket (feat. Masego & Common)",
       "url": "https://open.spotify.com/track/31m0lsXwk8PllevpApeiK3"
+    },
+    {
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173983,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
     },
     {
       "album": {
@@ -2991,6 +3049,24 @@
       "duration_ms": 257020,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
+    },
+    {
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
       "album": {
@@ -4371,7 +4447,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 223720,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122"
@@ -4467,7 +4543,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 166363,
       "name": "Sacred Place",
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
@@ -5229,7 +5305,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 246673,
       "name": "Sweetside",
       "url": "https://open.spotify.com/track/3kPk8kOFxof26yVHTnjk1j"
@@ -5651,6 +5727,28 @@
       "duration_ms": 171232,
       "name": "trouble",
       "url": "https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD"
+    },
+    {
+      "album": {
+        "name": "Trust the change",
+        "url": "https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201111,
+      "name": "Trust the Change",
+      "url": "https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR"
     },
     {
       "album": {

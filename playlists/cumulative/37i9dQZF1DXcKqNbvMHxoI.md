@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-142 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+143 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 | 2022-02-04 |  |
 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 | 2022-02-04 |  |
 | [Up From The Ashes](https://open.spotify.com/track/6MTtOV150uwitRZz4anI2h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 2:42 | 2022-07-19 | 2022-07-27 |
-| [Ur <3](https://open.spotify.com/track/0hx4xTylyRQFNFFnVUJydy) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/3WVQ7KA54YAxv7fQ5pfFE2) | 3:43 | 2022-02-04 |  |
+| [Ur <3](https://open.spotify.com/track/0hx4xTylyRQFNFFnVUJydy) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/3WVQ7KA54YAxv7fQ5pfFE2) | 3:43 | 2022-02-04 | 2022-10-15 |
+| [Ur <3](https://open.spotify.com/track/6BSxcPX8hKm6O4ZLsKw9qS) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/4ykOmXue0lJlEcirTef37v) | 3:43 | 2022-07-26 |  |
 | [Wall Street](https://open.spotify.com/track/1AqdE3WGQHiHpAnsXQogWK) | [Jackie Mittoo](https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a) | [Keyboard King at Studio One](https://open.spotify.com/album/3zT7DYhJslAgaJsxPRcevu) | 7:14 | 2022-07-19 | 2022-07-27 |
 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 | 2022-07-19 | 2022-07-27 |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2022-07-19 | 2022-07-27 |

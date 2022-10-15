@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
 
-182 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+183 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/1rtDBUaEYqsCu2qIQGfbvI) | 4:39 | 2021-10-27 | 2022-07-29 |
 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 | 2021-10-27 |  |
 | [Emotions And Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4m3zntmU633OFa0tZMtNrH) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3JbrnUMiO5gRtb5jOxEk8r) | 3:14 | 2021-10-27 | 2022-07-28 |
-| [Emotions and Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7mLmGk3buGcAI5ydTaGAAJ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3doicqb6so4jenspHCcEUk) | 3:14 | 2022-03-30 |  |
+| [Emotions and Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7mLmGk3buGcAI5ydTaGAAJ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3doicqb6so4jenspHCcEUk) | 3:14 | 2022-03-30 | 2022-10-15 |
 | [Everybody Wants To Be Famous \- Recorded at RAK Studios, London](https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 3:18 | 2021-10-27 |  |
 | [Everything Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:37 | 2021-10-27 |  |
 | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8) | 3:01 | 2021-10-27 |  |
@@ -98,6 +98,7 @@
 | [Life Is Confusing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/3xTqO5pmcvcQ42RIYodPNO) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Spotify Singles](https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB) | 2:56 | 2021-10-27 |  |
 | [Listen to Your Mama \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2km5W6JWrJ9yCpuotZYHXw) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 3:46 | 2021-10-27 | 2022-07-29 |
 | [Los Ageless \- Recorded at RAK Studios, London](https://open.spotify.com/track/43GoXqcMIxcdrMk2ngVv17) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM) | 3:38 | 2021-10-27 | 2022-10-14 |
+| [Los Ageless \- Recorded at RAK Studios, London](https://open.spotify.com/track/7xJrE6TJdtZqsNij2D1O4r) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG) | 3:38 | 2022-03-30 |  |
 | [Los Ageless \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 4:13 | 2021-10-27 |  |
 | [Love Is Mystical \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Spotify Singles](https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa) | 3:34 | 2021-10-27 |  |
 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 | 2021-10-27 |  |

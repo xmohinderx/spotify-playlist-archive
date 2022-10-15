@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-885 songs - 1 day 23 hr 57 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+886 songs - 2 day 0 hr 1 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Gangsta Party](https://open.spotify.com/track/4QFwY4j7vMLMH9K2igX7Km) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 5:04 | 2022-02-26 | 2022-05-31 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-02 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-14 |
+| [Gaza](https://open.spotify.com/track/0yHkbTORVndswYARPdzteN) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [Gaza](https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K) | 3:06 | 2022-10-14 |  |
 | [Geia Sou](https://open.spotify.com/track/6dpGIUTsj7yZGhrnhccX27) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Geia Sou](https://open.spotify.com/album/54GfyTFSUeGztQc7EoWEsm) | 2:28 | 2022-05-11 | 2022-05-13 |
 | [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 | 2021-07-18 | 2021-07-19 |
 | [Gennima Thremma](https://open.spotify.com/track/40qQR2ELY3IcPyRwBj2YLE) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 3:49 | 2022-01-22 | 2022-02-06 |
@@ -573,7 +574,7 @@
 | [Nike Boyz \- Remix](https://open.spotify.com/track/5B6l2oDnLlxUPlS8Ycz9sZ) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Nike Boyz \(Remix\)](https://open.spotify.com/album/1sFWkDYkHQwnSglebhh39X) | 3:09 | 2022-04-17 | 2022-04-22 |
 | [Nikitis](https://open.spotify.com/track/1TACmpMEuoK9D1DdmuyvvK) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:24 | 2022-02-26 | 2022-02-28 |
 | [NINTENTO](https://open.spotify.com/track/4DKoLFTt98tbwRqPJE6D3a) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [NINTENTO](https://open.spotify.com/album/4CAcppjIIkJlTmbvWREYcV) | 2:23 | 2021-11-12 | 2021-11-30 |
-| [Nisi](https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Nisi](https://open.spotify.com/album/1P9koamky66z8HlFHX5avf) | 2:21 | 2022-05-07 |  |
+| [Nisi](https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Nisi](https://open.spotify.com/album/1P9koamky66z8HlFHX5avf) | 2:21 | 2022-05-07 | 2022-10-15 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-02 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-07 |
 | [No Lies](https://open.spotify.com/track/3DiqJjzg1XsVXbVnAnxp8I) | [YT](https://open.spotify.com/artist/48pDK4NOqLtJxn5AAKVUra), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [No Lies](https://open.spotify.com/album/3XbiwB6Pni6s7O3ttnYkbH) | 2:45 | 2022-01-25 | 2022-01-27 |

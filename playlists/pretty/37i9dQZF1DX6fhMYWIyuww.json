@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 89794,
+  "num_followers": 89922,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDFmYzZkMjBhZjkwMzc5YWM0YmJiMzA3OWVmODg1MTY4",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDRmMjMyNDVkOTdkOTA4OTM2MmZhNDJjOThlYTFhZWIy",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -139,6 +139,22 @@
       "duration_ms": 211386,
       "name": "Ventura Highway",
       "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Sleeper Catcher (Remastered)",
+        "url": "https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Reminiscing - Remastered",
+      "url": "https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -365,22 +381,6 @@
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
-      "added_at": "2022-06-29 18:13:00",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Five-A-Side",
@@ -427,6 +427,22 @@
       "duration_ms": 221386,
       "name": "Time for Me to Fly",
       "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
+    },
+    {
+      "added_at": "2022-06-29 18:13:00",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -671,22 +687,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "New Light Through Old Windows",
-        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "On the Beach",
-      "url": "https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Thunder Island",
         "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "New Light Through Old Windows",
+        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "I'd Love You To Want Me",
         "url": "https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 177933,
       "name": "Me and You and a Dog Named Boo",
       "url": "https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "A-1-A",
-        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "A Pirate Looks At Forty",
-      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Time Passages",
         "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Son Of A Son Of A Sailor",
-        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Son Of A Son Of A Sailor",
-      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g"
       },
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Son Of A Son Of A Sailor",
+      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 265221,
       "name": "This Time I'm In It For Love",
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 281293,
-      "name": "Love Is the Answer (Single Version)",
-      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 281293,
+      "name": "Love Is the Answer (Single Version)",
+      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 196240,
       "name": "In Your Letter",
       "url": "https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Fins",
-      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta"
     },
     {
-      "added_at": "2022-01-26 21:27:23",
+      "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Sleeping Gypsy",
-        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
       },
       "artists": [
         {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 285906,
-      "name": "The Lady Wants to Know",
-      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
+      "duration_ms": 207933,
+      "name": "Fins",
+      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
     },
     {
       "added_at": "2022-01-26 21:27:23",
@@ -1051,6 +1051,22 @@
       "duration_ms": 191093,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
+    },
+    {
+      "added_at": "2022-01-26 21:27:23",
+      "album": {
+        "name": "Sleeping Gypsy",
+        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "The Lady Wants to Know",
+      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1083,22 +1099,6 @@
       "duration_ms": 347333,
       "name": "The Nightfly",
       "url": "https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Reminiscing - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG"
     },
     {
       "added_at": "2021-04-22 18:12:12",

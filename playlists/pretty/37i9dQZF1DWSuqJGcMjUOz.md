@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,110 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 33 | [Un été chez nous](https://open.spotify.com/track/6k9i6yRP8UIxKhHJviALZQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Manu Boivin](https://open.spotify.com/artist/6z0K48dpXmhZCfh7AYuqFs) | [L'affaire Taktika](https://open.spotify.com/album/3xtr9wolduBAfl6VGezqiC) | 3:53 |
 | 34 | [L'amour](https://open.spotify.com/track/1LUPxouIVwKIbs31i9WA5s) | [Karim Ouellet](https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit) | [Fox](https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4) | 3:26 |
 | 35 | [Caipirinha](https://open.spotify.com/track/3ntkJVSYJIPDKBJj2uYLRa) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Caipirinha](https://open.spotify.com/album/70tCTmRLlDolCLIxPRrFUp) | 3:53 |
-| 36 | [JOSÉPHINE](https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg) | [Mathieu Bérubé](https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S) | [COUCOU](https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe) | 3:58 |
-| 37 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
+| 36 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
+| 37 | [JOSÉPHINE](https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg) | [Mathieu Bérubé](https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S) | [COUCOU](https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe) | 3:58 |
 | 38 | [+ La vie](https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:49 |
 | 39 | [Sous le même toît](https://open.spotify.com/track/61P1ORWkI1Q8VtiiXamTYZ) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Sous le même toit](https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN) | 2:56 |
 | 40 | [Je n'irai pas ailleurs](https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [France d'Amour](https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P) | 3:35 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 56 | [Dans l'bois](https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38) | [Édith Butler](https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL), [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Le tour du Grand Bois](https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW) | 3:35 |
 | 57 | [Xoxo](https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 4:11 |
 | 58 | [La jungle du capital](https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 4:08 |
-| 59 | [Écoute](https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 2:31 |
-| 60 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 |
+| 59 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 |
+| 60 | [Écoute](https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 2:31 |
 | 61 | [Ton vieux nom](https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 4:41 |
-| 62 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
-| 63 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
+| 62 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
+| 63 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
 | 64 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 |
 | 65 | [Amène\-toi chez nous](https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG) | [Jacques Michel](https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv) | [Citoyen d'Amérique](https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas) | 2:26 |
 | 66 | [Les fleurs d’une autre dimension](https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [L'heure mauve](https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL) | 3:23 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 72 | [Porcelaine](https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:22 |
 | 73 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 |
 | 74 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 |
-| 75 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
-| 76 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
+| 75 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
+| 76 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
 | 77 | [J'espère](https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 2:29 |
 | 78 | [Le souhait de Carmen](https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Haute Mère](https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt) | 4:44 |
 | 79 | [La grande évasion](https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Grand voyage désorganisé](https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 99 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 |
 | 100 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
 
-Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDAzMTY3OGUwN2VmZDAxODRhMzQ5ZjljMmI4YTc4MDRk`
+Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDg0MjNjMTQ4MTQzZWZjMzY3MDlkNmQzOWEwNTdmOTJl`

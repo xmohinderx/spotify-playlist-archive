@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 230488,
+  "num_followers": 230553,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDNkOTM3ODIzN2QwZjVmNWFjNWE0ZjNmZTIwNmZjMGJh",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDZjOTQ0OGZhM2E0YjM1YjgzMTA2N2QwODVkOTU3N2Uy",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 439714,
       "name": "Just Want You - Live",
       "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Abundantly More",
+        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 241684,
+      "name": "Abundantly More (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Awake My Soul (With Tasha Cobbs Leonard)",
         "url": "https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 225876,
       "name": "Awake My Soul (With Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Abundantly More",
-        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 241684,
-      "name": "Abundantly More (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
     },
     {
       "added_at": "2020-06-26 04:02:00",

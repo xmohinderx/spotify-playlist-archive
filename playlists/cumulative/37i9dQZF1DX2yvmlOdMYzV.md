@@ -2,9 +2,9 @@
 
 ### [Lowkey](https://open.spotify.com/playlist/37i9dQZF1DX2yvmlOdMYzV)
 
-> Chill indie soul that's highkey fire
+> Indie soul that's highkey fire
 
-258 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+260 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 | 2021-12-15 | 2022-04-21 |
 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 | 2021-12-15 | 2022-07-29 |
 | [All Bad](https://open.spotify.com/track/0G6ExlA2fcJIDGoayswUNT) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:51 | 2021-12-15 | 2022-04-05 |
+| [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-14 |  |
 | [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2021-12-15 | 2022-09-10 |
-| [Apathy](https://open.spotify.com/track/1y0YcbPS4pu5kveEhJ9KqJ) | [PIE](https://open.spotify.com/artist/66jQGw4oO3q0A8E3FcCZhE) | [Apathy](https://open.spotify.com/album/71WgldxC8RmuVjVvHN48r9) | 3:25 | 2021-12-15 |  |
+| [Apathy](https://open.spotify.com/track/1y0YcbPS4pu5kveEhJ9KqJ) | [PIE](https://open.spotify.com/artist/66jQGw4oO3q0A8E3FcCZhE) | [Apathy](https://open.spotify.com/album/71WgldxC8RmuVjVvHN48r9) | 3:25 | 2021-12-15 | 2022-10-15 |
 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 | 2021-12-15 |  |
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-06-30 |  |
 | [Awake \(with Mahalia\)](https://open.spotify.com/track/16X7VHcGISwJ93ott9RHeC) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Awake](https://open.spotify.com/album/4ETTgOOvLI2Kc5Qc4kckhO) | 3:48 | 2021-12-15 | 2022-07-29 |
@@ -78,8 +79,9 @@
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2021-12-15 |  |
 | [Flowers](https://open.spotify.com/track/6g8tNqCUHQsRJhYcGajvh2) | [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Flowers](https://open.spotify.com/album/0CtyUf3Hf0KS0cwOMRWKAf) | 3:25 | 2021-12-15 | 2022-04-21 |
 | [Fool](https://open.spotify.com/track/79AYVbuDWxdzXK59VsvT86) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Fool](https://open.spotify.com/album/7uDKo6sEqA737fGIw7iK3C) | 3:05 | 2021-12-15 | 2022-04-21 |
+| [Fool For You](https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:14 | 2022-10-14 |  |
 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2021-12-15 | 2022-10-13 |
-| [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2021-12-15 |  |
+| [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2021-12-15 | 2022-10-15 |
 | [From My Heart and My Soul \(feat\. Phoelix\)](https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:30 | 2021-12-15 |  |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-12-15 |  |
 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 | 2021-12-15 |  |

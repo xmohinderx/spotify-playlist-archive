@@ -2,9 +2,9 @@
 
 ### [Ultimate Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> The best in modern indie\. Cover: Alvvays
+> The best in modern indie\. Cover: The 1975
 
-1,267 songs - 3 day 3 hr 45 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,268 songs - 3 day 3 hr 49 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Garden](https://open.spotify.com/track/5PF6ojt1ENjE53qWKjT2Kn) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden](https://open.spotify.com/album/4NMD8oAAv2JPHOcfqsApaq) | 3:34 | 2019-12-13 | 2020-06-12 |
 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2021-01-28 | 2021-02-03 |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2020-03-06 | 2021-10-16 |
-| [Gary Ashby](https://open.spotify.com/track/30erf27MriGIsvb4rzria6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Gary Ashby](https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ) | 2:10 | 2022-09-16 |  |
+| [Gary Ashby](https://open.spotify.com/track/30erf27MriGIsvb4rzria6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Gary Ashby](https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ) | 2:10 | 2022-09-16 | 2022-10-15 |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-14 | 2022-04-21 |
 | [Gasoline](https://open.spotify.com/track/49Nvfaxj7ZbGkMov8odLmW) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/4qNGDMsRNqDQZPkTWyyeRF) | 3:13 | 2020-07-03 | 2021-04-20 |
 | [Gemini and Leo \- Edit](https://open.spotify.com/track/00aTAUXcHPWUDxupOKMauy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Gemini and Leo](https://open.spotify.com/album/2GWtyxZd4E4kPM98yglBVY) | 3:42 | 2021-07-19 | 2022-02-11 |
@@ -793,6 +793,7 @@
 | [Ode To Artifice](https://open.spotify.com/track/2BxOokKVzYicxc7AX9Vb21) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Ode To Artifice](https://open.spotify.com/album/0saWiqbGml5cKt496mOh8s) | 2:45 | 2019-06-14 | 2019-09-27 |
 | [Of the sun](https://open.spotify.com/track/6SNGgnfgrzf8ng7mmqGLQX) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Of the sun](https://open.spotify.com/album/47c1TGFkVqnnhCFxNFqHb4) | 4:44 | 2022-02-25 | 2022-04-21 |
 | [Off My Mind](https://open.spotify.com/track/5MzLrwShNf3mh30iIXH3qx) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Off My Mind](https://open.spotify.com/album/0NMimMaPzKb4c1X7ENJQU4) | 3:38 | 2020-02-14 | 2020-07-03 |
+| [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2022-10-14 |  |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2020-10-29 | 2021-07-20 |
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2021-07-30 | 2021-10-11 |
 | [Oh, But Lover](https://open.spotify.com/track/4Sp5AdeCtHcPQc0KtJUAuR) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Oh, But Lover](https://open.spotify.com/album/6miGsq9L3Tnod0GAHzMXne) | 4:04 | 2021-02-22 | 2021-07-20 |
@@ -813,7 +814,7 @@
 | [Only Friend](https://open.spotify.com/track/5q6Ue2SuMhMBxFPDP2VWXm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 3:01 | 2019-05-26\* | 2019-09-06 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-28 | 2022-04-07 |
 | [Onto Me \(with UMI\)](https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:47 | 2021-07-20 | 2021-10-14 |
-| [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-04-22 | 2022-10-14 |
+| [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-04-22 |  |
 | [Organon](https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:30 | 2021-09-03 | 2022-01-03 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-06-23 | 2022-09-17 |
 | [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 | 2021-03-19 | 2022-04-06 |
@@ -899,7 +900,7 @@
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-10-22 | 2022-04-02 |
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-02-18 | 2022-04-07 |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-08-07 | 2021-03-06 |
-| [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-30 |  |
+| [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-30 | 2022-10-15 |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-01-21 | 2022-04-01 |
 | [Ride or Die](https://open.spotify.com/track/6Fh7ejE897jqXLVX6wb0jH) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Ride or Die](https://open.spotify.com/album/0A2ey7eMOz0e6RtTrDiMdj) | 3:44 | 2019-05-26\* | 2019-08-13 |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-25 | 2022-04-08 |

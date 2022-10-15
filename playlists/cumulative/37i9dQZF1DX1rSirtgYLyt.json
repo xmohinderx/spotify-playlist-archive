@@ -1430,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Stax Profiles: Albert King",
+        "url": "https://open.spotify.com/album/5QeVc1L4mudB1lsTNeeiGL"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/5F1PDuoQ9ajtBnKAPVOqT4"
+    },
+    {
+      "album": {
         "name": "River Of Time",
         "url": "https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU"
       },

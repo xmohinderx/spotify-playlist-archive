@@ -4,7 +4,7 @@
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Maella
 
-161 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
+162 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Slow](https://open.spotify.com/track/73hWEDICEG0qtXFt8tvHYq) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N) | [Slow](https://open.spotify.com/album/2nnc0uhfe33S2GZzCQjRr7) | 5:38 | 2022-02-01 | 2022-07-01 |
 | [Slow Burn](https://open.spotify.com/track/5EpD11MggncJ9ktRIpfEp4) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Slow Burn](https://open.spotify.com/album/75djwwayaWWclbockwD90I) | 2:46 | 2022-05-31 | 2022-10-05 |
 | [SnOWfLAkE](https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [KIDNAP ME PLS](https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs) | 2:42 | 2022-09-06 |  |
-| [Soil](https://open.spotify.com/track/3AHHbXEjjpPkQA8ETetnaV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Soil](https://open.spotify.com/album/3JWcZrU8fUvGYitKKnf6Va) | 2:38 | 2022-08-02 |  |
+| [Soil](https://open.spotify.com/track/0EDd5Iv2S0E2KJ6XRAilAy) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Soil](https://open.spotify.com/album/6Y6YJAyqnXnPsoUovF2xqo) | 2:38 | 2022-10-04 |  |
+| [Soil](https://open.spotify.com/track/3AHHbXEjjpPkQA8ETetnaV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Soil](https://open.spotify.com/album/3JWcZrU8fUvGYitKKnf6Va) | 2:38 | 2022-08-02 | 2022-10-15 |
 | [Someone Else to Blame](https://open.spotify.com/track/5uz5fCKAkCZdv8eGcMNMIh) | [Kaya](https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH) | [Someone Else to Blame](https://open.spotify.com/album/4wn7dbxKpYBq5SAjvgVStQ) | 3:03 | 2022-06-30 |  |
 | [Sorry](https://open.spotify.com/track/2NiY72C2sPCYwWM9Ewxj6D) | [Veronika Strapková](https://open.spotify.com/artist/4I1G4UfWfY0WC2vsOF3XYa), [Milan Lieskovsky](https://open.spotify.com/artist/6nfvEuOz5pg2iTT7xsybD4), [Eddie Sender](https://open.spotify.com/artist/09vHz266dR5oAQkp99hhEt) | [Sorry](https://open.spotify.com/album/5L4CSWnXl08ehI51nWaaTa) | 2:30 | 2022-06-30 |  |
 | [stuck in the cloud](https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [stuck in the cloud](https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex) | 2:47 | 2022-06-30 |  |

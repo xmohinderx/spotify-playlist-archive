@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,307 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,359 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bombs Away](https://open.spotify.com/track/4eWY1BzZYH6ctYfFfO8awU) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Bombs Away](https://open.spotify.com/album/3YgGhvqCPXW7mQ28QSuIQE) | 3:14 |
-| 2 | [The Hardest Part](https://open.spotify.com/track/3HmoazjE5rjgMpOlU2X1XT) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [The Hardest Part](https://open.spotify.com/album/1w5xtFGuunvvyeL9pJxJkf) | 4:04 |
+| 2 | [The Hardest Part](https://open.spotify.com/track/1NehDnoT38Zc6YVWj9QITX) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Desperately Imagining Someplace Quiet](https://open.spotify.com/album/7cYFcPZ0TMDsDefppHIbgG) | 4:04 |
 | 3 | [Waste My Revenge](https://open.spotify.com/track/3dUv1yfwnILmDct5WlQGiN) | [The Thing With Feathers](https://open.spotify.com/artist/3fJAImowfWb7c7e2Fy6hUF) | [Waste My Revenge \(Explicit\)](https://open.spotify.com/album/3P7gy8CWDSEJSNAs2KzSgc) | 3:42 |
 | 4 | [Lovesick in Public](https://open.spotify.com/track/5mfghFWaYBC8pWv3niCedE) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Lovesick in Public](https://open.spotify.com/album/4p5xJymNbXOz7IB5BcFiSN) | 2:32 |
 | 5 | [Cinnamon](https://open.spotify.com/track/4WBFBguZw3irFdhWlBemA3) | [Gunnar Gehl](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Cinnamon](https://open.spotify.com/album/3UoxoqoJehdKekydjznAhU) | 2:38 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 54 | [New Dress](https://open.spotify.com/track/34MULWFFd6lROjC41h9Iy3) | [Dentist](https://open.spotify.com/artist/3rkvTohJjRrfR0FwRVZGJ2) | [Making a Scene](https://open.spotify.com/album/13rGisUZ9z5lwLkMhTmG2P) | 3:31 |
 | 55 | [ERUPT](https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe) | [Rain on Fridays](https://open.spotify.com/artist/1clbqsZIkv7ci3xQ9lmGPj) | [ERUPT](https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn) | 4:11 |
 | 56 | [Make You Mad](https://open.spotify.com/track/5rCAIpNJOv4Kw9QOuvHUPA) | [87 Nights](https://open.spotify.com/artist/5RTiISA2iq6ViQuLUi7HdB) | [Make You Mad](https://open.spotify.com/album/7tnYr62bQ7BJd67L8A69td) | 4:03 |
-| 57 | [Decay](https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w) | 3:07 |
+| 57 | [Decay](https://open.spotify.com/track/5ZBDSjEqPgFVut3KVen0rk) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MfKzK1PNrXOyRkugJGgXq) | 3:07 |
 | 58 | [Consolation Prize](https://open.spotify.com/track/2Gw4bWOg3FacXT757rApV6) | [The Vacant Lots](https://open.spotify.com/artist/6TdXT9hdYNXu1Lwu6fA7xW) | [Consolation Prize](https://open.spotify.com/album/1cwOYdXfIWFAL0wBFLz8h0) | 2:23 |
 | 59 | [BWP](https://open.spotify.com/track/7MZMaSp8MrJfieHna0nkhq) | [The Paranoyds](https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4) | [Talk Talk Talk](https://open.spotify.com/album/0d9pZCyvnn1xMAX735WlW9) | 3:45 |
 | 60 | [Long, Long Road](https://open.spotify.com/track/6DyB0Dyay5wmihQMR5BR1B) | [The Mease](https://open.spotify.com/artist/7ljqSAWy2NRWgBtBHTgHMy) | [Long, Long Road](https://open.spotify.com/album/1wwOT7p7c9ccs63kf7PAct) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Frankie's Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankie's Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 |
 | 100 | [Pickles](https://open.spotify.com/track/650TMfLZY2yMvYXlCY7kup) | [Foyer Red](https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF) | [Pickles](https://open.spotify.com/album/2eXBMvHUDIx8NNJi1XZS0h) | 3:54 |
 
-Snapshot ID: `MTY2NTU5MDQwMCwwMDAwMDAwMGEzMDhjNWYzYTIyMWJiOTIyODRhODdjODEyNjgyNWU4`
+Snapshot ID: `MTY2NTU5MDQwMCwwMDAwMDAwMDEyZjQwYjA1ZTEwZjBlZWY4ZjMyNjdjNzgwMmRjYjFk`

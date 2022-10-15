@@ -297,7 +297,7 @@
     {
       "album": {
         "name": "Alex Bueno",
-        "url": "https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5"
+        "url": "https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr"
       },
       "artists": [
         {
@@ -308,6 +308,24 @@
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 325906,
+      "name": "El Jard\u00edn Prohibido",
+      "url": "https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI"
+    },
+    {
+      "album": {
+        "name": "Alex Bueno",
+        "url": "https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 325906,
       "name": "El Jard\u00edn Prohibido",
       "url": "https://open.spotify.com/track/7wOo717wUEeV7wgcdUZbUA"

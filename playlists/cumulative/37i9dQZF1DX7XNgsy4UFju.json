@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Alvvays",
+  "description": "Home to all the latest indie jams. Cover: The 1975",
   "name": "Indie All Stars",
   "published_playlist_ids": [
     "4hpfeoyJCUxj1W1YZOVAqm"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 191372,
       "name": "BREAK ME DOWN",
       "url": "https://open.spotify.com/track/3View4Eq2QWlXVrOME2j39"
@@ -1838,24 +1838,6 @@
     },
     {
       "album": {
-        "name": "Chasing Ghost",
-        "url": "https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "date_added": "2022-10-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179406,
-      "name": "Chasing Ghost",
-      "url": "https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V"
-    },
-    {
-      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN"
       },
@@ -1871,6 +1853,24 @@
       "duration_ms": 179406,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1"
+    },
+    {
+      "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179406,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V"
     },
     {
       "album": {
@@ -3647,7 +3647,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 147141,
       "name": "Familiar Faces",
       "url": "https://open.spotify.com/track/12jH5erGSRrv2iyediK8py"
@@ -4468,6 +4468,24 @@
     },
     {
       "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/1Rgpj3IAACl9M48bmefYqC"
+      },
+      "artists": [
+        {
+          "name": "Parkland",
+          "url": "https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223801,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/4Tfvz7BRWnLYqlja4jUAsy"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/2ZHmA5YprnZSfqQRZOA7ZL"
       },
@@ -4573,6 +4591,24 @@
       "duration_ms": 204026,
       "name": "Gran Hotel - Edit",
       "url": "https://open.spotify.com/track/1PSsNgjS3WWRGpk4igwpTU"
+    },
+    {
+      "album": {
+        "name": "Grapevine",
+        "url": "https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325946,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw"
     },
     {
       "album": {
@@ -5378,6 +5414,24 @@
     },
     {
       "album": {
+        "name": "How We Used To Be",
+        "url": "https://open.spotify.com/album/5maMPYNEI011eYny2uOcsO"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198801,
+      "name": "How We Used To Be",
+      "url": "https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK"
+    },
+    {
+      "album": {
         "name": "Crushed Grapes",
         "url": "https://open.spotify.com/album/6Ix6glvXbSAzGJmm9cBcOD"
       },
@@ -6147,7 +6201,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 196894,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/2xETgec2TnBkVct3J2G3yh"
@@ -6401,7 +6455,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 376520,
       "name": "It's Not Just Me, It's Everybody",
       "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
@@ -6419,7 +6473,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 200396,
       "name": "It's Not Up to Me",
       "url": "https://open.spotify.com/track/7DkTQqUCzZbaJr697Qdgm5"
@@ -6917,7 +6971,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 175016,
       "name": "Leave It On The Dancefloor",
       "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
@@ -7223,7 +7277,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 168432,
       "name": "LOST CONTROL",
       "url": "https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj"
@@ -7299,6 +7353,24 @@
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
+    },
+    {
+      "album": {
+        "name": "Love Is My Condition",
+        "url": "https://open.spotify.com/album/1Gybu76KwSDNNyK2K13PlK"
+      },
+      "artists": [
+        {
+          "name": "Tasha Angela",
+          "url": "https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188050,
+      "name": "Love Is My Condition",
+      "url": "https://open.spotify.com/track/5b8JmtL7IhN8GF6wHgCzmt"
     },
     {
       "album": {
@@ -7403,7 +7475,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 196592,
       "name": "Lucky - Edit",
       "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
@@ -7627,7 +7699,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 218906,
       "name": "Middle Name",
       "url": "https://open.spotify.com/track/2FDg95ORv44iorLnmaxkIc"
@@ -8536,6 +8608,24 @@
     },
     {
       "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+    },
+    {
+      "album": {
         "name": "off the grid",
         "url": "https://open.spotify.com/album/0NKBvnl8MUkjXR9takqRVI"
       },
@@ -8551,6 +8641,24 @@
       "duration_ms": 175294,
       "name": "off the grid",
       "url": "https://open.spotify.com/track/2vxL1OQU2xlv4q2FGTFTdT"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212568,
+      "name": "Oh Caroline",
+      "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
     },
     {
       "album": {
@@ -9026,6 +9134,24 @@
     },
     {
       "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0"
+      },
+      "artists": [
+        {
+          "name": "PONY",
+          "url": "https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209643,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8"
+    },
+    {
+      "album": {
         "name": "Perfect Blue",
         "url": "https://open.spotify.com/album/5460Bl2lDmmkDvVS8YitfQ"
       },
@@ -9341,6 +9467,24 @@
       "duration_ms": 60794,
       "name": "Prism Through Which I Perceive",
       "url": "https://open.spotify.com/track/6gSfTwZnDAXeugVRTjslry"
+    },
+    {
+      "album": {
+        "name": "Pull",
+        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Pull",
+      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
     },
     {
       "album": {
@@ -9913,7 +10057,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 261120,
       "name": "Run The Credits",
       "url": "https://open.spotify.com/track/03vgK21xN1rnN2WbSY2txK"
@@ -10631,7 +10775,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 212414,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4"
@@ -10808,6 +10952,24 @@
     },
     {
       "album": {
+        "name": "Stayed at the Party",
+        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213166,
+      "name": "Stayed at the Party",
+      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
+      "album": {
         "name": "STEPMOM",
         "url": "https://open.spotify.com/album/1qanV3YgwzGcpQxAfAaTrZ"
       },
@@ -10895,6 +11057,24 @@
       "duration_ms": 168676,
       "name": "Stream",
       "url": "https://open.spotify.com/track/42j12jraWgoae4Q39MiUmt"
+    },
+    {
+      "album": {
+        "name": "You'll Be Forgiven",
+        "url": "https://open.spotify.com/album/1dO6IGNIGxpOivJCvcCE3x"
+      },
+      "artists": [
+        {
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185650,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/5wnr6e51ZFcNt6NJciCKYG"
     },
     {
       "album": {
@@ -11577,6 +11757,24 @@
       "duration_ms": 246800,
       "name": "The Love",
       "url": "https://open.spotify.com/track/3TUZYX99bk0oElnnqRFrTG"
+    },
+    {
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
     },
     {
       "album": {
@@ -12945,6 +13143,24 @@
       "duration_ms": 149511,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG"
+    },
+    {
+      "album": {
+        "name": "wide eyed",
+        "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214068,
+      "name": "wide eyed",
+      "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
     },
     {
       "album": {

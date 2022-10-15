@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,957 likes - 77 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,820 likes - 77 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 23 | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/track/1nzPt6k4X0jyNutJ0F8LCy) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo), [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/album/08AYBn8vne85ZsuZpydVIB) | 2:49 |
 | 24 | [雲を恋う](https://open.spotify.com/track/28mPWAyHiXIBnovrBeWwot) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [雲を恋う/落花流水](https://open.spotify.com/album/3HCB9aNa4oUuAm0pvmZdUK) | 3:33 |
 | 25 | [いいの](https://open.spotify.com/track/6zYa0HNDUEjGtZ5HnB5Cqr) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [KIKUNOYU](https://open.spotify.com/artist/281ctw2ZJ8mLOcH58SVts5) | [いいの](https://open.spotify.com/album/1RsDnvYcyLXcAAvjyoImCc) | 3:47 |
-| 26 | [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / 仲良ピース](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 |
+| 26 | [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / Nakayopiece](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 |
 | 27 | [CATASTROPHE](https://open.spotify.com/track/5wgziZ1krirNMLNKMtMFZ2) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [CATASTROPHE](https://open.spotify.com/album/7GRXPolx9dmEZjEcqvfl1n) | 4:03 |
 | 28 | [Nomic](https://open.spotify.com/track/097t1k0326IivjNTdqOqx7) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Nomic](https://open.spotify.com/album/4LSTro12AcY0M6dqGaZpak) | 3:00 |
 | 29 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 53 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 |
 | 54 | [Welcome to RAINBOW WONDERLAND!](https://open.spotify.com/track/0G9J0B4paCSANpUFpXKlIN) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:53 |
 | 55 | [愛は心の仕事です](https://open.spotify.com/track/3WvRH0s72oqOHQsBuUWotX) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Memories of Romance in Driving](https://open.spotify.com/album/7ItGfR7FpS07xlAeJWhwlC) | 4:20 |
-| 56 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 |
+| 56 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 |
 | 57 | [BRAND NEW OLD](https://open.spotify.com/track/6tAnM7cQ8VLtf2IeTLMM6S) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [BRAND NEW OLD](https://open.spotify.com/album/3wxxn744YNZpYA6C54B7A8) | 3:33 |
 | 58 | [TENTO](https://open.spotify.com/track/69Zbz5sTyrvn3v7vIyWYGW) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [OPENING THEME FROM TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV” TENTO](https://open.spotify.com/album/4aMD2s6KojE4jFNKEhfSID) | 3:40 |
 | 59 | [言えない](https://open.spotify.com/track/4Pgfcz3P83oJHdRvO0NJ0Q) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [言えない](https://open.spotify.com/album/5ApBDaAa7sZWVDN1poztE3) | 3:24 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 76 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
 | 77 | [No Man's Dawn](https://open.spotify.com/track/5XvmEVOlh8S0FvZQyaYnzo) | [criminal](https://open.spotify.com/artist/01x2ElR5LGoZ3HTwn0u4eH) | [No Man's Dawn](https://open.spotify.com/album/5emNQodJSciI2Ib281UrG3) | 3:53 |
 
-Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMGM3NzIxNDA0M2EyM2M0ZjEwZTgzNmMxMTY4YTdhYzYy`
+Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMGM5ODA5OTczMzBkMzE0YTcyMGRjODI3MDY3ODU3ODA0`

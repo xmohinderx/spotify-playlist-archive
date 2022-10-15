@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: BOZA, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,600 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,639 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 44 | [Lollipop \(feat\. Faster\)](https://open.spotify.com/track/5Kuz2B5fkTmTGFXUYz1tO5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Faster](https://open.spotify.com/artist/1amWffp8N3JVSxoYyu76jh) | [Lollipop \(feat\. Faster\)](https://open.spotify.com/album/5gT5UTgfm278U4QRLobMSV) | 3:47 |
 | 45 | [Sígueme \- Remix](https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sígueme \(Remix\)](https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF) | 3:22 |
 | 46 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
-| 47 | [Me Mató \(feat\. Faster\)](https://open.spotify.com/track/74JdIMGaguuZqFdgoGfKeZ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Faster](https://open.spotify.com/artist/3P0lwQkCeeTGpwrRsNb1pE) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:20 |
+| 47 | [Me Mató \(feat\. Faster\)](https://open.spotify.com/track/74JdIMGaguuZqFdgoGfKeZ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [faster](https://open.spotify.com/artist/3DfJjF4ki6BLK8stBeHysZ) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:20 |
 | 48 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 |
 | 49 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 |
 

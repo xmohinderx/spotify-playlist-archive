@@ -1,15 +1,39 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 67170,
+  "num_followers": 67175,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE4OTc0NTA1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE5MDYwNDgzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 216580,
+      "name": "Brandy",
+      "url": "https://open.spotify.com/track/0vcSw5C7LyKnvNaCXdFBoI"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -29,7 +53,23 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "V\u0161echno sport",
+      "url": "https://open.spotify.com/track/2zwyMsXnHnwdIA404i0A7p"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -49,7 +89,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Sant\u00e9",
         "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
@@ -65,7 +105,79 @@
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        },
+        {
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        }
+      ],
+      "duration_ms": 193497,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3wU3JGqZ55IoAtBCjC3PKf"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "Tracky a vlaky",
+      "url": "https://open.spotify.com/track/47U1KYYi4FyOC2YFxDzi9g"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 191353,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/6bHS6EpkYqXzuQDW7bmXPm"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        }
+      ],
+      "duration_ms": 183127,
+      "name": "Drillin",
+      "url": "https://open.spotify.com/track/6ECu6BgMJSVP9D8dnY5Amh"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -81,7 +193,23 @@
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        }
+      ],
+      "duration_ms": 143148,
+      "name": "Bigman ting",
+      "url": "https://open.spotify.com/track/1QYPY8rT8bYN27YHldlNqF"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -97,7 +225,7 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -113,7 +241,43 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
+      },
+      "artists": [
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Kalenji",
+      "url": "https://open.spotify.com/track/3pqWaXU4oIxujvsnCly7J2"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/5roPFnz41lhHqBL0l0kEQ4"
@@ -137,59 +301,55 @@
       "url": "https://open.spotify.com/track/0fThlG4YBkCsRVSJkGpWAX"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Issa Me Mario",
+          "url": "https://open.spotify.com/artist/1mLWCj0IRVPmq2qcxewsBi"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+      "duration_ms": 208356,
+      "name": "DJ EZ",
+      "url": "https://open.spotify.com/track/6j3gXUugRtIvffdxpoPmSE"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "To neni hra",
-        "url": "https://open.spotify.com/album/3lJ4rOyS7DWI7xkDenaCjL"
+        "name": "CITY PARK",
+        "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
       },
       "artists": [
         {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 206432,
-      "name": "To neni hra",
-      "url": "https://open.spotify.com/track/5mC6tVYVscr1YR4zD6p94h"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        },
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/5QR7CB4D1tsS0xTSlEVwoP"
+        },
+        {
+          "name": "Humla",
+          "url": "https://open.spotify.com/artist/2A1RD6jdOBjFp3Mq3rnBj0"
+        },
+        {
+          "name": "TK27",
+          "url": "https://open.spotify.com/artist/3iFSniZuusJHdd2PbMaHwv"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+      "duration_ms": 138984,
+      "name": "V\u0161ude kam dem",
+      "url": "https://open.spotify.com/track/4ArlBT0Zqk0wcHUPmpFTBs"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -205,7 +365,7 @@
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -221,7 +381,39 @@
       "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "To neni hra",
+        "url": "https://open.spotify.com/album/3lJ4rOyS7DWI7xkDenaCjL"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 206432,
+      "name": "To neni hra",
+      "url": "https://open.spotify.com/track/5mC6tVYVscr1YR4zD6p94h"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "St\u00edny (MANENE Remix)",
         "url": "https://open.spotify.com/album/0020cPFIfBLhsO8CH5w390"
@@ -241,7 +433,7 @@
       "url": "https://open.spotify.com/track/3DnT4qyb7YSW4y1ValyUo4"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -257,59 +449,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/2XDlC26opmzdw3j037huUM"
-      },
-      "artists": [
-        {
-          "name": "Earth",
-          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
-        }
-      ],
-      "duration_ms": 197912,
-      "name": "Diamanty",
-      "url": "https://open.spotify.com/track/5TKjAQyTkezAQGz6eRMOL6"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Baby a Benzo",
-      "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "\u010cernob\u00edlej sv\u011bt",
         "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
@@ -337,7 +477,39 @@
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2XDlC26opmzdw3j037huUM"
+      },
+      "artists": [
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
+        }
+      ],
+      "duration_ms": 197912,
+      "name": "Diamanty",
+      "url": "https://open.spotify.com/track/5TKjAQyTkezAQGz6eRMOL6"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -357,23 +529,43 @@
       "url": "https://open.spotify.com/track/705U2GkmMiEPrqRWMPmabr"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "Make Sudety Great Again",
-        "url": "https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt"
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
       },
       "artists": [
         {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
         }
       ],
-      "duration_ms": 270466,
-      "name": "\u010cesk\u00e1 Floriiida",
-      "url": "https://open.spotify.com/track/3h3CiDX7NyqRLxLUg5pFbu"
+      "duration_ms": 248000,
+      "name": "Baby a Benzo",
+      "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -393,39 +585,39 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "Poland",
-        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
+        "name": "Make Sudety Great Again",
+        "url": "https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
         }
       ],
-      "duration_ms": 83200,
-      "name": "Poland",
-      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+      "duration_ms": 270466,
+      "name": "\u010cesk\u00e1 Floriiida",
+      "url": "https://open.spotify.com/track/3h3CiDX7NyqRLxLUg5pFbu"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "mhm",
         "url": "https://open.spotify.com/album/3SAvFQ2dRiXgZz3hbowNVy"
@@ -445,23 +637,23 @@
       "url": "https://open.spotify.com/track/3I8HRjgOKJmJ3t3JT1bgH9"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "PROTENKONTRAST",
         "url": "https://open.spotify.com/album/3br5dt87PXGyyzcyQfZj80"
@@ -481,107 +673,7 @@
       "url": "https://open.spotify.com/track/27FjG8BCMk1UjOcBfffHk4"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Make Sudety Great Again",
-        "url": "https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt"
-      },
-      "artists": [
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        },
-        {
-          "name": "Shimmi",
-          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
-        }
-      ],
-      "duration_ms": 232571,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/6OVXMxjbFK5FHR6wpRzjXC"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Jinej druh",
-        "url": "https://open.spotify.com/album/3pDLKURPfbv9LzObv2lKwH"
-      },
-      "artists": [
-        {
-          "name": "Meizyy",
-          "url": "https://open.spotify.com/artist/6bfvcDuHhC8XKWj4r4VZ1o"
-        }
-      ],
-      "duration_ms": 206545,
-      "name": "Jinej druh",
-      "url": "https://open.spotify.com/track/16Gcy3xa5XTuxvjgbstCWi"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
@@ -597,26 +689,74 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "Make Sudety Great Again",
-        "url": "https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt"
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
       "artists": [
         {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 202843,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/5TB7FL9eaJ4fIN3oqJK8rp"
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "Barvy",
-        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "Jinej druh",
+        "url": "https://open.spotify.com/album/3pDLKURPfbv9LzObv2lKwH"
+      },
+      "artists": [
+        {
+          "name": "Meizyy",
+          "url": "https://open.spotify.com/artist/6bfvcDuHhC8XKWj4r4VZ1o"
+        }
+      ],
+      "duration_ms": 206545,
+      "name": "Jinej druh",
+      "url": "https://open.spotify.com/track/16Gcy3xa5XTuxvjgbstCWi"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
       },
       "artists": [
         {
@@ -624,12 +764,12 @@
           "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 211891,
-      "name": "Rozd\u011blen\u00fd sv\u011bty",
-      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
+      "duration_ms": 181192,
+      "name": "S\u00e9rum",
+      "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -657,10 +797,10 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+        "name": "Barvy",
+        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
       },
       "artists": [
         {
@@ -668,12 +808,28 @@
           "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 181192,
-      "name": "S\u00e9rum",
-      "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
+      "duration_ms": 211891,
+      "name": "Rozd\u011blen\u00fd sv\u011bty",
+      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 83200,
+      "name": "Poland",
+      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
@@ -689,7 +845,39 @@
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
+      "album": {
+        "name": "Marko",
+        "url": "https://open.spotify.com/album/7EtSvCuOcao18RKvJwaurX"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 128085,
+      "name": "Ne\u017e bude po v\u0161em",
+      "url": "https://open.spotify.com/track/6T5iNydXi9ZG3GULTN7YO1"
+    },
+    {
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "RUMCAJS MILOVAL MANKU",
         "url": "https://open.spotify.com/album/4OsLPS6jNf11f1Mq1kYkZt"
@@ -705,23 +893,7 @@
       "url": "https://open.spotify.com/track/7yy1E4CAVun8vq75NMQ6FD"
     },
     {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "[MESSAGE FROM THE CLERGY]",
-        "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
+      "added_at": "2022-10-14 11:01:23",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -739,190 +911,6 @@
       "duration_ms": 214736,
       "name": "Virtu\u00e1ln\u00ed drogy",
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "POPSTAR*",
-        "url": "https://open.spotify.com/album/1G83eVFNZ4uptZ72WJC69X"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "Hannah Montana VIP",
-      "url": "https://open.spotify.com/track/1TLdCwhyeVjSXjn5OSvML8"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "J. EDEN E-G3N (#freekarlo edition)",
-        "url": "https://open.spotify.com/album/6r6i9hynvJcgXARvWHU6UC"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "NobodyListen",
-          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
-        },
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Saul",
-          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
-        },
-        {
-          "name": "Blako",
-          "url": "https://open.spotify.com/artist/1H0gwYeVaW4An73wzykI3I"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "NFS",
-      "url": "https://open.spotify.com/track/5TnbMs8fTDVrqRGrCv3Y10"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Marko",
-        "url": "https://open.spotify.com/album/7EtSvCuOcao18RKvJwaurX"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 128085,
-      "name": "Ne\u017e bude po v\u0161em",
-      "url": "https://open.spotify.com/track/6T5iNydXi9ZG3GULTN7YO1"
-    },
-    {
-      "added_at": "2022-10-13 11:08:25",
-      "album": {
-        "name": "Gangsta's Paradise",
-        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
-      },
-      "artists": [
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
-        },
-        {
-          "name": "L.V.",
-          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

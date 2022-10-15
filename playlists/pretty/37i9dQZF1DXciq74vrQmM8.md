@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 // just announced: <a href="https://www.universe.com/misfits\-2\-0\-antiprom">misfits anti\-prom</a> in london 🎈😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,566 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,729 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 16 | [No Mercy](https://open.spotify.com/track/219ca1FZ0Rr4YPhuASgNuA) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [No Mercy](https://open.spotify.com/album/5PgQaCxFG8bIVJAHxtPPa7) | 2:25 |
 | 17 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
 | 18 | [Let Me Speak](https://open.spotify.com/track/0lZz6LCbnGLe47YzXpxKiZ) | [ZLUTZ](https://open.spotify.com/artist/01hsOOUCeEFoGZZ0YjTJxh) | [Inferno](https://open.spotify.com/album/5DZ1ibBuyjMqbAWuCCDfUn) | 3:43 |
-| 19 | [You've Created a Monster](https://open.spotify.com/track/0ItZEK2MuBvrACJm7hIjgx) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/6Qy4DtpIf0rOVtu1npYT77) | 2:38 |
+| 19 | [You've Created a Monster](https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/7ftqRI6pFDYwFZYGARS9wP) | 2:38 |
 | 20 | [QUENCH](https://open.spotify.com/track/2mbOoTwtgz0ZhSwGkL2EFs) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [QUENCH](https://open.spotify.com/album/13I8hhTB9V56VMiKo58m00) | 3:07 |
 | 21 | [PRINCESS CHARMING](https://open.spotify.com/track/2nbgP5RRvwoNYxdOBx3lXA) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [MATRIARCHY NOW](https://open.spotify.com/album/0J66nObGBIxsgyAere8u1C) | 2:16 |
 | 22 | [Maggots](https://open.spotify.com/track/4z273kPQy8lRomWDuwOrb4) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 2:18 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 41 | [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 |
 | 42 | [Misfits](https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Misfits](https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa) | 2:58 |
 | 43 | [MIGRAINE](https://open.spotify.com/track/0HFX1Lyaeu5i2J1jK5QH3f) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [MIGRAINE](https://open.spotify.com/album/2nsO3VsncuuvdWupY5obtR) | 2:33 |
-| 44 | [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 |
+| 44 | [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 |
 | 45 | [Bite My Tongue](https://open.spotify.com/track/5Z6ozBM8A44HtDAJLnBxER) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Bite My Tongue](https://open.spotify.com/album/5CTIYos4jNBhXm5zeJ7MyL) | 2:47 |
 | 46 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
 | 47 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 74 | [Bloody Crescent](https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Bloody Crescent](https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R) | 2:48 |
 | 75 | [antisocial behaviour](https://open.spotify.com/track/1V20a7VlSb94y9AdPzWLbz) | [elleheartbee](https://open.spotify.com/artist/4JpUcJXNQXImALTLnNa1PF) | [antisocial behaviour](https://open.spotify.com/album/4hSYBtnTBt5j0kuimV4BFU) | 1:11 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDcyYzI1MjcyZjFiMWQ3ZTc2NjBiNTA2MGI0ZjRiMDlj`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDQ4YmViNjY2OTQ4Mzc4ZTUxNjQ5MGMxOGE4MWJhYWNm`

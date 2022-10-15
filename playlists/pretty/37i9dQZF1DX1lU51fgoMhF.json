@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 107322,
+  "num_followers": 107324,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODAxMiwwMDAwMDAwMGZhYzc3ZDVlNTcwZWFmYWIyZDg2N2FiMDYyZDI1N2My",
+  "snapshot_id": "MTY2NTExODAxMiwwMDAwMDAwMGFkYTI1YTY3YmJlMDdjY2Q1ZDA5MDgzYzhlNTNjYjY5",
   "tracks": [
     {
       "added_at": "2022-09-05 06:31:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 172634,
-      "name": "I Don't Miss You",
-      "url": "https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
         "name": "THE FIRST STEP : TREASURE EFFECT",
         "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 204493,
       "name": "COME TO ME",
       "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 172634,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "B.L.T (BLING LIKE THIS)",
+      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
         "name": "ZERO : FEVER Part.1",
         "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 204040,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 205080,
-      "name": "B.L.T (BLING LIKE THIS)",
-      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
+      "duration_ms": 206840,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "ZERO : FEVER Part.1",
-        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
         "name": "If with U",
         "url": "https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw"
       },
@@ -1215,38 +1199,6 @@
       "duration_ms": 187160,
       "name": "If with U",
       "url": "https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
-        "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
-        "url": "https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
-      "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1271,6 +1223,54 @@
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "ZERO : FEVER Part.1",
+        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
+        "url": "https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
+      "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "WE",
-        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
       "artists": [
         {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         }
       ],
-      "duration_ms": 176906,
-      "name": "AH YEAH",
-      "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1359,34 +1359,18 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "SUMMERIDE",
-        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
         }
       ],
-      "duration_ms": 218026,
-      "name": "SUMMERIDE",
-      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
+      "duration_ms": 176906,
+      "name": "AH YEAH",
+      "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1403,6 +1387,22 @@
       "duration_ms": 192851,
       "name": "Up",
       "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "SUMMERIDE",
+        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "SUMMERIDE",
+      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1583,22 +1583,22 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "BYE (feat. Whee In)",
-        "url": "https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK"
       },
       "artists": [
         {
-          "name": "RAVI",
-          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
         }
       ],
-      "duration_ms": 188293,
-      "name": "BYE (feat. Whee In)",
-      "url": "https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu"
+      "duration_ms": 181813,
+      "name": "Summertime (feat. Ashley Alisha)",
+      "url": "https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK"
+        "name": "BYE (feat. Whee In)",
+        "url": "https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
         },
         {
-          "name": "Ashley Alisha",
-          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 181813,
-      "name": "Summertime (feat. Ashley Alisha)",
-      "url": "https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W"
+      "duration_ms": 188293,
+      "name": "BYE (feat. Whee In)",
+      "url": "https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu"
     },
     {
       "added_at": "2022-09-05 06:31:31",

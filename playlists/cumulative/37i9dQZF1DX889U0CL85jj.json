@@ -1749,10 +1749,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 190714,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG"
+    },
+    {
+      "album": {
+        "name": "Fairweather Friends",
+        "url": "https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ"
     },
     {
       "album": {
@@ -4871,6 +4889,24 @@
     {
       "album": {
         "name": "Dad's Old Tapes",
+        "url": "https://open.spotify.com/album/4qrjeTgHr22oG9piwLhsxA"
+      },
+      "artists": [
+        {
+          "name": "North Downs",
+          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231066,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/2N1xPOMaQRyQ9SAIiLkESd"
+    },
+    {
+      "album": {
+        "name": "Dad's Old Tapes",
         "url": "https://open.spotify.com/album/4o2hbK2sZYnvVDOTaIDNrx"
       },
       "artists": [
@@ -4881,7 +4917,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 231066,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA"

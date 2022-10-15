@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rei.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Dj Alex & La Joaqui.",
   "name": "Dame M\u00e1s Cumbia",
   "published_playlist_ids": [
     "7vDusSvVBxYbBiawprvkqw"
@@ -367,6 +367,32 @@
       "duration_ms": 178573,
       "name": "Bailan Rochas y Chetas",
       "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+    },
+    {
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/4FpmgQ11oIhxv7RC9G3AdK"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        },
+        {
+          "name": "El Galle",
+          "url": "https://open.spotify.com/artist/7oS04sb6dK1Xf4nE8BUxmV"
+        },
+        {
+          "name": "KE Animal",
+          "url": "https://open.spotify.com/artist/5M5D3L2jhAPqEGktl9jdAJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221612,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/0MMS8TSvVyKk4SASvX5tUl"
     },
     {
       "album": {
@@ -851,6 +877,24 @@
       "duration_ms": 154749,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/23TjftFdV49zwLnj0GSGVK"
+    },
+    {
+      "album": {
+        "name": "Como Te Perdi",
+        "url": "https://open.spotify.com/album/0LOvIOhrMG0Y8hfrZIwzoF"
+      },
+      "artists": [
+        {
+          "name": "La Rama",
+          "url": "https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Como Te Perdi",
+      "url": "https://open.spotify.com/track/0WoyZpBgQAQGvKUKsvcYQm"
     },
     {
       "album": {
@@ -1875,7 +1919,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 180035,
       "name": "Enganchado #TocoParaVos - Cumbia Mix",
       "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
@@ -5875,7 +5919,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 123361,
       "name": "Una Cumbia",
       "url": "https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO"

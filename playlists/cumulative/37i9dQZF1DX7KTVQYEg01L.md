@@ -2,7 +2,7 @@
 
 ### [Tenha um Ótimo Dia!](https://open.spotify.com/playlist/37i9dQZF1DX7KTVQYEg01L)
 
-> Comece o dia com grandes hits! Foto: Giulia Be
+> Comece o dia com grandes hits!
 
 275 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/6HOgxEfC8AsoGg8rgt63pw)
 

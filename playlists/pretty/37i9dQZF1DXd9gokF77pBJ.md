@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,391 likes - 54 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,422 likes - 54 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 42 | [Kickon](https://open.spotify.com/track/0ZD499RcsV6qfoDvaz3lhq) | [Our Carlson](https://open.spotify.com/artist/1xHua3jKy7yuMs4FXCXjNH) | [A Bit Much](https://open.spotify.com/album/7gPF1PmwK94d20k44n3wFV) | 2:27 |
 | 43 | [ONE CALL AWAY](https://open.spotify.com/track/1TNXQu4wOglxXV2XjUII6w) | [Nikodimos](https://open.spotify.com/artist/3UR6EeXwoBQuXxKPxtEgLu), [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f), [Uno Lizard](https://open.spotify.com/artist/55NG0TSJpgCpuOC9CmbYTI), [Jack Eden](https://open.spotify.com/artist/4SoKBzX90SCV81NhF8swSw) | [NIKODIMOS WORLD](https://open.spotify.com/album/3fduHLRKqiR4gmYZc3zsdT) | 4:15 |
 | 44 | [Violet](https://open.spotify.com/track/2MwVTsOxjkBIuIPWGYDXyJ) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/19HYZxcJ0K0CinYb3Mmjap) | 8:30 |
-| 45 | [Prince Endormi](https://open.spotify.com/track/3TUPWzo9cdnUzdABdpavX3) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p) | 3:15 |
+| 45 | [Prince Endormi](https://open.spotify.com/track/11cXXPbQP5SlmbaGaf7JYJ) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/4NbXqLwluwiNPhWMCZdYXq) | 3:15 |
 | 46 | [Opening The Door](https://open.spotify.com/track/4mt18mSjIRBRsItG0spHZD) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Opening the Door](https://open.spotify.com/album/4PT8J0fOr38VIH5ULZamLh) | 3:52 |
 | 47 | [A Love of Your Own](https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [Sing About Life](https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r) | 5:30 |
 | 48 | [Love and Pain](https://open.spotify.com/track/4g7rFstGQhYJTb7qPflCz4) | [Carlton](https://open.spotify.com/artist/4g0E1GiAhwUoV5qvrY3GeN) | [The Call Is Strong](https://open.spotify.com/album/3zTwaCCqzQq6OkR74E0kAl) | 3:42 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 53 | [Vagabond du Coeur \- Jex Opolis Remix](https://open.spotify.com/track/3dprpHK0RESjM0PNSmxly5) | [Master Phil](https://open.spotify.com/artist/1zcj3pyhHJD0QABmmnAw4q), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Vagabond du Coeur \(Jex Opolis Remix\)](https://open.spotify.com/album/6tZtz5yvt6Hlf1EQ4WyfrZ) | 6:53 |
 | 54 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 |
 
-Snapshot ID: `MTY1NzY5NDQ3NCwwMDAwMDAwMGMyMTAzZTc1YjE4NDU1ZmI2YTFlZDZkNjc4NDc4YTYx`
+Snapshot ID: `MTY1NzY5NDQ3NCwwMDAwMDAwMGEzMDAxNTQ0NWM2YTk1ZDA3MWRiYzVhMzdlZDgwNTc2`

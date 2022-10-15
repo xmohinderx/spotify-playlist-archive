@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,503 likes - 92 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,547 likes - 92 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 24 | [You Can Make It](https://open.spotify.com/track/04fsxHTjiYVX0B7Ybk1N2e) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj), [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [You Can Make It](https://open.spotify.com/album/0BfA48bRpjxdeqpTAH1x9l) | 3:41 |
 | 25 | [Got to Get Me a Job](https://open.spotify.com/track/5UYk7jxOtM326xeLj4EQ3Y) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Got to Get Me a Job](https://open.spotify.com/album/2OkojON734ucUnTW8k8Lpv) | 2:50 |
 | 26 | [Good As It Gets Anymore](https://open.spotify.com/track/3PMcmP6Zc38ZH9tUHjG9ps) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw) | [Good As It Gets Anymore](https://open.spotify.com/album/5vFFSTw2zxCeFE7ebm8qTY) | 3:41 |
-| 27 | [River Keep Runnin'](https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/0ZdibF3BhJdDquoGGMDuMA) | 4:08 |
+| 27 | [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 |
 | 28 | [Celebrations](https://open.spotify.com/track/4omeUG7hXLZsYGP3kgk1cz) | [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY), [Fusion Funk Foundation](https://open.spotify.com/artist/6Lw21oFES51b7oYLLSbPfF) | [Celebrations](https://open.spotify.com/album/7scmghC0RGnIWGsDwUftiV) | 5:12 |
 | 29 | [Invisible Soldier](https://open.spotify.com/track/1WenvysTB5ACpxBXFOnUuo) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Invisible Soldier](https://open.spotify.com/album/3fLlTrT4kAYkHxMQBhzxuw) | 3:53 |
 | 30 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 91 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 | 92 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDhkNDA1MGZjYzlhMGNiYmIyMzMxNjEwOWRmNTI4MGUy`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGZjMTFjZWRkZmI4OTU2ZGE4ZjM4M2JhZGVkNGJlY2Rh`

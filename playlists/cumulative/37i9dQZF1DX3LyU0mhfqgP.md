@@ -4,7 +4,7 @@
 
 > The newest songs from LGBTQIA+ artists\. Cover: corook
 
-413 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+414 songs - 22 hr 26 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [always be you](https://open.spotify.com/track/7MLrfRIzwxNggk2O2CTMkp) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [always be you](https://open.spotify.com/album/3FQIs1Z2758LnpcfQOwFXc) | 3:18 | 2022-02-25 | 2022-07-25 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-31 |  |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-04-22 | 2022-10-13 |
+| [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-10-08 |  |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-12-17 | 2022-01-28 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-09-16 |  |
 | [Another Day In Paradise](https://open.spotify.com/track/2C3o1dYtGr7JvBda2H8j5y) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Another Day In Paradise](https://open.spotify.com/album/6ymwg8OQOepZKCJGCa3GQf) | 2:54 | 2022-01-28 | 2022-07-29 |
@@ -71,7 +72,7 @@
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-09-16 | 2022-10-08 |
 | [Catch This Love](https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Catch This Love](https://open.spotify.com/album/31BvJJpjUx5g8GjRgU8xQa) | 2:18 | 2022-01-21 | 2022-07-27 |
 | [Catwalk \(feat\. Skeltal Ki\)](https://open.spotify.com/track/2193DrgHsldAvZjmCVasNX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Skeltal Ki](https://open.spotify.com/artist/268zD1VyjYhNVujGhzbw4y) | [Catwalk \(feat\. Skeltal Ki\)](https://open.spotify.com/album/3ltm9PlrjFQiTIsDHedtUO) | 2:55 | 2021-12-24 | 2022-01-07 |
-| [chance](https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:19 | 2022-09-16 |  |
+| [chance](https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:19 | 2022-09-16 | 2022-10-15 |
 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 | 2021-12-17 | 2022-01-29 |
 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 | 2021-12-17 | 2022-08-01 |
 | [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 | 2021-12-17 | 2022-02-26 |

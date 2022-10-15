@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "SILLY : Episode 1",
+        "url": "https://open.spotify.com/album/5cJxAnf24jagfHHlrwrdnz"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192438,
+      "name": "Drama Queen",
+      "url": "https://open.spotify.com/track/7gOdGIIztvjxQ7FASL9YF1"
+    },
+    {
+      "album": {
         "name": "WHY NOT??",
         "url": "https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G"
       },
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 173440,
       "name": "LOVE me",
       "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 205466,
       "name": "PLAY DUMB",
       "url": "https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m"
@@ -3047,6 +3065,24 @@
       "duration_ms": 200933,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK"
+    },
+    {
+      "album": {
+        "name": "\uc544\ubc14\ub4dc\ub9bc \ud2b8\ub9ac\ubdf0\ud2b8 Memorial EP.1",
+        "url": "https://open.spotify.com/album/6akg8eFWMwvCMbxaSuv6ME"
+      },
+      "artists": [
+        {
+          "name": "woo!ah!",
+          "url": "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/7A7Ve2J88JgZwv3eR3JGoH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk"
