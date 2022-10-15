@@ -4896,6 +4896,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [goosebumps](/playlists/pretty/37i9dQZF1DXdl6IPOySdX4.md)
 - [gris](/playlists/pretty/37i9dQZF1DX1PiujNwN5Yy.md)
 - [hair dye](/playlists/pretty/37i9dQZF1DXcchceprrqrN.md)
+- [hardwave\~phonk](/playlists/pretty/1CAhFEJD9F97tePtX3Uje2.md)
 - [homework vibes](/playlists/pretty/37i9dQZF1DX3csziQj0d5b.md)
 - [hopeless romantic](/playlists/pretty/37i9dQZF1DX6DLB6M8zkNk.md)
 - [hot latina summer](/playlists/pretty/37i9dQZF1DWUArRC04H8rI.md)
