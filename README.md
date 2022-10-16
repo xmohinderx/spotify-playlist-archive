@@ -2418,6 +2418,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Marimba](/playlists/pretty/37i9dQZF1DX2tS0v7814se.md)
 - [Mark Knight's DJ Mix](/playlists/pretty/37i9dQZF1DWUbKXPE8a2j2.md)
 - [Martin Garrix DJ Mix: Sentio](/playlists/pretty/37i9dQZF1DWYIvtWSbA6Aj.md)
+- [Martin Garrix Radio](/playlists/pretty/1boYpG5G2QkmQ7FRi2dRc1.md)
 - [Martin Ikin DJ Mix: Feel The Vibe](/playlists/pretty/37i9dQZF1DWTvdcM9QUiSL.md)
 - [Maskandi Favourites](/playlists/pretty/37i9dQZF1DX2xhOTSp6PjQ.md)
 - [Massive Dance Hits](/playlists/pretty/37i9dQZF1DX5uokaTN4FTR.md)
