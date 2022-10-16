@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,370 likes - 29 songs - 1 hr 51 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,375 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Acid](https://open.spotify.com/track/3DRLXDqJVGJJgMMCX5uD9w) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to) | [Acid](https://open.spotify.com/album/6NaQWTw424w8apdQ4J1pVP) | 2:45 |
 | 2 | [No Decent Shoes For Rain](https://open.spotify.com/track/63muChZgtROOEDZFAQLLyb) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [No Decent Shoes For Rain](https://open.spotify.com/album/0MjvpR88CRUjgODWcbokx0) | 5:57 |
-| 3 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:29 |
+| 3 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 4 | [The Grass Widow In The Glass Window](https://open.spotify.com/track/3WQoagvXfwFT9Q8CZL5nEm) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [The Grass Widow In The Glass Window](https://open.spotify.com/album/6vZueLAOgN635kuL2o4lR9) | 6:23 |
 | 5 | [Will You Follow Me Home?](https://open.spotify.com/track/4wjH5FzOi2IkgEWTp69usI) | [Meg Baird](https://open.spotify.com/artist/4NkfNPTsDtbPntbU1pBYVt) | [Will You Follow Me Home?](https://open.spotify.com/album/1CDxhMLeFuIMeafbrr18cC) | 5:38 |
 | 6 | [The Rainbow Wheel of Death](https://open.spotify.com/track/08REj06dekvBZW4mich778) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Rainbow Wheel of Death](https://open.spotify.com/album/6fi8nmGiTHFx1l3Pf3jQCK) | 3:50 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 17 | [Gossamer Wings](https://open.spotify.com/track/7wEBZw0VzL7ztfutRPvcL4) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [Duck Czn: Tiger Style](https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi) | 1:50 |
 | 18 | [Summer Sun](https://open.spotify.com/track/2palH1jCEezLsedTe5yk6m) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 2:32 |
 | 19 | [The Good Times](https://open.spotify.com/track/1pkRnyCrU24rR2R50tE4S6) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Highways](https://open.spotify.com/album/0bSBKTyijO05S4IHqwQrjC) | 2:56 |
-| 20 | [the clearing](https://open.spotify.com/track/7bVBfbB9lcTsMbt6wVJn2h) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Bend Reality \~ Like a Wave](https://open.spotify.com/album/6w4dUbXm7zVu3wNqZh9nUb) | 3:13 |
+| 20 | [the clearing](https://open.spotify.com/track/7bVBfbB9lcTsMbt6wVJn2h) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [bend reality \~ like a wave](https://open.spotify.com/album/6w4dUbXm7zVu3wNqZh9nUb) | 3:13 |
 | 21 | [Wandering](https://open.spotify.com/track/33ks9ZH7hzmkGk36NZDN3J) | [Lesser Evil](https://open.spotify.com/artist/4SH8pEXJuSWb6zwmA4zMFl) | [Subterranean](https://open.spotify.com/album/5RtNDIVB3XGNL68aLx58Db) | 4:55 |
 | 22 | [City of Angels](https://open.spotify.com/track/6QHetBkj0AfZFye2zl60uT) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [City of Angels](https://open.spotify.com/album/0Q1g9NblKMtHOFE7l3Mghl) | 4:38 |
 | 23 | [crimson enclosure](https://open.spotify.com/track/0h9Th1sNgWxBOmUGAbNH5C) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 1:54 |

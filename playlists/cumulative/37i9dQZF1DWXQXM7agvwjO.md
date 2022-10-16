@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Say Sue Me \(South Korea\)
 
-433 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+434 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Don't Forget Me](https://open.spotify.com/track/4HlpXrTRR7uyWzCRTjkAtv) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:17 | 2022-05-19 | 2022-07-22 |
 | [Don't Walk Away](https://open.spotify.com/track/4XVGObb52c3QRb5IAGnK07) | [Dega Putra](https://open.spotify.com/artist/1i8OmUxiySaMGH66K7qgcj) | [Don't Walk Away](https://open.spotify.com/album/4MPAJmWFLR31coJ8UoW18E) | 3:59 | 2022-08-04 | 2022-08-19 |
 | [don't wanna hold u back](https://open.spotify.com/track/44aylXQRxfSCMoinxh7oJR) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [don't wanna hold u back](https://open.spotify.com/album/0Fca3QLo7gi7T48TdeWi00) | 3:37 | 2022-09-22 | 2022-10-07 |
+| [Don’t get me wrong](https://open.spotify.com/track/7bmmOJ3ZRj8yreK8CNAhbI) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Where's the Exit?](https://open.spotify.com/album/7edAR9wZ8n7ges6F0g99RF) | 3:24 | 2022-10-13 |  |
 | [Down In The Dumps](https://open.spotify.com/track/1DcjEggH52pt6GiEeaaKmY) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [DOWN IN THE DUMPS](https://open.spotify.com/album/5qrAHXTOei4zFw1mnTasBP) | 4:18 | 2022-06-16 | 2022-08-05 |
 | [Dream Away \(feat\. Phum Viphurit\)](https://open.spotify.com/track/5fy6qU1f6tv3wOpcyAPlBo) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Eutopia](https://open.spotify.com/album/4MUHJDhll4mTa80kATFiHG) | 3:52 | 2022-09-08 |  |
 | [dream boy](https://open.spotify.com/track/24tXaX2zJStI0F5lcmVayK) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [dream boy](https://open.spotify.com/album/7qi4kZQUYPtnj1aehOl1lk) | 2:46 | 2022-09-01 |  |

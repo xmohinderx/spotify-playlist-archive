@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Honey Dijon",
-  "num_followers": 71134,
+  "num_followers": 71153,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc2MDExMCwwMDAwMDAwMDI2NmQ2MTlmN2YyNmMzNzkyZjlhNWE1YWUyOGE0OWQz",
+  "snapshot_id": "MTY2NDc2MDExMCwwMDAwMDAwMGRmYjU2NGQxMmFmOTc5YmQxYjliMGNjNjYzYjM1NTBh",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
     },
     {
-      "added_at": "2020-10-23 15:11:26",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "Acrylic",
@@ -431,6 +415,22 @@
       "duration_ms": 205480,
       "name": "Girl Blunt",
       "url": "https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl"
+    },
+    {
+      "added_at": "2020-10-23 15:11:26",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a"
     },
     {
-      "added_at": "2021-07-09 04:00:00",
-      "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
-      },
-      "artists": [
-        {
-          "name": "MK xyz",
-          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
-    },
-    {
       "added_at": "2022-05-31 20:14:29",
       "album": {
         "name": "SULA (Paperback)",
@@ -643,6 +627,22 @@
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
+    },
+    {
+      "added_at": "2021-07-09 04:00:00",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
     },
     {
       "added_at": "2021-08-03 17:22:27",

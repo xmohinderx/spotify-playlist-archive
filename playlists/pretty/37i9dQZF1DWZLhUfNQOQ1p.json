@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230811,
+  "num_followers": 230819,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGE4ZWMwOWMwNDYxZjcxN2E5MjhmYWY0NGQ1YzRjZjdj",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDRhNTUwZDdlYWZkMGEwZTgwZTNiNDE4MjhhNDFmNTQ1",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -471,26 +471,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
-      },
-      "artists": [
-        {
-          "name": "Zonoma",
-          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
-        },
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 200590,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
         "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 200131,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
+      },
+      "artists": [
+        {
+          "name": "Zonoma",
+          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
+        },
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 200590,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "When I'm Gone",
         "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 204800,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
-      },
-      "artists": [
-        {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2021-08-05 09:09:59",

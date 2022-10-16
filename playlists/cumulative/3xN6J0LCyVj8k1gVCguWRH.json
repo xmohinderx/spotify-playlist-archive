@@ -29580,6 +29580,24 @@
     },
     {
       "album": {
+        "name": "Time Awaits",
+        "url": "https://open.spotify.com/album/7DkI7ngAx583NI5CwakdMz"
+      },
+      "artists": [
+        {
+          "name": "Travis Sayles",
+          "url": "https://open.spotify.com/artist/3ZF5OTLAF900ketxn9lFqw"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Time Awaits",
+      "url": "https://open.spotify.com/track/0EWkcHC58bAHHcvoagva6u"
+    },
+    {
+      "album": {
         "name": "Feeling Alright",
         "url": "https://open.spotify.com/album/26Fk2l62DFiO1Npi5lOU8V"
       },

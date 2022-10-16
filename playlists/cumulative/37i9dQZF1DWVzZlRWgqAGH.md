@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Smino, J\. Cole
 
-736 songs - 1 day 19 hr 25 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+737 songs - 1 day 19 hr 28 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Gravity](https://open.spotify.com/track/280ujxycRyK4akeaAPDqNz) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Gravity](https://open.spotify.com/album/2UoXXes6BWXXoCwKDFzJKC) | 3:26 | 2020-05-15 | 2020-06-05 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 |  |
 | [Grey Skies](https://open.spotify.com/track/4905P0tRcD8TkzrP8NZEzj) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Grey Skies](https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6) | 2:44 | 2020-07-18 | 2022-05-22 |
-| [Groove](https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU) | 2:57 | 2021-08-20 |  |
+| [Groove](https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU) | 2:57 | 2021-08-20 | 2022-10-16 |
 | [Grow \- A COLORS ENCORE](https://open.spotify.com/track/4NIIAwRjwayqGCk929daQh) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [Grow \- A COLORS ENCORE](https://open.spotify.com/album/0B2AOk5RVaUYGEgxwk8Z8k) | 3:27 | 2021-09-04 | 2022-04-21 |
 | [Guest](https://open.spotify.com/track/1C70OhbdPDbagZ5bCgMC4g) | [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Guest](https://open.spotify.com/album/7qX5w1HKnF8pXvBLWDwrIr) | 4:16 | 2020-06-29 | 2020-07-31 |
 | [Guilty Pleasures](https://open.spotify.com/track/09KeOvDkNfymrhNvnfTYAi) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Guilty Pleasures](https://open.spotify.com/album/1IVwoyObWNl60Zk2NLQ7QK) | 4:18 | 2020-10-27 | 2021-05-26 |
@@ -520,6 +520,7 @@
 | [Rainforest](https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb) | 2:42 | 2022-09-09 |  |
 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 | 2021-02-28 | 2022-09-09 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2021-01-15 | 2022-10-13 |
+| [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 | 2022-10-14 |  |
 | [Rawl Aredo](https://open.spotify.com/track/2S2W1Uhfp3AlKjudEtRViE) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Houses](https://open.spotify.com/album/5q1Nbw5HcLptW819mGRKLU) | 5:23 | 2020-02-12 | 2020-03-10 |
 | [Realize](https://open.spotify.com/track/6DIi3rdFEdahxvMQ3hNzTs) | [Wajatta](https://open.spotify.com/artist/0Yh5vHNrVsgQ9UEcj8Rqss) | [Don’t Let Get You Down](https://open.spotify.com/album/4JZjID5JmCUCvR8pu8RGUw) | 4:29 | 2020-02-28 | 2020-04-03 |
 | [Reason in Disguise](https://open.spotify.com/track/6F1D4x7Ifrwt5t5MleYFp3) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Reason in Disguise](https://open.spotify.com/album/3qz4OoYi5iSnpCVcvHwJ75) | 3:41 | 2019-09-29\* | 2019-11-06 |

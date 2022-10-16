@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Divorce
 
-577 songs - 1 day 7 hr 19 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
+578 songs - 1 day 7 hr 23 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Helpless](https://open.spotify.com/track/5YGUxFRCpX2QMDeSNlurRh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Helpless](https://open.spotify.com/album/2FaHuiTP5xJ5XM49X1Vh2o) | 3:09 | 2022-01-05 | 2022-01-20 |
 | [hermès](https://open.spotify.com/track/4pxAepv0pk82z8zTbpRfuM) | [sona blue](https://open.spotify.com/artist/6JUkNmQtHbz5GWN6Ej3z9f) | [hermès](https://open.spotify.com/album/2hJZAS6PwvmBlZqu9QYo0m) | 3:26 | 2022-08-10 | 2022-09-15 |
 | [High](https://open.spotify.com/track/2jox9QFalTF1EApqoZ1Yra) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [High](https://open.spotify.com/album/7CXzYWQ7cpSLdLbYI0vSJu) | 3:23 | 2022-10-12 |  |
-| [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-06 |  |
+| [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-12 |  |
+| [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-06 | 2022-10-16 |
 | [Hit and Run](https://open.spotify.com/track/6WeQmowNd1q0jdfuzesWOs) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Hit and Run](https://open.spotify.com/album/0z6vuMM2IcZAL6lEEK7b0d) | 3:22 | 2022-02-09 | 2022-04-14 |
 | [hit it light it twist it](https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [hit it light it twist it](https://open.spotify.com/album/26wYoLV3Yvt0yzOeTRKvKI) | 1:54 | 2022-06-14 | 2022-09-01 |
 | [Hoax](https://open.spotify.com/track/2zvVM36NvH377E0p4MvoSN) | [sleepyhead](https://open.spotify.com/artist/2mN0zIDP0EVyzKYCmiS9hD) | [Hoax](https://open.spotify.com/album/74pBjk9zqem2veJTEGI9Ab) | 2:44 | 2022-09-14 |  |

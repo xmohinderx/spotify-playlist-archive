@@ -4,7 +4,7 @@
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-326 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/2B4rpcPWiyrM64IWAHu8yo)
+327 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/2B4rpcPWiyrM64IWAHu8yo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 | 2020-07-23 |  |
 | [Alive With The Glory Of Love](https://open.spotify.com/track/7ve7SjgFNCQiuwaYP6uERF) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [...Is A Real Boy](https://open.spotify.com/album/7JNdSN2KnFApyFE836pdUS) | 4:14 | 2020-07-23 | 2022-07-29 |
 | [Alive With the Glory of Love](https://open.spotify.com/track/1va84KD7DrxZ8U09Per4L8) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Is a Real Boy](https://open.spotify.com/album/6V00weqCQp55eUDYewW1cG) | 4:15 | 2022-05-30 | 2022-10-14 |
+| [Alive With the Glory of Love](https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Is a Real Boy](https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7) | 4:15 | 2022-05-30 |  |
 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 | 2020-07-23 |  |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2022-05-30 |  |
 | [All The Small Things](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:48 | 2020-07-23 | 2022-07-29 |
@@ -231,7 +232,7 @@
 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 | 2022-05-30 |  |
 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 | 2020-07-23 | 2022-07-29 |
 | [Shoot the Runner](https://open.spotify.com/track/4baAwbpkroYCwSIlaqzNXy) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Empire](https://open.spotify.com/album/22cuBzNBEzMhitybh0WEIh) | 3:27 | 2020-07-23 | 2022-07-29 |
-| [Shoot the Runner](https://open.spotify.com/track/6lhiYqlBsafMe1eGoTEbC4) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Empire](https://open.spotify.com/album/1SuykXotZpA8F3EbNv2yGd) | 3:27 | 2022-05-30 |  |
+| [Shoot the Runner](https://open.spotify.com/track/6lhiYqlBsafMe1eGoTEbC4) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Empire](https://open.spotify.com/album/1SuykXotZpA8F3EbNv2yGd) | 3:27 | 2022-05-30 | 2022-10-16 |
 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 | 2022-05-30 |  |
 | [Show Me How to Live](https://open.spotify.com/track/21tuvt3CXIsNquc32v8jpc) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/7ysDeat0kDelEE7M6MUwXZ) | 4:37 | 2020-07-23 | 2022-07-29 |
 | [Sing](https://open.spotify.com/track/01p5NB0mgtrEFM7hXlcLDd) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/4goWQZu6VmUX1mOYvUpLSj) | 3:48 | 2020-07-23 | 2022-07-29 |

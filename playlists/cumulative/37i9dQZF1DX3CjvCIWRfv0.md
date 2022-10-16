@@ -4,7 +4,7 @@
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-94 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2cGfSAEa6ffV3BWAPvn5gG)
+95 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2cGfSAEa6ffV3BWAPvn5gG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Mes Stou Egeou](https://open.spotify.com/track/4jkGRii7DTHj0gbFFLxuvZ) | [Paraskevas Grekis](https://open.spotify.com/artist/465N3DpknRAAfD6Xwa6Yne) | [Greek Islands Music on the Bouzouki](https://open.spotify.com/album/75PGLEYdua1Gk8eHUYYi7u) | 3:16 | 2022-01-21 |  |
 | [My Father the Greek](https://open.spotify.com/track/3na2SnSYhMMKyQ1C9vRHHK) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [The Sound of Greece](https://open.spotify.com/album/1Rjeluf3m75pkGTAR2Kq1C) | 3:14 | 2022-01-21 |  |
 | [My Father the Greek](https://open.spotify.com/track/4vd0aZKGZY6rWaSbrJi3tB) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [The Sound of Greece](https://open.spotify.com/album/0gNam32SlVsQIyX4xbmrG9) | 3:14 | 2022-01-21 | 2022-07-29 |
-| [Namoun Asteri](https://open.spotify.com/track/5wd7OaorCJjJyVfJWYrLPk) | [Kriteos](https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I), [Romiosini](https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T) | [Best of Greece](https://open.spotify.com/album/6DCGq0wZvYC5k8sWrh7ygt) | 3:31 | 2022-01-21 |  |
+| [Namoun Asteri](https://open.spotify.com/track/5wd7OaorCJjJyVfJWYrLPk) | [Kriteos](https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I), [Romiosini](https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T) | [Best of Greece](https://open.spotify.com/album/6DCGq0wZvYC5k8sWrh7ygt) | 3:31 | 2022-01-21 | 2022-10-16 |
+| [Namoun asteri](https://open.spotify.com/track/6HFAGySWieimzRnev0ZwUB) | [Romiosini](https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T), [Kriteos](https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I) | [Best of Greece](https://open.spotify.com/album/2KhTfhDEXMSrlW82zMvBs9) | 3:31 | 2022-08-30 |  |
 | [Namoun Asteri \(I'd Love to Be a Star\) \[Greece\]](https://open.spotify.com/track/6RcltfUFjNwyttVYcClnbP) | [Kostas Smirnios](https://open.spotify.com/artist/2Mf51LfHijjv2zmotIrURm), [Kriteos](https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I), [Romiosini](https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T) | [Best of Greece](https://open.spotify.com/album/6z9CGgtinyu2nnfDpHC3qn) | 3:31 | 2022-01-21 | 2022-07-29 |
 | [Near the Sea](https://open.spotify.com/track/5dwGtyAYKeFtixOjECQvq8) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Greece](https://open.spotify.com/album/23d55HW28NSyS6tbwOC1oD) | 3:06 | 2022-01-21 | 2022-07-29 |
 | [Near the Sea](https://open.spotify.com/track/7FijYL1eAyN6qpvKOVXmtx) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Magic of the Greek Bouzouki: Near the Sea](https://open.spotify.com/album/480jzKVG94eXc3Zq02CCOf) | 3:06 | 2022-01-21 |  |

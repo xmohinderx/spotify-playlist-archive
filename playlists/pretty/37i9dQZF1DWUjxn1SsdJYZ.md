@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,028 likes - 104 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,044 likes - 104 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 8 | [Go Gettaz](https://open.spotify.com/track/34Kt6A0kctf8J65iOwJbZs) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [Go Gettaz](https://open.spotify.com/album/28TaD1I7rQBkBKxKWGNQJK) | 2:32 |
 | 9 | [Home](https://open.spotify.com/track/1U3NqKbVURMcvK81oAknpo) | [VTA](https://open.spotify.com/artist/39OhVpcxkMUgRN5pCLh5Us), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Home](https://open.spotify.com/album/39bv4dQD70MwZJSEXDB6Ly) | 3:01 |
 | 10 | [BENDER](https://open.spotify.com/track/3ZizKwJA2tqX7Y292iFpad) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL), [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG) | [BENDER](https://open.spotify.com/album/324MFGYdflm3n41eCI1f85) | 2:18 |
-| 11 | [TOOT](https://open.spotify.com/track/5ojlLn2ycSRJKa1OwrZih1) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW), [Xg](https://open.spotify.com/artist/7sMhCJinzB2hteaw6Jk6uP), [Dylz](https://open.spotify.com/artist/1ex4qjLplP1yX0T6c8G989) | [TOOT](https://open.spotify.com/album/2bR1sg2a9szXN03R201RKQ) | 3:29 |
+| 11 | [TOOT](https://open.spotify.com/track/5ojlLn2ycSRJKa1OwrZih1) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW), [Xg](https://open.spotify.com/artist/58fEvKEk1EHZI2EvwBLrRQ), [Dylz](https://open.spotify.com/artist/6vUAgGvqIOZ6UDAJ7uqgCm) | [TOOT](https://open.spotify.com/album/2bR1sg2a9szXN03R201RKQ) | 3:29 |
 | 12 | [Blessings](https://open.spotify.com/track/0G8UevdEVp26a2DGfhmaIp) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [Bitner Brown](https://open.spotify.com/artist/7hFXMhSb2iI4bJcxfcwQmM) | [Blessings](https://open.spotify.com/album/1m37BOYIflgwLuB3ekRfA5) | 3:00 |
 | 13 | [Rolls Royce](https://open.spotify.com/track/568p6xW7f55NIJKucvIstH) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179), [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [Rolls Royce](https://open.spotify.com/album/78OjMSoahcsAUD6Hun8MO4) | 2:46 |
 | 14 | [PUSSYLOVEMONEY](https://open.spotify.com/track/2bCRG2uVKz4MD5uB8Iyovd) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [PUSSYLOVEMONEY](https://open.spotify.com/album/1yU74LGWOEWvvHbv184dUh) | 2:49 |

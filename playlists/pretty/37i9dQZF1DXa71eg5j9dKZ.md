@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Shanti Celeste
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,137 likes - 120 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,246 likes - 120 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 29 | [North Star](https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [060](https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA) | 6:43 |
 | 30 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 |
 | 31 | [Desire](https://open.spotify.com/track/3DVXjW5D4mPCS7lcUdkuq4) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl) | 1:48 |
-| 32 | [Running](https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 4:11 |
+| 32 | [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 |
 | 33 | [Jaws](https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Jaws](https://open.spotify.com/album/0rdaz3LaQsaibiVA6iGtkn) | 3:20 |
 | 34 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 |
 | 35 | [Sadhana](https://open.spotify.com/track/6ilWOSGCIpyRCnVUZsSbEB) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Bollywood Super Hits!](https://open.spotify.com/album/4E8Z8tAqCxz884FxZX8xsY) | 2:53 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 119 | [FYA FYA](https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [FYA FYA](https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R) | 3:41 |
 | 120 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDA1OTRhZjQyZDhhODQwZWRmZTVlY2U2MDFhMTA5Yzll`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDA0ZDNkYzk2NzNjOWZlYTQ0MDgyYjQ0YWY1YzMwYmZk`

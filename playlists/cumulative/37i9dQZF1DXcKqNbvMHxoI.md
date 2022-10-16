@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-143 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+144 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Mountains](https://open.spotify.com/track/0w0kClmKsQz5A6OecdwhVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Mountains](https://open.spotify.com/album/251uvmlPX4D3UiH4zGtj66) | 4:08 | 2022-07-19 | 2022-07-27 |
 | [Mystic Bounce](https://open.spotify.com/track/6e6lDhigjHGm6zQM3C1ezN) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 3:56 | 2022-07-19 | 2022-07-27 |
 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 | 2022-02-04 |  |
-| [Night Drive](https://open.spotify.com/track/4SFsCt9PWNo9ebqn0GdMTJ) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:16 | 2022-02-04 |  |
+| [Night Drive](https://open.spotify.com/track/2ehugDWnbyKOsT0YEDvufH) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:16 | 2022-07-26 |  |
+| [Night Drive](https://open.spotify.com/track/4SFsCt9PWNo9ebqn0GdMTJ) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:16 | 2022-02-04 | 2022-10-16 |
 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 | 2022-02-04 |  |
 | [Own Ting](https://open.spotify.com/track/32OdokBzVZ19TzTu84RTHL) | [Black Josh](https://open.spotify.com/artist/7C7k2UEHadhnuwaiN4TSdU), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI), [Lee Scott](https://open.spotify.com/artist/2fNzq2CUYlSewJPMKERyX2), [Sniff](https://open.spotify.com/artist/3yuHkgjO9RYhxD3cr16FXa) | [Yung Sweg Lawd](https://open.spotify.com/album/5YhYhxk3RlqStrLRTUCmJM) | 3:43 | 2022-07-19 | 2022-07-27 |
 | [Passionfruit](https://open.spotify.com/track/1OStEtFJJ7xMbgQfp5C3j9) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/0LVHebiLemk6H6Djzi5NVf) | 4:34 | 2022-02-04 | 2022-07-29 |

@@ -686,6 +686,28 @@
     },
     {
       "album": {
+        "name": "Scacco al Maestro - Volume 2",
+        "url": "https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279413,
+      "name": "La tarantola dal ventre nero",
+      "url": "https://open.spotify.com/track/1yicvjJVBy78161FcNOXID"
+    },
+    {
+      "album": {
         "name": "VOLUME MASSIMO",
         "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
       },

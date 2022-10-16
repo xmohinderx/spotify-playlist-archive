@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-87 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
+88 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-07-26 | 2022-09-03 |
 | [I Feel for You](https://open.spotify.com/track/2eLpwUTbhpvn1Net0jlWQf) | [Phoebe Katis](https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx), [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [I Feel for You](https://open.spotify.com/album/4pcK8jv3tGQhGTd9dp9VGz) | 3:07 | 2021-07-26 |  |
 | [I'm Not the One](https://open.spotify.com/track/1VLugWWESJhyDzMNmjrUBw) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Maribelle](https://open.spotify.com/artist/21943SyDN6jvPKcwyV5WnN) | [The High \- EP](https://open.spotify.com/album/6Ba2ugeP6fBSEazCTIx2Ff) | 3:50 | 2021-07-26 |  |
-| [Ice Cold](https://open.spotify.com/track/56Yxprnbo79DpT8GTKPXlZ) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/08a5OpPDqZ8vXfu3AejPdW) | 3:16 | 2021-07-26 |  |
+| [Ice Cold](https://open.spotify.com/track/56Yxprnbo79DpT8GTKPXlZ) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/08a5OpPDqZ8vXfu3AejPdW) | 3:16 | 2021-07-26 | 2022-10-16 |
+| [Ice Cold](https://open.spotify.com/track/6g3dWdveVFaFrBR6cZTLHx) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/55OKR2BbANR7aq9UwA9u08) | 3:16 | 2021-07-26 |  |
 | [Ice Cold](https://open.spotify.com/track/4yGlV4Vw5uhcCOCefmy4N4) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx) | [Ice Cold](https://open.spotify.com/album/3NR9ek3Wzl2ONf0HCm7u8m) | 3:49 | 2021-07-26 |  |
 | [It's Your Night](https://open.spotify.com/track/488cWCyVFhfZEuNR5BMcL6) | [Space 9](https://open.spotify.com/artist/1iWUVW2PZmzPmhGPyuqkno), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [It's Your Night](https://open.spotify.com/album/5BH4wKbGRKAZpLvKdUHsLf) | 3:22 | 2021-07-26 |  |
 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 | 2021-07-26 |  |

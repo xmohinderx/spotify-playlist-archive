@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lizzy Mcalpine
 
-1,373 songs - 3 day 0 hr 13 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,376 songs - 3 day 0 hr 23 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Catch My Drift](https://open.spotify.com/track/2r3d7ZEucbIL2N7E1ayWyX) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Catch My Drift](https://open.spotify.com/album/0TF4NVRcAbpCzhXrZ81wfS) | 3:12 | 2022-02-25 | 2022-07-29 |
 | [Caught in the Middle](https://open.spotify.com/track/7aKCwhBjb8zuTEBGzf48Qm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet/Caught in the Middle](https://open.spotify.com/album/6hPjqER5erz9bS5C3fxq1L) | 2:42 | 2020-10-16 | 2022-04-11 |
 | [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-06 | 2022-04-07 |
-| [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 | 2022-09-16 |  |
+| [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 | 2022-09-16 | 2022-10-16 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-09-30 |  |
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-09-23 | 2022-10-14 |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/14uO4OgGwGBg5VxbAiRhL7) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/2BAlop08zZqQ2mxGHGqxlw) | 3:30 | 2021-02-22 | 2021-10-11 |
@@ -255,6 +255,7 @@
 | [Cliff Drive](https://open.spotify.com/track/12nBSOCCLxfmRlwNJg5zfp) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Cliff Drive](https://open.spotify.com/album/1D41CViWI68S6RuDu3Wbzt) | 3:12 | 2020-11-10 | 2020-11-15 |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2022-06-17 | 2022-10-13 |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-01-15 | 2022-07-29 |
+| [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2022-10-07 |  |
 | [Closer to You](https://open.spotify.com/track/4grvUz76teA1WVYBOBAyJ6) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:25 | 2021-05-04 | 2021-05-24 |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2021-03-06 | 2022-04-10 |
 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 | 2022-01-28 | 2022-07-18 |
@@ -454,7 +455,7 @@
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-10-20 |  |
 | [Friends](https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Friends](https://open.spotify.com/album/4jStOidSdXoVBPdgVUj0po) | 3:26 | 2020-10-13\* | 2020-12-12 |
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-05-20 | 2022-10-13 |
-| [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 | 2022-08-19 |  |
+| [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 | 2022-08-19 | 2022-10-16 |
 | [FTL](https://open.spotify.com/track/2m6ikQazVLpm5XYxAy3OFz) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [FTL](https://open.spotify.com/album/2Q1eT7WtiyaXZ3BxbpLiYV) | 3:22 | 2021-02-22 | 2021-02-26 |
 | [Fuck June](https://open.spotify.com/track/6zIjeRxHPybvw7ZjWsEa8i) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Fuck June](https://open.spotify.com/album/2HXUqQUzY12VNpdlEmyLvK) | 2:58 | 2021-06-11 | 2022-04-12 |
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-07 | 2022-04-20 |
@@ -900,6 +901,7 @@
 | [Off My Mind](https://open.spotify.com/track/6Rn74LzUZrzsNSB46uF8ML) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Off My Mind](https://open.spotify.com/album/6QlxMd4KIm1o27F3IyXW5F) | 3:09 | 2020-10-16 | 2021-02-28 |
 | [Off My Mind](https://open.spotify.com/track/3X91uoqAVtHmqv1bvZbNog) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Off My Mind](https://open.spotify.com/album/0AA6bmA8doXjHKUKM1cv8k) | 3:33 | 2021-06-02 | 2022-07-29 |
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2022-06-17 | 2022-08-27 |
+| [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2022-10-16 |  |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4syyKlhOWbsZUsZ4DwmJxH) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/48w4LOmCFBERYFr7QkT4VA) | 2:35 | 2021-09-10 | 2022-04-16 |
 | [Oh Yeah](https://open.spotify.com/track/13GEGNhXpm5FyHlvBvoqBF) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Oh Yeah](https://open.spotify.com/album/3JOhRMAGhcgmoThgjWwJfF) | 3:32 | 2020-10-13\* | 2020-10-16 |
 | [Oh, But Lover](https://open.spotify.com/track/3bHeVMbA84wmuHr5p2POrp) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 4:04 | 2022-01-14 | 2022-07-23 |
@@ -982,7 +984,7 @@
 | [Pressure Point](https://open.spotify.com/track/6viryDZQ6Jr8J2bjqf2hSg) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Pressure Point](https://open.spotify.com/album/5B7CTMT8SCyoOzdh8MsqVX) | 3:26 | 2022-03-29 | 2022-07-25 |
 | [Pretend](https://open.spotify.com/track/1h8dms5lJ4QcXB0tyguk4c) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Juliana Madrid EP](https://open.spotify.com/album/24kUFs20sObGQMAW7VgWso) | 3:07 | 2022-08-19 | 2022-08-27 |
 | [Pretty Girl Lie](https://open.spotify.com/track/0M85Og8M7oRFB9KqimQe51) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Pretty Girl Lie](https://open.spotify.com/album/0uRebnXmyiOUUzpjCyxY2m) | 3:38 | 2020-10-13\* | 2020-11-15 |
-| [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 |  |
+| [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 | 2022-10-16 |
 | [Pretty Lies](https://open.spotify.com/track/4dwDHL4Me5Xi2Vb8ZYdmfP) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Pretty Lies](https://open.spotify.com/album/22u2ZcuWVdti2plTeTpL3c) | 3:41 | 2022-01-21 | 2022-04-21 |
 | [Pretty Places \- St\. Lucia Remix](https://open.spotify.com/track/0JYR0lyLlDinGYd2XDMXmO) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Pretty Places \(St\. Lucia Remix\)](https://open.spotify.com/album/2Ic52xcEkav61Ppa3ilzVZ) | 4:41 | 2021-08-13 | 2022-05-21 |
 | [Pride \(with mxmtoon\)](https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Pride](https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN) | 2:49 | 2020-10-24 | 2021-06-03 |
@@ -1066,6 +1068,7 @@
 | [Self Sabotage](https://open.spotify.com/track/7e0OGRhftSRlGcMW73PFId) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Self Sabotage](https://open.spotify.com/album/2kX5lTEVdTYanDpsutTZSE) | 2:32 | 2021-08-27 | 2022-04-15 |
 | [Sensitive Heart](https://open.spotify.com/track/3NUPz5Mtm93LDfsgtl0kBC) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S), [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT) | [Sensitive Heart](https://open.spotify.com/album/3WD2Ke1Swvoa5uPxfSKdBD) | 3:07 | 2020-10-20 | 2020-10-21 |
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2021-03-06 | 2022-10-13 |
+| [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2022-10-07 |  |
 | [Seven Nights](https://open.spotify.com/track/0OCcQORDDBDAJOXLMcaJuo) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Seven Nights](https://open.spotify.com/album/3AI6Z6CpWrC2f3P9O9OMeR) | 2:50 | 2021-06-04 | 2022-04-16 |
 | [Sex Tape](https://open.spotify.com/track/57rOrYZq3UmlRnww6XOftv) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Sex Tape](https://open.spotify.com/album/2HOh6Vrm6LO8BPazURNiSc) | 2:54 | 2021-08-06 | 2022-04-14 |
 | [Shady](https://open.spotify.com/track/4SPq74rXWTLniPFUYxK2eh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Shady](https://open.spotify.com/album/1ZKO2za2kGt7e1dGOh8nIc) | 2:55 | 2020-11-13 | 2021-03-02 |

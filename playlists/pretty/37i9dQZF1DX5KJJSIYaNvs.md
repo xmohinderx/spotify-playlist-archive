@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Neha Kakkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,435 likes - 39 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,526 likes - 39 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 18 | [Doobey \(From "Gehraiyaan"\)](https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Doobey \(From "Gehraiyaan"\)](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) | 3:39 |
 | 19 | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 |
 | 20 | [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 |
-| 21 | [Lae Dooba](https://open.spotify.com/track/66dO6jaZOKYdV6sXAPkBmI) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1c4yZTLRpZtBUoReFf0Dqo) | 3:49 |
+| 21 | [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 |
 | 22 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 |
 | 23 | [Mitra Re \- From "Runway 34"](https://open.spotify.com/track/4SmMVj2SnYXPA2M9LhtCnO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(From "Runway 34"\)](https://open.spotify.com/album/5EHxqOSbp0XjSQDq8MfRXH) | 3:41 |
 | 24 | [Dholida](https://open.spotify.com/track/4QKp78XQvd4Sr8Qj0vEXYv) | [Jahnvi Shrimankar](https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Dipti](https://open.spotify.com/artist/2qs6QhyW9EGLaD9d3XKGeR), [Pragati](https://open.spotify.com/artist/28158US0Sov816JcVhUGVz), [Rucha](https://open.spotify.com/artist/0ZOgFq0MwvVRl9V70yhz3f), [Arohi](https://open.spotify.com/artist/04yw6jIldqUYBFzYkYILat), [Archana](https://open.spotify.com/artist/6ZfDJaY1IBhPVkUIjErbnX) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM) | 2:59 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 38 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 |
 | 39 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 |
 
-Snapshot ID: `MTY2NTExNjk1OSwwMDAwMDAwMDRhZDhkMDNjNzE3OWFiZjI3MjliY2IxZTIyYTkzMWQ5`
+Snapshot ID: `MTY2NTExNjk1OSwwMDAwMDAwMGRlNTA0NzEzMjUyYWZlNGQ2YjE4OTlmN2U0NTU1YTUy`

@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 690201,
+  "num_followers": 690353,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDhlZjk5ZjMyNDc0M2Q2YTJiM2QzZGVlYjgzOGEyMmQ2",
+  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDYyNGM4ZDczODk2YzRiNTIzYjlmMzg5MTczYjc3NDY2",
   "tracks": [
     {
       "added_at": "2022-10-12 19:05:09",
@@ -271,22 +271,18 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
+        "name": "The Only Boy Awake",
+        "url": "https://open.spotify.com/album/0SCTqWnQqJFtgOewaNW062"
       },
       "artists": [
         {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Meadows",
+          "url": "https://open.spotify.com/artist/5jN2q5MCOQJaBAYIF7Os4J"
         }
       ],
-      "duration_ms": 241899,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+      "duration_ms": 163294,
+      "name": "The Only Boy Awake",
+      "url": "https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -307,6 +303,26 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "The Other Way",
         "url": "https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 199594,
       "name": "I Ain't Ever Loved No One - Acoustic",
       "url": "https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "The Only Boy Awake",
-        "url": "https://open.spotify.com/album/0SCTqWnQqJFtgOewaNW062"
-      },
-      "artists": [
-        {
-          "name": "Meadows",
-          "url": "https://open.spotify.com/artist/5jN2q5MCOQJaBAYIF7Os4J"
-        }
-      ],
-      "duration_ms": 163294,
-      "name": "The Only Boy Awake",
-      "url": "https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Numbered Doors",
         "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 213249,
       "name": "The Time I've Wasted",
       "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Better Than That",
-        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
-      },
-      "artists": [
-        {
-          "name": "Ian McConnell",
-          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "Better Than That",
-      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Sunday Best (Acoustic)",
         "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 167535,
       "name": "Sunday Best - Acoustic",
       "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Better Than That",
+        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
+      },
+      "artists": [
+        {
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "Better Than That",
+      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "This Town Still Talks About You",
-      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/6Mbu76NbGkVPIDF4XTBJWu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 171982,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "This Town Still Talks About You",
+      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Back My Way",
-        "url": "https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv"
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
       },
       "artists": [
         {
-          "name": "Joey Greer",
-          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
         }
       ],
-      "duration_ms": 224966,
-      "name": "Yesterday - live",
-      "url": "https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4"
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     }
   ],
   "unique_name": "Country Coffeehouse",

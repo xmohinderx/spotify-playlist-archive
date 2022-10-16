@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-76 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
+77 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [The Chase \- Smooth Mix](https://open.spotify.com/track/22y0cI6LXzdyCmnqM3LbnH) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Classics](https://open.spotify.com/album/6ZQOdwg9RQ3yFSlUYLvLA3) | 5:44 | 2018-06-21 | 2022-07-29 |
 | [The Chase \- Smooth Mix](https://open.spotify.com/track/20in5yzly6u3AxrIWUOFiA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Classics](https://open.spotify.com/album/2LFSdOptnLt2lslUi5M68n) | 5:44 | 2018-06-21 |  |
 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/4I51NjXIhLPfFVzn4SgYGj) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af) | [The Garden of Eden](https://open.spotify.com/album/3B4JK1Sy22RFDQfOZJbBEk) | 4:01 | 2018-06-21 | 2022-07-29 |
-| [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af) | [The Garden of Eden](https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv) | 4:01 | 2018-06-21 |  |
+| [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af) | [The Garden of Eden](https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv) | 4:01 | 2018-06-21 | 2022-10-16 |
+| [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 | 2018-06-21 |  |
 | [The House Music Anthem / Move Your Body](https://open.spotify.com/track/4ECiSO5OmUy41ifKknjsf4) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Trax Records: The 20th Anniversary Collection Mixed by Maurice Joshua & Paul Johnson](https://open.spotify.com/album/36k9wYTYtNHdZOnu65jtj6) | 3:26 | 2018-06-21 |  |
 | [The Juice](https://open.spotify.com/track/74TZSreTt6eXdCE8EJhpN1) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [DJ\-Kicks \(Motor City Drum Emsemble\)](https://open.spotify.com/album/62K6JylULgZWs9fnqlurpM) | 2:32 | 2018-06-21 | 2022-07-29 |
 | [This is Acid](https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl) | [Maurice](https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 4:37 | 2018-06-21 |  |

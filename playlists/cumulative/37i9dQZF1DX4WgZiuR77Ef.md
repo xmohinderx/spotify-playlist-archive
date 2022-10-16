@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-172 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+173 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Hard Up](https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/7BwuJqR6TBtothKdN6TY72) | 4:15 | 2020-10-30 |  |
 | [Hazel](https://open.spotify.com/track/25fq8Rq28dNyC4VWCFs8uN) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Hazel](https://open.spotify.com/album/2O5A8VHIlLf8OEQeNtquwU) | 4:01 | 2022-05-06 | 2022-07-29 |
 | [Hazel](https://open.spotify.com/track/45VqSJIZ9xUH2x7uyjdIIQ) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 4:01 | 2022-05-06 |  |
-| [He Said / She Said](https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd) | 4:01 | 2020-10-30 |  |
+| [He Said / She Said](https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/1uTAS2OGXRBxLPT382dWTA) | 4:01 | 2020-10-30 |  |
+| [He Said / She Said](https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd) | 4:01 | 2020-10-30 | 2022-10-16 |
 | [Heat](https://open.spotify.com/track/1TvQqcEiMkUqWXKwLpEEMy) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Honey Larochelle](https://open.spotify.com/artist/5MximdP80OJjCsC3bfCkZc) | [TBNH](https://open.spotify.com/album/1D7sdhWa3jL1pgv3VS0aDD) | 3:50 | 2020-10-30 | 2022-04-09 |
 | [Hold It Down](https://open.spotify.com/track/57Gbsto4EnpOEUtklQQSSm) | [Happy Daggers](https://open.spotify.com/artist/1AjDEQ2pPDEuDAXgEyh4pH) | [Hold It Down](https://open.spotify.com/album/2weMcTG4ElQswQlqw724rQ) | 3:04 | 2020-10-30 | 2022-04-09 |
 | [How Far We've Come](https://open.spotify.com/track/4Bvc8SWQsj3DIhyygQZ9Un) | [Jamey Arent](https://open.spotify.com/artist/3Hez51EruyL1L9x0HBsubm), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [How Far We've Come](https://open.spotify.com/album/6i87cBvfTHbasGb4h2WlPP) | 3:59 | 2020-10-30 | 2022-04-09 |

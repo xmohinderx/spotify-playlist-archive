@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4728,
+  "num_followers": 4731,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDZhYTI4MmUxMTBhNTE5ODM4NjhkODhkNWQxZDdkYTc2",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDRmYTY0M2MyOTAyZWJjMjA2NDMwMzZmOTA1NjFkNjZm",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "WIZZ",
-        "url": "https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e"
-      },
-      "artists": [
-        {
-          "name": "COUCOU CHLOE",
-          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "WIZZ",
-      "url": "https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Diana Ross (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 468640,
       "name": "Love Hangover",
       "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "WIZZ",
+        "url": "https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "WIZZ",
+      "url": "https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Io Fuori",
-        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 349462,
-      "name": "Ti voglio",
-      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Patrick Cowley: The Ultimate Collection",
         "url": "https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 337080,
       "name": "Menergy",
       "url": "https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Io Fuori",
+        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 349462,
+      "name": "Ti voglio",
+      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "La terza estate dell'amore",
-        "url": "https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa"
-      },
-      "artists": [
-        {
-          "name": "Cosmo",
-          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "La musica illegale",
-      "url": "https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Amore Hardcore",
         "url": "https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw"
       },
@@ -651,22 +635,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Story Untold",
-        "url": "https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68"
+        "name": "La terza estate dell'amore",
+        "url": "https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa"
       },
       "artists": [
         {
-          "name": "Novaa",
-          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
-        },
-        {
-          "name": "LIE NING",
-          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
         }
       ],
-      "duration_ms": 192806,
-      "name": "Story Untold",
-      "url": "https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ"
+      "duration_ms": 224013,
+      "name": "La musica illegale",
+      "url": "https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -687,6 +667,26 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Story Untold",
+        "url": "https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "duration_ms": 192806,
+      "name": "Story Untold",
+      "url": "https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Tocco di Lusso",
-        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Tocco di Lusso",
-      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Leo Mas Presents Mediterraneo",
         "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 217584,
       "name": "Satan in Love",
       "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Tocco di Lusso",
+        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Tocco di Lusso",
+      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "You Keep Me Hangin' On",
+      "url": "https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "NYC2MIA (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 189152,
       "name": "NYC2MIA - SOPHIE Remix",
       "url": "https://open.spotify.com/track/3bfZfblo5xLHXJgp8zxO2z"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "You Keep Me Hangin' On",
-      "url": "https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "I\u2019m Calling You From My Dreams",
-        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
-      },
-      "artists": [
-        {
-          "name": "Matilde Davoli",
-          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Tell Me What You See",
-      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Discodelic Edits Vol.1",
         "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 371705,
       "name": "Tentami & Rubami",
       "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "I\u2019m Calling You From My Dreams",
+        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
+      },
+      "artists": [
+        {
+          "name": "Matilde Davoli",
+          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Tell Me What You See",
+      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Superomantico",
-        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
-      },
-      "artists": [
-        {
-          "name": "Vergo",
-          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
-        }
-      ],
-      "duration_ms": 161302,
-      "name": "Superomantico",
-      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Blue Songs",
         "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
       },
@@ -1259,6 +1243,26 @@
       "duration_ms": 363986,
       "name": "Painted Eyes - Original Mix",
       "url": "https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "L'Incantesimo Delle Ciliegie",
+        "url": "https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa"
+      },
+      "artists": [
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Dottore",
+      "url": "https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7"
     },
     {
       "added_at": "2022-09-08 22:01:00",

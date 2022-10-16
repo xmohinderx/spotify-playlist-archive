@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-119 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+120 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 | 2022-09-08 |  |
 | [Tsht](https://open.spotify.com/track/4qSPzGBpuGu5Vao4HOIztL) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [DOUF EP](https://open.spotify.com/album/31DvNh2FL6roQo3h0jpPzk) | 1:50 | 2022-09-08 |  |
 | [TV](https://open.spotify.com/track/4BCtRbanTX0wtLjx7OMHmP) | [Don Kapot](https://open.spotify.com/artist/3QCwWdOoSMhjrN2nA6rwwV) | [Hooligan](https://open.spotify.com/album/4UYQpLLPcjxsdNe4Lj6CcW) | 6:09 | 2022-09-08 |  |
-| [Tzatzìki](https://open.spotify.com/track/5gXfrzXhcaIW2RQ4nuQODG) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 6:31 | 2022-09-15 |  |
+| [Tzatzìki](https://open.spotify.com/track/5gXfrzXhcaIW2RQ4nuQODG) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 6:31 | 2022-09-15 | 2022-10-16 |
+| [Tzatzìki](https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 6:31 | 2022-10-07 |  |
 | [Tzatzìki](https://open.spotify.com/track/71as0IomI571JigqGYx76F) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Tzatzìki](https://open.spotify.com/album/4UTpoktqZgI9eOtN2d4eK6) | 6:31 | 2022-09-08 | 2022-09-25 |
 | [Unreal 2](https://open.spotify.com/track/1T0agMrrPJCyxuokcDMC2Y) | [An Pierlé Quartet](https://open.spotify.com/artist/3kQqOgWbhg3EwLNC7rRCum) | [Wiga Waga](https://open.spotify.com/album/2wePFLIhCJ3VsjMOQnRSFS) | 2:54 | 2022-09-08 |  |
 | [Verloren Buffels](https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M) | [Donder](https://open.spotify.com/artist/5FBAdptDafa4fx8gGKDqBF), [Sigbjørn Apeland](https://open.spotify.com/artist/1nVOaRO8R3WXKXr1ywpULw) | [Het Verdriet](https://open.spotify.com/album/4iWJVM8EoN10L603olZx8o) | 1:33 | 2022-09-08 |  |

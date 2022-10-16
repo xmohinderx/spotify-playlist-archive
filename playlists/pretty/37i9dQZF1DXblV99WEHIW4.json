@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 139814,
+  "num_followers": 140085,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDcyODQ5ZWZjZGJmYjEzZTQ3Mzg1OWNmZDZjZmU3ZTQ2",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDdmNGZkYTBhZjE4OWI5NjNlMWVjM2E4NGE2YmI0ZmQ4",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Let Me Be Sad",
-      "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "From Death To Destiny",
         "url": "https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 242593,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/7IiqF2tYiixnpBcFjkocjA"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Let Me Be Sad",
+      "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "SO WHAT?",
-        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "ANTI-SOCIAL",
-      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 275133,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "SO WHAT?",
+        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "ANTI-SOCIAL",
+      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
       },
       "artists": [
         {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
         }
       ],
-      "duration_ms": 277969,
-      "name": "Nothing Left to Love",
-      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
+      "duration_ms": 179756,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 179756,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
+      "duration_ms": 277969,
+      "name": "Nothing Left to Love",
+      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
     },
     {
       "added_at": "2022-08-25 23:00:00",

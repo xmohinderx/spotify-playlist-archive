@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-168 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
+169 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Real Groove \(Studio 2054 Remix\)](https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm) | 4:22 | 2021-12-07 |  |
 | [Real Love](https://open.spotify.com/track/5DkbWT8AYLc0iS3Vmd6jGC) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Real Love](https://open.spotify.com/album/5a7PRBXX2Dl7UfE3zrM2h8) | 4:05 | 2021-12-07 | 2022-07-01 |
 | [Real Love](https://open.spotify.com/track/1arLMdJJwuyaGdDM1FWEvc) | [Sam Dexter](https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty), [Elliotte Williams N'Dure](https://open.spotify.com/artist/77i43ZsRsl95w8GalimJPw) | [Real Love](https://open.spotify.com/album/2c3cIaKVhjmnsk0swKWWnb) | 2:58 | 2021-12-07 | 2022-03-19 |
+| [Real Love](https://open.spotify.com/track/2BXEdsakM0T1uvzqwVYykF) | [Sam Dexter](https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty), [Elliotte Williams N'Dure](https://open.spotify.com/artist/77i43ZsRsl95w8GalimJPw) | [Real Love](https://open.spotify.com/album/6LtfmL7LdiJqXjZ3OJVIdp) | 2:58 | 2022-03-11 |  |
 | [Reason](https://open.spotify.com/track/37EKnLlRqJcb8XMgYaAbCL) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [Reason](https://open.spotify.com/album/6LRy6sA127XQ8Y25aG1mUF) | 2:57 | 2021-12-07 | 2022-07-29 |
 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 | 2021-12-07 |  |
 | [Rise](https://open.spotify.com/track/4zSTri8oBAAPhsQsPNfGue) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Under The Yellow Arch](https://open.spotify.com/album/6ngoLgezBzURPAgzcyXAZ5) | 3:21 | 2021-12-07 |  |
@@ -155,7 +156,7 @@
 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 | 2022-03-11 |  |
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2021-12-07 | 2022-07-29 |
 | [To the City](https://open.spotify.com/track/1m9fKwozHvJCLIr2tuVSTG) | [Mo.Ca](https://open.spotify.com/artist/2ccHG6bytMIlAcNvtxtGF2) | [To the City](https://open.spotify.com/album/3u2cnHd0IN5BmMEdGUtCd0) | 4:28 | 2021-12-07 | 2022-07-24 |
-| [Tonight](https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik) | [CHEBO](https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz) | [Tonight](https://open.spotify.com/album/5eUitT6YJ0tKPE7VflH3HY) | 3:12 | 2021-12-07 |  |
+| [Tonight](https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik) | [CHEBO](https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz) | [Tonight](https://open.spotify.com/album/5eUitT6YJ0tKPE7VflH3HY) | 3:12 | 2021-12-07 | 2022-10-16 |
 | [Trouble’s Coming \- Purple Disco Machine Remix](https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Trouble’s Coming \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ) | 4:25 | 2022-03-11 |  |
 | [Turn Around \(Hey What's Wrong With You\) \- Robosonic Remix](https://open.spotify.com/track/17gnbzWdHVTpyZP6FUvo0E) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l) | [Turn Around \(Hey What’s Wrong With You\) \[Remixes\]](https://open.spotify.com/album/2hx53vnNPRvQku4tAbWMSf) | 3:17 | 2021-12-07 |  |
 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 | 2022-03-11 |  |

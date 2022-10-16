@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 284573,
       "name": "Album 3",
       "url": "https://open.spotify.com/track/7wpKTYDOT1goHKXXHT6fi7"
@@ -577,6 +577,24 @@
       "duration_ms": 1234285,
       "name": "Atmos B1",
       "url": "https://open.spotify.com/track/0JBHEdCJlgN41CPVHfrVq8"
+    },
+    {
+      "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
     },
     {
       "album": {
@@ -3298,6 +3316,24 @@
     },
     {
       "album": {
+        "name": "Proof of My Existence",
+        "url": "https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144754,
+      "name": "Proof of My Existence",
+      "url": "https://open.spotify.com/track/7DOzFtfWtleNT2nXfxrkJM"
+    },
+    {
+      "album": {
         "name": "Underworlds",
         "url": "https://open.spotify.com/album/4HODRQX7N0krTEO5XHdyv6"
       },
@@ -3393,7 +3429,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 546986,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/6555TzyEWY0FMiR8QKKXIg"

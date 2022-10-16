@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: emlyn Artwork: Paola Saliby
 
-2,596 songs - 5 day 12 hr 45 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
+2,598 songs - 5 day 12 hr 52 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,7 +1072,8 @@
 | [Hush Little Baby](https://open.spotify.com/track/1sFNKEPNYHzkTO63cQgGdv) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Hush Little Baby](https://open.spotify.com/album/1NGIXygorffIaEpPpFwpgm) | 3:19 | 2022-02-16 | 2022-03-24 |
 | [Hustler](https://open.spotify.com/track/4FgYhPrYnway3uw5GpGTYr) | [Maryon](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Hustler](https://open.spotify.com/album/6LlfqXtWB78GPhN2jcJWsJ) | 3:08 | 2021-01-28 | 2021-02-25 |
 | [i always end up leaving.](https://open.spotify.com/track/1tgvVVE8hIryQzTVnPZUdF) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [i always end up leaving.](https://open.spotify.com/album/7x4BQ0AQcuN92NGnz6EZih) | 3:55 | 2022-04-13 | 2022-05-12 |
-| [I Am Running](https://open.spotify.com/track/18aClaeCzkxIUiB82eM5jo) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [I Am Running](https://open.spotify.com/album/2zSGPMJbVh6jwk1uGfMCpq) | 4:13 | 2022-08-31 |  |
+| [I Am Running](https://open.spotify.com/track/18aClaeCzkxIUiB82eM5jo) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [I Am Running](https://open.spotify.com/album/2zSGPMJbVh6jwk1uGfMCpq) | 4:13 | 2022-08-31 | 2022-10-16 |
+| [I Am Running](https://open.spotify.com/track/3dQ4AMZovYTKMUeOWW0YYt) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [I Am Running](https://open.spotify.com/album/3NdJX8xgOlX7xqjUFLJIyB) | 4:13 | 2022-09-29 |  |
 | [I Am Sin](https://open.spotify.com/track/2eVGcdvIl5Yb4uZWk7cZxI) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [I Am Sin](https://open.spotify.com/album/3jsrBcKlU57p5WDXokbAik) | 3:11 | 2022-02-02 | 2022-03-10 |
 | [I Am the Ex Now](https://open.spotify.com/track/1zpBuqtL76qHuL2QXrDWzr) | [Eva\-Lina](https://open.spotify.com/artist/0ePXbONsKh1tpW94XVty4c) | [I Am the Ex Now](https://open.spotify.com/album/1nYxZVeyhbLZeOygeVsihd) | 3:28 | 2021-04-08 | 2021-05-27 |
 | [I Am the Night](https://open.spotify.com/track/5meGOz3UwmtUw8CTM19Cpu) | [Citrîne](https://open.spotify.com/artist/6e9uuQOvPNMR1G6P2nuYmn) | [I Am the Night](https://open.spotify.com/album/7HgpFXVgwjSEjIrSj8eoTj) | 3:08 | 2020-12-03 | 2020-12-08 |
@@ -1187,7 +1188,8 @@
 | [In the Heat of the Night](https://open.spotify.com/track/7zeP5CIm2vKN80c5j7HLRC) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [In the Heat of the Night](https://open.spotify.com/album/3v5uZBD60Ep9Bcb6POcOIA) | 3:46 | 2021-05-06 | 2021-05-27 |
 | [In Transit](https://open.spotify.com/track/7IM9hzh73oWsdzKNtBlGCF) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [In Transit](https://open.spotify.com/album/0oZkjzMeq5x1WibHDv4hIy) | 2:47 | 2021-09-16 | 2021-10-28 |
 | [In Trouble](https://open.spotify.com/track/1RvHOq7Q4javg6goDpWMLo) | [Satya](https://open.spotify.com/artist/3AuLKYl8ryJkeclCUJDniJ) | [In Trouble](https://open.spotify.com/album/7rt5MWe5ybBqdOyRXhcExx) | 3:37 | 2021-01-21 | 2021-01-28 |
-| [Ink](https://open.spotify.com/track/0tX3xC5f7NtGheX83Lh6Fr) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Ink](https://open.spotify.com/album/7l2emmevUiiLZYNAenTigJ) | 2:42 | 2022-09-21 |  |
+| [Ink](https://open.spotify.com/track/0tX3xC5f7NtGheX83Lh6Fr) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Ink](https://open.spotify.com/album/7l2emmevUiiLZYNAenTigJ) | 2:42 | 2022-09-21 | 2022-10-16 |
+| [Ink](https://open.spotify.com/track/5q4zy9rsq4DQhG2yTgIP65) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Ink](https://open.spotify.com/album/7IIZFjC0AAVrimW8q8iyUK) | 2:42 | 2022-09-29 |  |
 | [Inmyhead](https://open.spotify.com/track/5ntJCvGZvpQkErJokU4o1u) | [Shadowthekiddd](https://open.spotify.com/artist/4yUeXyp8L8mZilO11Q3567) | [Inmyhead](https://open.spotify.com/album/4W1j4Q6S25vpJwtTc2T5Wo) | 2:23 | 2022-04-06 | 2022-04-28 |
 | [Innerbloom](https://open.spotify.com/track/4Bbc2s8QbFqs0yVX2NYS2h) | [Charly Jordan](https://open.spotify.com/artist/56uvfLPkO79ftiwRlb4KDT), [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Innerbloom](https://open.spotify.com/album/3MxayD7gSRSUHqmeV1QBbb) | 2:31 | 2022-02-02 | 2022-03-03 |
 | [Innocent \(Dreaming\)](https://open.spotify.com/track/1JaNzWg4ez7WBC89YhOcUs) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Moments](https://open.spotify.com/album/4QEND2DlPX1E5HAuGC8uFy) | 3:15 | 2022-01-12 | 2022-02-24 |

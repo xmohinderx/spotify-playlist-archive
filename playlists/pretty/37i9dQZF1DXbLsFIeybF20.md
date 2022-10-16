@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,134 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,151 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 10 | [I Feel Like Funkin' It Up \- Extended Mix](https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Do Watcha Wanna](https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi) | 5:35 |
 | 11 | [Once In A While](https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c) | [Norbert Susemihl](https://open.spotify.com/artist/1UkYB1n44YzBCtMaKde48Y), [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6), [Erika Lewis](https://open.spotify.com/artist/58WQdrfsIZV2HwaGkN1Pfr), [Shaye Cohn](https://open.spotify.com/artist/7HhwosbJ4EqUV4AzQXVUxB) | [Night on Frenchmen Street](https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M) | 4:31 |
 | 12 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 |
-| 13 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
-| 14 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
+| 13 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
+| 14 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 15 | [Drop Me Off In New Orleans](https://open.spotify.com/track/5PPG6S0didC96fCXpwtIDY) | [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [Live At Vaughan's](https://open.spotify.com/album/4nEP1HypmT4fY2QidPM4kt) | 4:18 |
 | 16 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
 | 17 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [Rosetta](https://open.spotify.com/track/1F6G1ewad31utaep702loo) | [Willie Humphrey](https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT), [Brian O'Connell](https://open.spotify.com/artist/5wt1TGwGYlTiTMs7MiIZ9u), [Les Muscutt](https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7), [Frank Fields](https://open.spotify.com/artist/1SJJ0uLObOdsO8AKkWqBrW), [Ernie Elly](https://open.spotify.com/artist/55C95qwaJr1WvCRkFriDQ7) | [Two Clarinets on the Porch](https://open.spotify.com/album/5JCa8sHMS5xgVNrXaMRVTE) | 3:50 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGQ5ZDMxODRiMjNlYjdhNWE2ZWU1YmI2ZDJlMWVhYmM4`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGMxZDk5ODA4MzU3N2JkNTVhNzdjN2FhMTU0ZTBjYWJh`

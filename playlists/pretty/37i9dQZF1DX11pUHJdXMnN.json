@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 51842,
+  "num_followers": 51873,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDc1NjIwZTJkYTI1ZmYzZWYxMDA0Zjk3M2UxM2NlMDg4",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDA2YTA1MDU5M2QyOTU0NWJlOThjYTM3NmU4NDNmM2Fk",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -243,6 +243,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Mexico (Punctual Remix)",
         "url": "https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 512431,
       "name": "Mexico (Punctual Remix)",
       "url": "https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -459,6 +459,30 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Deleter Remixed",
+        "url": "https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        },
+        {
+          "name": "Angus Andrew",
+          "url": "https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu"
+        },
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        }
+      ],
+      "duration_ms": 255858,
+      "name": "Deleters - Palms Trax Remix",
+      "url": "https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Queen of Hearts",
         "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
       },
@@ -511,22 +535,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Hymnotic",
-        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
-      },
-      "artists": [
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 262677,
-      "name": "Hymnotic",
-      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Net Loss",
         "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
       },
@@ -539,6 +547,22 @@
       "duration_ms": 376271,
       "name": "Listen to the Band - Club Mix",
       "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Hymnotic",
+        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
+      },
+      "artists": [
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 262677,
+      "name": "Hymnotic",
+      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -623,30 +647,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Deleter Remixed",
-        "url": "https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT"
-      },
-      "artists": [
-        {
-          "name": "Holy Fuck",
-          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
-        },
-        {
-          "name": "Angus Andrew",
-          "url": "https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu"
-        },
-        {
-          "name": "Palms Trax",
-          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
-        }
-      ],
-      "duration_ms": 255858,
-      "name": "Deleters - Palms Trax Remix",
-      "url": "https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "duration_ms": 339391,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Eyes Wide Strut (feat. Wooze) [Tunnelvisions Remix]",
         "url": "https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 350000,
       "name": "Eyes Wide Strut (feat. Wooze) - Tunnelvisions Remix",
       "url": "https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 339391,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",

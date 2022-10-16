@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-283 songs - 1 day 1 hr 29 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
+284 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [Reverie](https://open.spotify.com/track/3ARN8HfMVk3Fe3iWk2Ftyc) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 4:45 | 2021-02-26 | 2022-04-20 |
 | [Roses](https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 1:48 | 2020-11-24 | 2022-07-22 |
 | [Roygbiv](https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Roygbiv](https://open.spotify.com/album/2l1FDimk3Ps9g404lYOsjr) | 5:08 | 2021-03-26 | 2022-07-29 |
-| [Running](https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 4:11 | 2022-10-01 |  |
+| [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 | 2022-10-16 |  |
+| [Running](https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 4:11 | 2022-10-01 | 2022-10-16 |
 | [Runway](https://open.spotify.com/track/6eJPI4fL21Jyxqgzb2dlZT) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [The Neon Demon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4X22NcUe9j90y0IQsbFV24) | 4:30 | 2020-07-07\* | 2022-04-21 |
 | [S.T.A.Y.](https://open.spotify.com/track/1ElqGqBU7f4s7ulpAjIlcO) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Deluxe Version\]](https://open.spotify.com/album/3eF9Cy1803Msb9Ney0rfqW) | 6:23 | 2020-07-07\* | 2022-04-17 |
 | [S.T.A.Y.](https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 6:23 | 2021-10-20 |  |

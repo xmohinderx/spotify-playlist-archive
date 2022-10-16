@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,145 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,251 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 51 | [Todas as Cidades](https://open.spotify.com/track/2XQQNpvvGwIVWei7Deg9o9) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Todas as Cidades](https://open.spotify.com/album/12zQoI9qCsnBo6t9Qe176A) | 2:15 |
 | 52 | [Lua](https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Lua](https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd) | 2:44 |
 | 53 | [Mais um Som de Amor](https://open.spotify.com/track/1LUXuBHT3gaB6KiPxCdN8h) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [Mais um Som de Amor](https://open.spotify.com/album/4PPjHHz5ISLG7lhLiF4Orn) | 3:34 |
-| 54 | [Saudade](https://open.spotify.com/track/141aDylSO3dyhM4hQerg9K) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/4hTkQ4OLY6Wm67OWJS4242) | 3:17 |
+| 54 | [Saudade](https://open.spotify.com/track/1YDs0mBrM5hNruhCrF0fbE) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/1XVjWWFBWVvoAbneaETMDC) | 3:17 |
 | 55 | [Não Quero Mais Nada](https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Lívia Neves](https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk) | [Não Quero Mais Nada](https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy) | 3:33 |
 | 56 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |
 | 57 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 64 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 |
 | 65 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 
-Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMDI5Yjk3ZTY5YWE4ZDYzNGIzZjEzNWYzYmY0ZDc5Y2I3`
+Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMDRhMzhiMmIzNjk0Nzk5YTk2YzU2MDE5ODg1ZGQ0MGYy`

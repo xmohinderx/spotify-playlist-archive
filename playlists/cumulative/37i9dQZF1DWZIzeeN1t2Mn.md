@@ -4,7 +4,7 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-67 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
+68 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Like Really](https://open.spotify.com/track/1rxbz8vhGvydIbOWkh60gw) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [The Iceberg](https://open.spotify.com/album/2dEkjiUBO6Z2aeolcJ7sCy) | 3:44 | 2020-06-17 |  |
 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 | 2020-06-17 |  |
 | [Love Yourz](https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 3:31 | 2020-06-17 | 2022-07-29 |
-| [Many Moods: Good Man](https://open.spotify.com/track/7E723jms0rFtzUY2GCvEoW) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Good Man](https://open.spotify.com/album/3vfLlKACFs1zToGhRv72MR) | 2:42 | 2020-06-17 |  |
+| [Many Moods: Good Man](https://open.spotify.com/track/3KkiwkUfufrHKUL15ybQU6) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Good Man](https://open.spotify.com/album/0sh5x6isyUDAMfVvmz7SIs) | 2:42 | 2020-06-17 |  |
+| [Many Moods: Good Man](https://open.spotify.com/track/7E723jms0rFtzUY2GCvEoW) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Good Man](https://open.spotify.com/album/3vfLlKACFs1zToGhRv72MR) | 2:42 | 2020-06-17 | 2022-10-16 |
 | [Many Moods: Manifesto](https://open.spotify.com/track/1aUI6hBGedCFz3240pPS3i) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Manifesto](https://open.spotify.com/album/4v9Td6fjmFAmZj1KCSPu0j) | 2:10 | 2020-06-17 |  |
 | [Many Moods: Manifesto](https://open.spotify.com/track/3UQpP2Xi4ojN1CgBO8kE2D) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Manifesto](https://open.spotify.com/album/26mDw87Q0eRxeSFmNKcf4F) | 2:10 | 2020-06-17 | 2022-10-15 |
 | [New Legends](https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/0GPmI4EBn4BrmjlyQordOu) | 4:16 | 2020-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,547 likes - 92 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,585 likes - 92 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 66 | [Can't Buy Groove](https://open.spotify.com/track/2AHtozTlrSktpu5CiWUpFf) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Can't Buy Groove](https://open.spotify.com/album/1NgLnJ3z4gu093e180StsA) | 2:54 |
 | 67 | [Rock Steady \- Zigaboo Version \- Remastered](https://open.spotify.com/track/6W8053NfZcRCSO2EAnDF3b) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Kenya Hathaway](https://open.spotify.com/artist/3OOcpvOBvRu9XAb7YvasHB), [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Zigaboo Modeliste](https://open.spotify.com/artist/0nWyZCX1qLoZzRGC9ZmuaV) | [Rock Steady](https://open.spotify.com/album/4Tg10fXYYEuHtgFaDXSwPn) | 4:34 |
 | 68 | [Less Is More](https://open.spotify.com/track/4jiEXf9FQjVIMpM92iD9oe) | [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Less Is More](https://open.spotify.com/album/7t28sA9KwVGxOBRwUQHBuv) | 4:16 |
-| 69 | [He Said / She Said](https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd) | 4:01 |
+| 69 | [He Said / She Said](https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/1uTAS2OGXRBxLPT382dWTA) | 4:01 |
 | 70 | [Yes We Can Can](https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:42 |
 | 71 | [Don't Give a Damn \(feat\. John McCallum\)](https://open.spotify.com/track/48d8lgSahjvXsfPc3dVXCo) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [John McCallum](https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4) | [Stand Up For Love](https://open.spotify.com/album/0B95klwEoReHDRfMYqQEi1) | 3:44 |
 | 72 | [Cosmic Day \- 2020 Remaster](https://open.spotify.com/track/5C0ntapk5jYYNBYkRiUWBB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe Edition\)](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1) | 5:39 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 91 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 | 92 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGZjMTFjZWRkZmI4OTU2ZGE4ZjM4M2JhZGVkNGJlY2Rh`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDRiMzA0ZTZhNzg5ZjZjMjc1OGEwMWZjMDI5MjU2MTE1`

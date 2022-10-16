@@ -4,7 +4,7 @@
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=6wgTaCM3Qde3b2sNrIjAMw"> Elaine </a>
 
-163 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
+164 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Red Wine](https://open.spotify.com/track/3apid5UMNNRrjjtmVW1zFA) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Red Wine](https://open.spotify.com/album/10HjmKJgNyzSuJ8SzRLjJ7) | 3:15 | 2022-03-08 | 2022-04-06 |
 | [Remember](https://open.spotify.com/track/2I8ShBtMUKGgjZjgoV8ell) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Remember](https://open.spotify.com/album/4k4s2vqYvuj1u2DWyCvvK3) | 3:32 | 2021-10-15 | 2022-02-02 |
 | [Rhumba ya Ssaru](https://open.spotify.com/track/6rdEgH6RPceO6Un2g6KI4t) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Charisma](https://open.spotify.com/artist/0bmDQoiUYjXRUQGVG2nDku) | [Rhumba ya Ssaru](https://open.spotify.com/album/7MCDnJJMgyo5Ha6YzFcFCO) | 2:50 | 2021-10-15 | 2022-02-02 |
-| [Riding](https://open.spotify.com/track/7FxcpthjDIN32mT0WEfkz5) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Riding](https://open.spotify.com/album/502rAa5hIKBSQBEzzgu658) | 2:52 | 2022-08-02 |  |
+| [Riding](https://open.spotify.com/track/3NqchOGZAB9RDjc3N1EdkN) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Riding](https://open.spotify.com/album/3liXmOYb93PKdvxX1P7FbP) | 2:52 | 2022-08-02 |  |
+| [Riding](https://open.spotify.com/track/7FxcpthjDIN32mT0WEfkz5) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Riding](https://open.spotify.com/album/502rAa5hIKBSQBEzzgu658) | 2:52 | 2022-08-02 | 2022-10-16 |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2021-10-15 |  |
 | [Rolling Loud](https://open.spotify.com/track/6ySKC2g5tI9PE26OrUs3XN) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Rolling Loud](https://open.spotify.com/album/4CLuWbSzme2RhzTCZuPL8t) | 2:32 | 2022-09-07 |  |
 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 | 2022-05-04 |  |

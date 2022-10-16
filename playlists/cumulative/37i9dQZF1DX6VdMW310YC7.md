@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,349 songs - 3 day 21 hr 36 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,350 songs - 3 day 21 hr 39 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Morning In Deira \(ABGT484\)](https://open.spotify.com/track/3mhe755WczChPz4fhnt3iT) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Group Therapy Reflections Special](https://open.spotify.com/album/2NOoDMf0SjvoPSGTgy87fd) | 5:36 | 2022-05-27 | 2022-06-29 |
 | [Morning Thoughts](https://open.spotify.com/track/5M7vcTOiey8zTQyK6gN6iu) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Renew](https://open.spotify.com/album/5syV7dOzDfxdbc1hzDqnZw) | 4:02 | 2021-04-26 | 2022-07-29 |
 | [Morphine](https://open.spotify.com/track/7lNaZzqOAoV539OLvWA8Em) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Morphine](https://open.spotify.com/album/4pOcHVitfkqEBXaubfIdxj) | 3:55 | 2020-05-22 | 2020-07-03 |
+| [Motion](https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O) | 3:07 | 2022-09-09 |  |
 | [Motion](https://open.spotify.com/track/7GRfEf5BG1OCSMpeVotldQ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU) | 3:07 | 2021-10-15 | 2022-10-13 |
 | [Moundé](https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Moundé](https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q) | 3:14 | 2022-07-01 | 2022-07-25 |
 | [Moving With U](https://open.spotify.com/track/3szcc1UdqwvNwYtgIjbBL3) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Together Till It Ends](https://open.spotify.com/album/3ZOid0jVCuVe9w4K8iLM6H) | 3:44 | 2022-01-21 | 2022-02-12 |
@@ -1187,7 +1188,7 @@
 | [The Pace](https://open.spotify.com/track/5KdnkKcfkKMTY3QxUyihQP) | [MYNGA](https://open.spotify.com/artist/08U9qk0KByTwtgdfKr7195), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [The Pace](https://open.spotify.com/album/0hxCQwXIVM8NSy49UWfBhK) | 4:30 | 2020-03-16 | 2021-12-21 |
 | [The Rapture Pt.II](https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 8:32 | 2020-03-16 | 2020-07-18 |
 | [The Rest of My Days](https://open.spotify.com/track/4ABiRDaBGg0hHeAWeAEcNq) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [The Rest of My Days](https://open.spotify.com/album/3mW3G4u6bGp4TMRLzhHjFW) | 3:13 | 2020-07-18 | 2020-10-09 |
-| [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 |  |
+| [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-10-16 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |

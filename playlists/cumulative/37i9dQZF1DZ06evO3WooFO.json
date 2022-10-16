@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "album": {
         "name": "Neighborhoods (Deluxe)",
         "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
       },
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 209813,
       "name": "Remember To Forget Me",
       "url": "https://open.spotify.com/track/30zjD8uAoLLckluGf0PNV6"
@@ -929,6 +947,24 @@
       "duration_ms": 161135,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/5TxY7O9lFJJrd22FmboAXe"
+    },
+    {
+      "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/4VwvwlbNZavsDkRdIKFGBi"
     },
     {
       "album": {

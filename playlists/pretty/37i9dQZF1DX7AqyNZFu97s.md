@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Divorce
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,890 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,993 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 74 | [Ego](https://open.spotify.com/track/3v6KOnLYUb4C6gHPUt3XFd) | [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Ego](https://open.spotify.com/album/5MrhbbYxoGMMBTrV3ffW4q) | 3:35 |
 | 75 | [Treasure](https://open.spotify.com/track/3z3JSrFclGRsHGIfCAMYts) | [TheProfessR](https://open.spotify.com/artist/21uvybQqOmO2Jif8Vfzct8) | [Treasure](https://open.spotify.com/album/7iRJXmnwUZPGlrtWxTb3PN) | 3:55 |
 | 76 | [Act Right](https://open.spotify.com/track/0SjrBMybJh2eHL8vwn4G3P) | [Layfullstop](https://open.spotify.com/artist/44KO1So8LqWGobs7xNCqe9) | [Act Right](https://open.spotify.com/album/513wQ9pFAbWceMbLZ2Lc1x) | 2:44 |
-| 77 | [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 |
+| 77 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 |
 | 78 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
 | 79 | [go try](https://open.spotify.com/track/12qBV7gzIJ9QVWiAdO5MDY) | [petal boy](https://open.spotify.com/artist/0ZPEyvYITWMAedn4Wtx0mr) | [go try](https://open.spotify.com/album/5aiFK7YdNdJrY2v2qahmBz) | 2:20 |
 | 80 | [Time](https://open.spotify.com/track/6pgVOGVTieiaFKjwm21sj7) | [The Redroom](https://open.spotify.com/artist/4qZOiL7Zg2SqD2zLxU6nDr) | [Time](https://open.spotify.com/album/3Rt39vK5b06MCI9rGS4DjO) | 3:28 |
 
-Snapshot ID: `MTY2NTU1NDQwMCwwMDAwMDAwMDE3N2NmYzM4OTczZTE0OWY4OWIwNjY1NzNmNGJhZWEz`
+Snapshot ID: `MTY2NTU1NDQwMCwwMDAwMDAwMDc3YjFkZDFhZDIxZmY4ODMyNzA4MzdmY2IzNzBlNTRl`

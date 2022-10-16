@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Dj Alex & La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,350 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,511 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 58 | [Hasta la luna](https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [\#Tocoparavos](https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D) | 2:29 |
 | 59 | [Todo a la Vez](https://open.spotify.com/track/2tuKnCgbscxmebC7vN9X1i) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo a la Vez](https://open.spotify.com/album/6e724GNtDwcjqCXzbeBlL9) | 2:39 |
 | 60 | [Me Voy](https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Voy](https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN) | 2:57 |
-| 61 | [No hay más nada](https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Cuestión de tiempo](https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw) | 3:54 |
-| 62 | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x) | 3:12 |
+| 61 | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x) | 3:12 |
+| 62 | [No hay más nada](https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Cuestión de tiempo](https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw) | 3:54 |
 | 63 | [La Noche No Es para Dormir](https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 3:19 |
 | 64 | [Se Picó](https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Se Picó](https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN) | 2:19 |
 | 65 | [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 75 | [El Equivocado](https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 2:44 |
 | 76 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 |
 | 77 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 |
-| 78 | [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 |
-| 79 | [Bésame \- Remix](https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Bésame \(Remix\)](https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX) | 3:09 |
-| 80 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 |
-| 81 | [Todavia Me Amas / La Novelita / Los Infieles](https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Todavia Me Amas / La Novelita / Los Infieles](https://open.spotify.com/album/7H121ttrb3Hz1D34G2KJW0) | 4:23 |
+| 78 | [Bésame \- Remix](https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Bésame \(Remix\)](https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX) | 3:09 |
+| 79 | [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 |
+| 80 | [Todavia Me Amas / La Novelita / Los Infieles](https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Todavia Me Amas / La Novelita / Los Infieles](https://open.spotify.com/album/7H121ttrb3Hz1D34G2KJW0) | 4:23 |
+| 81 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 |
 | 82 | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm) | 6:02 |
 | 83 | [Que Lloro](https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp) | [Zona Cumbia](https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ) | [Que Lloro](https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq) | 3:20 |
 | 84 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [Canción para una Amiga](https://open.spotify.com/track/1VTg97n1ntojItZCkm9KEO) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Canción para una Amiga](https://open.spotify.com/album/57hV017eOcP3SjmsZCyl46) | 2:12 |
 | 100 | [Donde Estas](https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg) | 2:34 |
 
-Snapshot ID: `MTY2NTc1MzUyNCwwMDAwMDAwMGEzMTc5YzkyYjM1ZDQ3OWY2ODc0MTU0N2VmZTA1MTYy`
+Snapshot ID: `MTY2NTc1MzUyNCwwMDAwMDAwMGIwMGRmNGE2YzJhNmY1NDBjM2M1MTcyNzQ1OGUwZmJi`

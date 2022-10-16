@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-588 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+589 songs - 1 day 8 hr 42 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-29 | 2022-06-23 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-02-08 | 2022-06-01 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-13 |  |
+| [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-15 |  |
 | [Mkrna](https://open.spotify.com/track/3a9d0oCl1i1mcdbtvyTVun) | [ZALEYKO](https://open.spotify.com/artist/4kbM1M865DS7kBHe1J11yQ), [Alexis Rostro](https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE), [Eve Crm](https://open.spotify.com/artist/50xOjgsrHAIHTNvncJW1GI), [Yulissa Mendoza Mx](https://open.spotify.com/artist/0AnLukcIL5LPlpeqfTFZIr), [Dj Teack](https://open.spotify.com/artist/5ncZY0JMBZdQH7liaQpa5i) | [Mkrna](https://open.spotify.com/album/2uJDqEVVBTT2aWbYhwgJAg) | 3:38 | 2022-10-04 | 2022-10-07 |
 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-07-19 | 2022-08-03 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-02-08 | 2022-04-13 |
@@ -522,7 +523,7 @@
 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-10-02 |  |
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-08-22 | 2022-09-18 |
 | [Tirando Flow Sesh \#5](https://open.spotify.com/track/3hUzo223UXPJfO2T5oFpfh) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [Tirando Flow Sesh \#5](https://open.spotify.com/album/0BXoU3t2NxldnHZm789lex) | 2:35 | 2022-08-30 | 2022-09-20 |
-| [Tirando Flow Sesh \#7](https://open.spotify.com/track/052ze6DUJVMprR3MJzMORd) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Tirando Flow Sesh \#7](https://open.spotify.com/album/0Tt2Sl9fPDfjiOX5By56ev) | 2:42 | 2022-10-04 |  |
+| [Tirando Flow Sesh \#7](https://open.spotify.com/track/052ze6DUJVMprR3MJzMORd) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Tirando Flow Sesh \#7](https://open.spotify.com/album/0Tt2Sl9fPDfjiOX5By56ev) | 2:42 | 2022-10-04 | 2022-10-16 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-31 | 2022-09-15 |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-02-08 | 2022-02-23 |
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2022-03-01 | 2022-03-24 |

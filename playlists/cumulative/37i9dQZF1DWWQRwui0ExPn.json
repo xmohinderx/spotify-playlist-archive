@@ -784,7 +784,7 @@
     },
     {
       "album": {
-        "name": "A Klinvort Orange",
+        "name": "A Klinkvort Orange",
         "url": "https://open.spotify.com/album/68c3mD1Fb58T0gNBZs8qiN"
       },
       "artists": [
@@ -19061,10 +19061,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 85434,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/50lIpk2S4VQI1SrO4Z4cHc"
+    },
+    {
+      "album": {
+        "name": "Till the Sun Comes Up",
+        "url": "https://open.spotify.com/album/0pienniFn3oZcgJoSD7eRF"
+      },
+      "artists": [
+        {
+          "name": "Sepalot",
+          "url": "https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85434,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/5Hkq9fpD3rBJ06Ua9BeBDV"
     },
     {
       "album": {

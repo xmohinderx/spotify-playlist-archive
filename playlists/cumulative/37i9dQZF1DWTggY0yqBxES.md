@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kenny Mason
 
-274 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+275 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Running With The Angels](https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2) | [Running With The Angels](https://open.spotify.com/album/6Fjjj82WDhGnR287L6lHVi) | 2:20 | 2022-04-01 | 2022-04-15 |
 | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/track/1CsLmXktvD3Cj04dPCtJNI) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/album/0msGRJHLXl4KB7GXJiKZSx) | 4:23 | 2021-09-03 | 2022-07-30 |
 | [signs](https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [signs](https://open.spotify.com/album/3gfVDalK5kBVFZGrYNe9NC) | 2:35 | 2022-03-25 | 2022-04-20 |
+| [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 |  |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2022-09-30 |  |
 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 | 2022-10-07 |  |
 | [Slippin'](https://open.spotify.com/track/5ZrpcWtKwWVAsoGFpRLOcF) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [Slippin'](https://open.spotify.com/album/5r9zWpPnsiEcvJsxBYwFsP) | 2:44 | 2022-09-16 | 2022-10-01 |
@@ -279,7 +280,7 @@
 | [YEET \(feat\. Yeat\)](https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [YEET \(feat\. Yeat\)](https://open.spotify.com/album/7eOU7fB1ah7qgyX0LQDEG0) | 2:37 | 2022-01-28 | 2022-02-05 |
 | [Youtube2MP3](https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Youtube2MP3](https://open.spotify.com/album/1BCUWBszISTyrWaR2T0pPi) | 3:56 | 2021-09-03 | 2022-07-20 |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-07-21 |
-| [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 | 2022-05-06 |  |
+| [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 | 2022-05-06 | 2022-10-16 |
 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-15 | 2022-10-08 |
 | [ZOOMIES](https://open.spotify.com/track/5p9OLo1ChBbfNR840Ci6gj) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [RUFFS](https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh) | 1:57 | 2022-09-30 |  |
 

@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-215 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
+216 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Keep Shimmering](https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV) | 4:23 | 2021-11-24 | 2022-09-06 |
 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2021-11-24 |  |
 | [Laamore](https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg) | 4:40 | 2021-11-24 | 2022-07-23 |
+| [Late Nights](https://open.spotify.com/track/0ZcjG6n7IPu57gd64fPU5H) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Late Nights](https://open.spotify.com/album/2mx1bRvFZZUW6ifNmAsZx4) | 2:58 | 2022-09-05 |  |
 | [Leaves Against The Sky](https://open.spotify.com/track/0ZVzN7tnseNSxtnAhTNK39) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:38 | 2021-11-24 | 2022-06-22 |
 | [Leko \- Session Victim Remix](https://open.spotify.com/track/18nGprzEucUO4FF768lLhe) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Leko Remixes](https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09) | 5:25 | 2021-11-24 | 2022-07-27 |
 | [Let’s Sing Let’s Dance](https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Let’s Sing Let’s Dance](https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG) | 3:50 | 2021-11-24 | 2022-07-24 |
@@ -175,7 +176,7 @@
 | [Settle Down \- Mixed](https://open.spotify.com/track/3Eeh7y2avP7wwLtyhljcU2) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [fabric presents Maribou State \(DJ Mix\)](https://open.spotify.com/album/132x7s5otIdXjWqQqA0S4O) | 2:24 | 2021-11-24 | 2022-07-25 |
 | [She Loves Me](https://open.spotify.com/track/2eiXRfxpCBSr4zz2qArd1z) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:08 | 2021-11-24 | 2022-07-29 |
 | [Sheltered](https://open.spotify.com/track/2CL8PXyzCpDV07SozN67Ay) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq) | [Year Of The Living Dead](https://open.spotify.com/album/0jwjHNhMdj3V6fOvx36ozD) | 4:58 | 2021-11-24 | 2022-05-18 |
-| [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-11-24 |  |
+| [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-11-24 | 2022-10-16 |
 | [Skara](https://open.spotify.com/track/6qJT8WedIJSWoUWry7CQCS) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Skara](https://open.spotify.com/album/6t5gX1r7bbxoAz0Agb3jEy) | 6:10 | 2021-11-24 | 2022-07-29 |
 | [Smile For A While](https://open.spotify.com/track/1uqOM1hQkfntTy2Wrl6qfi) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Smile For A While](https://open.spotify.com/album/0WvLDQt1RHFfO0ftQr0Phm) | 6:43 | 2022-04-21 | 2022-05-09 |
 | [So Sorry](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [So Sorry](https://open.spotify.com/album/6Gh16B4dzfS0mqlxKTkyVz) | 3:51 | 2022-04-21 | 2022-06-20 |

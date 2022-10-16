@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: TIBASKO
 
-142 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
+143 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [North Star](https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [060](https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA) | 6:43 | 2022-10-13 |  |
 | [Not That Girl Anymore](https://open.spotify.com/track/5OkODjxGxTkn6KVhDYZ8Zl) | [Beyond Ü](https://open.spotify.com/artist/4OkP7Wq8IUGr1FvwVsQ3dm) | [Not That Girl Anymore](https://open.spotify.com/album/6ca0yKkyrn5cN6vi3vbjoV) | 4:16 | 2022-08-05 |  |
 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 | 2022-04-15 |  |
-| [Now Is](https://open.spotify.com/track/0bMyeYH8xLWRRUO8iA6XSp) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/2aY0VjB49Ko4xfyCIZvpGT) | 6:31 | 2022-08-05 |  |
+| [Now Is](https://open.spotify.com/track/0bMyeYH8xLWRRUO8iA6XSp) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/2aY0VjB49Ko4xfyCIZvpGT) | 6:31 | 2022-08-05 | 2022-10-16 |
+| [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 | 2022-10-13 |  |
 | [One Nation \- Amelie Lens Remix](https://open.spotify.com/track/6Cj1pP80GBY8UOn8hsCA2D) | [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Re:Generate](https://open.spotify.com/album/1PRF1vYTbZmZyZKnJ7yEZ4) | 5:19 | 2022-04-15 | 2022-10-14 |
 | [OneZeroFive](https://open.spotify.com/track/1Bz2tMa5sDHPv8WRuv70YG) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [OneZeroFive](https://open.spotify.com/album/4NiW1m0wO7YA2XeXB5NdNw) | 4:23 | 2022-07-29 |  |
 | [Osiris \- Original Mix](https://open.spotify.com/track/32bbYyIM5pEBIMEXgYcTrh) | [Sam Kitt](https://open.spotify.com/artist/4nZj2Iwb9yJSocd8OlpKBo) | [Osiris / Horus \(Original Mix\)](https://open.spotify.com/album/3lJzfj9dtOEDcOBdiffQ8r) | 7:34 | 2022-04-15 | 2022-05-27 |

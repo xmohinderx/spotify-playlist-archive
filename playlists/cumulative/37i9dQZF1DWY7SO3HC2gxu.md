@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-59 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/450gAMxXNrHrJlyvpSxLfT)
+60 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/450gAMxXNrHrJlyvpSxLfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Kivuna](https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs) | [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Kivuna](https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI) | 7:43 | 2022-08-19 |  |
 | [Last Modular](https://open.spotify.com/track/5O9Vh2gpZttbPjhC3Y8qyH) | [Afrorack](https://open.spotify.com/artist/3pKiRvMjWOAkLWLeNq0XPU) | [The Afrorack](https://open.spotify.com/album/4ZpfDwkIXqBWT0B1aZBdtA) | 5:31 | 2022-08-01 |  |
 | [Let You Go](https://open.spotify.com/track/40Gm65yAOslqngyo6D5zx2) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Let You Go](https://open.spotify.com/album/0T994555ifp7stu6IRkqlW) | 3:09 | 2022-08-01 |  |
-| [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ) | 8:12 | 2022-08-01 |  |
+| [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/7uV160vuTXhZ1PZr2Oa95l) | 8:12 | 2022-08-01 |  |
+| [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ) | 8:12 | 2022-08-01 | 2022-10-16 |
 | [Mahaba](https://open.spotify.com/track/5Nk6J6i8aA7kno0hhtCMCB) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo) | [Mahaba](https://open.spotify.com/album/2Ok1ptSfkGhzmIavtvY4p4) | 6:47 | 2022-08-01 |  |
 | [MaMirenza](https://open.spotify.com/track/7j2hOS24pyOMXdeOEX26TA) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [MaMirenza](https://open.spotify.com/album/6EhldcthsK2HUqwSZMGm97) | 3:34 | 2022-08-01 |  |
 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 | 2022-08-01 |  |

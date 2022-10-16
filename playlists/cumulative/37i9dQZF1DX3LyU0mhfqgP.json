@@ -2152,7 +2152,7 @@
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 191188,
+      "duration_ms": 190853,
       "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
@@ -3317,6 +3317,24 @@
     {
       "album": {
         "name": "Him, Hymn",
+        "url": "https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244717,
+      "name": "Him, Hymn",
+      "url": "https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z"
+    },
+    {
+      "album": {
+        "name": "Him, Hymn",
         "url": "https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk"
       },
       "artists": [
@@ -3327,7 +3345,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 244717,
       "name": "Him, Hymn",
       "url": "https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa"

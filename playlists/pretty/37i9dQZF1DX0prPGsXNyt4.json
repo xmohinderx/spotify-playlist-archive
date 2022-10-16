@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 35498,
+  "num_followers": 35603,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDJjNzcyOTcwNDdlMTEyZWQyNjEyOTY5MDNmM2U4ZWRk",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDFmZmRmYzI0ZDIwYzA4YWRkOWRiOTZjYjcxNmM0OThi",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "Baby C\u00ea \u00e9 Gata",
+        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 118976,
+      "name": "Baby C\u00ea \u00e9 Gata",
+      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "Na Onda",
         "url": "https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 199384,
       "name": "Na Onda",
       "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "Baby C\u00ea \u00e9 Gata",
-        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 118976,
-      "name": "Baby C\u00ea \u00e9 Gata",
-      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -635,30 +635,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 212018,
-      "name": "Sobre N\u00f3s",
-      "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
         "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 177235,
       "name": "N\u00e3o Era pra Ficar",
       "url": "https://open.spotify.com/track/1nUlMrFnHfRl3oJ4ZMt5Xg"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 212018,
+      "name": "Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
     },
     {
       "added_at": "2022-10-14 03:01:00",

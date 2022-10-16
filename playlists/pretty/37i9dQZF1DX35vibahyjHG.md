@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=6wgTaCM3Qde3b2sNrIjAMw"> Elaine </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,555 likes - 77 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,581 likes - 77 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 63 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 |
 | 64 | [New Couple](https://open.spotify.com/track/6NChxvMJDAVr9Ze4pNQTNv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Taste EP](https://open.spotify.com/album/426BOK5jx01hEploQorAb7) | 2:45 |
 | 65 | [Love Doc](https://open.spotify.com/track/6RnMF1g7s7t8F9ogP8VxJJ) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Love Doc](https://open.spotify.com/album/2ExFWORr6WXAdvmDf0dzGD) | 2:49 |
-| 66 | [Riding](https://open.spotify.com/track/7FxcpthjDIN32mT0WEfkz5) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Riding](https://open.spotify.com/album/502rAa5hIKBSQBEzzgu658) | 2:52 |
+| 66 | [Riding](https://open.spotify.com/track/3NqchOGZAB9RDjc3N1EdkN) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Riding](https://open.spotify.com/album/3liXmOYb93PKdvxX1P7FbP) | 2:52 |
 | 67 | [Temptation](https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Temptation](https://open.spotify.com/album/7lkc6V0wruV3n2VO8nL71D) | 2:46 |
 | 68 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 69 | [Breathing](https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [Breathing](https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2) | 3:01 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 76 | [Kuhle](https://open.spotify.com/track/3zREQOl1i8W37OkMN9ztpN) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Kuhle](https://open.spotify.com/album/6ln73dm4ppPQn2REwrAYRD) | 3:27 |
 | 77 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 |
 
-Snapshot ID: `MTY2NTc2MjY5MywwMDAwMDAwMDY4YTUwMDJmYzkyMjlmMDkwNTRmMWZmNWQzNDRhMDdm`
+Snapshot ID: `MTY2NTc2MjY5MywwMDAwMDAwMGI4NjlhYWMzNDI3ZDI5N2M2MzM3Mjc2ZjZmZDA4YWMx`

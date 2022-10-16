@@ -4,12 +4,13 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp?si=OaM6yA75T9W9SHwjPmxQSg">Major Lazer</a> and <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=rPh8vRjjRX\-Zp4dp7Ol8vQ">Major League Djz</a>
 
-75 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
+76 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/2VDTulRwwLDleluIc1nZ2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3ini](https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [3ini](https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa) | 2:57 | 2022-08-04 |  |
-| [Addicted](https://open.spotify.com/track/6mfSOiU5L5XrTafYETSYZv) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Colours and Sounds](https://open.spotify.com/album/3EBwkrtolowpPRnMwMcOJf) | 4:02 | 2022-05-23 |  |
+| [Addicted](https://open.spotify.com/track/6CdBWqsHqmzYGm8ueYnw5Q) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Colours and Sounds](https://open.spotify.com/album/0zfEOD95v76hvpysiaKNhY) | 4:02 | 2022-05-23 |  |
+| [Addicted](https://open.spotify.com/track/6mfSOiU5L5XrTafYETSYZv) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Colours and Sounds](https://open.spotify.com/album/3EBwkrtolowpPRnMwMcOJf) | 4:02 | 2022-05-23 | 2022-10-16 |
 | [Akulaleki](https://open.spotify.com/track/6IVjF6tfGdFBZr4wXhMRtC) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Akulaleki](https://open.spotify.com/album/0qaAJovAE75Ag87oioC3ie) | 6:21 | 2022-05-23 | 2022-09-16 |
 | [All of This \- Major League Djz x Dlala Mlungu Remix](https://open.spotify.com/track/6WPLujVPQnO6KKiKeM55JD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Dlala Mlungu](https://open.spotify.com/artist/0Z8ueK7EmNvhb6UQpET43Q) | [All of This Remixes, Vol\. 1](https://open.spotify.com/album/2C7i3ULo1L5InPW5uKGyF5) | 5:33 | 2022-05-23 |  |
 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 | 2022-05-23 |  |

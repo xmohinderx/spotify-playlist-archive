@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp?si=OaM6yA75T9W9SHwjPmxQSg">Major Lazer</a> and <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=rPh8vRjjRX\-Zp4dp7Ol8vQ">Major League Djz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,133 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,140 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 10 | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \- Remix](https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i) | [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Preck](https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY), [Nelson Tivane](https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S) | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \[Remix\]](https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi) | 3:34 |
 | 11 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f) | 5:31 |
 | 12 | [SLOW WINE](https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [SLOW WINE](https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT) | 3:43 |
-| 13 | [Addicted](https://open.spotify.com/track/6mfSOiU5L5XrTafYETSYZv) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Colours and Sounds](https://open.spotify.com/album/3EBwkrtolowpPRnMwMcOJf) | 4:02 |
+| 13 | [Addicted](https://open.spotify.com/track/6CdBWqsHqmzYGm8ueYnw5Q) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Colours and Sounds](https://open.spotify.com/album/0zfEOD95v76hvpysiaKNhY) | 4:02 |
 | 14 | [Ziya Khala](https://open.spotify.com/track/2rmAdvW1snyycYiCgSKsrp) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [Ziya Khala](https://open.spotify.com/album/5SJD74L6baR4ROiiVFMVYf) | 5:44 |
 | 15 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
 | 16 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Everything I Wanted \(DJ Maphorisa & Kabza De Small Mix\)](https://open.spotify.com/track/58C02H66DFbJGMlh6wkung) | [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Everything I Wanted \(Amapiano Remixes\)](https://open.spotify.com/album/3B99jZUN7yZaC5EMk3mS09) | 7:39 |
 | 50 | [Be My Luv](https://open.spotify.com/track/6dzK4aJJaO3NBYNVGcuPH7) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Be My Luv](https://open.spotify.com/album/4RDXWNXefxndbzqREBH6IA) | 3:43 |
 
-Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGYyZTRjNGMwZTk3ZmQ2OTQxODNmZmJhNDRhZDVhYzcw`
+Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGYxODY0MWM1NDBiOGU2M2UyMDA0NmRiNDQ1ZTEyMmEw`

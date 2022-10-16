@@ -1,29 +1,13 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 15216,
+  "num_followers": 15253,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDEyNjU1YjRkNDRiYjkxZWUxYWRmYWIyOWM4OWJjOTc0",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGY5MTVmYmFkMmVjY2FmZDE1YTBkY2YyMWMxZDY1YWRl",
   "tracks": [
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Telephone Song",
-      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
-    },
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
       "url": "https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Telephone Song",
+      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Exception To The Rule",
-        "url": "https://open.spotify.com/album/5FxJK4mJFKdK9u9sCJG19b"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "Nasty Habits",
-      "url": "https://open.spotify.com/track/2psM3gc6ZkCyTZdZHzqcmV"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Handful Of Blues",
         "url": "https://open.spotify.com/album/5ENJwOTo3xFZ7vkXg8X4er"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 257959,
       "name": "Chevrolet",
       "url": "https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Exception To The Rule",
+        "url": "https://open.spotify.com/album/5FxJK4mJFKdK9u9sCJG19b"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "Nasty Habits",
+      "url": "https://open.spotify.com/track/2psM3gc6ZkCyTZdZHzqcmV"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -213,22 +213,6 @@
       "url": "https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Funky Bitch",
-      "url": "https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "The Blues Is Alive And Well",
@@ -243,6 +227,22 @@
       "duration_ms": 242600,
       "name": "Whiskey For Sale",
       "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Traveler's Blues",
+        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Funky Bitch",
+      "url": "https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Rockin' The Blues",
-        "url": "https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Grits Ain't Groceries (All Around The World)",
-      "url": "https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "I Wanna Get Funky",
         "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 203066,
       "name": "Playing On Me",
       "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Rockin' The Blues",
+        "url": "https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Grits Ain't Groceries (All Around The World)",
+      "url": "https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -443,34 +443,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 244623,
-      "name": "Same Ole Feeling",
-      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Back To Bogalusa",
-        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Grape Jelly",
-      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -523,6 +507,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 244623,
+      "name": "Same Ole Feeling",
+      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Back To Bogalusa",
+        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Grape Jelly",
+      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 288360,
       "name": "Come To Mama",
       "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -567,22 +567,6 @@
       "duration_ms": 199960,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 228667,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -631,6 +615,22 @@
       "duration_ms": 246360,
       "name": "The Moon Is Full",
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 228667,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Let's Roll",
+        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Lie No Better",
+      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Let's Talk It Over",
         "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 193010,
       "name": "I'm Not Havin' It",
       "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let's Roll",
-        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Lie No Better",
-      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Break on Free",
-        "url": "https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM"
-      },
-      "artists": [
-        {
-          "name": "St. Paul Peterson",
-          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Break on Free",
-      "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Satisfaction Guaranteed",
@@ -847,6 +831,22 @@
       "duration_ms": 243666,
       "name": "A Man's Got To Do What A Man's Got To Do",
       "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Break on Free",
+        "url": "https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Break on Free",
+      "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
     }
   ],
   "unique_name": "Funky Blues",

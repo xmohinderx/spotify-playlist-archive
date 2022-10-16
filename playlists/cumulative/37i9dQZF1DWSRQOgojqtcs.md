@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-132 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
+133 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2022-09-14 |  |
 | [Addy \(feat\. Sevy\)](https://open.spotify.com/track/31MxX98bguX07cn0JCEjpb) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY), [Sevy](https://open.spotify.com/artist/1JWlma0hnqcELOIFZVl03u) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 2:41 | 2022-09-14 |  |
 | [Affection](https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Affection](https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE) | 3:39 | 2022-09-14 |  |
-| [All Over You](https://open.spotify.com/track/26nEOtqK9WaiwpOFX64Rml) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [All Over You](https://open.spotify.com/album/6xbTYcDAKikNrbnhCFLBr2) | 3:25 | 2022-09-14 |  |
+| [All Over You](https://open.spotify.com/track/26nEOtqK9WaiwpOFX64Rml) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [All Over You](https://open.spotify.com/album/6xbTYcDAKikNrbnhCFLBr2) | 3:25 | 2022-09-14 | 2022-10-16 |
+| [All Over You](https://open.spotify.com/track/3l4Kjzg3iXFd47KzFVx2M3) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [All Over You](https://open.spotify.com/album/4b4fhgleTBt0bassQQFbBx) | 3:25 | 2022-09-15 |  |
 | [Arc](https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Arc](https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm) | 4:34 | 2022-09-14 |  |
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-09-14 |  |
 | [Aï\-Aï Heyveh Heyveh](https://open.spotify.com/track/4Qr32AUTbgtobPsduiefqE) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/2AqtoC4FaYHRGOYHpbdLRl) | 7:51 | 2022-09-14 |  |

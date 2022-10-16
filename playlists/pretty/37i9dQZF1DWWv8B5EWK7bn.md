@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,293 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,422 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 59 | [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 |
 | 60 | [Aplomb](https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR) | [Mt\. Mountain](https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4) | [Centre](https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7) | 4:40 |
 | 61 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 |
-| 62 | [Las Olas Contra Todos](https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1) | [La Villana](https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq) | [Las Olas Contra Todos](https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK) | 2:45 |
-| 63 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 |
+| 62 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 |
+| 63 | [Las Olas Contra Todos](https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1) | [La Villana](https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq) | [Las Olas Contra Todos](https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK) | 2:45 |
 | 64 | [Plans](https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:38 |
 | 65 | [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 |
 | 66 | [Shadow in the Frame](https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Shadow in the Frame](https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6) | 5:16 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 71 | [Unpeopled Space](https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Unpeopled Space](https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc) | 6:09 |
 | 72 | [Heartlow \- Edit](https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Heartlow](https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g) | 3:38 |
 | 73 | [A Liberdade é Cara](https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb) | [Flak](https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4), [Cachupa Psicadelica](https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO) | [A Liberdade é Cara](https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq) | 6:20 |
-| 74 | [Mapa](https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg) | [Sundarbans](https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82) | [Mapa](https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF) | 2:55 |
-| 75 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 |
+| 74 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 |
+| 75 | [Mapa](https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg) | [Sundarbans](https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82) | [Mapa](https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF) | 2:55 |
 | 76 | [Jour 3](https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 3:06 |
 | 77 | [Big Appetite](https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 5:16 |
 | 78 | [Keep Your Mind Free](https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W) | [Damon Locks](https://open.spotify.com/artist/6TlQM2KMbYG7xE7Zy1BMUy), [Black Monument Ensemble](https://open.spotify.com/artist/4UTQycdCDv5HBn2NdhOraF), [Ben LaMar Gay](https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR) | [NOW](https://open.spotify.com/album/42yBiH8auH9zsloOembHL0) | 5:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Run \(feat\. Gareth Jones & Ólavur Jákupsson\)](https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 5:11 |
 | 100 | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI) | 4:00 |
 
-Snapshot ID: `MTY2NDk3OTE1MCwwMDAwMDAwMDVjNDZmYmQ5MjhhYTk1ZDAxZDhhOTExYjk2MDA2OTA0`
+Snapshot ID: `MTY2NDk3OTE1MCwwMDAwMDAwMDU5YmQzMWFjN2E0MWM1NzJhZmYwNWNmY2ZmMDBkZTUz`

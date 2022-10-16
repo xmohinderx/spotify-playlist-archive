@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-58 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/7HqF9ziewtXXk9SfOV5veg)
+59 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/7HqF9ziewtXXk9SfOV5veg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 | 2022-05-29 |  |
 | [Inside The Ruins](https://open.spotify.com/track/35ZNF2MIZ0QsYK1tGcONKJ) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 6:09 | 2022-05-29 | 2022-10-13 |
 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 | 2022-08-07 |  |
+| [La tarantola dal ventre nero](https://open.spotify.com/track/1yicvjJVBy78161FcNOXID) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Scacco al Maestro \- Volume 2](https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz) | 4:39 | 2022-10-15 |  |
 | [LET GO](https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:08 | 2022-07-14 | 2022-10-13 |
 | [LET GO](https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:08 | 2022-05-29 | 2022-07-10 |
 | [MAAC](https://open.spotify.com/track/4Bq7pjMWPLLyto3F1nfw46) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 16:59 | 2022-05-29 | 2022-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,439 likes - 105 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,457 likes - 105 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 13 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 |
 | 14 | [ABISSALE](https://open.spotify.com/track/3LUaoHfEgHY6GxyFqXRcep) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [ABISSALE](https://open.spotify.com/album/1jhgYKGw2JZZxcMZUQv3fS) | 3:22 |
 | 15 | [Hot All the Time](https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Hot All the Time](https://open.spotify.com/album/4gAXGVFBGfDnYQL1KVEkej) | 3:01 |
-| 16 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:29 |
+| 16 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 17 | [Ghost Town](https://open.spotify.com/track/4PPCWezfTaXfJxvJh3scND) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Ghost Town](https://open.spotify.com/album/4NT0EDiOqeIcyoomo56LSA) | 2:35 |
 | 18 | [Es Geht Mir Gut](https://open.spotify.com/track/3EgCbegK5LA8H4DwHTnJZg) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Es Geht Mir Gut](https://open.spotify.com/album/7A23HXfeZAW43geVndlyrQ) | 2:38 |
 | 19 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 58 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 |
 | 59 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 |
 | 60 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 |
-| 61 | [Männer](https://open.spotify.com/track/6dQPQikamiuTl8WoUWJ7vi) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Männer](https://open.spotify.com/album/0MOVco79zILYTrD4cDaU8f) | 3:18 |
+| 61 | [Männer](https://open.spotify.com/track/6dQPQikamiuTl8WoUWJ7vi) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA), [addeN](https://open.spotify.com/artist/37SgaZuWj0yxWXetbYOe7C) | [Männer](https://open.spotify.com/album/0MOVco79zILYTrD4cDaU8f) | 3:18 |
 | 62 | [BET](https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BET](https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV) | 2:34 |
 | 63 | [Damage x2](https://open.spotify.com/track/4bUW4s6Uf8JXBabDZOKmFx) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Damage x2](https://open.spotify.com/album/6luRrEChKAJym46oxILspG) | 3:05 |
-| 64 | [Gucci Flow \(feat\. Finesse2tymes\)](https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Gucci Flow \(feat\. Finesse2tymes\)](https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q) | 2:11 |
+| 64 | [Gucci Flow](https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Gucci Flow](https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q) | 2:11 |
 | 65 | [Playing With Fire](https://open.spotify.com/track/4RJtP86ZquIuCRXuQaGXqn) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Playing With Fire](https://open.spotify.com/album/2AW3UXIOyeL4GRTl7yz38G) | 2:57 |
 | 66 | [i see london i see france](https://open.spotify.com/track/4wwoTaV7tQmGTshV7aYjBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i see london i see france](https://open.spotify.com/album/4SwqPUwME35rcRv2J30WYx) | 2:32 |
 | 67 | [Mama](https://open.spotify.com/track/6p2dXrlazGgGLcV8BLW8GO) | [Rio de Don](https://open.spotify.com/artist/3m8ednDOE6bs8umbbO9ePI) | [Mama](https://open.spotify.com/album/46IlUhOWvDVqpLwsjznK5x) | 2:48 |

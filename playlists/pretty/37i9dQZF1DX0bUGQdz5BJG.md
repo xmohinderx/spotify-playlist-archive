@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,162 likes - 167 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,295 likes - 167 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 100 | [Hometown Home](https://open.spotify.com/track/5sJxxWWr073FXlYSRnPUJY) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Hey Nice to Meet You](https://open.spotify.com/album/0t3EzZ7DPZ05TsjQBDEFGG) | 3:32 |
 | 101 | [Outskirts](https://open.spotify.com/track/5bNoORgS4OT3ajc87thD9c) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Outskirts](https://open.spotify.com/album/1IlMEAz2DiwoU3FG7VAVL9) | 3:02 |
 | 102 | [Skip This Part](https://open.spotify.com/track/4vBRaWNRt12NOFFLmekoou) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Skip This Part](https://open.spotify.com/album/1fzHdD4hckwMiVn1YD6Q30) | 3:19 |
-| 103 | [Love A Little More](https://open.spotify.com/track/3Jn6eXxC85UoXLA4Zcq3do) | [Blaine Holcomb](https://open.spotify.com/artist/7gHo4FqNotInYa92gHODnA) | [Love A Little More](https://open.spotify.com/album/1IzaKpq4lJQWt57R9EezFV) | 3:23 |
+| 103 | [Love A Little More](https://open.spotify.com/track/6sDICPeeY46P9hdcNN7BwP) | [Blaine Holcomb](https://open.spotify.com/artist/7gHo4FqNotInYa92gHODnA) | [Lessons](https://open.spotify.com/album/7H0gKMd6hMSiQC4z4YL4V9) | 3:23 |
 | 104 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 |
 | 105 | [Like Me](https://open.spotify.com/track/5PH2azGd2OAljqcT7Ikke1) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [Like Me](https://open.spotify.com/album/5DfDXcA63Y69wMGzepy27y) | 3:42 |
 | 106 | [Heaven's Like a Hometown](https://open.spotify.com/track/1jh6LYrAUX11hkyy3FvakV) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Heaven's Like a Hometown](https://open.spotify.com/album/4G979dCowqLmMhIfK44Btj) | 2:58 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 166 | [The Nicest Thing](https://open.spotify.com/track/1QUoN2CZPNXrGoCjmKSEcW) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [The Nicest Thing](https://open.spotify.com/album/2U2Uqf6BzYTFq15339EgRy) | 2:51 |
 | 167 | [Things That Matter](https://open.spotify.com/track/6CZN0bIk5Ij3s4BsZCJZG8) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Things That Matter](https://open.spotify.com/album/4wc9lCB0OlOhcIxkQZdN4R) | 3:13 |
 
-Snapshot ID: `MTY2NTcyMDY4NCwwMDAwMDAwMDE0ZTI5N2U5MDcwMTcyZDhiNTQzYzUxZWQ5MjZjYWMz`
+Snapshot ID: `MTY2NTcyMDY4NCwwMDAwMDAwMDdmYzQ0MTk3OGM0ZTI0ZDY2ZmQ5ZGE0NDkzYzZlNDFi`

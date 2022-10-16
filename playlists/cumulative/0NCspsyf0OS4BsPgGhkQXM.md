@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-505 songs - 1 day 3 hr 13 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+507 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Start A Fire](https://open.spotify.com/track/3KFhOg2pjYHc0mOaFqsmCW) | [Adro](https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN), [24Bit](https://open.spotify.com/artist/5BrzPCYkpTrKzXN2tQuvau), [Gaming Playlist](https://open.spotify.com/artist/23Mfhfnb8nWudPtyzEO6F4) | [Start A Fire](https://open.spotify.com/album/3TVQNtBHT21LU5SYTMdmml) | 3:16 | 2022-01-31 | 2022-03-05 |
 | [Start A Riot](https://open.spotify.com/track/0GnSekAxuJfUCcbeh9ki3e) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Start A Riot](https://open.spotify.com/album/3xjvyhPVuPTKtudmFWSRws) | 2:44 | 2022-03-18 | 2022-04-19 |
 | [Start A Riot](https://open.spotify.com/track/49bOS8k7cx7JBu3TjrWU1w) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:44 | 2022-05-06 | 2022-06-04 |
+| [Start My Day](https://open.spotify.com/track/57Q0j9sJclR6lA3mzGWxGq) | [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [Novet](https://open.spotify.com/artist/2i57twPwlmOsHTs4PX7W47) | [Start My Day](https://open.spotify.com/album/5xT4sGDE8PUmgOpiFFsLAx) | 2:11 | 2022-10-15 |  |
 | [Stay](https://open.spotify.com/track/1GHu55MRD4NyMhVDpaLADT) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:42 | 2022-02-18 | 2022-06-04 |
 | [Stay \- Afinity Remix](https://open.spotify.com/track/1BTc2Jtvi0xXbuew9QsQXs) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:40 | 2022-07-29 |  |
 | [Stranger Inside Me](https://open.spotify.com/track/4NyZeyQTf9lzybdYrw8AnK) | [Kuoga.](https://open.spotify.com/artist/6zVuQdorqzJrQy6jPACUr7), [Ivy](https://open.spotify.com/artist/4GqL0DrjpEK0YYRH1VyPBI) | [Until It Isn't](https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z) | 4:13 | 2022-02-16 | 2022-03-19 |
@@ -452,6 +453,7 @@
 | [Thirst](https://open.spotify.com/track/6vZD9cYsOhwZvQZO3C19Xk) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 2:44 | 2022-05-13 | 2022-06-18 |
 | [Time](https://open.spotify.com/track/0I2w0DF5Y4dWo2V9J5Wu4R) | [4RUNNR](https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx) | [Time](https://open.spotify.com/album/3ExFUMuGGc5FpA3UAkMdgk) | 3:24 | 2022-01-14 | 2022-02-10 |
 | [Time](https://open.spotify.com/track/7wSAIATPd2bexPb4P2oFin) | [Erd1](https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd) | [Time](https://open.spotify.com/album/7cpgjSFbfWbBjMzWdkpRkX) | 2:40 | 2022-01-17 | 2022-02-17 |
+| [Time \- Pala Chrome Remix](https://open.spotify.com/track/5xrdLwQK6QmV3XsnsCVvOP) | [4RUNNR](https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx), [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [Time \(Pala Chrome Remix\)](https://open.spotify.com/album/0tnRgNZXc8qAExA898YSqc) | 3:59 | 2022-10-15 |  |
 | [Together4ever](https://open.spotify.com/track/5IIX69KluJMoZeCYYiYx8z) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 5:09 | 2022-10-14 |  |
 | [Too Late To Love You](https://open.spotify.com/track/1XP6izZrqT8FsMaLKDAnUP) | [Ex Habit](https://open.spotify.com/artist/0wRGuF39WWxHeftv2TBNQT) | [Too Late To Love You](https://open.spotify.com/album/2asDslP57oQT3SnErAPyRE) | 2:25 | 2022-07-01 | 2022-07-29 |
 | [Top Now](https://open.spotify.com/track/74yhIeJp5nF6TSngZBPVhQ) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Top Now](https://open.spotify.com/album/5iLlpCTNZy90Q536qcl9iX) | 2:18 | 2022-06-24 | 2022-07-29 |

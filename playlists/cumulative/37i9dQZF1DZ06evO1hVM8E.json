@@ -1146,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Me Pongo en Tu Lugar (En Vivo)",
+        "url": "https://open.spotify.com/album/2DTPGxkk5O9bSArdXM4lpI"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192083,
+      "name": "Me Pongo en Tu Lugar (En Vivo)",
+      "url": "https://open.spotify.com/track/1unucSoKiY6rNR3IM8oZHP"
+    },
+    {
+      "album": {
         "name": "Me Sigue Doliendo",
         "url": "https://open.spotify.com/album/1AB47h7dTdCTlO0i2GtiGi"
       },
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 185000,
       "name": "Pa'que Me Sirve la Vida",
       "url": "https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt"

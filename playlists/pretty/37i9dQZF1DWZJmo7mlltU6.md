@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dayglow
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,564 likes - 105 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,706 likes - 105 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 5 | [Photograph](https://open.spotify.com/track/4R7BQYeTzAhy0Vl83xrAcQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 2:15 |
 | 6 | [Los Turistas](https://open.spotify.com/track/2CtTE9Tv4Vxyy9jYwLjSuV) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d), [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Los Turistas](https://open.spotify.com/album/7spesGep4fguM4XzyozUWK) | 3:02 |
 | 7 | [Luce magica](https://open.spotify.com/track/3pxE5SMXpmR5h5DhpYJ187) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Oltre la zona sicura](https://open.spotify.com/album/46yVaVHnid7t7PQy9jTdYL) | 3:26 |
-| 8 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 |
+| 8 | [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 |
 | 9 | [What If](https://open.spotify.com/track/4sEni2QRFyUqC5h2gw5WRN) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [What If](https://open.spotify.com/album/5W5JTrm3ZWu1IBNbx54mEe) | 5:21 |
 | 10 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 11 | [XX](https://open.spotify.com/track/42ACPZYXi1WW1wpnCk6Kgr) | [Betacam](https://open.spotify.com/artist/57Zd5sXL7SD1anPMHPGlWJ), [Ama Ia](https://open.spotify.com/artist/5myr2gHvqlEkktvZioElER), [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [XX](https://open.spotify.com/album/4XDyEHa2WeckWpthB7ifZK) | 3:16 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 104 | [far](https://open.spotify.com/track/0HMvbr4qGFyp4jjIzlFNRN) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [33](https://open.spotify.com/album/4jEBsdVo24FkbfSlctvoJI) | 4:09 |
 | 105 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDgyN2RjNzUyZDVjOGMxMjdlODBlNmQ2M2Y5ZGMwYmIw`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGFiZTIxMDYyYmRmMjkwY2I1ZDI1OTIyYTdlNWI1NmY4`

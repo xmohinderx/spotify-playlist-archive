@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 70395,
+  "num_followers": 70507,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDc1NzlkYmNhMzcyYWQ4ZDYzMzMyNjY1MjhiNzhhNmQy",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGZmZmYwNzg0OGJhYjM0YTIwMjVkYmExMmE1ZWNmZjc1",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -59,18 +59,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         }
       ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "Red Alert - Jaxx Radio Mix",
+      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Decksandrumsandrockandroll 20th anniversary",
         "url": "https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 242533,
       "name": "History Repeating - Knee Length Mix",
       "url": "https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Red Alert",
-        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Red Alert - Jaxx Radio Mix",
-      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "In Sides",
         "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Saturday Teenage Kick",
-        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
-      },
-      "artists": [
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        }
-      ],
-      "duration_ms": 327173,
-      "name": "Dealing with the Roster",
-      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 379160,
       "name": "We Have Explosive",
       "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Saturday Teenage Kick",
+        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "duration_ms": 327173,
+      "name": "Dealing with the Roster",
+      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Swamp Thing",
         "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
       },
@@ -1351,42 +1351,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
-        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
-      },
-      "artists": [
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        },
-        {
-          "name": "Saffron",
-          "url": "https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Beauty Never Fades (feat. Saffron)",
-      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "The Best Of Lamb 1996-2004 - Best Kept Secrets",
         "url": "https://open.spotify.com/album/7cgueLeLixSTaOgoRQeR94"
       },
@@ -1415,6 +1379,42 @@
       "duration_ms": 183013,
       "name": "Blueski - Remastered",
       "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
+        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        },
+        {
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Beauty Never Fades (feat. Saffron)",
+      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
     },
     {
       "added_at": "2021-07-14 17:36:34",

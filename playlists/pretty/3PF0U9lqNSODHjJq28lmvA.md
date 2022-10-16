@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,027 likes - 33 songs - 1 hr 59 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,028 likes - 33 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 25 | [Empty Amarillo](https://open.spotify.com/track/5dCUOfRrRn2dzvrn5v5hG8) | [Choose Hellth](https://open.spotify.com/artist/0raZdDMyZLEMhQKfRrhGbl), [Matt Piersall](https://open.spotify.com/artist/6SWXML96u6V7Wii9BNcATg) | [Empty Amarillo](https://open.spotify.com/album/3QtgdoQ5LuQkJvsOzTd7vB) | 5:37 |
 | 26 | [In The Dead Of Night](https://open.spotify.com/track/4MlSjGr4svqtgVsOorsnFA) | [Troy Salvatore](https://open.spotify.com/artist/4mv2iYBKSH1R6LrBswW9pn) | [Immortal Romance \(Original Game Soundtrack\)](https://open.spotify.com/album/3F0VJnqfwoWHnHXYvnH99H) | 2:25 |
 | 27 | [Denim Woman](https://open.spotify.com/track/2kKpZTKacxIsEpvbYMP5WF) | [Markus Holkko](https://open.spotify.com/artist/6l1wgkfbI4ICpgO0Spqmed) | [Golden Saxophone According to Markus Holkko, Vol\. 1](https://open.spotify.com/album/4aqsQnERW8cQBuRn9n7BCa) | 3:24 |
-| 28 | [standby](https://open.spotify.com/track/0iAjbLrUntcRED1mrG3G2Q) | [Mery](https://open.spotify.com/artist/5XbXSVKUMcGTVUjG0D6MN8) | [standby](https://open.spotify.com/album/2lSxvrtLRhjacQbN3S1tlX) | 2:04 |
+| 28 | [standby](https://open.spotify.com/track/0iAjbLrUntcRED1mrG3G2Q) | [Mery](https://open.spotify.com/artist/5rrRpzT6RaCUgKT1DJi0Gw) | [standby](https://open.spotify.com/album/2lSxvrtLRhjacQbN3S1tlX) | 2:04 |
 | 29 | [Dark drifting hobo](https://open.spotify.com/track/435Ppb6XFIxCPTxStN8kfz) | [Lars Glaso](https://open.spotify.com/artist/40Vx51ZkLoGUDfEmmtixsX) | [Dark drifting hobo](https://open.spotify.com/album/0uhIObynTfsOSVY0guJbB7) | 3:56 |
 | 30 | [Poimi mut](https://open.spotify.com/track/0sCmkXkIs79Uww3wRUJUXv) | [jaakkoveikko](https://open.spotify.com/artist/56PBa5RTs2RljmsjAOrbyR) | [Poimi mut](https://open.spotify.com/album/1I79TNDz0b2iPH9DDqqS2v) | 3:03 |
 | 31 | [A lot more to come](https://open.spotify.com/track/7IIuclomvr10OTDZIAvszq) | [Popopp](https://open.spotify.com/artist/6bvXJYuBdzdrVVazXSLEi1) | [A lot more to come](https://open.spotify.com/album/2RkBAIe61yOHtDmxJo4BnH) | 3:20 |

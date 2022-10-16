@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 29703,
+  "num_followers": 29740,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY2NjAwMCwwMDAwMDAwMGM3ZTEyMjYzYTY5ZDhhOWY5NDkwM2U0YTQ2YWMwYWFh",
+  "snapshot_id": "MTY2NTY2NjAwMCwwMDAwMDAwMGQxYzYyODE1ODVkMTlmOThjNmMxMDMzMDk0MWJmNjgw",
   "tracks": [
     {
       "added_at": "2022-10-13 13:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 231448,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 252616,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 252616,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
         "name": "Make It Happen (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 267510,
       "name": "Proven (with Rick Ross)",
       "url": "https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
         "name": "Like Neptune",
         "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Just Fine",
-        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/11Tq32iGErxMwUQqpYom5r"
       },
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 196536,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
-        "name": "Leave It All Behind",
-        "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
-      },
-      "artists": [
-        {
-          "name": "Bumpy",
-          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
-        }
-      ],
-      "duration_ms": 235353,
-      "name": "Leave It All Behind",
-      "url": "https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -991,6 +991,38 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
+        "name": "Leave It All Behind",
+        "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "duration_ms": 235353,
+      "name": "Leave It All Behind",
+      "url": "https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
         "name": "Got Me (Feelin' Like)",
         "url": "https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q"
       },
@@ -1023,38 +1055,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
-        "name": "Only Wanna Be With You",
-        "url": "https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180355,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "Like Neptune",
         "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Eliades",
+          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha"
       },
@@ -1083,6 +1099,22 @@
       "duration_ms": 203700,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
+        "name": "Only Wanna Be With You",
+        "url": "https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180355,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -1123,22 +1155,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Come Around EP",
-        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 228473,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 228300,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe"
     },
     {
       "added_at": "2022-10-13 13:00:00",

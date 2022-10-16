@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists\. Cover: lozeak
 
-158 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+159 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Grow](https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3) | 2:51 | 2022-07-28 |  |
 | [Grow](https://open.spotify.com/track/4HItNKYDDGULMD54P5Xjhi) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7LVihq2HJ2m2QzziPQbT0o) | 2:51 | 2022-02-18 | 2022-07-29 |
 | [Hate You, I Love You](https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Hate You, I Love You](https://open.spotify.com/album/3MEz34mMadTHxqUvEF1HFH) | 2:36 | 2022-02-18 |  |
-| [HEART ATTACK](https://open.spotify.com/track/15w5MdxTlGiaeiaYiC821r) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/1ttzoKE3qsZqoQ20Acc2qN) | 3:02 | 2022-02-18 |  |
+| [HEART ATTACK](https://open.spotify.com/track/15w5MdxTlGiaeiaYiC821r) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/1ttzoKE3qsZqoQ20Acc2qN) | 3:02 | 2022-02-18 | 2022-10-16 |
+| [HEART ATTACK](https://open.spotify.com/track/3ZwM4sK8D23CYoXiZ8dguS) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [FOREVER CLASSIC](https://open.spotify.com/album/6wFsRFuCL3IXmDXVN40BoD) | 3:02 | 2022-10-13 |  |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-02-18 |  |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-18 |  |
 | [Hungover](https://open.spotify.com/track/2pHEFGVwMMcSDIVQ15aMMY) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 3:36 | 2022-09-22 |  |

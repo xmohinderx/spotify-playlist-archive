@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Golden Features
 
-188 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+189 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Invincible \- David Morales Remix](https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Remix EP](https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55) | 3:06 | 2022-10-07 |  |
 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 | 2022-08-18 | 2022-08-20 |
 | [JOY \(Don't It Make You Feel\)](https://open.spotify.com/track/1PUSsDVdfoSD8TBeSUJRBx) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Don’t It Make You Feel\)](https://open.spotify.com/album/0dY0wbc3n8SS4WWfHdxo0L) | 3:22 | 2022-08-18 | 2022-09-15 |
-| [JOY \(Easy To Improve\)](https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Easy To Improve\)](https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH) | 3:26 | 2022-08-25 |  |
+| [JOY \(Easy To Improve\)](https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Easy To Improve\)](https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH) | 3:26 | 2022-08-25 | 2022-10-16 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-08-18 |  |
 | [Just One Groove](https://open.spotify.com/track/0oT34K9Qg6iRiEtL7deAG1) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Songs You Might Remember from Some Parties](https://open.spotify.com/album/3gImC2DVTldtWuok5FXWfJ) | 4:16 | 2022-08-18 | 2022-09-02 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-08-18 | 2022-09-24 |
@@ -136,6 +136,7 @@
 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 | 2022-09-22 |  |
 | [Poke Bowl](https://open.spotify.com/track/3C7sz0HzEs8NGsHbNC5clu) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Poke Bowl](https://open.spotify.com/album/4aQY42XWlHFFOYeDLQXuJ0) | 3:14 | 2022-08-18 | 2022-08-24 |
 | [Rendez\-Vu \- Marco Lys Remix \- Edit](https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Rendez\-Vu \(Remixes\)](https://open.spotify.com/album/2FgroWn0lOTtBOnBls3CgQ) | 3:19 | 2022-09-22 | 2022-09-26 |
+| [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-10-13 |  |
 | [Rise Again](https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Rise Again](https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi) | 3:03 | 2022-08-18 |  |
 | [Run](https://open.spotify.com/track/1704XhUx9ZXSXmRQxUfQ3X) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Run](https://open.spotify.com/album/5JvuO0pxsGOtqxg62mfvsU) | 2:49 | 2022-09-15 |  |
 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 | 2022-08-18 |  |

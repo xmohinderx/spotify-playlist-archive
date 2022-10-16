@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-190 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
+191 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Talk You Down](https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Talk You Down](https://open.spotify.com/album/40M7WLALxAIR61uXjJAcWD) | 2:36 | 2021-11-25 | 2022-07-03 |
 | [The Hurt You Gave Me](https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [The Hurt You Gave Me](https://open.spotify.com/album/2wPivRcli0y1oCdOg7ONlN) | 2:30 | 2021-11-25 | 2022-09-24 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-09-23 |  |
-| [THE REASON I'M BREATHING \(minute\)](https://open.spotify.com/track/0EkvkSPnQ6a2ctZE1yNkc7) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [THE REASON I'M BREATHING \(minute\)](https://open.spotify.com/album/1QVp5Hlmy6cpEj04G1eGS8) | 2:56 | 2021-11-25 |  |
+| [THE REASON I'M BREATHING \(minute\)](https://open.spotify.com/track/0EkvkSPnQ6a2ctZE1yNkc7) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [THE REASON I'M BREATHING \(minute\)](https://open.spotify.com/album/1QVp5Hlmy6cpEj04G1eGS8) | 2:56 | 2021-11-25 | 2022-10-16 |
 | [The Sun’s Gonna Rise](https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [The Sun’s Gonna Rise](https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK) | 3:28 | 2021-11-25 |  |
 | [Thinking About You](https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Thinking About You](https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu) | 3:21 | 2021-11-25 |  |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 | 2022-09-23 | 2022-10-13 |
@@ -187,6 +187,7 @@
 | [Waves of Blue](https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Waves of Blue](https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD) | 3:28 | 2022-01-21 | 2022-09-24 |
 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 | 2021-11-25 |  |
 | [When The Lights Go Out](https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out](https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv) | 3:06 | 2021-11-25 | 2022-10-14 |
+| [When The Lights Go Out](https://open.spotify.com/track/5mYMdRqCm3pgs4Cubi96Pu) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out](https://open.spotify.com/album/22E1CsB9Z9uhqvGmjKftrj) | 3:06 | 2022-09-23 |  |
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-11-25 |  |
 | [Why Can't We Get Along](https://open.spotify.com/track/36WAgkpKAbBZ1TrMWD5kCY) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Why Can't We Get Along](https://open.spotify.com/album/1shQStog5GFXwsrkQpVo9N) | 2:32 | 2022-01-14 | 2022-04-23 |
 | [Wild Side](https://open.spotify.com/track/1Wm2Oqbd0aZRDtClkVdgJJ) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [LIMBO CHERRY](https://open.spotify.com/album/0n3j7D1PuFO4poIRSm60f2) | 3:43 | 2022-01-14 | 2022-04-25 |

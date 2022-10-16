@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,751 songs - 4 day 5 hr 27 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,752 songs - 4 day 5 hr 30 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1552,6 +1552,7 @@
 | [TIBAA](https://open.spotify.com/track/1Cqpi7Rcf65jZlGNIizw2L) | [MAR5](https://open.spotify.com/artist/2MBqDXJGuZnVMM3bNfRSzA), [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [TIBAA](https://open.spotify.com/album/5dAvoVN5NOh3xKRKBlkcLa) | 2:52 | 2022-10-09 |  |
 | [Tiger Stripes](https://open.spotify.com/track/2rtu9krlsAiVFlshbnpi4F) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Tiger Stripes](https://open.spotify.com/album/5R5dXGurhNE129cI5SUBuz) | 3:16 | 2021-10-22 | 2022-01-09 |
 | [Time](https://open.spotify.com/track/1tCVaXCM7eDo7SIlogAuMT) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Time](https://open.spotify.com/album/21BSeaOQbd98648kmYd5yu) | 4:35 | 2022-09-02 | 2022-09-18 |
+| [Time Awaits](https://open.spotify.com/track/0EWkcHC58bAHHcvoagva6u) | [Travis Sayles](https://open.spotify.com/artist/3ZF5OTLAF900ketxn9lFqw) | [Time Awaits](https://open.spotify.com/album/7DkI7ngAx583NI5CwakdMz) | 2:48 | 2022-10-15 |  |
 | [Time Fly By](https://open.spotify.com/track/7tOj7X95GbrYvayIZlWyYu) | [Elephant Motel](https://open.spotify.com/artist/0AYoGyLwbupLIZWNHbHHA8) | [Feeling Alright](https://open.spotify.com/album/26Fk2l62DFiO1Npi5lOU8V) | 2:54 | 2022-10-07 |  |
 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 | 2021-11-05 | 2021-11-21 |
 | [Times Are Past \(Radio Edit\)](https://open.spotify.com/track/00PvNdpAdIRRbavoZ84ADz) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Times Are Past \(Radio Edit\)](https://open.spotify.com/album/5g6NLE1WHgytwzZlmBRNxT) | 3:07 | 2020-09-10 | 2020-09-24 |

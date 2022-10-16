@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lil Baby \(pictured\), Marshmello & Juice WRLD, Tove Lo, blink\-182, Bailey Zimmerman and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,366 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,433 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 34 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 |
 | 35 | [Make U Mine](https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Jolie](https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx) | 4:03 |
 | 36 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 |
-| 37 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:29 |
+| 37 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 38 | [2 Step \- From the new “House Party” Original Motion Picture Soundtrack](https://open.spotify.com/track/4FO8Tg6i1wLU0DRO3gwuJL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [2 Step \(From the new “House Party” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15lrVWXxXVT9GNhdIepIXJ) | 2:10 |
 | 39 | [Pretty Baby](https://open.spotify.com/track/13WWFLmYOA4nBKRR5kJHUk) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Pretty Baby](https://open.spotify.com/album/0PrHeRwwkWemC8CMxesp0L) | 3:16 |
 | 40 | [Selfish](https://open.spotify.com/track/1PJsUeqqU2H2iVCZ7ZBGnU) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Selfish](https://open.spotify.com/album/6S8hTTJNrKlBFgNWF5UbXv) | 1:53 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 65 | [Ain't Reason](https://open.spotify.com/track/2HCKM5YBNx2D6HX4JHTyTx) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Ain't Reason](https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev) | 2:26 |
 | 66 | [Yesterdays.](https://open.spotify.com/track/6RMPhGmhBkZWlITgD1T0ai) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Albion Road Demos.](https://open.spotify.com/album/456OEsSKMH1s7Oe1tklbZr) | 3:13 |
 | 67 | [My Medicine](https://open.spotify.com/track/20eriD057esYnchymKd8tE) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [My Medicine](https://open.spotify.com/album/2DX9augb47Wq91cjjPLgO4) | 3:28 |
-| 68 | [Be Happy \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7zTpZWlzYFkBfDLPXmIatU) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Complete Collapse](https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd) | 3:18 |
+| 68 | [Be Happy \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/7zTpZWlzYFkBfDLPXmIatU) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Complete Collapse](https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd) | 3:18 |
 | 69 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 |
 | 70 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 |
 | 71 | [Pop'd Out](https://open.spotify.com/track/1tkKZVJ8iYPrI5voy60Vco) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [Pop'd Out](https://open.spotify.com/album/1ATClltOP30Vb79JTYMbzZ) | 2:06 |

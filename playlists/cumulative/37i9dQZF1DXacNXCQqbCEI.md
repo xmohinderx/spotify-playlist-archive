@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-223 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+224 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 | 2022-04-15 |  |
 | [Mariposa](https://open.spotify.com/track/7yoBYwXd4gtGBIygYefGOI) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/4w7XAXjOUIOuzIr3MjQC1K) | 7:57 | 2021-11-26 | 2022-07-28 |
 | [Matiela Suto](https://open.spotify.com/track/7e31OKhHlh5pFh3Podo1RT) | [Killabeatmaker](https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb) | [Matiela Suto \(Colombian Singles Series, Vol\. 2, Part 2\)](https://open.spotify.com/album/4cOMbMexwbzpNiFVr2Vy2F) | 4:53 | 2021-11-26 | 2022-07-24 |
+| [Mañana Tepotzlan](https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ) | 4:00 | 2022-04-15 |  |
 | [Mañana Tepotzlan](https://open.spotify.com/track/3SIvxOsX0OUlkhzSdQle6D) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/49SC0iDWnUvugi5UHZQuOQ) | 4:00 | 2022-04-15 | 2022-10-13 |
 | [Me Recordaras](https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Varias Dudas Después](https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG) | 4:13 | 2021-11-26 | 2022-07-26 |
 | [Mi Naturaleza \- Montoya Remix](https://open.spotify.com/track/0FTv9c0vGeq5fMTI1Wz8Ko) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9), [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa) | [Mi Naturaleza](https://open.spotify.com/album/5sJzgYWA8QibiK6qtF0NmO) | 4:23 | 2022-04-15 | 2022-04-21 |
@@ -157,7 +158,7 @@
 | [Pua](https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4) | 5:48 | 2022-04-15 |  |
 | [Pua](https://open.spotify.com/track/7nnftQFbjTs6FOA7dpbzKw) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/0j99NjeCVuOb2rDfu3RNjl) | 5:48 | 2021-11-26 | 2022-07-29 |
 | [Pura Flor \(El Búho Remix\)](https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Aurora Remixed](https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb) | 4:14 | 2021-11-26 |  |
-| [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 | 2021-11-26 |  |
+| [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 | 2021-11-26 | 2022-10-16 |
 | [Pájaro Cenzontle](https://open.spotify.com/track/0QVaOOXa9KflHlSeV6Adkh) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Pájaro Cenzontle](https://open.spotify.com/album/4Uisjvql2wX2qI5WYSTWE4) | 3:40 | 2021-11-26 | 2022-07-28 |
 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 | 2022-04-15 |  |
 | [Pájaro de Mar](https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg) | [Indus](https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63), [Las Alegres Ambulancias](https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr) | [Indus Meets Palenque Records, Vol\. 2](https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2) | 3:35 | 2022-04-15 |  |

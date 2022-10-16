@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 248093,
       "name": "Death",
       "url": "https://open.spotify.com/track/12CmR3HdSgdTeNqqCArJNd"
@@ -667,6 +667,28 @@
       "duration_ms": 235032,
       "name": "El Mago Georges",
       "url": "https://open.spotify.com/track/1CJ5JejmIAEtShoxy8DQHU"
+    },
+    {
+      "album": {
+        "name": "Pleamar",
+        "url": "https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235032,
+      "name": "El Mago Georges",
+      "url": "https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy"
     },
     {
       "album": {

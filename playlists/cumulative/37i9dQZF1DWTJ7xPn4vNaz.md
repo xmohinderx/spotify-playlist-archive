@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1970s\. Cover: Olivia Newton\-John.
 
-517 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
+518 songs - 1 day 11 hr 8 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 | 2019-11-30 |  |
 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/0hSAR39xfxXXs2LmwjTWUI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/7nSAyfhwuPt4vcQ7jeWJCF) | 4:33 | 2019-06-21 | 2022-04-29 |
 | [Can't Smile Without You](https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Even Now](https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV) | 3:13 | 2019-06-22 | 2021-10-13 |
-| [Can't You See](https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:05 | 2021-02-26 |  |
+| [Can't You See](https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:05 | 2021-02-26 | 2022-10-16 |
 | [Car Wash \- Long Version](https://open.spotify.com/track/07RgAeKIlahtqeCw25SkTu) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Rockin' 70's \(Vol\. 2\)](https://open.spotify.com/album/1T6UGHbfP4JTTVTglIrybh) | 5:08 | 2019-06-21 | 2021-10-11 |
 | [Carry on Wayward Son](https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Essential Kansas](https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ) | 5:22 | 2019-07-16 | 2021-05-22 |
 | [Cats in the Cradle](https://open.spotify.com/track/6hLqEJg2GnnDG4W0Y64hyD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Cat's In The Cradle / Vacancy \[Digital 45\]](https://open.spotify.com/album/2Nh9PmJwU1W7d06m7woqB1) | 3:32 | 2019-06-25 | 2021-10-13 |
@@ -485,6 +485,7 @@
 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 | 2019-05-26\* |  |
 | [What Is Life \- Remastered 2014](https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:24 | 2022-06-03 | 2022-07-29 |
 | [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 | 2020-12-23 | 2022-07-29 |
+| [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2022-08-12 |  |
 | [What's Going On](https://open.spotify.com/track/4RNHbYuRaZesMODlihhsUG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/3OpydOJywRIIozfItYnQlr) | 3:56 | 2019-05-26\* | 2020-06-09 |
 | [Whatever You Want](https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Whatever You Want](https://open.spotify.com/album/08GCJIrpY1IegMp73501Z2) | 4:03 | 2020-12-23 | 2021-10-13 |
 | [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 | 2022-06-03 | 2022-07-27 |

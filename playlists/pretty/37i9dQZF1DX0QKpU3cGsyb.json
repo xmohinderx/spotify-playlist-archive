@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1633536,
+  "num_followers": 1634135,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDIwMWI0ZWQxYzdkODEwNjExNWVjZjllOTE5MzJlNDYw",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDg3YTZjMzBhNzFjMzM3NzgxNGU1ZWI4M2YyZThhZTg3",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Situationship",
+        "url": "https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "24 Hrs",
         "url": "https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 167945,
       "name": "24 Hrs (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Situationship",
-        "url": "https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF"
-      },
-      "artists": [
-        {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Situationship",
-      "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
     },
     {
       "added_at": "2022-07-15 04:00:00",

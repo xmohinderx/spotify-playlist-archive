@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,451 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,519 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 96 | [Fuck Up the Friendship](https://open.spotify.com/track/1ddKUwm3UuvcMWLLAgOIcX) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Fuck Up the Friendship](https://open.spotify.com/album/6OYKLdkagNi7b1cANWVAMg) | 2:52 |
 | 97 | [Why Can't You Love Me Now](https://open.spotify.com/track/104LG5z9LVvErMHYMhFks4) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Why Can't You Love Me Now](https://open.spotify.com/album/7IkGQqLHEe1pr2wqgQcCnA) | 3:32 |
 | 98 | [I Need Love](https://open.spotify.com/track/7m9sGc7Hc1g3NbBENi1PMa) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [There's Only Being Yourself](https://open.spotify.com/album/39M0gBqg32iFT5unERsKXv) | 4:26 |
-| 99 | [EMPATHY](https://open.spotify.com/track/7Mg30M7Yt6EBV7sN00Xr9k) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7A66n9P2h3Cfbuh5YZDNqZ) | 3:15 |
+| 99 | [EMPATHY](https://open.spotify.com/track/5csiTZbWuNHlU6kkqElpad) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7dwjYiomQezxXA6Gwd0fUE) | 3:15 |
 | 100 | [See Me Now](https://open.spotify.com/track/4DqxKIhAKHwiHk5WwBbXzU) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [See Me Now](https://open.spotify.com/album/60SPKbQofyJ9aqlWe6ugHr) | 3:04 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDRiZmZhNTBlYzg0OGY3MDA5M2RhNjZhOTBlYzBkZGUx`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDczNTlkZDViZTc1OTZkNWUzNGMwNDFiNjVjMTQ4ZmVi`

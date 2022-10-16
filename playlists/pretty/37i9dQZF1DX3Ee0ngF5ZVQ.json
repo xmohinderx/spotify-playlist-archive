@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randy Rogers Band",
-  "num_followers": 387152,
+  "num_followers": 387220,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMTMzMiwwMDAwMDAwMGNiZGVjYmUzZDIxYTNlMGNkOTllOWIzNDc1NmNkZmU4",
+  "snapshot_id": "MTY2NTcyMTMzMiwwMDAwMDAwMDBlZTgwNjg2MjQ3ZDg2YWNkMTVjN2E1YmFjNjA2MWJh",
   "tracks": [
     {
       "added_at": "2022-10-14 04:22:12",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
-    },
-    {
-      "added_at": "2022-10-14 04:22:12",
-      "album": {
         "name": "Handle On You",
         "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 219333,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
+    },
+    {
+      "added_at": "2022-10-14 04:22:12",
+      "album": {
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
-    },
-    {
-      "added_at": "2022-10-14 04:22:12",
-      "album": {
         "name": "You In A Honky Tonk",
         "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183570,
       "name": "You In A Honky Tonk",
       "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+    },
+    {
+      "added_at": "2022-10-14 04:22:12",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
+        "name": "Neon You",
+        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
+    },
+    {
+      "added_at": "2022-10-14 04:22:12",
+      "album": {
         "name": "Varsity Type",
         "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 244290,
       "name": "Boy From Anderson County",
       "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
-    },
-    {
-      "added_at": "2022-10-14 04:22:12",
-      "album": {
-        "name": "Neon You",
-        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
-      },
-      "artists": [
-        {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Neon You",
-      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
-    },
-    {
-      "added_at": "2022-10-14 04:22:12",
-      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2022-10-14 04:22:12",
+      "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Two Left Feet",
-        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok"
       },
       "artists": [
         {
-          "name": "Cameron James Smith",
-          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Two Left Feet",
-      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
+      "duration_ms": 268707,
+      "name": "Sick and Tired",
+      "url": "https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Tears the Size of Texas",
-        "url": "https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok"
+        "name": "Two Left Feet",
+        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
       },
       "artists": [
         {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+          "name": "Cameron James Smith",
+          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
         }
       ],
-      "duration_ms": 268707,
-      "name": "Sick and Tired",
-      "url": "https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW"
+      "duration_ms": 194298,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Breaking Every Heart In Texas",
-        "url": "https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 206178,
-      "name": "Breaking Every Heart In Texas",
-      "url": "https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80"
-    },
-    {
-      "added_at": "2022-10-14 04:22:12",
-      "album": {
         "name": "Western Tears",
         "url": "https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 248666,
       "name": "Western Tears",
       "url": "https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq"
+    },
+    {
+      "added_at": "2022-10-14 04:22:12",
+      "album": {
+        "name": "Breaking Every Heart In Texas",
+        "url": "https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 206178,
+      "name": "Breaking Every Heart In Texas",
+      "url": "https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Pleasure in the Pain (Acoustic)",
-        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 238132,
-      "name": "Pleasure in the Pain (Acoustic)",
-      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
-    },
-    {
-      "added_at": "2022-10-14 04:22:12",
-      "album": {
         "name": "What's Your Drinkin' Song",
         "url": "https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2022-10-14 04:22:12",
       "album": {
-        "name": "Texas & You",
-        "url": "https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ"
+        "name": "Pleasure in the Pain (Acoustic)",
+        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
       },
       "artists": [
         {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Texas & You",
-      "url": "https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z"
+      "duration_ms": 238132,
+      "name": "Pleasure in the Pain (Acoustic)",
+      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
     },
     {
       "added_at": "2022-10-14 04:22:12",
@@ -1667,6 +1651,22 @@
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2022-10-14 04:22:12",
+      "album": {
+        "name": "Texas & You",
+        "url": "https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Texas & You",
+      "url": "https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z"
     },
     {
       "added_at": "2022-10-14 04:22:12",

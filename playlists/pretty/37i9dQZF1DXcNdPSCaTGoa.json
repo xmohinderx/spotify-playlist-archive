@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 27562,
+  "num_followers": 27580,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGE0OTZhYTRkZjViODIzNDcwODExZmE3Zjk5ODI3MDdj",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGE4NDA2MTMwMzY3YTBlNDM5ZjQ0N2M2MzRhMTdhNTQ3",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
     },
     {
-      "added_at": "2020-03-16 14:57:25",
-      "album": {
-        "name": "Lenyora",
-        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 341506,
-      "name": "Groovers Prayer",
-      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Respect Toasted Gona' Ganati",
@@ -327,6 +311,22 @@
       "duration_ms": 347960,
       "name": "Magasman",
       "url": "https://open.spotify.com/track/4HxFndd2LoR2MBtYABjBlv"
+    },
+    {
+      "added_at": "2020-03-16 14:57:25",
+      "album": {
+        "name": "Lenyora",
+        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 341506,
+      "name": "Groovers Prayer",
+      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -599,22 +599,6 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
         "name": "Best of TK",
         "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 306786,
       "name": "How Do You Feel",
       "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+    },
+    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Jack Parow",
@@ -735,22 +751,6 @@
       "duration_ms": 248933,
       "name": "Cooler as Ekke",
       "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/1IRqLL1Bsaz158w1DkqpwJ"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        }
-      ],
-      "duration_ms": 387500,
-      "name": "Heavenly Sent",
-      "url": "https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg"
     },
     {
       "added_at": "2019-02-03 07:20:41",
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/05Q9XpYvVBvOMjebS7POqm"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
+      "added_at": "2019-02-03 06:58:55",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/1IRqLL1Bsaz158w1DkqpwJ"
       },
       "artists": [
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
         }
       ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+      "duration_ms": 387500,
+      "name": "Heavenly Sent",
+      "url": "https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc"
     },
     {
-      "added_at": "2019-02-12 08:16:33",
-      "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
-      },
-      "artists": [
-        {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
-        }
-      ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Kalawa Jazmee Classics: Bongo Maffin",
@@ -911,6 +895,22 @@
       "duration_ms": 388226,
       "name": "Umlilo",
       "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
+    },
+    {
+      "added_at": "2019-02-12 08:16:33",
+      "album": {
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+      },
+      "artists": [
+        {
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
     },
     {
       "added_at": "2019-02-03 07:20:41",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
+      "added_at": "2019-02-03 07:20:41",
       "album": {
-        "name": "Ancient Evening",
-        "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
+        "name": "The Best Of Da Best",
+        "url": "https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C"
       },
       "artists": [
         {
-          "name": "Sibongile Khumalo",
-          "url": "https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI"
+          "name": "M'du",
+          "url": "https://open.spotify.com/artist/0AfJczz6uFcaUSSSCVv6qT"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Thula Mama",
-      "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
+      "duration_ms": 329320,
+      "name": "Hey Kop",
+      "url": "https://open.spotify.com/track/1VQsFRvJde95Wtkp3rk4yf"
     }
   ],
   "unique_name": "SA Gold",

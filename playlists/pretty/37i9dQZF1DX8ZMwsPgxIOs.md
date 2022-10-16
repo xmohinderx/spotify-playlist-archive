@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: TIBASKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,051 likes - 98 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,126 likes - 98 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 15 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
 | 16 | [Ready To Roll](https://open.spotify.com/track/4iuiFb9jw1mykbY8TcoCmF) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready To Roll](https://open.spotify.com/album/1WMfD1ahZbc4vXyUZ8s8VM) | 5:35 |
 | 17 | [Red Sky](https://open.spotify.com/track/7oEWZNifk5RQqwVIsjUuH4) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Red Sky](https://open.spotify.com/album/2Oz5O25E8HxRr9zmRgFjj9) | 7:51 |
-| 18 | [Now Is](https://open.spotify.com/track/0bMyeYH8xLWRRUO8iA6XSp) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/2aY0VjB49Ko4xfyCIZvpGT) | 6:31 |
+| 18 | [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 |
 | 19 | [Eva's Stoned](https://open.spotify.com/track/4gPzO5yFrDxHe6obIAIOq3) | [Jay Carder](https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK) | [Eva's Stoned](https://open.spotify.com/album/3nrzfqIiLa33hA8B71Fkw0) | 6:25 |
 | 20 | [Right to Riot](https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Right to Riot](https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT) | 5:00 |
 | 21 | [Grammar](https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Grammar](https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi) | 7:41 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 97 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 | 98 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDQxNjAyZGFhNzg4MDBkNTMyYzQxMGJhYzIyZTgzZjJi`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDVmMzU4ZTllYmNjNmU2ZDU1OGZhYThjMWI0NjFlYzhh`

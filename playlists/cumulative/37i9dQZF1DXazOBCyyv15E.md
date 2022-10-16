@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: PVA
 
-1,120 songs - 2 day 18 hr 30 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,122 songs - 2 day 18 hr 35 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Cat's Pyjamas](https://open.spotify.com/track/1VMgGCikMto2UHDd0iKHaA) | [Caro](https://open.spotify.com/artist/7ueeHPtmgwKNTjVh0Sjggw) | [Cat's Pyjamas](https://open.spotify.com/album/63kMMrtsHqDBLKzixT0EfR) | 2:56 | 2020-09-29\* | 2020-10-23 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2022-09-16 |
 | [Caught Up & Confused](https://open.spotify.com/track/26LYCq0lA8HT3cCmaXHSAI) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Caught Up & Confused](https://open.spotify.com/album/1ZNVpcL5uddUEzd0c0lrlV) | 3:24 | 2020-09-29\* | 2020-10-02 |
-| [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 | 2022-09-15 |  |
+| [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 | 2022-09-15 | 2022-10-16 |
+| [Cdbaby<3](https://open.spotify.com/track/5tSlvnrTOy6rQpam9iZUKh) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:42 | 2022-10-13 |  |
 | [Centre of Nowhere](https://open.spotify.com/track/3h3YKESEZ49rxHzzFqJ07B) | [Fizzy Blood](https://open.spotify.com/artist/1b4CSS8iXMbRk0fQ5HxcKJ) | [Centre of Nowhere](https://open.spotify.com/album/4LvhtjdxnJeUK1fCsi3whS) | 4:00 | 2022-09-15 |  |
 | [Chandeliers, Bullets and Guns](https://open.spotify.com/track/6jX7oIyuu6wVT5nzdyeAra) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Chandeliers, Bullets and Guns](https://open.spotify.com/album/008Bi2In642wqnuTjEee7Y) | 2:48 | 2021-10-01 | 2022-03-09 |
 | [Change Nothing](https://open.spotify.com/track/0eTMfwDd9S4gKAi47sG25A) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [Change Nothing](https://open.spotify.com/album/3wyBQ6hKvDUqpUfXoGDYea) | 3:47 | 2020-09-29\* | 2020-11-20 |
@@ -350,7 +351,8 @@
 | [forest ave](https://open.spotify.com/track/5erRkajLz0wfz4VRks4adQ) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest ave](https://open.spotify.com/album/5Ii2RjeydX0L1D7DqPDjww) | 2:32 | 2021-08-06 | 2021-10-01 |
 | [Forever Is Too Long](https://open.spotify.com/track/0EH1NRDT9U59ZfiuJL78XN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Forever Is Too Long](https://open.spotify.com/album/5bUHhNVlJkZOVA51BKX04x) | 4:10 | 2022-10-06 |  |
 | [forget—me—not! \(feat\. Instupendo\)](https://open.spotify.com/track/12FHngId8yX7Ke2SL05cet) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [little\*stars](https://open.spotify.com/album/2I1dafNnVSLe0pe17KOrHN) | 3:18 | 2020-11-13 | 2021-02-12 |
-| [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 | 2022-10-06 |  |
+| [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 | 2022-10-13 |  |
+| [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 | 2022-10-06 | 2022-10-16 |
 | [Four Reasons](https://open.spotify.com/track/3sn0PJ7F42glUcDxYdiHiG) | [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Four Reasons](https://open.spotify.com/album/2R7VBgU6zMmyqGVVnzOfN9) | 3:22 | 2021-08-13 | 2021-10-01 |
 | [Frankie Intoleratoriano](https://open.spotify.com/track/47V2Zavu8Prbz4cPi3C3V0) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Supertext](https://open.spotify.com/album/6eaSsNcZcsEvhYr2mF9rqX) | 1:46 | 2021-10-16 | 2021-12-03 |
 | [FRANKIE MUNIZ](https://open.spotify.com/track/1E8O2FNVuBRkXdS33iULOV) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [FRANKIE MUNIZ](https://open.spotify.com/album/6uSQN4AgIUSdhU3tjNgg5v) | 3:38 | 2020-09-29\* | 2020-10-23 |

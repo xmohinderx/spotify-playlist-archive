@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14365,
+  "num_followers": 14370,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDljMTEyZDY5NTNlYmMyZGE0ZmIxNjBkODU4MjRlYjQ0",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDNiZWYwZjMwOTBlNDhjMzMzMzJiMTNlOTc3YjZiM2Fl",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Silver Lining (DubVision Remix)",
-        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Silver Lining - DubVision Remix",
-      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Silver Lining (DubVision Remix)",
+        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Silver Lining - DubVision Remix",
+      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1039,6 +1039,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "BED (Joel Corry VIP Mix)",
+        "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 179078,
+      "name": "BED - Joel Corry VIP Mix",
+      "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Scare Me (feat. KSHMR & Karra) [Chico Rose Remix]",
         "url": "https://open.spotify.com/album/0mCZ56iVnJ33wPxfRBPGcO"
       },
@@ -1067,30 +1091,6 @@
       "duration_ms": 142593,
       "name": "Scare Me (feat. KSHMR & Karra) - Chico Rose Remix",
       "url": "https://open.spotify.com/track/2bynw6Zc1Er7Zf9qm0ayDP"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "BED (Joel Corry VIP Mix)",
-        "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 179078,
-      "name": "BED - Joel Corry VIP Mix",
-      "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Love Line (with Tinashe) [HUGEL Remix]",
-        "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
-      },
-      "artists": [
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 145638,
-      "name": "Love Line (with Tinashe) - HUGEL Remix",
-      "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Free Your Body (Noizu Remix)",
         "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
       },
@@ -1351,6 +1327,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Love Line (with Tinashe) [HUGEL Remix]",
+        "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 145638,
+      "name": "Love Line (with Tinashe) - HUGEL Remix",
+      "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "LIES (VIP Mix)",
         "url": "https://open.spotify.com/album/4sDmw1vDLys1zBOqwuM98K"
       },
@@ -1367,30 +1367,6 @@
       "duration_ms": 189747,
       "name": "LIES - VIP Mix",
       "url": "https://open.spotify.com/track/67hioVhWrtqUF5WOZpI2V6"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Spa (James Hype Remix)",
-        "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Spa - James Hype Remix",
-      "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1415,6 +1391,30 @@
       "duration_ms": 172020,
       "name": "Do It Like Me (feat. B-Case) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/4Zy6ClzaV1UbBPxhw1J1RP"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Spa (James Hype Remix)",
+        "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Spa - James Hype Remix",
+      "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "One More Time (feat. Alida) [Tobtok Remix]",
         "url": "https://open.spotify.com/album/0Q8dZVc7TzXiwGPy1D259W"
       },
@@ -1587,6 +1563,30 @@
       "duration_ms": 176326,
       "name": "One More Time (feat. Alida) - Tobtok Remix",
       "url": "https://open.spotify.com/track/3LdIlLTimyTyVfscwHwMiQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1639,30 +1639,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Show Me Love (Sander van Doorn Remix)",
-        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Show Me Love - Sander van Doorn Remix",
-      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Show Me Love (Sander van Doorn Remix)",
+        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Show Me Love - Sander van Doorn Remix",
+      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2259,26 +2259,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "PURE (The Remixes)",
         "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
       },
@@ -2295,6 +2275,26 @@
       "duration_ms": 384000,
       "name": "PURE (Reinier Zonneveld Remix)",
       "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     },
     {
       "added_at": "2021-07-30 04:00:00",

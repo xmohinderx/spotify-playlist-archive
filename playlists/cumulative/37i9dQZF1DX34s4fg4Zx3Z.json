@@ -3258,6 +3258,24 @@
     },
     {
       "album": {
+        "name": "Em ah em \u01a1i",
+        "url": "https://open.spotify.com/album/4NryrTPc8NszuswYIxxfRh"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1ea1t Dope",
+          "url": "https://open.spotify.com/artist/00GClaLWFWlgiL2ErXzToa"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166150,
+      "name": "Em ah em \u01a1i",
+      "url": "https://open.spotify.com/track/5De0PeCw2yohqLp7woC6Hp"
+    },
+    {
+      "album": {
         "name": "Em Ch\u1eb3ng T\u00ecm Th\u1ea5y \u0110\u00e2u",
         "url": "https://open.spotify.com/album/6QCiBQt5Gys1Gs2bTDa5OL"
       },
@@ -6799,7 +6817,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 212947,
       "name": "M\u1ed9t K\u1ebb Nh\u01b0 Anh",
       "url": "https://open.spotify.com/track/40WTxyvDb3lCN8GG7WeYvY"
@@ -7965,7 +7983,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 223655,
       "name": "N\u00fat C\u1ed1t",
       "url": "https://open.spotify.com/track/0N3B2Ej1smEo5LOo51x3Np"
@@ -7991,6 +8009,24 @@
       "duration_ms": 287269,
       "name": "N\u01a1i Ta D\u1eebng L\u1ea1i",
       "url": "https://open.spotify.com/track/5IorS33bBdPp8YEpzu2ti2"
+    },
+    {
+      "album": {
+        "name": "N\u1eafng Gi\u00f3 S\u00e0i G\u00f2n",
+        "url": "https://open.spotify.com/album/4kEwEVsRDgPFEbafshK98D"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea V\u0169",
+          "url": "https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206317,
+      "name": "N\u1eafng Gi\u00f3 S\u00e0i G\u00f2n",
+      "url": "https://open.spotify.com/track/4PXCbHmmpiaLG9irgftpI2"
     },
     {
       "album": {

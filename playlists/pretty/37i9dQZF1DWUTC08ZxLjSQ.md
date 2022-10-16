@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Yvzid, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 875 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 913 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 11 | [i love you](https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq) | [LOSTBOY](https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV), [Offkaktus](https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh) | [Lost Garden](https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1) | 3:24 |
 | 12 | [Think Twice](https://open.spotify.com/track/1uj9pZGxrh39WcgPdsx7DU) | [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6), [LrdBrn](https://open.spotify.com/artist/1JSjqgvUtMYWDmnYsmI5mJ) | [Think Twice](https://open.spotify.com/album/2zHKIVOACJGhAflSCqU1UD) | 2:13 |
 | 13 | [Lili Twil](https://open.spotify.com/track/19ppkSHBDgKow8UxPPds3h) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Lili Twil](https://open.spotify.com/album/3ck71v60wN64HTn3FDBHO4) | 2:40 |
-| 14 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/0t2z174ebyjYSPHy7Yzgb9) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 |
+| 14 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 |
 | 15 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
 | 16 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 |
 | 17 | [Slow Dance](https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Slow Dance](https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u) | 2:15 |

@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: HALIENE.
 
-265 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+266 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/album/3VH8ly1obBbFxSJodod4eD) | 4:13 | 2022-09-16 |  |
 | [Future Ghost \(feat\. Violette Wautier\)](https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Future Ghost \(feat\. Violette Wautier\)](https://open.spotify.com/album/7L3t2HadtexkFDvW4MPlJH) | 2:56 | 2022-07-08 | 2022-08-06 |
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-07-08 | 2022-08-13 |
-| [Ghost](https://open.spotify.com/track/1kdYy78bKEwq5gAxtb71nF) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Ghost](https://open.spotify.com/album/3IL37Yk9CZIknEv5fuOeHG) | 3:42 | 2022-07-08 |  |
+| [Ghost](https://open.spotify.com/track/1kdYy78bKEwq5gAxtb71nF) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Ghost](https://open.spotify.com/album/3IL37Yk9CZIknEv5fuOeHG) | 3:42 | 2022-07-08 | 2022-10-16 |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-08 |  |
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 | 2022-10-11 |
 | [Glass Heart \- Last Heroes Remix](https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97) | [Glass Heart \(Last Heroes Remix\)](https://open.spotify.com/album/5ksQTlOli0X5clkM69OITQ) | 3:32 | 2022-07-08 | 2022-08-27 |
@@ -136,6 +136,7 @@
 | [I Would Never](https://open.spotify.com/track/326nNqs0vqJ96Tr4FZBSt1) | [Pushing Daizies](https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf) | [Initium](https://open.spotify.com/album/7a7YloJDEqVN6sSGmZqgdV) | 3:22 | 2022-07-08 |  |
 | [In the Dark](https://open.spotify.com/track/7650fasilpmWpFW7QX47pi) | [My Bad](https://open.spotify.com/artist/63L7fapgmG0gsJPlsMr6ui), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [In the Dark](https://open.spotify.com/album/3KOoU1YstjcVaim2qpz9oX) | 3:39 | 2022-07-08 | 2022-08-27 |
 | [In Too Deep](https://open.spotify.com/track/5p4xlfn5rNUXAfGo8x6dUS) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [TRØVES](https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg) | [In Too Deep](https://open.spotify.com/album/7f4Sd37SBX6FadBa2YmmAa) | 4:24 | 2022-07-08 |  |
+| [It's All You](https://open.spotify.com/track/4IVpkOqPbxS3kIllPE3pDl) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [It's All You](https://open.spotify.com/album/3PJHOz8SBtwsQxjbKLqLne) | 3:16 | 2022-10-07 |  |
 | [It's Not Too Late](https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 4:34 | 2022-08-12 |  |
 | [It's Not Too Late](https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 4:34 | 2022-08-12 | 2022-09-10 |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-30 |  |

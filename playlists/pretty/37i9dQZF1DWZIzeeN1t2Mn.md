@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,496 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,511 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 18 | [Water \(with Mahalia\)](https://open.spotify.com/track/6I15UB0IPWQhJNJEPQ1gLE) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Water](https://open.spotify.com/album/4XcNB4VTSkl2cKVRci10Z4) | 3:27 |
 | 19 | [Many Moods: Manifesto](https://open.spotify.com/track/1aUI6hBGedCFz3240pPS3i) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Manifesto](https://open.spotify.com/album/4v9Td6fjmFAmZj1KCSPu0j) | 2:10 |
 | 20 | [Redemption](https://open.spotify.com/track/3uaE3Y0rY09kDJxGDlpNFy) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt), [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [Redemption](https://open.spotify.com/album/0wuWP88YfJ4s5PEZ8PyevM) | 2:56 |
-| 21 | [Many Moods: Good Man](https://open.spotify.com/track/7E723jms0rFtzUY2GCvEoW) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Good Man](https://open.spotify.com/album/3vfLlKACFs1zToGhRv72MR) | 2:42 |
+| 21 | [Many Moods: Good Man](https://open.spotify.com/track/3KkiwkUfufrHKUL15ybQU6) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Good Man](https://open.spotify.com/album/0sh5x6isyUDAMfVvmz7SIs) | 2:42 |
 | 22 | [Forever Grateful](https://open.spotify.com/track/2hz7YnCZKVbPdrDjXTQiDn) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:13 |
 | 23 | [I Got the Juice](https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4) | [Dream Junkies](https://open.spotify.com/artist/4kdiOW48WHjXhcurtEoTHU), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T), [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Good Religion](https://open.spotify.com/album/736eXA6VlJZwirLsvOt8Wi) | 3:54 |
 | 24 | [Ultralight Beam](https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:20 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGJjMjMxNjgxMjUyMjFkNWI0NTIxMjEyZGI5NjM5MzBk`
+Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGYxNGY2YzY0MDBjYWViNzZkYzQyMjZmNDU2NzNlYjUz`

@@ -293,6 +293,24 @@
     {
       "album": {
         "name": "Rockin' Ride-Along Songs",
+        "url": "https://open.spotify.com/album/6gQCF7uOLmdFvqopFRVvIS"
+      },
+      "artists": [
+        {
+          "name": "Blaze and the Monster Machines",
+          "url": "https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31068,
+      "name": "Blaze and the Monster Machines Theme Song",
+      "url": "https://open.spotify.com/track/1GzfnrqhJFsm2UK7dHRCea"
+    },
+    {
+      "album": {
+        "name": "Rockin' Ride-Along Songs",
         "url": "https://open.spotify.com/album/1isb3iavBKHs5oXLtzkIA5"
       },
       "artists": [
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 65549,
       "name": "It's a Beautiful Day in the Neighborhood",
       "url": "https://open.spotify.com/track/3iJWxiZFXAZodMuZdNCgVY"

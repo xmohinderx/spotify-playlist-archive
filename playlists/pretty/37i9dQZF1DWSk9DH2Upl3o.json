@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 8112,
+  "num_followers": 8179,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGZiMDU3NmYxZjQxMDcyYTEwZTU2N2I5ZmMyYzVjMzg4",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDBhYzY0ODQ1YzAwOWE5YmRjZGZmNDRlMTM0OGU4ZTM3",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Moon Cabin",
@@ -55,6 +39,22 @@
       "duration_ms": 395013,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -551,8 +551,8 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 339120,
-      "name": "Opelika Yella",
-      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
-      },
-      "artists": [
-        {
-          "name": "Cytrus",
-          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
-        }
-      ],
-      "duration_ms": 247206,
-      "name": "When Ya Hustle",
-      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Collisions",
@@ -611,6 +595,22 @@
       "duration_ms": 327541,
       "name": "Mokuba",
       "url": "https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
+      },
+      "artists": [
+        {
+          "name": "Cytrus",
+          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
+        }
+      ],
+      "duration_ms": 247206,
+      "name": "When Ya Hustle",
+      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -695,8 +695,8 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+      "duration_ms": 339120,
+      "name": "Opelika Yella",
+      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
     },
     {
       "added_at": "2022-06-23 13:45:43",

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1980s.
 
-309 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/5LLxIJKkk3kduPHFGC4boP)
+310 songs - 22 hr 54 min - [published](https://open.spotify.com/playlist/5LLxIJKkk3kduPHFGC4boP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [I'll Be There For You](https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:46 | 2021-02-02 |  |
 | [I'll Find My Way Home](https://open.spotify.com/track/3RjyVvrqmS26Sq6vUMswWd) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mr Cairo](https://open.spotify.com/album/44nDF4z9kaLl4yZmRnUVvN) | 4:31 | 2022-01-10 | 2022-04-21 |
 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 | 2021-02-02 |  |
-| [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 | 2021-02-02 |  |
+| [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 | 2021-02-02 | 2022-10-16 |
 | [I've Never Been To Me](https://open.spotify.com/track/6DMOzL2zPZBAW0LDYCYLWm) | [Charlene](https://open.spotify.com/artist/52o9SO5Qt09Vr9bDCbTbmu) | [I've Never Been To Me](https://open.spotify.com/album/7rXwVP5P5mfUQUTYYD6Jza) | 3:54 | 2021-02-02 |  |
 | [If I Believed](https://open.spotify.com/track/6aKJCqUEFQdnkndRUsInbA) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Gettin' Away With Murder](https://open.spotify.com/album/33i2vpiXHl5fE1iHZJwRfL) | 3:28 | 2022-01-10 | 2022-04-21 |
 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 | 2021-02-02 |  |
@@ -204,6 +204,7 @@
 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 | 2021-02-02 |  |
 | [One Day In Your Life](https://open.spotify.com/track/0PAsTgSf6qOgZAvmQ1nhNh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Definitive Collection](https://open.spotify.com/album/1taiwc7i9KsE0GklRJ42HS) | 4:13 | 2021-02-02 | 2022-07-29 |
 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 | 2022-01-10 | 2022-08-30 |
+| [One Moment in Time](https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:45 | 2022-05-25 |  |
 | [One Moment in Time \- Remastered](https://open.spotify.com/track/0wnRRFzKLDdI5jjvDP3lZV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:43 | 2021-02-02 | 2022-07-29 |
 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:48 | 2021-02-02 |  |
 | [One Of Us](https://open.spotify.com/track/40IHflbrHcOuC8ZcYxUSAC) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV) | 3:57 | 2021-02-02 | 2022-07-29 |

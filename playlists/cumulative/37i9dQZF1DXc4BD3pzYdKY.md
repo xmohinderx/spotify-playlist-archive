@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: Tedashii
 
-693 songs - 1 day 10 hr 56 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+694 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Hold Me Back](https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Hold Me Back](https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E) | 3:07 | 2022-08-06 |  |
 | [Hold Me Back](https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Hold Me Back](https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y) | 2:18 | 2022-07-17 | 2022-08-07 |
 | [Hold Me Back](https://open.spotify.com/track/3gUNUVhRpViHxvZ4FGmIyQ) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Hold Me Back](https://open.spotify.com/album/4CDgSpZl8ABSAKcLQ1Xc6o) | 2:18 | 2022-04-29 | 2022-07-29 |
-| [Hold Me Down](https://open.spotify.com/track/2KZmhyKheOl8klQlHNuGEa) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye) | [Hold Me Down](https://open.spotify.com/album/7FyWFjrhwLE07TfheKpZmm) | 2:55 | 2022-09-16 |  |
+| [Hold Me Down](https://open.spotify.com/track/2KZmhyKheOl8klQlHNuGEa) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye) | [Hold Me Down](https://open.spotify.com/album/7FyWFjrhwLE07TfheKpZmm) | 2:55 | 2022-09-16 | 2022-10-16 |
 | [Hold Me Down](https://open.spotify.com/track/3GJnj7Mj9Y4IdaO4cXURnQ) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Never Fold](https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1) | 3:11 | 2021-12-11 | 2022-01-30 |
 | [Holy](https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Holy](https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP) | 2:29 | 2022-03-12 | 2022-08-07 |
 | [Holy Flow](https://open.spotify.com/track/2AVFpcbFBquVEFZhcnnjIP) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Holy Flow](https://open.spotify.com/album/220reHFklX9heMxnvFwNUw) | 1:52 | 2022-02-04 | 2022-04-29 |
@@ -593,6 +593,7 @@
 | [Testify](https://open.spotify.com/track/5dGjFxlQaByznBTsP4v8CU) | [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [For the Love of Money](https://open.spotify.com/album/79goInVRpwSXbqcmRbtOpQ) | 3:17 | 2021-12-11 | 2022-01-11 |
 | [Testify](https://open.spotify.com/track/7kacYLL6g1KKUWhqqSf7VF) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [MOOD // DOOM](https://open.spotify.com/album/1N2JItp5ES3Aaeuues0Qar) | 3:39 | 2021-12-11 | 2022-01-02 |
 | [Testimony](https://open.spotify.com/track/2khB2142tcviOUkramDWmK) | [WAHB](https://open.spotify.com/artist/1reUA7MzBqJ2CdIdyFisFm) | [Testimony](https://open.spotify.com/album/45kXtXyLK7X8H29bjfSbTU) | 3:39 | 2021-12-11 | 2022-02-01 |
+| [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan](https://open.spotify.com/artist/4QRvZa6un8H2yZvhVLQVSg), [Eris](https://open.spotify.com/artist/1t5JWUNgPV06FR9X0Jmkve) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 | 2022-10-14 |  |
 | [That's a Lie](https://open.spotify.com/track/6hacfZwhd7fdRwqae5MaLu) | [K\-Drama](https://open.spotify.com/artist/1PXBwNCd6LaX8iJTDwdC30) | [That's a Lie](https://open.spotify.com/album/1o0PLj1iHIZC5NWpZmatDE) | 2:54 | 2021-12-11 | 2022-02-01 |
 | [That's a Lie \- Remix](https://open.spotify.com/track/0j6XcCJz5QoX8iLroYmJ2W) | [K\-Drama](https://open.spotify.com/artist/1PXBwNCd6LaX8iJTDwdC30), [Selah the Corner](https://open.spotify.com/artist/5RGpSLDa24rgCKsKIiGuwn), [Lank](https://open.spotify.com/artist/2eoL7JU2LjJZyXX2LlF9uG) | [That's a Lie \(Remix\)](https://open.spotify.com/album/5qOZtmj4Q3hRKswNRlPGUB) | 3:19 | 2021-12-11 | 2022-02-02 |
 | [The Art of Flying](https://open.spotify.com/track/1i9Mq7XyeY4xE00ADR1UO9) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [The Art of Flying](https://open.spotify.com/album/2CHjENIKJx34nOscA1StYy) | 3:29 | 2021-12-11 | 2022-04-29 |

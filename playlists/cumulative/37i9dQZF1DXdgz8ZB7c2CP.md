@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-289 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+290 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Close](https://open.spotify.com/track/1RRbAVWmafQ2ret0RNeubz) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [Close](https://open.spotify.com/album/1xfLQ7Mcvrze0rKFhLAXAv) | 3:54 | 2021-08-06 | 2022-07-29 |
 | [CLOSE2ME](https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [CLOSE2ME](https://open.spotify.com/album/4XjJwCh6Ox1SlMZmIPmr6B) | 3:08 | 2021-10-01 | 2022-06-25 |
 | [Closer 2 U](https://open.spotify.com/track/3JsDhqQSCVK5IRyQtkuxy1) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 3:13 | 2021-08-06 | 2022-07-29 |
+| [cloudy](https://open.spotify.com/track/13ogVSkKK2zmNGDOaaiBc9) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/0Z3FEnCOZaLw0YVnAClBfu) | 2:45 | 2021-08-06 |  |
 | [cloudy](https://open.spotify.com/track/4uN3fqx0mRqf61RemIFhIq) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/5b3lit9cjrFHrBytPJBppS) | 2:45 | 2021-08-06 | 2022-10-14 |
 | [cløud](https://open.spotify.com/track/3zWmdLGRHHjQlmFMQXuMRL) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [cløud](https://open.spotify.com/album/7fMeET29KTCnxxz7xtotDI) | 3:28 | 2021-08-06 | 2022-07-29 |
 | [Colorblind.](https://open.spotify.com/track/6o7OCNQhllaLVRkrGCWFeW) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Colorblind.](https://open.spotify.com/album/7CZvPpkSL9Bl1Z6gzXexbj) | 2:50 | 2022-02-18 | 2022-07-27 |
@@ -56,7 +57,7 @@
 | [Come a Little Closer](https://open.spotify.com/track/4Hl5NLg8HT9T7JIuoXjvoM) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Come a Little Closer](https://open.spotify.com/album/3AKcjUwu0liJoDvcTCdQqH) | 2:27 | 2021-10-29 | 2022-04-15 |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2021-12-24 |  |
 | [Compact Objects](https://open.spotify.com/track/1v3HaK23f4QSOTOQz0blY6) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Compact Objects](https://open.spotify.com/album/1MM99sGlOvrYZI8uGIxlGA) | 4:42 | 2022-06-03 | 2022-07-29 |
-| [Context](https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Context](https://open.spotify.com/album/4xQ4aw8SmHshUSTLYDsa9B) | 4:00 | 2021-08-06 |  |
+| [Context](https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Context](https://open.spotify.com/album/4xQ4aw8SmHshUSTLYDsa9B) | 4:00 | 2021-08-06 | 2022-10-16 |
 | [Cosmopolitan](https://open.spotify.com/track/2e9cFzK33DGQC7mFGttobb) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/2MKcMdWlOzYDIkfqrRMakg) | 4:42 | 2021-08-06 | 2022-08-26 |
 | [Cosmopolitan](https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/5Jj425whuDpbmHTprH49gT) | 4:42 | 2021-08-06 |  |
 | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/track/4bs9wwmLKPKomthCjggWZH) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/album/0tuQ95JwJSUnvY7W9mhBxW) | 3:29 | 2021-12-10 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-383 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+384 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Fool](https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Fool](https://open.spotify.com/album/2WsVcJa42xo5RsbUwGnNSh) | 3:16 | 2022-01-28 | 2022-07-29 |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 |  |
 | [For Days](https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt) | 3:43 | 2022-01-28 | 2022-10-15 |
-| [Forever](https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Forever](https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF) | 2:54 | 2022-01-28 |  |
+| [Forever](https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Forever](https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF) | 2:54 | 2022-01-28 | 2022-10-16 |
 | [forever.](https://open.spotify.com/track/1RwKF4H3Bq567IjRdwwYBq) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [forever.](https://open.spotify.com/album/3mlRTcwRb5HN3xxhToV4Vr) | 3:33 | 2022-03-29 | 2022-04-20 |
 | [Forget About You](https://open.spotify.com/track/4Z6rzupjLzFdjR489LBqwj) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 4:28 | 2022-03-29 | 2022-04-21 |
 | [fragile](https://open.spotify.com/track/1zRhGoceZxBmmi3PzEEelE) | [Gump](https://open.spotify.com/artist/3AwTCm1vskQ9RV8qHoRCOF) | [SITCOM](https://open.spotify.com/album/3tDHoVp55uvCS1LrOh21G2) | 3:33 | 2022-03-29 | 2022-04-15 |
@@ -347,6 +347,7 @@
 | [Unfucktheworld](https://open.spotify.com/track/3DyGcebeqFnG3ropR1bPFX) | [Dylan Pham](https://open.spotify.com/artist/0SSmPhfmyWRy1iFduWAEbV) | [Unfucktheworld](https://open.spotify.com/album/1QE1W1ZeJEX8PEQc8Ft6DJ) | 2:51 | 2022-03-29 | 2022-04-11 |
 | [Use Me](https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Use Me](https://open.spotify.com/album/4AmYRXgAs8RpWppl7s63lk) | 4:00 | 2022-02-18 | 2022-07-02 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-03-11 | 2022-10-13 |
+| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-14 |  |
 | [Vanilla](https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:37 | 2022-06-17 | 2022-07-12 |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-05-27 |  |
 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 | 2022-07-22 |  |

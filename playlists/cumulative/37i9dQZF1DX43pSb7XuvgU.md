@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-154 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/7gdGesjBiNeg3qh20SDm0L)
+155 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/7gdGesjBiNeg3qh20SDm0L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [El Destino](https://open.spotify.com/track/0UibSCifNVSf1tdP7YUj9Z) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mi Historia Musical \- Juan Gabriel](https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe) | 4:45 | 2021-12-29 | 2022-07-29 |
 | [El Destino \(with Juan Gabriel\)](https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juntos Otra Vez \(with Juan Gabriel\)](https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny) | 4:43 | 2021-12-29 |  |
 | [El Día Que Me Acaricies Lloraré](https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:33 | 2021-12-29 |  |
-| [El México Que Se Nos Fue](https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 4:37 | 2021-12-29 |  |
+| [El México Que Se Nos Fue](https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 4:37 | 2021-12-29 | 2022-10-16 |
 | [El México Que Se Nos Fue](https://open.spotify.com/track/5U5dsczxpslaDF2akSvLSK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [25 Aniversario 1971\-1996 Edición, Volúmenes 21 a 25](https://open.spotify.com/album/7sZyPt93cvbX8AK97vM1Mh) | 4:37 | 2021-12-29 | 2022-06-01 |
 | [El Noa Noa](https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:13 | 2021-12-29 |  |
 | [El Sinaloense](https://open.spotify.com/track/4VvBpxScNFzbJpqiE0HZTg) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo Banda](https://open.spotify.com/album/3e45ar1IstMiHykax3Vidl) | 3:08 | 2021-12-29 | 2022-07-22 |
@@ -92,6 +92,7 @@
 | [Me Gusta Estar Contigo](https://open.spotify.com/track/2jqoFqfRc2MpmZlOfMnGQZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [16 Éxitos De Oro](https://open.spotify.com/album/2oqyi3crNhMFM1gIh2JflP) | 3:10 | 2021-12-29 | 2022-07-11 |
 | [Me Gustas Mucho](https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT) | 2:35 | 2021-12-29 |  |
 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 | 2021-12-29 |  |
+| [Mi Vida](https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Musica Original De La Pelicula Gavilan O Paloma](https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy) | 4:06 | 2021-12-29 |  |
 | [Mi Vida](https://open.spotify.com/track/5R7C9FzhN3l7T01xASxcQ4) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Mi Vida](https://open.spotify.com/album/1HuSZHj0dzSOaqNQbyv9R2) | 4:09 | 2021-12-29 | 2022-07-29 |
 | [Mientras Llueve](https://open.spotify.com/track/5bV4nYoPmhTkUShCMs8H8a) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 2:55 | 2021-12-29 |  |
 | [Mujeriego](https://open.spotify.com/track/2djCa914hXJtSJPxN3ziCX) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Mujeriego](https://open.spotify.com/album/4YHcmItN6rTUvpqee34QxL) | 3:48 | 2021-12-29 |  |

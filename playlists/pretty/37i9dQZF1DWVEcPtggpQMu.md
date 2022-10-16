@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5?si=xsgxChjCRya87hLza\_FLvw">DJ Sliqe</a> , <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=ww0kbUyXSG2YbDOi3Wx4MA">Maglera Doe Boy</a> and <a href="https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=\-w0WXrX3Tli0DjW4yhGlkg">25K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,749 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,774 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 6 | [Milli](https://open.spotify.com/track/1aZDZjXRiAScYxLT9ZaRMI) | [Tebogo Wa Pitori](https://open.spotify.com/artist/4fmXw46U61bjoK3AL2xw9y) | [Novelist Of Distinction](https://open.spotify.com/album/2Ef7S0utz4z51W8NhwVUfn) | 2:44 |
 | 7 | [Get To Working](https://open.spotify.com/track/0IUM796sKtZbrI1mnt5OV9) | [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Get To Working](https://open.spotify.com/album/5oKDUz7mzmSREm0wrkU4ys) | 2:52 |
 | 8 | [SUPREME](https://open.spotify.com/track/502pGwAEVBh8z59oOJY3N2) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp) | [Talk to Me Naace](https://open.spotify.com/album/2yVW8fu5S5LomeioeSKPlE) | 2:50 |
-| 9 | [Mina](https://open.spotify.com/track/1BqHLSv9P46QdTPkIXXHfH) | [Asvnte](https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Mina](https://open.spotify.com/album/3QaokFDl2sY97YpYHXOXSs) | 2:46 |
+| 9 | [Mina](https://open.spotify.com/track/1BqHLSv9P46QdTPkIXXHfH) | [Asvnte](https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Mina](https://open.spotify.com/album/3QaokFDl2sY97YpYHXOXSs) | 2:48 |
 | 10 | [Keep on Trying](https://open.spotify.com/track/46ZIidT5KxT2RkTlZzzd11) | [Ruff Kid](https://open.spotify.com/artist/7wR6ixPKdVzU7K1Vi4DO6z), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [Lolli Native](https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0) | [Keep on Trying](https://open.spotify.com/album/4x2lgV9ziJFDPynOcuX7ii) | 3:28 |
 | 11 | [Purple Palm Trees](https://open.spotify.com/track/5mVlqgCFNNOeXsRuMltdNQ) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Purple Palm Trees](https://open.spotify.com/album/0rymWzprErLF6URdCN8vS9) | 3:32 |
 | 12 | [WIN](https://open.spotify.com/track/1HCze2s8KOw9riGVTnGeJh) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w) | [MUD](https://open.spotify.com/album/39PUlolgMi1D3k4SNgzsHZ) | 5:14 |

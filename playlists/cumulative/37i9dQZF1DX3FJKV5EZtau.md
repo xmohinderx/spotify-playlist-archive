@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-294 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+295 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [cartrîdge](https://open.spotify.com/track/0lMfmKs4R0V9G1fpIO0JJw) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [cartrîdge](https://open.spotify.com/album/7nO2jOgpYah46ziK8EOEaR) | 2:33 | 2022-01-07 | 2022-07-29 |
 | [Changa \- Blanke Remix](https://open.spotify.com/track/5TL9e2xgtvJFtNCBsq1CgX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Changa](https://open.spotify.com/album/5kwv2A2qAK8pN007hSA56t) | 3:08 | 2022-03-11 |  |
 | [Channel 43 \- Radio Edit](https://open.spotify.com/track/2m9ryxnEcVoQNr22KRxe09) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Channel 43](https://open.spotify.com/album/6GTPauuGqd0apuW1moW6dD) | 3:04 | 2022-01-07 | 2022-10-13 |
+| [Channel 43 \- Radio Edit](https://open.spotify.com/track/32BKtTFLWpi73DwLWWEswe) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Channel 43](https://open.spotify.com/album/2JRRLpd3O6xb6gITipeQGr) | 3:04 | 2022-10-07 |  |
 | [Charisma](https://open.spotify.com/track/1pAbqGUiV6lQwofu1m31b3) | [Elliot Hsu](https://open.spotify.com/artist/1gnHg0HnaetLp2GKkX7dSi) | [Charisma](https://open.spotify.com/album/7JjMRGDRuV6agLLK9owiz4) | 3:53 | 2022-01-07 |  |
 | [Chicago Loop](https://open.spotify.com/track/0HOiRqWcSwa1QSiLlZCVvJ) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Chicago Loop](https://open.spotify.com/album/2oW6MbxLGHzh8WhuEhGdKS) | 3:16 | 2022-07-14 | 2022-08-06 |
 | [Chocolate Parfait](https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge) | [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Chocolate Parfait](https://open.spotify.com/album/7vQ6C0NU6ReWNqbxMt7tvc) | 2:44 | 2022-01-07 | 2022-07-19 |
@@ -156,7 +157,7 @@
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 |  |
 | [Lovely Scars](https://open.spotify.com/track/1nMByGsOn1wJrl8S6wtGEr) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg) | [Lovely Scars](https://open.spotify.com/album/3KBabliuaGJPsdlESKtg58) | 4:21 | 2022-01-07 | 2022-07-29 |
 | [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2022-01-07 |  |
-| [Lune](https://open.spotify.com/track/09d3JszICFYeOsU6mjXxa7) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Lune](https://open.spotify.com/album/2dliQpKdUMkgEp5NUMdgfL) | 4:50 | 2022-01-07 |  |
+| [Lune](https://open.spotify.com/track/09d3JszICFYeOsU6mjXxa7) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Lune](https://open.spotify.com/album/2dliQpKdUMkgEp5NUMdgfL) | 4:50 | 2022-01-07 | 2022-10-16 |
 | [Maboroshi](https://open.spotify.com/track/5euHZw4X82pmE12LUP7Zam) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Maboroshi](https://open.spotify.com/album/48NJffm2f5RAu5hfXjJc5B) | 4:04 | 2022-01-07 |  |
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2022-01-07 | 2022-07-28 |
 | [Magic](https://open.spotify.com/track/1DKfUd92V7R4PdHmIK1MIs) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/6GNwFP4f5HjSLlqyC7bwp2) | 3:38 | 2022-07-14 |  |

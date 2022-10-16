@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11025,
+  "num_followers": 11027,
   "original_name": "Father's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDAxZjI3NzAwMzQyMTU2NjY0YWI4Y2QwMDE4MTY0ZDk0",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGMzM2ZjODU2NjllMGY3NWIwMzNlNzIxYmM2N2IyNWE1",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Things Dads Do",
-        "url": "https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 249820,
-      "name": "Things Dads Do",
-      "url": "https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "The Very Best Of Cat Stevens",
         "url": "https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 220333,
       "name": "Father And Son",
       "url": "https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Things Dads Do",
+        "url": "https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 249820,
+      "name": "Things Dads Do",
+      "url": "https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ"
     },
     {
       "added_at": "2022-06-09 16:13:45",

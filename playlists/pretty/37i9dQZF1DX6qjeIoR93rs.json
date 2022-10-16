@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 38480,
+  "num_followers": 38499,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMGY2MTdhODMyY2M1MDJkYWYzZGJiZTc0NTg3NmQwZTJi",
+  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDJjMTBhNDNkNTQxZjRhYjBjNWUyNDlkMThmMjBkMTU3",
   "tracks": [
     {
       "added_at": "2022-09-09 12:20:11",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Raka W Raka",
-        "url": "https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph"
-      },
-      "artists": [
-        {
-          "name": "Elsayed Agamy",
-          "url": "https://open.spotify.com/artist/0yp1fxlkZqiO7XZFVv81Mh"
-        },
-        {
-          "name": "Yousr Hamed",
-          "url": "https://open.spotify.com/artist/0SCPYFmL7fPMV2u7r1TcKW"
-        }
-      ],
-      "duration_ms": 191018,
-      "name": "Raka W Raka",
-      "url": "https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Bala Reash",
         "url": "https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 226690,
       "name": "Bala Reash",
       "url": "https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Raka W Raka",
+        "url": "https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph"
+      },
+      "artists": [
+        {
+          "name": "Elsayed Agamy",
+          "url": "https://open.spotify.com/artist/0yp1fxlkZqiO7XZFVv81Mh"
+        },
+        {
+          "name": "Yousr Hamed",
+          "url": "https://open.spotify.com/artist/0SCPYFmL7fPMV2u7r1TcKW"
+        }
+      ],
+      "duration_ms": 191018,
+      "name": "Raka W Raka",
+      "url": "https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
-        "url": "https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b"
-      },
-      "artists": [
-        {
-          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
-          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Maskhara",
         "url": "https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 186411,
       "name": "Maskhara",
       "url": "https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
+          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt"
     },
     {
       "added_at": "2022-09-09 12:20:11",

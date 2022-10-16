@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 330,
+  "num_followers": 348,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGYxNmE4MWMyZWRiOGU2Nzc5YzMxYTliNWNkZjY1NjAw",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDgxZmNjMTAxYmY2NDQ5MzAzZTBkMjgyNGRkOTczZGEy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Syrup",
         "url": "https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Polite",
-        "url": "https://open.spotify.com/album/2bouxxQ1WAFp5fC1XOJlLN"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 204791,
-      "name": "Polite",
-      "url": "https://open.spotify.com/track/2SEM6i1v4kureWTjMiDE98"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Out the Way",
         "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
       },
@@ -715,26 +699,6 @@
       "duration_ms": 155414,
       "name": "Out the Way",
       "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN"
-      },
-      "artists": [
-        {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        }
-      ],
-      "duration_ms": 158173,
-      "name": "IN BETWEEN (feat. Miraa May)",
-      "url": "https://open.spotify.com/track/2Zu3q83LdLSF6KW9Dgvj0h"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -755,6 +719,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Polite",
+        "url": "https://open.spotify.com/album/2bouxxQ1WAFp5fC1XOJlLN"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "Polite",
+      "url": "https://open.spotify.com/track/2SEM6i1v4kureWTjMiDE98"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Serial",
         "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 227535,
       "name": "Serial",
       "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "duration_ms": 158173,
+      "name": "IN BETWEEN (feat. Miraa May)",
+      "url": "https://open.spotify.com/track/2Zu3q83LdLSF6KW9Dgvj0h"
     },
     {
       "added_at": "2022-10-01 16:00:00",

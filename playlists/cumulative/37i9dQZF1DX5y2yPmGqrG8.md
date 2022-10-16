@@ -4,7 +4,7 @@
 
 > A selection of tracks by Rival Consoles to immerse in an imaginary panorama of atmospheric soundscapes.
 
-451 songs - 1 day 18 hr 47 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+452 songs - 1 day 18 hr 51 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [Rose](https://open.spotify.com/track/6u6WPjPfclr4EdTGgZb7Au) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Codename: Dustsucker](https://open.spotify.com/album/5yWxoUPj9UREuIgwVfJeW7) | 5:49 | 2021-10-06 | 2022-07-25 |
 | [Rotmilan](https://open.spotify.com/track/74kt8o5ynHzDCdeyGlIVuy) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Rotmilan](https://open.spotify.com/album/5erbBKo13Tz40u8dxn59XX) | 8:17 | 2022-01-13 | 2022-07-28 |
 | [Rotterdambi](https://open.spotify.com/track/7amYhgypF2tsCax09u80oF) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 2:17 | 2022-03-30 | 2022-07-28 |
-| [Running](https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 4:11 | 2022-10-14 |  |
+| [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 | 2022-10-14 |  |
+| [Running](https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 4:11 | 2022-10-14 | 2022-10-16 |
 | [S](https://open.spotify.com/track/336eHf6SexQkX3MZDykFC7) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [S](https://open.spotify.com/album/2PIG7XmhUiqFxlHP8tCyzq) | 3:59 | 2021-10-06 | 2022-04-19 |
 | [S.O](https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:12 | 2022-10-14 |  |
 | [Sad Alron](https://open.spotify.com/track/4DYgpUB0XeFyWjV6LwYTz5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Sad Alron](https://open.spotify.com/album/1EUDG2I4DZsV1andpZerph) | 2:36 | 2021-10-06 | 2022-04-10 |

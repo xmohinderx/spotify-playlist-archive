@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,914 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,935 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 23 | [So Close Now](https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now](https://open.spotify.com/album/6FTDsy98nHodCOgQ8e2b3F) | 3:37 |
 | 24 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
 | 25 | [Dermot \(see yourself in my eyes\)](https://open.spotify.com/track/1zAIRb8mTj8CcAUXW2FoMd) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:48 |
-| 26 | [Night Drive](https://open.spotify.com/track/4SFsCt9PWNo9ebqn0GdMTJ) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:16 |
+| 26 | [Night Drive](https://open.spotify.com/track/2ehugDWnbyKOsT0YEDvufH) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:16 |
 | 27 | [Silver](https://open.spotify.com/track/2O5A6C5FDRgx2xufseMDOE) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx) | [Kele EP](https://open.spotify.com/album/2FqP3RHU3Z5JOoXMhUjeXG) | 4:10 |
 | 28 | [Wildflower](https://open.spotify.com/track/2mIQWWaYinwqKxjEmE8Ave) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Wildflower](https://open.spotify.com/album/3mbvYM42ufrBY4ISpF8rtP) | 3:38 |
 | 29 | [Passionfruit](https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 4:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 79 | [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDg2NmQ0ZTdiNDczNDg1YjkzNDgzNjExYmRjMDdlNDU1`
+Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMGE1OWUzMzk3NDVkYzJmNDk2ZDQzNDEzMzYyNjQyMmVl`

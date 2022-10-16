@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 40285,
+  "num_followers": 40337,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDAzZjUwODRmMDIyMmVmMzFhMjcxN2M1YzRhODRhNTlj",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDNhZDhiYjhhZjFhNGRjMzJiMzA4OGQwNTI3YTVmOWI2",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -219,6 +219,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 326213,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -599,22 +599,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Hang Time",
-        "url": "https://open.spotify.com/album/5js3uGBKjYbpFyPhcVaw37"
-      },
-      "artists": [
-        {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Ain't No Stoppin' Us Now",
-      "url": "https://open.spotify.com/track/1Nu6wkDGw7JurB4AktFuoE"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Kickin' It",
         "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 238066,
       "name": "Chopsticks",
       "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Hang Time",
+        "url": "https://open.spotify.com/album/5js3uGBKjYbpFyPhcVaw37"
+      },
+      "artists": [
+        {
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/1Nu6wkDGw7JurB4AktFuoE"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "110 Degrees and Rising",
-        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Toney",
-          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Just Like The First Time",
-      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Metro Blue",
         "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 265773,
       "name": "People Make the World Go Round",
       "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "110 Degrees and Rising",
+        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Toney",
+          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Just Like The First Time",
+      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
     },
     {
       "added_at": "2020-08-19 19:15:51",

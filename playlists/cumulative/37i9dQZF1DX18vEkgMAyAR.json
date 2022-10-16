@@ -373,7 +373,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 203093,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
@@ -905,6 +905,24 @@
       "duration_ms": 352493,
       "name": "Pluto - Live",
       "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
+    },
+    {
+      "album": {
+        "name": "The Hanging Gardens Of Beatenberg",
+        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "date_added": "2018-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250826,
+      "name": "Rafael",
+      "url": "https://open.spotify.com/track/7od1iIHmDdFSeaLvNF6mCM"
     },
     {
       "album": {

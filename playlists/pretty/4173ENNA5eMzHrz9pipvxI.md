@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Öwnboss &amp; FAST BOY
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,396 likes - 30 songs - 1 hr 26 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,401 likes - 30 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 27 | [Heartbreak \(DØBER Remix\)](https://open.spotify.com/track/2wHbvqU3msYhGePL9daQNu) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [DØBER](https://open.spotify.com/artist/1yGoTdU9M2zNhcyDSes8Sq) | [Heartbreak \(DØBER Remix\)](https://open.spotify.com/album/1VN8ms8SzEl6mQD71CkzxF) | 2:55 |
 | 28 | [Fall In](https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s) | [alltalk](https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE) | [Fall In](https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL) | 3:20 |
 | 29 | [Snakes 2022](https://open.spotify.com/track/75bbJMLDvW4wYA6hJZkGpQ) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Snakes 2022](https://open.spotify.com/album/02R4W0mbgjy7dgAkqJAmEQ) | 2:22 |
-| 30 | [Immersion](https://open.spotify.com/track/543Z89apRQXgXFj0R2yITx) | [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a), [Yes No Maybe](https://open.spotify.com/artist/3G3pbFRRqPIR8ilWL32Cqn) | [Immersion](https://open.spotify.com/album/1t3IrbQ68XHX2bMM1KmHSW) | 4:10 |
+| 30 | [Immersion](https://open.spotify.com/track/543Z89apRQXgXFj0R2yITx) | [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a), [Yes No Maybe](https://open.spotify.com/artist/1jbwmOdN9yD10QBoIe1t36) | [Immersion](https://open.spotify.com/album/1t3IrbQ68XHX2bMM1KmHSW) | 4:10 |
 
 Snapshot ID: `NjI5NCwyMTljM2Y0YTZiOTc0ODE3YTRmNmZjYjhjYzY5NjM5NjdkZTUzNDY0`

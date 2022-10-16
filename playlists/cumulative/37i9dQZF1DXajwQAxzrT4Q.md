@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-179 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+180 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Cupid, Pt\. 2](https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Cupid, Pt\. 2](https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn) | 1:42 | 2022-07-08 |  |
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-07-08 |  |
 | [Da Fuq](https://open.spotify.com/track/0z5gsQSyA40rhq0EcoH35X) | [Manu Estrella](https://open.spotify.com/artist/3JHYYyBzYjtPV3rIOzVKXb) | [Da Fuq](https://open.spotify.com/album/03UFUGMSMeqPcrgSXi9bme) | 2:22 | 2022-02-11 | 2022-07-28 |
-| [Dancin' On My Own](https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU) | [Michael Mayo](https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p) | [Dancin' On My Own](https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR) | 1:39 | 2022-02-11 |  |
+| [Dancin' On My Own](https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU) | [Michael Mayo](https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p) | [Dancin' On My Own](https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR) | 1:39 | 2022-02-11 | 2022-10-16 |
 | [Deep Enough \- Jayhood Remix](https://open.spotify.com/track/7w18hgPZPWP1u552DndXmq) | [Sweet Mix Kids](https://open.spotify.com/artist/7D0Hb0WdjO98UZf8Uh1DX7), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Deep Enough \(Jayhood Remix\)](https://open.spotify.com/album/3tqKDGgIogChqsk2AzSf1C) | 2:36 | 2022-02-11 | 2022-07-29 |
 | [deep insides](https://open.spotify.com/track/5YI2HSjuA5zgwPSuZbDVkP) | [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj) | [Inexhaustible](https://open.spotify.com/album/3aZuwMShC72bYPlTiilDb2) | 3:36 | 2022-02-11 | 2022-07-29 |
 | [Desire \- Jersey Club Remix](https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Desire \(Jersey Club Remix\)](https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY) | 2:19 | 2022-06-10 |  |
@@ -174,6 +174,7 @@
 | [Swamp Life Anthem \- DJ Jayhood Jersey Club Remix](https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj) | [SWAMPLIFETERRY](https://open.spotify.com/artist/7vIPf48FaSPvxaYD4N1r4i), [337Mayhem](https://open.spotify.com/artist/3OHH2dQjcWIdx65HgQvRJG), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Swamp Life Anthem \(DJ Jayhood Jersey Club Remix\)](https://open.spotify.com/album/73MVESpvv1oLqSateO2ysa) | 1:53 | 2022-02-11 | 2022-07-06 |
 | [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 | 2022-09-16 |  |
 | [Team Lilman Anthem](https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [Team Lilman Anthem](https://open.spotify.com/album/7keNPILEHzrizAaBpDTH2l) | 2:58 | 2022-02-11 |  |
+| [Trip to Brazil](https://open.spotify.com/track/20NsO7bS1TfMMBzwqWASjx) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Trip to Brazil](https://open.spotify.com/album/6tnEzZ6nrmb5XSYoiH2iGW) | 1:43 | 2022-10-14 |  |
 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 | 2022-02-11 |  |
 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 | 2022-02-11 |  |
 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 | 2022-02-11 |  |

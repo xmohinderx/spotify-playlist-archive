@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-280 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
+281 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Hogar sin sueño](https://open.spotify.com/track/7cHDpA7nNmD0wrk3KG51pE) | [Escuela de Aviación](https://open.spotify.com/artist/2aLFaSGBmtMdrNmbeYmyXN) | [\#1](https://open.spotify.com/album/7HDJJWfuhMj1f21CjvbIs7) | 3:46 | 2022-04-12 |  |
 | [Hold My Plasticine Hands Tight!](https://open.spotify.com/track/06hN3pKc5hfsaOWed8HEJg) | [Estrada Orchestra](https://open.spotify.com/artist/6aDM7GAJ6nCLmFg5hyLo6T) | [Zucker Tanzclub](https://open.spotify.com/album/3YZNYB5gGZQeTHcvr4mG3h) | 5:16 | 2021-07-30 |  |
 | [Hollywood](https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 4:45 | 2021-07-30 |  |
-| [Houseplants](https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t) | 4:18 | 2021-07-30 |  |
+| [Houseplants](https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t) | 4:18 | 2021-07-30 | 2022-10-16 |
+| [Houseplants](https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx) | 4:18 | 2021-07-30 |  |
 | [I Can See](https://open.spotify.com/track/1KLa7T6FPVIN2uiDYR9crj) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Circles](https://open.spotify.com/album/09mnJuD9no4J1yTdzf9QWI) | 4:44 | 2021-07-30 |  |
 | [I Can See](https://open.spotify.com/track/3Z1zDevT6VVNx5dmOt1eFf) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Circles](https://open.spotify.com/album/27I7xAVYNIuId9pAFUiX77) | 4:44 | 2021-07-30 | 2022-07-29 |
 | [I Hear the Vibrations](https://open.spotify.com/track/2JFuf7873vzHiJqpmwFTVL) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Contact B/W I Hear Vibrations](https://open.spotify.com/album/33K7gFbVp1ZFYkO0GTFhwX) | 8:21 | 2021-07-30 | 2022-07-29 |

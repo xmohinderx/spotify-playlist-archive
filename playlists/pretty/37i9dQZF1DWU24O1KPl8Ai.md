@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 10 | [The Rose Song \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Rose Song \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m) | 2:54 |
 | 11 | [パプリカ](https://open.spotify.com/track/60t5lev16eczZXurTNf56k) | [Foorin](https://open.spotify.com/artist/3h95Ve9m3Q07d8VG6V9hEU) | [パプリカ](https://open.spotify.com/album/2cBaztI22TPEULZE6nfYUm) | 3:28 |
 | 12 | [Who I Am](https://open.spotify.com/track/0b7KwwNxPh1VtxGBLRMmR9) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [Who I Am](https://open.spotify.com/album/7z9WTkLdk9fseQpe7aBsGT) | 3:23 |
-| 13 | [Nobody Like U](https://open.spotify.com/track/4RjHp1VmFey9XcloX4ia0d) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UrGhXsHJcETzPLQCB2vXJ) | 2:40 |
-| 14 | [Terukir Di Bintang](https://open.spotify.com/track/0tiFAoHT0dBr3kk7owGL7q) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Terukir Di Bintang](https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa) | 3:02 |
+| 13 | [Terukir Di Bintang](https://open.spotify.com/track/0tiFAoHT0dBr3kk7owGL7q) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Terukir Di Bintang](https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa) | 3:02 |
+| 14 | [Nobody Like U](https://open.spotify.com/track/4RjHp1VmFey9XcloX4ia0d) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UrGhXsHJcETzPLQCB2vXJ) | 2:40 |
 | 15 | [Oh!](https://open.spotify.com/track/1Wn0A9wVEQXj2JVbdsclpi) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:35 |
 | 16 | [Chaoro \(Lori\)](https://open.spotify.com/track/3GK9bFPNVtFrjIhZDNyfZp) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF) | [Mary Kom](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 2:33 |
 | 17 | [PPAP\(Pen\-Pineapple\-Apple\-Pen\) \- Long ver.](https://open.spotify.com/track/5qRj5I58zuHkVilcqVWN3P) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [I have a PPAP](https://open.spotify.com/album/2c8W1S31BgpyrAm0txBFTc) | 2:02 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 35 | [Ma Ma Milk](https://open.spotify.com/track/1TwncWnOqITdWsf3FcGt6Y) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Warota People \(หัวเราะเซ่\)](https://open.spotify.com/album/2Q5yTezFLPUqCK80DOgElC) | 2:08 |
 | 36 | [The Durian Fruit Song](https://open.spotify.com/track/4X3TL8IpWC1XA13uY5VKxx) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [Walk off the Earth & Romeo Eats, Vol\. 1](https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE) | 1:21 |
 
-Snapshot ID: `MTY1MTc4NDcyOCwwMDAwMDAwMGFlM2E0N2NjMDZkZmNjNTQwNTY5MDQwYTg1NTI0M2Rj`
+Snapshot ID: `MTY1MTc4NDcyOCwwMDAwMDAwMDQyNDA5ZTdjMGI2YzAyNzUzY2QxMjcwNTUyMmQwMWVi`

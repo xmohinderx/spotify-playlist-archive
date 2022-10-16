@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 59 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 59 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 35 | [RAVE!](https://open.spotify.com/track/46Auuz13lrIqIxK3yQFrSy) | [Prince Austin](https://open.spotify.com/artist/7xr5r3NhrHO07UlZR1eD81) | [OLD IS THE NEW RETRO!](https://open.spotify.com/album/0oF3mVLCLUv85hPhXpi5Uj) | 4:22 |
 | 36 | [Bali](https://open.spotify.com/track/1cCCf8NobUwsf3t9frvVYY) | [DJ Arta](https://open.spotify.com/artist/5LoietQuQuzNohwfgAZj21) | [Bali](https://open.spotify.com/album/6X3DH5J53a5cjpjJXNse0i) | 1:50 |
 | 37 | [Meremeta \- Original Mix](https://open.spotify.com/track/1RtNC1Fzwk82d0agNBbxu5) | [DJ IC](https://open.spotify.com/artist/5m0mPka5wvWns733bGWIHz), [Dj Jim Mastershine](https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meremeta](https://open.spotify.com/album/4kF0kWybn8DTeASl6Dt27G) | 5:48 |
-| 38 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ) | 8:12 |
+| 38 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/7uV160vuTXhZ1PZr2Oa95l) | 8:12 |
 | 39 | [Kamweretho](https://open.spotify.com/track/6NozWuL6Hclo1rPq66Ndbt) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [Kamweretho](https://open.spotify.com/album/1yV5WlSsJQGBnFynhpNG4i) | 6:22 |
 | 40 | [Heaven](https://open.spotify.com/track/6ydvKfFKCvCHOaSPHIFzGP) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb) | [Heaven](https://open.spotify.com/album/0ilQwixUIIWzz1iJzgI1SB) | 2:21 |
 | 41 | [Last Modular](https://open.spotify.com/track/5O9Vh2gpZttbPjhC3Y8qyH) | [Afrorack](https://open.spotify.com/artist/3pKiRvMjWOAkLWLeNq0XPU) | [The Afrorack](https://open.spotify.com/album/4ZpfDwkIXqBWT0B1aZBdtA) | 5:31 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 58 | [Body Goals](https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Afro Wavy 3](https://open.spotify.com/album/3tSZmXQRV9WhsDaUDedfoQ) | 1:52 |
 | 59 | [AmaWoodblock](https://open.spotify.com/track/4a0Fs2VJZczKlqe7chCDr7) | [KidC4](https://open.spotify.com/artist/2BJPLxKC99mCuUCgDOf8hP) | [AmaWoodblock](https://open.spotify.com/album/6P0PdnICMXt6QtjXYozV83) | 6:48 |
 
-Snapshot ID: `MTY2NDU0ODQ2OSwwMDAwMDAwMDE2NjA1NDdlNWYzMDEwMmJjMmY5YTg2OWQwYjIxYTZj`
+Snapshot ID: `MTY2NDU0ODQ2OSwwMDAwMDAwMGFkMjllNzZmYWMwY2JiZjI1NWEzY2MyOTYzMWFjYjQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,497 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,510 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 20 | [Nini \- Claude Monnet Remix](https://open.spotify.com/track/1HvnSNUGVzGdiWknoN568h) | [Clarisse Muvemba](https://open.spotify.com/artist/3VhZAwL3pwSfh1YgrPB9wr), [Sumo](https://open.spotify.com/artist/68hlYvUTBm1WJXhpO6re7X) | [Nini](https://open.spotify.com/album/6uGbxYqV6n3Nzudd28Ol3A) | 8:13 |
 | 21 | [Another Excuse \- DFA Remix](https://open.spotify.com/track/296fOgdmVRTPZU3zLIAX30) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 7:52 |
 | 22 | [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0UuI04fLX0AFGIVqwzTZwZ) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Perspex Sex \(Remixes\)](https://open.spotify.com/album/0nF7cu31srje4db7gbv3wH) | 8:00 |
-| 23 | [Mothership Reconnection \(feat.Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
+| 23 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
 | 24 | [Another Man \- 2012 \- Remaster](https://open.spotify.com/track/33qq1FKftOqTzUMKYed45x) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [The West End Story, Vol\. 2 \(2012 \- Remaster\)](https://open.spotify.com/album/5bYi0lm8inqOHBgx5bWpwd) | 6:56 |
 | 25 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
 | 26 | [You Don't Know \- Special Remix](https://open.spotify.com/track/5vA6h1EpoCwqDpg1NyU7GE) | [Serious Intention](https://open.spotify.com/artist/4ujvWktT7I5RaDVWCiohjS) | [You Don't Know](https://open.spotify.com/album/3ibVYaJ4bKSoNQVan9WPmS) | 8:18 |

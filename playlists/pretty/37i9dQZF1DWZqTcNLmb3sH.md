@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Triple Riding
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,367 likes - 142 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,406 likes - 142 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yatta Yatta Yatta](https://open.spotify.com/track/3Z3xTNFCBOCpIy6hQ98bRa) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Triple Riding](https://open.spotify.com/album/5swnwLChk3yQrPt5ZByQ86) | 3:30 |
-| 2 | [Singara Siriye](https://open.spotify.com/track/7N2G2VjUmmKWO6FrW2hZMt) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Nagraj Panar Valtur](https://open.spotify.com/artist/4nsD0AxhwNYicOOmCGwUd4) | [Kantara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FuumS0JwOLY36OvYgagKU) | 4:41 |
+| 2 | [Singara Siriye](https://open.spotify.com/track/6J7whJ91XKvDnLWpa1Cqn2) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Nagraj Panar Valtur](https://open.spotify.com/artist/4nsD0AxhwNYicOOmCGwUd4) | [Kantara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ANhkyLkujmP1HbDrMCvfM) | 4:41 |
 | 3 | [Nijave Athava](https://open.spotify.com/track/3TUOWcaXYcZe3rFSurNgdN) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Saras Chandrika](https://open.spotify.com/artist/4snZchALIW1fJF3dukbU0g) | [Triple Riding](https://open.spotify.com/album/2UGGplfz5KPfypnEC8vIgh) | 3:39 |
 | 4 | [Crazy Heartige \(From "Champion"\)](https://open.spotify.com/track/4nWobt9jWc9WfO9P1mLuDv) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [C R Bobby](https://open.spotify.com/artist/4l9k87iqGrzpc4JwAmDAdQ) | [Crazy Heartige \(From "Champion"\)](https://open.spotify.com/album/4ZYc1TMwqTrHfAqSJNNOtZ) | 3:45 |
 | 5 | [Habibi Habibi](https://open.spotify.com/track/2VvWTDsNEerce1sGlHGt1C) | [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Head Bush](https://open.spotify.com/album/23a6yxMExSDQzv3VAzMvaS) | 3:36 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 141 | [Kannadiye \(From "Kshamisi Nimma Khaatheyalli Hanavilla"\)](https://open.spotify.com/track/4LubAzoKEK1QLplvYC5aM5) | [Prajwal Pai](https://open.spotify.com/artist/5tCoxq4T37P4D3f4kCFNi8), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Kannadiye \(From "Kshamisi Nimma Khaatheyalli Hanavilla"\)](https://open.spotify.com/album/7GTxAex1eBm22MMT8aM1uu) | 3:25 |
 | 142 | [Sulthana \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/7a2knwPyOj9WZrRSM1lb0i) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Mohan Krishna](https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7), [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Puneeth Rudranag](https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP), [Manish Dinakar](https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw), [Varsha Acharya](https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0) | [Sulthana \(From "Kgf Chapter 2"\)](https://open.spotify.com/album/5bBoVPJ9tTBfvZ0kjOJecb) | 3:45 |
 
-Snapshot ID: `MTY2NTU1OTM4MSwwMDAwMDAwMDkyOTg4YzhjNGIwMmEzMDA2ZmU0OTBhZjE5NTMyNjQ0`
+Snapshot ID: `MTY2NTU1OTM4MSwwMDAwMDAwMGJmMjljNjAzOTEyYWY3NTE5ZjY0ZGFjYTVkOWZkNWY0`

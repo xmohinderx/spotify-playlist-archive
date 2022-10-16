@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: MI MI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,453 likes - 78 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,460 likes - 78 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 25 | [ika'y babalik](https://open.spotify.com/track/4fkFcOVoPw6PD3YUwIyEzr) | [jiolo](https://open.spotify.com/artist/6oIqgPAk6J4jpin9E2TAe3) | [ika'y babalik](https://open.spotify.com/album/2Xr6Apjfn1nC1q2m35LRZ3) | 2:21 |
 | 26 | [ALL IN](https://open.spotify.com/track/6K2p000VqJ6ZDDa9TgBKq7) | [Entitled Music](https://open.spotify.com/artist/5SCd96nLdbJXgsOCsQI3VR) | [ALL IN](https://open.spotify.com/album/1mJFi5AcIA6Le6ChMnGlLr) | 6:33 |
 | 27 | [Seasons](https://open.spotify.com/track/5NcwnwioRmOc5z4t6SIWKE) | [ACE$](https://open.spotify.com/artist/4JJnEFAIo6EiPMfmDVeQtS) | [Seasons](https://open.spotify.com/album/0GdphgORcZ2f47orNdp5Ni) | 4:21 |
-| 28 | [All I Need](https://open.spotify.com/track/4qaKS6NHca4x5wMeLa4CYG) | [Anton Paras](https://open.spotify.com/artist/3ytbwZgtAVT1263McFhmpe) | [All I Need](https://open.spotify.com/album/5qSXV9IVhOArmLNAwyLp5q) | 3:43 |
+| 28 | [All I Need](https://open.spotify.com/track/4qaKS6NHca4x5wMeLa4CYG) | [Anton Paras](https://open.spotify.com/artist/1focgoX1VwBCEcZFAInks7) | [All I Need](https://open.spotify.com/album/5qSXV9IVhOArmLNAwyLp5q) | 3:43 |
 | 29 | [OLATS](https://open.spotify.com/track/6spJpnPIC3gdBFs8pGQVzM) | [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [OLATS](https://open.spotify.com/album/7wykL8i3ubKs8JavJTL0mI) | 3:00 |
 | 30 | [Back To The Beginning](https://open.spotify.com/track/6FklDnZORCOM8Ekp6xUrkB) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Back To The Beginning](https://open.spotify.com/album/1Ky04p982oiaRfWiRiki5f) | 2:40 |
 | 31 | [Hindi Pagmamay\-ari](https://open.spotify.com/track/1lvSgkgRGAG9MBeG8sF8oy) | [Vanadey](https://open.spotify.com/artist/6mekMVuchJN6VnG8xWHbCF) | [Hindi Pagmamay\-ari](https://open.spotify.com/album/2x9eyJCa5SfASW7D7NWobn) | 5:49 |

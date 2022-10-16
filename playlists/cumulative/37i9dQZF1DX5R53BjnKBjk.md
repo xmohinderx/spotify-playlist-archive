@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Thalicia/Arte: Isu Kim
 
-200 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+201 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 | 2022-10-07 |  |
 | [Menina Erê](https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK) | [Menina Erê](https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN) | 4:12 | 2022-02-18 | 2022-05-17 |
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 | 2022-08-20 |
-| [Mercúrio Retrógrado](https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe) | [Savio di Maio](https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e) | [Mercúrio Retrógrado](https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6) | 2:36 | 2022-10-14 |  |
+| [Mercúrio Retrógrado](https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe) | [Savio di Maio](https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e) | [Mercúrio Retrógrado](https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6) | 2:36 | 2022-10-14 | 2022-10-16 |
 | [Mestre Jandaraí](https://open.spotify.com/track/4nO4BI5Z4V38AaLxPSAALf) | [Numa Gama](https://open.spotify.com/artist/3ysogI5DJYxHA5oU5Rjkjh) | [Memórias de Oneyda](https://open.spotify.com/album/3pCYN8unhawhhsRFOVqmiA) | 2:47 | 2022-01-07 | 2022-05-17 |
 | [meu bem, meu bem](https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [meu bem, meu bem](https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU) | 2:48 | 2022-09-02 |  |
 | [Meu Foco](https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [AUGE](https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ) | 3:14 | 2022-07-29 |  |
@@ -199,6 +199,7 @@
 | [Tá Subindo](https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF) | [Clara Tannure](https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq) | [PSEUDODRAMA](https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ) | 2:26 | 2022-09-09 |  |
 | [Tão Perto e Tão Longe](https://open.spotify.com/track/2qIAX1Ww0761lDie4kQe0A) | [Letícia](https://open.spotify.com/artist/609NBZ4p86Qj6PN8gdafcS) | [Tão Perto e Tão Longe](https://open.spotify.com/album/7ARx511vO11RKrsvwjFA2O) | 2:48 | 2022-01-07 | 2022-08-20 |
 | [VAI](https://open.spotify.com/track/3T2JaAQgQ92z9oVHmWg91C) | [Marc Yann](https://open.spotify.com/artist/2XCuDk7P16Zp9Nvak5BmRf) | [PLATÔNICO](https://open.spotify.com/album/3iZVI9SANNghj1iFpTuAVD) | 2:21 | 2022-10-07 |  |
+| [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 | 2022-10-14 |  |
 | [Verá](https://open.spotify.com/track/5319dvKuNaay3efQn794i0) | [Gabi Farias](https://open.spotify.com/artist/3GxaLhs7QePUYh49a8TYrM), [Gramophone](https://open.spotify.com/artist/5rnC9EuUqZC8Mbkg2uiLKu) | [Enchente](https://open.spotify.com/album/5YvudFtZ5FcMEL3hpVCsrY) | 4:12 | 2022-02-18 | 2022-09-24 |
 | [Verão](https://open.spotify.com/track/5NbOilBmttx0b5dJcdL697) | [Pseudo Banda](https://open.spotify.com/artist/7B5wVF8YwLqwfVaWk3HkDe), [Vaine](https://open.spotify.com/artist/2pdCZh6Kwn3lZqFIwPRY97) | [Verão](https://open.spotify.com/album/0Z7geQJsarPEigZos4VPEf) | 2:51 | 2022-01-14 | 2022-02-05 |
 | [Vinte e Oito Dias](https://open.spotify.com/track/2CIHeEt9jP0Qd2XIMINGdd) | [Yani](https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinte e Oito Dias](https://open.spotify.com/album/3oDWNLU7Onr7Qx59ZLsWM2) | 4:08 | 2022-01-07 | 2022-07-23 |

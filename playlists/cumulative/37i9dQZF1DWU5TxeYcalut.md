@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso
 
-100 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/2Ne5i2VWAUeP3KdZ5aLVyo)
+101 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/2Ne5i2VWAUeP3KdZ5aLVyo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [BH](https://open.spotify.com/track/0DAZbzl6FHufvWxFy73GwY) | [Andre Marques](https://open.spotify.com/artist/7ekmKn4Qnzao93UDyr2DPr), [Marcel Bottaro](https://open.spotify.com/artist/1aPBR2PKGmJc3j9nCl7pzJ), [Rodrigo Digão Braz](https://open.spotify.com/artist/1D0xkaglbjoTUhcvYAAXRn) | [Choro Universal](https://open.spotify.com/album/4trFnHIZG5awOetJXeqAKU) | 7:53 | 2022-07-08 |  |
 | [Big Dreams](https://open.spotify.com/track/7cRwOIyWx2uDIp429g8T30) | [São Paulo Panic](https://open.spotify.com/artist/7bplUyzy0CpehPMe5H8hyW), [Tal Arditi](https://open.spotify.com/artist/1JkIjayfiEEYvIaUYY4b7A) | [São Paulo Panic](https://open.spotify.com/album/3cXJvkZwggrxS9KAzLX5AE) | 4:18 | 2022-07-08 |  |
 | [Burlesque](https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb) | [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx), [Mauricio Einhorn](https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI), [Bruno Cardozo](https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un), [Cuca Teixeira](https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM) | [Afinidades](https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA) | 5:43 | 2022-07-08 |  |
-| [Caminantes](https://open.spotify.com/track/6vyueVHjiPa1dBxIsggoJC) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Luis Guerreiro](https://open.spotify.com/artist/4c2pFClxxIDe4fLaRdnoEb), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Caminantes](https://open.spotify.com/album/2LWPcI3k9L4LOA4jZUQ7Fx) | 3:31 | 2022-07-08 |  |
+| [Caminantes](https://open.spotify.com/track/6vyueVHjiPa1dBxIsggoJC) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Luis Guerreiro](https://open.spotify.com/artist/4c2pFClxxIDe4fLaRdnoEb), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Caminantes](https://open.spotify.com/album/2LWPcI3k9L4LOA4jZUQ7Fx) | 3:31 | 2022-07-08 | 2022-10-16 |
+| [Caminantes](https://open.spotify.com/track/4jVsgg9KLBQvLiYCvcLFDj) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI), [Luis Guerreiro](https://open.spotify.com/artist/4c2pFClxxIDe4fLaRdnoEb) | [Caminantes](https://open.spotify.com/album/4WRn0U1uiC5rjYpAKZXkc3) | 3:31 | 2022-07-08 |  |
 | [Canto de Aruanda](https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6) | [Edu Sangirardi](https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02) | [Um](https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO) | 4:31 | 2022-07-08 |  |
 | [Canto de Xangô](https://open.spotify.com/track/2RpxBZ16nVV7Q0xJdPZLEe) | [Alexandre Caldi](https://open.spotify.com/artist/02ELxCkzVWc9QFpmOan806), [Itamar Assiere](https://open.spotify.com/artist/2NNIgK2jzSJYIwgKHd2bo1) | [Afro+sambas](https://open.spotify.com/album/2E4n2bzp40z1akpP3EmRZA) | 4:59 | 2022-07-08 |  |
 | [Canção da Odalisca](https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn) | [Caetano Brasil](https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP) | [Canção da Odalisca](https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh) | 6:05 | 2022-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53234,
+  "num_followers": 53226,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGQ0OWU4N2NmMzdmNThhNzI1YTcwYzJkY2E1YWE2MDgz",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGM0YjdmMjMwY2M2NDhjYmIwMThhYTA0MjA5ZjZjNTEy",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -331,6 +331,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 254205,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 320240,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 254205,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -779,22 +779,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "First Songs",
-        "url": "https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Hurley",
-          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
-        }
-      ],
-      "duration_ms": 448013,
-      "name": "The Tea Song",
-      "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Lights",
         "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 251040,
       "name": "The Writer",
       "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "First Songs",
+        "url": "https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Hurley",
+          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
+        }
+      ],
+      "duration_ms": 448013,
+      "name": "The Tea Song",
+      "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
     }
   ],
   "unique_name": "The Writer's Playlist",

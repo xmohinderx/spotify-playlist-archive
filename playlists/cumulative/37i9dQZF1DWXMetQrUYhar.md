@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
 
-183 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+184 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1FseBXHmYLnX1XcGsQKH3j) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 5:32 | 2021-10-27 | 2022-07-29 |
 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 | 2022-03-30 |  |
 | [Screaming Infidelities \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 4:47 | 2021-10-27 | 2022-10-13 |
-| [Seventeen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:55 | 2021-10-27 |  |
+| [Seventeen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:55 | 2021-10-27 | 2022-10-16 |
 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH) | 2:55 | 2022-03-30 |  |
 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6eqaU4suKIW8M2P6uDnZSd) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/5dJeEVpkKTZ8s9Xr4inHTT) | 2:55 | 2021-10-27 | 2022-07-29 |
 | [Shine \- Jim Eno Sessions](https://open.spotify.com/track/0TposDOdKP9MUfn9zxkYUK) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0JSV7pb2t7Krg2ohhZpx5a) | 4:46 | 2021-10-27 | 2022-07-29 |
@@ -173,6 +173,7 @@
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-03-30 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 | 2021-10-27 | 2022-07-29 |
 | [Turn \- Recorded at RAK Studios, London](https://open.spotify.com/track/1c9Kzty5YdO84q009wXcVH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM) | 3:27 | 2021-10-27 | 2022-10-13 |
+| [Turn \- Recorded at RAK Studios, London](https://open.spotify.com/track/6IX2SFZplMdAMsAIwMlPsl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG) | 3:27 | 2022-03-30 |  |
 | [Uh Huh](https://open.spotify.com/track/1VLCczBRQRpFycuQ4Ce90i) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/6V7AG2aBNQRSA494JhP63y) | 2:09 | 2022-03-30 |  |
 | [Uh Huh](https://open.spotify.com/track/3XyH9KaMqaWYYd7GSjiQc6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:09 | 2022-03-30 | 2022-09-15 |
 | [Uh Huh \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0BgN8OKw1OfbpKSSNI9C2L) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/0NiTGXkQbHfTIoS0Uc7OQn) | 2:09 | 2021-10-27 | 2022-07-29 |

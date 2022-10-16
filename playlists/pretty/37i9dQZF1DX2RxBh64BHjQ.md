@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,686,937 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,687,258 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 54 | [Robbie Anderson \(with Rob49\)](https://open.spotify.com/track/7qNvR3FZvxnB1cdKMqz2Xu) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Shallowside Baby](https://open.spotify.com/album/0zAC4P4NLznpqbBU4s5cXC) | 3:07 |
 | 55 | [MINUTE FOREVER](https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [RUFFS](https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh) | 2:46 |
 | 56 | [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 |
-| 57 | [GET DANGEROUS \(feat\. Lil Bean\)](https://open.spotify.com/track/5ZZ5JtW6OnJSfCNNeyiesc) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [GET DANGEROUS \(feat\. Lil Bean\)](https://open.spotify.com/album/7oHBLp2rLQPdJv2coXpm31) | 2:09 |
+| 57 | [GET DANGEROUS \(feat\. Lil Bean\)](https://open.spotify.com/track/5ZZ5JtW6OnJSfCNNeyiesc) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [GET DANGEROUS \(feat\. Lil Bean\)](https://open.spotify.com/album/7oHBLp2rLQPdJv2coXpm31) | 2:09 |
 | 58 | [Foreign Shit](https://open.spotify.com/track/6ARRF0o0moDLS7coAp2xDS) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Foreign Shit](https://open.spotify.com/album/77vm6TZpmXelO2C5IvQiYl) | 1:50 |
 | 59 | [less than me \(with NoCap\)](https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [WORLD DAMINATION](https://open.spotify.com/album/3N8tj0jEEDRSKwET5u3xgW) | 3:14 |
 | 60 | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/track/3QrNVAhmulzykPkJmn5Zo7) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/album/3bFPyM5Wq67BowbEwBfIwp) | 2:52 |

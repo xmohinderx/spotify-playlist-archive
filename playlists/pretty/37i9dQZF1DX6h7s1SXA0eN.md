@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 72 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 740 likes - 72 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 | 53 | [Bring the Future \- Queer on Acid Remix](https://open.spotify.com/track/6U3Cr5px8IqTm423qST5fO) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Daniel Watts](https://open.spotify.com/artist/59nsDsrFnxoHLp4j5E3wPx), [Queer On Acid](https://open.spotify.com/artist/0E2WG1TQrgHCbMgTE4Q4oT) | [Bring the Future](https://open.spotify.com/album/6shriieluj4NRgu4IzEMtZ) | 5:01 |
 | 54 | [Give it to Me](https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 7:09 |
 | 55 | [Sugar](https://open.spotify.com/track/6vupWcBeHQTA2ztc7VUDMl) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Paris' Burning, Vol\. 1](https://open.spotify.com/album/10FOHzIiCtJIeBCNSWcYD2) | 3:29 |
-| 56 | [Understand This Groove](https://open.spotify.com/track/0G3voJs4mRq7V0ZzT25WQn) | [Soundfactory](https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy) | [CD Thirteen](https://open.spotify.com/album/7uaEenIS1SWRga4JrKzg92) | 6:20 |
+| 56 | [Understand This Groove](https://open.spotify.com/track/0G3voJs4mRq7V0ZzT25WQn) | [SoundFactory](https://open.spotify.com/artist/5Aff45j7vloRz1c04dWbQy) | [CD Thirteen](https://open.spotify.com/album/7uaEenIS1SWRga4JrKzg92) | 6:20 |
 | 57 | [Tr\-ago\-909](https://open.spotify.com/track/7Kqn5mPoMg3LVoXEVrMa4t) | [David Vunk](https://open.spotify.com/artist/1GWOp8EQ7wk8PHp27u9FBJ) | [You Can Trust a Man With a Moustache Vol\. 3](https://open.spotify.com/album/6Tl2zVNLfhDgonD8abXgHo) | 5:13 |
 | 58 | [Big Drift](https://open.spotify.com/track/3Ymm8XLIt8AnlC2Qgzi244) | [Solar Suite](https://open.spotify.com/artist/4LDlJb5cqv2GPu0iHwdGHf) | [Club Unity](https://open.spotify.com/album/3HDugpDjGQeTw7bKzx0jQ2) | 6:11 |
 | 59 | [Space Bells](https://open.spotify.com/track/6zMs6LK0shR2ATkoBxZMYl) | [DJ Headshot](https://open.spotify.com/artist/46rnKVNiwpuwrxE8S2P5k1), [Matris](https://open.spotify.com/artist/7oRHmbp4jKEFNr3kvI5zwY) | [Hyper Love Vol\. 1](https://open.spotify.com/album/68OQqnXfJKEatV73QDIxEF) | 7:30 |

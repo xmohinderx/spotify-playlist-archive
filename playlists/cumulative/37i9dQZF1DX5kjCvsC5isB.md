@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-264 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+265 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [I'm Somebody Else](https://open.spotify.com/track/0MjRbB8nGFHDeK1KNsRAIF) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [I'm Somebody Else](https://open.spotify.com/album/1jORd3UymvwdoX5ZUXPOsA) | 2:37 | 2021-10-08 | 2022-06-25 |
 | [I'm Sorry](https://open.spotify.com/track/7s1SM5S0om3PcxYZneJtft) | [Bexley](https://open.spotify.com/artist/4svqYIReyb53k0Kaxun76R) | [I'm Sorry](https://open.spotify.com/album/5aJAs47NDhrYICbuAx6jOb) | 4:38 | 2021-08-13 | 2022-01-15 |
 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 | 2021-07-30 |  |
-| [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-19 |  |
+| [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 | 2022-10-07 |  |
+| [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-19 | 2022-10-16 |
 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 | 2022-06-24 |  |
 | [Jameson](https://open.spotify.com/track/2OZF82xeKvWEq5vdYkvug3) | [Molly Moore](https://open.spotify.com/artist/0mEUqATSCsYZUTyL09kB8g) | [Jameson](https://open.spotify.com/album/7bQZiTYR6sqBzgBbWCFxoP) | 2:28 | 2022-06-24 |  |
 | [Jealousy](https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk) | 2:30 | 2022-08-19 | 2022-10-08 |

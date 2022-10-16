@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs - cover featuring NGHTMRE.",
-  "num_followers": 2028248,
+  "num_followers": 2028184,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI1NTUsZDNhODNhMTA0M2Y5YmFmOTBmZGYyMzMxYTliNzQ5ODhjOGRjYWI4NA==",
+  "snapshot_id": "MTI1NTksY2IzNGRiZWM0YzY5MDM1NmU1ZDIxMWQxODA3MDMyN2MwNjhmNDJiZg==",
   "tracks": [
     {
       "added_at": "2022-10-14 13:18:48",
@@ -453,6 +453,26 @@
       "url": "https://open.spotify.com/track/0qPZo4jWPVUuzt4OY0YiHH"
     },
     {
+      "added_at": "2022-10-15 17:19:12",
+      "album": {
+        "name": "Start My Day",
+        "url": "https://open.spotify.com/album/5xT4sGDE8PUmgOpiFFsLAx"
+      },
+      "artists": [
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "Novet",
+          "url": "https://open.spotify.com/artist/2i57twPwlmOsHTs4PX7W47"
+        }
+      ],
+      "duration_ms": 131739,
+      "name": "Start My Day",
+      "url": "https://open.spotify.com/track/57Q0j9sJclR6lA3mzGWxGq"
+    },
+    {
       "added_at": "2022-10-14 04:38:19",
       "album": {
         "name": "On The Coast!",
@@ -839,6 +859,26 @@
       "duration_ms": 210824,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0"
+    },
+    {
+      "added_at": "2022-10-15 18:36:23",
+      "album": {
+        "name": "Time (Pala Chrome Remix)",
+        "url": "https://open.spotify.com/album/0tnRgNZXc8qAExA898YSqc"
+      },
+      "artists": [
+        {
+          "name": "4RUNNR",
+          "url": "https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx"
+        },
+        {
+          "name": "Pala Chrome",
+          "url": "https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh"
+        }
+      ],
+      "duration_ms": 239015,
+      "name": "Time - Pala Chrome Remix",
+      "url": "https://open.spotify.com/track/5xrdLwQK6QmV3XsnsCVvOP"
     },
     {
       "added_at": "2022-10-04 18:43:03",

@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Girl in Red
 
-627 songs - 1 day 13 hr 9 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+628 songs - 1 day 13 hr 13 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Aphrodite](https://open.spotify.com/track/1SDJc7GlAZWHf7E72DUbSA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Aphrodite](https://open.spotify.com/album/4LD1Urj2qAUoyMSlXDz1QU) | 3:53 | 2022-06-02 | 2022-08-12 |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-15 | 2022-08-05 |
 | [Around and Around](https://open.spotify.com/track/3NNRAgFysK680kgWhTwWHH) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Around and Around](https://open.spotify.com/album/5MIyGmu4DRHCx7ww18W6Da) | 2:34 | 2022-08-04 | 2022-09-10 |
-| [As It Was](https://open.spotify.com/track/6TPOq3tmGF2lD5eyIAUWor) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/3mm1CLkpLTOlggRZBCV03q) | 3:46 | 2022-08-26 |  |
+| [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2022-10-13 |  |
+| [As It Was](https://open.spotify.com/track/6TPOq3tmGF2lD5eyIAUWor) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/3mm1CLkpLTOlggRZBCV03q) | 3:46 | 2022-08-26 | 2022-10-16 |
 | [As Time Goes By](https://open.spotify.com/track/47RX1LPonw1VQhreVJI4Dy) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i) | [Giving Up Air](https://open.spotify.com/album/69xg7EyoIwwyks0i390g5D) | 3:43 | 2022-08-18 | 2022-09-30 |
 | [Asphalt Meadows](https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:05 | 2022-09-16 |  |
 | [Away With Me](https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [Away With Me](https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi) | 2:41 | 2022-01-20 | 2022-03-25 |

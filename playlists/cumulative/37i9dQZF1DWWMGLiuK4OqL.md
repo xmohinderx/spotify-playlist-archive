@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-275 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+276 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Everybody Knows](https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Everybody Knows](https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT) | 2:48 | 2022-01-20 |  |
 | [Fall In](https://open.spotify.com/track/6k0lzN7Kxib0afD6cgPHsG) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:56 | 2022-01-20 | 2022-10-08 |
 | [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-08-11 | 2022-10-13 |
+| [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2022-10-12 |  |
 | [Farewell, Angelina](https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Farewell, Angelina](https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ) | 5:42 | 2022-06-03 | 2022-10-08 |
 | [Fever](https://open.spotify.com/track/6krLSZqwBz8Pv6652TwfZO) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [The Song Lives On](https://open.spotify.com/album/1hRQZQa8ryz2oOunpCMf0Y) | 5:40 | 2022-01-20 | 2022-10-08 |
 | [Fine Brown Frame](https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Fine Brown Frame](https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B) | 3:20 | 2022-06-28 | 2022-10-08 |
@@ -277,7 +278,7 @@
 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2022-07-14 |  |
 | [You Don't Know Me](https://open.spotify.com/track/4h74V26B574hSICB5MZs1c) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 3:55 | 2022-07-14 |  |
 | [You Don't Know Me \(with Diana Krall\)](https://open.spotify.com/track/3NhDsoowimZMc97tDuG1T5) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Genius Loves Company](https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk) | 3:55 | 2022-01-20 | 2022-07-29 |
-| [You Don't Know What Love Is](https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:48 | 2022-01-20 |  |
+| [You Don't Know What Love Is](https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:48 | 2022-01-20 | 2022-10-16 |
 | [You Know](https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U) | [Valentina Ranalli](https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [GIACOMO SERINO](https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3), [Cesare Mangiocavallo](https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b), [Giuseppe Romagnoli](https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L) | [Cantare Pieranunzi](https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ) | 4:11 | 2022-03-31 | 2022-08-30 |
 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5J6264keZ3ksbsHwef1U7G) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 4:19 | 2022-01-20 |  |
 | [You've Changed](https://open.spotify.com/track/1c4uYJTTaTzrEXAyyB95at) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:54 | 2022-01-20 | 2022-10-08 |

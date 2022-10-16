@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-185 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
+186 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Killer + The Sound](https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV) | 7:55 | 2021-10-22 | 2022-07-29 |
 | [Loose Change for the Boatman](https://open.spotify.com/track/307cqh2ACTzBm3deY5uVzs) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/2m7HIJEYualrBm7WAvcmZA) | 4:02 | 2021-10-22 |  |
 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 | 2021-10-22 |  |
-| [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 | 2021-10-22 |  |
+| [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 | 2021-10-22 | 2022-10-16 |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-10-22 |  |
 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 | 2021-10-22 |  |
 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 | 2021-10-22 |  |
@@ -177,6 +177,7 @@
 | [Tiger Mountain](https://open.spotify.com/track/5EUiOwwy0NAuaopdn5s7Sw) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/5DS2LGEb5JALEKTnYTaWls) | 6:22 | 2021-10-22 | 2022-07-29 |
 | [Toronto](https://open.spotify.com/track/1MsL6JYYuh9CCxD53zbrfV) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Toronto](https://open.spotify.com/album/0Lc5iXOUviqJeRMtCAAlbK) | 3:20 | 2021-10-22 | 2022-07-29 |
 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 | 2021-10-22 | 2022-07-29 |
+| [Vessel](https://open.spotify.com/track/1Z3cJgi5T2qhrxSR8vtFEh) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Alarms in the Heart](https://open.spotify.com/album/6xvzrRUXEUAPeo6iIVUzy2) | 5:12 | 2022-07-11 |  |
 | [Vessel](https://open.spotify.com/track/4wGGWZHX1RXAkJLngvOKrR) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Alarms in the Heart](https://open.spotify.com/album/2mfBfecmeq4XsCUJRq4PPp) | 5:12 | 2021-10-22 | 2022-07-29 |
 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 | 2022-07-11 |  |
 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 | 2021-10-22 |  |

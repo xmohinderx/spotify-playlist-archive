@@ -1808,6 +1808,24 @@
     },
     {
       "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
+    },
+    {
+      "album": {
         "name": "Theory of Ice",
         "url": "https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9"
       },
@@ -4297,7 +4315,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 230431,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn"

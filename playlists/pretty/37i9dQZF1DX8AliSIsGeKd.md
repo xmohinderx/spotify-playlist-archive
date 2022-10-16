@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,747 likes - 78 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,015 likes - 78 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 12 | [Into the Fog](https://open.spotify.com/track/6niPvrzPDQRfHL8TJRaZp3) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Into the Fog](https://open.spotify.com/album/3jqRp0U7hJ2dQYnqGGW8Ta) | 4:22 |
 | 13 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 |
 | 14 | [Yellow Shadows](https://open.spotify.com/track/0bPoewhcySA8sfHSTdzjua) | [Garance](https://open.spotify.com/artist/78HfGwq8phsLLzKzbEXffG), [BUNN](https://open.spotify.com/artist/5jpTXSMaUcaT3LdRvL473K) | [Yellow Shadows](https://open.spotify.com/album/0qoBDQM2oP02cgOtmexHex) | 6:26 |
-| 15 | [NYWTF \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
+| 15 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
 | 16 | [Pills \- Deborah de Luca Remix](https://open.spotify.com/track/7kXnFFxdau1mKmTHs4CYt3) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK), [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Pills \(Deborah de Luca Remix\)](https://open.spotify.com/album/77SPhAF3TWsIn3Kc8z9cI3) | 5:51 |
 | 17 | [Majestic](https://open.spotify.com/track/1aYj1C6QJm4WZ8j2FJNf8T) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Majestic](https://open.spotify.com/album/1SjbVRx7lZots8RJUZ9bdR) | 6:47 |
 | 18 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 29 | [Kammy \(like i do\)](https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS) | 3:58 |
 | 30 | [REVELATION \(feat\. Jalal Ramdani & Mavhungu\)](https://open.spotify.com/track/5KmsS8WwpwwrMrvpuvAZvr) | [IAM](https://open.spotify.com/artist/3c1lMwxxFOWKz9Dl7HFhtf), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [REVELATION \(feat\. Jalal Ramdani & Mavhungu\)](https://open.spotify.com/album/1g4Ub8TCjjB0FrJ0AUhSoC) | 3:52 |
 | 31 | [Wait A Minute \- Dixon Extension](https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Wait A Minute \(Dixon Extension\)](https://open.spotify.com/album/2bkhNP3qpPZFAEK6me4hoT) | 6:27 |
-| 32 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:34 |
+| 32 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 |
 | 33 | [Dark Knight \- Radio Edit](https://open.spotify.com/track/6D9hRZP937wyYZP10hHfZE) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [The Dark Knight EP](https://open.spotify.com/album/1TDoFYFwxZPEUcwRDLeYUq) | 4:50 |
 | 34 | [Losing Game](https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Losing Game](https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL) | 5:31 |
 | 35 | [Cloud 9](https://open.spotify.com/track/6PCkmEG2qnLbewSW1cN1rD) | [Irajá](https://open.spotify.com/artist/4FMTGkOjozsv1N6aMiR6nw), [Black Box](https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR), [Luc Rushmere](https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p) | [Cloud 9](https://open.spotify.com/album/5pjdf866qmNg2RMMOC1np6) | 3:35 |

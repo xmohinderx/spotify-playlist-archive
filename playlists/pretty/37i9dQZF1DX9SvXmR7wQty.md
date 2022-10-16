@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Daniel Bélanger
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,159 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,166 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 29 | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/track/597IPyHiTwYi9fRl12GfqX) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/album/6hdko08ga2L0QIObTzumPP) | 2:08 |
 | 30 | [Therapie Du Binks](https://open.spotify.com/track/338K3TO2gH7UMy26utR9L3) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Therapie Du Binks](https://open.spotify.com/album/5CBVRsESIMa0Ln4wgLebvQ) | 3:01 |
 | 31 | [Rien à faire](https://open.spotify.com/track/6ldE46YQqyqq7wt9QF1vnO) | [Guillaume Lafond](https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG) | [Rien à faire](https://open.spotify.com/album/1MbMe1JIrLM8pQYAQKaLqw) | 3:13 |
-| 32 | [L'intérieur étient](https://open.spotify.com/track/2P5FNCkac8o2nIxrS93vvV) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [L'intérieur éteint](https://open.spotify.com/album/3HqgYhTLZeO1L9yfYWYaAT) | 4:17 |
+| 32 | [L'intérieur éteint](https://open.spotify.com/track/2P5FNCkac8o2nIxrS93vvV) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [L'intérieur éteint](https://open.spotify.com/album/3HqgYhTLZeO1L9yfYWYaAT) | 4:17 |
 | 33 | [Tes mots couverture](https://open.spotify.com/track/5raETuowQmDMYsQCjRyrbP) | [Charles Robert](https://open.spotify.com/artist/1R7v1ckHaqIzDpi1exOK9h) | [Tes mots couverture](https://open.spotify.com/album/6o93nVkzc6wEpa6QtemMDW) | 3:00 |
 | 34 | [CÉSARIO](https://open.spotify.com/track/3nrjgf2W4A1U9mypG2WwGC) | [Gustafson](https://open.spotify.com/artist/7kEUpT2LxIhL8vwyIlCfF7) | [CÉSARIO](https://open.spotify.com/album/34FcZWZvmsjxlfRhkfMSoF) | 3:09 |
 | 35 | [Hangover](https://open.spotify.com/track/3NQ69PtJCBHVntvCOca9el) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF) | [Hangover](https://open.spotify.com/album/59bFmNEqvH9kA3yIz4kDeO) | 3:14 |

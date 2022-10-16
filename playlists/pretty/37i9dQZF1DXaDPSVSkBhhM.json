@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 55522,
+  "num_followers": 55544,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMGRmMDI1NDNjMDk4NjVjN2Y0OGI0Mjg3ODgzMDI2Mjk4",
+  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMGZkMGJmNTIxNWRhZGZlN2FlM2QwZmZkOTAxMjQ3NGM5",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
+      },
+      "artists": [
+        {
+          "name": "Hey B\u00e9sala",
+          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Desamorados",
+      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
-      },
-      "artists": [
-        {
-          "name": "Hey B\u00e9sala",
-          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Desamorados",
-      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Gran Blanco",
         "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
-      },
-      "artists": [
-        {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Entre La Guerra Y El Amor",
         "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 185493,
       "name": "Quemando Cartas",
       "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+      },
+      "artists": [
+        {
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Cereal",
-        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Cereal",
-      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Volver a Empezar",
         "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Y Si Patinan?",
-        "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
+        "name": "Cereal",
+        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
       "artists": [
         {
-          "name": "Skates Mx",
-          "url": "https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Siempre Fuerte",
-      "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
+      "duration_ms": 161226,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -579,6 +563,22 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Y Si Patinan?",
+        "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
+      },
+      "artists": [
+        {
+          "name": "Skates Mx",
+          "url": "https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Siempre Fuerte",
+      "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -615,6 +615,26 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Al infierno y de regreso",
         "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
       },
@@ -647,22 +667,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+        "name": "III\u00b7I",
+        "url": "https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r"
       },
       "artists": [
         {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+          "name": "Barney Gombo",
+          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+      "duration_ms": 191346,
+      "name": "Lav\u00e1ntula",
+      "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -679,22 +695,6 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "III\u00b7I",
-        "url": "https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r"
-      },
-      "artists": [
-        {
-          "name": "Barney Gombo",
-          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "Lav\u00e1ntula",
-      "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Lok@",
-        "url": "https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6"
-      },
-      "artists": [
-        {
-          "name": "Luisa Vox",
-          "url": "https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA"
-        }
-      ],
-      "duration_ms": 151157,
-      "name": "Lok@",
-      "url": "https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Todo Lo Que Soy",
         "url": "https://open.spotify.com/album/3C8MzBlq6nOZ0TeTFLhXxu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 198866,
       "name": "Todo Lo Que Soy",
       "url": "https://open.spotify.com/track/4IrGRRICVrIntPZyRzE0av"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Lok@",
+        "url": "https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6"
+      },
+      "artists": [
+        {
+          "name": "Luisa Vox",
+          "url": "https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA"
+        }
+      ],
+      "duration_ms": 151157,
+      "name": "Lok@",
+      "url": "https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a"
     },
     {
       "added_at": "2022-10-01 18:54:42",

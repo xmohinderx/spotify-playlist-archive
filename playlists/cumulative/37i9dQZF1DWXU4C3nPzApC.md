@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: The Shires
 
-82 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
+83 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Swear It All Again](https://open.spotify.com/track/5dOnsC5uMCwBheWsVfYdxr) | [Una Healy](https://open.spotify.com/artist/0yPAOmYRSrkuKnp70eLKLx) | [Swear It All Again](https://open.spotify.com/album/27VDig0LRMovkOjmzR8Um2) | 3:19 | 2021-12-17 | 2022-03-09 |
 | [Talk to Me](https://open.spotify.com/track/75k7MsFFQkNnJ0PSddPqCQ) | [Brooke Law](https://open.spotify.com/artist/0mDLTE0tzaN3lPl91t550q) | [Talk to Me](https://open.spotify.com/album/5q3aM991a3xOTd1FDlNJ1W) | 2:51 | 2021-12-17 | 2022-01-12 |
 | [Tell You Everything \- Not Put Together](https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [The I’m Not Always Put Together EP](https://open.spotify.com/album/4cCjYpkMsvEVpw5kLBlugQ) | 3:08 | 2022-03-08 | 2022-03-09 |
-| [Thank You](https://open.spotify.com/track/41CZ0ERIZE6HV5j28LbZ5J) | [Hollie Shearer](https://open.spotify.com/artist/4eAhHb9zMpb3ZCYrNVVtOu) | [Thank You](https://open.spotify.com/album/4CbF1PlKGrpwgRcJCGY2z2) | 3:07 | 2021-12-17 |  |
+| [Thank You](https://open.spotify.com/track/2dNJ8KT1ogus6POCW0VDGo) | [Hollie Shearer](https://open.spotify.com/artist/4eAhHb9zMpb3ZCYrNVVtOu) | [Thank You](https://open.spotify.com/album/5vosEUbhn6A92wxaPCFSfN) | 3:07 | 2022-03-11 |  |
+| [Thank You](https://open.spotify.com/track/41CZ0ERIZE6HV5j28LbZ5J) | [Hollie Shearer](https://open.spotify.com/artist/4eAhHb9zMpb3ZCYrNVVtOu) | [Thank You](https://open.spotify.com/album/4CbF1PlKGrpwgRcJCGY2z2) | 3:07 | 2021-12-17 | 2022-10-16 |
 | [The Neon](https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Neon](https://open.spotify.com/album/7CQGgKnzZNeP8ej48hOYng) | 3:34 | 2022-03-08 | 2022-03-09 |
 | [Want It Again](https://open.spotify.com/track/0I3oSMNUCUBf6lqyZEsCte) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [Want It Again](https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:52 | 2022-03-11 |  |

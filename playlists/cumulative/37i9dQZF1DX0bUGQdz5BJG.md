@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Avery Anna
 
-901 songs - 2 day 0 hr 12 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+902 songs - 2 day 0 hr 15 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,8 @@
 | [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2022-04-16 |
 | [Lose Somebody You Love](https://open.spotify.com/track/7EqJ06QvfGhvXcHPldhTa8) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Lose Somebody You Love](https://open.spotify.com/album/2cljVPOjMLcwYh51w94RSE) | 4:03 | 2021-12-31 | 2022-02-26 |
 | [Lost Right Now](https://open.spotify.com/track/3UjJBsZyUKofzHja2zaGY1) | [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [Lost Right Now](https://open.spotify.com/album/6od5VbvVdhpvBOHaB5wWjd) | 2:52 | 2022-08-26 |  |
-| [Love A Little More](https://open.spotify.com/track/3Jn6eXxC85UoXLA4Zcq3do) | [Blaine Holcomb](https://open.spotify.com/artist/7gHo4FqNotInYa92gHODnA) | [Love A Little More](https://open.spotify.com/album/1IzaKpq4lJQWt57R9EezFV) | 3:23 | 2022-08-26 |  |
+| [Love A Little More](https://open.spotify.com/track/3Jn6eXxC85UoXLA4Zcq3do) | [Blaine Holcomb](https://open.spotify.com/artist/7gHo4FqNotInYa92gHODnA) | [Love A Little More](https://open.spotify.com/album/1IzaKpq4lJQWt57R9EezFV) | 3:23 | 2022-08-26 | 2022-10-16 |
+| [Love A Little More](https://open.spotify.com/track/6sDICPeeY46P9hdcNN7BwP) | [Blaine Holcomb](https://open.spotify.com/artist/7gHo4FqNotInYa92gHODnA) | [Lessons](https://open.spotify.com/album/7H0gKMd6hMSiQC4z4YL4V9) | 3:23 | 2022-10-14 |  |
 | [Love Don't](https://open.spotify.com/track/0RYFpi4VhFeGGArrw5CL6I) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Love Don't](https://open.spotify.com/album/2uUYcWE12W5KOVlF97rOeT) | 3:15 | 2021-12-31 | 2022-03-18 |
 | [Love Like That](https://open.spotify.com/track/4RTWDgydEjOqA4wKWCxmxp) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love Like That](https://open.spotify.com/album/5jI2VJwargNYFtnYXknf2R) | 3:06 | 2021-12-31 | 2022-02-12 |
 | [Love Like We're Drunk](https://open.spotify.com/track/3LyU3vaPoWgLry9iKl16HM) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love Like We're Drunk](https://open.spotify.com/album/697830vakXB4vkwlGQm8la) | 2:34 | 2022-05-06 | 2022-07-09 |

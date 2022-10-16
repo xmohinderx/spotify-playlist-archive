@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-118 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
+119 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 | 2022-05-06 |  |
 | [Culebra](https://open.spotify.com/track/2fvIHtDhA6Z7TgP2elRH70) | [Dj Fucci](https://open.spotify.com/artist/3b9DkESgNdbns5sfCc5Skl) | [Fauna](https://open.spotify.com/album/2JItddUuvX3ny8JYIrUeGo) | 4:44 | 2022-05-06 | 2022-08-08 |
 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 | 2022-08-03 |  |
-| [Death](https://open.spotify.com/track/12CmR3HdSgdTeNqqCArJNd) | [Valesuchi](https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b) | [Tragicomic](https://open.spotify.com/album/7MLoEoQIno3oRHwGj0gJJh) | 4:08 | 2022-05-06 |  |
+| [Death](https://open.spotify.com/track/12CmR3HdSgdTeNqqCArJNd) | [Valesuchi](https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b) | [Tragicomic](https://open.spotify.com/album/7MLoEoQIno3oRHwGj0gJJh) | 4:08 | 2022-05-06 | 2022-10-16 |
 | [Descanse](https://open.spotify.com/track/4OQOtq13NDob5sVbAhRla6) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2RLMab2R3icqnFA2dYJKVc) | 4:31 | 2022-05-06 | 2022-09-15 |
 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 | 2022-08-18 |  |
 | [Directions \- Original Mix](https://open.spotify.com/track/6pBTIX73nFOiLrEAfSSRq2) | [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0) | [Directions](https://open.spotify.com/album/0k7Pj75e3fgHcwZnQnmyCK) | 5:26 | 2022-05-06 | 2022-07-28 |
@@ -41,6 +41,7 @@
 | [Dune Dune](https://open.spotify.com/track/4pvAdTqM8fNzMK7QEjovlV) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Dune Dune](https://open.spotify.com/album/4O80Saj92IWtbX9mio39oj) | 5:46 | 2022-05-06 |  |
 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 | 2022-05-06 |  |
 | [El Mago Georges](https://open.spotify.com/track/1CJ5JejmIAEtShoxy8DQHU) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/2I9xcItj7QW0UFZUIZy6sH) | 3:55 | 2022-05-06 | 2022-10-13 |
+| [El Mago Georges](https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT) | 3:55 | 2022-08-18 |  |
 | [Esta Noche](https://open.spotify.com/track/1WqGTSgimJIv67JjK4WwGs) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/1TgE9jzdGGphmgeMP4yN51) | 5:11 | 2022-05-06 | 2022-07-29 |
 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 | 2022-05-06 |  |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-05-06 |  |

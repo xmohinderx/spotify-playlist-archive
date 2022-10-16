@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-128 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+129 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Imagine \- Abel Ray Remix \- Mixed](https://open.spotify.com/track/7cNkTZhYHQyeR5ya1csbvT) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Sol Voyage 004 \- Night In The Medina \(DJ Mix\)](https://open.spotify.com/album/717xz0OL00IGZr2vA9mztH) | 5:42 | 2022-06-15 |  |
 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 | 2022-06-27 |  |
 | [Ithemba](https://open.spotify.com/track/1c1uaCg8VwmKpUOTWHmlRw) | [Kapibara](https://open.spotify.com/artist/4tWG36Cg7E242I26JiklSp), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip) | [Ithemba](https://open.spotify.com/album/6ilSdXr4K3a3YrLhT3kSFR) | 3:46 | 2022-04-13 |  |
-| [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-09 |  |
+| [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-10-13 |  |
+| [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-09 | 2022-10-16 |
 | [Jaffar](https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Jaffar](https://open.spotify.com/album/1gGWOsCs7X7Ve7oABfBpZk) | 8:22 | 2022-07-13 |  |
 | [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 |  |
 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 | 2022-04-13 |  |

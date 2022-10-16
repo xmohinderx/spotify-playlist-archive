@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,255 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,573 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 57 | [The Shake Up](https://open.spotify.com/track/6ps4hHdnIM37lSSRarQV6M) | [dameeeela](https://open.spotify.com/artist/6AaLiQRx5xSWLWZFSOcItq), [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [The Shake Up](https://open.spotify.com/album/6hFbuNlxxzrhFryP0JfQyX) | 4:11 |
 | 58 | [Dogfight](https://open.spotify.com/track/3KHfFqv1aTXnY4P0GWIEUw) | [Sevy](https://open.spotify.com/artist/1JWlma0hnqcELOIFZVl03u), [Bayang](https://open.spotify.com/artist/4zqh1joAEjSqCZ182ncGqI) | [notfromhere](https://open.spotify.com/album/1r4wtsu7r3KUa1sMFmNnUI) | 3:56 |
 | 59 | [R.I.P](https://open.spotify.com/track/3oQjXdnaea4lel5DkkKfJX) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [JON DO£](https://open.spotify.com/artist/2v0tNv0ka2GlmAfcLUIYOR), [Jarulah](https://open.spotify.com/artist/7KBQjTf6OmCZXe5BD2gdU2) | [Made For This](https://open.spotify.com/album/65JAwAH3TyRYjdBVrlzIvL) | 3:48 |
-| 60 | [All Over You](https://open.spotify.com/track/26nEOtqK9WaiwpOFX64Rml) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [All Over You](https://open.spotify.com/album/6xbTYcDAKikNrbnhCFLBr2) | 3:25 |
+| 60 | [All Over You](https://open.spotify.com/track/3l4Kjzg3iXFd47KzFVx2M3) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [All Over You](https://open.spotify.com/album/4b4fhgleTBt0bassQQFbBx) | 3:25 |
 | 61 | [Black Love](https://open.spotify.com/track/60mKQHD4tf5NrzconZVeyV) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH) | [Black Love](https://open.spotify.com/album/63f5qxkrMMabbh7cb1iubV) | 3:52 |
 | 62 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
 | 63 | [Tasteflash](https://open.spotify.com/track/6Q3XmKqHl6d1cXogRLhQNG) | [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Tasteflash](https://open.spotify.com/album/6nF1GZ3SlWUahRUUTkTmva) | 4:33 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 124 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 125 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMDA5ZjVlMWYyNmU2ZDhiNmEzMTI5NjdlZWY3OTcwYjNl`
+Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMGZiYjQyZTNkZDczYTE2YjE2NTUyOGU5YTljOTU0NzZk`

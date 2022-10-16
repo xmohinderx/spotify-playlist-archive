@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,439 likes - 97 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,513 likes - 97 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 62 | [Brace Yourself \- Nathan Barato ’Skies Of Blue’ Remix](https://open.spotify.com/track/4InL3SayTKfgsTF5qcukvl) | [White Cliffs](https://open.spotify.com/artist/4zsCw7u83qsLLbUhbsnsci), [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4) | [Brace Yourself](https://open.spotify.com/album/6GzloL4eqOE9Lv5xUIuJEQ) | 7:16 |
 | 63 | [Yoyo](https://open.spotify.com/track/4XZh0TiPxsHO1x1cbRM7ue) | [App](https://open.spotify.com/artist/1uko3MaOVMtOKrRR5LVcUs) | [YOYO EP](https://open.spotify.com/album/3LB1B0pzX0x2OcT3wXB5NK) | 9:19 |
 | 64 | [Lit](https://open.spotify.com/track/7pFWr3hJC7rs4BYN9Iswn3) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [The Deep](https://open.spotify.com/album/65hN94M7IG3BjYThIlK1Lx) | 7:12 |
-| 65 | [We Are Phuture \- Ricardo Villalobos Phutur II Remix](https://open.spotify.com/track/1NecUZbmNXoob3jY3kGcG5) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70), [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4) | [We Are Phuture \(Ricardo Villalobos Phutur I \- IV Remixes\)](https://open.spotify.com/album/7wRwpdJ5yIr0qU2oJCieap) | 10:08 |
+| 65 | [We Are Phuture \- Ricardo Villalobos Phutur II Remix](https://open.spotify.com/track/1GY1JgiNrJ1tBEFbP1KgoR) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70), [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4) | [We Are Phuture \(Ricardo Villalobos Phutur I \- IV Remixes\)](https://open.spotify.com/album/404KZZomNYBulzq0A6pvrf) | 10:08 |
 | 66 | [Don't Hesitate](https://open.spotify.com/track/4xyBiFKkZfJLzhPqWggDGr) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Don't Hesitate](https://open.spotify.com/album/0b0pAK40QuIvo18bn1k8Pq) | 3:00 |
 | 67 | [Caged](https://open.spotify.com/track/030mDv5pjH9AKTboGKklEg) | [Scar](https://open.spotify.com/artist/3h1BGAVAPHZV1PYAOPOyDm) | [Caged](https://open.spotify.com/album/5BYd3DHd1xxT2N1A9THxat) | 5:40 |
 | 68 | [For Those Who Know \- Davide Squillace Remix](https://open.spotify.com/track/09ZVKyYkjpJxrhRmEa191x) | [Ray Okpara](https://open.spotify.com/artist/6EhZghoXSCh77ZwpkKwnfn), [Davide Squillace](https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh) | [For Those Who Know EP](https://open.spotify.com/album/0y0jvcH8Dnff5GLZp38TlM) | 3:46 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 96 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 | 97 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 
-Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMDIyNjdkMDlkNWM4YWUzNTQwOTZhM2Y0YTJhMjdmY2I2`
+Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMDM4YWI5M2Q3MjY1Yzk2YzY3NjYwY2JlYTlkMDIxNjVk`

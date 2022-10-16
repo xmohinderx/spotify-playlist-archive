@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,244 likes - 192 songs - 11 hr 42 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,261 likes - 193 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,19 +186,20 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 176 | [The Cure](https://open.spotify.com/track/0lum4kcOxVNA63cg3AVP1D) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [The Cure](https://open.spotify.com/album/00nTCUR6R7duQ6454Unt7t) | 3:30 |
 | 177 | [back of my ford fiesta](https://open.spotify.com/track/4z1vqbZl7nPkvhapxbtWgD) | [sullfull](https://open.spotify.com/artist/6WRrbmkFdQExYaS4uyrmTm) | [back of my ford fiesta](https://open.spotify.com/album/6pwlZ578cy01sL51nnYkw6) | 3:05 |
 | 178 | [90s Sitcom](https://open.spotify.com/track/1zz6COVIJyrzmYXLdJxlTl) | [Brittany Ray](https://open.spotify.com/artist/3MsA2aQCSDMoi7K7pZEYPo) | [90s Sitcom](https://open.spotify.com/album/1YG1RJxZbGFyxbSc60Eyl9) | 2:40 |
-| 179 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 |
-| 180 | [Younger](https://open.spotify.com/track/7rTjUTMjFfhf4d6YfwXXwr) | [Justin Frech](https://open.spotify.com/artist/2uYe2yo7VRjf6qgBp1Zrkh), [Eliza Radyko](https://open.spotify.com/artist/47GiE02r0mVikCEmiWixbQ) | [Younger](https://open.spotify.com/album/5pl5wOhWwAqUMh7a70UdDr) | 3:14 |
-| 181 | [what if you break my heart again](https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [what if you break my heart again](https://open.spotify.com/album/1G6C5Crg74VSejc5Xyuh6C) | 2:54 |
-| 182 | [Cold Shoulders](https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R) | [Arlo Indigo](https://open.spotify.com/artist/55gevsKWJFm3llYjMJu0t5) | [All We Can Do Is Nothing](https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU) | 2:51 |
-| 183 | [Closer to Myself](https://open.spotify.com/track/1Om1oe5CW2Kkzd3LFIfJ2b) | [Rachel Angel](https://open.spotify.com/artist/788y49XFzpTv06Dw9athN1) | [Closer to Myself](https://open.spotify.com/album/1NRZYUrqlO5JuUhADLh4sc) | 4:25 |
-| 184 | [Coincide](https://open.spotify.com/track/0HOGA0XMC5E33f3SdybLba) | [Hunter Heflin](https://open.spotify.com/artist/78EOY1PZClscOyrP0StpoN) | [Coincide](https://open.spotify.com/album/454kioQrP4t8ChiFD3YgnK) | 2:49 |
-| 185 | [BlueByrd](https://open.spotify.com/track/7wo71YSb8vfhyoEN5iSKSp) | [The Byrd Project](https://open.spotify.com/artist/5Xxu7taeerOOzcI0VRCQe2), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [BlueByrd](https://open.spotify.com/album/0OjyRSq0jzwVsxR58eTqKe) | 2:59 |
-| 186 | [Fairy Tales](https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu) | [Josiah Hodson](https://open.spotify.com/artist/6WFyVuxvI3WYQ6jam9zMGK) | [Fairy Tales](https://open.spotify.com/album/0c4R8A62DfAD8d6VHboQdn) | 2:32 |
-| 187 | [You're Not Sorry](https://open.spotify.com/track/3qmwT1uepU0RWqRYHpLOOb) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [You're Not Sorry](https://open.spotify.com/album/0RzfAkyZ3pq66BQfeUmYyI) | 3:05 |
-| 188 | [Right Now](https://open.spotify.com/track/1F4Q7cYodZhXfNYZkbI5O1) | [Loc'd](https://open.spotify.com/artist/3d7Q0izC7Rqu1jh4SWjtaR) | [In](https://open.spotify.com/album/63zrGQ0OxDzZZ67kb7EZ4S) | 3:17 |
-| 189 | [Dangerous](https://open.spotify.com/track/7mgGg0qqHRyksMsl8BC3ok) | [Callum Hawthorne](https://open.spotify.com/artist/1iaj3RlA7KMDmmzl0AZxg1) | [No Strings On Me](https://open.spotify.com/album/6ABSEBv67h1cwD1AOz8uva) | 2:47 |
-| 190 | [12:21](https://open.spotify.com/track/3BV086gHae7xZbHiO3G5TB) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [12:21](https://open.spotify.com/album/1Zn5tYaIZ7GQxfujeUfs8v) | 2:36 |
-| 191 | [Thinking of You](https://open.spotify.com/track/41AOkJlfivoqLJkRB24gSg) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Thinking of You](https://open.spotify.com/album/0xhA16A3yuvBMXDJPeady0) | 2:19 |
-| 192 | [In Time](https://open.spotify.com/track/71d0LLbBBL4jSSW6wEi46L) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [In Time](https://open.spotify.com/album/5XZ7G9zMJi24jBlHPCvJov) | 3:09 |
+| 179 | [Time Awaits](https://open.spotify.com/track/0EWkcHC58bAHHcvoagva6u) | [Travis Sayles](https://open.spotify.com/artist/3ZF5OTLAF900ketxn9lFqw) | [Time Awaits](https://open.spotify.com/album/7DkI7ngAx583NI5CwakdMz) | 2:48 |
+| 180 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 |
+| 181 | [Younger](https://open.spotify.com/track/7rTjUTMjFfhf4d6YfwXXwr) | [Justin Frech](https://open.spotify.com/artist/2uYe2yo7VRjf6qgBp1Zrkh), [Eliza Radyko](https://open.spotify.com/artist/47GiE02r0mVikCEmiWixbQ) | [Younger](https://open.spotify.com/album/5pl5wOhWwAqUMh7a70UdDr) | 3:14 |
+| 182 | [what if you break my heart again](https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [what if you break my heart again](https://open.spotify.com/album/1G6C5Crg74VSejc5Xyuh6C) | 2:54 |
+| 183 | [Cold Shoulders](https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R) | [Arlo Indigo](https://open.spotify.com/artist/55gevsKWJFm3llYjMJu0t5) | [All We Can Do Is Nothing](https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU) | 2:51 |
+| 184 | [Closer to Myself](https://open.spotify.com/track/1Om1oe5CW2Kkzd3LFIfJ2b) | [Rachel Angel](https://open.spotify.com/artist/788y49XFzpTv06Dw9athN1) | [Closer to Myself](https://open.spotify.com/album/1NRZYUrqlO5JuUhADLh4sc) | 4:25 |
+| 185 | [Coincide](https://open.spotify.com/track/0HOGA0XMC5E33f3SdybLba) | [Hunter Heflin](https://open.spotify.com/artist/78EOY1PZClscOyrP0StpoN) | [Coincide](https://open.spotify.com/album/454kioQrP4t8ChiFD3YgnK) | 2:49 |
+| 186 | [BlueByrd](https://open.spotify.com/track/7wo71YSb8vfhyoEN5iSKSp) | [The Byrd Project](https://open.spotify.com/artist/5Xxu7taeerOOzcI0VRCQe2), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [BlueByrd](https://open.spotify.com/album/0OjyRSq0jzwVsxR58eTqKe) | 2:59 |
+| 187 | [Fairy Tales](https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu) | [Josiah Hodson](https://open.spotify.com/artist/6WFyVuxvI3WYQ6jam9zMGK) | [Fairy Tales](https://open.spotify.com/album/0c4R8A62DfAD8d6VHboQdn) | 2:32 |
+| 188 | [You're Not Sorry](https://open.spotify.com/track/3qmwT1uepU0RWqRYHpLOOb) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [You're Not Sorry](https://open.spotify.com/album/0RzfAkyZ3pq66BQfeUmYyI) | 3:05 |
+| 189 | [Right Now](https://open.spotify.com/track/1F4Q7cYodZhXfNYZkbI5O1) | [Loc'd](https://open.spotify.com/artist/3d7Q0izC7Rqu1jh4SWjtaR) | [In](https://open.spotify.com/album/63zrGQ0OxDzZZ67kb7EZ4S) | 3:17 |
+| 190 | [Dangerous](https://open.spotify.com/track/7mgGg0qqHRyksMsl8BC3ok) | [Callum Hawthorne](https://open.spotify.com/artist/1iaj3RlA7KMDmmzl0AZxg1) | [No Strings On Me](https://open.spotify.com/album/6ABSEBv67h1cwD1AOz8uva) | 2:47 |
+| 191 | [12:21](https://open.spotify.com/track/3BV086gHae7xZbHiO3G5TB) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [12:21](https://open.spotify.com/album/1Zn5tYaIZ7GQxfujeUfs8v) | 2:36 |
+| 192 | [Thinking of You](https://open.spotify.com/track/41AOkJlfivoqLJkRB24gSg) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Thinking of You](https://open.spotify.com/album/0xhA16A3yuvBMXDJPeady0) | 2:19 |
+| 193 | [In Time](https://open.spotify.com/track/71d0LLbBBL4jSSW6wEi46L) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [In Time](https://open.spotify.com/album/5XZ7G9zMJi24jBlHPCvJov) | 3:09 |
 
-Snapshot ID: `MzU2Myw2ZThhNjg5NTgxMjFmYTYyNTYzYTg1NTgyZTVhYTQzMzc3NTQyMDM5`
+Snapshot ID: `MzU2NCw3OGUwYjFmYjc4Y2MwNTJjMTU5OWZkNThhMjdhODU4ZWRlYTljZDIz`

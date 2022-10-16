@@ -1135,7 +1135,7 @@
     {
       "album": {
         "name": "He Said / She Said",
-        "url": "https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd"
+        "url": "https://open.spotify.com/album/1uTAS2OGXRBxLPT382dWTA"
       },
       "artists": [
         {
@@ -1146,6 +1146,24 @@
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 241441,
+      "name": "He Said / She Said",
+      "url": "https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY"
+    },
+    {
+      "album": {
+        "name": "He Said / She Said",
+        "url": "https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
       "duration_ms": 241441,
       "name": "He Said / She Said",
       "url": "https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi"

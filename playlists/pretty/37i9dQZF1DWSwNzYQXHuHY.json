@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 4643,
+  "num_followers": 4661,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODczNSwwMDAwMDAwMGRlODQ2ODBmN2FlOTIxNjliYzQzODk5OTI2YTIwYTc0",
+  "snapshot_id": "MTY2NTExODczNSwwMDAwMDAwMDMzYWFjMjA5OTZhZDcxOTc0MDVhMGVjOWRkYjg0NDY1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:58:55",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-10-07 04:58:55",
       "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2022-10-07 04:58:55",
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2022-10-07 04:58:55",
-      "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2022-10-07 04:58:55",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-07 04:58:55",
       "album": {
+        "name": "CYAN",
+        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "2U",
+      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+    },
+    {
+      "added_at": "2022-10-07 04:58:55",
+      "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2022-10-07 04:58:55",
       "album": {
-        "name": "CYAN",
-        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 195253,
-      "name": "2U",
-      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2022-10-07 04:58:55",
@@ -459,22 +475,6 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2022-10-07 04:58:55",
-      "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2022-10-07 04:58:55",
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-10-07 04:58:55",
       "album": {
+        "name": "how can i do",
+        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "YooJeong",
+          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
+        }
+      ],
+      "duration_ms": 169599,
+      "name": "how can i do (Feat. YooJeong)",
+      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+    },
+    {
+      "added_at": "2022-10-07 04:58:55",
+      "album": {
         "name": "UH-RA? with KozyPop",
         "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 217320,
       "name": "UH-RA? (feat. dress)",
       "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
-    },
-    {
-      "added_at": "2022-10-07 04:58:55",
-      "album": {
-        "name": "how can i do",
-        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        },
-        {
-          "name": "YooJeong",
-          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
-        }
-      ],
-      "duration_ms": 169599,
-      "name": "how can i do (Feat. YooJeong)",
-      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
     },
     {
       "added_at": "2022-10-07 04:58:55",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-07 04:58:55",
       "album": {
-        "name": "The King's Affection OST Part.6",
-        "url": "https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U"
-      },
-      "artists": [
-        {
-          "name": "HAE YOON (Cherry Bullet)",
-          "url": "https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Full of You",
-      "url": "https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH"
-    },
-    {
-      "added_at": "2022-10-07 04:58:55",
-      "album": {
         "name": "Once Upon a Small Town (Original Television Soundtrack), Pt.4",
         "url": "https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 204306,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY"
+    },
+    {
+      "added_at": "2022-10-07 04:58:55",
+      "album": {
+        "name": "The King's Affection OST Part.6",
+        "url": "https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U"
+      },
+      "artists": [
+        {
+          "name": "HAE YOON (Cherry Bullet)",
+          "url": "https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Full of You",
+      "url": "https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH"
     },
     {
       "added_at": "2022-10-07 04:58:55",

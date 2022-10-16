@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。
 
-182 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
+183 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [光の涯 \(feat\. アイナ・ジ・エンド\)](https://open.spotify.com/track/5cPB6t5awsMVnZln4Smxis) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 6:26 | 2022-07-27 | 2022-07-29 |
 | [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 | 2022-07-27 |  |
 | [君は僕に似ている](https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [君は僕に似ている](https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS) | 4:45 | 2022-07-27 |  |
+| [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-15 |  |
 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 | 2022-07-27 |  |
 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 | 2022-07-27 |  |
 | [夜明けのShooting Star](https://open.spotify.com/track/458T6LRHbdUHSPuXa6ybTT) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [夜明けのShooting Star](https://open.spotify.com/album/53UbmHb5nkkpVkKjzkhO07) | 4:51 | 2022-07-27 |  |

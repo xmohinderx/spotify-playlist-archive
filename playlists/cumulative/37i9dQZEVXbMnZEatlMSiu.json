@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
@@ -5614,6 +5614,24 @@
     },
     {
       "album": {
+        "name": "\u4e0e\u6211\u65e0\u5173",
+        "url": "https://open.spotify.com/album/4gZyFXOfAR3Ic87D19AaMa"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u5197",
+          "url": "https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u4e0e\u6211\u65e0\u5173",
+      "url": "https://open.spotify.com/track/5g3SAbi3NE8YXI0Z9aDFoZ"
+    },
+    {
+      "album": {
         "name": "\u4ec0\u9ebc\u90fd\u4e0d\u5fc5\u8aaa (2022 Remix)",
         "url": "https://open.spotify.com/album/7oIc0LSFU9ZRJr9Eip8Wxq"
       },
@@ -8283,7 +8301,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 264727,
       "name": "\u76f8\u611b\u5c31\u662f\u8aaa\u4e86100\u6b21\u5c0d\u4e0d\u8d77",
       "url": "https://open.spotify.com/track/0XycphC58RpvIxvHfCN3hX"
@@ -8613,7 +8631,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 300215,
       "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
       "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"

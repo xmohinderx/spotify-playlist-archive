@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=K4VIcrEPQ8SFoxAz04OFqw" > Psycho YP </a> puts us on the hardest bars straight outta Nigeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,127 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,155 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

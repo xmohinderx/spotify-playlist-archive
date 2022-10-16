@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-432 songs - 1 day 1 hr 7 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+433 songs - 1 day 1 hr 11 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 | 2022-07-26 |  |
 | [The Vampire](https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5) | 2:58 | 2022-07-26 |  |
 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 | 2022-07-26 |  |
+| [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 | 2022-10-13 |  |
 | [Volcano \- Vocaloid Ver.](https://open.spotify.com/track/0FyYZ5VcmMFd3Ijimml5c6) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Volcano](https://open.spotify.com/album/2EAlgzQTAd35KDAZuhN8cD) | 2:38 | 2022-10-04 |  |
 | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/track/060o2JWYP7I22bHf7ZpWfV) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/album/2kCOKJUHG8bLievJdoXaJy) | 3:28 | 2022-06-09 | 2022-07-27 |
 | [Weekender Girl](https://open.spotify.com/track/1ezXW6syS9nqHhh6f2WJQf) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:31 | 2022-07-12 | 2022-07-15 |
@@ -172,7 +173,7 @@
 | [アンノウンフィルタ](https://open.spotify.com/track/74xLYeg88SbmN1XbhmNZBt) | [Nqsi](https://open.spotify.com/artist/2FZi0Xj9ERRmQAFRWlLGcS) | [アンノウンフィルタ](https://open.spotify.com/album/44xEQqloDnzaScjS6Bo6KM) | 2:12 | 2022-06-09 | 2022-07-23 |
 | [アンプランド・アポトーシス](https://open.spotify.com/track/2TwVplURaIUB1WoPeVjaLs) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [アンプランド・アポトーシス](https://open.spotify.com/album/1GhG2xOYhaBJkLdmpeK39Q) | 3:00 | 2022-06-30 | 2022-07-27 |
 | [イカサマライフゲイム](https://open.spotify.com/track/3eGoU7axuRs95XEg2bHgLJ) | [Kemu](https://open.spotify.com/artist/1XdtlhxEDsae1fePHTX4bn) | [イカサマライフゲイム](https://open.spotify.com/album/1FrxMJLctKQwGiXifCEqoz) | 4:06 | 2022-06-09 | 2022-06-21 |
-| [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 | 2022-06-09 |  |
+| [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 | 2022-06-09 | 2022-10-16 |
 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 | 2022-07-26 | 2022-10-14 |
 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 | 2022-07-19 |  |
 | [エバ](https://open.spotify.com/track/6R84deEuce44rWKc7jHINJ) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:49 | 2022-06-14 | 2022-07-19 |

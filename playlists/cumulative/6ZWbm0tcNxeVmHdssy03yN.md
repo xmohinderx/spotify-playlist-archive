@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-1,815 songs - 4 day 2 hr 53 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+1,816 songs - 4 day 2 hr 56 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1278,6 +1278,7 @@
 | [Pool Friends](https://open.spotify.com/track/6Kzw2gInBCXDe2k75IiI2t) | [BEACH SCVM](https://open.spotify.com/artist/2JPD7MQeNXhJ8XqGKZgeTf) | [Pool Friends](https://open.spotify.com/album/6j79GdWuP5I31gWxK1A6sg) | 2:34 | 2020-11-03\* | 2020-12-08 |
 | [Pool Party](https://open.spotify.com/track/45ucJ6k6ey8SLm3cT9hzKe) | [Nicoletta de Lira](https://open.spotify.com/artist/1TgmTG3L0Yga4SXddc95fI), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Pool Party](https://open.spotify.com/album/6kLY5nIDg6GJWUzrSntUnB) | 2:39 | 2022-06-17 | 2022-07-16 |
 | [Porch](https://open.spotify.com/track/1OqnVxFswDB2iCevZM24jC) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Porch](https://open.spotify.com/album/6Kepupj1rXJfb72146VdRn) | 3:23 | 2021-05-15 | 2021-05-22 |
+| [Portland \- Remix](https://open.spotify.com/track/6z4LutmoTHY2CZ8ZNhGFvT) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Portland \(Remix\)](https://open.spotify.com/album/4OpZ7DxGUrsDgUpOoyXW5n) | 3:35 | 2022-10-15 |  |
 | [Postcard](https://open.spotify.com/track/00H8ZPmX9eyDb1kQBdO3Z3) | [Seb Szabo](https://open.spotify.com/artist/2Fo3rEzOXtPFjkvs0LyeoT) | [Staring Out The Windows](https://open.spotify.com/album/5IaXtWWYTqHe6FpdvjPpUB) | 4:05 | 2021-07-17 | 2021-08-14 |
 | [Potion No.9](https://open.spotify.com/track/43K5DqzH9ljI4hbMSIH0IW) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Potion No.9](https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF) | 2:34 | 2022-05-27 | 2022-07-09 |
 | [Power](https://open.spotify.com/track/5OAvZQaGaqiAF2tdJUDfOC) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [OLLIE CHANIN](https://open.spotify.com/artist/1icLtrWlOZvRIg7EQtXQyF) | [Power](https://open.spotify.com/album/3Awd3EpdppnunaVtP2d704) | 2:52 | 2021-06-12 | 2021-07-24 |

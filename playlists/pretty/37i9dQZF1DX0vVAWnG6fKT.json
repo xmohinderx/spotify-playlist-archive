@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 112352,
+  "num_followers": 112440,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMGUyMzhhMmU0MzFlZTAzNDg4NWMzMjJiMWY1N2EyNTQx",
+  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMDJiYzBhMWM3ODc3MDM4ZWZhNzVlMmE3YmEyODMyMGZl",
   "tracks": [
     {
       "added_at": "2022-07-24 19:41:51",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Guitar Legend: The RCA Years",
-        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
-      },
-      "artists": [
-        {
-          "name": "Chet Atkins & His Colorado Mountain Boys",
-          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Canned Heat - Buddha Remastered - 2000",
-      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 185533,
       "name": "Deck Of Cards",
       "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Guitar Legend: The RCA Years",
+        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins & His Colorado Mountain Boys",
+          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Canned Heat - Buddha Remastered - 2000",
+      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
         "name": "America's Most Colorful Hillbilly Band",
         "url": "https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 190693,
       "name": "Milk Cow Blues",
       "url": "https://open.spotify.com/track/2gtvsPwY1z8nzu9Z58uS5b"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 159800,
       "name": "Born to Lose",
       "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/0Bc4Eoh8xt6fX5T67ki655"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        },
-        {
-          "name": "Tommy Duncan",
-          "url": "https://open.spotify.com/artist/2xS555UhAr5LdCV4nL4c8N"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "Bubbles In My Beer - Single Version",
-      "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Presenting Al Dexter",
         "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
       },
@@ -1179,6 +1159,22 @@
       "duration_ms": 169760,
       "name": "Wine, Women and Song",
       "url": "https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Everybody Stomp - Rag Time",
+        "url": "https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL"
+      },
+      "artists": [
+        {
+          "name": "Hoosier Hot Shots",
+          "url": "https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Sioux city sue",
+      "url": "https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv"
     }
   ],
   "unique_name": "40s Country",

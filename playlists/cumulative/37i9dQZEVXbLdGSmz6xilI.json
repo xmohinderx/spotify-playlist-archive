@@ -2308,6 +2308,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3 Khi (feat. Low G)",
+        "url": "https://open.spotify.com/album/1JYvtEw17jdrUi8Ej9IFWg"
+      },
+      "artists": [
+        {
+          "name": "Madihu",
+          "url": "https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "C\u00f3 Khi (feat. Low G)",
+      "url": "https://open.spotify.com/track/7MObIQOs5ESkbcihA9dcsz"
+    },
+    {
+      "album": {
         "name": "C\u00f3 Kh\u00f4ng Gi\u1eef M\u1ea5t \u0110\u1eebng T\u00ecm",
         "url": "https://open.spotify.com/album/5f6SOjdAP8O6PPAPKwn8IX"
       },
@@ -2663,7 +2685,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 349793,
       "name": "Di\u1ec5n vi\u00ean t\u1ed3i",
       "url": "https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8"
@@ -4277,7 +4299,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 162569,
       "name": "Hard to Love",
       "url": "https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q"
@@ -6021,7 +6043,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 252953,
       "name": "L\u1ed1i Nh\u1ecf",
       "url": "https://open.spotify.com/track/25edeHHueINMguqu9emCyV"
@@ -10161,7 +10183,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 176666,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
@@ -10757,7 +10779,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 253524,
       "name": "Y\u00eau M\u1ed9t Ng\u01b0\u1eddi C\u00f3 L\u1ebd",
       "url": "https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv"

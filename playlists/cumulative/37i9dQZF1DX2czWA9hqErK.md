@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-387 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+388 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-05-31 |  |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-03-08 |  |
 | [Hands Tied](https://open.spotify.com/track/1vrA1Ndw5iMkjxgQ3yvohQ) | [Beatrich](https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W) | [Hands Tied](https://open.spotify.com/album/3mFpTh7oqlZvjfhHN4hqcC) | 3:13 | 2021-12-16 | 2022-04-05 |
-| [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2021-12-16 |  |
+| [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2021-12-16 | 2022-10-16 |
 | [Happy Just To Know](https://open.spotify.com/track/53qdE4yFweq6kbO2MQ44Ul) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Happy Just To Know](https://open.spotify.com/album/3iDEefcXTLkslAUAAC6ZfJ) | 3:08 | 2021-12-16 | 2022-01-15 |
 | [Hate That I Fell In Love With You](https://open.spotify.com/track/4btfzhaFLkVJAQZMgofLnU) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Hate That I Fell In Love With You](https://open.spotify.com/album/09UX3iDUU7L9hHceGsECJ8) | 3:17 | 2021-12-16 | 2022-01-12 |
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2021-12-16 | 2022-02-17 |
@@ -189,6 +189,7 @@
 | [Jealous](https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Jealous](https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo) | 3:53 | 2022-03-08 | 2022-07-29 |
 | [Jealous](https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9) | 3:54 | 2022-08-02 |  |
 | [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 | 2022-10-11 | 2022-10-13 |
+| [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 | 2022-10-11 |  |
 | [July](https://open.spotify.com/track/7Bt8AKBl6B0LYw8KQW8taX) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [July](https://open.spotify.com/album/0YjpN6yFdeGA0WyhqvNS1J) | 4:08 | 2021-12-16 | 2022-04-05 |
 | [Jump](https://open.spotify.com/track/6zqgrY3jXBSMx3WuNErdTB) | [REUNIØN](https://open.spotify.com/artist/0xGQO6SPjYCzbeDgjpfJ5n) | [Jump](https://open.spotify.com/album/1ytsYG5T02plyHuYfIyw1w) | 4:16 | 2021-12-16 | 2022-02-15 |
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-12-16 | 2022-03-26 |

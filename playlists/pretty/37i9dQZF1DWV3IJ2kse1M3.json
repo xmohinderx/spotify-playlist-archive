@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u4f46\u4f60\u624d\u771f\u7684\u53ef\u60e1 \u83ab\u540d\u50b7\u5f97\u9ad4\u7121\u5b8c\u819a\n\u70ba\u8a8d\u771f\u6f14\u51fa \u7d50\u675f\u5f97\u5009\u4fc3 \u541e\u541e\u53c8\u5410\u5410\n\u8ab0\u62b1\u982d\u5730\u75db\u54ed \u71b1\u60c5\u5730\u6b61\u547c \u90fd\u53ef\u6709\u53ef\u7121\u3002",
-  "num_followers": 187107,
+  "num_followers": 187135,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Nzc3MiwwMDAwMDAwMDY2ZDMwY2YyYzc2YjgwYTVkODhiMDNhNDJjZDgyNjc4",
+  "snapshot_id": "MTY2NDg5Nzc3MiwwMDAwMDAwMDgyNzcxZTgyMTBkMTUyMTI1NmEyYTlhYThjZmE4ZTU4",
   "tracks": [
     {
       "added_at": "2022-10-04 15:33:59",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-04 15:33:59",
       "album": {
-        "name": "\u611b\u5230\u7121\u53ef\u6551\u85e5",
-        "url": "https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m"
-      },
-      "artists": [
-        {
-          "name": "Victor Wong",
-          "url": "https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW"
-        }
-      ],
-      "duration_ms": 298426,
-      "name": "\u6211\u4ee5\u70ba",
-      "url": "https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs"
-    },
-    {
-      "added_at": "2022-10-04 15:33:59",
-      "album": {
         "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 299346,
       "name": "\u5931\u843d\u6c99\u6d32",
       "url": "https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi"
+    },
+    {
+      "added_at": "2022-10-04 15:33:59",
+      "album": {
+        "name": "\u611b\u5230\u7121\u53ef\u6551\u85e5",
+        "url": "https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m"
+      },
+      "artists": [
+        {
+          "name": "Victor Wong",
+          "url": "https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW"
+        }
+      ],
+      "duration_ms": 298426,
+      "name": "\u6211\u4ee5\u70ba",
+      "url": "https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs"
     },
     {
       "added_at": "2022-10-04 15:33:59",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-04 15:33:59",
       "album": {
-        "name": "\u591c\u8c93",
-        "url": "https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs"
-      },
-      "artists": [
-        {
-          "name": "Della",
-          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
-        }
-      ],
-      "duration_ms": 282400,
-      "name": "\u6211\u611b\u4ed6",
-      "url": "https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k"
-    },
-    {
-      "added_at": "2022-10-04 15:33:59",
-      "album": {
         "name": "\u5b78\u4e0d\u6703",
         "url": "https://open.spotify.com/album/1hTBgTLTxoaK9TJ8YmnYU5"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 219511,
       "name": "Love U U",
       "url": "https://open.spotify.com/track/16o2AmA4xxtE3vMGl3zi0W"
+    },
+    {
+      "added_at": "2022-10-04 15:33:59",
+      "album": {
+        "name": "\u591c\u8c93",
+        "url": "https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        }
+      ],
+      "duration_ms": 282400,
+      "name": "\u6211\u611b\u4ed6",
+      "url": "https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k"
     },
     {
       "added_at": "2022-10-04 15:33:59",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-10-04 15:33:59",
       "album": {
-        "name": "\u4e0d\u5728\u4e00\u8d77\u5c31\u4e0d\u6703\u5206\u958b",
-        "url": "https://open.spotify.com/album/3zdOCw1uKKB8I9jHC0E7Cg"
+        "name": "\u672a\u5b8c\u6210",
+        "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
       },
       "artists": [
         {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
         }
       ],
-      "duration_ms": 287333,
-      "name": "\u4e0d\u5728\u4e00\u8d77\u5c31\u4e0d\u6703\u5206\u958b",
-      "url": "https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN"
+      "duration_ms": 320400,
+      "name": "\u6211\u4e0d\u96e3\u904e",
+      "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
     }
   ],
   "unique_name": "\u60b2\u50b7\u91cb\u653e",

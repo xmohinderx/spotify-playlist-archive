@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 749686,
+  "num_followers": 749687,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMDA5NDMxOThlYzIyZjJjZjJiOWVmNDYyOGUzNmNjNTk5",
+  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMGRiYTAwOTExMjc5Njk1YzdiZDk4MzA2MWM1ZjM5OGIx",
   "tracks": [
     {
       "added_at": "2022-09-06 16:40:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Skin Tight (feat. Steve Lacy)",
         "url": "https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 227001,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "All Damn Day!",
-        "url": "https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy"
-      },
-      "artists": [
-        {
-          "name": "Ant Saunders",
-          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
-        }
-      ],
-      "duration_ms": 168627,
-      "name": "All Damn Day!",
-      "url": "https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Mascarade (feat. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 158899,
       "name": "Mascarade (feat. Lous and The Yakuza) - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7eBQnUcKDi9S3ChSvGZIMg"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "All Damn Day!",
+        "url": "https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy"
+      },
+      "artists": [
+        {
+          "name": "Ant Saunders",
+          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
+        }
+      ],
+      "duration_ms": 168627,
+      "name": "All Damn Day!",
+      "url": "https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 198594,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Nela",
-        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
       },
       "artists": [
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 163516,
-      "name": "Nela",
-      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1531,6 +1547,22 @@
       "duration_ms": 233739,
       "name": "Control",
       "url": "https://open.spotify.com/track/34y3MtDxzDqPbxe9b4aGxp"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Nela",
+        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Nela",
+      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1587,22 +1619,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 198594,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Emoji",
         "url": "https://open.spotify.com/album/1ZQ8y3JuZIKgAcEqkca5ZO"
       },
@@ -1651,6 +1651,38 @@
       "duration_ms": 201739,
       "name": "Emoji",
       "url": "https://open.spotify.com/track/4dzSYGqu0Yx4vjGAt7XWQG"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 185686,
+      "name": "H2O",
+      "url": "https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1671,26 +1703,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Made of Gold",
-        "url": "https://open.spotify.com/album/3tD15FVyV5uiCKsTPiTTNP"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 213977,
-      "name": "Made of Gold - Edit",
-      "url": "https://open.spotify.com/track/3pMtWCYO44ow0AOj1RL99O"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "I've Seen Better Days",
         "url": "https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL"
       },
@@ -1707,18 +1719,22 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+        "name": "Made of Gold",
+        "url": "https://open.spotify.com/album/3tD15FVyV5uiCKsTPiTTNP"
       },
       "artists": [
         {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+      "duration_ms": 213977,
+      "name": "Made of Gold - Edit",
+      "url": "https://open.spotify.com/track/3pMtWCYO44ow0AOj1RL99O"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1755,22 +1771,6 @@
       "duration_ms": 225454,
       "name": "Direction",
       "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
-        "name": "Shelley FKA DRAM",
-        "url": "https://open.spotify.com/album/6NgnKl9MwZm5yZnc1W2z1t"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 265225,
-      "name": "Something About Us",
-      "url": "https://open.spotify.com/track/1d24IsT8Vx0sENM2Oof4V2"
     }
   ],
   "unique_name": "Mixto",

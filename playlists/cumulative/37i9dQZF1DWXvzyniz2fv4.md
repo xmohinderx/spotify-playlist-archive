@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-78 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+79 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 | 2021-11-12 |  |
 | [Sabor Cereja](https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Sabor Cereja](https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM) | 2:55 | 2021-11-12 |  |
 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 | 2021-11-12 |  |
-| [Saudade](https://open.spotify.com/track/141aDylSO3dyhM4hQerg9K) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/4hTkQ4OLY6Wm67OWJS4242) | 3:17 | 2021-11-12 |  |
+| [Saudade](https://open.spotify.com/track/141aDylSO3dyhM4hQerg9K) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/4hTkQ4OLY6Wm67OWJS4242) | 3:17 | 2021-11-12 | 2022-10-16 |
+| [Saudade](https://open.spotify.com/track/1YDs0mBrM5hNruhCrF0fbE) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/1XVjWWFBWVvoAbneaETMDC) | 3:17 | 2022-09-23 |  |
 | [Sofá](https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3) | [Ramaciote](https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk), [NBEATZ](https://open.spotify.com/artist/7HNjBjJI32FtmXCd2pRE43) | [Sofá](https://open.spotify.com/album/4T9xavReRre65J7H5Qnzky) | 1:45 | 2022-06-24 | 2022-07-30 |
 | [Sol, Eu e Você](https://open.spotify.com/track/6EwECcMJpnRj11CXBXAjIQ) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2) | [Sol, Eu e Você](https://open.spotify.com/album/1sCTQpM5hZYae8aAwjm3xE) | 2:47 | 2022-04-22 | 2022-06-11 |
 | [Solstício](https://open.spotify.com/track/2eL6c0AYrGtyUJfcuApZt6) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Solstício](https://open.spotify.com/album/1SR7g37coJXdwzSflFFtgI) | 2:30 | 2022-06-10 | 2022-06-25 |

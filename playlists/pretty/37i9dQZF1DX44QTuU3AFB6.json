@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' pistear con Joss Favela!",
-  "num_followers": 152034,
+  "num_followers": 152051,
   "original_name": "Pisteando con Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGNmNjA1MjU5ZTlhMDkxODFhYTY1ZTMwYmQ2Y2YzNzY3",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGJmZjNhOWNmOWFmNzY4YzhiZTcxYjUxZmFiNjZmMzQ2",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "19 Dias Y 500 Noches",
-        "url": "https://open.spotify.com/album/2ZbJiQUpbTkWelyNhvPAg7"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 430613,
-      "name": "A Mis Cuarenta y Diez",
-      "url": "https://open.spotify.com/track/357aTtDPTfbrwzoqtkV2np"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "La Muerte De Baltazar",
         "url": "https://open.spotify.com/album/0aqoubXxpuCL4wjwhRMZhI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 154546,
       "name": "Dos Mares de Lagrimas",
       "url": "https://open.spotify.com/track/0FzQ9iYXouTpxQB4MhmQ0U"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "19 Dias Y 500 Noches",
+        "url": "https://open.spotify.com/album/2ZbJiQUpbTkWelyNhvPAg7"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 430613,
+      "name": "A Mis Cuarenta y Diez",
+      "url": "https://open.spotify.com/track/357aTtDPTfbrwzoqtkV2np"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 192784,
-      "name": "Con Ag\u00fcita y Con Jab\u00f3n",
-      "url": "https://open.spotify.com/track/5cJ7EPUkxJos58dr5QNWnJ"
+      "duration_ms": 169444,
+      "name": "Cuidado Con el Perro",
+      "url": "https://open.spotify.com/track/1yFyfvCyBCfnCdmVZdEF3m"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 169444,
-      "name": "Cuidado Con el Perro",
-      "url": "https://open.spotify.com/track/1yFyfvCyBCfnCdmVZdEF3m"
+      "duration_ms": 192784,
+      "name": "Con Ag\u00fcita y Con Jab\u00f3n",
+      "url": "https://open.spotify.com/track/5cJ7EPUkxJos58dr5QNWnJ"
     }
   ],
   "unique_name": "Pisteando con Joss Favela",

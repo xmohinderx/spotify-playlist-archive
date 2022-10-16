@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-352 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+353 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/3PSSHsPh9ar1bvawML5NhE) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Are You Gonna Be My Girl](https://open.spotify.com/album/7BciFlE3SZ0oqQwFk8irRv) | 3:35 | 2021-07-21 | 2022-05-31 |
 | [Army Of Me](https://open.spotify.com/track/0rh8bLXJAlI0irKiTvuQS8) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Army Of Me](https://open.spotify.com/album/53M85Bxmxb8t7tga0XOp6c) | 4:06 | 2021-07-21 | 2022-07-08 |
 | [As I Rise](https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG) | 2:20 | 2021-08-20 |  |
-| [As It Was](https://open.spotify.com/track/6TPOq3tmGF2lD5eyIAUWor) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/3mm1CLkpLTOlggRZBCV03q) | 3:46 | 2022-09-27 |  |
+| [As It Was](https://open.spotify.com/track/6TPOq3tmGF2lD5eyIAUWor) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/3mm1CLkpLTOlggRZBCV03q) | 3:46 | 2022-09-27 | 2022-10-16 |
 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/51tCjB9xqCJyoe0KdqbdLr) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/3R31GRbf0XVpBTfIzpkBHa) | 4:41 | 2021-03-12 | 2022-07-27 |
 | [Back on the Chain Gang](https://open.spotify.com/track/1QMS4FA3cbOdyff60sDBJy) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Low in High School \(Deluxe Edition\)](https://open.spotify.com/album/6NqxNgmWYbWW8xkASo13UZ) | 3:51 | 2021-03-12 | 2022-08-10 |
 | [Back on the Chain Gang](https://open.spotify.com/track/5mmn8mpZ7EHZOHmuY6GYVP) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Back on the Chain Gang](https://open.spotify.com/album/3illnzxbEXmB81wVkdrXdD) | 3:51 | 2021-03-12 | 2022-04-18 |
@@ -270,6 +270,7 @@
 | [Soon \- piano](https://open.spotify.com/track/6XIqrMq5RpQOWvcQRo8yLw) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Soon \(piano\) + The River \(piano\)](https://open.spotify.com/album/6BtlliNtg4YwPr8RG0warf) | 3:52 | 2021-03-12 | 2022-07-28 |
 | [Sparks](https://open.spotify.com/track/0XWe8Cxl9ebrtE4I9lkFD3) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Parachutes](https://open.spotify.com/album/2FhVMpJN2jtR2BwvZOFZop) | 3:45 | 2021-11-19 | 2022-04-21 |
 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 | 2021-03-12 | 2022-04-20 |
+| [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-09-03 |  |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 | 2021-10-08 | 2022-10-13 |
 | [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 | 2021-10-08 | 2022-08-18 |
 | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/track/0864RUJfVHsr25hM5pxonl) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/album/30HFiTr4QBg533rhuDXYw1) | 3:51 | 2021-03-12 | 2022-04-21 |

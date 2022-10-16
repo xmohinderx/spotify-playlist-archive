@@ -2591,10 +2591,28 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 184615,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2uwWhxkpdyxIjKeSkkcPoJ"
+    },
+    {
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/3nlvjwmuTe5rdmudpeGH6m"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/4CYob98Mwk0mYZWCoLaS3u"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-154 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+155 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [ugh!](https://open.spotify.com/track/5p6SMibx8q56JAwC64P8qg) | [dwilly](https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84) | [ugh!](https://open.spotify.com/album/0xxmUhhzJBVAlIuNHuYskZ) | 2:51 | 2019-12-10 |  |
 | [ugh!](https://open.spotify.com/track/63Y4xHpEXsx1WBTOodRTxc) | [dwilly](https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84) | [ugh!](https://open.spotify.com/album/4NoYls3Q5pyWnWW9AJY5o7) | 2:51 | 2019-12-10 | 2022-07-29 |
 | [Ugly](https://open.spotify.com/track/0MztsqxURlitrtr1Ruu0uw) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Ugly](https://open.spotify.com/album/3got7V5nC7wSLb498mLDp5) | 3:04 | 2019-12-10 | 2022-07-29 |
-| [Ugly](https://open.spotify.com/track/2uwWhxkpdyxIjKeSkkcPoJ) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Ugly](https://open.spotify.com/album/28fxM5KaCES9DolERx2MUq) | 3:04 | 2019-12-10 |  |
+| [Ugly](https://open.spotify.com/track/2uwWhxkpdyxIjKeSkkcPoJ) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Ugly](https://open.spotify.com/album/28fxM5KaCES9DolERx2MUq) | 3:04 | 2019-12-10 | 2022-10-16 |
+| [Ugly](https://open.spotify.com/track/4CYob98Mwk0mYZWCoLaS3u) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Ugly](https://open.spotify.com/album/3nlvjwmuTe5rdmudpeGH6m) | 3:04 | 2019-12-10 |  |
 | [Union Station](https://open.spotify.com/track/4mfw5jKn6jgPQiUIuCcA2D) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Union Station](https://open.spotify.com/album/26LtPoT9dRbtp0GTC7y1im) | 3:16 | 2019-12-10 | 2022-07-29 |
 | [Union Station](https://open.spotify.com/track/6YntwnoQvYqHYwmg6ujWwo) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Union Station](https://open.spotify.com/album/09BKJ2x8XXjKaLWiuLrNt9) | 3:16 | 2019-12-10 |  |
 | [Untitled](https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb) | 2:59 | 2019-12-10 |  |

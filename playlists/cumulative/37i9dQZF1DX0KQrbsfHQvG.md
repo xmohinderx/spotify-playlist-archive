@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-131 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
+132 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [21st Century Liability](https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:09 | 2022-07-01 |  |
 | [6:00](https://open.spotify.com/track/3PTBfw2zgvY9HjpBU8VoFz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 4:26 | 2020-08-19 | 2022-07-29 |
 | [A Dying Plea Vol\. 1](https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Marcia Richards](https://open.spotify.com/artist/1I1Psp3G5rPd9Wz4uBE3Zu), [Jálise Della Gary](https://open.spotify.com/artist/0f5kdcCaSt4HSPvBKuXvYv), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [A Dying Plea Vol\. 1](https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V) | 3:26 | 2020-11-04 | 2022-07-29 |
-| [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2020-08-19 |  |
+| [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2020-08-19 | 2022-10-16 |
 | [American Dreams](https://open.spotify.com/track/2BljDCCL2GPYOXNSY0DEfU) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/3Ubxq3xl0xzgKTyetggqbm) | 3:23 | 2020-08-19 | 2022-07-29 |
 | [American Dreams](https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:23 | 2022-07-01 |  |
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2020-08-19 |  |
@@ -89,6 +89,7 @@
 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Obey \(with YUNGBLUD\)](https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ) | 3:40 | 2020-10-23 |  |
 | [Oh No!!!](https://open.spotify.com/track/1o7fEkmVNWFiBOunYE4flT) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 3](https://open.spotify.com/album/7AyAjjEyQwjpaqMEWMi3Iu) | 3:35 | 2020-08-19 | 2022-07-29 |
 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 | 2020-08-19 | 2022-10-13 |
+| [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 | 2022-07-01 |  |
 | [Party Political](https://open.spotify.com/track/4JbN4v3db2tYlX7kwRnPj2) | [Full Scale](https://open.spotify.com/artist/3IeikfWOXb5ECI8DEHXj8x) | [Rock N' Shock](https://open.spotify.com/album/5mPvdmUfoBhnXp9E8VLw4D) | 3:57 | 2020-08-19 | 2022-07-29 |
 | [Pirates, Punks & Politics \(feat\. Perry Farrell\)](https://open.spotify.com/track/2yaxqzBs3ayn3wfWxUzAkK) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [Pirates, Punks & Politics](https://open.spotify.com/album/3Cnr4s236COe5zXDDOn79l) | 3:22 | 2020-08-19 | 2022-07-27 |
 | [Point the Finger \(feat\. Riley Gale\)](https://open.spotify.com/track/0qBAJcRGUwjEw2dAmGi4vG) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Riley Gale](https://open.spotify.com/artist/0nlvlcf7v9fSsdzXL8nUeU) | [Carnivore](https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x) | 2:38 | 2020-08-19 | 2022-07-29 |

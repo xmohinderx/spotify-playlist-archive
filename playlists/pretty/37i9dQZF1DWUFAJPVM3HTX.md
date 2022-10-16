@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,825 likes - 125 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,944 likes - 125 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 54 | [Slide](https://open.spotify.com/track/3lEz60aGfZA8npZ1hhallw) | [Rome Flynn](https://open.spotify.com/artist/0NVZSlGEwLGVXItNzyAXmZ) | [Slide](https://open.spotify.com/album/77IDXj94sTItuHvWUFaJQL) | 2:37 |
 | 55 | [Patience](https://open.spotify.com/track/25nKH6GqJzyrdFnKnJYZcJ) | [Jawan x Tiffany](https://open.spotify.com/artist/7FhN2piwL7x4je3G5JyeEW) | [Patience](https://open.spotify.com/album/5Fn7jOm4tFDBpKL9KeRnO8) | 3:18 |
 | 56 | [Come Down](https://open.spotify.com/track/1LECF2AFfSlHFGKP7I6Who) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [Come Down](https://open.spotify.com/album/7wZKCYMKnlr8IYmoXeoHbU) | 3:57 |
-| 57 | [RISEN](https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [RISEN](https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF) | 2:39 |
+| 57 | [RISEN](https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT) | [RISEN](https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF) | 2:39 |
 | 58 | [Blackjack](https://open.spotify.com/track/3dl5p7f6pdabQaNFcWTmnP) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Blackjack](https://open.spotify.com/album/1VFpByIyWmtt0OhUVzQYxh) | 2:29 |
 | 59 | [Torn](https://open.spotify.com/track/7C46gSLCsIBYRZVywr5Bno) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Torn](https://open.spotify.com/album/4nlkDC4YtliiFhSY9OYEyi) | 3:04 |
 | 60 | [mama's little girl \(hate the world\)](https://open.spotify.com/track/2DvtkayNBAvN0nJVbQf5Zc) | [Sie](https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1) | [mama's little girl \(hate the world\)](https://open.spotify.com/album/5hLjQiJjtCmNa805N15UpO) | 2:05 |

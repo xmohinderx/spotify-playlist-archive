@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A Boogie Wit Da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,836 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,941 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 2 | [Just Being Honest](https://open.spotify.com/track/32X1b9f1SDQ5YprMBRTyni) | [Ciggy Blacc](https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ) | [Just Being Honest](https://open.spotify.com/album/7KUOoE3u5b2fQkXHc1463h) | 2:28 |
 | 3 | [Why Would I Lack? \(feat\. SPMB Bills\)](https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [SPMB BILLS](https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS) | [Why Would I Lack? \(feat\. SPMB Bills\)](https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T) | 2:56 |
 | 4 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
-| 5 | [INFLUENCE](https://open.spotify.com/track/0vcCzkD7GK0641SPcHM6XF) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Influence](https://open.spotify.com/album/6ywlojHwtYjja00vk2kacY) | 2:33 |
+| 5 | [INFLUENCE](https://open.spotify.com/track/0vcCzkD7GK0641SPcHM6XF) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [INFLUENCE](https://open.spotify.com/album/6ywlojHwtYjja00vk2kacY) | 2:33 |
 | 6 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 |
 | 7 | [Lefty](https://open.spotify.com/track/0WbXXzIyX8fJ27BGYsJkWu) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Lefty](https://open.spotify.com/album/7jKVwtcTmowM8Jvg7CQkPD) | 2:18 |
 | 8 | [Mask Up](https://open.spotify.com/track/11tJmNYTvo3DSZdk1Q7mAI) | [Neek Bucks](https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mask Up](https://open.spotify.com/album/7EI5fjyeXgatNs7kQkPOSU) | 2:15 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 14 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 |
 | 15 | [Rapper Who?](https://open.spotify.com/track/4i1hm094XUhJs838xfQkPs) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Rapper Who?](https://open.spotify.com/album/0RJIyfTEIwJgjcCzjnBVlQ) | 2:03 |
 | 16 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |
-| 17 | [Blitz](https://open.spotify.com/track/6FhOIsz4WIx0nFQxbjuBE4) | [Edot Babyy](https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7), [SadaBaby](https://open.spotify.com/artist/1W2o1Nov0uXDcyNx3DgR8A) | [Blitz](https://open.spotify.com/album/415gGbwqoetwQZLL68gjew) | 2:09 |
+| 17 | [Blitz](https://open.spotify.com/track/6FhOIsz4WIx0nFQxbjuBE4) | [Edot Babyy](https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Blitz](https://open.spotify.com/album/415gGbwqoetwQZLL68gjew) | 2:09 |
 | 18 | [DIAMOND DALLAS.](https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [DIAMOND DALLAS.](https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl) | 2:48 |
 | 19 | [WHATCHUEXPECT](https://open.spotify.com/track/06DkMPykiPT6roBlEi0oHY) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Qu'ality](https://open.spotify.com/artist/61muz1GBom0coVyQLRiu67), [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [WHATCHUEXPECT](https://open.spotify.com/album/0YPgJF6eLxQgtQeKJheW9V) | 2:03 |
 | 20 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 |

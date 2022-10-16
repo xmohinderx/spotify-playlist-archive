@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Vale Pain, Fabri Fibra, Neffa, Side Baby e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,289 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,308 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 50 | [PRIMO MAGGIO](https://open.spotify.com/track/3TwuH2ibAph5VukmaBkl8x) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [BIANCOMARMO](https://open.spotify.com/artist/4C3zbFkBgltRh40f62Cd49) | [CANTERA MACHETE, VOL\. II](https://open.spotify.com/album/41nzTTUD0063x7Te16AYau) | 2:41 |
 | 51 | [BLCK MAMBA](https://open.spotify.com/track/2dw9segQF74a75R4F5moeh) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [BLCK MAMBA](https://open.spotify.com/album/4h6LvD4A3oTBdpaZwHu5q5) | 2:45 |
 | 52 | [\_bilico\_](https://open.spotify.com/track/7Dh5zvgpoz2kW1sbj20QWI) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:23 |
-| 53 | [Magico \(feat\. Gemitaiz\)](https://open.spotify.com/track/4nUqoQfG391wJtHqSJNCsi) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Magico](https://open.spotify.com/album/5HE1KUe13iWzEpiF0oFmdF) | 3:01 |
+| 53 | [Magico \(feat\. Gemitaiz\)](https://open.spotify.com/track/4nUqoQfG391wJtHqSJNCsi) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Magico](https://open.spotify.com/album/5HE1KUe13iWzEpiF0oFmdF) | 3:01 |
 | 54 | [Giorni Contati \(con Paky, Noyz Narcos, Geolier & Shiva\)](https://open.spotify.com/track/6QjpEvmiZIM9qgTQhg5dzi) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:52 |
 | 55 | [YO](https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [YO](https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT) | 2:25 |
 | 56 | [SOCIAL](https://open.spotify.com/track/2Q7XAHQ0bk3GooyDG8Nlb6) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [SOCIAL](https://open.spotify.com/album/3G79iLNwARWJRjGSED29fP) | 2:08 |

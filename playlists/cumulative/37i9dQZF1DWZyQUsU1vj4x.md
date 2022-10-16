@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-147 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+148 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Siren Song](https://open.spotify.com/track/42fxvsxDBs6o9d5abV3pCY) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [The War Inside \(Deluxe Edition\)](https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy) | 5:14 | 2019-10-31 |  |
 | [Sirens](https://open.spotify.com/track/2jYHFtUZkROTD0nxW9U3uV) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 3:37 | 2022-01-27 |  |
 | [Sirens](https://open.spotify.com/track/7wtcwNsW2Wn6lhFokzJQ7N) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Sirens](https://open.spotify.com/album/0w0fVz3l0eVHYEDj1a81Fe) | 3:37 | 2019-10-31 | 2022-07-29 |
-| [Small Minds](https://open.spotify.com/track/7xXMKuvRMO41D6FucI7BGv) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 4:17 | 2019-10-31 |  |
+| [Small Minds](https://open.spotify.com/track/5udZQ5BrYVsggZZovH97QN) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:17 | 2022-01-27 |  |
+| [Small Minds](https://open.spotify.com/track/7xXMKuvRMO41D6FucI7BGv) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 4:17 | 2019-10-31 | 2022-10-16 |
 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 | 2019-10-31 |  |
 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/4rt5TvPSn69Y50Dmzjt4qW) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:27 | 2019-10-31 | 2022-07-29 |
 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:27 | 2022-01-27 |  |

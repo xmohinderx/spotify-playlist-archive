@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-420 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+421 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Fresh](https://open.spotify.com/track/1LSXvcrYKwFPnC7wK8onj8) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Las Que No Estaban](https://open.spotify.com/album/4LaTa9lDGLKUPqIlpbEzDg) | 3:34 | 2022-01-06 | 2022-01-20 |
 | [Fruto Rojo](https://open.spotify.com/track/40gTdgKJk6m1w3DKPSrtZ1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/7gUDkJObuad3qfTtK3R52D) | 3:09 | 2022-01-19 | 2022-05-14 |
 | [FUCK EL POLICE](https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-10-07 |  |
-| [Fuma Fuma](https://open.spotify.com/track/0zvzpiY7OJFRrkAIYfoOLJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuma Fuma](https://open.spotify.com/album/30trwGtGi8FYIzElXyqPdR) | 3:10 | 2022-01-06 |  |
+| [Fuma Fuma](https://open.spotify.com/track/0zvzpiY7OJFRrkAIYfoOLJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuma Fuma](https://open.spotify.com/album/30trwGtGi8FYIzElXyqPdR) | 3:10 | 2022-01-06 | 2022-10-16 |
+| [Fuma Fuma](https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuma Fuma](https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2) | 3:10 | 2022-10-07 |  |
 | [Fumala](https://open.spotify.com/track/3hveYmQDkG4C531ghqPRhd) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q) | [Crónicas de un Marihuano, Vol\. 1](https://open.spotify.com/album/2QEejqH1fOG5fr5Jg0XWoM) | 2:39 | 2022-01-19 | 2022-10-08 |
 | [G\-500](https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:37 | 2022-01-19 |  |
 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:48 | 2022-01-19 | 2022-05-14 |

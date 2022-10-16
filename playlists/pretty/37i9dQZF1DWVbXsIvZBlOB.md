@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > Listen to Israeli women at full volume\. Cover: Nunu
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,956 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,965 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 11 | [Lord Save Me](https://open.spotify.com/track/1mYC16W72BivsAkLepMjgm) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [Lord Save Me](https://open.spotify.com/album/6dGwlVT3au9DGySF1rn7zH) | 3:09 |
 | 12 | [בא מזמן לזמן](https://open.spotify.com/track/3yAT1YCcxHYfzopKSawQM1) | [Shiri Maimon](https://open.spotify.com/artist/3giniJpo19Md4V5Plataq2) | [בא מזמן לזמן](https://open.spotify.com/album/0OrbuQERxJJ0glkoE3KzTs) | 3:11 |
 | 13 | [מרחק הזמן](https://open.spotify.com/track/5QKiAnRGh63t6zsIXhBX5g) | [Keren Peles](https://open.spotify.com/artist/1T4wAIwQNLsOLQRkPVurY9), [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa) | [מרחק הזמן](https://open.spotify.com/album/1dOfTKlfoPGTafA0frwfTX) | 3:33 |
-| 14 | [Lay](https://open.spotify.com/track/0KrCZ1FtBuznzzDzYlxLEq) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Lovebird](https://open.spotify.com/album/3MHdbKxNl0WSILi7iw1fKi) | 2:50 |
+| 14 | [Lay](https://open.spotify.com/track/4kg4gvKONZ1PjsWSAoJ1fS) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Lovebird](https://open.spotify.com/album/3YYuEmHBs6EiyQkDYrT4nK) | 2:50 |
 | 15 | [סוכר](https://open.spotify.com/track/6MppVuQjxN9rV4jnI2nypy) | [Eden Derso](https://open.spotify.com/artist/7sG6GYc2AsX0HNOkVdGCO4) | [משולש קדוש](https://open.spotify.com/album/5hk5va1tbx2mlGNsc9EYrJ) | 2:37 |
 | 16 | [כָּבוֹד](https://open.spotify.com/track/50MKWXRphRZPAWHm1o9Dn7) | [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [כָּבוֹד](https://open.spotify.com/album/4uhBSCwAjVHz2Bl7uwVQrE) | 3:15 |
 | 17 | [תן לי קצת זמן](https://open.spotify.com/track/5L3XWHzsFgEo9fiNZUy8qf) | [Sabbo](https://open.spotify.com/artist/1Le4RKC0GO8sD4cRxmqlgp), [Jenny Penkinn](https://open.spotify.com/artist/0OLoCLjFUQDz5LTHulXdQo) | [תן לי קצת זמן](https://open.spotify.com/album/4ZSRMtMx3b3uEx0qhA9QZi) | 3:46 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 48 | [במדבר](https://open.spotify.com/track/3gkEYBPFaze00sCxCiP9K0) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [במדבר](https://open.spotify.com/album/16k539OLdFvI6BdbYQynah) | 2:21 |
 | 49 | [Electricity](https://open.spotify.com/track/2X0esXZWD64ROa6lsGgSR1) | [Shefita](https://open.spotify.com/artist/6rPb3jTevyvYA7HzYtSAJ5) | [Electricity](https://open.spotify.com/album/4a2BeD1CdCwuKmEeGU3Fy1) | 2:35 |
 
-Snapshot ID: `MTY2NDkxNzIwMCwwMDAwMDAwMDg4NTYzOGExYjNjMTc1ZmFlYTIwYWUyY2RiYmZlZGQ2`
+Snapshot ID: `MTY2NDkxNzIwMCwwMDAwMDAwMDQ2Yjg0YzdmMmM2MWUzMjJlMDI3YjBjZjNmMjlkNTdh`

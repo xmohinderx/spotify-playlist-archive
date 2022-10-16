@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Rahma Riad",
-  "num_followers": 17503,
+  "num_followers": 17543,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NDgwMCwwMDAwMDAwMDAxMmE2MDM2NDhiOGQ3YjMwYjE4M2E3OWI4M2Q3ODZj",
+  "snapshot_id": "MTY2NTY5NDgwMCwwMDAwMDAwMGE4OWQ2MGMwOTUxOWNlYjg1MzM1YTk2MWMyMDcyNmEx",
   "tracks": [
     {
       "added_at": "2022-10-13 21:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "Al Forga",
-        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Al Forga",
-      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
-    },
-    {
-      "added_at": "2022-10-13 21:00:00",
-      "album": {
         "name": "Fawda",
         "url": "https://open.spotify.com/album/5Fob6Veclpqwcp28gUXneD"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 198352,
       "name": "Fawda",
       "url": "https://open.spotify.com/track/3arw0QpzjtfvrwyXGAd5Ax"
+    },
+    {
+      "added_at": "2022-10-13 21:00:00",
+      "album": {
+        "name": "Al Forga",
+        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 177388,
+      "name": "Al Forga",
+      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
     },
     {
       "added_at": "2022-10-13 21:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
-        "url": "https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy"
-      },
-      "artists": [
-        {
-          "name": "Kadejah Moaath | \u062e\u062f\u064a\u062c\u0629 \u0645\u0639\u0627\u0630",
-          "url": "https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv"
-        }
-      ],
-      "duration_ms": 208764,
-      "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
-      "url": "https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi"
-    },
-    {
-      "added_at": "2022-10-13 21:00:00",
-      "album": {
         "name": "\u0643\u0627\u0646\u062a \u0628\u062a\u0633\u0647\u0631",
         "url": "https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 210689,
       "name": "\u0643\u0627\u0646\u062a \u0628\u062a\u0633\u0647\u0631",
       "url": "https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR"
+    },
+    {
+      "added_at": "2022-10-13 21:00:00",
+      "album": {
+        "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
+        "url": "https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy"
+      },
+      "artists": [
+        {
+          "name": "Kadejah Moaath | \u062e\u062f\u064a\u062c\u0629 \u0645\u0639\u0627\u0630",
+          "url": "https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv"
+        }
+      ],
+      "duration_ms": 208764,
+      "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
+      "url": "https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi"
     },
     {
       "added_at": "2022-10-13 21:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "Bizarre",
-        "url": "https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n"
-      },
-      "artists": [
-        {
-          "name": "Khtek",
-          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb"
-    },
-    {
-      "added_at": "2022-10-13 21:00:00",
-      "album": {
         "name": "Ya Yema",
         "url": "https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 148494,
       "name": "Ya Yema",
       "url": "https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM"
+    },
+    {
+      "added_at": "2022-10-13 21:00:00",
+      "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n"
+      },
+      "artists": [
+        {
+          "name": "Khtek",
+          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb"
     },
     {
       "added_at": "2022-10-13 21:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "Betateb Khialak",
-        "url": "https://open.spotify.com/album/1ErPBre7sIpdaVPLJgpuUq"
+        "name": "\u0632\u0627\u0646\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
+        "url": "https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO"
       },
       "artists": [
         {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+          "name": "\u0634\u064a\u0645\u064a",
+          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
         }
       ],
-      "duration_ms": 291061,
-      "name": "Betateb Khialak",
-      "url": "https://open.spotify.com/track/0YiPfcpDYfPfQ3mTgATAtj"
+      "duration_ms": 219776,
+      "name": "\u0632\u0627\u0646\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
+      "url": "https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I"
     },
     {
       "added_at": "2022-10-13 21:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "\u0632\u0627\u0646\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
-        "url": "https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO"
+        "name": "Betateb Khialak",
+        "url": "https://open.spotify.com/album/1ErPBre7sIpdaVPLJgpuUq"
       },
       "artists": [
         {
-          "name": "\u0634\u064a\u0645\u064a",
-          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
         }
       ],
-      "duration_ms": 219776,
-      "name": "\u0632\u0627\u0646\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
-      "url": "https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I"
+      "duration_ms": 291061,
+      "name": "Betateb Khialak",
+      "url": "https://open.spotify.com/track/0YiPfcpDYfPfQ3mTgATAtj"
     },
     {
       "added_at": "2022-10-13 21:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "\u0645\u062d\u062a\u0627\u062c \u0628\u0633\u0627\u0637",
-        "url": "https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN"
-      },
-      "artists": [
-        {
-          "name": "Nagwan",
-          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "\u0645\u062d\u062a\u0627\u062c \u0628\u0633\u0627\u0637",
-      "url": "https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9"
-    },
-    {
-      "added_at": "2022-10-13 21:00:00",
-      "album": {
         "name": "Weino 2",
         "url": "https://open.spotify.com/album/5UWBb35l9fnUGCAeFJqYB7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 130694,
       "name": "Weino 2",
       "url": "https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ"
+    },
+    {
+      "added_at": "2022-10-13 21:00:00",
+      "album": {
+        "name": "\u0645\u062d\u062a\u0627\u062c \u0628\u0633\u0627\u0637",
+        "url": "https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN"
+      },
+      "artists": [
+        {
+          "name": "Nagwan",
+          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "\u0645\u062d\u062a\u0627\u062c \u0628\u0633\u0627\u0637",
+      "url": "https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9"
     },
     {
       "added_at": "2022-10-13 21:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "Kolli We Ehsasi",
-        "url": "https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F"
-      },
-      "artists": [
-        {
-          "name": "Rulan",
-          "url": "https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex"
-        }
-      ],
-      "duration_ms": 397862,
-      "name": "Kolli We Ehsasi",
-      "url": "https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu"
-    },
-    {
-      "added_at": "2022-10-13 21:00:00",
-      "album": {
         "name": "Mazal Lyam Dor",
         "url": "https://open.spotify.com/album/1Yz1iL8qriZ4uvdLWAuBck"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 182662,
       "name": "Msh Mestahla",
       "url": "https://open.spotify.com/track/6RXBr8cyhD8n3v7BSWwkZ7"
+    },
+    {
+      "added_at": "2022-10-13 21:00:00",
+      "album": {
+        "name": "Kolli We Ehsasi",
+        "url": "https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F"
+      },
+      "artists": [
+        {
+          "name": "Rulan",
+          "url": "https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex"
+        }
+      ],
+      "duration_ms": 397862,
+      "name": "Kolli We Ehsasi",
+      "url": "https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu"
     },
     {
       "added_at": "2022-10-13 21:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-10-13 21:00:00",
       "album": {
-        "name": "966",
-        "url": "https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0"
-      },
-      "artists": [
-        {
-          "name": "Jara",
-          "url": "https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "966",
-      "url": "https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX"
-    },
-    {
-      "added_at": "2022-10-13 21:00:00",
-      "album": {
         "name": "Romansiya",
         "url": "https://open.spotify.com/album/2QVGKT995oqS7roo29KHza"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 194701,
       "name": "Romansiya",
       "url": "https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6"
+    },
+    {
+      "added_at": "2022-10-13 21:00:00",
+      "album": {
+        "name": "966",
+        "url": "https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0"
+      },
+      "artists": [
+        {
+          "name": "Jara",
+          "url": "https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "966",
+      "url": "https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX"
     },
     {
       "added_at": "2022-10-13 21:00:00",

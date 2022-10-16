@@ -433,7 +433,7 @@
     {
       "album": {
         "name": "Let's Pretend (Remixes)",
-        "url": "https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ"
+        "url": "https://open.spotify.com/album/7uV160vuTXhZ1PZr2Oa95l"
       },
       "artists": [
         {
@@ -448,6 +448,28 @@
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 492175,
+      "name": "Let's Pretend - Tube & Berger Remix",
+      "url": "https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV"
+    },
+    {
+      "album": {
+        "name": "Let's Pretend (Remixes)",
+        "url": "https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
       "duration_ms": 492175,
       "name": "Let's Pretend - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC"

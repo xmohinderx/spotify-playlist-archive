@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: lozeak
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,335 likes - 128 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,328 likes - 128 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 110 | [Glue](https://open.spotify.com/track/2xAL8CyACab3SzV2oEwjJq) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Glue](https://open.spotify.com/album/5ezdZ1R3DnBczev00GboAK) | 2:29 |
 | 111 | [Drip Drip](https://open.spotify.com/track/4hIXIJxc7gEYqA8NkcZkKl) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Yūdokuna](https://open.spotify.com/album/5lNZyxqACJ1WPfypeZM3uf) | 3:20 |
 | 112 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 |
-| 113 | [HEART ATTACK](https://open.spotify.com/track/15w5MdxTlGiaeiaYiC821r) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/1ttzoKE3qsZqoQ20Acc2qN) | 3:02 |
+| 113 | [HEART ATTACK](https://open.spotify.com/track/3ZwM4sK8D23CYoXiZ8dguS) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [FOREVER CLASSIC](https://open.spotify.com/album/6wFsRFuCL3IXmDXVN40BoD) | 3:02 |
 | 114 | [I Don't Want Your Money](https://open.spotify.com/track/1a2fG9pKo7jR6Fot0GJQM1) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Don't Want Your Money](https://open.spotify.com/album/5rm8vpCa1QCUdKErG4Y3a6) | 3:00 |
 | 115 | [What I'd Do For You](https://open.spotify.com/track/1RxYDWodpkiYA4apEOuDdS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:01 |
 | 116 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 127 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 128 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDA1YmU4YzA2NzMxMzdiNTVjYjViYzE4MGIxMmI4MjRm`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDhkYjM2ZGQxNjFkYTU4MDg2MDY2NGMxNWM0MDQ4MTUw`

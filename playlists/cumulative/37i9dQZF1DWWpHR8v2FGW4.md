@@ -4,7 +4,7 @@
 
 > Always come in 1st.
 
-94 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
+95 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 | 2022-04-01 |  |
 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 | 2022-04-01 |  |
 | [Keep Up The Pace](https://open.spotify.com/track/359dqboVug8CoRUE8WNVGf) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Keep Up The Pace](https://open.spotify.com/album/5ZQxUv5wcWLpobKa9lIPc4) | 3:12 | 2022-04-01 |  |
-| [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 | 2022-04-01 |  |
+| [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 | 2022-04-01 | 2022-10-16 |
 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 | 2022-05-12 |  |
 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 | 2022-04-01 |  |
 | [Misdemeanor](https://open.spotify.com/track/1Bg8eYRESsgf64VK9GvbsO) | [ØDAL](https://open.spotify.com/artist/45vLqgwpe4xKX3dJFwII0L) | [Misdemeanor](https://open.spotify.com/album/4kizoNp9DrivpjkoQO2CO6) | 3:42 | 2022-04-01 | 2022-07-27 |
@@ -81,6 +81,7 @@
 | [Rain God](https://open.spotify.com/track/7prqZ9Le5L0z6DRYcnhghP) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Rain God](https://open.spotify.com/album/58VdvkSadgJzRY7CX9qj1Y) | 4:27 | 2022-07-07 |  |
 | [Remembr \- Skylark Remix](https://open.spotify.com/track/1IosQJpHD8tfcwg6hsN7M3) | [KL!P](https://open.spotify.com/artist/25rKKA77ZDNcezyrvmaa0u), [LAFA](https://open.spotify.com/artist/5kreG2TgpAxC03tJ5ymzxJ), [Hana Bens](https://open.spotify.com/artist/4kTCnWj9vAqiOwrmMQUHrQ), [Skylark](https://open.spotify.com/artist/5U6Sk42bhrMIPhr11xtRPq) | [Remembr \(Skylark Remix\)](https://open.spotify.com/album/4y9Ge62AvtUTYj0WaNtavd) | 3:48 | 2022-07-07 | 2022-07-21 |
 | [Retinues](https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Retinues / Urgency](https://open.spotify.com/album/7qTuSrHrvDfanvQJK25u9g) | 5:24 | 2022-04-01 | 2022-07-20 |
+| [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 | 2022-10-14 |  |
 | [Rituals](https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Hospital Mixtape: Lens](https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h) | 4:34 | 2022-04-01 | 2022-07-29 |
 | [Roots \- OddKidOut Remix](https://open.spotify.com/track/7jV4pzMGvGSRZ4F214Tznl) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs), [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [Places We Don’t Know Remix EP](https://open.spotify.com/album/6vTc0SjRCXb6Pn1i1piwpx) | 3:18 | 2022-04-01 | 2022-05-24 |
 | [Sentient \- Joe Ford Remix](https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8) | [Droptek](https://open.spotify.com/artist/4Pn0zmbERg32YIOjl2nOQf), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Symbiosis Remixed Part 1](https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U) | 4:46 | 2022-04-01 |  |

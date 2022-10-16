@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-350 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+351 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-12-16 |  |
 | [Love Overdose](https://open.spotify.com/track/5CaQCvp2r6moa6l9JkQ2Fy) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu), [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV), [Marho](https://open.spotify.com/artist/1R8ZeCsSCxvqG7hLQbZpYR) | [Love Overdose](https://open.spotify.com/album/3D82lvE1IcAHnuzBXrzNPp) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Love Riddim](https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Walk With Me](https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj) | 3:39 | 2021-12-16 |  |
-| [LowKey \(feat\. Jayd Ink\) \- Charly Black Remix](https://open.spotify.com/track/3XQvocnKfdOlLYpe78kzxl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [LowKey \(feat\. Jayd Ink\) \[Charly Black Remix\]](https://open.spotify.com/album/6I2YPOdl8RCHT3L1qS8T39) | 3:36 | 2021-12-16 |  |
+| [LowKey \(feat\. Jayd Ink\) \- Charly Black Remix](https://open.spotify.com/track/3XQvocnKfdOlLYpe78kzxl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [LowKey \(feat\. Jayd Ink\) \[Charly Black Remix\]](https://open.spotify.com/album/6I2YPOdl8RCHT3L1qS8T39) | 3:36 | 2021-12-16 | 2022-10-16 |
 | [Lupita](https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Roots](https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx) | 3:37 | 2021-12-16 |  |
 | [LUV](https://open.spotify.com/track/16Ah4QqH4mgYVXqfC4mdSd) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:48 | 2021-12-28 | 2022-01-08 |
 | [Lying If I Call It Love \(feat\. Sean Paul\)](https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:22 | 2022-05-12 |  |
@@ -349,6 +349,7 @@
 | [Why](https://open.spotify.com/track/5JivNZTf3Oz2yy5KuSqvFm) | [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7) | [Why](https://open.spotify.com/album/4rHgrEa4eGz71uNklcNKhd) | 2:42 | 2021-12-16 | 2022-07-29 |
 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 | 2022-04-28 |  |
 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 | 2021-12-16 | 2022-10-13 |
+| [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 | 2022-10-13 |  |
 | [Wine All Day](https://open.spotify.com/track/1nx9ri1ztH6snjQuCMzMO7) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Dancehall Zone Riddim](https://open.spotify.com/album/5p2ZQnhBDOXqySvmiQP0Mx) | 3:30 | 2021-12-16 | 2022-07-29 |
 | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb) | 3:38 | 2021-12-16 |  |
 | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/track/3ZYYizCVeyUC13DrDiycMS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/album/1WduJOhYm7wXuTJORnymfr) | 2:41 | 2021-12-16 |  |

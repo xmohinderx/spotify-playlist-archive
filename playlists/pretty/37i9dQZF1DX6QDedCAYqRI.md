@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,217 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,232 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 53 | [Oblivion](https://open.spotify.com/track/7y5Epl5axmVOZY2MmpxmtJ) | [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Pillar](https://open.spotify.com/album/4KeaAueVERsbmdJJCixuNG) | 3:41 |
 | 54 | [To Infinity](https://open.spotify.com/track/0z5kFn7nbqRsCnszVSbQUZ) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [To Infinity](https://open.spotify.com/album/45afYtKIwixGJf6Zc1fipK) | 3:58 |
 | 55 | [Corset.](https://open.spotify.com/track/4OUWZo6p7Kf7Oqe9dovS00) | [Keigo.](https://open.spotify.com/artist/3YkzB5L1vnpsFgIS849R7y), [Paulo Herrera](https://open.spotify.com/artist/3m1FQvDukcgiSWImE3Flqb) | [Corset.](https://open.spotify.com/album/6tK73Hl7cCf9E0PHmQzYtS) | 2:07 |
-| 56 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
+| 56 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [sadHAPPY](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 57 | [Dreamer \- Stripped Down](https://open.spotify.com/track/6yUs9h47yq1TLCuFNhtzyY) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Dreamer \(Stripped Down\)](https://open.spotify.com/album/6rgLhRgRjoZqTUfcpDFaQA) | 3:49 |
 | 58 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 59 | [Turn Me Down](https://open.spotify.com/track/7KbFoYmInyz7SGcRFKcx4M) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN), [LUSTBASS](https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER) | [Turn Me Down](https://open.spotify.com/album/5Nzx72g90YvVDhI7BE3Hqf) | 4:27 |

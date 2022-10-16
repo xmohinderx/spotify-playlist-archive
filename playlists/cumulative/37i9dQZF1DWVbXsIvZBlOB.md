@@ -4,7 +4,7 @@
 
 > Listen to Israeli women at full volume\. Cover: Nunu
 
-197 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
+198 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Is It Love](https://open.spotify.com/track/3rzTAnaH0mOmSWF2hjjb1K) | [Roni Bar Hadas](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [Is It Love](https://open.spotify.com/album/7uyovpf2H8kCFTR2Nd8NnW) | 3:41 | 2022-03-07 | 2022-06-01 |
 | [Jama](https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2) | [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [Jama](https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As) | 6:14 | 2022-04-05 | 2022-08-03 |
 | [Keep Burning](https://open.spotify.com/track/5j69H6K6XFwpbuEoMVoxLT) | [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg) | [Keep Burning](https://open.spotify.com/album/4WTz5rER28enrcaDKdSXSl) | 3:30 | 2022-03-07 | 2022-04-06 |
-| [Lay](https://open.spotify.com/track/0KrCZ1FtBuznzzDzYlxLEq) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Lovebird](https://open.spotify.com/album/3MHdbKxNl0WSILi7iw1fKi) | 2:50 | 2022-08-02 |  |
+| [Lay](https://open.spotify.com/track/0KrCZ1FtBuznzzDzYlxLEq) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Lovebird](https://open.spotify.com/album/3MHdbKxNl0WSILi7iw1fKi) | 2:50 | 2022-08-02 | 2022-10-16 |
+| [Lay](https://open.spotify.com/track/4kg4gvKONZ1PjsWSAoJ1fS) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Lovebird](https://open.spotify.com/album/3YYuEmHBs6EiyQkDYrT4nK) | 2:50 | 2022-10-04 |  |
 | [Lord Save Me](https://open.spotify.com/track/1mYC16W72BivsAkLepMjgm) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [Lord Save Me](https://open.spotify.com/album/6dGwlVT3au9DGySF1rn7zH) | 3:09 | 2022-10-04 |  |
 | [Lost Love](https://open.spotify.com/track/0Ve71xgj2V425wVyLQ0G1Y) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Lost Love](https://open.spotify.com/album/55mRI2DFGTWBFWWPlxkadC) | 3:40 | 2022-10-04 |  |
 | [Love Mad](https://open.spotify.com/track/7vkXwhhNHarz6pdgMUZKXp) | [Tamar Eisenman](https://open.spotify.com/artist/70MssnYTTSvL88RKLd2RlB) | [Rain & Dirt](https://open.spotify.com/album/1Jl5UQQAlGbFI5Kv9SndEJ) | 4:26 | 2022-02-01 | 2022-04-06 |

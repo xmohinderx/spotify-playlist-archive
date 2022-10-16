@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Golden Spoon \(금수저\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468,367 likes - 107 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,651 likes - 107 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 102 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
 | 103 | [Be Forever](https://open.spotify.com/track/0PkaGqu0OB4MbGbizj0wAP) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Seoul Check\-in OST Part 11](https://open.spotify.com/album/6eU5O8nOWJyeeoKkCtmhn5) | 3:36 |
 | 104 | [My Shadow](https://open.spotify.com/track/1Kxf9FrJeecsgDZrmjGaQR) | [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/5wbiV5vX7IQMkhtwsdmA2U) | 3:39 |
-| 105 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [Lee Chan Hyuk](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
+| 105 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
 | 106 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
 | 107 | [Howling](https://open.spotify.com/track/3aoxA2eTxDjhi3Gxqcs14V) | [Im Yoon Seong](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [Insider \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1F9iWEozvamdo7yGTaC3PT) | 3:22 |
 

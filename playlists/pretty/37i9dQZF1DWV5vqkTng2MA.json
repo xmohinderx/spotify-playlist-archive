@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Pokey LaFarge",
-  "num_followers": 334574,
+  "num_followers": 334714,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDNmNTE0ZTQxMzhkZTczMzg5MWI1OWNiYmMwZmZmMDEw",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDRjNGM1NGY3MDUwOWRmNGUyNjQwMDI4NmNiMzczNjE2",
   "tracks": [
     {
       "added_at": "2022-08-02 19:57:54",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 155773,
       "name": "The Denial Twist",
       "url": "https://open.spotify.com/track/4Hzg7Hcqo2aUooTQ0pnBYC"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Men Amongst Mountains",
-        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/6QvAqvSvkfHLzeIilXQ9H7"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 146106,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Men Amongst Mountains",
+        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/6QvAqvSvkfHLzeIilXQ9H7"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "Pain and Misery",
+      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 213800,
       "name": "Revival",
       "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 240912,
-      "name": "Pain and Misery",
-      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 180013,
       "name": "The Very Last Day",
       "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Allen Stone",
         "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 146493,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "If My Wife New I\u2019d Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "Monterey",
         "url": "https://open.spotify.com/album/2ttSZFH721F5dC6fbZznTb"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Endless Afternoon",
-        "url": "https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry"
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
       },
       "artists": [
         {
-          "name": "La Luz",
-          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
         }
       ],
-      "duration_ms": 275780,
-      "name": "Endless Afternoon",
-      "url": "https://open.spotify.com/track/3AIt9LB3C7Jz99OnvVjbyv"
+      "duration_ms": 202320,
+      "name": "Trouble Is",
+      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1403,34 +1419,18 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+        "name": "Endless Afternoon",
+        "url": "https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry"
       },
       "artists": [
         {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+          "name": "La Luz",
+          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
         }
       ],
-      "duration_ms": 202320,
-      "name": "Trouble Is",
-      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "Door Girl",
-        "url": "https://open.spotify.com/album/3absnEPdv3f3dhTBCb6EYS"
-      },
-      "artists": [
-        {
-          "name": "Shilpa Ray",
-          "url": "https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw"
-        }
-      ],
-      "duration_ms": 267371,
-      "name": "Morning Terrors Nights of Dread",
-      "url": "https://open.spotify.com/track/429zYwDePDJxSut57xtLFe"
+      "duration_ms": 275780,
+      "name": "Endless Afternoon",
+      "url": "https://open.spotify.com/track/3AIt9LB3C7Jz99OnvVjbyv"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1451,34 +1451,34 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Hold Time",
-        "url": "https://open.spotify.com/album/5KqYEjZPHBchiXyudUzr5I"
+        "name": "Door Girl",
+        "url": "https://open.spotify.com/album/3absnEPdv3f3dhTBCb6EYS"
       },
       "artists": [
         {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+          "name": "Shilpa Ray",
+          "url": "https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw"
         }
       ],
-      "duration_ms": 146200,
-      "name": "Never Had Nobody Like You",
-      "url": "https://open.spotify.com/track/77Y1Weg1iEYfeEteEvvkBt"
+      "duration_ms": 267371,
+      "name": "Morning Terrors Nights of Dread",
+      "url": "https://open.spotify.com/track/429zYwDePDJxSut57xtLFe"
     },
     {
-      "added_at": "2022-08-02 19:57:54",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Every Night",
-        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA"
       },
       "artists": [
         {
-          "name": "Walker Lukens",
-          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
         }
       ],
-      "duration_ms": 174735,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+      "duration_ms": 244108,
+      "name": "Two Wolves",
+      "url": "https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4"
     }
   ],
   "unique_name": "the new retro",

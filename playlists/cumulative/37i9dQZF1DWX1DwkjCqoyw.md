@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 | 2022-08-18 |  |
+| [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 | 2022-08-18 |  |
 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2021-12-20 | 2022-08-19 |
 | [Ambition](https://open.spotify.com/track/1oopyRuSfoSG3ijwHRVFW1) | [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Ambition](https://open.spotify.com/album/68DmzoZlEVeCN5kyhbIXxh) | 3:41 | 2021-12-20 | 2022-08-19 |
 | [Basic](https://open.spotify.com/track/2gwn11k39NLZUCwVbcTrjq) | [Jah Vinci](https://open.spotify.com/artist/0mkixmQkcUeE6egKHW4ojh) | [I Am the World Singer](https://open.spotify.com/album/5wYDLzTry6j0sAPjZ96p6G) | 3:12 | 2022-08-18 |  |
@@ -28,7 +28,7 @@
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-08-18 |  |
 | [Catch 22](https://open.spotify.com/track/1cc282JtAEefN7O792U5P5) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Catch 22](https://open.spotify.com/album/7yqsulxhfk6aZNsioUcroO) | 4:10 | 2021-12-20 | 2022-07-29 |
 | [Catch 22](https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Serenity](https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba) | 4:10 | 2022-03-18 | 2022-08-19 |
-| [Code](https://open.spotify.com/track/4pB6P5F2IA0JjhnoKQX4wm) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [Code](https://open.spotify.com/album/111hqZzRoiw6ETNK0hhFsc) | 2:32 | 2022-08-18 |  |
+| [Code](https://open.spotify.com/track/4pB6P5F2IA0JjhnoKQX4wm) | [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [Code](https://open.spotify.com/album/111hqZzRoiw6ETNK0hhFsc) | 2:32 | 2022-08-18 |  |
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-12-20 | 2022-08-19 |
 | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/track/68Hl1nI7Ico8cgwkBtA9Fg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/album/6q8ljQkUDzmBIrEqqXIB8m) | 3:33 | 2021-12-20 | 2022-08-19 |
 | [Cream of the crop](https://open.spotify.com/track/6w8gNFLb4jYCljERxafQEK) | [active music](https://open.spotify.com/artist/6UYHyh6ESGd4FT2cRTsy6e), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7), [Navaz](https://open.spotify.com/artist/2tMiAnJeqL5IPlRuvdw9Vn) | [Active Music Dream Big 21 Tatchside Riddim](https://open.spotify.com/album/38Sc0gAUv59wdYwNv9XWxK) | 2:56 | 2022-08-18 |  |

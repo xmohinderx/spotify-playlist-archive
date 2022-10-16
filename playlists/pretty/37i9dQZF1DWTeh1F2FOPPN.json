@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 1882,
+  "num_followers": 2016,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDBjN2Q2MzVlNGJkODU2OTY2MWFhNTNmOTY5MzJkMTUx",
+  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDYxNGNhNmU0M2Q1YWY3ZGQxZDI4YjkzZWI2MzYwMzNl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "The New Danger",
+        "url": "https://open.spotify.com/album/5v3WMkjb8qzmVLREB2AuQR"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 251213,
+      "name": "The Panties",
+      "url": "https://open.spotify.com/track/3ewIu3AibUiSiDNS0Ta8Lm"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "The New Danger",
-        "url": "https://open.spotify.com/album/5v3WMkjb8qzmVLREB2AuQR"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 251213,
-      "name": "The Panties",
-      "url": "https://open.spotify.com/track/3ewIu3AibUiSiDNS0Ta8Lm"
     },
     {
       "added_at": "2022-10-01 16:54:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Ovy on the Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,589 likes - 62 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,618 likes - 62 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 35 | [Psycho](https://open.spotify.com/track/0t4zUFotnN7v5Kg53VJqpM) | [Carlos Cortez](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Psycho](https://open.spotify.com/album/6Xrw9DUaL6zBCYtLVkcCRA) | 2:53 |
 | 36 | [Ay Papi](https://open.spotify.com/track/7ko5uM0oXZ6PUNVILzdJJg) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Ay Papi](https://open.spotify.com/album/0GXNIsWiGCMjnEgrAL5VRk) | 2:18 |
 | 37 | [La Cura \- Warbrum Remix](https://open.spotify.com/track/4Wi5RldeiMgbXCqo8bklHW) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj), [Warbrum](https://open.spotify.com/artist/2wB56GDHDdCPYAbtVU5gkG) | [La Cura](https://open.spotify.com/album/6wUkaiXSWRAUBXtxJe7xrV) | 4:05 |
-| 38 | [CORAZÓN CRUZADO](https://open.spotify.com/track/0n4bTZeW7B9wAqcr5EffZe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [CORAZÓN CRUZADO](https://open.spotify.com/album/2YYfpE23VaR71QdKbJZUid) | 2:33 |
+| 38 | [Corazón Cruzado](https://open.spotify.com/track/0n4bTZeW7B9wAqcr5EffZe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Corazón Cruzado](https://open.spotify.com/album/2YYfpE23VaR71QdKbJZUid) | 2:33 |
 | 39 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
 | 40 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 |
 | 41 | [Dando Vueltas](https://open.spotify.com/track/6E9Mi6AlttyxzyOseYQAWF) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u), [Jhonpri](https://open.spotify.com/artist/74iFk7TK8TUFgiUV6RXHwJ), [Salsos+](https://open.spotify.com/artist/45acRE6W1BGSGAgTrWQCSV) | [Dando Vueltas](https://open.spotify.com/album/0vYIsEteHsZoBrbR94oZf8) | 5:30 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [Juntos Sonamos Mejor](https://open.spotify.com/track/2CseVqodSaatPVMZbZCfZd) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Juntos Sonamos Mejor](https://open.spotify.com/album/0s019UvoUDi5sMMUE6U7OM) | 3:05 |
 | 52 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
 | 53 | [Noche](https://open.spotify.com/track/0ekoxawLH6KW7nMf3frMfl) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Noche](https://open.spotify.com/album/3uJ5iqSG3Ze3Hr0uCgPtto) | 2:21 |
-| 54 | [EN EL BAMESA](https://open.spotify.com/track/6IyQaF4Zrnbperzno2AKxT) | [Treinta\-trenta](https://open.spotify.com/artist/3sgyXlUMPrDE8a9VqBf99W) | [EN EL BAMESA](https://open.spotify.com/album/3EU9aNgjdkA043tUUysaC0) | 3:28 |
+| 54 | [Lebron en el Bameso](https://open.spotify.com/track/2aWCcyGIG4ia5vlWIDKn7i) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Lebron en el Bameso](https://open.spotify.com/album/2YJWdjMXCNc0mu0VsCQ3h3) | 3:28 |
 | 55 | [OLHADINHA](https://open.spotify.com/track/0pOZWyXIqROnYI24H5AVsk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [OLHADINHA](https://open.spotify.com/album/5pu94Dk34XMqa8sTKft31Z) | 2:17 |
 | 56 | [bode](https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:51 |
 | 57 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 61 | [Chama Minha Gang](https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Chama Minha Gang](https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59) | 2:39 |
 | 62 | [Quero Mais \- Ao Vivo](https://open.spotify.com/track/15LKKWwMlbYMHExomDMKhI) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Quero Mais \(Ao Vivo\)](https://open.spotify.com/album/76wqyQoCr9SEVbM2wt0sM0) | 6:21 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDRiNzUxMjI4YWM0ZTgyMDMyY2MzZTNjNWE3NGVmYzRj`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGEyMThkMmEyNWIwZmI3NTEwNzY1Y2U1NTNiYWY3Zjcz`

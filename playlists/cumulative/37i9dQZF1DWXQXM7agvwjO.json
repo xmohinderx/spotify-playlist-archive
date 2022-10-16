@@ -1920,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "Where's the Exit?",
+        "url": "https://open.spotify.com/album/7edAR9wZ8n7ges6F0g99RF"
+      },
+      "artists": [
+        {
+          "name": "verycoybunny",
+          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Don\u2019t get me wrong",
+      "url": "https://open.spotify.com/track/7bmmOJ3ZRj8yreK8CNAhbI"
+    },
+    {
+      "album": {
         "name": "DOWN IN THE DUMPS",
         "url": "https://open.spotify.com/album/5qrAHXTOei4zFw1mnTasBP"
       },

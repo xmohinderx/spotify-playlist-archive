@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Joss Favela!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,034 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,051 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 25 | [Alma Enamorada](https://open.spotify.com/track/5K5Sjom05MXUXqzIReDCXI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Canciones De Mi Tierra](https://open.spotify.com/album/5XvANbZg9OaWoKPJopD6Cf) | 2:15 |
 | 26 | [Yo Perdí](https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Yo Perdí](https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ) | 2:44 |
 | 27 | [Florita del Alma](https://open.spotify.com/track/1hwdJxLVuz7tYDZOlhNNz6) | [Hermanos Vega De Ramon Vega](https://open.spotify.com/artist/0otERMywEzFqwodgw6mLld) | [Juntos Nuevamente](https://open.spotify.com/album/6rv7rEkoNSbxgMbOV7vgWP) | 2:54 |
-| 28 | [A Mis Cuarenta y Diez](https://open.spotify.com/track/357aTtDPTfbrwzoqtkV2np) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [19 Dias Y 500 Noches](https://open.spotify.com/album/2ZbJiQUpbTkWelyNhvPAg7) | 7:10 |
-| 29 | [El Trono](https://open.spotify.com/track/4giIpwj6hUTORZ7VhzlFFX) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [La Muerte De Baltazar](https://open.spotify.com/album/0aqoubXxpuCL4wjwhRMZhI) | 3:47 |
-| 30 | [Dos Mares de Lagrimas](https://open.spotify.com/track/0FzQ9iYXouTpxQB4MhmQ0U) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [A La Luz De Un Farol](https://open.spotify.com/album/2j6YcZORhqCVScGZHMGL2c) | 2:34 |
+| 28 | [El Trono](https://open.spotify.com/track/4giIpwj6hUTORZ7VhzlFFX) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [La Muerte De Baltazar](https://open.spotify.com/album/0aqoubXxpuCL4wjwhRMZhI) | 3:47 |
+| 29 | [Dos Mares de Lagrimas](https://open.spotify.com/track/0FzQ9iYXouTpxQB4MhmQ0U) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [A La Luz De Un Farol](https://open.spotify.com/album/2j6YcZORhqCVScGZHMGL2c) | 2:34 |
+| 30 | [A Mis Cuarenta y Diez](https://open.spotify.com/track/357aTtDPTfbrwzoqtkV2np) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [19 Dias Y 500 Noches](https://open.spotify.com/album/2ZbJiQUpbTkWelyNhvPAg7) | 7:10 |
 | 31 | [Corazon de Oro](https://open.spotify.com/track/0NZ3rYsHLipVDO8pFHVb51) | [Los 2 Gallos](https://open.spotify.com/artist/58cJuLaTZ1d0PeizRoBdPk) | [Corazon de Oro](https://open.spotify.com/album/0biK8kFUsRwv9ZmWGmFaSD) | 2:49 |
 | 32 | [Aclarando la Mente](https://open.spotify.com/track/1Co3hz3DMrqFweClvyLyZC) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:33 |
-| 33 | [Con Agüita y Con Jabón](https://open.spotify.com/track/5cJ7EPUkxJos58dr5QNWnJ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:12 |
-| 34 | [Cuidado Con el Perro](https://open.spotify.com/track/1yFyfvCyBCfnCdmVZdEF3m) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 2:49 |
+| 33 | [Cuidado Con el Perro](https://open.spotify.com/track/1yFyfvCyBCfnCdmVZdEF3m) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 2:49 |
+| 34 | [Con Agüita y Con Jabón](https://open.spotify.com/track/5cJ7EPUkxJos58dr5QNWnJ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:12 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGNmNjA1MjU5ZTlhMDkxODFhYTY1ZTMwYmQ2Y2YzNzY3`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGJmZjNhOWNmOWFmNzY4YzhiZTcxYjUxZmFiNjZmMzQ2`

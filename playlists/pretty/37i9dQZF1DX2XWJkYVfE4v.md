@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XWJkYVfE4v.md) - [plain]
 
 > Soft, shimmering strings to help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,307 likes - 67 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,360 likes - 67 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XWJkYVfE4v.md) - [plain]
 | 17 | [lodges](https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [lodges](https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5) | 3:51 |
 | 18 | [Rosa Mundi](https://open.spotify.com/track/4mxjh9tqmmZ8k2cJ5eq0qx) | [Paul Lewis](https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l), [Royal Ballet Sinfonia](https://open.spotify.com/artist/7KNaVtiiNyzd1d71TqMBbr), [Gavin Sutherland](https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj) | [English String Miniatures, Vol\. 6](https://open.spotify.com/album/0Hn6WTvr5tmHZw77A7jFGU) | 3:37 |
 | 19 | [Gabriel's Oboe \(From "The Mission"\)](https://open.spotify.com/track/0kRB0hhG9KYXiokmqZehwn) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Stéphane Denève](https://open.spotify.com/artist/7FPSLDmxB1UckL2c2NN1kb), [Brussels Philharmonic](https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP) | [Cinema](https://open.spotify.com/album/243oDF9ZIj87IaQp8duXzR) | 3:42 |
-| 20 | [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [Mondëna Quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 |
+| 20 | [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 |
 | 21 | [Kohola Sings \(Humpback Whales\)](https://open.spotify.com/track/1TUv6cWW0E0SLX5dAmvNmQ) | [Takuma Itoh](https://open.spotify.com/artist/4hyyVdI4VskNA1EEoTroPg), [Yolanda Kondonassis](https://open.spotify.com/artist/6cDaoaokVtlxKqG1Gi7lYz) | [Five Minutes for Earth](https://open.spotify.com/album/3tB9D9MhbDDA6OullTA80O) | 5:15 |
 | 22 | [The Great Longing of an Unquiet Heart](https://open.spotify.com/track/447C7XdzYrpWmiKUfalsKW) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [The Great Longing of an Unquiet Heart](https://open.spotify.com/album/2PrP41fS0K8DiSOt8xXnUW) | 3:04 |
 | 23 | [La nuit froide et sombre \(Arr\. for String Quartet by Sini Simonen\)](https://open.spotify.com/track/4vz9FAIGm1VjhfhPHtU530) | [Orlande de Lassus](https://open.spotify.com/artist/66hSfMemmixjY58p7KcTV6), [Castalian String Quartet](https://open.spotify.com/artist/60AmiJmah4IkoN4LVWu0SW) | [La nuit froide et sombre \(Arr\. for String Quartet by Sini Simonen\)](https://open.spotify.com/album/5248WNXNGhcDgcNMTRxLS2) | 2:34 |

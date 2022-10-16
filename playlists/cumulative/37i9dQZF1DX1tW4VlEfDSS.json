@@ -2484,6 +2484,28 @@
     },
     {
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/6LtfmL7LdiJqXjZ3OJVIdp"
+      },
+      "artists": [
+        {
+          "name": "Sam Dexter",
+          "url": "https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty"
+        },
+        {
+          "name": "Elliotte Williams N'Dure",
+          "url": "https://open.spotify.com/artist/77i43ZsRsl95w8GalimJPw"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2BXEdsakM0T1uvzqwVYykF"
+    },
+    {
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/6LRy6sA127XQ8Y25aG1mUF"
       },
@@ -3089,7 +3111,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 192260,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik"

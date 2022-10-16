@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 194311,
       "name": "Emotions and Math - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7mLmGk3buGcAI5ydTaGAAJ"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 224624,
       "name": "Hoodie - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5agF0y6utHAyX4LV0wQmeB"
@@ -2863,6 +2863,24 @@
       "duration_ms": 142177,
       "name": "Only Want You - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+    },
+    {
+      "album": {
+        "name": "Singles (Live From Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210886,
+      "name": "Out of Focus - Live From Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/73cgpfQHxDw25IovaOjSjs"
     },
     {
       "album": {
@@ -4659,6 +4677,24 @@
       "duration_ms": 214439,
       "name": "Young Blood - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/11hhXAaasvVYZPz0TtNmeQ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214439,
+      "name": "Young Blood - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5IIytiriguJDtDUyGFEkTV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVf3wNLVwo2g"

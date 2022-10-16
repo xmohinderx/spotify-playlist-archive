@@ -1629,6 +1629,24 @@
     {
       "album": {
         "name": "The Places You Have Come to Fear the Most",
+        "url": "https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226306,
+      "name": "Screaming Infidelities",
+      "url": "https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09"
+    },
+    {
+      "album": {
+        "name": "The Places You Have Come to Fear the Most",
         "url": "https://open.spotify.com/album/3aH8aeNdQQO2bdLfhuL65w"
       },
       "artists": [
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 219800,
       "name": "Tomorrow - Radio Remix",
       "url": "https://open.spotify.com/track/1QWgvZgnWuwZF1RCt5JcMB"

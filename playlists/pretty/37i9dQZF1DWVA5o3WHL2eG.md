@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,386 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,383 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 4 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 |
 | 5 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 |
 | 6 | [ROSES](https://open.spotify.com/track/40nvBToL831q0NDFMiunKR) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [ROSES](https://open.spotify.com/album/7L4QP4w9OivS4mb0DXUfak) | 2:27 |
-| 7 | [Noch nie so verliebt](https://open.spotify.com/track/4xB9CYwtgAmYLQmlcbKSBv) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Noch nie so verliebt](https://open.spotify.com/album/1nD5zW99n7LL515gvb3rCo) | 2:56 |
-| 8 | [7 Red Flags](https://open.spotify.com/track/3Qs8192k0SX9fSmGQscNBE) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [7 Red Flags](https://open.spotify.com/album/68iV3mBG4ZIrqbWVd8rvc7) | 2:53 |
+| 7 | [7 Red Flags](https://open.spotify.com/track/3Qs8192k0SX9fSmGQscNBE) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [7 Red Flags](https://open.spotify.com/album/68iV3mBG4ZIrqbWVd8rvc7) | 2:53 |
+| 8 | [Noch nie so verliebt](https://open.spotify.com/track/4xB9CYwtgAmYLQmlcbKSBv) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Noch nie so verliebt](https://open.spotify.com/album/1nD5zW99n7LL515gvb3rCo) | 2:56 |
 | 9 | [ich gehör wieder mir](https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [ich gehör wieder mir](https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8) | 2:57 |
-| 10 | [into it](https://open.spotify.com/track/3k5h73ODjtfDufg5pDc5ze) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [into it](https://open.spotify.com/album/4cLFhHP7yf468yHFERPdh3) | 2:41 |
-| 11 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
+| 10 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
+| 11 | [into it](https://open.spotify.com/track/3k5h73ODjtfDufg5pDc5ze) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [into it](https://open.spotify.com/album/4cLFhHP7yf468yHFERPdh3) | 2:41 |
 | 12 | [Ist mir egal](https://open.spotify.com/track/3Be9JyIsyTwbGVsn0610tm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Ist mir egal](https://open.spotify.com/album/0fod53M2zcwQCILNt5MfuQ) | 2:26 |
 | 13 | [Close](https://open.spotify.com/track/17750mkCVMegJAI2UeSeR9) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Close](https://open.spotify.com/album/6gvKYRTLGU3umRpmFdHPGX) | 2:26 |
 | 14 | [Caprisonnen](https://open.spotify.com/track/6tcsi9NusBSy1ZeXqRr6LB) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Caprisonnen](https://open.spotify.com/album/2NZ4wb5YIDDGTTuI7d9NpX) | 2:50 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Got 2 Know \(feat\. SHELLS\) \- Radio Edit](https://open.spotify.com/track/5dYHeKMZtAgwE1GU1HY7RE) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Got 2 Know \(feat\. SHELLS\)](https://open.spotify.com/album/1hbjC4DD3fy3vvEfczipeX) | 2:24 |
 | 20 | [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 3:00 |
 | 21 | [Morio Muskat](https://open.spotify.com/track/574CekDWfeHnXb9Cw8PpLU) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Morio Muskat](https://open.spotify.com/album/43fUbOTiqzqzRIz0XkJMNc) | 2:44 |
-| 22 | [Separate Us](https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Separate Us](https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz) | 3:21 |
-| 23 | [Adalam Va!](https://open.spotify.com/track/0BJkSAC37xEAJW2a9yTeoq) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Adalam Va!](https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf) | 2:22 |
+| 22 | [Adalam Va!](https://open.spotify.com/track/0BJkSAC37xEAJW2a9yTeoq) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Adalam Va!](https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf) | 2:22 |
+| 23 | [Separate Us](https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Separate Us](https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz) | 3:21 |
 | 24 | [Baby Blue](https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Baby Blue](https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV) | 2:55 |
 | 25 | [Delikat](https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Delikat](https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO) | 2:36 |
 | 26 | [Lonely](https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Lonely](https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR) | 2:19 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 48 | [Sleeper](https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj) | [Anna Aaron](https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F) | [Sleeper](https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy) | 2:36 |
 | 49 | [Eudaimonia](https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7) | [KOKA](https://open.spotify.com/artist/6YlsQwumQkkbfsADHeYC2m) | [Eudaimonia](https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm) | 3:23 |
 
-Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMDJjNGE2YWMyNDk5YmM0ZTM3MjM0MzlhZjdjZjhjYjk1`
+Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMGVkYjQ0YTllNWUzZmRjZDQ5YzYyYTk4Y2U0ZDk3ZGFi`

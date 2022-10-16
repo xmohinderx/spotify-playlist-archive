@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,604 songs - 4 day 11 hr 56 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,605 songs - 4 day 12 hr 0 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1016,7 +1016,8 @@
 | [Mi Guajira Si](https://open.spotify.com/track/0hoAQVg9TgnxZslURBKPZe) | [Orchestra Harlow](https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR) | [Orchestra Harlow Presenta A Ismael Miranda](https://open.spotify.com/album/1vjHbuMmbI5zhLuN0eabmW) | 3:52 | 2022-07-12 | 2022-07-29 |
 | [Mi Guajira Si](https://open.spotify.com/track/1BQHJ9jDbAXkdYKvO5w27y) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Orchestra Harlow Presenta a Ismael Miranda](https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4) | 3:52 | 2022-07-27 |  |
 | [Mi Querer](https://open.spotify.com/track/2o34LOZa6tpm0miOhoPbKb) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom), [Ramon Veloz](https://open.spotify.com/artist/3z21nEY2AtJEy2pKYdAGxM) | [Linda Guajira](https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80) | 2:25 | 2022-06-09 |  |
-| [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 | 2022-09-29 |  |
+| [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 | 2022-09-29 | 2022-10-16 |
+| [Mi Swing es Tropical](https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/0CoLMsQMDv7pSbLaJHF0mJ) | 3:42 | 2022-09-29 |  |
 | [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2022-07-27 | 2022-10-13 |
 | [Mi Swing Es Tropical](https://open.spotify.com/track/4EehpGBxUO8tOSvttzTucd) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Tempo & The Candela Allstars](https://open.spotify.com/artist/2dThrZVH7JUouCveeAf3su) | [Mi Swing Es Tropical](https://open.spotify.com/album/1aIcyVPbApuoGm65WbqHYP) | 3:53 | 2022-06-09 | 2022-07-29 |
 | [Mindule Mipanzana](https://open.spotify.com/track/1ojuzMbuLgnIteJMtrBK0D) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [Joseph Kabasele and the Creation of Modern Congolese Music, Vol\. 2](https://open.spotify.com/album/0JgPNAQ8HPui3lfSKJvyF1) | 2:42 | 2022-07-27 |  |

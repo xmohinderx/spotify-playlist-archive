@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,698 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,861 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 41 | [Fragosiriani](https://open.spotify.com/track/3XGonxisWMNiHbnwUiGV8T) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Tzatziki \- The Best Greek Music For The Best Greek Food](https://open.spotify.com/album/0AUimf9H8YL2ThZighzdrs) | 2:39 |
 | 42 | [March of Smyrna](https://open.spotify.com/track/1u5tWsKTpMKvkUrt3HdvKl) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Kyriakos Gouvendas](https://open.spotify.com/artist/2i99PLT1r01q6duuJsmV8t), [Ploutarchos Reboutsikas](https://open.spotify.com/artist/5u1SMnmXKWqcjLJCWYfQe1), [Thanasis Vasilas](https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq), [Nikos Katsikis](https://open.spotify.com/artist/3vp1ao4puFTxYah4KLc5AY), [Vassilis Chatziloukas](https://open.spotify.com/artist/4kJwp8PjlxUJh4bHYPqEqp), [Odysseas Papathanasiou\-Terzis](https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur), [Thanassis Sofras](https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf) | [Magic of the Greek Bouzouki](https://open.spotify.com/album/0D3XXijlSAIO6k1TrsFudU) | 3:25 |
 | 43 | [Margarita \- Margaro](https://open.spotify.com/track/4lgDrExkSslDWqHhHgIjYG) | [Athenians, The](https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg) | [Athenians: Greece](https://open.spotify.com/album/1mFxByzu4pT1VReVGpK3eZ) | 3:40 |
-| 44 | [Namoun Asteri](https://open.spotify.com/track/5wd7OaorCJjJyVfJWYrLPk) | [Kriteos](https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I), [Romiosini](https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T) | [Best of Greece](https://open.spotify.com/album/6DCGq0wZvYC5k8sWrh7ygt) | 3:31 |
+| 44 | [Namoun asteri](https://open.spotify.com/track/6HFAGySWieimzRnev0ZwUB) | [Romiosini](https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T), [Kriteos](https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I) | [Best of Greece](https://open.spotify.com/album/2KhTfhDEXMSrlW82zMvBs9) | 3:31 |
 | 45 | [Aftosxediasmos](https://open.spotify.com/track/3LsfGIXEtDNKkTlRE35fAl) | [Yiorgos Zambetas](https://open.spotify.com/artist/43zH1wiBmLE5aVeHzSoFjn) | [Greek Composers \- Yiorgos Zambetas](https://open.spotify.com/album/0DUMvG546UMaJ1KPU9EVZh) | 2:32 |
 | 46 | [Chasapiko Dance from Tatavla](https://open.spotify.com/track/6uDxXzHE5NbboJWEe5Qycu) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Thanasis Vasilas](https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq), [Nikos Katsikis](https://open.spotify.com/artist/3vp1ao4puFTxYah4KLc5AY), [Vassilis Chatziloukas](https://open.spotify.com/artist/4kJwp8PjlxUJh4bHYPqEqp), [Odysseas Papathanasiou\-Terzis](https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur), [Thanassis Sofras](https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf) | [Magic of the Greek Bouzouki](https://open.spotify.com/album/0D3XXijlSAIO6k1TrsFudU) | 2:54 |
 | 47 | [Mastro Vassilis](https://open.spotify.com/track/1oyrbCAioSFIbJIP9ttdOR) | [Athenians, The](https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg) | [Greece](https://open.spotify.com/album/5zdhQQMiNsbTUQroPsjXp7) | 2:54 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 63 | [Flying Like an Eagle](https://open.spotify.com/track/6OAFG0apABNxxKqnLY6f3r) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Bouzouki Romance](https://open.spotify.com/album/08Fx0aUzgSgpBjMqU6xejf) | 3:04 |
 | 64 | [Vaporaki Tou Bournova](https://open.spotify.com/track/5rO6xnNsOqzSbJzi08OxaY) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 2:34 |
 
-Snapshot ID: `MTY2MTg2Njg2NCwwMDAwMDAwMDVkZjcxNzRjNDAyMDNlY2FkMjNjMmQxMWY5MWM5ZjY5`
+Snapshot ID: `MTY2MTg2Njg2NCwwMDAwMDAwMGY4NTMzZjY2NGNmODgzNjA0ZjhmYjUxMTllZDFjMTU4`

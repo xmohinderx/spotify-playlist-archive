@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-478 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+479 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Sinkin'](https://open.spotify.com/track/1Jolzi0FbJxLh2VOZXBvin) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 3:09 | 2021-05-01 | 2022-07-29 |
 | [Sinkin'](https://open.spotify.com/track/2kxbmMuD8Kgh7TQhpbBHy0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sinkin'](https://open.spotify.com/album/56MkS5mWKnusXid4jyrvs8) | 3:09 | 2021-05-01 | 2022-03-21 |
 | [Sixty Summers](https://open.spotify.com/track/595FAzn7RvuGdSn473jOaI) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Sixty Summers](https://open.spotify.com/album/51xOggJs98Kdp21rkQQexX) | 3:19 | 2021-05-01 | 2022-03-10 |
-| [Slow Dances](https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Slow Dances](https://open.spotify.com/album/6ewPdKXdPj0Ld9tV1BCvf4) | 3:52 | 2022-04-13 |  |
+| [Slow Dances](https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Slow Dances](https://open.spotify.com/album/6ewPdKXdPj0Ld9tV1BCvf4) | 3:52 | 2022-04-13 | 2022-10-16 |
 | [Slowly](https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Slowly](https://open.spotify.com/album/6SvGZhGt46WiZayR9bB1ox) | 3:05 | 2021-05-01 | 2022-04-14 |
 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 | 2022-04-13 |  |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2022-04-13 |  |
@@ -402,6 +402,7 @@
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2021-05-01 | 2022-07-29 |
 | [Sunday Soda](https://open.spotify.com/track/4DXCzGr1WFhUNDwWJOau9g) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [Sunday Soda](https://open.spotify.com/album/6orwti9n1Jo5Xy857D40iq) | 3:37 | 2021-05-01 | 2022-07-29 |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2022-04-13 | 2022-10-13 |
+| [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 | 2022-10-14 |  |
 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 | 2021-05-01 | 2022-07-29 |
 | [Sunset Chaser](https://open.spotify.com/track/0US7M5Cc4HToQXy99z92SV) | [Ragamuffs](https://open.spotify.com/artist/0IIb8Xf1ZDISXLSntUDMRq) | [Achy Luminescence](https://open.spotify.com/album/0rUhSoE2bdLyMMO0m2ywBG) | 5:30 | 2022-04-13 | 2022-04-18 |
 | [supermarket](https://open.spotify.com/track/5FdE9hALukJ6ivdFXbCGEj) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/1I00sBmH4cpFAbEPr33t1S) | 2:25 | 2022-05-27 | 2022-06-18 |

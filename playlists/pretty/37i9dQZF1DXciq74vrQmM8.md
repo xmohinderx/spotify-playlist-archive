@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 // just announced: <a href="https://www.universe.com/misfits\-2\-0\-antiprom">misfits anti\-prom</a> in london 🎈😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,729 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,808 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 42 | [Misfits](https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Misfits](https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa) | 2:58 |
 | 43 | [MIGRAINE](https://open.spotify.com/track/0HFX1Lyaeu5i2J1jK5QH3f) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [MIGRAINE](https://open.spotify.com/album/2nsO3VsncuuvdWupY5obtR) | 2:33 |
 | 44 | [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 |
-| 45 | [Bite My Tongue](https://open.spotify.com/track/5Z6ozBM8A44HtDAJLnBxER) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Bite My Tongue](https://open.spotify.com/album/5CTIYos4jNBhXm5zeJ7MyL) | 2:47 |
+| 45 | [Bite My Tongue](https://open.spotify.com/track/7ydKwZckvEIQNtb9kIsfwK) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Bite My Tongue](https://open.spotify.com/album/7MA35qubV4skem9OazOKup) | 2:47 |
 | 46 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
 | 47 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
 | 48 | [BUBBLEGUM](https://open.spotify.com/track/30CvotPyRWWK2HHo1vbVBS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [BUBBLEGUM](https://open.spotify.com/album/30Tfy5w2spNJk5BKVsxr9l) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 74 | [Bloody Crescent](https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Bloody Crescent](https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R) | 2:48 |
 | 75 | [antisocial behaviour](https://open.spotify.com/track/1V20a7VlSb94y9AdPzWLbz) | [elleheartbee](https://open.spotify.com/artist/4JpUcJXNQXImALTLnNa1PF) | [antisocial behaviour](https://open.spotify.com/album/4hSYBtnTBt5j0kuimV4BFU) | 1:11 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDQ4YmViNjY2OTQ4Mzc4ZTUxNjQ5MGMxOGE4MWJhYWNm`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDhhZWMyNjhmNTZjOGU5ZTliMTY0ZjY5MmZjZTdiYTdm`

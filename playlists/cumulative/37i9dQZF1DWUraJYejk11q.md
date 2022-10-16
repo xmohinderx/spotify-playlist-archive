@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-191 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+192 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Wedbecutetoget\-her](https://open.spotify.com/track/2aUqSrIw15sfRdMwjQaRg2) | [o0o](https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR) | [Wedbecutetoget\-her](https://open.spotify.com/album/1Lpu55DV9ThB7G0ClRpM7N) | 3:39 | 2022-01-12 | 2022-03-04 |
 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 | 2021-10-15 | 2022-01-14 |
 | [When](https://open.spotify.com/track/4TUYrm2JRTV5dCOjKFSz8f) | [Blake Skowron](https://open.spotify.com/artist/5TjySSb3LXfqe0zvyrmFgf) | [When](https://open.spotify.com/album/0YVTfPx8o63LfGUNqAZnxD) | 2:56 | 2021-10-15 | 2022-01-22 |
-| [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-07 |  |
+| [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-07 | 2022-10-16 |
+| [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 | 2022-09-07 |  |
 | [Xid](https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2) | [Herva](https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1) | [Seez](https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg) | 3:41 | 2022-09-21 |  |
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2022-03-12 |
 | [XYZ \- Peel Session](https://open.spotify.com/track/5mzw1OaU80w3IisoXr1Lp7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [XYZ \(Peel Session\)](https://open.spotify.com/album/4feETXv5AbEIzCj4btSrNG) | 8:03 | 2021-10-15 | 2022-02-10 |

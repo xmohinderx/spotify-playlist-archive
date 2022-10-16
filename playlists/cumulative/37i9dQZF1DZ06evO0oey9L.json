@@ -426,6 +426,28 @@
     },
     {
       "album": {
+        "name": "El Mismo Morro",
+        "url": "https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Clave 210",
+          "url": "https://open.spotify.com/artist/6uSxvsa3OBQD6Ep73lQDY6"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140122,
+      "name": "El Mismo Morro",
+      "url": "https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC"
+    },
+    {
+      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },

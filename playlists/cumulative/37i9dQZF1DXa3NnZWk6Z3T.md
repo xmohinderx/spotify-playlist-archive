@@ -4,10 +4,11 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-289 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+290 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A letter to my younger self](https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dreaming Lucid](https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O) | 2:18 | 2022-09-21 |  |
 | [A letter to my younger self](https://open.spotify.com/track/325e3Lkx4AodxGNsqHiaG4) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [A letter to my younger self](https://open.spotify.com/album/1CmENblofMYmtDtx6pPqDU) | 2:18 | 2021-12-09 | 2022-10-13 |
 | [A Mí y a Nadie Más](https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [A Mí y a Nadie Más](https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P) | 2:37 | 2021-12-09 |  |
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-05-14 |  |
@@ -29,7 +30,7 @@
 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/5mGLoYLnMe0LpEOSIPLSpv) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura \(Extended\)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 3:57 | 2021-12-09 | 2022-03-22 |
 | [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-09 | 2022-07-28 |
 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2021-12-09 |  |
-| [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 |  |
+| [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 | 2022-10-16 |
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 | 2022-07-29 |
 | [Ausente](https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ausente](https://open.spotify.com/album/7DEyRK52e2b6N00hNO1UF7) | 3:54 | 2021-12-09 | 2022-07-28 |

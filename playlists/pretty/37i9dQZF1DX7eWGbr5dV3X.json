@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 6684,
+  "num_followers": 6699,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDY3MjcwMDJkYjUyNDc3MmY4MWIxNDE3ZTI1NzM0NTIz",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDQ0NzNlYzM2NTQ3YjkwMmU0ZWVmMmFkYjJkNzY0OTlj",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt"
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
       },
       "artists": [
         {
-          "name": "Jake Zyrus",
-          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
         }
       ],
-      "duration_ms": 205291,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt"
       },
       "artists": [
         {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+          "name": "Jake Zyrus",
+          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
         }
       ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+      "duration_ms": 205291,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -367,6 +367,26 @@
       "duration_ms": 238999,
       "name": "Masterpiece (80s Remix)",
       "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "ok on your own",
+      "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -399,26 +419,6 @@
       "duration_ms": 181424,
       "name": "Need Ya",
       "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "ok on your own",
-      "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Boys Aside",
+        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Boys Aside",
+      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "I Won't Envy 2.0",
         "url": "https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 194206,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/3a4RFjxPCttnbX5jgKxUuR"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Boys Aside",
-        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
-      },
-      "artists": [
-        {
-          "name": "Sofya Wang",
-          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Boys Aside",
-      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
     },
     {
       "added_at": "2022-08-25 15:45:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: emlyn Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,931 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,959 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 47 | [Hours](https://open.spotify.com/track/04Kgh5iZqiCndi9hczohXv) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Hours](https://open.spotify.com/album/1LM0uwJtE5VgibzkNF1K7O) | 4:13 |
 | 48 | [life you lead](https://open.spotify.com/track/2WYxFmuGz6Wj2vXlgLuHke) | [niceboy ed](https://open.spotify.com/artist/72IB1qSk51wyeLceXNypqR) | [life you lead](https://open.spotify.com/album/4lqDk4LT58Tbp7CCFuN8OD) | 3:19 |
 | 49 | [Off The Edge](https://open.spotify.com/track/7JuLymV0sWOQZauGwtCn7y) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Off The Edge](https://open.spotify.com/album/6tJ0cCZAiqAGro9nQqnnyk) | 3:37 |
-| 50 | [Ink](https://open.spotify.com/track/0tX3xC5f7NtGheX83Lh6Fr) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Ink](https://open.spotify.com/album/7l2emmevUiiLZYNAenTigJ) | 2:42 |
+| 50 | [Ink](https://open.spotify.com/track/5q4zy9rsq4DQhG2yTgIP65) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Ink](https://open.spotify.com/album/7IIZFjC0AAVrimW8q8iyUK) | 2:42 |
 | 51 | [Never Buy My Love](https://open.spotify.com/track/5XXkcUVA5izVmB6YQJYKJp) | [Nicola Høie](https://open.spotify.com/artist/0shFBysGw18zUHjV934zn3) | [Never Buy My Love](https://open.spotify.com/album/3ulGFH0ylclR2azlA2OA66) | 2:59 |
 | 52 | [Complicated](https://open.spotify.com/track/0McTaCHBxLhhfKvqNjEAdZ) | [YOUR ANGEL](https://open.spotify.com/artist/2TM9SCQxFsKKROUtDpC1yA) | [Complicated](https://open.spotify.com/album/1CINITRRCz16km364bDGvP) | 2:14 |
 | 53 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 73 | [Ferrari](https://open.spotify.com/track/4VPC5p5QqRMyJV4wH2lA3V) | [Intrnet Boyfriend](https://open.spotify.com/artist/1GCiZ9cSa7qDaCucd0YGpS), [Lilo.](https://open.spotify.com/artist/3PMhs64xe6htFc6SGP7jZs) | [Ferrari](https://open.spotify.com/album/0JPbpjIxyJ8NtEei75dvzf) | 3:05 |
 | 74 | [Dodged a Bullet](https://open.spotify.com/track/75o1btgNJlFm629CY6xuop) | [Delilah Brao](https://open.spotify.com/artist/5dWRkpyqnoYDNouN02NDdk) | [Dodged a Bullet](https://open.spotify.com/album/4VomBfdaxV9UshwgYqokXs) | 2:24 |
 | 75 | [Lovely Weather](https://open.spotify.com/track/0PSTO4wm4OdLVtnSH7ciym) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/1wp6QFL3N7sgi1GBX7Rn6U) | 3:07 |
-| 76 | [I Am Running](https://open.spotify.com/track/18aClaeCzkxIUiB82eM5jo) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [I Am Running](https://open.spotify.com/album/2zSGPMJbVh6jwk1uGfMCpq) | 4:13 |
+| 76 | [I Am Running](https://open.spotify.com/track/3dQ4AMZovYTKMUeOWW0YYt) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [I Am Running](https://open.spotify.com/album/3NdJX8xgOlX7xqjUFLJIyB) | 4:13 |
 | 77 | [Sociopath](https://open.spotify.com/track/6CpFDHNMRiPk47pQeQIb0B) | [Juliet Oliver](https://open.spotify.com/artist/1QLoDhTcjhHU3EpKDVVUv0) | [Sociopath](https://open.spotify.com/album/0COrBjpdJ0RPKnXdjkuVFF) | 3:28 |
 | 78 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 |
 | 79 | [Flying](https://open.spotify.com/track/28IEay5ppQw0PtZiBAkfUK) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Flying](https://open.spotify.com/album/6MAUGRgUwKMzw55LI6JXcQ) | 3:18 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 97 | [I Don't Cry When I'm High](https://open.spotify.com/track/3HIgZczBhbuSBLEkolSNk2) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [I Don't Cry When I'm High](https://open.spotify.com/album/0kIKiBWuyajSSjoGxL7PhU) | 2:44 |
 | 98 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 |
 
-Snapshot ID: `MTY2NTU0NzIwMCwwMDAwMDAwMDY4MTVhZmY1NGVlMWNjNDI5NzA5OGE2ZTNkYWU2ODgy`
+Snapshot ID: `MTY2NTU0NzIwMCwwMDAwMDAwMDNmODJlOWE1OTU5YTBkYWUxNDdlYThkNTM2MTUyODdm`

@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-203 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
+204 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Scorpio's Letter](https://open.spotify.com/track/3VSqwaaVdUI2XN5qZqxoMc) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio’s Letter](https://open.spotify.com/album/2lY0m3vfvgVafNQ05eMYVW) | 2:55 | 2022-03-21 | 2022-07-17 |
 | [Serial](https://open.spotify.com/track/5RRl7Hio98AB5JsGo9acb0) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/4eSxIjJeG94DnoC2Nk1xAy) | 3:47 | 2022-03-21 | 2022-07-29 |
 | [Shameless](https://open.spotify.com/track/3F7wzgbp8cmewbUycgY0BI) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Shameless / Dancing With The Devil](https://open.spotify.com/album/0sqCZwAgWCRMFbMf0SPBgx) | 2:32 | 2022-08-22 |  |
-| [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 | 2022-03-21 |  |
+| [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 | 2022-03-21 | 2022-10-16 |
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2022-07-17 |  |
 | [Signs](https://open.spotify.com/track/76PrUXO5Skxiavr4BCfF7n) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Signs](https://open.spotify.com/album/06hjhEvBK1TGl2vgVV9Beb) | 4:49 | 2022-03-21 | 2022-07-01 |
 | [Sit Back](https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Sit Back](https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54) | 3:00 | 2022-03-21 | 2022-07-26 |
@@ -182,6 +182,7 @@
 | [Supernova](https://open.spotify.com/track/6NgJ6ZoUxwdWBgWGuKMskS) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Alexander Lewis](https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV) | [The Art of Conversation](https://open.spotify.com/album/4SXtwQWgGPXb20Qt2ggMyx) | 3:23 | 2022-03-21 | 2022-06-30 |
 | [Take a Trip](https://open.spotify.com/track/36tukOcb9HLucoY7hmZjxd) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i) | [Take a Trip](https://open.spotify.com/album/1M2cYEp1MdaWmuEz2OHFsG) | 2:52 | 2022-07-12 | 2022-07-18 |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2022-03-21 | 2022-07-27 |
+| [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2022-08-22 |  |
 | [The Most Beautiful Thing](https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:55 | 2022-07-17 | 2022-10-13 |
 | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N) | 4:04 | 2022-03-21 | 2022-08-07 |
 | [This Side](https://open.spotify.com/track/6XPG4Gk25Ml6QWWQw6axxC) | [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE) | [This Side](https://open.spotify.com/album/5Vze5kztj3LK8OPzXUswf2) | 3:01 | 2022-08-22 |  |

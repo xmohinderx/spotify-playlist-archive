@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. Cover: Los Aptos",
-  "num_followers": 285290,
+  "num_followers": 285285,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU5NDE2NSwwMDAwMDAwMDhlMTAyZmFiOTY0ZWYxM2NlOWY4ZTNhNzJlODY3NjFm",
+  "snapshot_id": "MTYzOTU5NDE2NSwwMDAwMDAwMDVkOGUwZDI1NmI4YmNiOGUxNzFiOGY4NGY4OTFkMmM4",
   "tracks": [
     {
       "added_at": "2021-12-15 18:49:25",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-12-15 18:49:25",
       "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
+    },
+    {
+      "added_at": "2021-12-15 18:49:25",
+      "album": {
         "name": "Laura Xmas (Deluxe)",
         "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
@@ -695,34 +711,18 @@
     {
       "added_at": "2021-12-15 18:49:25",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
-    },
-    {
-      "added_at": "2021-12-15 18:49:25",
-      "album": {
-        "name": "Los 3 Reyes Magos",
-        "url": "https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Torres",
-          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Ven A Mi Casa Esta Navidad",
-      "url": "https://open.spotify.com/track/0dpvn7oYZIBFXGaug3SbV8"
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
     },
     {
       "added_at": "2021-12-15 18:49:25",
@@ -743,18 +743,18 @@
     {
       "added_at": "2021-12-15 18:49:25",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+        "name": "Los 3 Reyes Magos",
+        "url": "https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Alvaro Torres",
+          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
         }
       ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+      "duration_ms": 243626,
+      "name": "Ven A Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/0dpvn7oYZIBFXGaug3SbV8"
     },
     {
       "added_at": "2021-12-15 18:49:25",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-12-15 18:49:25",
       "album": {
-        "name": "Navidad Mexicana",
-        "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Llorar\u00e1s en Navidad",
-      "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
-    },
-    {
-      "added_at": "2021-12-15 18:49:25",
-      "album": {
         "name": "Navidad Sin Ti",
         "url": "https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 209739,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7"
+    },
+    {
+      "added_at": "2021-12-15 18:49:25",
+      "album": {
+        "name": "Navidad Mexicana",
+        "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Llorar\u00e1s en Navidad",
+      "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
     },
     {
       "added_at": "2021-12-15 18:49:25",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-12-15 18:49:25",
       "album": {
-        "name": "Navidad 2021: Villancicos",
-        "url": "https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO"
-      },
-      "artists": [
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Todo Lo Que Quiero Eres Tu",
-      "url": "https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV"
-    },
-    {
-      "added_at": "2021-12-15 18:49:25",
-      "album": {
         "name": "Somos Navidad",
         "url": "https://open.spotify.com/album/0LXg2Cuuc3p2txsIh8BlCI"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 201750,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/1341yWBP78IKoC1072MwWF"
+    },
+    {
+      "added_at": "2021-12-15 18:49:25",
+      "album": {
+        "name": "Navidad 2021: Villancicos",
+        "url": "https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Todo Lo Que Quiero Eres Tu",
+      "url": "https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV"
     },
     {
       "added_at": "2021-12-15 18:49:25",

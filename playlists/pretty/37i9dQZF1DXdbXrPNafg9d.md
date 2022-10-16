@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Girl in Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,406 likes - 178 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,693 likes - 178 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 41 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 |
 | 42 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 |
 | 43 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 |
-| 44 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 |
+| 44 | [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 |
 | 45 | [Suzie](https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Suzie](https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm) | 3:40 |
 | 46 | [Falling Out](https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bad Posture](https://open.spotify.com/album/7fAznyEY9ZOOGn4fR5sCpt) | 3:02 |
 | 47 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 162 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 |
 | 163 | [Read Mine](https://open.spotify.com/track/0rsVGAZYDgvvMBnAgqAamg) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Read Mine](https://open.spotify.com/album/4kBgigjvgHi8ZVDNUuk7a2) | 3:12 |
 | 164 | [Is It Worth It Now?](https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Is It Worth It Now?](https://open.spotify.com/album/35AXeLXRmbDOlRVrl1AUOV) | 3:24 |
-| 165 | [OUT OF CONTEXT](https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [OUT OF CONTEXT](https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd) | 2:42 |
+| 165 | [OUT OF CONTEXT](https://open.spotify.com/track/3jLaggXofmoijL25AdphVG) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [SOMEWHERE IN NOWHERELAND](https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva) | 2:42 |
 | 166 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 |
 | 167 | [Forever Is A Charm](https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Forever Is A Charm](https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl) | 3:11 |
 | 168 | [No One Like You](https://open.spotify.com/track/4j6kLD1SruU9Dst1kpD3oM) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [No One Like You](https://open.spotify.com/album/6wRurHV8KC4hrzUYvSoUhG) | 2:50 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 177 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
 | 178 | [Midnight Legend](https://open.spotify.com/track/7wnRHeYAAd0KqkFe3ZQHcI) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Midnight Legend](https://open.spotify.com/album/2MJDkHvOuzpQg1q3AMeYC6) | 3:24 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDI4NTgyYTljN2Y5Y2I5MzQyOTc5MDBhNjA1NzJjYjJl`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDQzNmE0NmQyY2ZlYTg3YWZjNTg5NTJkMTY5Mjk3ZWVl`

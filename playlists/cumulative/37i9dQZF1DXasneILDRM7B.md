@@ -4,7 +4,7 @@
 
 > Please stand for your personal anthems\. Cover: Paramore
 
-332 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/2378SJjdyJCwFI5oiW7u05)
+333 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/2378SJjdyJCwFI5oiW7u05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Best Mistake](https://open.spotify.com/track/1F4VdUytyjTb7llcKZ96fn) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Colour Blind](https://open.spotify.com/album/1Eeg33SLq2TCrG0kfztlwA) | 3:17 | 2022-04-08 | 2022-04-20 |
 | [Big Cat Judgement Day](https://open.spotify.com/track/48EL0gIc4MkhTLCgE3w8x3) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Big Cat Judgement Day](https://open.spotify.com/album/3tGvWqFRuhJKJfgqMA2atx) | 2:31 | 2021-09-02 | 2022-07-29 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-04-08 |  |
-| [Black Butterflies and Déjà Vu](https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Lovely Little Lonely](https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K) | 3:23 | 2021-09-02 |  |
+| [Black Butterflies and Déjà Vu](https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Lovely Little Lonely](https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K) | 3:23 | 2021-09-02 | 2022-10-16 |
 | [Bleed for You](https://open.spotify.com/track/6BYRWJcmVR36DUO7Dghcxb) | [Hidden In Plain View](https://open.spotify.com/artist/5rXLC3lGmx2JjclFJYZud4) | [Punk the Clock](https://open.spotify.com/album/1DB3jEoTSFp91uGW3AP7v4) | 3:50 | 2022-04-08 | 2022-04-20 |
 | [Blonde](https://open.spotify.com/track/1dI3L6GFPqOHd81gU782yQ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Entertainment](https://open.spotify.com/album/4wpa4paytNYdZpGgL6WwvR) | 3:20 | 2021-09-02 | 2022-07-29 |
 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 | 2021-09-02 |  |
@@ -238,6 +238,7 @@
 | [Rooftop](https://open.spotify.com/track/13KSKSbDAXHhviOkqcxbjK) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [ERRØR BØY](https://open.spotify.com/album/0J6qP8wX9hmFM1rjL5FtjA) | 2:35 | 2022-06-12 | 2022-06-15 |
 | [Save It For The Bedroom](https://open.spotify.com/track/1j9WiYut0demY3Md2B4gcV) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Take Off Your Colours](https://open.spotify.com/album/4uC7zTuKQvssFjKEmLB8x3) | 3:59 | 2022-04-08 | 2022-04-20 |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2021-09-02 | 2022-06-14 |
+| [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 | 2022-06-16 |  |
 | [Secret Crowds](https://open.spotify.com/track/5tz7UrfFRduRbQgrn91B6Y) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [I\-Empire](https://open.spotify.com/album/1SJtjjKkFn4x6cfRXfALB9) | 5:02 | 2022-04-08 | 2022-04-21 |
 | [Secrets](https://open.spotify.com/track/3wZZzzTEdLRYLVTp0UnaFH) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Around The World and Back](https://open.spotify.com/album/4oBLp0xrjlX7InYr6dEO4o) | 3:44 | 2021-09-02 | 2022-07-29 |
 | [Shade](https://open.spotify.com/track/01qepvQsz0gMKfeQXvXlq4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/0Q6FKFBM1tSvPMwWS42myR) | 3:25 | 2022-04-08 | 2022-04-17 |

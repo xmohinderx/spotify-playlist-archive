@@ -2545,7 +2545,7 @@
     {
       "album": {
         "name": "Rising",
-        "url": "https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr"
+        "url": "https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo"
       },
       "artists": [
         {
@@ -2556,6 +2556,24 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226960,
+      "name": "Sweet Adetola",
+      "url": "https://open.spotify.com/track/50DVJK20wORh3uG8Y8IDZe"
+    },
+    {
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr"
+      },
+      "artists": [
+        {
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
       "duration_ms": 226960,
       "name": "Sweet Adetola",
       "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"

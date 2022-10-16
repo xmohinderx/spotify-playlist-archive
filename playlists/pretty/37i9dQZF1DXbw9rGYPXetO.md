@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > A selection of <a href="https://en.wikipedia.org/wiki/Hindustani\_classical\_music">North Indian Classical</a> instrumental music to help you focus and bring you joy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,567 likes - 37 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,573 likes - 37 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 23 | [Rag Bhupali](https://open.spotify.com/track/2EKR7RSzuGIVNlh3ZKWNVa) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Ustad Sultan Khan \- Sarangi](https://open.spotify.com/album/1Fc8yR4hBdWcDpRDMuX51I) | 53:15 |
 | 24 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 |
 | 25 | [Raga Des](https://open.spotify.com/track/6m1a6CJdLBx5wXObZNwOIC) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Young Masters](https://open.spotify.com/album/1NgIYpOmbekiKquc6Luxvn) | 22:08 |
-| 26 | [Daydream \(feat\. Ashwin Srinivasan\)](https://open.spotify.com/track/7EwFWulVd2B6NGvU7vYE3y) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Last Days of Meaning](https://open.spotify.com/album/77HZ58VO7LD44HRNPvhQGD) | 1:55 |
+| 26 | [Daydream \(feat\. Ashwin Srinivasan\)](https://open.spotify.com/track/0TOVfRtYXE7D2CZw0fx9NU) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Last Days of Meaning](https://open.spotify.com/album/7y8rmswg8Pe40v100gtICN) | 1:55 |
 | 27 | [Rag Hemant](https://open.spotify.com/track/4pC7qAyC6kcW1JDswFrgNd) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Indian Architexture](https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI) | 28:51 |
 | 28 | [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 |
 | 29 | [Raga Mian Ki Malhar \- Raga Mian Ki Malhar \- Teen Taal](https://open.spotify.com/track/7wtvAaVFCzSjAtlaKhhbkT) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0), [Vishwanath Shirodkar](https://open.spotify.com/artist/7MiG9KHy1wZs9YJ8MBizMk), [Deep Singh](https://open.spotify.com/artist/33bwEJnCqMs0HR2TLqeD9i) | [Saaz Sitar, Vol\. 1](https://open.spotify.com/album/24UIBAnS5176GEHBSyo3yk) | 29:39 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 36 | [Rag Lalit](https://open.spotify.com/track/3LCx5zZm2UQPbWc8jQouOy) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND), [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r) | [Rag Lalit](https://open.spotify.com/album/0DkxD68AiaxjiKyBDFhv9R) | 1:13:43 |
 | 37 | [Rag Miya Ki Todi](https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv) | [Imrat Khan](https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp) | [Rag Miya Ki Todi & Rag Bilaskhani Todi](https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu) | 38:14 |
 
-Snapshot ID: `MTY2NDM1MDA1MywwMDAwMDAwMGVhYjA1MDRlMjhjNTI0MTZhNzVjYzRkOGIwMjczMjcz`
+Snapshot ID: `MTY2NDM1MDA1MywwMDAwMDAwMDQzOWQ4YTgzMjExMTMxNThjN2NhNDVjNWI0NWZkYmJl`

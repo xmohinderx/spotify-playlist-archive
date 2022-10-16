@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mayarah Magalhães
 
-108 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+109 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Apocalipse](https://open.spotify.com/track/2SQSpgUipLIYLPTg3bpefW) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Apocalipse](https://open.spotify.com/album/2W3iFFnbROvv5z8aKlyPQZ) | 2:39 | 2022-03-18 |  |
 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 | 2022-03-18 |  |
 | [As Faixas](https://open.spotify.com/track/0pXcuV7F9sayTpfICzxKsU) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Letta](https://open.spotify.com/artist/0jyT3a5KlJqq751sfrc9Bn), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [As Faixas](https://open.spotify.com/album/7lcgZlUhLUzn6Ulerl4pbB) | 3:22 | 2022-09-02 |  |
-| [Autentik](https://open.spotify.com/track/4fjCiIbLbAODNeAPfFsYdN) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/5qtO48IVD7aoY7VcLJDXfp) | 2:51 | 2022-03-18 |  |
+| [Autentik](https://open.spotify.com/track/0iakCJvnYl4a4O8OlZmIzH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/6u3TylmFcGwrf1Hh67X1e8) | 2:51 | 2022-10-14 |  |
+| [Autentik](https://open.spotify.com/track/4fjCiIbLbAODNeAPfFsYdN) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/5qtO48IVD7aoY7VcLJDXfp) | 2:51 | 2022-03-18 | 2022-10-16 |
 | [Baby Encaixa](https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Baby Encaixa](https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2) | 1:59 | 2022-09-30 |  |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-18 |  |
 | [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 | 2022-07-09 |

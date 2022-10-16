@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,359 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,402 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 2 | [The Hardest Part](https://open.spotify.com/track/1NehDnoT38Zc6YVWj9QITX) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Desperately Imagining Someplace Quiet](https://open.spotify.com/album/7cYFcPZ0TMDsDefppHIbgG) | 4:04 |
 | 3 | [Waste My Revenge](https://open.spotify.com/track/3dUv1yfwnILmDct5WlQGiN) | [The Thing With Feathers](https://open.spotify.com/artist/3fJAImowfWb7c7e2Fy6hUF) | [Waste My Revenge \(Explicit\)](https://open.spotify.com/album/3P7gy8CWDSEJSNAs2KzSgc) | 3:42 |
 | 4 | [Lovesick in Public](https://open.spotify.com/track/5mfghFWaYBC8pWv3niCedE) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Lovesick in Public](https://open.spotify.com/album/4p5xJymNbXOz7IB5BcFiSN) | 2:32 |
-| 5 | [Cinnamon](https://open.spotify.com/track/4WBFBguZw3irFdhWlBemA3) | [Gunnar Gehl](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Cinnamon](https://open.spotify.com/album/3UoxoqoJehdKekydjznAhU) | 2:38 |
+| 5 | [Cinnamon](https://open.spotify.com/track/4WBFBguZw3irFdhWlBemA3) | [Gunnar](https://open.spotify.com/artist/1j84FhSzCvD1Y4MKT66Mfo) | [Cinnamon](https://open.spotify.com/album/3UoxoqoJehdKekydjznAhU) | 2:38 |
 | 6 | [Monster](https://open.spotify.com/track/5aPoxMTZGAR2Kf93jQgRsn) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Monster](https://open.spotify.com/album/1v4S0VBiL5inSvThWgcfI0) | 5:32 |
 | 7 | [Phenomenal](https://open.spotify.com/track/21GoVUM73Z197lokQtCXdF) | [L'FREAQ](https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ) | [Phenomenal](https://open.spotify.com/album/4lUMfqrmNTmPQXVRB0VR3Y) | 4:00 |
 | 8 | [How Does It Feel](https://open.spotify.com/track/5zjzqxrN1YsRHJlME6ZBXv) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [How Does It Feel](https://open.spotify.com/album/4782LqFlhYGsAyQo0nucMt) | 3:39 |

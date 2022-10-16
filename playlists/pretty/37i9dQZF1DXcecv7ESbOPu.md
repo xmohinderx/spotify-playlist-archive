@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,214 likes - 106 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,244 likes - 106 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 |
 | 2 | [Nåt i vattnet](https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Nåt i vattnet](https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6) | 3:33 |
 | 3 | [PANG! BOOM!](https://open.spotify.com/track/5FTmPaZPNPL3RlxHBN0QID) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [PANG! BOOM!](https://open.spotify.com/album/6DorMD9NgkADVFd4yHGos8) | 2:31 |
-| 4 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:29 |
+| 4 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 5 | [Dum](https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 2:13 |
 | 6 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 |
 | 7 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 94 | [Love The Way You Lie](https://open.spotify.com/track/7xFLKHxryH01ve5GvYGSMk) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Love The Way You Lie](https://open.spotify.com/album/11fLVfCVRRuuuQpyruSroN) | 2:48 |
 | 95 | [Sunday Night](https://open.spotify.com/track/6hBiDF5wEVqEY1v1AFcs5o) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/5u6YdrD5sX0yXSRxc4y6H2) | 2:30 |
 | 96 | [Dold agenda](https://open.spotify.com/track/7yWoQfFwDblsOWdz4E5woA) | [Gissberg](https://open.spotify.com/artist/0kDLpXsC5aGG75k3zDhaO4), [GOBLIN](https://open.spotify.com/artist/3PxeE6GhkvD98TwqpLSiij) | [Dold agenda](https://open.spotify.com/album/1f96uNaZuzedqNcl3YS8c6) | 3:20 |
-| 97 | [by my side](https://open.spotify.com/track/7HhTN9CYdhHkSaV2zvQZYv) | [stroem](https://open.spotify.com/artist/5ORePIKZKNdyxAOJxZnwsJ), [Finesto](https://open.spotify.com/artist/1sJHJJ3YhlmXWIyZHukcgY) | [by my side](https://open.spotify.com/album/0xKye54QzeIRSjV4Ew49VU) | 3:44 |
+| 97 | [by my side](https://open.spotify.com/track/7HhTN9CYdhHkSaV2zvQZYv) | [stroem](https://open.spotify.com/artist/4vLTxIcUSsNVsDH73uoEXS), [Finesto](https://open.spotify.com/artist/1sJHJJ3YhlmXWIyZHukcgY) | [by my side](https://open.spotify.com/album/0xKye54QzeIRSjV4Ew49VU) | 3:44 |
 | 98 | [kinda don't wanna exist](https://open.spotify.com/track/3dcTkVIkD8oW2Ug351Oq73) | [Elisa Ailes](https://open.spotify.com/artist/1UvxtqRR5lVUcO90xgz9DP) | [kinda don't wanna exist](https://open.spotify.com/album/6rSDB1kjY3POLJq7v8iDtX) | 1:49 |
 | 99 | [Vad som helst](https://open.spotify.com/track/3BFdQDKsTFEkCkCmlU4LSy) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Vad som helst](https://open.spotify.com/album/2FnXxKcEKR4SpmbRkcxVZO) | 2:52 |
 | 100 | [Hela du hela tiden](https://open.spotify.com/track/37Wg6iYZktO5mKQSoboKAD) | [Nina Bring](https://open.spotify.com/artist/6jzQtWmDttXXZbdmLrOd2j) | [Hela du hela tiden](https://open.spotify.com/album/6pMzq45H4SxGku69irGNLy) | 3:18 |

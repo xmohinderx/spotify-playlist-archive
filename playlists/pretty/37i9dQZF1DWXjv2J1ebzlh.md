@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,268 likes - 1,195 songs - 3 day 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,325 likes - 1,195 songs - 3 day 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -556,7 +556,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 546 | [Lamento Cubano](https://open.spotify.com/track/20QXRiwpQoil9yocxs2t30) | [Amara Touré](https://open.spotify.com/artist/5RGtAYEsGnRFhqcZeWIyOd), [L'Orchestre Massako](https://open.spotify.com/artist/160LTtu0W4KJMruVLFSBbN) | [The Complete Collection 1973\-1976](https://open.spotify.com/album/0oWgBhnFyIkGaTPtsti1lJ) | 5:44 |
 | 547 | [La Tuctuructia](https://open.spotify.com/track/35Mqo76Nv0EKGaYNRZcwJV) | [Ranil](https://open.spotify.com/artist/0apEQnBZNfvpFRL6FRYdef) | [Ranil y Su Conjunto Tropical \(Analog Africa Dance Edition No\. 11\)](https://open.spotify.com/album/2Vv47rfH7CRLPJRkdQDwXn) | 3:23 |
 | 548 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
-| 549 | [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 |
+| 549 | [Mi Swing es Tropical](https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/0CoLMsQMDv7pSbLaJHF0mJ) | 3:42 |
 | 550 | [La Danza Del Petrolero](https://open.spotify.com/track/4bViHO6pdrioBQnHxc7jhL) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [La Danza del Petrolero](https://open.spotify.com/album/44vmtLaH2kxNXmxrnPp6Oa) | 2:48 |
 | 551 | [Africa Mia](https://open.spotify.com/track/79VurKENlz3VcXnfQoMCQa) | [Maravillas de Mali](https://open.spotify.com/artist/3bOctOMNMbRy5E8treNpSK) | [Africa Mia](https://open.spotify.com/album/7xmWe8Xrt2POogywpCht8H) | 3:09 |
 | 552 | [La Manzanita](https://open.spotify.com/track/15Js2MWBTkhq4Vi6siXaHF) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Chicano Batman](https://open.spotify.com/album/6tN9jametp8Y1xtraYzYNe) | 3:50 |
@@ -1204,4 +1204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1194 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1195 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMDM2ZDZkNDJmMzliYTcwN2EzZGNjMjhhODljYzZlZjVi`
+Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMGY0MzExZThjNTFhOTAzODMwNmNkYWU3MTQ3Y2I3YzBl`

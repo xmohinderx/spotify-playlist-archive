@@ -1,12 +1,12 @@
 {
   "description": "\u0645\u0644\u062a\u0642\u064a \u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0639\u0631\u0628\u064a\u0627\u062a! \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u064a\u0644 \u0647\u0645\u064a\u0645\n",
-  "num_followers": 45431,
+  "num_followers": 45459,
   "original_name": "\u0645\u0644\u0643\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0639\u0631\u0628\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE4OTM0MywwMDAwMDAwMDIzMGY0YTk2MDU5MWU1OTE3ZjkzZGNjMTZiMjBlMDk3",
+  "snapshot_id": "MTY2NDE4OTM0MywwMDAwMDAwMDg4ZDNjZmM1ZDIzOGU2NmRkNDc4MDhkOGFiYTUwZDEx",
   "tracks": [
     {
       "added_at": "2022-09-26 10:49:03",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Shokran",
-        "url": "https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "Shokran",
-      "url": "https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "\u0627\u0635\u0639\u062f \u0644\u0644\u0643\u0645\u0631",
         "url": "https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 184246,
       "name": "\u0627\u0635\u0639\u062f \u0644\u0644\u0643\u0645\u0631",
       "url": "https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Shokran",
+        "url": "https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "Shokran",
+      "url": "https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Enta Farha",
-        "url": "https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T"
-      },
-      "artists": [
-        {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Enta Farha",
-      "url": "https://open.spotify.com/track/19qnUPYxZsmCZjJOriB7P3"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "Tholami",
         "url": "https://open.spotify.com/album/2AGYrWJihiTsyJz6lpLj7m"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200470,
       "name": "Tholami",
       "url": "https://open.spotify.com/track/0nzTbIlYLklyyVKk58ryYc"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Enta Farha",
+        "url": "https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Enta Farha",
+      "url": "https://open.spotify.com/track/19qnUPYxZsmCZjJOriB7P3"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Eshtghala Wala Laa ?",
-        "url": "https://open.spotify.com/album/6U6EkwNEO4wbGFb9hIK9OZ"
-      },
-      "artists": [
-        {
-          "name": "Shaza",
-          "url": "https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b"
-        }
-      ],
-      "duration_ms": 207968,
-      "name": "Eshtaghla Wala Laa ?",
-      "url": "https://open.spotify.com/track/2bNxNculDJujQoC2Z5cdVi"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "Khaloony",
         "url": "https://open.spotify.com/album/769Ve8jTV2eKv85Cjh9bdy"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 256173,
       "name": "Khaloony",
       "url": "https://open.spotify.com/track/09jkfb9ry4b1EANWKN33eY"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Eshtghala Wala Laa ?",
+        "url": "https://open.spotify.com/album/6U6EkwNEO4wbGFb9hIK9OZ"
+      },
+      "artists": [
+        {
+          "name": "Shaza",
+          "url": "https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b"
+        }
+      ],
+      "duration_ms": 207968,
+      "name": "Eshtaghla Wala Laa ?",
+      "url": "https://open.spotify.com/track/2bNxNculDJujQoC2Z5cdVi"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Ereft Akhtar",
-        "url": "https://open.spotify.com/album/35si0z3bVZvoL1hAFlAuqV"
+        "name": "El Galb Yefdak",
+        "url": "https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw"
       },
       "artists": [
         {
-          "name": "Shaymaa Sulaiman",
-          "url": "https://open.spotify.com/artist/1yTlXgm1Qli3UhkAoOjSdA"
+          "name": "Nawal El Kuwaitia",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
         }
       ],
-      "duration_ms": 245161,
-      "name": "Ereft Akhtar",
-      "url": "https://open.spotify.com/track/5opxOTHC9cXWie4Bf0Gb4L"
+      "duration_ms": 225652,
+      "name": "El Galb Yefdak",
+      "url": "https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "El Galb Yefdak",
-        "url": "https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw"
+        "name": "Ereft Akhtar",
+        "url": "https://open.spotify.com/album/35si0z3bVZvoL1hAFlAuqV"
       },
       "artists": [
         {
-          "name": "Nawal El Kuwaitia",
-          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+          "name": "Shaymaa Sulaiman",
+          "url": "https://open.spotify.com/artist/1yTlXgm1Qli3UhkAoOjSdA"
         }
       ],
-      "duration_ms": 225652,
-      "name": "El Galb Yefdak",
-      "url": "https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca"
+      "duration_ms": 245161,
+      "name": "Ereft Akhtar",
+      "url": "https://open.spotify.com/track/5opxOTHC9cXWie4Bf0Gb4L"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "\u062e\u0627\u0644\u064a \u0628\u0644\u0627\u0634",
-        "url": "https://open.spotify.com/album/6lOBDVMS5R5bnBBB8yn2jS"
+        "name": "\u064a\u0632\u064a\u062f \u0627\u0644\u0647\u0645",
+        "url": "https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf"
       },
       "artists": [
         {
-          "name": "Hala Al Turk",
-          "url": "https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj"
+          "name": "Saria Al Sawas",
+          "url": "https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ"
         }
       ],
-      "duration_ms": 170285,
-      "name": "\u062e\u0627\u0644\u064a \u0628\u0644\u0627\u0634",
-      "url": "https://open.spotify.com/track/0m0CR7PeE1e7THI4ejvOO1"
+      "duration_ms": 280950,
+      "name": "Yazid Alhama",
+      "url": "https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "\u064a\u0632\u064a\u062f \u0627\u0644\u0647\u0645",
-        "url": "https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf"
+        "name": "\u062e\u0627\u0644\u064a \u0628\u0644\u0627\u0634",
+        "url": "https://open.spotify.com/album/6lOBDVMS5R5bnBBB8yn2jS"
       },
       "artists": [
         {
-          "name": "Saria Al Sawas",
-          "url": "https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ"
+          "name": "Hala Al Turk",
+          "url": "https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj"
         }
       ],
-      "duration_ms": 280950,
-      "name": "Yazid Alhama",
-      "url": "https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM"
+      "duration_ms": 170285,
+      "name": "\u062e\u0627\u0644\u064a \u0628\u0644\u0627\u0634",
+      "url": "https://open.spotify.com/track/0m0CR7PeE1e7THI4ejvOO1"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Aget Adela",
-        "url": "https://open.spotify.com/album/4kDWL9L0FuaU7TbfQMVcUO"
-      },
-      "artists": [
-        {
-          "name": "Esraa El Aseel",
-          "url": "https://open.spotify.com/artist/7wEhCzPMEcxkQGBljv8wuK"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Aget Adela",
-      "url": "https://open.spotify.com/track/6Fz3Ijzsjji0RJ5P0JeX4b"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "Ana Ma Astaghni",
         "url": "https://open.spotify.com/album/7doUub9LdO3apzewNqafd6"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Mazaji 3ali",
-        "url": "https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt"
+        "name": "Aget Adela",
+        "url": "https://open.spotify.com/album/4kDWL9L0FuaU7TbfQMVcUO"
       },
       "artists": [
         {
-          "name": "Bessan Ismail",
-          "url": "https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB"
+          "name": "Esraa El Aseel",
+          "url": "https://open.spotify.com/artist/7wEhCzPMEcxkQGBljv8wuK"
         }
       ],
-      "duration_ms": 162586,
-      "name": "Mazaji 3ali",
-      "url": "https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv"
+      "duration_ms": 219293,
+      "name": "Aget Adela",
+      "url": "https://open.spotify.com/track/6Fz3Ijzsjji0RJ5P0JeX4b"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1583,6 +1567,22 @@
       "duration_ms": 212474,
       "name": "Shaghla Kol Ennas",
       "url": "https://open.spotify.com/track/5D57Y8b0mBBfgtIkEFkiuO"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Mazaji 3ali",
+        "url": "https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt"
+      },
+      "artists": [
+        {
+          "name": "Bessan Ismail",
+          "url": "https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Mazaji 3ali",
+      "url": "https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv"
     },
     {
       "added_at": "2022-09-26 10:49:03",
