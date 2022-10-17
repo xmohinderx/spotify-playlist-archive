@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 139484,
       "name": "Eu N\u00e3o Sei Brincar",
       "url": "https://open.spotify.com/track/1JV9pzSaSkFw3S9R5ZZZSl"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 156296,
       "name": "Merc\u00fario Retr\u00f3grado",
       "url": "https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe"
@@ -1937,6 +1937,24 @@
       "duration_ms": 145124,
       "name": "Meu Lado da Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX"
+    },
+    {
+      "album": {
+        "name": "Meu Mundo",
+        "url": "https://open.spotify.com/album/004cQK4QWSIdxRQNyvhkck"
+      },
+      "artists": [
+        {
+          "name": "Izaki Lima",
+          "url": "https://open.spotify.com/artist/33KnzfUaoOX9QPrF4Fy6s2"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234927,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/7n8TcUtlwDE3uPuBMVDfPL"
     },
     {
       "album": {
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 181197,
       "name": "perigo !!!",
       "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"

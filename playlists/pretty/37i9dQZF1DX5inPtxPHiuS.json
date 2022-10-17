@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 79263,
+  "num_followers": 79275,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDk1ZmY1YmNlMzFjYWViMzIxNTE2ODI1OTgwMTYzN2Vk",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMDZhNTQ3MDBkNzljMTlmNGFmNDMzNGMwNzA5MjNjMDY3",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Polvo Eres",
-        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
-      },
-      "artists": [
-        {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
-        }
-      ],
-      "duration_ms": 227665,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 240293,
       "name": "Desvanecer",
       "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Polvo Eres",
+        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
+      },
+      "artists": [
+        {
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
+        }
+      ],
+      "duration_ms": 227665,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Si no es muy tarde",
+        "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
+      },
+      "artists": [
+        {
+          "name": "Lina Sanabria",
+          "url": "https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV"
+        }
+      ],
+      "duration_ms": 153433,
+      "name": "Si no es muy tarde",
+      "url": "https://open.spotify.com/track/5lUS2JGjBQrVvUVgd2jgdF"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Regular",
         "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Si no es muy tarde",
-        "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
-      },
-      "artists": [
-        {
-          "name": "Lina Sanabria",
-          "url": "https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV"
-        }
-      ],
-      "duration_ms": 153433,
-      "name": "Si no es muy tarde",
-      "url": "https://open.spotify.com/track/5lUS2JGjBQrVvUVgd2jgdF"
     },
     {
       "added_at": "2022-10-13 15:12:40",

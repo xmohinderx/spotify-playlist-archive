@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: JAMIE\(제이미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,283 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,410 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 40 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 41 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 |
 | 42 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 |
-| 43 | [WAYO](https://open.spotify.com/track/0BOVjtn27VIF8Ph0CSIKyG) | [BANG YE DAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [WAYO](https://open.spotify.com/album/391Rvtlm88VGNp8ls7FVbB) | 3:25 |
-| 44 | [maybe we need a break](https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [modern breakups](https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL) | 3:04 |
+| 43 | [maybe we need a break](https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [modern breakups](https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL) | 3:04 |
+| 44 | [WAYO](https://open.spotify.com/track/0BOVjtn27VIF8Ph0CSIKyG) | [BANG YE DAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [WAYO](https://open.spotify.com/album/391Rvtlm88VGNp8ls7FVbB) | 3:25 |
 | 45 | [Cry For Love](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:30 |
 | 46 | [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 |
 | 47 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 56 | [go UP](https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Be Yourself](https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF) | 2:39 |
 | 57 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
 | 58 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
-| 59 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 |
-| 60 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
+| 59 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
+| 60 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 |
 | 61 | [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |
-| 62 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
-| 63 | [Irene](https://open.spotify.com/track/7KwxU8kseYKf5pLbuI25g0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Irene](https://open.spotify.com/album/2eXjByavfoB2DYM1AKUJPg) | 3:19 |
+| 62 | [Irene](https://open.spotify.com/track/7KwxU8kseYKf5pLbuI25g0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Irene](https://open.spotify.com/album/2eXjByavfoB2DYM1AKUJPg) | 3:19 |
+| 63 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
 | 64 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:30 |
 | 65 | [Dancing In The Rain](https://open.spotify.com/track/1ouGYz9Qvou12hFOwYOV66) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [Scene](https://open.spotify.com/album/3Eq7lSl4bvV5CNP6IbLkkl) | 3:23 |
 | 66 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 67 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
 | 68 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 |
 | 69 | [Broken Love](https://open.spotify.com/track/6GehOJs060WzAi78QArj7p) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd) | 2:53 |
-| 70 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
+| 70 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 |
 
-Snapshot ID: `MTY2NTYyNTY5MywwMDAwMDAwMDc3NTIxYzljMjBmYjg4NTk3OWQ1ZTEzOWYwZTM4YWRk`
+Snapshot ID: `MTY2NTYyNTY5MywwMDAwMDAwMDA1NmFkYmU4MmZmM2NlM2NjYjRmMmEwMzJlOTUxNTVm`

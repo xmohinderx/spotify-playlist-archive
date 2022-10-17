@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,632 likes - 126 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,674 likes - 126 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 49 | [Ran Kan Kan](https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Latin World Of Tito Puente](https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH) | 3:10 |
 | 50 | [Achilipú](https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Sin Salsa No Hay Paraíso](https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l) | 4:41 |
 | 51 | [Tu Sin Mi](https://open.spotify.com/track/3My5e0LeWBuE8zJwLtqEs8) | [Jehu El Rey](https://open.spotify.com/artist/3bpLd5BxgDFSo6CqglwzZk) | [Legend](https://open.spotify.com/album/0MOhkz73OBpXs7TY9rFXeC) | 4:05 |
-| 52 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
-| 53 | [Juan Pachanga](https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:13 |
+| 52 | [Juan Pachanga](https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:13 |
+| 53 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
 | 54 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
 | 55 | [La Hija De Lola](https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [El Gigante del Teclado](https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp) | 4:32 |
 | 56 | [Un Verano en NY](https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:57 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 69 | [Rumba Rumbero](https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 4:03 |
 | 70 | [No Sirvo Pa' Queso](https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa) | [La Maxima 79](https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94) | [Regresando al Guaguancò](https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX) | 4:00 |
 | 71 | [La Negra Tomasa](https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD) | [Vocal Sampling](https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD) | [Live in Berlin](https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi) | 4:19 |
-| 72 | [Y Yo Ganga](https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw) | [Alegre All Stars](https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc) | [Perdido](https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz) | 8:09 |
-| 73 | [Presidente Dante](https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Frankie Dante & Orquesta Flamboyan](https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR) | [Con Larry Harlow](https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn) | 4:07 |
+| 72 | [Presidente Dante](https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Frankie Dante & Orquesta Flamboyan](https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR) | [Con Larry Harlow](https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn) | 4:07 |
+| 73 | [Y Yo Ganga](https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw) | [Alegre All Stars](https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc) | [Perdido](https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz) | 8:09 |
 | 74 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
 | 75 | [Esta Pegao](https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 4:38 |
 | 76 | [Mujer de Carne y Hueso](https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:53 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 125 | [Conciencia](https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:33 |
 | 126 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 
-Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMGE3NGU2ZTRjODEyNjBmYmI1MDk5ZTA5MjJhOTZjNGEy`
+Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMDM4ZmQzOTRhYzNmMDZlZDBhZDhlMDUxNTQ2ZjJjMWIy`

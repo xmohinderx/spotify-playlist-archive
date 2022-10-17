@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-129 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+130 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [The Lamp](https://open.spotify.com/track/4dIrJCIZr1IVzpYPXhYtO8) | [Taleman](https://open.spotify.com/artist/1SwnQqiR6dt2eBJg9hIVIu) | [15 Years of Akbal Music, Pt\. 1](https://open.spotify.com/album/1woMUulpCuaz2MEuWl5H7S) | 8:19 | 2022-04-13 | 2022-07-22 |
 | [Tolo \- FNX Omar Remix](https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc) | [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [Ahmed Sosso](https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Tolo](https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv) | 6:37 | 2022-09-29 |  |
 | [Trailblazer](https://open.spotify.com/track/7qAQDREJCagJ3f8WD2tWkZ) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Trailblazer](https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS) | 6:16 | 2022-04-13 |  |
-| [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 | 2022-04-13 |  |
+| [Tuhan](https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm) | 7:44 | 2022-10-13 |  |
+| [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 | 2022-04-13 | 2022-10-17 |
 | [Vatra](https://open.spotify.com/track/5j1Qs1RNlzDlAzqz5wHuR4) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Vatra](https://open.spotify.com/album/57HyuY3gr0yMDoD5cdbXR7) | 7:14 | 2022-04-13 |  |
 | [Vazda](https://open.spotify.com/track/3IBVWeulXxBj5pO5Sywojy) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Vazda](https://open.spotify.com/album/2jWqoNIoJ8XNuV0zziWSSQ) | 7:12 | 2022-05-19 |  |
 | [Water](https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Trick Beat](https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1), [Djarah Kan](https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y) | [Water](https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB) | 7:06 | 2022-04-13 |  |

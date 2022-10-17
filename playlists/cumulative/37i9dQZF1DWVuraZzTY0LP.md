@@ -4,7 +4,7 @@
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-156 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
+157 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 | 2022-04-18 |  |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2022-07-19 |  |
 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 | 2022-04-18 | 2022-07-29 |
+| [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 | 2022-10-14 |  |
 | [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 | 2022-07-19 | 2022-10-13 |
 | [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 | 2022-10-14 |  |
 | [Mamita Santa](https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mamita Santa](https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg) | 3:13 | 2022-04-18 | 2022-05-17 |
@@ -150,7 +151,7 @@
 | [Un Día Especial](https://open.spotify.com/track/4EavV1ZnEKT4X3KlljYBsA) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Un Día Especial](https://open.spotify.com/album/5qKRtiCKf7vQ6RmAZ5qUAT) | 3:24 | 2022-10-14 |  |
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 | 2022-10-07 |  |
 | [Ven Conmigo](https://open.spotify.com/track/1pmhavHQm3tVTObNNRcmAb) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Volver A](https://open.spotify.com/album/4T8bQZALNGcpVUXlBNKuYY) | 3:17 | 2022-10-07 |  |
-| [Veneno](https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Veneno](https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0) | 3:20 | 2022-04-18 |  |
+| [Veneno](https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Veneno](https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0) | 3:20 | 2022-04-18 | 2022-10-17 |
 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 | 2022-09-09 |  |
 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/47W6YR93MPCGLEUReLMyDm) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006 \(Remastered\)](https://open.spotify.com/album/6bxhCuuhyD3zQOGZwrBduo) | 3:49 | 2022-07-19 | 2022-07-26 |
 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/49TQfrsm60j5ZFKS59JOdU) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/290mciLlwjKmpNgv95xTSO) | 3:49 | 2022-07-19 | 2022-09-12 |

@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 2138,
+  "num_followers": 2150,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGVlMjkzZjQ1NDI4Y2Q2MjcwOWY5ZGNlM2VkOWVlYjE0",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDE4NjJmN2M4NzYxZGM1YTBlNjBhYmQzM2IxMTE0OWJk",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -469,6 +469,26 @@
       "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
+      "added_at": "2022-09-23 06:31:57",
+      "album": {
+        "name": "Philo",
+        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Philo",
+      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
@@ -491,26 +511,6 @@
       "duration_ms": 188093,
       "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
       "url": "https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb"
-    },
-    {
-      "added_at": "2022-09-23 06:31:57",
-      "album": {
-        "name": "Philo",
-        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Philo",
-      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL"
     },
     {
+      "added_at": "2022-02-11 10:48:58",
+      "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "SHOWING OFF HER BODY (with Davido)",
@@ -587,22 +603,6 @@
       "duration_ms": 212639,
       "name": "SHOWING OFF HER BODY (with Davido)",
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
-    },
-    {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Early Momo",
@@ -879,22 +895,6 @@
       "duration_ms": 193000,
       "name": "Early Momo",
       "url": "https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ"
-    },
-    {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -929,6 +929,26 @@
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Bad Girl (feat. Wande Coal & Victony)",
@@ -951,26 +971,6 @@
       "duration_ms": 204232,
       "name": "Bad Girl (feat. Wande Coal & Victony)",
       "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
-    },
-    {
-      "added_at": "2022-05-26 23:00:00",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1029,20 +1029,24 @@
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
-      "added_at": "2022-03-18 00:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+        "name": "Cough (Odo)",
+        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+      "duration_ms": 176134,
+      "name": "Cough (Odo)",
+      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -1075,6 +1079,22 @@
       "duration_ms": 165040,
       "name": "King",
       "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2022-08-05 07:04:42",
@@ -1249,6 +1269,26 @@
       "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
     },
     {
+      "added_at": "2022-09-30 06:55:26",
+      "album": {
+        "name": "Love (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Love (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
+    },
+    {
       "added_at": "2022-03-31 23:00:00",
       "album": {
         "name": "For Days",
@@ -1285,46 +1325,6 @@
       "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
     },
     {
-      "added_at": "2022-09-30 06:55:26",
-      "album": {
-        "name": "Love (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Love (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Cough (Odo)",
-        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Cough (Odo)",
-      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Last Name",
@@ -1357,26 +1357,6 @@
       "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
     },
     {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
-    },
-    {
       "added_at": "2022-09-30 06:55:26",
       "album": {
         "name": "Palmwine Music 3",
@@ -1395,6 +1375,26 @@
       "duration_ms": 187428,
       "name": "Mine Alone",
       "url": "https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe"
+    },
+    {
+      "added_at": "2022-02-11 10:48:58",
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2022-08-05 07:04:42",
@@ -1501,20 +1501,28 @@
       "url": "https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2022-03-18 00:00:00",
       "album": {
-        "name": "Balance It",
-        "url": "https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY"
+        "name": "Connecting the Dots",
+        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
       },
       "artists": [
         {
-          "name": "D Jay",
-          "url": "https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs"
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 187537,
-      "name": "Balance It",
-      "url": "https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA"
+      "duration_ms": 165142,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
     }
   ],
   "unique_name": "Lovin' Beats",

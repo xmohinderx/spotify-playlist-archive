@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-123 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/5j359EkdLizzDFpJebBsga)
+124 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5j359EkdLizzDFpJebBsga)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Sad But True](https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Sad But True](https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV) | 5:32 | 2022-05-25 |  |
 | [Shallow](https://open.spotify.com/track/1jRJ6mZwtu6mBU0FK2LfjH) | [Quor](https://open.spotify.com/artist/2t9O48sGKL9akw6mG879D5) | [Shallow](https://open.spotify.com/album/0lCdXI5pUEQSiUWzzxFczG) | 4:03 | 2022-05-25 | 2022-07-14 |
 | [Shock the Monkey](https://open.spotify.com/track/55fRL1pNYMXgxLOHPCfLh5) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/2cgzZlPUtj75UJlktSMbvM) | 3:42 | 2022-05-25 | 2022-10-13 |
+| [Shock the Monkey](https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06) | 3:42 | 2022-10-03 |  |
 | [Show Me How to Live](https://open.spotify.com/track/2idsFS0p8i9YzT3wbiYX5x) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [The Songs That Shaped Us](https://open.spotify.com/album/3LceUu4zS6MOGyt5zwjePI) | 5:08 | 2022-05-25 | 2022-07-29 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/0XiXBC9yfWtIryuu3vYW34) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Smells Like Teen Spirit](https://open.spotify.com/album/4VjxICkdJ5s6hCLFK8cPL2) | 4:32 | 2022-05-25 | 2022-07-20 |
 | [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 | 2022-05-25 |  |
@@ -118,7 +119,7 @@
 | [The Sound of Silence](https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:08 | 2022-05-25 |  |
 | [Thunder Kiss '65](https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Play It Forward](https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig) | 3:55 | 2022-08-24 |  |
 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 | 2022-05-25 |  |
-| [To Tame a Land](https://open.spotify.com/track/0OfFgbRGM8qMxDofN3lpdM) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Black Clouds & Silver Linings \(Special Edition\)](https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP) | 7:15 | 2022-05-25 |  |
+| [To Tame a Land](https://open.spotify.com/track/0OfFgbRGM8qMxDofN3lpdM) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Black Clouds & Silver Linings \(Special Edition\)](https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP) | 7:15 | 2022-05-25 | 2022-10-17 |
 | [Toss A Coin To Your Witcher](https://open.spotify.com/track/3Oz3R5UH9ynO4h1dcpEey1) | [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Toss A Coin To Your Witcher](https://open.spotify.com/album/2O8wiCuevOATbL5OJRYLP0) | 2:59 | 2022-05-25 |  |
 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 | 2022-06-13 |  |
 | [Voyage Voyage](https://open.spotify.com/track/75YX0XH3dLamMxfut44LOo) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Voyage Voyage](https://open.spotify.com/album/3zjOOho4Y5Rcc6LUK8yAhl) | 4:18 | 2022-05-25 | 2022-07-29 |

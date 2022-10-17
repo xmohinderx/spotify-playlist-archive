@@ -4,12 +4,12 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-295 songs - 17 hr 51 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+296 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-12-07 |  |
-| [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 | 2021-12-07 |  |
+| [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 | 2021-12-07 | 2022-10-17 |
 | [5 AM](https://open.spotify.com/track/3sImbceGM6mUQhItLE57EM) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [5 AM](https://open.spotify.com/album/0EW965r0StvkvLONKpqVO9) | 3:24 | 2022-04-11 | 2022-04-19 |
 | [6 Feet Under](https://open.spotify.com/track/2wuGCJX1moO4WM3ngRzMQu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [6 Feet Under](https://open.spotify.com/album/5pIx44PmYO4QfehWZBvdQt) | 3:21 | 2022-04-11 | 2022-04-18 |
 | [87 Days](https://open.spotify.com/track/0gZoK6Q1RJ46fyeC2Ib0r2) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [From Then 'til Now](https://open.spotify.com/album/3zj3M9adqCVVP07vYWgMQh) | 3:41 | 2021-12-07 | 2022-07-28 |
@@ -23,6 +23,7 @@
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2021-12-07 | 2022-04-18 |
 | [Alright](https://open.spotify.com/track/6lOgdgJ7fdTmvQuUV3JrEH) | [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Real](https://open.spotify.com/album/5fZ4UkwUPHAgEtSvaKBOmT) | 2:59 | 2022-04-11 | 2022-04-21 |
 | [Anyone Around](https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Anyone Around](https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ) | 2:49 | 2021-12-07 | 2022-07-29 |
+| [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 | 2022-06-20 |  |
 | [Apocalypse](https://open.spotify.com/track/66y1fdK0PkqdhD8yOleDBD) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/47WMGg3UQBQAGn8cVnPdiW) | 1:01 | 2021-12-07 | 2022-10-13 |
 | [Aquaself](https://open.spotify.com/track/48ZxMdmUA9CK7i31wn7bbx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Stars](https://open.spotify.com/album/6tZqo8dAjOS8Nb0XWSqMDJ) | 6:16 | 2021-12-07 | 2022-07-24 |
 | [argentin](https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [argentin](https://open.spotify.com/album/6K99lHPJIPlR62rMl0RvLN) | 2:53 | 2021-12-07 | 2022-05-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53226,
+  "num_followers": 53217,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGM0YjdmMjMwY2M2NDhjYmIwMThhYTA0MjA5ZjZjNTEy",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDFkNDZlOTkwZGFjM2I1YmFiZTc5YmViZjI5OWI4ZWZm",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -187,22 +187,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 193573,
       "name": "Ulysses",
       "url": "https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -779,22 +779,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "The Writer",
-      "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "First Songs",
         "url": "https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "The Writer",
+      "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
     }
   ],
   "unique_name": "The Writer's Playlist",

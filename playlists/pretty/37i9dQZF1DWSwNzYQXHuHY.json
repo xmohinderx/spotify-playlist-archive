@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 4661,
+  "num_followers": 4680,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODczNSwwMDAwMDAwMDMzYWFjMjA5OTZhZDcxOTc0MDVhMGVjOWRkYjg0NDY1",
+  "snapshot_id": "MTY2NTExODczNSwwMDAwMDAwMGViZjgyMjhkNTdhNzU4MmQ2YjIzYmQ5OTE1OGY1YmI3",
   "tracks": [
     {
       "added_at": "2022-10-07 04:58:55",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-10-07 04:58:55",
       "album": {
+        "name": "3rd Digital Single 'Not In Public'",
+        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "Not In Public",
+      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
+    },
+    {
+      "added_at": "2022-10-07 04:58:55",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -699,42 +715,6 @@
     {
       "added_at": "2022-10-07 04:58:55",
       "album": {
-        "name": "3rd Digital Single 'Not In Public'",
-        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
-      },
-      "artists": [
-        {
-          "name": "SUMMER CAKE",
-          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Not In Public",
-      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
-    },
-    {
-      "added_at": "2022-10-07 04:58:55",
-      "album": {
-        "name": "how can i do",
-        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        },
-        {
-          "name": "YooJeong",
-          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
-        }
-      ],
-      "duration_ms": 169599,
-      "name": "how can i do (Feat. YooJeong)",
-      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
-    },
-    {
-      "added_at": "2022-10-07 04:58:55",
-      "album": {
         "name": "UH-RA? with KozyPop",
         "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 175412,
       "name": "NDGGA",
       "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
+    },
+    {
+      "added_at": "2022-10-07 04:58:55",
+      "album": {
+        "name": "how can i do",
+        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "YooJeong",
+          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
+        }
+      ],
+      "duration_ms": 169599,
+      "name": "how can i do (Feat. YooJeong)",
+      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
     },
     {
       "added_at": "2022-10-07 04:58:55",

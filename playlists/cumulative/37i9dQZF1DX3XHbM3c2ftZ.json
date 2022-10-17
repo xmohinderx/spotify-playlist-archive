@@ -333,10 +333,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 149893,
       "name": "Dear Old Dad",
       "url": "https://open.spotify.com/track/2POHHxEXrtaoieUdXuynyA"
+    },
+    {
+      "album": {
+        "name": "Rock-O-Matic",
+        "url": "https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150734,
+      "name": "Dear Old Dad",
+      "url": "https://open.spotify.com/track/1o4hp0Rm5xST4llL6xuXSM"
     },
     {
       "album": {

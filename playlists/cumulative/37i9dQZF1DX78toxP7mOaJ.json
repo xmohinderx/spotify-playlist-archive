@@ -6959,10 +6959,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 183000,
       "name": "Pokit",
       "url": "https://open.spotify.com/track/4ZQgPMFGS7mLk5o69Zgf6G"
+    },
+    {
+      "album": {
+        "name": "Pokit",
+        "url": "https://open.spotify.com/album/5SdtmAcehpjTRZ8VGDJhYT"
+      },
+      "artists": [
+        {
+          "name": "Beachtape",
+          "url": "https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Pokit",
+      "url": "https://open.spotify.com/track/7v6P3yYkFzGp0nJY14I2gi"
     },
     {
       "album": {

@@ -297,7 +297,7 @@
     {
       "album": {
         "name": "The Fiddle Case",
-        "url": "https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl"
+        "url": "https://open.spotify.com/album/4CxYrGwYjQOPfIoeiU9dQ3"
       },
       "artists": [
         {
@@ -308,6 +308,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266058,
+      "name": "Coolderry Bridge / The Whistling Postman / The Mills Are Grinding",
+      "url": "https://open.spotify.com/track/24RqbvGYiplXwg79ldjied"
+    },
+    {
+      "album": {
+        "name": "The Fiddle Case",
+        "url": "https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl"
+      },
+      "artists": [
+        {
+          "name": "The Fiddle Case",
+          "url": "https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 266058,
       "name": "Coolderry Bridge / The Whistling Postman / The Mills Are Grinding",
       "url": "https://open.spotify.com/track/5Id7Tp8vsvfLDFoUMVjyrn"

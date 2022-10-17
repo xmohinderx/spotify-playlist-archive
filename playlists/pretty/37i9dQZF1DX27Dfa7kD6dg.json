@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 10632,
+  "num_followers": 10674,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMGE3NGU2ZTRjODEyNjBmYmI1MDk5ZTA5MjJhOTZjNGEy",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDM4ZmQzOTRhYzNmMDZlZDBhZDhlMDUxNTQ2ZjJjMWIy",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Dos Imagenes",
-        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
-      },
-      "artists": [
-        {
-          "name": "Ismael Quintana",
-          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Vacil\u00f3 Con Tumbao",
-      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Bohemio y Poeta",
         "url": "https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 373560,
       "name": "Juan Pachanga",
       "url": "https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Dos Imagenes",
+        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
+      },
+      "artists": [
+        {
+          "name": "Ismael Quintana",
+          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Vacil\u00f3 Con Tumbao",
+      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
-      },
-      "artists": [
-        {
-          "name": "Alegre All Stars",
-          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
-        }
-      ],
-      "duration_ms": 489000,
-      "name": "Y Yo Ganga",
-      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Con Larry Harlow",
         "url": "https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 247998,
       "name": "Presidente Dante",
       "url": "https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
+      },
+      "artists": [
+        {
+          "name": "Alegre All Stars",
+          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
+        }
+      ],
+      "duration_ms": 489000,
+      "name": "Y Yo Ganga",
+      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
     },
     {
       "added_at": "2022-08-17 18:30:29",

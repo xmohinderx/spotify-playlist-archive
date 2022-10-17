@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,008 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,057 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 27 | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM) | 3:28 |
 | 28 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
 | 29 | [Low](https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Low](https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT) | 3:53 |
-| 30 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
-| 31 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
+| 30 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
+| 31 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
 | 32 | [Eve Bounce \- Remix](https://open.spotify.com/track/4WivCZ8PeXzDPuoPHfNSaq) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Yaadman Kingsize](https://open.spotify.com/album/4ZiTa0fzBxRjQYrhxZUjJA) | 3:24 |
 | 33 | [Ghetto Love](https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto Love](https://open.spotify.com/album/2HEw2wkLTBWlbk8lGSqnY2) | 3:18 |
 | 34 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 |
 | 50 | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/track/5Z3H2xgKsw5Sa3p0MGAVnT) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/album/1YNTbT0uHszzYnMeUIUHCk) | 3:17 |
 
-Snapshot ID: `Mjc3NjQwMDMsMDAwMDAwMDBkNDk5YTk5YmQ5YWM5NDUxZjRlZmE4N2M4NjAxMWM1Zg==`
+Snapshot ID: `Mjc3NjU0MzcsMDAwMDAwMDBkMWY2YzY5MTEwNjFmNTI5MDdlYmQxODZlZDZjNjYyZg==`

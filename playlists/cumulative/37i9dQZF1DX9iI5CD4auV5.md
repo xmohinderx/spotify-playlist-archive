@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-61 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/2YNoFl7lR2PxUel0utuI8K)
+62 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2YNoFl7lR2PxUel0utuI8K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Hot](https://open.spotify.com/track/4icPhVxzQ098r5eyywM4cf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Soldier March](https://open.spotify.com/album/0hNAm3uBkWcpqwJr6TaMOV) | 5:50 | 2022-08-12 |  |
 | [Housepital](https://open.spotify.com/track/7CyShw7Ll5E5dGIF9N2Fve) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Housepital EP](https://open.spotify.com/album/1uK6sIUfVfLmclOUUvurga) | 4:10 | 2022-08-12 |  |
 | [I Can Live \- Original mix](https://open.spotify.com/track/0DXvZ6caxlYFYlJZnWfju6) | [Rogerio Vegas](https://open.spotify.com/artist/28KmIkCtMwca12vjiFg1Xo) | [I Can Live \- EP](https://open.spotify.com/album/74ka7gy9hv8FnuRw1JCKpM) | 6:46 | 2022-08-12 |  |
-| [I Don't Know \- Oscar L Remix](https://open.spotify.com/track/6myY7jAG2B6k8LMWI2c0JM) | [Chelonis R\. Jones](https://open.spotify.com/artist/4kHMPa8ypDqdgC5bKkyQeM), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [I Don't Know \(Oscar L Remix\)](https://open.spotify.com/album/2gxMGEFPByDGDeaUvHRCH6) | 7:02 | 2022-08-12 |  |
+| [I Don't Know \- Oscar L Remix](https://open.spotify.com/track/5VsP5bT40qa0o5gyEazaYV) | [Chelonis R\. Jones](https://open.spotify.com/artist/4kHMPa8ypDqdgC5bKkyQeM), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [I Don't Know \(Oscar L Remix\)](https://open.spotify.com/album/2jEaEC1xC2OOc5I7P0fNAh) | 7:02 | 2022-08-12 |  |
+| [I Don't Know \- Oscar L Remix](https://open.spotify.com/track/6myY7jAG2B6k8LMWI2c0JM) | [Chelonis R\. Jones](https://open.spotify.com/artist/4kHMPa8ypDqdgC5bKkyQeM), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [I Don't Know \(Oscar L Remix\)](https://open.spotify.com/album/2gxMGEFPByDGDeaUvHRCH6) | 7:02 | 2022-08-12 | 2022-10-17 |
 | [Impulse](https://open.spotify.com/track/2RxDjKBtUA7GtZ4LvFDhja) | [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Perception EP](https://open.spotify.com/album/7lB0BeuCQeU4RY7K1uwlcB) | 6:19 | 2022-08-12 |  |
 | [Invert Drift](https://open.spotify.com/track/68nhhAKNAt09d5NOglXD0K) | [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Invert Drift](https://open.spotify.com/album/1AKYPOmxoOQEhUDEuCOHfB) | 7:28 | 2022-08-12 |  |
 | [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 | 2022-08-12 |  |

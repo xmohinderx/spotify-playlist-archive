@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 456480,
       "name": "A Case Of You - Short Version",
       "url": "https://open.spotify.com/track/5mFYhmpAeyTPrNgz4E283K"
@@ -277,6 +277,28 @@
       "duration_ms": 284750,
       "name": "And So it Goes",
       "url": "https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH"
+    },
+    {
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319786,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6p5xME6kNYc2lkvt4atkKL"
     },
     {
       "album": {
@@ -769,6 +791,28 @@
       "duration_ms": 260361,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/2IX8WR2FoBLii7teJJLibA"
+    },
+    {
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380066,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
     },
     {
       "album": {
@@ -1523,7 +1567,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
@@ -1763,7 +1807,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
@@ -1931,7 +1975,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 356026,
       "name": "She's Leaving Home",
       "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"

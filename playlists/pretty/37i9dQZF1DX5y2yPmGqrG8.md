@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > A selection of tracks by Rival Consoles to immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,542 likes - 30 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,614 likes - 30 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 |
-| 2 | [Gossamer](https://open.spotify.com/track/5JKMe6ixt8nDwoUqS9tMG6) | [SINK](https://open.spotify.com/artist/079JJu03lrW37aQxGotWfC) | [Gossamer](https://open.spotify.com/album/1607it3GMJGG1znHEhUSQM) | 4:34 |
+| 2 | [Gossamer](https://open.spotify.com/track/0b2zRtqX9fVFVhrkAAtFTP) | [SINK](https://open.spotify.com/artist/079JJu03lrW37aQxGotWfC) | [Gossamer](https://open.spotify.com/album/5c6yN2H8AEHT42tdO47sAI) | 4:34 |
 | 3 | [Roam](https://open.spotify.com/track/6oYjrjG8hRNSIciAqD8rSs) | [BlankFor.ms](https://open.spotify.com/artist/615yNPoQmv8zHJUSZxDr6E), [Colloboh](https://open.spotify.com/artist/0o0jvQAplepjQaJYbXCEVl) | [Roam](https://open.spotify.com/album/3RUlErZZOPYcIudrHC6XAb) | 4:28 |
 | 4 | [BTM Blau](https://open.spotify.com/track/4dkmuKPFVIDziqQK7BrbGb) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [BTM Blau](https://open.spotify.com/album/6zugigBgYg8n1bKNWP1Zka) | 2:22 |
 | 5 | [discrete \(the market\)](https://open.spotify.com/track/6qUpvBSrrwlWogJR7kRYOo) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/0UnY8jxUamnb3hYkUVN8pK) | 6:34 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 29 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
 | 30 | [Baby Steps](https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [Selected Public Works, Vol\. 5](https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn) | 1:26 |
 
-Snapshot ID: `MTY2NTc1MjQxMiwwMDAwMDAwMDNhZDY0MmFhMjFkNTI0MTQ4MzYxMjhlMGVkNTg5MjE2`
+Snapshot ID: `MTY2NTc1MjQxMiwwMDAwMDAwMDQ2YzU0NDRhZDE5ZGRhOGU1N2YxZTA0ZDIxMDcxYTJi`

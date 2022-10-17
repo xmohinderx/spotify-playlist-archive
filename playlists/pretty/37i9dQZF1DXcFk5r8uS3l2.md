@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,098 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,159 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 67 | [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 |
 | 68 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 |
 | 69 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 |
-| 70 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 |
-| 71 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 |
-| 72 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 |
+| 70 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 |
+| 71 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 |
+| 72 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 |
 | 73 | [Man On Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf) | 3:49 |
 | 74 | [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 |
-| 75 | [Black Widow](https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Black Widow](https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD) | 2:50 |
+| 75 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDI4OTI1OGJlZDYyMWNkN2JmMjdiOWI4YWNjYjZhNjU0`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGE1NWFhZDFkMDEwOTYzYTE4N2NiZmIxN2Q5YzZlYjYz`

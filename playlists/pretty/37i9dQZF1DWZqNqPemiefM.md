@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,733 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,892 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 36 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 |
 | 37 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
 | 38 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 |
-| 39 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
-| 40 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
+| 39 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
+| 40 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 | 41 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 |
 | 42 | [Utano](https://open.spotify.com/track/0h7IkhjykGhsXardJtErat) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:15 |
 | 43 | [memory lane](https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [memory lane](https://open.spotify.com/album/5I2F71Myowlmr7AWMDDpzQ) | 3:50 |
 | 44 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
-| 45 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
-| 46 | [Sakura](https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph) | [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [in my Time](https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi) | 1:26 |
+| 45 | [Sakura](https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph) | [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [in my Time](https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi) | 1:26 |
+| 46 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
 | 47 | [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 |
 | 48 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
 | 49 | [su sa](https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [su sa](https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j) | 3:32 |
 | 50 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 |
 
-Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMDFkOTQ2OWUyYjM5ZjljMzVhOGRlN2IyMmQ1ZmU5Y2M3`
+Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMDI2MWQ2YzFiNDgxMTk1Mjg3N2UzODFiNjNiMzZlNzY2`

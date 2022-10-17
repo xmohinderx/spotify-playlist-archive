@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-260 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+261 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-15 | 2022-06-28 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 |  |
 | [Hours Make Ours](https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL) | [Emmitt Dupree](https://open.spotify.com/artist/79MziQbpN1acq1nd6ixrkd) | [Hours Make Ours](https://open.spotify.com/album/59Ctl8fCrvgd9ogAdIwH30) | 3:33 | 2022-02-14 | 2022-05-08 |
-| [I Been](https://open.spotify.com/track/1k3batDg2rqg6NjXWDDgsM) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HAN](https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh) | 2:56 | 2021-12-15 |  |
+| [I Been](https://open.spotify.com/track/1k3batDg2rqg6NjXWDDgsM) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HAN](https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh) | 2:56 | 2021-12-15 | 2022-10-17 |
 | [I Got It](https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [I Got It](https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb) | 3:27 | 2022-04-07 |  |
 | [I Know I Know I Know](https://open.spotify.com/track/1dpGE0PERvAOk0kSpzcBzN) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [I Know I Know I Know](https://open.spotify.com/album/1vaQ8RLfPE0BmQsEKKT5ab) | 4:04 | 2021-12-15 | 2022-07-29 |
 | [I Miss My Dawgs](https://open.spotify.com/track/1nkWeF77qk4RkLpn4omPWL) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/0sUDfuTYoVshMqFstFSrNz) | 2:22 | 2022-06-30 | 2022-10-13 |
@@ -105,6 +105,7 @@
 | [I Will Never Know \(feat\. Moonchild\)](https://open.spotify.com/track/7eFSQgm9Qtsn7Y9jwPc1iB) | [Tall Black Guy](https://open.spotify.com/artist/2bz6GlqjAN5fTFWvy0rmSP), [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Let's Take a Trip](https://open.spotify.com/album/4UkcxqEtjFwvjJyGO71FsU) | 4:36 | 2021-12-15 | 2022-04-21 |
 | [I Wish](https://open.spotify.com/track/5EUPK2x1wJ5bERxjQ47lKv) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [I Wish](https://open.spotify.com/album/5WeI0airp8xZmmalIwKtNP) | 3:48 | 2021-12-15 | 2022-10-13 |
 | [I Wonder Why](https://open.spotify.com/track/2HpDcssMlgQXfmAUYhePIP) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1N7U7alOZtbA2m3AyAPEXf) | 3:48 | 2021-12-15 | 2022-10-13 |
+| [I Wonder Why](https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD) | 3:48 | 2022-10-14 |  |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2021-12-15 |  |
 | [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2022-06-30 |  |
 | [I'm a Rock](https://open.spotify.com/track/4hpmG15B0IJcB88PgrHu1U) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/3AYbVMgPfYy8JcnTkHzktt) | 3:24 | 2021-12-15 | 2022-07-29 |

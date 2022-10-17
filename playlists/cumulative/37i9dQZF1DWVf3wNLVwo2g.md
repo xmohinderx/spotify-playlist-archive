@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-257 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+258 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Breathe \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:54 | 2021-09-14 |  |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-03-08 |  |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-09-14 | 2022-10-13 |
-| [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-09-14 |  |
+| [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-09-14 | 2022-10-17 |
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2021-09-14 |  |
 | [Coloring Outside The Lines \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:48 | 2021-09-14 |  |
 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 | 2021-09-14 |  |
@@ -156,6 +156,7 @@
 | [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 | 2021-09-14 |  |
 | [No Ordinary Love – Recorded at RAK Studios, London](https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Spotify Singles](https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR) | 3:51 | 2021-09-14 |  |
 | [Normal \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:31 | 2021-09-14 |  |
+| [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 | 2022-03-08 |  |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-09-14 | 2022-10-14 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2021-09-14 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 |  |

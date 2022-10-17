@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/5pGhOkxPBtfdTLLevyZxgK)
+114 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/5pGhOkxPBtfdTLLevyZxgK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,9 +96,10 @@
 | [Overload 2](https://open.spotify.com/track/38tyJTQNH3CX0TBaSL6Nph) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Overload 2](https://open.spotify.com/album/0FUMpRiaQSexzpDp2XKDDO) | 3:38 | 2022-02-21 | 2022-02-23 |
 | [Pain Killer](https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:30 | 2021-12-28 |  |
 | [Pon D Ting \(feat\. Banky W\)](https://open.spotify.com/track/6Zb7dUqj1DyGgJu90TMerQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:11 | 2021-12-28 | 2022-10-13 |
+| [Psalm 35](https://open.spotify.com/track/0SuVrH28fX2pHzKpFuYQny) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Shay On You](https://open.spotify.com/album/1hTBtOkNbOrwbHVieubMke) | 3:32 | 2022-10-16 |  |
 | [Rollies and Cigars](https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:27 | 2021-12-28 |  |
 | [Round 2 \(feat\. Giggs\)](https://open.spotify.com/track/3DvvlGRUru088PLXlzlcEG) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:56 | 2022-01-01 | 2022-03-23 |
-| [Saa Okodie No \(feat\. Obrafour\)](https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:08 | 2022-02-09 |  |
+| [Saa Okodie No \(feat\. Obrafour\)](https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:08 | 2022-02-09 | 2022-10-17 |
 | [Saara](https://open.spotify.com/track/3386NCYBvMZAxIagIBIIRv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Saara](https://open.spotify.com/album/7LoPpiCoplyvf4dcVY91u9) | 3:19 | 2021-12-28 | 2022-04-18 |
 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:19 | 2022-04-17 |  |
 | [Shake Body](https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU) | [Masta Groove](https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY) | 3:09 | 2022-09-10 |  |

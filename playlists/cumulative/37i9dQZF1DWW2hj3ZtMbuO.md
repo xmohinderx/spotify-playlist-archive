@@ -4,7 +4,7 @@
 
 > Sitting on your green velvet couch, thinking of her <3
 
-283 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
+284 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 | 2021-12-15 |  |
 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 | 2021-12-15 | 2022-02-25 |
 | [Child Psychology](https://open.spotify.com/track/68lYnrHMQlCNmVpvyeVfrq) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/6iVmyoxtAHZ0hfOiHetcpf) | 4:08 | 2022-04-06 | 2022-07-26 |
-| [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 | 2022-10-06 |  |
+| [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 | 2022-10-06 | 2022-10-17 |
 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 | 2022-04-29 | 2022-07-15 |
 | [Columbia River](https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [4E](https://open.spotify.com/album/2UDkmwKTN9KsyF3204XjhL) | 4:42 | 2021-12-15 |  |
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2022-01-08 |  |
@@ -162,6 +162,7 @@
 | [Me and you](https://open.spotify.com/track/0oX15d4iZ7tKoAEvbZV5O8) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/1FVfYBlG0W1RDyUReije3t) | 3:00 | 2022-01-08 | 2022-02-06 |
 | [megan fox](https://open.spotify.com/track/1ZO1oxKK88xOhvJnA1QDPM) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [megan fox](https://open.spotify.com/album/2adAlemQTvmOKs5PHY0ugx) | 2:29 | 2022-04-06 | 2022-07-29 |
 | [Michelle](https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:34 | 2021-12-15 | 2022-02-19 |
+| [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 | 2022-10-06 |  |
 | [midnight love](https://open.spotify.com/track/4ys4z4bBUtTmzfjWtYnoli) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:13 | 2022-06-10 | 2022-10-13 |
 | [mom i think im gay](https://open.spotify.com/track/4XbuSG13zneXPZCo8jwMVd) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Garden Spider](https://open.spotify.com/album/2Rce9iaorOTzyyPSRjJsz5) | 2:47 | 2021-12-15 | 2022-07-29 |
 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2022-02-11 |  |

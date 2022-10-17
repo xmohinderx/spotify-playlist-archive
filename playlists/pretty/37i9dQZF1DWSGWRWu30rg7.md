@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Avolia  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,172 likes - 32 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,177 likes - 32 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

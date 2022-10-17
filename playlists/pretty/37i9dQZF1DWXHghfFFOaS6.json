@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 229220,
+  "num_followers": 229468,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMGYwZjNmYWVmZTJjYzZmMmQ1YTgxOTE0OGM3NDY0ZTZm",
+  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDY1NmI0ZDFjYmFjYmU2ODY2ZTNmZTg0ODUzMjBjNzhl",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
-      },
-      "artists": [
-        {
-          "name": "The Blackbyrds",
-          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
-        }
-      ],
-      "duration_ms": 352400,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Soundpieces: Da Antidote",
         "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 165693,
       "name": "Whenimondamic",
       "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
+      },
+      "artists": [
+        {
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
+        }
+      ],
+      "duration_ms": 352400,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Adrenalin",
+        "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
+      },
+      "artists": [
+        {
+          "name": "David Bendeth",
+          "url": "https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe"
+        }
+      ],
+      "duration_ms": 410319,
+      "name": "Feel The Real",
+      "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "I'll Be With You",
         "url": "https://open.spotify.com/album/5MSJrMjqWAWs1H64tXzuqR"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Adrenalin",
-        "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
-      },
-      "artists": [
-        {
-          "name": "David Bendeth",
-          "url": "https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe"
-        }
-      ],
-      "duration_ms": 410319,
-      "name": "Feel The Real",
-      "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "A Joyful Noise Unto The Creator",
         "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 355533,
       "name": "Prince Of Peace",
       "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Jazzie's Groove",
+      "url": "https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -739,22 +755,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Jazzie's Groove",
-      "url": "https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The People Tree",
         "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
       },
@@ -787,26 +787,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
+        "name": "High Times: Singles 1992-2006",
+        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
       },
       "artists": [
         {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
-        },
-        {
-          "name": "Tanya Morgan",
-          "url": "https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG"
-        },
-        {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 226920,
-      "name": "All or Nothing",
-      "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
+      "duration_ms": 222000,
+      "name": "Alright - Remastered",
+      "url": "https://open.spotify.com/track/5sBSotSAMpBlz97tLswT7v"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -827,18 +819,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "High Times: Singles 1992-2006",
-        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        },
+        {
+          "name": "Tanya Morgan",
+          "url": "https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Alright - Remastered",
-      "url": "https://open.spotify.com/track/5sBSotSAMpBlz97tLswT7v"
+      "duration_ms": 226920,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Rewind, Vol. 4",
+        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
+      },
+      "artists": [
+        {
+          "name": "The Rebirth",
+          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
+        }
+      ],
+      "duration_ms": 333106,
+      "name": "Evil Vibrations",
+      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Rewind, Vol. 4",
-        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
-      },
-      "artists": [
-        {
-          "name": "The Rebirth",
-          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
-        }
-      ],
-      "duration_ms": 333106,
-      "name": "Evil Vibrations",
-      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "And Now The Legacy Begins",
         "url": "https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 220000,
       "name": "Wash Your Face In My Sink",
       "url": "https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Leaves of Memories",
-        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
-      },
-      "artists": [
-        {
-          "name": "Kwaj",
-          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
-        },
-        {
-          "name": "V. Soul",
-          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Clouds in the Sky",
-      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 263576,
       "name": "Holy Sun",
       "url": "https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Leaves of Memories",
+        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
+      },
+      "artists": [
+        {
+          "name": "Kwaj",
+          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
+        },
+        {
+          "name": "V. Soul",
+          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Clouds in the Sky",
+      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+        "name": "The Sun )",
+        "url": "https://open.spotify.com/album/0c7qsiBET91icyneq7KccE"
       },
       "artists": [
         {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
+        },
+        {
+          "name": "Elson Nascimento (of Sun Ra Arkestra)",
+          "url": "https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn"
         }
       ],
-      "duration_ms": 470520,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
+      "duration_ms": 176342,
+      "name": "The Sun )",
+      "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Sun )",
-        "url": "https://open.spotify.com/album/0c7qsiBET91icyneq7KccE"
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
       },
       "artists": [
         {
-          "name": "The Du-Rites",
-          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
-        },
-        {
-          "name": "Elson Nascimento (of Sun Ra Arkestra)",
-          "url": "https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn"
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
         }
       ],
-      "duration_ms": 176342,
-      "name": "The Sun )",
-      "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
+      "duration_ms": 470520,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Sleazeball",
+        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
+      },
+      "artists": [
+        {
+          "name": "Night Trains",
+          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Always There: 1981-2021 (40 Years & Still Groovin\u2019)",
         "url": "https://open.spotify.com/album/1gcxfIY8oeRYr203cTsjVP"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 343600,
       "name": "You Are In My System",
       "url": "https://open.spotify.com/track/2kSStoNv9O3SLvOXebvuVt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Sleazeball",
-        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
-      },
-      "artists": [
-        {
-          "name": "Night Trains",
-          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
     },
     {
       "added_at": "2022-07-14 19:24:43",

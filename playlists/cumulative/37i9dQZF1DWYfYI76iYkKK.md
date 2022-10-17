@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-157 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+158 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 | 2022-07-28 | 2022-09-09 |
 | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/track/61wIEHBhxCURz08r0E4pzg) | [FS \(Fuying & Sam\)](https://open.spotify.com/artist/0vWI4yyM1HXGoK0tkHqbGi) | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/album/3JDLRMAREurKUXxHpdeDw1) | 4:35 | 2022-07-21 | 2022-07-27 |
 | [可惜不愛了](https://open.spotify.com/track/1KmlwGRzoI8OhzBUTIvJtX) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [來者何人n!](https://open.spotify.com/album/6PzBtNMygnrKVLoQGxLgsj) | 3:54 | 2022-06-10 | 2022-07-09 |
+| [可能是比較內向而已](https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [可能是比較內向而已](https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN) | 3:51 | 2022-10-06 |  |
 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2022-06-02 |  |
 | [喜寶 \- 電影《喜寶》同名推廣曲](https://open.spotify.com/track/5UCJLm1qwdh66cmHfkW3Ge) | [Amber Kuo](https://open.spotify.com/artist/4x5ldH1RO3ezKX4ZVd3CUo) | [喜寶\-電影《喜寶》同名推廣曲](https://open.spotify.com/album/3IEjtX05ROjlMgARuBQpP4) | 3:32 | 2022-06-16 | 2022-07-28 |
 | [四月是適合說謊的日子](https://open.spotify.com/track/3IAct7dgBXQmRNcnYvnWFo) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [四月是適合說謊的日子](https://open.spotify.com/album/3JZL4Qn4Ho4FrRjk2CmyXA) | 5:16 | 2022-06-10 | 2022-07-28 |
@@ -111,7 +112,7 @@
 | [明天再見](https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [明天再見](https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx) | 3:22 | 2022-08-08 | 2022-10-15 |
 | [是真的](https://open.spotify.com/track/7x3DALEaUQMlSEbbmOO2sL) | [陳曉東](https://open.spotify.com/artist/1XYZT911VpRwP311djiYHM) | [是真的](https://open.spotify.com/album/3VPjlieNDk642y3Eyf8HYx) | 3:51 | 2022-06-10 | 2022-06-14 |
 | [時間的輪](https://open.spotify.com/track/5cze6ZSsHwLVIRMRS9h8Hg) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [時間的輪](https://open.spotify.com/album/3De0h0EROxVD9ljubGI5r8) | 3:32 | 2022-06-30 | 2022-07-05 |
-| [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-04 |  |
+| [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-04 | 2022-10-17 |
 | [最後一封情書](https://open.spotify.com/track/60SwCZbyJ9OmAiGJkLVsgl) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ), [莫子儀](https://open.spotify.com/artist/7wJwYpnCLPuT1gndVaQTYk) | [失物之城](https://open.spotify.com/album/5nHnPgrbJGhhgl0UzytY8Y) | 4:22 | 2022-06-10 | 2022-06-12 |
 | [最想見到你 \(三立華劇《跟鯊魚接吻》插曲\)](https://open.spotify.com/track/0MG4aGAIEBKffiFRjZYCZi) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [44天](https://open.spotify.com/album/6tyHdfBJNMVgeiskGRCCyS) | 3:40 | 2022-06-02 | 2022-07-29 |
 | [最難的是相遇](https://open.spotify.com/track/1lbLGKmuocop4QeH9eVYew) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [最難的是相遇](https://open.spotify.com/album/7ftPr9gMt8UP3865rbXnvD) | 4:32 | 2022-06-02 | 2022-07-29 |

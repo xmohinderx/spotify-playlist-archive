@@ -4,7 +4,7 @@
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-188 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/4XQxIpr1b9y5T9BKvj7rBC)
+189 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/4XQxIpr1b9y5T9BKvj7rBC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 | 2022-06-06 |  |
 | [Ain't No Grave](https://open.spotify.com/track/33gHvO5eLnhxKHgGDu6xu9) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken by a Low Sound](https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8) | 3:21 | 2021-08-16 | 2022-07-29 |
 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 | 2021-08-16 |  |
-| [All The World Is Green \- Live](https://open.spotify.com/track/0FD1tOUxkiOXgR9d9uy9ou) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [All The World Is Green \(Live\)](https://open.spotify.com/album/1H6aRajw8KS87O6ejew73Y) | 4:52 | 2022-08-12 |  |
+| [All The World Is Green \- Live](https://open.spotify.com/track/0FD1tOUxkiOXgR9d9uy9ou) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [All The World Is Green \(Live\)](https://open.spotify.com/album/1H6aRajw8KS87O6ejew73Y) | 4:52 | 2022-08-12 | 2022-10-17 |
 | [An Honest Man](https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito \- EP](https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk) | 4:04 | 2021-08-16 | 2022-07-28 |
 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 | 2022-06-06 |  |
 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 | 2021-08-16 |  |
@@ -29,6 +29,7 @@
 | [Barley](https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf) | [Real Midnight](https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ) | 3:04 | 2021-08-16 | 2022-08-22 |
 | [Bartholomew](https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults](https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3) | 3:06 | 2021-08-16 | 2022-07-13 |
 | [Bartholomew](https://open.spotify.com/track/2fzp6ojPHvZaz4uHXxpJVk) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults \(Remastered Deluxe Edition\)](https://open.spotify.com/album/0am5E1PQGgwMlrsH5mLYtu) | 3:07 | 2022-06-06 | 2022-10-14 |
+| [Bartholomew](https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults \(Remastered Deluxe Edition\)](https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE) | 3:07 | 2022-06-06 |  |
 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 | 2021-08-16 | 2022-07-29 |
 | [Barton Hollow](https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:25 | 2022-06-06 |  |
 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 | 2022-06-06 |  |

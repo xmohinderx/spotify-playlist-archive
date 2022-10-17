@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,344 likes - 100 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,391 likes - 100 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 21 | [Jaffar](https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Jaffar](https://open.spotify.com/album/1gGWOsCs7X7Ve7oABfBpZk) | 8:22 |
 | 22 | [The Clarinetto](https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771) | [Lele Cecchini](https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E), [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [The Clarinetto](https://open.spotify.com/album/635atptPBSgJZjOnYtcssp) | 4:43 |
 | 23 | [Imagine \- Abel Ray Remix \- Mixed](https://open.spotify.com/track/7cNkTZhYHQyeR5ya1csbvT) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Sol Voyage 004 \- Night In The Medina \(DJ Mix\)](https://open.spotify.com/album/717xz0OL00IGZr2vA9mztH) | 5:42 |
-| 24 | [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 |
+| 24 | [Tuhan](https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm) | 7:44 |
 | 25 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 |
 | 26 | [Red Tree \- Tebra Remix](https://open.spotify.com/track/4QjUPodE9OOPT9gLsJkziX) | [Tuba Twooz](https://open.spotify.com/artist/7dk54rOVrS7HSNRWRLu8Bt), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Red Tree](https://open.spotify.com/album/0uDsXtAdZXHwYUCp898xqI) | 6:40 |
 | 27 | [Nabad](https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Helem](https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig) | 6:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Water](https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Trick Beat](https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1), [Djarah Kan](https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y) | [Water](https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB) | 7:06 |
 | 100 | [Yakar](https://open.spotify.com/track/2QgkP1kZPhav58whMHBOIr) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Lass](https://open.spotify.com/artist/3MRiVXzyKKIlt0WyYEQAkh) | [Yakar EP](https://open.spotify.com/album/3FTv2v8THnTT4IdmGC33cH) | 7:03 |
 
-Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDMzYzA2MDRmMWFjY2Q2MTYwY2U2YmQxNjU1ZjE5N2Yz`
+Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMGJiNWU3ZjY4YzI0MDk4NmJjYmQwNTg2NjA4ZjRhZjc3`

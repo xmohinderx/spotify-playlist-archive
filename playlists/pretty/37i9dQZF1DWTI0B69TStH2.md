@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Älskar \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,660 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,750 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 60 | [Dom](https://open.spotify.com/track/31wLPj7vBCSnD6SXQLS6Lq) | [Kryształ](https://open.spotify.com/artist/3tOIHY79OSE2ZdWJ1a74Zc) | [Dom](https://open.spotify.com/album/2KOiJQE5YXqE6dUs6arEYk) | 2:57 |
 | 61 | [Knots](https://open.spotify.com/track/22d598unvOtkJkWHok8etF) | [Julia Karr](https://open.spotify.com/artist/1FEJXDvd9W4zG3HnlOASy8) | [Knots](https://open.spotify.com/album/1tdr55o4EmZkYxI73y1vgL) | 3:15 |
 | 62 | [Ćma](https://open.spotify.com/track/1NM1BNTamkvNEG7Ak5R1B6) | [Mag Chlebowska](https://open.spotify.com/artist/7g5ztfTOd5w1e8yjYlJj8A) | [Ćma](https://open.spotify.com/album/4x3LyTAJKyE7JY5RZi0RcA) | 3:25 |
-| 63 | [Dwoje](https://open.spotify.com/track/18bEAdVcpTL2ff3axlPKqI) | [Chvost](https://open.spotify.com/artist/52igMo8EJG5hDLoY62CKp5) | [Dwoje](https://open.spotify.com/album/64hh9VjMvk3iLRyfpNlaeh) | 4:12 |
+| 63 | [Dwoje](https://open.spotify.com/track/50AfNMcVL7Kiaew7DIOTYL) | [Chvost](https://open.spotify.com/artist/52igMo8EJG5hDLoY62CKp5) | [Dwoje](https://open.spotify.com/album/0ReXliEj7OKsjH7i3gfP7W) | 4:12 |
 | 64 | [Świt co znajdzie głos](https://open.spotify.com/track/7bqTKn7IeOmtnrzgnRoU4j) | [OBRASQi](https://open.spotify.com/artist/7l3ni5iI7KKfx5MbAhZacH) | [szepty ciszy](https://open.spotify.com/album/77BrG9hqjZ140MttVd82hQ) | 7:30 |
 | 65 | [Kick Out the Damned](https://open.spotify.com/track/0bcIWRUGdkmJfXbnsqq7fh) | [Izzy and the Black Trees](https://open.spotify.com/artist/4ovgRYo5Ud9pCee7LoD2B3) | [Kick Out the Damned](https://open.spotify.com/album/6WAGay0uPTvriTJ4H77MIG) | 2:58 |
 | 66 | [Wilki](https://open.spotify.com/track/47nnPpFNAcDEtCEOOug1V9) | [Ada Kućmierz](https://open.spotify.com/artist/27fVMQ4NZu3bk2ViW6F7F8) | [Stanę się ziemią](https://open.spotify.com/album/48mivRybojPLUXm4DI7Fhc) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Lato](https://open.spotify.com/track/1hDolnaQOiFSTFHRbhT2p8) | [BIEL](https://open.spotify.com/artist/5lZeCbZyaGgTJ6GnEaE4h8) | [Lato](https://open.spotify.com/album/4Aal0CvunHt9qxBtieiNhQ) | 3:23 |
 | 100 | [Podziel](https://open.spotify.com/track/366dt7IaWIW0ugHvd4Bfth) | [Szacunek](https://open.spotify.com/artist/6KSMnUe8MKBprSNHSA3dx6) | [Podziel](https://open.spotify.com/album/6DGLYObBNWBG0aouX0Oalo) | 5:48 |
 
-Snapshot ID: `MTY2NTQzOTIwMCwwMDAwMDAwMGRlMTgwNzk3MTJiMjViN2JhNTE4ZWNiYWIxYmE2NjM5`
+Snapshot ID: `MTY2NTQzOTIwMCwwMDAwMDAwMDg5OTdlMmEzMGRjZjRmNGM0YTgwMWRiOTE3Y2JkMGU0`

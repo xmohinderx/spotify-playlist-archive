@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  Tani Yuuki",
+  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  BUMP OF CHICKEN",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 251720,
       "name": "3636",
       "url": "https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux"
@@ -367,6 +367,28 @@
       "duration_ms": 303218,
       "name": "BAD\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
+    },
+    {
+      "album": {
+        "name": "BE THE GROOVE",
+        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Mori Zentaro",
+          "url": "https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "BE THE GROOVE",
+      "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
     },
     {
       "album": {
@@ -766,6 +788,24 @@
     },
     {
       "album": {
+        "name": "Chrome Season",
+        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186176,
+      "name": "come again",
+      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+    },
+    {
+      "album": {
         "name": "crash",
         "url": "https://open.spotify.com/album/56TSISxm1MrlCkokyAD7UT"
       },
@@ -865,7 +905,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 223707,
       "name": "Curtain Call (feat. KEIJU, Ryohu & IO)",
       "url": "https://open.spotify.com/track/53bGUdj88QxmpuFnjc3YUx"
@@ -931,7 +971,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 199619,
       "name": "Deadstock",
       "url": "https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5"
@@ -1922,6 +1962,24 @@
     },
     {
       "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/18DQ9iePAAoZUFjnAaDG88"
+    },
+    {
+      "album": {
         "name": "HOPE / WISH",
         "url": "https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ"
       },
@@ -2229,7 +2287,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 160306,
       "name": "Keep going",
       "url": "https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg"
@@ -2515,7 +2573,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 243925,
       "name": "mabataki",
       "url": "https://open.spotify.com/track/1mzn53qwArYj52lIGpXXlD"
@@ -3824,6 +3882,24 @@
     },
     {
       "album": {
+        "name": "SKETCH",
+        "url": "https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "SKETCH",
+      "url": "https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj"
+    },
+    {
+      "album": {
         "name": "SLEEPLESS",
         "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
       },
@@ -4433,7 +4509,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 177662,
       "name": "Todai",
       "url": "https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m"
@@ -6403,7 +6479,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
@@ -8113,7 +8189,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 238873,
       "name": "\u611b\u306e\u30cd\u30bf\u30d0\u30ec",
       "url": "https://open.spotify.com/track/2vchHTJpJuoFHvosewuaQV"

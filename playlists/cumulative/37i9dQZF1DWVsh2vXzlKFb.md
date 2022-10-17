@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-287 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
+288 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 | 2021-08-13 | 2022-06-02 |
 | [Honeypie](https://open.spotify.com/track/1bt443XPmX5ZG5DjhMJ8Rh) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/1DrYnUi6jx0ClomBVvbjAY) | 2:15 | 2022-03-24 |  |
 | [Hope It's Not](https://open.spotify.com/track/3L42aM6tcSceGg7qGPHGKY) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Hope It's Not](https://open.spotify.com/album/2USkXE4xBKBL0K5cV2LK7B) | 2:42 | 2022-03-24 | 2022-05-23 |
-| [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-05-06 | 2022-10-16 |
+| [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-05-06 |  |
 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 | 2021-08-13 |  |
 | [How Dare You Want More \- Verdine White of Earth, Wind & Fire Remix](https://open.spotify.com/track/6xhRei2Te4AccMPnAFWven) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Stop Making This Hurt \(A\. G\. Cook Remix\) / How Dare You Want More \(Verdine White of Earth, Wind & Fire Remix\)](https://open.spotify.com/album/4dphMEA8aTNDk07kNjKLqv) | 2:59 | 2022-06-17 | 2022-07-29 |
 | [How Do I Cry?](https://open.spotify.com/track/4nrkr6IA1mPqLOU4Co67Vc) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [How Do I Cry?](https://open.spotify.com/album/7B6DIZbDBAWNJ5vTSp1vkj) | 3:01 | 2022-06-10 | 2022-07-18 |
@@ -123,7 +123,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-07-14 |  |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-06-22 | 2022-07-29 |
 | [I'll Get By](https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [I'll Get By](https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn) | 2:30 | 2021-08-13 | 2022-07-29 |
-| [IDC](https://open.spotify.com/track/43x8gg4AnsyCO5pWmWed1J) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [IDC](https://open.spotify.com/album/5hR9rhURMQx8oewiccoNS8) | 3:45 | 2022-03-24 |  |
+| [IDC](https://open.spotify.com/track/43x8gg4AnsyCO5pWmWed1J) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [IDC](https://open.spotify.com/album/5hR9rhURMQx8oewiccoNS8) | 3:45 | 2022-03-24 | 2022-10-17 |
 | [IDK](https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [IDK](https://open.spotify.com/album/15GbsI16l3f6XhdEVxn0EM) | 3:26 | 2021-08-13 | 2022-07-27 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 | 2022-03-24 |  |
 | [In Degrees](https://open.spotify.com/track/2muJzxNCRL7M2QeCmjPubU) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Pt\. 1](https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc) | 4:57 | 2022-03-24 | 2022-04-19 |
@@ -217,6 +217,7 @@
 | [Something About You](https://open.spotify.com/track/0kFFvTvmSgJeNkVKPFaplu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Something About You](https://open.spotify.com/album/16W9q4d4jeOqHsWqXvNQnU) | 2:33 | 2022-03-24 | 2022-04-20 |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2022-07-14 |  |
 | [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 | 2021-08-13 | 2022-10-13 |
+| [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 | 2022-08-25 |  |
 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 | 2022-03-24 |  |
 | [Spring / Sun / Winter / Dread](https://open.spotify.com/track/0Ou9ZGEhuxJwu5SbEp2XQp) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Get To Heaven \(Deluxe\)](https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J) | 3:18 | 2021-08-13 | 2022-05-21 |
 | [Start Again](https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Start Again](https://open.spotify.com/album/36YtEo95psh4gVMQYaEmgA) | 2:57 | 2021-08-13 | 2022-07-29 |
@@ -233,7 +234,7 @@
 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 | 2021-08-13 | 2022-07-29 |
 | [Surfing \- feat\. Plastic Plastic](https://open.spotify.com/track/3oY8TfWLkGJiJ8zcrANX8I) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Plastic Plastic](https://open.spotify.com/artist/09QpmkDaFqi8iqZYLUvGNt) | [Surfing \(feat\. Plastic Plastic\)](https://open.spotify.com/album/4b9jBUBYHJrEdpGInIduSc) | 3:18 | 2022-03-24 | 2022-04-17 |
 | [Sympathetic Vibrations](https://open.spotify.com/track/0y8HL66eDhCCT7dLCHoHZd) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [Escaping from a Violent Time, Vol\. 1](https://open.spotify.com/album/2RSxh9GKlkFEAJUL8igKa4) | 3:36 | 2021-08-13 |  |
-| [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 | 2022-05-06 |  |
+| [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 | 2022-05-06 | 2022-10-17 |
 | [T\-Shirt Weather](https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers](https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i) | 3:12 | 2022-07-14 |  |
 | [T\-Shirt Weather](https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ) | 3:14 | 2021-08-13 | 2022-07-29 |
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2021-08-13 |  |

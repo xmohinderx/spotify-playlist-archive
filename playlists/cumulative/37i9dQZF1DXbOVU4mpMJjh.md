@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-414 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+415 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Love and Peace](https://open.spotify.com/track/7kdZlgkWHnivQNSGe6AsTa) | [Joachim Kühn](https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Chris Jennings](https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1) | [Love & Peace](https://open.spotify.com/album/7LhEJGta4uIPtAMC5AQm5n) | 1:59 | 2022-04-14 | 2022-10-08 |
 | [Love Is the Message](https://open.spotify.com/track/14hKtzUqlI1Sa1nfq0GXR3) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Love Is the Message](https://open.spotify.com/album/3xY7kpCMNcluddObRM7vRl) | 7:29 | 2022-04-14 | 2022-04-27 |
 | [Love Jumped Out](https://open.spotify.com/track/3INugpDQxj3H8UlGg0zigo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 7:46 | 2022-04-14 | 2022-09-23 |
+| [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2022-08-29 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/4QJTE3XQIN8lY4RBwc2c6w) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Complete Originals Recordings](https://open.spotify.com/album/4bBf66yUpwGmjvfnEQgJJB) | 4:15 | 2022-04-14 | 2022-08-31 |
 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 | 2022-04-14 | 2022-10-08 |
@@ -385,7 +386,7 @@
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-29 |  |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-16 |  |
 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 | 2022-04-14 | 2022-10-08 |
-| [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-11 |  |
+| [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-11 | 2022-10-17 |
 | [Turiya & Ramakrishna](https://open.spotify.com/track/4DVu7YgHVJaeN0C7HNpy2q) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD) | 8:18 | 2022-04-14 | 2022-04-28 |
 | [Turn Down the Lights](https://open.spotify.com/track/0ogRwGa7KtCUBF2PKJKO3F) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 2:57 | 2022-09-15 |  |
 | [Turn Out the Stars](https://open.spotify.com/track/5jD6uLibX1R7wKGFJ6zx4N) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tenor Madness](https://open.spotify.com/album/5FxWL2Ad3i7pqcouKIeXJM) | 5:01 | 2022-04-14 | 2022-10-03 |

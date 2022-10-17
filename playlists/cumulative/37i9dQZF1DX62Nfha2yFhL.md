@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-81 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+82 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 | 2022-02-18 |  |
 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 | 2021-10-22 |  |
 | [Love You Bad \(feat\. Phoelix\)](https://open.spotify.com/track/1BkK2fQUGALz7AaOSo7Swh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:48 | 2021-10-22 |  |
-| [Lucky Me](https://open.spotify.com/track/066XcsGBMGUpamyOkH2xXX) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/3mibhG0wF43mAZJIOVkxfm) | 3:42 | 2022-10-14 |  |
+| [Lucky Me](https://open.spotify.com/track/066XcsGBMGUpamyOkH2xXX) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/3mibhG0wF43mAZJIOVkxfm) | 3:42 | 2022-10-14 | 2022-10-17 |
+| [Lucky Me](https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 3:42 | 2022-10-14 |  |
 | [Mariposa](https://open.spotify.com/track/0D15z5l7YWqwyJ8wkO2oaA) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [There's Only Being Yourself](https://open.spotify.com/album/39M0gBqg32iFT5unERsKXv) | 3:04 | 2021-10-22 |  |
 | [Message](https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 3:26 | 2022-10-07 |  |
 | [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 | 2022-09-09 |  |

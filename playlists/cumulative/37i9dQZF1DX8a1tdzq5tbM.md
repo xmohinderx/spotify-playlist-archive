@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance radio</a> hits from the 90s and 00s!
 
-207 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/6IKSKLiJj6eKbX4pw7OX7K)
+208 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/6IKSKLiJj6eKbX4pw7OX7K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Faded](https://open.spotify.com/track/2nJT8KecVBQmZxbfkgoAfz) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Perfect Day](https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm) | 2:49 | 2020-03-31 | 2022-05-18 |
 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 | 2020-03-31 | 2022-07-29 |
 | [Feel Your Love \- Radio Edit with Intro](https://open.spotify.com/track/3gB5UMJqzC8Mt6ZBvGH8sP) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Feel Your Love](https://open.spotify.com/album/4yJ9bCIWrzwwC4P6VuesIu) | 3:20 | 2022-02-28 |  |
+| [Fight For You \- Sultan & Ned Shephard Remix Radio Edit](https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Fight For You](https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb) | 3:56 | 2022-02-28 |  |
 | [Fight For You \- Sultan & Ned Shephard Remix Radio Edit](https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Ned Shephard](https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr), [Sultan](https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b) | [Fight For You](https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1) | 3:56 | 2020-03-31 | 2022-10-14 |
 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 | 2020-03-31 |  |
 | [Fire](https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh) | 4:31 | 2020-03-31 | 2022-07-29 |
@@ -144,7 +145,7 @@
 | [Love Is Gone \- Fred Riester & Joachim Garraud Radio Edit Remix](https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly), [Fred Riester](https://open.spotify.com/artist/26wzW8jdKfy5i8U7kGmGbE), [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2) | [Pop Life](https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG) | 3:19 | 2022-02-28 |  |
 | [Love Is Gone \- Fred Rister & Joachim Garraud Radio Edit Mix](https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pop Life](https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF) | 3:21 | 2020-03-31 | 2022-07-29 |
 | [Make Your Move \- Radio Edit](https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe) | [Dave Armstrong](https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7) | [Make Your Move](https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV) | 2:51 | 2020-03-31 |  |
-| [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 | 2020-03-31 |  |
+| [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 | 2020-03-31 | 2022-10-17 |
 | [Medicine](https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9) | [Kim Leoni](https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b) | [Medicine](https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey) | 2:49 | 2020-03-31 |  |
 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/36sL3KPEfXIp5KH3tDO7oo) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/6ZMxoed3JJVjSzDQ2iVeYN) | 4:09 | 2020-03-31 |  |
 | [Move For me](https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc) | 3:57 | 2022-02-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 11549,
+  "num_followers": 11572,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMGM3NjdkZjFmN2E3MWYxMGE1YThmMjViZGQ4OTE3MTA3",
+  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDg3M2EyNzQ4ODY5OGM3YTc5MWNkNjAwN2U3OTcxYjAw",
   "tracks": [
     {
       "added_at": "2022-10-07 08:48:01",
@@ -219,18 +219,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+        "name": "The Ivory Hunters",
+        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
       "artists": [
         {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 362040,
-      "name": "With A Little Bit Of Luck - Instrumental",
-      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
+      "duration_ms": 446066,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -267,6 +271,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 362040,
+      "name": "With A Little Bit Of Luck - Instrumental",
+      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
         "name": "Son Of Gunn!!",
         "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 289360,
       "name": "Blue Steel",
       "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
-        "name": "The Ivory Hunters",
-        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 446066,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 379400,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "This Is How I Feel About Jazz",
         "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 219760,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -635,22 +635,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
-        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+        "name": "Westward Bound! (Live)",
+        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
         },
         {
-          "name": "Bud Powell Quartet",
-          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
+          "name": "Carmell Jones",
+          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
+      "duration_ms": 518000,
+      "name": "Happily Dancing / Deep Harmonies Falling - Live",
+      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -671,22 +671,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Westward Bound! (Live)",
-        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
+        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
+        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
       "artists": [
         {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         },
         {
-          "name": "Carmell Jones",
-          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
+          "name": "Bud Powell Quartet",
+          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
         }
       ],
-      "duration_ms": 518000,
-      "name": "Happily Dancing / Deep Harmonies Falling - Live",
-      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
+      "duration_ms": 225906,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
-      },
-      "artists": [
-        {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Shorty Rodgers Courts The Count",
         "url": "https://open.spotify.com/album/79crFBHL0AC42MEgShce76"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 262967,
       "name": "Swingin' The Blues",
       "url": "https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "Verve Jazz Masters 52: Maynard Ferguson",
+        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Willie Nillie",
+      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
     }
   ],
   "unique_name": "West Coast Jazz",

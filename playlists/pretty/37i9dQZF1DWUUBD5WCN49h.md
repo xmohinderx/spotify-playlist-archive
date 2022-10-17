@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=OUWYxk0ySGe5m\_n13WKeQA"> Dami Oniru</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,451 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,468 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 32 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 |
 | 33 | [Bird](https://open.spotify.com/track/014HTC0i178dC8vOoYuUqA) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [Bird](https://open.spotify.com/album/7iIbb8X14YRGEJMH1Ff8uK) | 3:01 |
 | 34 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
-| 35 | [Beautiful](https://open.spotify.com/track/0BO57WBcIJXNgGI4X4nMxp) | [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Mona Lee](https://open.spotify.com/artist/2TgJbYG1Xj4Pyh8hVnIdYR) | [Beautiful](https://open.spotify.com/album/2pvpi4OiBdrFqAzhWmL4s1) | 2:37 |
+| 35 | [Beautiful](https://open.spotify.com/track/0BO57WBcIJXNgGI4X4nMxp) | [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Mona Lee](https://open.spotify.com/artist/31SwU8B82fHBnE0CGNxKSx) | [Beautiful](https://open.spotify.com/album/2pvpi4OiBdrFqAzhWmL4s1) | 2:37 |
 | 36 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 37 | [I Want To](https://open.spotify.com/track/2bdOTedTdlAmv78Ed10A6l) | [Hairlergbe](https://open.spotify.com/artist/409iLYAmXo8LPoXTW4CQa5) | [I Want To](https://open.spotify.com/album/5uDPaLBvxk6V7ukHLczGcP) | 3:00 |
 | 38 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 |

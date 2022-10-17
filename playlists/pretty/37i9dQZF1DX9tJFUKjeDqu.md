@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,299 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,336 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 26 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 |
 | 27 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 |
 | 28 | [Stormy Sea](https://open.spotify.com/track/5sRBN3gSOlHizpDLn7hLJo) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Stormy Sea](https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p) | 2:44 |
-| 29 | [Soo Soo](https://open.spotify.com/track/0EzT3qO62R3kFqQGpctHcM) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Ein Blick](https://open.spotify.com/album/7rjXWcL9kIqmAMsa9aWRel) | 5:40 |
+| 29 | [Soo Soo](https://open.spotify.com/track/2sZxRxTAZIIWqBQzbWNSrf) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Ein Blick](https://open.spotify.com/album/7x4IzBaABfeN8i6OD7NnJN) | 5:40 |
 | 30 | [Cristo Redentor](https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 5:12 |
 | 31 | [Rainy Day Blues \- Instrumental](https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Rainy Day Blues \(Instrumental\)](https://open.spotify.com/album/6I4k1yLhMfuJGl7j680IXi) | 2:28 |
 | 32 | [A Blues for the Worried Minds](https://open.spotify.com/track/4epUUIQ8Uf89fzMP9hvjmg) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [A Blues for the Worried Minds](https://open.spotify.com/album/6j7tExly5611q8eH7ybAKf) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 69 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 | 70 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 |
 
-Snapshot ID: `MTY2NTc2MjkwMywwMDAwMDAwMDlmYzk2ZGZkMDg3YTRhMWE2NGE5MzI0NTU2MWJkN2Iz`
+Snapshot ID: `MTY2NTc2MjkwMywwMDAwMDAwMDA3ZTQxMGExZjE4NzY0YTQwZWQxMjJlYTllNTU2ODgx`

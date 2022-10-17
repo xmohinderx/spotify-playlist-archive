@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 117705,
+  "num_followers": 117708,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTgxMDYyMywwMDAwMDAwMDg4MjhkZTJhODVmNzU3NWNlNDhhYTFmODA2NTE3MWVl",
+  "snapshot_id": "MTY2NTgxMDYyMywwMDAwMDAwMDJjODQyNjY3ZWE5MTQ2ZjA3NWEwOTZlYTE2MjI0NjY1",
   "tracks": [
     {
       "added_at": "2022-10-15 05:10:23",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "N\u00e5t i vattnet",
+        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "N\u00e5t i vattnet",
+      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "Karlavagnen",
         "url": "https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5"
       },
@@ -563,6 +579,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
         "url": "https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm"
       },
@@ -583,22 +615,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 323186,
       "name": "V\u00e4ntar p\u00e5 en solig dag",
       "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "N\u00e5t i vattnet",
-        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "N\u00e5t i vattnet",
-      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Once in a While [smile]",
-        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "Once in a While [smile]",
-      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "Santiago",
         "url": "https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 178526,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Once in a While [smile]",
+        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 179954,
+      "name": "Once in a While [smile]",
+      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "MER",
-        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 153987,
-      "name": "MER",
-      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "N\u00e4r vinden bl\u00e5ser kallt",
         "url": "https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM"
       },
@@ -1231,6 +1215,54 @@
       "duration_ms": 157124,
       "name": "N\u00e4r vinden bl\u00e5ser kallt",
       "url": "https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Too Late for Edelweiss",
+        "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 183775,
+      "name": "Metal Firecracker",
+      "url": "https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "MER",
+        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 153987,
+      "name": "MER",
+      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Solen i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Solen i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1275,38 +1307,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Solen i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Solen i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "Too Late for Edelweiss",
-        "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 183775,
-      "name": "Metal Firecracker",
-      "url": "https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "\u00c4lskling EP",
-        "url": "https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Aldrig mer tillbaka",
-      "url": "https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Got To Rise Up",
-        "url": "https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95"
+        "name": "\u00c4lskling EP",
+        "url": "https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS"
       },
       "artists": [
         {
-          "name": "Tusse",
-          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
         }
       ],
-      "duration_ms": 208163,
-      "name": "Got to Rise Up",
-      "url": "https://open.spotify.com/track/5aToZdZnp4n0wb4UXZWXsy"
+      "duration_ms": 176640,
+      "name": "Aldrig mer tillbaka",
+      "url": "https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1411,6 +1395,22 @@
       "duration_ms": 191604,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Got To Rise Up",
+        "url": "https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95"
+      },
+      "artists": [
+        {
+          "name": "Tusse",
+          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Got to Rise Up",
+      "url": "https://open.spotify.com/track/5aToZdZnp4n0wb4UXZWXsy"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Aldrig s\u00e4ga aldrig",
-        "url": "https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 190454,
-      "name": "Aldrig s\u00e4ga aldrig",
-      "url": "https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "Too Late for Edelweiss",
         "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 247461,
       "name": "Tears Are In Your Eyes",
       "url": "https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Aldrig s\u00e4ga aldrig",
+        "url": "https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 190454,
+      "name": "Aldrig s\u00e4ga aldrig",
+      "url": "https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "P\u00e5 En L\u00f6rdag",
+        "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 152701,
+      "name": "P\u00e5 En L\u00f6rdag",
+      "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "F\u00f6rst\u00e5r Det Nu",
         "url": "https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 178213,
       "name": "Allt jag kan",
       "url": "https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
-        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 200976,
-      "name": "Fint i m\u00f6rker",
-      "url": "https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX"
     }
   ],
   "unique_name": "Made in Sweden",

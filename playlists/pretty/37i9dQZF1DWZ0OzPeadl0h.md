@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,207 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,326 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 50 | [Bite](https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:32 |
 | 51 | [Hollow](https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 4:18 |
 | 52 | [Accidents](https://open.spotify.com/track/6sJ6paFtmXrcbBMhW94dWw) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Accidents](https://open.spotify.com/album/77A6BeZfpmGsRhZl0Npc91) | 3:28 |
-| 53 | [Arion](https://open.spotify.com/track/5N1lBGr8HTVSALXWlysjbh) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/76Aij6SHMe6hJgDNSuAUhQ) | 5:28 |
+| 53 | [Arion](https://open.spotify.com/track/2l3KOlpMv5GOV7pATxXa30) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 5:28 |
 | 54 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 |
 | 55 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 56 | [BE OK](https://open.spotify.com/track/2qzByN3XSyRZAOJA5CBsQV) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [CLEAR](https://open.spotify.com/album/5Awez3x6KU5lKsHCJjGWWi) | 3:24 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 66 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
 | 67 | [Glass](https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Pieces EP](https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB) | 3:19 |
 | 68 | [Tairm](https://open.spotify.com/track/4czoofCcgJuI9bHgjIhPna) | [WHɎTE](https://open.spotify.com/artist/6wGrithJfN04WF1BWRQUvm) | [Tairm](https://open.spotify.com/album/7jMaGUjZ76YBSs3Yqxm4VD) | 5:10 |
-| 69 | [Fortaleza](https://open.spotify.com/track/2s4AuvhTM2ozTKiT3jQVM8) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/76Aij6SHMe6hJgDNSuAUhQ) | 4:53 |
+| 69 | [Fortaleza](https://open.spotify.com/track/0P6b8SxzKeB0XFkueJIA5m) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 4:53 |
 | 70 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
 | 71 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 |
 | 72 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 104 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 |
 | 105 | [M](https://open.spotify.com/track/7kcMm8WE6jc5mVt2EATrV2) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 2:46 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDU4ZjcwMWU5MmY4M2JlNDg4ZGJkMGU2MDMzMmQzZWRk`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDVmODlhNTJiYTE5OGEwY2E3YTUxYWQ3ZmQzNDU1M2Ex`

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 35900,
+  "num_followers": 35911,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMDdjMGNlMTBiYWU0YTU5MzNlMzU3ZWFmZTRkYjgxMDEz",
+  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMGQxYThmMjc5M2YwNjM1ZDhkNzc5ZDcwZDhiYjhiMGUz",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -719,22 +719,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Blues Caravan",
-        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich And His Sextet",
-          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
-        }
-      ],
-      "duration_ms": 580573,
-      "name": "Caravan",
-      "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Let It Be Me (Live)",
         "url": "https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 181812,
       "name": "My Baby Just Cares For Me - Live At Vine St. Bar & Grill, 1987",
       "url": "https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "duration_ms": 580573,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best Of Jeff Lorber",
-        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 262146,
-      "name": "Reverend Green",
-      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Motion",
@@ -847,6 +831,22 @@
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best Of Jeff Lorber",
+        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 262146,
+      "name": "Reverend Green",
+      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Movin' Wes",
-        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Movin' Wes - Pt. 1",
-      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Ben Webster Meets Oscar Peterson",
@@ -1115,6 +1099,22 @@
       "duration_ms": 402533,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Movin' Wes - Pt. 1",
+      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
     },
     {
       "added_at": "2019-10-04 16:01:14",

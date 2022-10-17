@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,552 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,676 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 33 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
 | 34 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
 | 35 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
-| 36 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
-| 37 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 |
+| 36 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 |
+| 37 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
 | 38 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
 | 39 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
 | 40 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 43 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
 | 44 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 | 45 | [B R Right \(feat\. Ludacris\)](https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Diamond Princess](https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ) | 4:21 |
-| 46 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
-| 47 | [Love Is Blind](https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Let There Be Eve...Ruff Ryders' First Lady](https://open.spotify.com/album/4DcAYtMoE3O9B8uKrsExqE) | 4:20 |
+| 46 | [Love Is Blind](https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Let There Be Eve...Ruff Ryders' First Lady](https://open.spotify.com/album/4DcAYtMoE3O9B8uKrsExqE) | 4:20 |
+| 47 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
 | 48 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
 | 49 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 |
 | 50 | [Ching Ching](https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g) | [Ms\. Jade](https://open.spotify.com/artist/0WjnlObkDedRrSBTC9N3lW), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Girl Interrupted](https://open.spotify.com/album/0Byh9TWAYzZgzVCXAtKpIB) | 3:58 |
 
-Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMGQ4MDRhM2NmZDhmMjBjYzMzMzYwNThjNGI4MjczNjAx`
+Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMGRkODU0MTkyNzI3NmNkNDA3ZmJmNDgyZTVhODkzM2Fm`

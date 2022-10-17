@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-351 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+352 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-31 |  |
 | [Fini](https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Fini](https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t) | 2:53 | 2022-07-28 |  |
 | [Flauta](https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Flauta](https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g) | 3:09 | 2022-05-25 |  |
-| [Flex](https://open.spotify.com/track/4Bozf61W7Tv1Vyp18kLZy1) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Flex](https://open.spotify.com/album/04N20XOzapV3mpffLeigNZ) | 3:19 | 2021-12-16 |  |
+| [Flex](https://open.spotify.com/track/4Bozf61W7Tv1Vyp18kLZy1) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Flex](https://open.spotify.com/album/04N20XOzapV3mpffLeigNZ) | 3:19 | 2021-12-16 | 2022-10-17 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-28 |  |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-08-25 |  |
 | [Formula](https://open.spotify.com/track/2mTxSAaSJXEPaSg9Mxmbdd) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Formula](https://open.spotify.com/album/5Vf8VhMcMxNgW5QHoI13Xq) | 3:03 | 2022-02-17 | 2022-07-29 |
@@ -216,6 +216,7 @@
 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 | 2022-03-25 | 2022-10-03 |
 | [My Touch \- Dutch Remix](https://open.spotify.com/track/5SBy2tOnecAyebZwPD21YP) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Lauwtje](https://open.spotify.com/artist/1yWjbmwKNd1q0PI1V1BuQ7), [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb) | [My Touch \(Dutch Remix\)](https://open.spotify.com/album/3HLfgkzaDwQCwURps1jIZ5) | 3:08 | 2021-12-16 | 2022-01-11 |
 | [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 | 2021-12-16 |  |
+| [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-17 |  |
 | [N'y pense plus](https://open.spotify.com/track/5KCH6zWcx5qUYbmp0uaaE7) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [N'y pense plus](https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS) | 3:32 | 2021-12-16 |  |
 | [Nesesari](https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Philkeyz](https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:58 | 2022-07-28 |  |
 | [Nesesari](https://open.spotify.com/track/3YzhsBh8BRGxbMThPC3Ibw) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Philkeyz](https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf) | [No Bad Songz](https://open.spotify.com/album/7aBqPFpPw91lIsW9pNZ1zt) | 2:58 | 2021-12-16 | 2022-07-29 |

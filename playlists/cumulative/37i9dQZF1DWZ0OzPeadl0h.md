@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-162 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+164 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [All My Life](https://open.spotify.com/track/6k6Xy90pBNwNzbJFm05sUj) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Blue](https://open.spotify.com/album/2uDvJ3PWnTGUj1sBmjkaWo) | 3:46 | 2021-10-22 | 2022-07-29 |
 | [Appointments](https://open.spotify.com/track/1odRNxEeolTEjFSDF6GY3s) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Appointments](https://open.spotify.com/album/1ZExlkzIzjd2FbcCvkTi0J) | 4:33 | 2021-10-22 | 2022-07-29 |
 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2021-10-22 |  |
+| [Arion](https://open.spotify.com/track/2l3KOlpMv5GOV7pATxXa30) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 5:28 | 2021-10-22 |  |
 | [Arion](https://open.spotify.com/track/4RJwnDuXxOzr4e7HcsN70L) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Arion](https://open.spotify.com/album/4x0JvfkujC1PdOMrmLMn6v) | 5:28 | 2021-10-22 | 2022-07-29 |
-| [Arion](https://open.spotify.com/track/5N1lBGr8HTVSALXWlysjbh) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/76Aij6SHMe6hJgDNSuAUhQ) | 5:28 | 2021-10-22 |  |
+| [Arion](https://open.spotify.com/track/5N1lBGr8HTVSALXWlysjbh) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/76Aij6SHMe6hJgDNSuAUhQ) | 5:28 | 2021-10-22 | 2022-10-17 |
 | [Arrows](https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 2:29 | 2021-10-22 | 2022-07-29 |
 | [Arrows](https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 2:29 | 2021-10-22 |  |
 | [BE OK](https://open.spotify.com/track/2qzByN3XSyRZAOJA5CBsQV) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [CLEAR](https://open.spotify.com/album/5Awez3x6KU5lKsHCJjGWWi) | 3:24 | 2021-10-22 |  |
@@ -59,7 +60,8 @@
 | [Fools and Their Gold \- Radio Edit](https://open.spotify.com/track/5ZrVZbwwxczBujEY2AWvlq) | [PLGRMS](https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k) | [Fools and Their Gold \(Radio Edit\)](https://open.spotify.com/album/0grXH08vgBabZbcmw0golH) | 3:48 | 2021-10-22 |  |
 | [For a While](https://open.spotify.com/track/4w051WDUnlgzmR1IZeSgLL) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:54 | 2021-10-22 |  |
 | [For a While](https://open.spotify.com/track/6Qk4zqHRjy4huavhMyQ5co) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [For a While](https://open.spotify.com/album/2Mf95tVtt4V6ewsVsYipHL) | 3:54 | 2021-10-22 | 2022-07-29 |
-| [Fortaleza](https://open.spotify.com/track/2s4AuvhTM2ozTKiT3jQVM8) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/76Aij6SHMe6hJgDNSuAUhQ) | 4:53 | 2021-10-22 |  |
+| [Fortaleza](https://open.spotify.com/track/0P6b8SxzKeB0XFkueJIA5m) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 4:53 | 2021-10-22 |  |
+| [Fortaleza](https://open.spotify.com/track/2s4AuvhTM2ozTKiT3jQVM8) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/76Aij6SHMe6hJgDNSuAUhQ) | 4:53 | 2021-10-22 | 2022-10-17 |
 | [Fortaleza](https://open.spotify.com/track/30XLTu9hjW1rfwhksg9RWv) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2KJWSe1131KY55SQ6ipVhO) | 4:53 | 2021-10-22 | 2022-07-29 |
 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 | 2021-11-17 | 2022-07-29 |
 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 | 2021-11-17 |  |

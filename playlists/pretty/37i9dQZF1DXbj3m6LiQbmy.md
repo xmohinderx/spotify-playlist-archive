@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,731 likes - 73 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,735 likes - 73 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 32 | [Ogni pensiero vola](https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Magica Musica](https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB) | 3:53 |
 | 33 | [Ancora Tu \- Original Mix](https://open.spotify.com/track/1XMvmOyw3Rxu76Rr1BXYR7) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Mi Senti](https://open.spotify.com/album/6gnG4Hov60aXPblNpKpumI) | 5:07 |
 | 34 | [Ecco la Notte](https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Ecco la Notte](https://open.spotify.com/album/3KvGybqvwIKaGSSUGefaZ0) | 5:44 |
-| 35 | [SCANDALOSA](https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Malena](https://open.spotify.com/artist/2GMghh8UAwayZHkzkRPgcE) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:08 |
-| 36 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
+| 35 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
+| 36 | [SCANDALOSA](https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Malena](https://open.spotify.com/artist/2GMghh8UAwayZHkzkRPgcE) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:08 |
 | 37 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 |
 | 38 | [La musica illegale](https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [La terza estate dell'amore](https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa) | 3:44 |
 | 39 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 50 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
 | 51 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
 | 52 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
-| 53 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
-| 54 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
+| 53 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
+| 54 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
 | 55 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg) | 1:31 |
 | 56 | [Androgyny](https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:09 |
 | 57 | [You Keep Me Hangin' On](https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:14 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 68 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
 | 69 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 |
 | 70 | [Insegnami la vita](https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F), [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Malcostume](https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN) | 3:58 |
-| 71 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
-| 72 | [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 |
-| 73 | [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 |
+| 71 | [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 |
+| 72 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
+| 73 | [Superomantico](https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Superomantico](https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa) | 2:41 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDRmYTY0M2MyOTAyZWJjMjA2NDMwMzZmOTA1NjFkNjZm`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDZkZTc2MmU3ZTkxODZlZDZhN2EzYWY2ZDhlN2I1ZGM1`

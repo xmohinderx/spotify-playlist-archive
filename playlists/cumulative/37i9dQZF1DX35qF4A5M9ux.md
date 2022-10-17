@@ -4,7 +4,7 @@
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-213 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/6Q7TpOrWNfwV0Hlu2l7meq)
+214 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/6Q7TpOrWNfwV0Hlu2l7meq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Puro Dolor \- Salsa Version](https://open.spotify.com/track/5B0M2VaOrYGkQdGc044Mfe) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Fiesta Latina](https://open.spotify.com/album/2L4ZOOWkxzPzuVdlMx92CO) | 4:22 | 2022-03-08 | 2022-07-29 |
 | [Amiga](https://open.spotify.com/track/0mQRgVdhDiEsFVjJdTQBat) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Puro Corazón](https://open.spotify.com/album/5naHAz6Ugczx3yBccNMd7A) | 4:15 | 2021-12-20 | 2022-07-29 |
 | [Amiga](https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Puro Corazón](https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR) | 4:15 | 2022-03-08 |  |
-| [Amigo Cuídala](https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Problemas de Ciudad](https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ) | 4:31 | 2022-03-08 |  |
+| [Amigo Cuídala](https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Problemas de Ciudad](https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ) | 4:31 | 2022-03-08 | 2022-10-17 |
 | [Amor y Control](https://open.spotify.com/track/1oUjLEp7oCpjQlSCiwBZsF) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Dos Clásicos](https://open.spotify.com/album/48HRoguM98xySBNfx8QWWj) | 5:48 | 2021-12-20 | 2022-03-09 |
 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 | 2021-12-20 |  |
 | [Anhelo](https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Reclamando Nuestro Espacio](https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX) | 4:08 | 2022-03-08 |  |
@@ -73,6 +73,7 @@
 | [El Gran Varón](https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Top Secrets](https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy) | 6:54 | 2021-12-20 | 2022-03-08 |
 | [El Jardin Prohibido](https://open.spotify.com/track/1YjAt7R7nD1galaCxYAlGC) | [Alex Bueno y Su Orquesta](https://open.spotify.com/artist/7gOR79mmPL4F3MT1rxATVn) | [Los Anos Dorados](https://open.spotify.com/album/2bjw0GIfkBPBDHjOF8n8wh) | 5:30 | 2021-12-20 | 2022-07-29 |
 | [El Jardín Prohibido](https://open.spotify.com/track/1X2FA15vCCik0fcowxawDA) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/7wkJGrDsVVf0NtChbQC8LN) | 5:30 | 2022-03-08 | 2022-10-15 |
+| [El Jardín Prohibido](https://open.spotify.com/track/45LErG3Sq9sRdzQC8WSq3x) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3AH0wI0DQ5b1JSd8eTuvdf) | 5:30 | 2022-08-04 |  |
 | [Ella Feat\. Luis Enrique](https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 5:48 | 2021-12-20 |  |
 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 | 2021-12-20 | 2022-03-04 |
 | [Eres](https://open.spotify.com/track/0z4BiYZ95vmjSu3WDaEki8) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba de Fuego](https://open.spotify.com/album/0LdGE31TLcu8yrTh2m5l5l) | 4:28 | 2022-03-08 | 2022-07-29 |

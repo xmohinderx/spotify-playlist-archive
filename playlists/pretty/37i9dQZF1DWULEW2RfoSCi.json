@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1308947,
+  "num_followers": 1309452,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGYyN2MxOGNkZWY4ZmY3YjQxMjIyNzdlNWZkZDQ2Y2E0",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDQ5OWExNmRlMmM2NmExZTY1ZjFkOTBkMzM3YjNmOWJj",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -799,22 +799,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Where Is the Love",
-      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+      "duration_ms": 185533,
+      "name": "Family Affair - Single Version",
+      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -835,18 +831,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Family Affair - Single Version",
-      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
+      "duration_ms": 166400,
+      "name": "Where Is the Love",
+      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Tell It Like It Is",
-        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Supernatural Thing",
         "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 251560,
       "name": "Supernatural Thing, Pt. 1",
       "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Woman to Woman [Stax Remasters]",
+        "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
+      },
+      "artists": [
+        {
+          "name": "Shirley Brown",
+          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Woman To Woman",
+      "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "The Ultimate Chi-Lites",
         "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 217520,
       "name": "Oh Girl",
       "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "In Philadelphia",
-        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Woman to Woman [Stax Remasters]",
-        "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
+        "name": "In Philadelphia",
+        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
       },
       "artists": [
         {
-          "name": "Shirley Brown",
-          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Woman To Woman",
-      "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
+      "duration_ms": 169706,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
     },
     {
       "added_at": "2022-02-04 15:57:42",

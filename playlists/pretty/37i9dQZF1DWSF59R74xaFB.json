@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 434480,
+  "num_followers": 434768,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMTMzOCwwMDAwMDAwMDM1N2ExZGNhMGE1NzAwMDQ0OGNkMjNjOWY1NGE5YTA0",
+  "snapshot_id": "MTY2NDUxMTMzOCwwMDAwMDAwMDU0ZDBiM2UyMzE3Mjc3NzFhZGM3ZDYwMGZmZGZmODE1",
   "tracks": [
     {
       "added_at": "2021-10-21 15:13:27",
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
     },
     {
-      "added_at": "2022-10-16 01:24:44",
+      "added_at": "2022-10-17 01:27:50",
       "album": {
         "name": "La Que Un D\u00eda Te Am\u00f3",
         "url": "https://open.spotify.com/album/7a6Zqzjdwb6rvlu1TV41ps"
@@ -859,18 +859,22 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2021-11-25 00:58:58",
@@ -909,6 +913,22 @@
       "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Felices x Siempre",
@@ -923,26 +943,6 @@
       "duration_ms": 199656,
       "name": "Felices x Siempre",
       "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "ADMV",
         "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 193699,
       "name": "ADMV",
       "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
-    },
-    {
       "added_at": "2022-07-07 15:34:37",
       "album": {
         "name": "Haashtag",
@@ -1323,6 +1307,22 @@
       "duration_ms": 226480,
       "name": "Supongo Que Lo Sabes",
       "url": "https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "Franco de Vita",
         "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
       },
@@ -1407,22 +1391,6 @@
       "duration_ms": 240226,
       "name": "Un Buen Perdedor",
       "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Mis Canciones De La Web",
-        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 172309,
-      "name": "Mi Razon De Ser",
-      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
     },
     {
       "added_at": "2022-03-18 01:00:00",
@@ -1439,6 +1407,38 @@
       "duration_ms": 194120,
       "name": "Lo Que un Hombre Deber\u00eda Saber",
       "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Mis Canciones De La Web",
+        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 172309,
+      "name": "Mi Razon De Ser",
+      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
     },
     {
       "added_at": "2022-04-14 00:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "30 de Febrero",
         "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 194386,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": "2022-02-08 16:52:52",

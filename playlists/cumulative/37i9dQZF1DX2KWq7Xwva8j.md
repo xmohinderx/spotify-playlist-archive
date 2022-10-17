@@ -4,14 +4,15 @@
 
 > Descubre hoy a los artistas de mañana\. Foto: Walls
 
-143 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+144 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100tas](https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas](https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W) | 2:28 | 2022-02-17 | 2022-09-09 |
 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 | 2022-02-17 | 2022-09-09 |
 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 | 2022-06-06 |  |
-| [A W](https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL) | 2:15 | 2022-06-06 |  |
+| [A W](https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9) | 2:15 | 2022-09-23 |  |
+| [A W](https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL) | 2:15 | 2022-06-06 | 2022-10-17 |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-17 | 2022-07-29 |
 | [Alex Turner](https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Alex Turner](https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j) | 2:39 | 2022-06-06 |  |
 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 | 2022-02-24 | 2022-09-09 |
@@ -92,7 +93,7 @@
 | [Mismas Jordan](https://open.spotify.com/track/6BnHksggg8CKWAwmtBknSF) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Mismas Jordan](https://open.spotify.com/album/1E2rrv4RKl3IgZOeplEL49) | 2:45 | 2021-12-31 | 2022-02-18 |
 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 | 2022-03-17 |  |
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2022-02-03 | 2022-07-15 |
-| [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 | 2022-06-06 |  |
+| [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 | 2022-06-06 | 2022-10-17 |
 | [Nana](https://open.spotify.com/track/7JxuBqdhe3YgPb0tD7YriS) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Nana](https://open.spotify.com/album/0kUkzTNt3mUlXY321DJBlQ) | 2:02 | 2021-12-31 | 2022-04-01 |
 | [nemo](https://open.spotify.com/track/1bsIAUFEZmpmZHYMhlY6IS) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [nemo](https://open.spotify.com/album/7INKqnKLJRPTLSdt6lf2YD) | 2:43 | 2021-12-31 | 2022-03-18 |
 | [No Limit](https://open.spotify.com/track/0z6ojlCxcIJViynVpq7MUg) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [ThePoing](https://open.spotify.com/artist/25GeI9XfoQKewss8IzQyyO) | [No Limit](https://open.spotify.com/album/6bZBGnZnq8j512ROPGMxZ9) | 3:00 | 2021-12-31 | 2022-02-18 |
@@ -100,7 +101,7 @@
 | [Noche polar](https://open.spotify.com/track/4cXeNKP5jqKXuVyhdDAN6n) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Noche polar](https://open.spotify.com/album/2AYtEgiEF4ZUyFlqDZfkoL) | 3:18 | 2021-12-31 | 2022-04-01 |
 | [Nunca](https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas / Nunca](https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys) | 3:12 | 2022-03-31 |  |
 | [Oh my love \(ho tens tot per fer\)](https://open.spotify.com/track/3zToxIvBtdKcR5JNBb16gM) | [Marialluïsa](https://open.spotify.com/artist/57vnEmo3jRkWAigCYgNRaD) | [Oh my love \(ho tens tot per fer\)](https://open.spotify.com/album/0PiNBGPTW8hxh3bqEeTuPf) | 2:51 | 2021-12-31 | 2022-02-05 |
-| [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 | 2022-06-06 | 2022-10-12 |
+| [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 | 2022-06-06 |  |
 | [Olvídate](https://open.spotify.com/track/60Xq104dahklh2LSciVGEs) | [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [Naes Beats](https://open.spotify.com/artist/3XOMOMdcShaVEZi9xtuMNu) | [Olvídate](https://open.spotify.com/album/4Tpa7IkzjSUOELKTr9Cfi2) | 2:38 | 2021-12-31 | 2022-04-01 |
 | [otro lugar • despertar](https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [otro lugar • despertar](https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC) | 3:06 | 2021-12-31 | 2022-03-18 |
 | [Pablo](https://open.spotify.com/track/3RyLLnuLXce8JUdnaSyJNE) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Pablo](https://open.spotify.com/album/3JbYVEqXpE1CbYyVl3t2Zg) | 3:07 | 2022-02-17 | 2022-09-09 |

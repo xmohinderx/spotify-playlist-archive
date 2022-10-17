@@ -4,7 +4,7 @@
 
 > A selection of tracks by Rival Consoles to immerse in an imaginary panorama of atmospheric soundscapes.
 
-452 songs - 1 day 18 hr 51 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+453 songs - 1 day 18 hr 55 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Gerne](https://open.spotify.com/track/3AAajry6nvnDqyd2Nnw0Rl) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wahre Liebe](https://open.spotify.com/album/3TRqBRv1Dc7vgQLaRcWHDC) | 3:15 | 2021-10-06 | 2022-07-27 |
 | [Getting Out](https://open.spotify.com/track/7K7fHCGFgeX1ipUbvf7gwj) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 2:53 | 2021-10-06 | 2022-07-21 |
 | [Golden Times 1](https://open.spotify.com/track/1PNAf8Ab2wH6iURHmVLpho) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Spells](https://open.spotify.com/album/2VT721v3oyoK0Axq2IZXj0) | 8:37 | 2021-10-06 | 2022-04-08 |
-| [Gossamer](https://open.spotify.com/track/5JKMe6ixt8nDwoUqS9tMG6) | [SINK](https://open.spotify.com/artist/079JJu03lrW37aQxGotWfC) | [Gossamer](https://open.spotify.com/album/1607it3GMJGG1znHEhUSQM) | 4:34 | 2022-10-14 |  |
+| [Gossamer](https://open.spotify.com/track/0b2zRtqX9fVFVhrkAAtFTP) | [SINK](https://open.spotify.com/artist/079JJu03lrW37aQxGotWfC) | [Gossamer](https://open.spotify.com/album/5c6yN2H8AEHT42tdO47sAI) | 4:34 | 2022-10-14 |  |
+| [Gossamer](https://open.spotify.com/track/5JKMe6ixt8nDwoUqS9tMG6) | [SINK](https://open.spotify.com/artist/079JJu03lrW37aQxGotWfC) | [Gossamer](https://open.spotify.com/album/1607it3GMJGG1znHEhUSQM) | 4:34 | 2022-10-14 | 2022-10-17 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2021-10-06 | 2022-07-29 |
 | [Grauer Sand](https://open.spotify.com/track/66IbIrMufglj4589q8126r) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Grauer Sand](https://open.spotify.com/album/1MZLj3NxYCPy13TO5s5hj1) | 4:06 | 2022-08-19 | 2022-09-21 |
 | [Green Phase, Part One](https://open.spotify.com/track/1hQ6qPmHgJhjGkAhhvBQvg) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible \(Green Phase\)](https://open.spotify.com/album/7pmG0FBAsV9T1SBQHkWZKS) | 3:27 | 2021-10-06 | 2022-07-27 |

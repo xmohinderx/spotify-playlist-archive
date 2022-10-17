@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-76 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
+77 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Izolo](https://open.spotify.com/track/1ix1dhMZI8cYXiyzHgun42) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Banyana](https://open.spotify.com/album/2k5u0sNv2ERDu8eAIvRCC1) | 7:25 | 2021-07-23 |  |
 | [Jaiva](https://open.spotify.com/track/12Ku1NS3BZXlaav5wxF7us) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:31 | 2021-12-02 |  |
 | [Jamii Yetu \- Thandi Draai Rework](https://open.spotify.com/track/7zG9XZJft8wtIg4C1dVvOq) | [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Paradise Reworks](https://open.spotify.com/album/1ToafUTjBO6JMd7YuwgGDE) | 5:26 | 2021-10-21 |  |
-| [Jika \- Lemon & Herb Remix](https://open.spotify.com/track/1wNOP1On9dLevIskfrd26I) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Jika EP](https://open.spotify.com/album/3PHBGOYUSYCUczVqnaDmga) | 4:26 | 2021-10-14 |  |
+| [Jika \- Lemon & Herb Remix](https://open.spotify.com/track/1wNOP1On9dLevIskfrd26I) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Jika EP](https://open.spotify.com/album/3PHBGOYUSYCUczVqnaDmga) | 4:26 | 2021-10-14 | 2022-10-17 |
+| [Jika \- Lemon & Herb Remix](https://open.spotify.com/track/7LdrWWVy38G7G8B9Bv2ixW) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Jika EP](https://open.spotify.com/album/620uN2e9ilPg65f7hDSJBr) | 4:26 | 2021-10-14 |  |
 | [KAMBA](https://open.spotify.com/track/3Kvzzly09Ziy1UUzsn5sZx) | [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [KAMBA](https://open.spotify.com/album/7wDd3HggMn8ZTxGE4E1PWl) | 2:33 | 2021-07-01 |  |
 | [Khala Zome \(feat\. Mbuso Khoza\) \- \[Lemon & Herb Remix\]](https://open.spotify.com/track/2WEHnvmu4vbOe1AXeNzG5Y) | [KingSfiso](https://open.spotify.com/artist/3xAufCvmDKxcXZOE3p9lSH), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Khala Zome \(feat\. Mbuso Khoza\) \[Lemon & Herb Remix\]](https://open.spotify.com/album/0uOvmhT2t99UemSCTGNynk) | 7:36 | 2022-03-17 |  |
 | [Khula](https://open.spotify.com/track/21yMnKufBg1L51PGGVryTj) | [Bello no Gallo](https://open.spotify.com/artist/4sOkkFiZ3kba2UST1tiQ7c), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Khula](https://open.spotify.com/album/0wqlhwTE4SMnsAfqhkbnxE) | 4:00 | 2022-02-17 |  |

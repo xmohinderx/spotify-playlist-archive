@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-116 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
+117 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Things We Said Today](https://open.spotify.com/track/1a1U3YQ4JZcVKUDKKQkJpz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Things We Said Today](https://open.spotify.com/album/1Fvwf1nAFcGNoStW4MTz3D) | 3:01 | 2018-08-02 |  |
 | [Things We Said Today](https://open.spotify.com/track/7JGfNWelhCfiykNk5QGleG) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Things We Said Today](https://open.spotify.com/album/4PBqDqlTpCHOw3MGTPE8K2) | 3:01 | 2018-08-02 | 2022-10-13 |
 | [This Land Is Your Land \- Live in New York City \- November 1961](https://open.spotify.com/track/75noWD1FYMFBKeUnxCy4NB) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [No Direction Home: Bootleg Volume 7 \(Movie Soundtrack\)](https://open.spotify.com/album/0IN65w1790nVXZxpuoh3gU) | 5:58 | 2018-08-02 |  |
-| [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 4:36 | 2018-08-02 |  |
+| [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 4:36 | 2018-08-02 | 2022-10-17 |
+| [To Ramona](https://open.spotify.com/track/2gmrKmh73RmHGk5IT0ND3I) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/5igs9SG03JODImNkAY8gM9) | 4:36 | 2018-08-02 |  |
 | [Tomorrow Is A Long Time](https://open.spotify.com/track/5mWfUBeVPfV70tkHHFBkrg) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 4:18 | 2018-08-02 |  |
 | [Visions of Johanna \(Live\)](https://open.spotify.com/track/3cyFCQWlqRhrWkR3qJnguN) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 6:55 | 2018-08-02 |  |
 | [Wanted Man \- 2009 Remastered Version](https://open.spotify.com/track/3kbUGSzvf1ENLHVEfoEeHH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 Remastered Version\)](https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o) | 5:26 | 2018-08-02 |  |

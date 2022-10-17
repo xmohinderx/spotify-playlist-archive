@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14370,
+  "num_followers": 14377,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDNiZWYwZjMwOTBlNDhjMzMzMzJiMTNlOTc3YjZiM2Fl",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGE3NGJiMjgyNzE2YWUwYWRmY2FjODcyN2JiZGNmNzc5",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Last Time (Biscits Remix)",
-        "url": "https://open.spotify.com/album/6LgHb9a6Dph8PJ7LP8tNJs"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Last Time - Biscits Remix",
-      "url": "https://open.spotify.com/track/1vSgGwMtzSxz4VTYUMAfks"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Last Time (Biscits Remix)",
+        "url": "https://open.spotify.com/album/6LgHb9a6Dph8PJ7LP8tNJs"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 215540,
+      "name": "Last Time - Biscits Remix",
+      "url": "https://open.spotify.com/track/1vSgGwMtzSxz4VTYUMAfks"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Pump the Brakes (LP Giobbi Remix)",
-        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 279685,
-      "name": "Pump the Brakes - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Hero (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Pump the Brakes (LP Giobbi Remix)",
+        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 279685,
+      "name": "Pump the Brakes - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "I Want Love (Cat Dealers Remix)",
-        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "I Want Love - Cat Dealers Remix",
-      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Strut (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 189965,
       "name": "Strut - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "I Want Love (Cat Dealers Remix)",
+        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "I Want Love - Cat Dealers Remix",
+      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Do It Like Me (feat. B-Case) [Robin Schulz Remix]",
-        "url": "https://open.spotify.com/album/0x8JzrQkNVJJ6GHZOsOJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "B-Case",
-          "url": "https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 172020,
-      "name": "Do It Like Me (feat. B-Case) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/4Zy6ClzaV1UbBPxhw1J1RP"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Spa (James Hype Remix)",
         "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 266666,
       "name": "Spa - James Hype Remix",
       "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Do It Like Me (feat. B-Case) [Robin Schulz Remix]",
+        "url": "https://open.spotify.com/album/0x8JzrQkNVJJ6GHZOsOJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "B-Case",
+          "url": "https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "Do It Like Me (feat. B-Case) - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/4Zy6ClzaV1UbBPxhw1J1RP"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1963,6 +1963,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Purple Hat (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 209959,
+      "name": "Purple Hat - KC Lights Remix",
+      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Nobody (Devault Remix)",
         "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 259286,
       "name": "Nobody - Devault Remix",
       "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Purple Hat (KC Lights Remix)",
-        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "Purple Hat - KC Lights Remix",
-      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2035,6 +2035,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "1 Day 2 Nights (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 134892,
+      "name": "1 Day 2 Nights - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Desire (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
       },
@@ -2059,26 +2079,6 @@
       "duration_ms": 225967,
       "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
       "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "1 Day 2 Nights (Billen Ted Remix)",
-        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 134892,
-      "name": "1 Day 2 Nights - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2279,26 +2279,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -2319,6 +2299,26 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     },
     {
       "added_at": "2021-07-30 04:00:00",

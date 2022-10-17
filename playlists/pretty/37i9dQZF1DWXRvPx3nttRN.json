@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 458076,
+  "num_followers": 458161,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDY0Mjg3OSwwMDAwMDAwMDBjNWYxNTQwZjJkZmJmN2I5YjQ3YjBkZjk2MjljZjJm",
+  "snapshot_id": "MTY1MDY0Mjg3OSwwMDAwMDAwMDU2OWJjNTU3ZWVkYzY1NDJkZTQzMzFjN2UyZDNhZmQz",
   "tracks": [
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Youngblood (Acoustic)",
-        "url": "https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 220995,
-      "name": "Youngblood - Acoustic",
-      "url": "https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 170454,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Youngblood (Acoustic)",
+        "url": "https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 220995,
+      "name": "Youngblood - Acoustic",
+      "url": "https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "Sweet but Psycho (Acoustic)",
+        "url": "https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 179265,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Payphone",
         "url": "https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 217586,
       "name": "Polaroid - Acoustic",
       "url": "https://open.spotify.com/track/2f2gz6LZSz67HWq84Hqn2j"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "Sweet but Psycho (Acoustic)",
-        "url": "https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 179265,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 191206,
-      "name": "Perfect Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 199419,
       "name": "There's Nothing Holdin Me Back",
       "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 191206,
+      "name": "Perfect Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
-      },
-      "artists": [
-        {
-          "name": "Justin Morgan",
-          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
-        }
-      ],
-      "duration_ms": 236952,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Make It Happen (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 216776,
       "name": "Sing to You - Acoustic",
       "url": "https://open.spotify.com/track/1pVz7AJO2UZd5ouOhoIlhS"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
+      },
+      "artists": [
+        {
+          "name": "Justin Morgan",
+          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
+        }
+      ],
+      "duration_ms": 236952,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Covers with Friends",
-        "url": "https://open.spotify.com/album/6XBy6IeZBCHz5D1Frv6jGY"
-      },
-      "artists": [
-        {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        },
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 199056,
-      "name": "Se\u00f1orita - Acoustic",
-      "url": "https://open.spotify.com/track/3kSYLN853QF9qDkmmFy66C"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/42JXJ942JEQSRjvIj1NYFA"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 267077,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Covers with Friends",
+        "url": "https://open.spotify.com/album/6XBy6IeZBCHz5D1Frv6jGY"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        },
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 199056,
+      "name": "Se\u00f1orita - Acoustic",
+      "url": "https://open.spotify.com/track/3kSYLN853QF9qDkmmFy66C"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Under The Sun - Acoustic",
+      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Rely On Me",
         "url": "https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 193466,
       "name": "H.O.L.Y. - Acoustic",
       "url": "https://open.spotify.com/track/3wH9KuHeuYHNRF2Yt6z0cc"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Under The Sun - Acoustic",
-      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Girls Like You",
-        "url": "https://open.spotify.com/album/6MUKJJrQjnqk2w5yPsmn4H"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 206094,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/6ZGCcVUyPnuNV6lmPFUnxT"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "All Time Low (Acoustic)",
         "url": "https://open.spotify.com/album/32fySVHCiE5LJdJvFo197h"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 172912,
       "name": "All Time Low (Acoustic)",
       "url": "https://open.spotify.com/track/33CE4nXLOB9O3lZTqawwow"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Girls Like You",
+        "url": "https://open.spotify.com/album/6MUKJJrQjnqk2w5yPsmn4H"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 206094,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/6ZGCcVUyPnuNV6lmPFUnxT"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2691,18 +2691,18 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+        "name": "A Thousand Ways (Acoustic)",
+        "url": "https://open.spotify.com/album/0hqIWEMjY0nVwX3dpsM4u3"
       },
       "artists": [
         {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
         }
       ],
-      "duration_ms": 165506,
-      "name": "Million Ways - Acoustic",
-      "url": "https://open.spotify.com/track/7tq4nl4WgpuHz0Nvn4lMck"
+      "duration_ms": 231762,
+      "name": "A Thousand Ways (Acoustic)",
+      "url": "https://open.spotify.com/track/4laBgbIXVtNbYkRMByKtFn"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2723,6 +2723,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "Million Ways - Acoustic",
+      "url": "https://open.spotify.com/track/7tq4nl4WgpuHz0Nvn4lMck"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Love Lies",
         "url": "https://open.spotify.com/album/0xbQJ4XGhZbouBfRyWWhnF"
       },
@@ -2739,18 +2755,18 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "A Thousand Ways (Acoustic)",
-        "url": "https://open.spotify.com/album/0hqIWEMjY0nVwX3dpsM4u3"
+        "name": "Never Can Say Goodbye",
+        "url": "https://open.spotify.com/album/5883OS71ULt0vnreAUe9hV"
       },
       "artists": [
         {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
         }
       ],
-      "duration_ms": 231762,
-      "name": "A Thousand Ways (Acoustic)",
-      "url": "https://open.spotify.com/track/4laBgbIXVtNbYkRMByKtFn"
+      "duration_ms": 161712,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/2vtJ4rBe0LTbbMeaNaEMey"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2775,18 +2791,18 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Never Can Say Goodbye",
-        "url": "https://open.spotify.com/album/5883OS71ULt0vnreAUe9hV"
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4TX0Afba9DIOTiB7IH6cZ2"
       },
       "artists": [
         {
-          "name": "Trijntje Oosterhuis",
-          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+          "name": "Daniel Josefson",
+          "url": "https://open.spotify.com/artist/0YlKzqHoIvCSMoFqhMVTAx"
         }
       ],
-      "duration_ms": 161712,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/2vtJ4rBe0LTbbMeaNaEMey"
+      "duration_ms": 196000,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/5ZTx6tDndk4sh0POJqcVJ7"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2803,22 +2819,6 @@
       "duration_ms": 243346,
       "name": "Nothin' On You",
       "url": "https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4TX0Afba9DIOTiB7IH6cZ2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Josefson",
-          "url": "https://open.spotify.com/artist/0YlKzqHoIvCSMoFqhMVTAx"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/5ZTx6tDndk4sh0POJqcVJ7"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3331,22 +3331,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Acoustic Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/7MW4Ij5prMGfwpUzVHVyFS"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 169966,
-      "name": "Superheroes - Acoustic Live Lounge",
-      "url": "https://open.spotify.com/track/7f0IoenXF00XaLMOEOKGAZ"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Acoustic Dance Sessions",
         "url": "https://open.spotify.com/album/5ra1FnP7de0jb5q47esf8u"
       },
@@ -3359,6 +3343,22 @@
       "duration_ms": 229618,
       "name": "Domino",
       "url": "https://open.spotify.com/track/54nuYxhV4GzVa4fxj25Tm7"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Acoustic Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/7MW4Ij5prMGfwpUzVHVyFS"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 169966,
+      "name": "Superheroes - Acoustic Live Lounge",
+      "url": "https://open.spotify.com/track/7f0IoenXF00XaLMOEOKGAZ"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3459,22 +3459,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "DEADTHEACOUSTIC",
-        "url": "https://open.spotify.com/album/2bA9q1Cy1t8AHZDteuEij8"
-      },
-      "artists": [
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 126918,
-      "name": "Too Good - Acoustic",
-      "url": "https://open.spotify.com/track/03OnNoSXz2T93JKlE4JCh1"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Acoustic Hits, Vol. 3",
         "url": "https://open.spotify.com/album/6DgPb9m6bFy34yDsMDkPfc"
       },
@@ -3491,8 +3475,24 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Hotline Bling (Acoustic)",
-        "url": "https://open.spotify.com/album/6rrFz562Z9bgiIXCAC2tPw"
+        "name": "DEADTHEACOUSTIC",
+        "url": "https://open.spotify.com/album/2bA9q1Cy1t8AHZDteuEij8"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 126918,
+      "name": "Too Good - Acoustic",
+      "url": "https://open.spotify.com/track/03OnNoSXz2T93JKlE4JCh1"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Can't Hold Us (Acoustic)",
+        "url": "https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L"
       },
       "artists": [
         {
@@ -3500,13 +3500,13 @@
           "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
         },
         {
-          "name": "Danny Padilla",
-          "url": "https://open.spotify.com/artist/5148ArIqx11KON7HEAWLeW"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg"
         }
       ],
-      "duration_ms": 151139,
-      "name": "Hotline Bling - Acoustic",
-      "url": "https://open.spotify.com/track/2ZP62FLKSCJNJKKWvoGLdW"
+      "duration_ms": 199714,
+      "name": "Can't Hold Us - Acoustic",
+      "url": "https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3583,6 +3583,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "Acoustic Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 181421,
+      "name": "Blame / Love Me Again - Acoustic Mashup",
+      "url": "https://open.spotify.com/track/1l1wHuRrHyuWNkaVjYxfvZ"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Shake It Off",
         "url": "https://open.spotify.com/album/73JSumL9fEU1txY72F3uZR"
       },
@@ -3635,24 +3651,8 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Acoustic Hits, Vol. 4",
-        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 181421,
-      "name": "Blame / Love Me Again - Acoustic Mashup",
-      "url": "https://open.spotify.com/track/1l1wHuRrHyuWNkaVjYxfvZ"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "Can't Hold Us (Acoustic)",
-        "url": "https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L"
+        "name": "Hotline Bling (Acoustic)",
+        "url": "https://open.spotify.com/album/6rrFz562Z9bgiIXCAC2tPw"
       },
       "artists": [
         {
@@ -3660,13 +3660,13 @@
           "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
         },
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg"
+          "name": "Danny Padilla",
+          "url": "https://open.spotify.com/artist/5148ArIqx11KON7HEAWLeW"
         }
       ],
-      "duration_ms": 199714,
-      "name": "Can't Hold Us - Acoustic",
-      "url": "https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX"
+      "duration_ms": 151139,
+      "name": "Hotline Bling - Acoustic",
+      "url": "https://open.spotify.com/track/2ZP62FLKSCJNJKKWvoGLdW"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3691,38 +3691,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Hangover Hug",
-        "url": "https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "If I Lose Myself - Acoustic",
-      "url": "https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "Solo Dance - From Morning Till Midnight",
-        "url": "https://open.spotify.com/album/2cHikunURpC7UwZSxbJLv0"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 192574,
-      "name": "Solo Dance - Acoustic Mix",
-      "url": "https://open.spotify.com/track/0AmsMeTJXTfpDJlCMy6rUU"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Sitting at the Kids Table (Acoustic)",
         "url": "https://open.spotify.com/album/0DDEbEiu1vOYTFW0jGfoFA"
       },
@@ -3735,6 +3703,22 @@
       "duration_ms": 221484,
       "name": "leading me on - acoustic",
       "url": "https://open.spotify.com/track/3xqp5SEEiOtQymJmhdk9tz"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Hangover Hug",
+        "url": "https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "If I Lose Myself - Acoustic",
+      "url": "https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3755,6 +3739,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "Solo Dance - From Morning Till Midnight",
+        "url": "https://open.spotify.com/album/2cHikunURpC7UwZSxbJLv0"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 192574,
+      "name": "Solo Dance - Acoustic Mix",
+      "url": "https://open.spotify.com/track/0AmsMeTJXTfpDJlCMy6rUU"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Tyler Ward Covers, Vol. 5",
         "url": "https://open.spotify.com/album/0btFx3XFaoLDkJArPlxWEt"
       },
@@ -3767,6 +3767,38 @@
       "duration_ms": 130578,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/1edPtZh5Mik6ULPiiJIAIB"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "The Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        }
+      ],
+      "duration_ms": 219511,
+      "name": "Can't Hold Us",
+      "url": "https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "P.Y.T. (Pretty Young Thing) [Remixes]",
+        "url": "https://open.spotify.com/album/1zIuygzVP1yIpQbaKRuSwl"
+      },
+      "artists": [
+        {
+          "name": "John Gibbons",
+          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "P.Y.T. (Pretty Young Thing) - Acoustic",
+      "url": "https://open.spotify.com/track/3rsvlorTQ6B53i3NWF2bG5"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3795,38 +3827,6 @@
       "duration_ms": 218049,
       "name": "Let Me Live - Acoustic",
       "url": "https://open.spotify.com/track/1mqVImA1k8qma45Lqc8CNR"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "P.Y.T. (Pretty Young Thing) [Remixes]",
-        "url": "https://open.spotify.com/album/1zIuygzVP1yIpQbaKRuSwl"
-      },
-      "artists": [
-        {
-          "name": "John Gibbons",
-          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
-        }
-      ],
-      "duration_ms": 144790,
-      "name": "P.Y.T. (Pretty Young Thing) - Acoustic",
-      "url": "https://open.spotify.com/track/3rsvlorTQ6B53i3NWF2bG5"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "The Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        }
-      ],
-      "duration_ms": 219511,
-      "name": "Can't Hold Us",
-      "url": "https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW"
     },
     {
       "added_at": "2022-04-22 15:54:39",

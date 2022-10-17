@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14067,
+  "num_followers": 14083,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDBhOGVhYTkzOTVjNDQ2MmVkYTRkNDYxMDNiMmE0NDQ0",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDg2NWE0NDhiNDBmYzQ3NDFjYmY2ZjgzMDQxNDU4YzI1",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Maldito",
-        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 204889,
-      "name": "Coraz\u00f3n Maldito",
-      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Tiempo Mariposa",
         "url": "https://open.spotify.com/album/4mwdsJlML3Qi566J5t21Ef"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 249481,
       "name": "O Mundo",
       "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Maldito",
+        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 204889,
+      "name": "Coraz\u00f3n Maldito",
+      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
     }
   ],
   "unique_name": "Mujeres del Tango",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Anthony Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,881 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,926 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 9 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 10 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 |
 | 11 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
-| 12 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
-| 13 | [I Want You](https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 2:26 |
+| 12 | [I Want You](https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 2:26 |
+| 13 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
 | 14 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
 | 15 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
 | 16 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 |
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 31 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 |
 | 32 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 |
 | 33 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 |
-| 34 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 |
-| 35 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
+| 34 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
+| 35 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 |
 | 36 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 |
-| 37 | [Notches](https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Notches](https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D) | 7:03 |
-| 38 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 |
+| 37 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 |
+| 38 | [Notches](https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Notches](https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D) | 7:03 |
 | 39 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 |
 | 40 | [Say You Will](https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 3:54 |
 | 41 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 44 | [Be Your Own Invention](https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s) | [Henry's Funeral Shoe](https://open.spotify.com/artist/3KTPs5Fok7A2VrDWNBlr4f) | [Donkey Jacket](https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI) | 5:18 |
 | 45 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 |
 | 46 | [Scarborough Street Fight](https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Scarborough Street Fight](https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk) | 4:30 |
-| 47 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
+| 47 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 |
 | 48 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 |
-| 49 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 |
+| 49 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 | 50 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGJjZGZhMzA4NzVhM2U1MTVmZmRjZmE0MjZmZGIxYjQ2`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDUwMzVlZTQyMzQ5ZDQ5OGE0Zjg3NGFlNWFmOTQ3Zjg1`

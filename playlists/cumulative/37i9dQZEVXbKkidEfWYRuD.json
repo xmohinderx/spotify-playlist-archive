@@ -6545,7 +6545,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 120187,
       "name": "showdown",
       "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
@@ -7487,7 +7487,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -8007,7 +8007,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 124226,
       "name": "Ya Lyublyu",
       "url": "https://open.spotify.com/track/3Hff4mCaUFKzrq05w78tEn"
@@ -8061,7 +8061,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 111750,
       "name": "Yeyo!",
       "url": "https://open.spotify.com/track/4jvw60Iw8LpSRJwy1sOmoB"
@@ -9443,7 +9443,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 183218,
       "name": "\u0412\u0438\u0448\u043di",
       "url": "https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A"
@@ -9483,7 +9483,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "\u0412\u043e\u0432\u0430, \u0457\u0431\u0430\u0448 \u0457\u0445 \u0431\u043b\u044f\u0442\u044c",
       "url": "https://open.spotify.com/track/1K2ORdYBMvi5h4FvQn5hpX"
@@ -14857,7 +14857,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 89806,
       "name": "\u0422\u0430\u0431\u043b\u0435\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/0fLampmh4qsOLGitXM171a"
@@ -16085,6 +16085,24 @@
       "duration_ms": 193746,
       "name": "\u0427\u0438\u0441\u0442\u044b\u0439 - OST \u00ab\u041f\u0441\u0438\u0445\u00bb",
       "url": "https://open.spotify.com/track/2Z0OcpA4i1KayJbXn800le"
+    },
+    {
+      "album": {
+        "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx"
+      },
+      "artists": [
+        {
+          "name": "100\u043b\u0438\u0446\u044f",
+          "url": "https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133305,
+      "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T"
     },
     {
       "album": {

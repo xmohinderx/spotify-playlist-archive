@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,436 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,438 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 57 | [Don't Forget About Me](https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm) | 4:28 |
 | 58 | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/track/3icbmPGKTsKAa0IinkizCM) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/album/7skmxw0M4VQMZwY4lICAHl) | 3:06 |
 | 59 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 |
-| 60 | [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 |
+| 60 | [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 |
 | 61 | [Lay Here](https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW) | [The Mulligan Brothers](https://open.spotify.com/artist/7dohdcCGn1V9tieoC7ndRy) | [The Mulligan Brothers](https://open.spotify.com/album/5EEfgJDMdWvaJ1EDS7QkxH) | 4:19 |
 | 62 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 63 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 79 | [Shine](https://open.spotify.com/track/2im8Pxe6JuPf6dhpxhl2nX) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 3:02 |
 | 80 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 81 | [Flowers in Your Hair](https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 1:49 |
-| 82 | [Day to Day for 6 Days a Week](https://open.spotify.com/track/4TRRAsZlSanRqzmsCaJ5XM) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/3UzRNNQbZ8X9mziFPaknwg) | 5:06 |
+| 82 | [Day to Day for 6 Days a Week](https://open.spotify.com/track/50JxXwTIEITUAXD0rvXNdX) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/5s0L3TKdsrVc3OdWd6Rmly) | 5:06 |
 | 83 | [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 |
 | 84 | [Wait For You](https://open.spotify.com/track/3JxsDs3cx0DDLxSYkFh1CZ) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Ady Suleiman](https://open.spotify.com/album/6DeDaoXGyIngJjzcRK6OH0) | 3:17 |
 | 85 | [Gracefully](https://open.spotify.com/track/6o48EgHLxA0g0NLcDXukz7) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 99 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 |
 | 100 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 |
 
-Snapshot ID: `MTY1OTk2MzA0MiwwMDAwMDAwMGNiYzRhZTQzMjIwMGU2ZTYzMWViMmQwOTFkZGQ4MTgy`
+Snapshot ID: `MTY1OTk2MzA0MiwwMDAwMDAwMGUxNTMxYmJhNmMyMmE2ODlkYzJlYzY5OWJhYWVjNWIz`

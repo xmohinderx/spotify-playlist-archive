@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 14422,
+  "num_followers": 14601,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGNlYjQ3MWYyMjk3ODgxNzgwYWNlZThjYTk0OTgwNTFm",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGQxNTVkYmQ2YzM0MzZmNWE1NGEzNTliMjQ2YWIwNjZi",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -71,22 +71,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Today And Now",
-        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Love Song From \"Apache\"",
-      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "I Still See You In My Dreams",
         "url": "https://open.spotify.com/album/37NCgGDRaxH8E7N4pxunDM"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 197471,
       "name": "I Still See You In My Dreams",
       "url": "https://open.spotify.com/track/0zBUB6TUdZNOeWrQphEP6J"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Today And Now",
+        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Love Song From \"Apache\"",
+      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -195,26 +195,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Tempo Di Chet",
-        "url": "https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL"
+        "name": "Pristine",
+        "url": "https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ"
       },
       "artists": [
         {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Dino Rubino",
-          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
-        },
-        {
-          "name": "Marco Bardoscia",
-          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+          "name": "Willowdale",
+          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
         }
       ],
-      "duration_ms": 261415,
-      "name": "The Silence of Your Heart",
-      "url": "https://open.spotify.com/track/4oU07qd2sv9NxW61Op66Jh"
+      "duration_ms": 236724,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -251,18 +243,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Pristine",
-        "url": "https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ"
+        "name": "Tempo Di Chet",
+        "url": "https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL"
       },
       "artists": [
         {
-          "name": "Willowdale",
-          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
+        },
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
         }
       ],
-      "duration_ms": 236724,
-      "name": "Pristine",
-      "url": "https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF"
+      "duration_ms": 261415,
+      "name": "The Silence of Your Heart",
+      "url": "https://open.spotify.com/track/4oU07qd2sv9NxW61Op66Jh"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Chet (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 282053,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Moon Mist",
         "url": "https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 330615,
       "name": "Young and Foolish",
       "url": "https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Chet (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 282053,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -579,6 +579,38 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Simplicitas",
+        "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
+      },
+      "artists": [
+        {
+          "name": "Edward Simon",
+          "url": "https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF"
+        },
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Adam Cruz",
+          "url": "https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        },
+        {
+          "name": "Adam Rogers",
+          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
+        }
+      ],
+      "duration_ms": 308453,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Within a Dream",
         "url": "https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4"
       },
@@ -615,22 +647,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Colour",
         "url": "https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Tokyo '96",
-        "url": "https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h"
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
       "artists": [
         {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
         }
       ],
-      "duration_ms": 422933,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu"
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -687,50 +703,34 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Simplicitas",
-        "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
+        "name": "Presenting Ray Bryant",
+        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
       },
       "artists": [
         {
-          "name": "Edward Simon",
-          "url": "https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF"
-        },
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Adam Cruz",
-          "url": "https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        },
-        {
-          "name": "Adam Rogers",
-          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
         }
       ],
-      "duration_ms": 308453,
-      "name": "Simplicity",
-      "url": "https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0"
+      "duration_ms": 206053,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
     },
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+        "name": "Tokyo '96",
+        "url": "https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
         }
       ],
-      "duration_ms": 343986,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/17C96Rsq4f38eMuZRGtku6"
+      "duration_ms": 422933,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -751,18 +751,34 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Presenting Ray Bryant",
-        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
       },
       "artists": [
         {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 206053,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
+      "duration_ms": 343986,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/17C96Rsq4f38eMuZRGtku6"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "On Broadway",
+        "url": "https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5pjC6gbfSHeUrzgzahrKs7"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -787,22 +803,6 @@
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "On Broadway",
-        "url": "https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 276506,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5pjC6gbfSHeUrzgzahrKs7"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Hidden Beauty",
-        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
+        "name": "Quiet Time",
+        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
       },
       "artists": [
         {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+          "name": "John Brown",
+          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
         }
       ],
-      "duration_ms": 243013,
-      "name": "Leave Me Here",
-      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
+      "duration_ms": 492933,
+      "name": "When October Goes",
+      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Quiet Time",
-        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
+        "name": "Hidden Beauty",
+        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
       },
       "artists": [
         {
-          "name": "John Brown",
-          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
         }
       ],
-      "duration_ms": 492933,
-      "name": "When October Goes",
-      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
+      "duration_ms": 243013,
+      "name": "Leave Me Here",
+      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "De\u0301sespe\u0301re\u0301s",
         "url": "https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 221624,
       "name": "De\u0301sespe\u0301re\u0301s",
       "url": "https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Beloved of the Sky",
-        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
-      },
-      "artists": [
-        {
-          "name": "Renee Rosnes",
-          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
-        }
-      ],
-      "duration_ms": 440513,
-      "name": "The Winter of My Discontent",
-      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 707933,
       "name": "Lonnie's Lament",
       "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Beloved of the Sky",
+        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
+      },
+      "artists": [
+        {
+          "name": "Renee Rosnes",
+          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
+        }
+      ],
+      "duration_ms": 440513,
+      "name": "The Winter of My Discontent",
+      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Hodges: Front and Center, Vol. 1",
+        "url": "https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD"
+      },
+      "artists": [
+        {
+          "name": "Owen Broder",
+          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
+      "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Stan Getz Plays",
         "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 444573,
       "name": "Tangorrus Field",
       "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        }
-      ],
-      "duration_ms": 763466,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x"
     }
   ],
   "unique_name": "Sad Jazz",

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-304 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+305 songs - 1 day 3 hr 53 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Remains of the Day](https://open.spotify.com/track/1bih91Y06qt9xHgEDK9Euj) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 5:25 | 2022-05-03 |  |
 | [Remember](https://open.spotify.com/track/1LgzNGS3gL4WnRvdyqBFeP) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Remember](https://open.spotify.com/album/06upay8uzbI2ayyMzeuQxz) | 5:02 | 2021-12-08 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/4QIhWFO2vfdJtDKRpyD9DP) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Remember](https://open.spotify.com/album/1Qw6kCV9HPby6Pt8nkOiFR) | 5:02 | 2022-05-03 | 2022-10-14 |
+| [Remember](https://open.spotify.com/track/5pRH7tcR0X86sU1wAsY5fA) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Remember](https://open.spotify.com/album/12Qmk2p1qBQvqqwnvNb10K) | 5:02 | 2022-05-03 |  |
 | [Remember to Love \- Extended Mix](https://open.spotify.com/track/6cyzz6IwvfjbPiNreeMhZ0) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Sattam](https://open.spotify.com/artist/6iyc6BGLOwF8ZZIfcaLVP7) | [Remember to Love](https://open.spotify.com/album/7yEq7FYgBKTzdGAkc6l45b) | 5:04 | 2021-12-08 |  |
 | [Reminds Me Of Her](https://open.spotify.com/track/51m6hGfXZwpx9YBbcryUpD) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Reminds Me Of Her](https://open.spotify.com/album/3cpziZcx5ENSn60NopxwT0) | 6:25 | 2021-12-08 |  |
 | [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 |  |
@@ -235,7 +236,7 @@
 | [Sofia's Theme](https://open.spotify.com/track/6H1qRu7bx0H8MwUHHQQ5P4) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/0ehVZfAiALYIbzocHRBfpF) | 5:26 | 2022-05-03 |  |
 | [Soft Landing \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/0y50PSpOcYLOYrc0Xgw67R) | [David Hohme](https://open.spotify.com/artist/2dYKTyW1fmdSt8hih9j9yE), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Anjunadeep 09](https://open.spotify.com/album/5MPERlPtdL1hOQfFLwpdXt) | 7:03 | 2022-05-03 |  |
 | [Sol](https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 6:24 | 2021-12-08 |  |
-| [Solace](https://open.spotify.com/track/4K1uWOEOc35qp3uqvP5hls) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/4DDpH2PSjc0E09E3W1nhYW) | 4:47 | 2022-05-03 |  |
+| [Solace](https://open.spotify.com/track/4K1uWOEOc35qp3uqvP5hls) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/4DDpH2PSjc0E09E3W1nhYW) | 4:47 | 2022-05-03 | 2022-10-17 |
 | [Solace](https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/07vqdHo7zpz7GiykpxWGbi) | 4:47 | 2021-12-08 | 2022-07-29 |
 | [Solaris](https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 7:30 | 2021-12-08 |  |
 | [Solid Gold Love](https://open.spotify.com/track/6YzXlsjXVZTwUoKSwHZsuF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Solid Gold Love](https://open.spotify.com/album/2S2xWb8NSimNm5D4jz6vSp) | 4:05 | 2021-12-08 |  |

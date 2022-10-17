@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 217400,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
@@ -337,6 +337,24 @@
       "duration_ms": 253853,
       "name": "Goodbye Jimmy Reed",
       "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
+    },
+    {
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324800,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
     },
     {
       "album": {
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 252066,
       "name": "It's All over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 327466,
       "name": "Queen Jane Approximately",
       "url": "https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK"

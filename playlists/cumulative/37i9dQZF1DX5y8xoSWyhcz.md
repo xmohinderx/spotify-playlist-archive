@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
 
-976 songs - 2 day 2 hr 4 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+977 songs - 2 day 2 hr 7 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Edgewood](https://open.spotify.com/track/0LtwtBZ6zkKw4XOlqVQ9Wd) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Edgewood](https://open.spotify.com/album/4Ou2P6tgp9mVu6H0UtVt7w) | 3:40 | 2020-11-14 | 2021-01-21 |
 | [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-12 | 2022-10-01 |
 | [Egotism](https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd) | 3:12 | 2021-01-23 | 2021-04-10 |
-| [Eighteen](https://open.spotify.com/track/0Vo9cyMCixFq5n93LjiOGq) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5nIPa04mVwZKnOjgr0SUBU) | 2:56 | 2022-06-17 |  |
+| [Eighteen](https://open.spotify.com/track/0Vo9cyMCixFq5n93LjiOGq) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5nIPa04mVwZKnOjgr0SUBU) | 2:56 | 2022-06-17 | 2022-10-17 |
+| [Eighteen](https://open.spotify.com/track/2nedsXMQLeKmvRYoLAGOuh) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5SwILpenGYOUgKAxG5lT7v) | 2:56 | 2022-10-14 |  |
 | [Election Night](https://open.spotify.com/track/4YtuMlqBjqZKTNl5roHdnw) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Election Night](https://open.spotify.com/album/1CiLPhpIdbUsrJlf3SvCNe) | 3:30 | 2021-09-11 | 2021-10-23 |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-04 | 2022-04-02 |
 | [emily](https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 3:53 | 2021-02-06 | 2021-05-03 |

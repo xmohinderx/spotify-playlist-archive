@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,823 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,885 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 21 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
 | 22 | [Roll 'Em](https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 2:53 |
 | 23 | [The House of Blue Lights](https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA) | [Ella Mae Morse](https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v), [Freddie Slack And His Orchestra](https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw), [Don Raye](https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X) | [Capitol Collectors Series](https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V) | 2:53 |
-| 24 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 |
-| 25 | [I Got It \- Remastered](https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf) | 2:18 |
+| 24 | [I Got It \- Remastered](https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf) | 2:18 |
+| 25 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 |
 | 26 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
 | 27 | [Mac's Boogie](https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Dr\. John Plays Mac Rebennack The Legendary Sessions V\. 1](https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF) | 4:01 |
 | 28 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 49 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
 | 50 | [Rocket Boogie "88" \(Pt\. 1\)](https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7), [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Tell Me Pretty Baby](https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk) | 2:50 |
 
-Snapshot ID: `MTY2NTQwNjM2OCwwMDAwMDAwMGVhMTMyOTU0MGRlZjhiZmY0YTYyMzcxYzViMzk0MTdj`
+Snapshot ID: `MTY2NTQwNjM2OCwwMDAwMDAwMDg1MDYwMTYzY2NlZWFlNTA5MDhlNDlkZGI0MDM2ZmE0`

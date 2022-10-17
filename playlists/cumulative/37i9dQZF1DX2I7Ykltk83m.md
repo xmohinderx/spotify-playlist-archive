@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-292 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+293 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 | 2021-11-14 | 2022-04-27 |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2021-11-14 | 2022-07-29 |
 | [PBR \(with girlhouse\)](https://open.spotify.com/track/7pb6zMQEK9LBAP140UNIpt) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [PBR \(with girlhouse\)](https://open.spotify.com/album/4BmMN4Z1v1JjU9zelxaBH3) | 3:38 | 2022-04-01 | 2022-07-29 |
-| [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 | 2022-10-07 |  |
+| [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 | 2022-10-07 | 2022-10-17 |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2021-11-14 | 2022-07-29 |
 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 | 2022-01-21 | 2022-07-28 |
 | [Pirouette](https://open.spotify.com/track/5oUX2t6FugfvFTrXS3V24V) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Pirouette](https://open.spotify.com/album/3wx7RbiHd7BLA9MrONkuKx) | 4:30 | 2022-04-01 | 2022-07-28 |
@@ -290,6 +290,7 @@
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2021-12-08 |  |
 | [Wheel](https://open.spotify.com/track/363AueKOQ8PWZpmSBh6bQk) | [Katie Von Schleicher](https://open.spotify.com/artist/68UA9076k6lewTq2slA1FN) | [Consummation](https://open.spotify.com/album/7BFCex0ujA1VHUvkqjqlnb) | 2:15 | 2021-11-14 | 2022-07-25 |
 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 | 2022-10-07 |  |
+| [Who Am I But Someone](https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:42 | 2022-10-07 |  |
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-04-01 | 2022-10-15 |
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2021-12-08 | 2022-04-14 |
 | [Wonder](https://open.spotify.com/track/51kze9dPhittQFgS6kc2wb) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Wonder](https://open.spotify.com/album/4aOPrkSRPB7HmDYmgrvZAa) | 2:11 | 2021-11-14 | 2022-07-27 |

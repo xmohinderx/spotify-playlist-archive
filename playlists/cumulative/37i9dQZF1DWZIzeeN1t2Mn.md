@@ -4,7 +4,7 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-68 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
+69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Many Moods: Good Man](https://open.spotify.com/track/7E723jms0rFtzUY2GCvEoW) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Good Man](https://open.spotify.com/album/3vfLlKACFs1zToGhRv72MR) | 2:42 | 2020-06-17 | 2022-10-16 |
 | [Many Moods: Manifesto](https://open.spotify.com/track/1aUI6hBGedCFz3240pPS3i) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Manifesto](https://open.spotify.com/album/4v9Td6fjmFAmZj1KCSPu0j) | 2:10 | 2020-06-17 |  |
 | [Many Moods: Manifesto](https://open.spotify.com/track/3UQpP2Xi4ojN1CgBO8kE2D) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Manifesto](https://open.spotify.com/album/26mDw87Q0eRxeSFmNKcf4F) | 2:10 | 2020-06-17 | 2022-10-15 |
-| [New Legends](https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/0GPmI4EBn4BrmjlyQordOu) | 4:16 | 2020-06-17 |  |
+| [New Legends](https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/0GPmI4EBn4BrmjlyQordOu) | 4:16 | 2020-06-17 | 2022-10-17 |
+| [New Legends](https://open.spotify.com/track/3QJTmlay3nLxhp0ol14N3l) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/18nkh2pT8cwaheJfw9p9ju) | 4:16 | 2020-06-17 |  |
 | [NO CD](https://open.spotify.com/track/5yH8Ce7MpMwJPDSRvgIZF6) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Rebel Kleff](https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 4:17 | 2020-06-17 |  |
 | [NO CD](https://open.spotify.com/track/7wxSkft3f6OG3Y3Vysd470) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Rebel Kleff](https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6) | [Yesterday's Gone](https://open.spotify.com/album/0tgsACxUMuBElueq2YRe1K) | 4:17 | 2020-06-17 | 2022-07-29 |
 | [No Gravity](https://open.spotify.com/track/4upiX0Cm8rEWdj3gA7ly7O) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp) | [No Gravity](https://open.spotify.com/album/4m7yWHMv7Jv60Bff7fHLRg) | 3:27 | 2020-06-17 |  |

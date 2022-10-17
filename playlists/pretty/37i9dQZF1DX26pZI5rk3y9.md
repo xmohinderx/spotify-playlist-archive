@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,366 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,381 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 16 | [Potato Chips](https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 3:05 |
 | 17 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
 | 18 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
-| 19 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
-| 20 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
+| 19 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
+| 20 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 21 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
 | 22 | [Country Child](https://open.spotify.com/track/30PKqHQREud0qvvSjBi4HU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:29 |
 | 23 | [I Hear You Knocking \- Remastered 2002](https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 1:52 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 30 | [The Sun Is Shining](https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:43 |
 | 31 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
 | 32 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 |
-| 33 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 |
-| 34 | [Back Water Blues](https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [The Soul Queen Of New Orleans: 50th Anniversary Celebration](https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs) | 3:30 |
+| 33 | [Back Water Blues](https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [The Soul Queen Of New Orleans: 50th Anniversary Celebration](https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs) | 3:30 |
+| 34 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 |
 | 35 | [Little By Little \(I'm Losing You\)](https://open.spotify.com/track/25vYkkypWmtzS88Podza8X) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:33 |
 | 36 | [I Love The Woman](https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Freddy King Sings](https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs) | 2:48 |
 | 37 | [Chicken Rhythm](https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 2:29 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 42 | [I See a Man Downstairs](https://open.spotify.com/track/54JUUTQSkFRwoi03H3LSEx) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [Brian Auger & The Trinity](https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU) | [I See a Man Downstairs](https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR) | 3:12 |
 | 43 | [Cole Slaw \(Sorghum Switch\)](https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [Best Of Rhythm & Blues](https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4) | 3:11 |
 | 44 | [These Kind of Blues](https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:11 |
-| 45 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
-| 46 | [The Fish](https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Guitar Women, Vol.4](https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj) | 2:41 |
+| 45 | [The Fish](https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Guitar Women, Vol.4](https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj) | 2:41 |
+| 46 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
 | 47 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 |
 | 48 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 |
 | 49 | [Pigmeat](https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Lead Belly: The Smithsonian Folkways Collection](https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK) | 2:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDkzMzAyYjFjMTU5NjQwMWMzZWRmZTk1ZDlhMDg4M2Jm`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMGNkNWExY2RlOWM1YjM1NTJhYWQ3ODdkMDQzOTRmODU0`

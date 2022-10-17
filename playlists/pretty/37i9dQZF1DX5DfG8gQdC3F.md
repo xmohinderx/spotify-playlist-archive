@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lil Baby \(pictured\), Marshmello & Juice WRLD, Tove Lo, blink\-182, Bailey Zimmerman and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,433 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,465 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 60 | [Waiting](https://open.spotify.com/track/7k9CE2KimxZKdUQuExn572) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Waiting](https://open.spotify.com/album/03sZjNvyZItPPVqrhj0YVK) | 2:55 |
 | 61 | [Il faut s'accorder](https://open.spotify.com/track/0xQI6hfuMIGaViAEFRLH7K) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Il faut s'accorder](https://open.spotify.com/album/5QktmuqaCrs2i3oH8i6dG3) | 4:08 |
 | 62 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
-| 63 | [G.L.H.](https://open.spotify.com/track/19Bt4uIhr07MqpZfCCMGfj) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [G.L.H.](https://open.spotify.com/album/52O2wVjkbEzelnanPjUDyr) | 3:48 |
+| 63 | [Gorilla Lion Hyena](https://open.spotify.com/track/19Bt4uIhr07MqpZfCCMGfj) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Gorilla Lion Hyena](https://open.spotify.com/album/52O2wVjkbEzelnanPjUDyr) | 3:48 |
 | 64 | [Petty](https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Petty](https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq) | 3:15 |
 | 65 | [Ain't Reason](https://open.spotify.com/track/2HCKM5YBNx2D6HX4JHTyTx) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Ain't Reason](https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev) | 2:26 |
 | 66 | [Yesterdays.](https://open.spotify.com/track/6RMPhGmhBkZWlITgD1T0ai) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Albion Road Demos.](https://open.spotify.com/album/456OEsSKMH1s7Oe1tklbZr) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 42 | [Butterfly Doors](https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI) | [Onlybino!](https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF) | [Butterfly Doors](https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j) | 1:52 |
 | 43 | [No Ties \- Amapiano Remix](https://open.spotify.com/track/0N3SdZTNhp0gZDCoZgiYNH) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [No Ties \(Amapiano Remix\)](https://open.spotify.com/album/2S7i4HxGQBN9okVs3Po1Gy) | 5:42 |
 | 44 | [Champion](https://open.spotify.com/track/7gXQeFv66TUng1LyjjHDvb) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 2:47 |
-| 45 | [Nouveau western](https://open.spotify.com/track/2cK1DW6Od3BylERFN6QHqx) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Nouveau western](https://open.spotify.com/album/3MPv6sSyVnoEnsbN1By0b5) | 4:34 |
-| 46 | [Backhand](https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [Welcome to Heaven](https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD) | 1:46 |
-| 47 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
+| 45 | [Yes Sir](https://open.spotify.com/track/3v0x0ScI9wcUlPZIdfRETf) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy) | 4:08 |
+| 46 | [Nouveau western](https://open.spotify.com/track/2cK1DW6Od3BylERFN6QHqx) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Nouveau western](https://open.spotify.com/album/3MPv6sSyVnoEnsbN1By0b5) | 4:34 |
+| 47 | [Backhand](https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [Welcome to Heaven](https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD) | 1:46 |
 | 48 | [Proud](https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Proud](https://open.spotify.com/album/2gWZLUStRmDNXSq8oHA3z0) | 2:38 |
-| 49 | [Yes Sir](https://open.spotify.com/track/3v0x0ScI9wcUlPZIdfRETf) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy) | 4:08 |
+| 49 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
 | 50 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/67gsMz7IUC9sun9DuUqVDE) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 3:30 |
 
-Snapshot ID: `MTY2NDY0NTg3NywwMDAwMDAwMDhiYzAyY2U3NWExZjIxYjEyYThlZWQ3OTVhNDJmM2M4`
+Snapshot ID: `MTY2NDY0NTg3NywwMDAwMDAwMDg2YTY2ZTA5YWNkZmU1ZGVmYTJmZGMyYTAyYzE0OTNl`

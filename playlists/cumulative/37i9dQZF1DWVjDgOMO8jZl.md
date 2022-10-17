@@ -4,7 +4,7 @@
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: Sans Soucis
 
-72 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+73 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 | 2022-08-31 |  |
 | [Obligé \(feat\. Axell\)](https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Obligé \(feat\. Axell\)](https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn) | 2:45 | 2022-08-31 |  |
 | [Occhi Niagara](https://open.spotify.com/track/6FAt6ZLFlPpjg26N5vZcIJ) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Occhi Niagara](https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y) | 3:27 | 2022-08-31 |  |
-| [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 | 2022-08-31 |  |
+| [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 | 2022-08-31 | 2022-10-17 |
+| [On Time For Her](https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 3:38 | 2022-08-31 |  |
 | [Oracolo](https://open.spotify.com/track/33SLkWv2MYlUhtUiIyy6hH) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Oracolo](https://open.spotify.com/album/1aHsVu3iBZ3EWqm3U0R4Oy) | 3:17 | 2022-08-31 |  |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-08-31 |  |
 | [Paranoia](https://open.spotify.com/track/3yHmVCjg1ed4BrPJIwj2DL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Moquette](https://open.spotify.com/album/0oST0heRwy4pEVmiMTTqz7) | 3:21 | 2022-08-31 |  |

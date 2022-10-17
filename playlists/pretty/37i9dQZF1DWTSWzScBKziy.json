@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 82406,
+  "num_followers": 82428,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGUyMjg5ZDBkZmY1NmFiZGE3NDNiOTkxYzZhMTQ1ZmIz",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGUzZDVmZTMzZmY3ZWQwNmQ1OTc2MDU5MjQzMzU1MDY4",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "TAYA",
-        "url": "https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "For All My Life",
-      "url": "https://open.spotify.com/track/6qKbhIsM00FFhI1OKi74V7"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Gratitude (feat. Cheyenne Mitchell)",
         "url": "https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 252492,
       "name": "Gratitude (feat. Cheyenne Mitchell)",
       "url": "https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "TAYA",
+        "url": "https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "For All My Life",
+      "url": "https://open.spotify.com/track/6qKbhIsM00FFhI1OKi74V7"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 222985,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Loved By You",
         "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 193934,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 222985,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Everything and More",
         "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 232466,
       "name": "Everything and More",
       "url": "https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Jesus Did",
         "url": "https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 210599,
       "name": "Still",
       "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
-      },
-      "artists": [
-        {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Unexpected Roads",
+        "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Unexpected Roads",
+      "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Unexpected Roads",
-        "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Unexpected Roads",
-      "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "I Was Loved",
         "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 281880,
       "name": "I Was Loved",
       "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Breaking Boundaries",
-        "url": "https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb"
-      },
-      "artists": [
-        {
-          "name": "Sunday Drive",
-          "url": "https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY"
-        }
-      ],
-      "duration_ms": 243155,
-      "name": "Breaking Boundaries",
-      "url": "https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "How Can I Be Silent",
         "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 204050,
       "name": "How Can I Be Silent",
       "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Breaking Boundaries",
+        "url": "https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb"
+      },
+      "artists": [
+        {
+          "name": "Sunday Drive",
+          "url": "https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY"
+        }
+      ],
+      "duration_ms": 243155,
+      "name": "Breaking Boundaries",
+      "url": "https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR"
     },
     {
       "added_at": "2022-05-27 18:07:44",

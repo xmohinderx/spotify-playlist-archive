@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Justin Quiles & Carin Leon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,128 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,187 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 83 | [NOSE](https://open.spotify.com/track/5xCCO1GYwnC0Pwt0CgNC2z) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [NOSE](https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm) | 2:53 |
 | 84 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 |
 | 85 | [Tq para mi ✨](https://open.spotify.com/track/1wBM6bZWmwr0Wtq3S4SRDr) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [Tq para mi ✨](https://open.spotify.com/album/1VWrrII4gcdo9tr3wEak1t) | 3:36 |
-| 86 | [Bummed](https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Bummed](https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD) | 3:00 |
-| 87 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
-| 88 | [Pa Que Te Digo Que No](https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ) | 2:54 |
+| 86 | [Pa Que Te Digo Que No](https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ) | 2:54 |
+| 87 | [Bummed](https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Bummed](https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD) | 3:00 |
+| 88 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
 | 89 | [Más Allá](https://open.spotify.com/track/17WGo3851h6lRAU8GFV9uR) | [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Más Allá](https://open.spotify.com/album/5NlFJJVCJkquplO5wotAlT) | 2:51 |
 | 90 | [too good to be true](https://open.spotify.com/track/4DtPemed93VqdvI0mTw9VG) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [too good to be true](https://open.spotify.com/album/3GYLubZssZWahip1mUSzKR) | 2:32 |
 | 91 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 |
 | 92 | [Burning](https://open.spotify.com/track/5Y182K8LZYZW1XGUAare73) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Preciau](https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3) | [Burning](https://open.spotify.com/album/7o6ioPhQuKgadO9XLjVMgX) | 2:26 |
 | 93 | [Solos](https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Solos](https://open.spotify.com/album/128JK5zcSwTC1kSNvQqCbS) | 2:59 |
-| 94 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 |
-| 95 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 |
+| 94 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 |
+| 95 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 |
 | 96 | [Celular](https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Celular](https://open.spotify.com/album/596veIoeFm89apz1MbGoNE) | 2:46 |
 | 97 | [Apodos](https://open.spotify.com/track/6j3eHgouvrPZsc195RkHGd) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Apodos](https://open.spotify.com/album/1QUaGILRvCs7Iqo8h9ysBP) | 2:39 |
 | 98 | [FEROZ](https://open.spotify.com/track/404rDc5fmLVJkI7S5bbMdw) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [FEROZ](https://open.spotify.com/album/0BzXQTDJfQqy7Q0mjj0ecV) | 2:55 |
 | 99 | [Huracan](https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Huracan](https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi) | 3:04 |
 | 100 | [Burberry Tears](https://open.spotify.com/track/19dOJKxWjNgWsjGVcItOSD) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NMDA](https://open.spotify.com/album/7M69A9V3GcxsqMjYNAzcr5) | 3:05 |
 
-Snapshot ID: `MTY2NTE1ODI4MiwwMDAwMDAwMDcyYzhmZTlkZGEzOWMwNDhjMjA3MjgyNThiMmY2NzYz`
+Snapshot ID: `MTY2NTE1ODI4MiwwMDAwMDAwMGNiMmVjOWQ4OGMzYmUzNTkyYzAxY2MyY2RkYTE4Zjc1`

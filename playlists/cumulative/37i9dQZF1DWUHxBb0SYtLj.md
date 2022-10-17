@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Rose Villain
 
-351 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
+352 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Parentesi \(feat\. Giorgia\) \- prod\. tha Supreme](https://open.spotify.com/track/6vptpBqIrjv7zvqa26P3yA) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [UNIVERSO](https://open.spotify.com/album/7iC8xpYEBwvEhpiCs0WfRn) | 3:33 | 2022-02-02 | 2022-04-06 |
 | [Pareti Azzurre](https://open.spotify.com/track/4xMdC91l1BJukWYa6zV8Ul) | [Ofelia](https://open.spotify.com/artist/4AMX8kNDeM0GF5X9IK7ENV), [Blue Jeans](https://open.spotify.com/artist/1s7cfaISyGC1cPTzkT0HD1) | [Pareti Azzurre](https://open.spotify.com/album/0ypk5PGw36fQr94werHbVn) | 2:40 | 2022-06-02 | 2022-06-07 |
 | [Parlo Di Te](https://open.spotify.com/track/7d6gbYqdQYMvCE6FX4Rur4) | [Martina Beltrami](https://open.spotify.com/artist/3Ldc464DQq76zQ27Lc1uyI) | [Parlo Di Te](https://open.spotify.com/album/1RxaNs3FqspeMlUp0u8Qe2) | 3:06 | 2021-12-07 | 2022-01-05 |
-| [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 | 2022-09-06 |  |
+| [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 | 2022-09-06 | 2022-10-17 |
+| [Party on My Own](https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/10ThcyuelklNj1vif5GhTW) | 3:39 | 2022-10-06 |  |
 | [PASSEGGERO](https://open.spotify.com/track/0qkie97igVQ9swEsu0dtrP) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [PASSEGGERO](https://open.spotify.com/album/605aZVj0nBpf1xLppJ41lA) | 3:18 | 2021-12-07 | 2022-02-03 |
 | [pavimento](https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh) | [pavimento](https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal) | 2:52 | 2022-10-06 |  |
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-06-02 | 2022-08-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,938 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 28 | [Disengaged](https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:16 |
 | 29 | [\#7](https://open.spotify.com/track/4Rjz6GjnEtG9upOBj6vGKK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 8:51 |
 | 30 | [In McDonalds](https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 2:07 |
-| 31 | [1.0\_1\-hellofriend.wav](https://open.spotify.com/track/2fFlmlePz9hrVMv4LvdQxN) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj) | 1:16 |
+| 31 | [It Was Only a Dream](https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:58 |
 | 32 | [Eleven](https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 3:14 |
-| 33 | [It Was Only a Dream](https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:58 |
+| 33 | [1.0\_1\-hellofriend.wav](https://open.spotify.com/track/2fFlmlePz9hrVMv4LvdQxN) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj) | 1:16 |
 | 34 | [Acid Rain on Broken Rooftops](https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Music for an Empty Metropolis](https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo) | 4:38 |
 | 35 | [Gemini](https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:56 |
 | 36 | [\#4](https://open.spotify.com/track/0FxUnU4EjDoDGRiFuVjyBH) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:39 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 58 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 |
 | 59 | [Utopian Facade](https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes II](https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK) | 3:47 |
 | 60 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
-| 61 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
+| 61 | [The Ruins And The Serene](https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Asleep And Well Hidden](https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ) | 7:10 |
 | 62 | [What the Earth Bore](https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Echo](https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT) | 4:44 |
-| 63 | [The Ruins And The Serene](https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Asleep And Well Hidden](https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ) | 7:10 |
+| 63 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 64 | [Teresa, Lark of Ascension](https://open.spotify.com/track/05d3d97A54UUffKia3WKpJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/7ov3GoQhZr9Ii6PXOqAVv9) | 3:37 |
 | 65 | [Anthropic Uncreation](https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP) | [Vestigial](https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV) | [Translucent Communion](https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl) | 5:16 |
 | 66 | [Vocerah](https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr) | [Treha Sektori](https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh) | [Endessiah](https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH) | 6:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 | 75 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 |
 
-Snapshot ID: `MTY2MzcxOTkxMywwMDAwMDAwMGY1M2U0MzU5YWNmM2M3ODlkNzRlYWQ3NzQwNzA2ODdh`
+Snapshot ID: `MTY2MzcxOTkxMywwMDAwMDAwMDE4MGMwMTJmMDY4OWUzNDExMjlkZjY3OTUyMWJkMzQ3`

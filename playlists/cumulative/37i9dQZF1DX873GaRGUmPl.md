@@ -4,11 +4,11 @@
 
 > The best alternative songs of the decade so far\. Cover: FKA Twigs
 
-300 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+301 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 | 2022-09-30 |  |
+| [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 | 2022-09-30 | 2022-10-17 |
 | [22 \(OVER S∞∞N\)](https://open.spotify.com/track/5oK98mpTJSU0iqLHN1hZ3y) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 2:48 | 2021-11-15 | 2022-07-05 |
 | [33 “GOD”](https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 3:33 | 2021-11-15 | 2022-07-21 |
 | [8 \(circle\)](https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 5:09 | 2021-11-15 | 2022-07-15 |
@@ -36,6 +36,7 @@
 | [Bathed in Light](https://open.spotify.com/track/1zS6aVMSDsU54qSJUdXzGt) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Powder / Bathed in Light](https://open.spotify.com/album/57m4iZp19WS7w1ex2UMqzA) | 3:13 | 2021-11-15 | 2022-07-20 |
 | [Before Sunrise](https://open.spotify.com/track/6POhPsV2jFJCzZMubANwNB) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Where Wildness Grows](https://open.spotify.com/album/4mJUfanUtn0ymiMLuFZyNV) | 3:57 | 2021-11-15 | 2022-07-29 |
 | [Berlin Got Blurry](https://open.spotify.com/track/7qPK7huRsW7uBsQFTLWZk8) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Human Performance](https://open.spotify.com/album/4RNew41ZeRuoRNg3YAhvpe) | 3:26 | 2021-11-15 | 2022-06-29 |
+| [Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW) | 4:22 | 2022-09-29 |  |
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2022-02-21 | 2022-10-13 |
 | [Best of Friends](https://open.spotify.com/track/64N8jkSty7HGSpwRm6RKrD) | [Palma Violets](https://open.spotify.com/artist/3sVKVwY8TD445BiC6Q4B43) | [180](https://open.spotify.com/album/7pRlHTBSENFfpnfNpPllpv) | 3:30 | 2022-02-21 | 2022-07-28 |
 | [Bite The Hand](https://open.spotify.com/track/1XD0F6XGQFj1kG4KKjnB4s) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH) | 3:12 | 2021-11-15 | 2022-07-29 |
@@ -243,7 +244,7 @@
 | [Somewhere Somehow](https://open.spotify.com/track/07w28JF0iYZsJREgD3906I) | [Oddnesse](https://open.spotify.com/artist/2LjbaKAB72Nj5zKjcRyOxz) | [Somewhere Somehow](https://open.spotify.com/album/5v0UNyDPeZ5Ex12SyYtP8x) | 2:44 | 2021-11-15 | 2022-07-29 |
 | [Spring / Sun / Winter / Dread](https://open.spotify.com/track/0Ou9ZGEhuxJwu5SbEp2XQp) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Get To Heaven \(Deluxe\)](https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J) | 3:18 | 2022-02-21 | 2022-07-26 |
 | [Starstruck \- Single Version](https://open.spotify.com/track/61WB7JcbfXjDpt5WLM2ymI) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Starstruck](https://open.spotify.com/album/4SXMlEIi0DAogXFs5cmvj5) | 3:24 | 2021-11-15 | 2022-07-29 |
-| [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2022-09-30 |  |
+| [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2022-09-30 | 2022-10-17 |
 | [Step](https://open.spotify.com/track/78J9MBkAoqfvyeEpQKJDzD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 4:11 | 2021-11-15 | 2022-07-29 |
 | [Still Life](https://open.spotify.com/track/6hDjYcGWihB1FxwzXgeCWr) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Skying](https://open.spotify.com/album/18cFNLZWL59L9P0dtZw8xY) | 5:21 | 2022-02-21 | 2022-07-29 |
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2022-02-21 |  |
@@ -259,7 +260,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/4g3Ax56IslQkI6XVfYKVc5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/0rxKf57PZvWEoU8v3m5W2q) | 3:36 | 2021-11-15 | 2022-07-15 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-02-21 |  |
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2021-11-15 |  |
-| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 | 2022-10-15 |
+| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 |  |
 | [The Mother We Share](https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD) | 3:11 | 2022-02-21 | 2022-07-26 |
 | [The Night Josh Tillman Came To Our Apt.](https://open.spotify.com/track/3Xg2iQGIZuqV0vjzisyzq0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 3:36 | 2022-02-21 | 2022-07-14 |
 | [The Others](https://open.spotify.com/track/7B03rbWrOQtbjzpxMPAzoi) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Reasons To Dream](https://open.spotify.com/album/1CZX30Fm8HRRlSKm30qyu2) | 3:57 | 2022-02-21 | 2022-06-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 25270,
+  "num_followers": 25313,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGVkMjQ0YTcyNjIyMzNlMjE1ZDk4YWZhMjFhOGQ1ZWI3",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDU2ZTExNmUwOGJhNGI0ZWRjNDg2NGEwNjVlNmM1NDUw",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -534,10 +534,6 @@
         {
           "name": "WurlD",
           "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
         },
         {
           "name": "Yumbs",
@@ -1231,22 +1227,6 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220525,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
         "name": "No Wahala (Remix)",
         "url": "https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG"
       },
@@ -1267,6 +1247,22 @@
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220525,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
     },
     {
       "added_at": "2022-09-09 09:16:27",
@@ -1377,6 +1373,22 @@
       "url": "https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo"
     },
     {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "No Wahala",
+        "url": "https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "No Wahala",
+      "url": "https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M"
+    },
+    {
       "added_at": "2022-07-08 06:11:37",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
@@ -1411,22 +1423,6 @@
       "duration_ms": 186299,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "No Wahala",
-        "url": "https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "No Wahala",
-      "url": "https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M"
     },
     {
       "added_at": "2022-07-22 04:28:03",

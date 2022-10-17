@@ -567,10 +567,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 152293,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+    },
+    {
+      "album": {
+        "name": "La Lloradera",
+        "url": "https://open.spotify.com/album/309Ivzn5Ygopg3ImLZ3Qeq"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "La Lloradera",
+      "url": "https://open.spotify.com/track/5XMKMu698zpti1TwbCUrZr"
     },
     {
       "album": {

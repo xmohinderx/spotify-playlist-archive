@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-119 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+120 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Coleraine Jig / Derrane's / John Stenson's / Moher Reel \- 2022 Remaster](https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Star Spangled Molly \(2022 Remaster\)](https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT) | 5:39 | 2020-11-11 |  |
 | [Coleraine Jig/Derrane's/John Stenson's/Mother Reel](https://open.spotify.com/track/60DXGx8p9BFHko5IgDwEmO) | [De Danann All\-Stars](https://open.spotify.com/artist/4GiZqMvreWFc0AZL2rhnbX) | [The Star Spangled Molly](https://open.spotify.com/album/5go8p25WL9vT4sX2baR433) | 5:40 | 2020-11-11 | 2022-09-23 |
 | [Coleraine Jig/Derrane's/John Stenson's/Mother Reel](https://open.spotify.com/track/6KwgDPblRn3AjFBeaU3kbz) | [De Danann All\-Stars](https://open.spotify.com/artist/4GiZqMvreWFc0AZL2rhnbX) | [The Star Spangled Molly](https://open.spotify.com/album/23syN7EPKdqXszRPCJikMN) | 5:42 | 2020-11-11 | 2022-07-29 |
-| [Coolderry Bridge / The Whistling Postman / The Mills Are Grinding](https://open.spotify.com/track/5Id7Tp8vsvfLDFoUMVjyrn) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [The Fiddle Case](https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl) | 4:26 | 2020-11-11 |  |
+| [Coolderry Bridge / The Whistling Postman / The Mills Are Grinding](https://open.spotify.com/track/24RqbvGYiplXwg79ldjied) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [The Fiddle Case](https://open.spotify.com/album/4CxYrGwYjQOPfIoeiU9dQ3) | 4:26 | 2020-11-11 |  |
+| [Coolderry Bridge / The Whistling Postman / The Mills Are Grinding](https://open.spotify.com/track/5Id7Tp8vsvfLDFoUMVjyrn) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [The Fiddle Case](https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl) | 4:26 | 2020-11-11 | 2022-10-17 |
 | [Cooley's Jig](https://open.spotify.com/track/2VTQ8VMyIFCJ6nx3i2EdWY) | [Noel Hill](https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx), [Tony MacMahon](https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG) | [I gCnoc Na Graí](https://open.spotify.com/album/0nddrCTEQOWTXKaaRBDAHr) | 3:18 | 2020-11-11 | 2022-07-29 |
 | [Cooley's Jig](https://open.spotify.com/track/7yY6EPqQsRMO3DYI19wDaX) | [Noel Hill](https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx), [Tony MacMahon](https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG) | [I gCnoc Na Graí](https://open.spotify.com/album/0M6T36GQGzhrlk89SINXvG) | 3:18 | 2020-11-11 |  |
 | [Cooley's/The Cup Of Tea/The Wise Maid \(Reels\)](https://open.spotify.com/track/387gGrbI14zxr0tl5f31WQ) | [Tulla Céilí Band](https://open.spotify.com/artist/7biHtD7mtFKDUunKPARmGI) | [A Celebration of 50 Years](https://open.spotify.com/album/6oACn8LTzDhv8O4XxXynXK) | 4:02 | 2020-11-11 |  |

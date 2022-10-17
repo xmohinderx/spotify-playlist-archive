@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, Kriss Reeve, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,434 likes - 100 songs - 5 hr 7 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,432 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 90 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 |
 | 91 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 |
 | 92 | [Music Is My Suicide](https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF) | [GNRM](https://open.spotify.com/artist/3orP99gKf9BjrFSwlxgR0S), [AZVRE](https://open.spotify.com/artist/6X2OB3TE91YnoJDmIWAROq), [TORQ](https://open.spotify.com/artist/7ynlueboQGl64hxBmjdeeN) | [Music Is My Suicide](https://open.spotify.com/album/7zT7gs67GfHt4od7vRjAqa) | 2:36 |
-| 93 | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/album/78cHKcaJ2agjy5arczangj) | 3:33 |
-| 94 | [My Pony](https://open.spotify.com/track/7e1pVaWqwd2W1KEeTBodCy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/2leEq4enVRzfHPHzSHzPCS) | 2:33 |
-| 95 | [1, 2 Step \(Supersonic\)](https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [1, 2 Step \(Supersonic\)](https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx) | 2:56 |
+| 93 | [My Pony](https://open.spotify.com/track/7e1pVaWqwd2W1KEeTBodCy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/2leEq4enVRzfHPHzSHzPCS) | 2:33 |
+| 94 | [1, 2 Step \(Supersonic\)](https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [1, 2 Step \(Supersonic\)](https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx) | 2:56 |
+| 95 | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/album/78cHKcaJ2agjy5arczangj) | 3:33 |
 | 96 | [Up & Down](https://open.spotify.com/track/0jBLjZgERcJHch5F6plHLN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [Up & Down](https://open.spotify.com/album/1MyV0ls3oEHCKxg4DojUim) | 1:59 |
 | 97 | [Ocean](https://open.spotify.com/track/5YbiY6G4cH8skZwkmQk6T0) | [Penubiz](https://open.spotify.com/artist/09mmLhlQsy6qsZ6xCxBPbE), [Freaky DJs](https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0) | [Ocean](https://open.spotify.com/album/290Q9wMQ2O7T5b8OH7fBjr) | 2:47 |
 | 98 | [Story](https://open.spotify.com/track/2lKgMEjNbAq3cX93QuSfft) | [Thomas Irwin](https://open.spotify.com/artist/0gQVc6ZiCAzLXqyISPi0qT) | [Story](https://open.spotify.com/album/1RrdMjj57IqU76gY2JEnQJ) | 2:48 |
 | 99 | [High Like This](https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [FR!ES](https://open.spotify.com/artist/6s9IlZhrBJqv3ZCSNzP2Gs) | [High Like This](https://open.spotify.com/album/6TiMCmTJh5ADHupJLR1cRV) | 2:49 |
 | 100 | [LIGHTWAVES](https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LIGHTWAVES](https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte) | 2:21 |
 
-Snapshot ID: `MTQ4NCwwMzVkZTE1ODIyYWI5NzMwYTNmYTE3MTNlYzlmYTIzMWIxYWI3Njg1`
+Snapshot ID: `MTQ4NSxlNTZiNjc4MTdhZjgyOTlhZTA0ODcyNzA4YTcxOTM2YjcyNGQyOThk`

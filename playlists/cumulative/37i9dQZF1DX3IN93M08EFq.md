@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-112 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
+113 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Come Night](https://open.spotify.com/track/7f3Z7lmjvRBspix1Mrs325) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [Sleepyhead](https://open.spotify.com/album/1se8RpZkm6o9VHG7HElEmI) | 3:29 | 2021-06-15 | 2022-07-24 |
 | [Come Night](https://open.spotify.com/track/0YlUnWcHMCHwT4YEsUuAJz) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [Come Night](https://open.spotify.com/album/0iguVCataPGG3vTk2Z4tDV) | 3:29 | 2021-06-15 | 2022-07-29 |
 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 | 2021-06-15 |  |
-| [Come On Eileen \- Single Edit](https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk), [Kevin Rowland](https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m) | [Come On Eileen / Dubious](https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK) | 3:25 | 2021-06-15 |  |
+| [Come On Eileen \- Single Edit](https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk), [Kevin Rowland](https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m) | [Come On Eileen / Dubious](https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK) | 3:25 | 2021-06-15 | 2022-10-17 |
 | [Common People](https://open.spotify.com/track/5xMAMaVbW3tkjXTmSUBPTd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Hits \(International version\)](https://open.spotify.com/album/6ZQrocyTNkEzbQrkjjDbls) | 5:50 | 2021-06-15 | 2022-07-28 |
 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 | 2021-06-15 |  |
 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 | 2021-06-15 |  |
@@ -42,6 +42,7 @@
 | [Electric](https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:58 | 2021-06-15 | 2022-07-29 |
 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 | 2021-06-15 | 2022-07-29 |
 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 | 2021-06-15 |  |
+| [Geraldine](https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/5TeMUnQg051IlhtwhkfqF7) | 3:45 | 2021-06-15 |  |
 | [Geraldine](https://open.spotify.com/track/75UqWU4Y0YdCB9MrnKZZnC) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/2MLOTcKvTfrJHhEeRb164i) | 3:45 | 2021-06-15 | 2022-07-29 |
 | [Girls With Bangs](https://open.spotify.com/track/6NO5nH1z1PktzfYoEifpPd) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Music & Sports](https://open.spotify.com/album/2NbsAu4U7B3ztrAzf5IDqH) | 3:53 | 2021-06-15 | 2022-03-14 |
 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 | 2021-06-15 |  |

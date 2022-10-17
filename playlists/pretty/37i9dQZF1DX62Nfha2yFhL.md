@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,510 likes - 57 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,674 likes - 57 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 9 | [Message](https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 3:26 |
 | 10 | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/track/1I00qI4bQZyKSQ5G5AnKcv) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Refi Sings](https://open.spotify.com/artist/15X73vdLvKcEwXjB37sOIU) | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/album/6GMRzxqK9FZGpUzXwY24Vg) | 3:55 |
 | 11 | [Wanna Love You](https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Wanna Love You](https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB) | 2:50 |
-| 12 | [Lucky Me](https://open.spotify.com/track/066XcsGBMGUpamyOkH2xXX) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/3mibhG0wF43mAZJIOVkxfm) | 3:42 |
+| 12 | [Lucky Me](https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 3:42 |
 | 13 | [Pineapple Cognac](https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM) | 2:14 |
 | 14 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
 | 15 | [Mariposa](https://open.spotify.com/track/0D15z5l7YWqwyJ8wkO2oaA) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [There's Only Being Yourself](https://open.spotify.com/album/39M0gBqg32iFT5unERsKXv) | 3:04 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 56 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 57 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGM4Y2E3OTBhMmI3OWFhMjRlOTZlMGY5MDE4MDk4ZTk3`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDMyNzYxYzc4ZTgwODZmMzk3NDM3YmFkZGIxMTc5ODgz`

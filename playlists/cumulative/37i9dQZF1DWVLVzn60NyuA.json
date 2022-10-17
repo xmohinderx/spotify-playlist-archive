@@ -2439,7 +2439,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 199591,
       "name": "Flex",
       "url": "https://open.spotify.com/track/4Bozf61W7Tv1Vyp18kLZy1"
@@ -4505,6 +4505,24 @@
       "duration_ms": 144050,
       "name": "MYKILLI",
       "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
+    },
+    {
+      "album": {
+        "name": "Mysterious",
+        "url": "https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164334,
+      "name": "Mysterious",
+      "url": "https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT"
     },
     {
       "album": {

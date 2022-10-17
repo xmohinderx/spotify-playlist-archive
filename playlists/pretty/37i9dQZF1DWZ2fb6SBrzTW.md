@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,870 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,896 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 40 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 |
 | 41 | [Wenza Kanjani \(feat\. 2woshort, TNK MusiQ & BoontleRSA\)](https://open.spotify.com/track/2zMTOFjChHz0XEcM0kRt4K) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN) | [Wenza Kanjani \(feat\. 2woshort, TNK MusiQ & BoontleRSA\)](https://open.spotify.com/album/5IbMEbXMh2jDgr7NQl3YZL) | 7:59 |
 | 42 | [Sungba](https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 3:10 |
-| 43 | [Polongo](https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Polongo](https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa) | 2:53 |
+| 43 | [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 |
 | 44 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 |
-| 45 | [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 |
+| 45 | [Polongo](https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Polongo](https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa) | 2:53 |
 | 46 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 |
 | 47 | [My Touch](https://open.spotify.com/track/0ydo79qMlvXi8MMuLFrAl0) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [My Touch](https://open.spotify.com/album/55JLMdnqUusKWh7tdWYCvS) | 2:59 |
 | 48 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 |
 | 60 | [Banyana Ke Bafana](https://open.spotify.com/track/40KwdYRfKnTWTsXyxmR5bp) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [LuuDadeejay](https://open.spotify.com/artist/7gerFjrdrluHHDsuPSkXmH), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q) | [Banyana Ke Bafana](https://open.spotify.com/album/2WZjTuvB7BBQY5sdhyuwIy) | 4:34 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDQzNzRjZGI5OWQ4MmFjMDViNTIyMGY0MzExNjFiZjc0`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDU0ZjllMzExMzNmZTczYjI4Y2Y2NTY5ZTg3ZTFhYTFk`

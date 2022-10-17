@@ -4,7 +4,7 @@
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-79 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
+80 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 | 2021-06-01 |  |
 | [I'm Your Boogie Man](https://open.spotify.com/track/3Hya20ZNnlLzGLCpzJR6bv) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Part 3](https://open.spotify.com/album/7nb5eaxuDO4jbOxk0euRJv) | 4:01 | 2021-06-01 | 2022-07-29 |
 | [I'm Your Boogie Man](https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 4:02 | 2022-05-31 |  |
-| [It's Raining Men \- Single Version](https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Dance Hits \- 80s & 90s](https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL) | 3:31 | 2022-05-31 |  |
+| [It's Raining Men \- Single Version](https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Dance Hits \- 80s & 90s](https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL) | 3:31 | 2022-05-31 | 2022-10-17 |
 | [It's Raining Men \- Single Version](https://open.spotify.com/track/5kErKPSPv8EgdZ04R3el1K) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [It's Raining Men](https://open.spotify.com/album/6KrLqH25xsKvJwyiSRis5A) | 3:32 | 2021-06-01 | 2022-07-29 |
+| [It's Raining Men \- Single Version](https://open.spotify.com/track/1SfYqNab6yiVBKUHhEXGAD) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [It's Raining Men](https://open.spotify.com/album/29FzCeOr6UcJ1ilcbWwoyF) | 3:34 | 2022-05-31 |  |
 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 | 2021-06-01 |  |
 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 | 2022-05-31 |  |
 | [Knights In White Satin \- Part 1](https://open.spotify.com/track/4n9WwRwD2WxBNWAukEtPlk) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Knights In White Satin](https://open.spotify.com/album/1L7szfPWc7Pspsv1DaCBvy) | 4:45 | 2022-05-31 |  |

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Smino, J\. Cole
 
-737 songs - 1 day 19 hr 28 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+738 songs - 1 day 19 hr 32 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Falling Higher](https://open.spotify.com/track/4PnsvxbXokJUKLi3Shuu1P) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Falling Higher](https://open.spotify.com/album/4Pr5IVdzrmGbmWqNP4CRiu) | 3:18 | 2020-04-03 | 2020-06-05 |
 | [Family](https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family](https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ) | 3:27 | 2021-07-04 |  |
 | [Fearless](https://open.spotify.com/track/1BiO2H0lYkGwlqvqQGxrq3) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 4:09 | 2021-02-28 | 2022-07-24 |
-| [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 | 2022-07-22 |  |
+| [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 | 2022-07-22 | 2022-10-17 |
 | [feather light](https://open.spotify.com/track/5i9GI8aOr3tJjaWHOG8icj) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [feather light](https://open.spotify.com/album/0X2oaUwKbgpDQyLVclScOU) | 3:08 | 2021-02-13 | 2022-06-15 |
 | [Feel is Real](https://open.spotify.com/track/6gSaXBYylfiF2hl2t3QvrQ) | [URF Tone](https://open.spotify.com/artist/6u8FlGc02hbJsdnVn071UC) | [Feel is Real](https://open.spotify.com/album/5GPjHxuKkGAdDNzMzd0hYs) | 3:25 | 2021-05-23 | 2021-06-20 |
 | [Feel Like Doing Nothing](https://open.spotify.com/track/2kUQyPvQpScTvEi31bXG9h) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Feel Like Doing Nothing](https://open.spotify.com/album/7Ln0bP0xLLpxm43S1beehA) | 2:32 | 2020-08-07 | 2020-09-29 |
@@ -632,6 +632,7 @@
 | [Sweet Shop](https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sweet Shop](https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ) | 3:50 | 2020-09-04 | 2022-06-16 |
 | [Tadow](https://open.spotify.com/track/1DoS5ql0TW3ejjJGHbsAmz) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/66q4QLWTKxEZnADbRRTnSd) | 5:01 | 2019-09-29\* | 2020-03-13 |
 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2022-07-08 |  |
+| [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-14 |  |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2020-08-25 | 2020-12-18 |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2020-10-16 |  |
 | [Talk Is Cheap](https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:18 | 2022-08-19 |  |

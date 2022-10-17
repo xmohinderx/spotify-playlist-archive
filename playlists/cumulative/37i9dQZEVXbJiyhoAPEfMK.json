@@ -4169,7 +4169,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -4791,7 +4791,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -6611,7 +6611,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
@@ -12199,7 +12199,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 171069,
       "name": "KISSENSCHLACHT",
       "url": "https://open.spotify.com/track/70Xfh3baxA4xusCiV5B5jg"
@@ -12301,7 +12301,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 187790,
       "name": "KOA",
       "url": "https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0"
@@ -12591,6 +12591,24 @@
       "duration_ms": 182160,
       "name": "La solassitude",
       "url": "https://open.spotify.com/track/09IE6tsb0tL0VLGH4GxCOO"
+    },
+    {
+      "album": {
+        "name": "Laisse tomber",
+        "url": "https://open.spotify.com/album/1eUu2t81Xp1S8HBjK0A97Z"
+      },
+      "artists": [
+        {
+          "name": "GAMS",
+          "url": "https://open.spotify.com/artist/4Uz9asdHUEM89qQwFGNRS2"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/2whrZu1OVT5c1QJerSO0Jr"
     },
     {
       "album": {
@@ -14053,7 +14071,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 194558,
       "name": "Low",
       "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
@@ -17503,7 +17521,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86"
@@ -21963,7 +21981,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
@@ -21981,7 +21999,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 190746,
       "name": "Sueltate",
       "url": "https://open.spotify.com/track/0zGCLDwYckDIwSSh7gh00i"
@@ -23151,7 +23169,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -23867,7 +23885,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 166440,
       "name": "Valium",
       "url": "https://open.spotify.com/track/2xlHw1HNGzjPLgRbnWiBSL"

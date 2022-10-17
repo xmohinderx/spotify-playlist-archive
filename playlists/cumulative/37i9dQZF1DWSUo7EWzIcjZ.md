@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-340 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+341 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Besos Callejeros](https://open.spotify.com/track/7wsRG8DxXuJrhB8nUe5ND4) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/2XALHgxpUEsjYyIONx1ruW) | 3:46 | 2021-02-02 | 2022-10-15 |
 | [Borron y Cuenta Nueva](https://open.spotify.com/track/1ZCorCTva79hxDM4v7BzHH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 3:56 | 2021-02-02 | 2022-07-29 |
 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/5hfRgnCUHb6BmNGq7P2FVq) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 3:54 | 2021-02-02 | 2022-07-27 |
+| [Borrón y Cuenta Nueva](https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 3:58 | 2021-02-02 |  |
 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/7EpStg3XDydJ7F9iVfED27) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg) | 3:58 | 2021-02-02 | 2022-10-15 |
 | [Burbujas de Amor](https://open.spotify.com/track/2pag7Y4noCdbVHEfKDKzzq) | [Merengue Exitos](https://open.spotify.com/artist/5fb57nU7czfRxNAzrwIsts) | [Merengue Exitos](https://open.spotify.com/album/014lrTIQrjrGVQOTPrYKY7) | 4:55 | 2021-02-02 |  |
 | [Buscando Tus Besos](https://open.spotify.com/track/3BWQ6QDeVXi8MOssxs1IiN) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 3:54 | 2021-02-02 | 2022-07-27 |
@@ -107,7 +108,7 @@
 | [El Jardinero](https://open.spotify.com/track/5LNUDBwHSkvcTpgfo0XrET) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/2CC43bAaJtJpDpbIr2fqZ8) | 4:26 | 2021-02-02 | 2022-10-15 |
 | [El Jardinero](https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:26 | 2021-02-02 |  |
 | [El Jardinero](https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:27 | 2021-02-02 | 2022-07-29 |
-| [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 | 2021-02-02 |  |
+| [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 | 2021-02-02 | 2022-10-17 |
 | [El Loco y La Luna](https://open.spotify.com/track/6EGuI5cU2lPk39e1FY3NBe) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/2CC43bAaJtJpDpbIr2fqZ8) | 4:51 | 2021-02-02 | 2022-08-19 |
 | [El Loco Y La Luna](https://open.spotify.com/track/4CX2taCdwBYyhx8d7wYwaW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:51 | 2021-02-02 | 2022-07-29 |
 | [El Motor](https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 3:44 | 2021-02-02 | 2022-07-29 |

@@ -3119,7 +3119,7 @@
     {
       "album": {
         "name": "Gossamer",
-        "url": "https://open.spotify.com/album/1607it3GMJGG1znHEhUSQM"
+        "url": "https://open.spotify.com/album/5c6yN2H8AEHT42tdO47sAI"
       },
       "artists": [
         {
@@ -3130,6 +3130,24 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274013,
+      "name": "Gossamer",
+      "url": "https://open.spotify.com/track/0b2zRtqX9fVFVhrkAAtFTP"
+    },
+    {
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/1607it3GMJGG1znHEhUSQM"
+      },
+      "artists": [
+        {
+          "name": "SINK",
+          "url": "https://open.spotify.com/artist/079JJu03lrW37aQxGotWfC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 274013,
       "name": "Gossamer",
       "url": "https://open.spotify.com/track/5JKMe6ixt8nDwoUqS9tMG6"

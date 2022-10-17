@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,421 likes - 41 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,461 likes - 41 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 |
-| 2 | [a new moral low ground](https://open.spotify.com/track/2LqlhqFm6R4b455OGfsU81) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [a new moral low ground](https://open.spotify.com/album/3MIWFjKy0AuyJP2Z6PfNGy) | 3:31 |
-| 3 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 |
+| 2 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 |
+| 3 | [a new moral low ground](https://open.spotify.com/track/2LqlhqFm6R4b455OGfsU81) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [a new moral low ground](https://open.spotify.com/album/3MIWFjKy0AuyJP2Z6PfNGy) | 3:31 |
 | 4 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 |
 | 5 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
 | 6 | [tear gas](https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL) | 4:17 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 30 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 |
 | 31 | [Alpha Omega](https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:55 |
 | 32 | [Learn to Live](https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 4:01 |
-| 33 | [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 |
+| 33 | [Hollow Crown](https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 4:24 |
 | 34 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 |
-| 35 | [Hollow Crown](https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 4:24 |
+| 35 | [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 |
 | 36 | [Devil's Island](https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:06 |
 | 37 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 |
 | 38 | [Follow the Water](https://open.spotify.com/track/4rN2FZNAj7u9r2PqL8u2js) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:40 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 40 | [Heartburn](https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:37 |
 | 41 | [Black Blood](https://open.spotify.com/track/3zW2l6tss1kIZDj73CtJx6) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:33 |
 
-Snapshot ID: `Mjc3NjQwMDMsMDAwMDAwMDBhZDZiN2NhYWMwOTEyNTBjYjI4NTJiYjI0YzMzZWJiOQ==`
+Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDBiZWZkZmU2MjYxNDc1ODZlMGRhYzk2NzNkM2I1MDk3MQ==`

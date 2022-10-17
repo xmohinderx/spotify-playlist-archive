@@ -1,12 +1,12 @@
 {
   "description": "Pocah e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 129648,
+  "num_followers": 129625,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGNjMWRmNjA0ZDU0YjNmZGI1MDk1M2EwYmQxOWE4NWFh",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDA3M2ZmNzE1Mzc2ZmVmMjY4ODFhMTI0ZWJiNDhhYTAw",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 153614,
-      "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Bruta",
         "url": "https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 153614,
+      "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Tropa das Malvadinhas",
         "url": "https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q"
       },
@@ -595,6 +595,38 @@
       "duration_ms": 145600,
       "name": "Tropa das Malvadinhas",
       "url": "https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Liga pro Samu",
+        "url": "https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm"
+      },
+      "artists": [
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 140016,
+      "name": "Liga pro Samu",
+      "url": "https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "AINDA",
+        "url": "https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 128470,
+      "name": "AINDA",
+      "url": "https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -619,38 +651,6 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "AINDA",
-        "url": "https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 128470,
-      "name": "AINDA",
-      "url": "https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Liga pro Samu",
-        "url": "https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm"
-      },
-      "artists": [
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        }
-      ],
-      "duration_ms": 140016,
-      "name": "Liga pro Samu",
-      "url": "https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Queima",
+        "url": "https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Queima",
+      "url": "https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Miga Solteira",
         "url": "https://open.spotify.com/album/55xfR02s40wZ2elK1PukB0"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 140992,
       "name": "Pontinho Indecente",
       "url": "https://open.spotify.com/track/1A4F3Lpva1NbGQIGhwc5Il"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Queima",
-        "url": "https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Queima",
-      "url": "https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ"
     },
     {
       "added_at": "2022-10-14 03:00:00",

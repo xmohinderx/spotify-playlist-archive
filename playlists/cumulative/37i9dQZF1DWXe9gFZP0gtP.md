@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-304 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+305 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Donia](https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Donia](https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae) | 2:22 | 2022-06-16 |  |
 | [Dormiveglia](https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Dormiveglia](https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89) | 3:21 | 2021-12-17 |  |
 | [Dreams Come True](https://open.spotify.com/track/1eUZnVvwrOptdKQ8vvi3Yh) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Carry On](https://open.spotify.com/album/5ryLW7nz2xS5nPpkFidx9F) | 3:02 | 2021-12-17 | 2022-04-22 |
-| [Drift](https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/02GKbWNl7dGVPOWgNzswQY) | 4:00 | 2022-07-08 |  |
+| [Drift](https://open.spotify.com/track/3uIPfiXaSWfiuLsaZ6UkQX) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/6C3jiZ0QT2FgKcG3oUOYAY) | 4:00 | 2022-10-15 |  |
+| [Drift](https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/02GKbWNl7dGVPOWgNzswQY) | 4:00 | 2022-07-08 | 2022-10-17 |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Dusk Sermons](https://open.spotify.com/track/4eoA6gqXBqpCuCemOineDh) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [Dusk Sermons](https://open.spotify.com/album/6jTsueHPtmp2svmRED9FOk) | 3:21 | 2022-02-25 |  |
 | [Dvala](https://open.spotify.com/track/14N0SnNoSSqdIVSHCBXnCb) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Dvala](https://open.spotify.com/album/5eHx7IxJ0eXfVfD8KMMxD9) | 3:06 | 2022-04-07 |  |

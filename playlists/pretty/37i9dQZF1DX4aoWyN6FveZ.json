@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 592,
+  "num_followers": 628,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMGIyZjYxYzY2OWQzODViMjMxNDhjNDI1ODAzMDg4ODFj",
+  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDUzNmMwNTM2YmYyOThiYjllOGUxODNmMWU1MmI5ZDYx",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -279,6 +279,38 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Fire & Desire",
+      "url": "https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Teflon Don",
         "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
       },
@@ -303,22 +335,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Fire & Desire",
-      "url": "https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "ZaZa Vibes",
         "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 171428,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 166642,
-      "name": "emiliana",
-      "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
     },
     {
       "added_at": "2022-10-01 20:09:45",

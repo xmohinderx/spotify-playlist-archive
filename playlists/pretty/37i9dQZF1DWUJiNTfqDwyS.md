@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,812 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,064 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 19 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
 | 20 | [Hallowed Be Thy Name](https://open.spotify.com/track/0mJUxFpEI1eAOIIfnNoZ4G) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Lovecraft & Witch Hearts](https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at) | 7:10 |
 | 21 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
-| 22 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
-| 23 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 22 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 23 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
 | 24 | [Wind of Change](https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Wind of Change](https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG) | 5:22 |
 | 25 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
-| 26 | [Fight Fire With Fire](https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ), [Maciej Taff](https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml) | [Necropolis](https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR) | 4:05 |
-| 27 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
+| 26 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
+| 27 | [Fight Fire With Fire](https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ), [Maciej Taff](https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml) | [Necropolis](https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR) | 4:05 |
 | 28 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
 | 29 | [Gimme Shelter](https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Gimme Shelter](https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg) | 3:58 |
 | 30 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
-| 31 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
-| 32 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
-| 33 | [Enter Sandman](https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu) | 3:51 |
+| 31 | [Enter Sandman](https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu) | 3:51 |
+| 32 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
+| 33 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
 | 34 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 35 | [No Remorse](https://open.spotify.com/track/6gP7mrmL9EsFS3sMpk3Ig3) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Worm Infested](https://open.spotify.com/album/2Ks12dWnzx1jEYhfAJUlfH) | 6:15 |
 | 36 | [Aerials](https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:39 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 64 | [Only for the Weak](https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Only for the Weak](https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu) | 4:36 |
 | 65 | [Orion](https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 8:15 |
 | 66 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 |
-| 67 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
-| 68 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 |
+| 67 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 |
+| 68 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
 | 69 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
 | 70 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
 | 71 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 72 | [Bodies](https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Bodies](https://open.spotify.com/album/76VYWxgc2GZTVNJGRRAoEX) | 3:22 |
 | 73 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 |
 | 74 | [Remember Tomorrow](https://open.spotify.com/track/3f8ABUkSOvkpNHahBXBEA9) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [My Arms, Your Hearse](https://open.spotify.com/album/4b7oroZfX3w5vaRaotvr6p) | 4:59 |
-| 75 | [To Tame a Land](https://open.spotify.com/track/0OfFgbRGM8qMxDofN3lpdM) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Black Clouds & Silver Linings \(Special Edition\)](https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP) | 7:15 |
+| 75 | [Shock the Monkey](https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06) | 3:42 |
 
-Snapshot ID: `MTY2NDk4NzExOSwwMDAwMDAwMDFmZGRlZjA0Y2QxZjNkNjJmMGMyYTMyOWUzOWM3OTA1`
+Snapshot ID: `MTY2NDk4NzExOSwwMDAwMDAwMDlkMDM0MGNkN2FmZWU3NDUwNGYyYzAzZmFlYThiNTcy`

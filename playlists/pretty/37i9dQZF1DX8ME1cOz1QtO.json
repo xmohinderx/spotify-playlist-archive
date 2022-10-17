@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 44391,
+  "num_followers": 44499,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMDk3MDk5NjNkMTA0NDM0OGQ2Y2ZiM2I4MTljZjU3NWZl",
+  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMGQ0MzQ4MzI0NGExNGFiNGQxODY0M2EzOWNhZTA2ZjVk",
   "tracks": [
     {
       "added_at": "2022-07-01 17:28:50",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
+        "name": "Tubular Bells",
+        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1397160,
+      "name": "Tubular Bells - Pt. II",
+      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
         "name": "Tomita's Greatest Hits",
         "url": "https://open.spotify.com/album/7yAuhoZXCopPOlaCh21Xlt"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 351533,
       "name": "Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7cwPQGHgob1v9pek8WnQRx"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
-        "name": "Tubular Bells",
-        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1397160,
-      "name": "Tubular Bells - Pt. II",
-      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -603,22 +587,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
       },
       "artists": [
         {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        },
-        {
-          "name": "Andrew White",
-          "url": "https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT"
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
         }
       ],
-      "duration_ms": 288333,
-      "name": "Carnation Lily Lily Rose",
-      "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -635,6 +615,22 @@
       "duration_ms": 96760,
       "name": "To Drift Like Clouds",
       "url": "https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "The Essential Yanni",
+        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "The Mermaid",
+      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -671,18 +667,22 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "The Essential Yanni",
-        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
+        "name": "Island",
+        "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        },
+        {
+          "name": "Andrew White",
+          "url": "https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT"
         }
       ],
-      "duration_ms": 225786,
-      "name": "The Mermaid",
-      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
+      "duration_ms": 288333,
+      "name": "Carnation Lily Lily Rose",
+      "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
         }
       ],
-      "duration_ms": 489093,
-      "name": "Cosmic Energy",
-      "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
+      "duration_ms": 384133,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
         }
       ],
-      "duration_ms": 384133,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
+      "duration_ms": 489093,
+      "name": "Cosmic Energy",
+      "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
+        "name": "Mooncircles",
+        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 90253,
+      "name": "Inner Mood I",
+      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
-        "name": "Mooncircles",
-        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 90253,
-      "name": "Inner Mood I",
-      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Missa Gaia - Earth Mass",
-        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
-      },
-      "artists": [
-        {
-          "name": "Paul Winter",
-          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "For The Beauty Of The Earth - Instrumental",
-      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Desert Dawn Song",
         "url": "https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 512466,
       "name": "Canyon Sunrise",
       "url": "https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Missa Gaia - Earth Mass",
+        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
+      },
+      "artists": [
+        {
+          "name": "Paul Winter",
+          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "For The Beauty Of The Earth - Instrumental",
+      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
       },
       "artists": [
         {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
         }
       ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
+      "duration_ms": 447000,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1479,18 +1479,34 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
       },
       "artists": [
         {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
         }
       ],
-      "duration_ms": 447000,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1523,22 +1539,6 @@
       "duration_ms": 481320,
       "name": "In the Beginning",
       "url": "https://open.spotify.com/track/648HIKBghwkMmbL9c29LL1"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1591,22 +1591,6 @@
       "duration_ms": 936000,
       "name": "Mirador",
       "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
-        "name": "Collected Ambient & Textural Works 1977-1987",
-        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 553800,
-      "name": "Elysian E",
-      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
+        "name": "Astral Travels",
+        "url": "https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S"
+      },
+      "artists": [
+        {
+          "name": "Cobalt",
+          "url": "https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Inside Celeste",
+      "url": "https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
         "name": "Transcendental Music for Meditation",
         "url": "https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Astral Travels",
-        "url": "https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S"
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
       },
       "artists": [
         {
-          "name": "Cobalt",
-          "url": "https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp"
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Inside Celeste",
-      "url": "https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc"
+      "duration_ms": 553800,
+      "name": "Elysian E",
+      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
     },
     {
       "added_at": "2022-07-01 17:28:50",

@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-169 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
+170 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [bon iver](https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:16 | 2022-09-02 |  |
 | [Bounce](https://open.spotify.com/track/2rJ3U3EEXJReeATBy5owe0) | [DØBER](https://open.spotify.com/artist/1yGoTdU9M2zNhcyDSes8Sq), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Bounce](https://open.spotify.com/album/2sn6nb0qGjSxjy4IqubPSx) | 2:36 | 2022-04-15 | 2022-04-18 |
 | [Breakdown](https://open.spotify.com/track/1B6Za6s7tPvxU9ISUEgRda) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Breakdown](https://open.spotify.com/album/0Rk5KPioBHSzllCrqI5C15) | 3:18 | 2021-12-03 | 2022-07-29 |
-| [Brittle](https://open.spotify.com/track/0ccmnaYeN5GZ8HBtPFCaIC) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Brittle](https://open.spotify.com/album/09R4r31bLR80znhTB72VKO) | 3:20 | 2022-09-02 |  |
+| [Brittle](https://open.spotify.com/track/0ccmnaYeN5GZ8HBtPFCaIC) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Brittle](https://open.spotify.com/album/09R4r31bLR80znhTB72VKO) | 3:20 | 2022-09-02 | 2022-10-17 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-12-03 |  |
 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 | 2021-12-03 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-08 |  |
@@ -84,6 +84,7 @@
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2021-12-03 |  |
 | [I Like What I Like](https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [I Like What I Like](https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT) | 2:27 | 2021-12-03 |  |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-01-28 | 2022-10-13 |
+| [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 | 2022-09-02 |  |
 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/1IHTT1QrcLNsrXs4KVrav7) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/5Gqq6Ws85etAcUc1cZETNc) | 1:47 | 2021-12-03 |  |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-03-18 |  |
 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 | 2021-12-03 |  |

@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-121 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
+122 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,12 +56,12 @@
 | [Heavenly](https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Heavenly](https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB) | 2:58 | 2022-07-19 | 2022-10-09 |
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2022-07-05 |  |
 | [Hush](https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd) | [Jón Einarsson](https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7) | [Hush](https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt) | 2:21 | 2022-07-19 |  |
-| [Hush](https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C) | 2:41 | 2022-07-19 |  |
+| [Hush](https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C) | 2:41 | 2022-07-19 | 2022-10-17 |
 | [Hush](https://open.spotify.com/track/4YRRQ2lY39cU4XCCcqZEyo) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/3pZihjucLETpZCJnIMEtYm) | 2:41 | 2022-07-05 | 2022-07-29 |
 | [Inertia](https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inertia](https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV) | 3:01 | 2022-07-05 | 2022-07-26 |
 | [Levitate](https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Levitate](https://open.spotify.com/album/52V9mKrjrDameJBbXroPua) | 2:40 | 2022-07-19 |  |
 | [Levitate](https://open.spotify.com/track/1hfB7lg8Uvu5ZKH3ZxvM8w) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Levitate](https://open.spotify.com/album/5U3qNi9R1qZVPCWV9o2XDA) | 2:40 | 2022-07-05 | 2022-07-29 |
-| [Light & Hope](https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Light & Hope](https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT) | 2:47 | 2022-07-05 |  |
+| [Light & Hope](https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Light & Hope](https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT) | 2:47 | 2022-07-05 | 2022-10-17 |
 | [Lights on Water](https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Lights on Water](https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp) | 3:37 | 2022-07-05 |  |
 | [Linearity](https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o) | [Hypertime](https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc) | [Linearity](https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW) | 3:11 | 2022-07-05 |  |
 | [Love](https://open.spotify.com/track/0yf0a2YESK4qQeJ2RxjTQS) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/1jYA1RLpNu4G6eXzb7UeyL) | 2:06 | 2022-07-19 |  |
@@ -72,6 +72,7 @@
 | [mOther World](https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe) | [Mike Molloy](https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r) | [mOther World](https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un) | 2:04 | 2022-07-19 | 2022-09-13 |
 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Sweetscape](https://open.spotify.com/artist/1BF35yKu7uZaQMKsHO3MRP) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 | 2022-08-05 |  |
 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 | 2022-07-05 |  |
+| [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
 | [Nature's Embrace](https://open.spotify.com/track/5m3jRldCUrybs5M95MMoRb) | [Meditación Música Ambiente](https://open.spotify.com/artist/5LJBMRcPlMWzJeCILYD48q) | [Natural Essentials](https://open.spotify.com/album/3wNDHjotE7OuXmTmjXlmyS) | 4:12 | 2022-07-19 | 2022-07-29 |
 | [No Stress](https://open.spotify.com/track/4x1rCoArznEyfhBqDKgG98) | [Sleeping Culture](https://open.spotify.com/artist/6wIHPaNyPH048cNyeskFH3), [Quiet Music Academy](https://open.spotify.com/artist/5tcoDKPUGotuCohyrYXvJ9) | [Sleep Better Tonight: Feeling Rested and Staying Healthy](https://open.spotify.com/album/2wXBlv9PFC9Mkw4DsuLR9I) | 5:39 | 2022-07-05 | 2022-07-29 |
 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 | 2022-07-05 | 2022-08-22 |
@@ -126,7 +127,7 @@
 | [Waves of Harmony](https://open.spotify.com/track/3bFrewfGiJ3Zw9FKB6A63W) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Waves of Harmony](https://open.spotify.com/album/3VOhKn22ZqXnvBHYXukrAc) | 2:38 | 2022-07-05 | 2022-07-28 |
 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 | 2022-07-05 |  |
 | [Weightless](https://open.spotify.com/track/3dgeoy7YwkEMaa1gPHtqOa) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Weightless](https://open.spotify.com/album/3SeUtPVXxyLEOK9Fd4VQzG) | 1:45 | 2022-07-19 | 2022-07-25 |
-| [World Peace](https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Solfeggio Frequencies & Meditation Music](https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS) | 6:49 | 2022-07-05 | 2022-10-13 |
+| [World Peace](https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Solfeggio Frequencies & Meditation Music](https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS) | 6:49 | 2022-07-05 |  |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-07-05 |  |
 

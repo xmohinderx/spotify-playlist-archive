@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,049 likes - 41 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,057 likes - 41 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 15 | [Debe](https://open.spotify.com/track/3SYhGK2d8LAkhNCFtOfv0c) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 4:53 |
 | 16 | [Ai Bine](https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 6:20 |
 | 17 | [Gomni \(with Ry Cooder\)](https://open.spotify.com/track/4ezXKef6PFAaunWQ0IFyyq) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:00 |
-| 18 | [56](https://open.spotify.com/track/4ML8gLVDid1m2pRDHGUQQ7) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 6:57 |
+| 18 | [Kana Kassy](https://open.spotify.com/track/7tcbDEhAJ3cAwsPazkQnpW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:10 |
 | 19 | [Hawa dolo](https://open.spotify.com/track/5STlvzO9CX7G8xdk0oNVSi) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 4:58 |
-| 20 | [Cinquante six \- Instrumental;2017 Remastered Version](https://open.spotify.com/track/0mfFiMRU8Xr79DL97XPv7O) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:28 |
+| 20 | [Mahini Me \(feat\. Taj Mahal\) \- 2017 Remastered Version](https://open.spotify.com/track/1No6xpDnfTqDIpON5Zqnmd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:24 |
 | 21 | [Lasidan \(with Ry Cooder\)](https://open.spotify.com/track/6Yq9dTtHeuMkvnfcEZZFex) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 6:06 |
-| 22 | [Kana Kassy](https://open.spotify.com/track/7tcbDEhAJ3cAwsPazkQnpW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:10 |
+| 22 | [56](https://open.spotify.com/track/4ML8gLVDid1m2pRDHGUQQ7) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 6:57 |
 | 23 | [Simbo](https://open.spotify.com/track/39M353KyEDfl468Bm69s3L) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:59 |
-| 24 | [Mahini Me \(feat\. Taj Mahal\) \- 2017 Remastered Version](https://open.spotify.com/track/1No6xpDnfTqDIpON5Zqnmd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:24 |
+| 24 | [Cinquante six \- Instrumental;2017 Remastered Version](https://open.spotify.com/track/0mfFiMRU8Xr79DL97XPv7O) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:28 |
 | 25 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 |
 | 26 | [Soya](https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:36 |
 | 27 | [Ali's Here](https://open.spotify.com/track/5lCQmJD3tz2UjCNCsjJM22) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 3:17 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 40 | [Erdi](https://open.spotify.com/track/7oLZWt9WYY6MebC8RMXOdR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:41 |
 | 41 | [Tulumba](https://open.spotify.com/track/3dDuNtU56FIC8crdNgqDrJ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 5:22 |
 
-Snapshot ID: `Mjc3NjQwMDQsMDAwMDAwMDA5NGFlYWQ4ODMyOGIwNzhiYWQ0MTNkOTA1MzJlYTQ1Mw==`
+Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDAwOTRlYjg0MTFhZDBiYWNlM2U4Y2FiNzU2ZjUzYWViOQ==`

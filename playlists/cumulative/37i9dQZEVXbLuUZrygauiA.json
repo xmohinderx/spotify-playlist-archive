@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 224226,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/44kI7aJvJAYJkREVk0Rmei"
@@ -2967,7 +2967,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 165227,
       "name": "Drink A Yak",
       "url": "https://open.spotify.com/track/5Ht48BadOqg22f3lWQLLa8"
@@ -6356,6 +6356,28 @@
     },
     {
       "album": {
+        "name": "Mil Febreros",
+        "url": "https://open.spotify.com/album/2RGPpzKamm4Yzra3HRDI99"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "Neverknwn",
+          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220342,
+      "name": "Mil Febreros",
+      "url": "https://open.spotify.com/track/0JVLbLjkbbuaUV5j9Q1vAr"
+    },
+    {
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
       },
@@ -9403,7 +9425,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"

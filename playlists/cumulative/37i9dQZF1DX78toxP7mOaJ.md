@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-583 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+584 songs - 1 day 8 hr 13 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,8 @@
 | [Pickles](https://open.spotify.com/track/650TMfLZY2yMvYXlCY7kup) | [Foyer Red](https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF) | [Pickles](https://open.spotify.com/album/2eXBMvHUDIx8NNJi1XZS0h) | 3:54 | 2022-08-03 |  |
 | [Pink Slips](https://open.spotify.com/track/3YmZVcLHWCjMlHfLaM7nTf) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Pink Slips](https://open.spotify.com/album/0HSukgQ6gAyNJmTfXJAeVW) | 3:12 | 2021-12-01 | 2022-01-27 |
 | [Pirate Radio](https://open.spotify.com/track/7H7UXyKX0T5X3yh8iCcwv8) | [Sweet Lizzy Project](https://open.spotify.com/artist/3HPBGfJkTUsuGQHtzwWAcn) | [Pirate Radio](https://open.spotify.com/album/31bheMdtBPYDvt9e4IamAV) | 3:19 | 2022-10-12 |  |
-| [Pokit](https://open.spotify.com/track/4ZQgPMFGS7mLk5o69Zgf6G) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Pokit](https://open.spotify.com/album/5KysUIKLi8k9IfrtsVWgKs) | 3:03 | 2022-10-05 |  |
+| [Pokit](https://open.spotify.com/track/4ZQgPMFGS7mLk5o69Zgf6G) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Pokit](https://open.spotify.com/album/5KysUIKLi8k9IfrtsVWgKs) | 3:03 | 2022-10-05 | 2022-10-17 |
+| [Pokit](https://open.spotify.com/track/7v6P3yYkFzGp0nJY14I2gi) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Pokit](https://open.spotify.com/album/5SdtmAcehpjTRZ8VGDJhYT) | 3:03 | 2022-10-12 |  |
 | [Polka Dot Girl](https://open.spotify.com/track/0R9BJZZLoxaTDtZuOYqfaw) | [Charity Kiss](https://open.spotify.com/artist/1KGQs8UOk2bM8JTCWyH57M) | [Polka Dot Girl](https://open.spotify.com/album/4hJgThXnJgJjUbwotLHlzK) | 5:00 | 2022-03-03 | 2022-05-05 |
 | [pool party](https://open.spotify.com/track/3C0xSnAHVFwqNQkHDmyxPb) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [pool party](https://open.spotify.com/album/05kcUOQZc6InkwhIIacPPw) | 3:31 | 2022-07-20 | 2022-08-25 |
 | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/track/1Hlg1LF0oJ1UBxyVCJcP5i) | [Shitney Beers](https://open.spotify.com/artist/17ghMPiifubfyIujm3sEBa), [Elena Steri](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/album/2pXP6FJsvQNbTzY0PNUCX7) | 1:57 | 2022-10-12 |  |

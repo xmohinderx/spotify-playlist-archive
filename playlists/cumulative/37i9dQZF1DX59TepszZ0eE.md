@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-75 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/1ZMetk2R7ibX8I08siiaLQ)
+76 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1ZMetk2R7ibX8I08siiaLQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Yiwo Lawa Amandla \- Live](https://open.spotify.com/track/55jg7cLwPqviukIJ5l9Jg5) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala](https://open.spotify.com/artist/5WjrNT5ivnPHMPMPowIFFm), [House of Grace Choir](https://open.spotify.com/artist/16EVGD7dtcBHbkDPS1oItu) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:28 | 2019-10-28 |  |
 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 | 2020-05-21 |  |
 | [You Deserve It](https://open.spotify.com/track/2bpHQbGBRy1qoRRCmYhD5J) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [You Deserve It](https://open.spotify.com/album/56kZ4Ecv5uLYBpwwCsImma) | 9:56 | 2022-04-14 |  |
-| [You Fight for Me](https://open.spotify.com/track/0u7YkWTgB1r4jFRo15LivX) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj) | 4:39 | 2020-02-13 |  |
+| [You Fight for Me](https://open.spotify.com/track/0CxIQOBPmOqPrKyspAc78m) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/1QbjMiY42plzk741oVrGS6) | 4:39 | 2020-02-13 |  |
+| [You Fight for Me](https://open.spotify.com/track/0u7YkWTgB1r4jFRo15LivX) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj) | 4:39 | 2020-02-13 | 2022-10-17 |
 | [You Reign Forever](https://open.spotify.com/track/7r6K4qSyliTXbRpsOgFQyh) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP) | [Devotion](https://open.spotify.com/album/6wGUP0pqf61PtlY1MEAQJN) | 4:08 | 2020-07-31 |  |
 | [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 | 2019-10-07 |  |
 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 | 2020-03-13 |  |

@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-197 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+198 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Ocean Eyes](https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y) | [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [Ocean Eyes](https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph) | 3:22 | 2021-06-11 |  |
 | [Only the Wild Ones](https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV) | 4:13 | 2022-06-24 | 2022-10-13 |
 | [Only the Wild Ones](https://open.spotify.com/track/2acbW2I3x82OmRfKdV4hZq) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Only the Wild Ones](https://open.spotify.com/album/1j8RzcdyqwVeY0GYcM1RuT) | 4:13 | 2021-03-24 | 2022-07-29 |
+| [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2022-10-07 |  |
 | [Oxygen](https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd) | 3:45 | 2022-06-24 |  |
 | [Oxygen](https://open.spotify.com/track/12Em8Gzpi3B1n5I8YNLLUD) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/6vnPDo0quTAZdcIluGcXuZ) | 3:45 | 2021-03-24 | 2022-07-25 |
 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 | 2021-06-25 |  |
@@ -189,7 +190,7 @@
 | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 | 2022-02-04 |  |
 | [u dont kno me](https://open.spotify.com/track/1jaJ8LsR1pOC5s8Xb86xgm) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/0NKBvnl8MUkjXR9takqRVI) | 3:59 | 2022-06-17 | 2022-07-29 |
 | [U&ME](https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK) | 3:18 | 2022-01-10 | 2022-08-19 |
-| [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-04-26 |  |
+| [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-04-26 | 2022-10-17 |
 | [Vacation \(feat\. Train\)](https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Vacation \(feat\. Train\)](https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0) | 3:32 | 2021-05-28 |  |
 | [Visions \(Featuring Chloe Chaidez of Kitten\)](https://open.spotify.com/track/0yvh57pFxh3KQ20ymBfvCs) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Kitten](https://open.spotify.com/artist/4zHX9zUUtxUw898g1GyihC) | [Visions \(Featuring Chloe Chaidez of Kitten\)](https://open.spotify.com/album/6dLAJaqUalhMQ2XGffUz0q) | 3:49 | 2021-03-24 | 2022-04-27 |
 | [Walk on the Moon \(feat\. Lynx\)](https://open.spotify.com/track/4OHnqedhcXexo7f2a5RiZY) | [Luke Mitrani](https://open.spotify.com/artist/6OzAqsb9KgjKjUyoTjZ6UV), [Lynx](https://open.spotify.com/artist/2d0vu7kB8IBdKMaRffF3M2) | [Walk on the Moon \(feat\. Lynx\)](https://open.spotify.com/album/3rAZDcr1bEh85GiD8UoPPW) | 3:21 | 2021-03-24 | 2022-07-29 |

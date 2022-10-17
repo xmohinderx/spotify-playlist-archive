@@ -4,7 +4,7 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-136 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
+137 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 | 2020-05-28 |  |
 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 | 2020-05-28 |  |
 | [Bandolero](https://open.spotify.com/track/2W5KSHYdWNIyoWfohkkeoe) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/686gZQgACa9yzaxIJ3FGxE) | 4:21 | 2022-01-11 | 2022-10-13 |
+| [Bandolero](https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I) | 4:21 | 2022-01-11 |  |
 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 | 2020-05-28 |  |
 | [Bonita](https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2) | [Germán Valdéz](https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l), [Tintan](https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4) | [Solo para Románticos \- de Mujer a Mujer](https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc) | 2:23 | 2022-01-11 |  |
 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 | 2022-01-11 |  |
@@ -93,7 +94,7 @@
 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 | 2020-05-28 |  |
 | [Maria cristina](https://open.spotify.com/track/0cvA6fi7toLVE7FieQ6IIm) | [Nico Saquito y su conjunto de de oriente](https://open.spotify.com/artist/3aTYGh8T5tvJDE0s2v5WpR) | [Son Cosas De Nico Saquito](https://open.spotify.com/album/1tY6yFdD3dbdO0aK6dcKBd) | 2:40 | 2022-01-11 | 2022-08-19 |
 | [Maria Cristina \- Remastered](https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [María Cristina \(Remastered\)](https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3) | 2:38 | 2022-01-11 | 2022-07-29 |
-| [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 | 2022-01-11 |  |
+| [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 | 2022-01-11 | 2022-10-17 |
 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 | 2022-01-11 |  |
 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 | 2020-05-28 |  |
 | [Mezcalero Feliz](https://open.spotify.com/track/6A5RAPGLBpLHa4eK5f1FDJ) | [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [San Cristóbal Baile Inn](https://open.spotify.com/album/5EFYMAtgVkG2Rd5olUHDpO) | 3:13 | 2020-05-28 | 2022-08-19 |

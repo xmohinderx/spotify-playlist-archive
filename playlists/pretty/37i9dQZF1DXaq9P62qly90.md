@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,739 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,741 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 35 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
 | 36 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
 | 37 | [Steppegrass](https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D) | 5:51 |
-| 38 | [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 |
+| 38 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 |
 | 39 | [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 |
 | 40 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
-| 41 | [Just to Say I Love You](https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Stay Human Vol\. II](https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH) | 2:49 |
-| 42 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 |
+| 41 | [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 |
+| 42 | [Just to Say I Love You](https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Stay Human Vol\. II](https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH) | 2:49 |
 | 43 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 |
 | 44 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
 | 45 | [Strength In One](https://open.spotify.com/track/4P9FHUCbqSq3xxvQLf0HzV) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Strength In One](https://open.spotify.com/album/2xdVExzi5zrygsVIWkPvCu) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |
 | 50 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |
 
-Snapshot ID: `MTYwNjI3NDE1NSwwMDAwMDAwMDk4NjJiZjAzMTEzYmMxYTUwNzA2Mzg0OTM4NDk4MGE2`
+Snapshot ID: `MTYwNjI3NDE1NSwwMDAwMDAwMDQ1NGY5ODM1YjE2NjZjNmY5ZmJhYzQ4MDBhZWY1ZGJk`

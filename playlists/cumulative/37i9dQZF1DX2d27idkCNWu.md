@@ -4,12 +4,13 @@
 
 > Versões desplugadas do mundo pop.
 
-117 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
+118 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Together](https://open.spotify.com/track/0EolrgZsjOyjjTuHEhgVuk) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Ain't Together](https://open.spotify.com/album/3nY7uA5jciz3tNyw8DolUl) | 3:22 | 2021-11-05 | 2022-07-29 |
 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 | 2021-11-05 |  |
+| [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 | 2022-10-14 |  |
 | [All of Me \- Live from Spotify Milan](https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 4:51 | 2021-11-05 |  |
 | [America](https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [America](https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [America](https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 4:03 | 2021-11-05 |  |
@@ -77,7 +78,7 @@
 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2021-11-05 |  |
 | [Nothing But a Song \- Bonus Acoustic Version](https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:02 | 2021-11-05 |  |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-11-05 |  |
-| [One Kiss](https://open.spotify.com/track/5oBopn3BpWNSWcYJ7SKhb6) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [One Kiss](https://open.spotify.com/album/40p2egHm3WhR8Awxv9UMh9) | 3:37 | 2021-11-05 |  |
+| [One Kiss](https://open.spotify.com/track/5oBopn3BpWNSWcYJ7SKhb6) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [One Kiss](https://open.spotify.com/album/40p2egHm3WhR8Awxv9UMh9) | 3:37 | 2021-11-05 | 2022-10-17 |
 | [One Kiss \(Acoustic\)](https://open.spotify.com/track/4dc4ZXSyCQjt5wmohvJVz8) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [One Kiss \(Acoustic\)](https://open.spotify.com/album/05pTtAjmfk7Qnj0K9l9hqP) | 3:37 | 2021-11-05 | 2022-07-29 |
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2021-11-05 |  |
 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 | 2021-11-05 |  |

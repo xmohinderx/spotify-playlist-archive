@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-107 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
+108 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Astronauts](https://open.spotify.com/track/0pXtG6G9Ue2KfhEfp1u9co) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Kids Songs](https://open.spotify.com/album/0iSrS0QaUXaJjR5GXDncC2) | 2:37 | 2021-12-06 |  |
 | [Astronauts Love \(feat\. Danny Weinkauf\)](https://open.spotify.com/track/3pOYii0WpO0YoBfWlnqi18) | [Jumpin' jamie](https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt), [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Astronauts Love \(feat\. Danny Weinkauf\)](https://open.spotify.com/album/5tCUh4kGTfSThNipxSBWXe) | 2:42 | 2021-12-06 |  |
 | [Big Bang Theory Theme](https://open.spotify.com/track/5FCPN8g30PRH7lLgxDh9LQ) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Hits from Yesterday & the Day Before](https://open.spotify.com/album/1688ZIcsPfE49MucDVRCyU) | 1:45 | 2021-12-06 |  |
-| [Blast Off](https://open.spotify.com/track/4F0xpYrQRLxK1aRUKynKtP) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:27 | 2021-12-06 |  |
+| [Blast Off](https://open.spotify.com/track/0Zg6LqDZxQVzHhDnIeiQ2i) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w) | 2:27 | 2021-12-06 |  |
+| [Blast Off](https://open.spotify.com/track/4F0xpYrQRLxK1aRUKynKtP) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:27 | 2021-12-06 | 2022-10-17 |
 | [Blast Off](https://open.spotify.com/track/4nLAhu9SsD2pqz8DnCSiho) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/0tyrf2LxCTjnOotolqS3Qo) | 2:27 | 2021-12-06 | 2022-07-29 |
 | [Down To Earth](https://open.spotify.com/track/3NN3bw0UMt3DbFUVGh78kV) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Wall\-E](https://open.spotify.com/album/7IH5SRyEVemZWfhjYmWtT1) | 5:58 | 2021-12-06 | 2022-07-29 |
 | [Down to Earth \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/6QGWsMkxSv2l3Ae3jlsENi) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Rated PG](https://open.spotify.com/album/2r2ARjGkLgHq9FaZW1ytzO) | 5:58 | 2021-12-06 |  |

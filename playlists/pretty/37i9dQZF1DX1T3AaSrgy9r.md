@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,507 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,620 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 54 | [Busy Child](https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Vegas](https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt) | 7:25 |
 | 55 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 |
 | 56 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
-| 57 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
-| 58 | [Open Up \- Remastered](https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:51 |
+| 57 | [Open Up \- Remastered](https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:51 |
+| 58 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
 | 59 | [Take California](https://open.spotify.com/track/6po71PeJnTDHZdqYcFfAY1) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV) | 7:21 |
 | 60 | [The Box \- Part 2](https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 5:59 |
 | 61 | [Little Fluffy Clouds \- Dance Mix 2](https://open.spotify.com/track/0yHKFQNwiCzpjR312MJsb0) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 4:10 |
@@ -90,11 +90,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 80 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
 | 81 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
 | 82 | [Gabriel](https://open.spotify.com/track/0x7i1EB5EyFbqWRWiItLFs) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [The Best Of Lamb 1996\-2004 \- Best Kept Secrets](https://open.spotify.com/album/7cgueLeLixSTaOgoRQeR94) | 4:20 |
-| 83 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
+| 83 | [Bodyrock](https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 3:36 |
 | 84 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
 | 85 | [Beauty Never Fades \(feat\. Saffron\)](https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN), [Saffron](https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n) | [Radio JXL \- A Broadcast From The Computerhell Cabin](https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy) | 3:48 |
-| 86 | [Bodyrock](https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 3:36 |
+| 86 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
 | 87 | [High Noon](https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow \(Deluxe Edition\)](https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN) | 3:58 |
 | 88 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
 
-Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMGZmZmYwNzg0OGJhYjM0YTIwMjVkYmExMmE1ZWNmZjc1`
+Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMDA4ODA5MzkwMDIyMjEzYzc0YTJkZTRhZDI2NTcxNThl`

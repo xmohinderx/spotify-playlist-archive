@@ -4,7 +4,7 @@
 
 > Grentperez is our new RADAR artist to watch!
 
-149 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+150 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Wishlist](https://open.spotify.com/track/7qA1Yk1xu2P3QR8PGZR8zR) | [Evan Klar](https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2) | [Wishlist](https://open.spotify.com/album/2VURPJTQaVHfrvvYVQNwyp) | 2:25 | 2021-10-15 | 2022-08-16 |
 | [Woah](https://open.spotify.com/track/1wkrmhQETrvqJ4nvO9NZ27) | [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [Woah](https://open.spotify.com/album/1tRYUh3sL43QlfDdwRPHVS) | 2:33 | 2021-10-15 | 2022-08-16 |
 | [You Can Run](https://open.spotify.com/track/14q8xNdQVRRjdUD9dmhNqu) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [You Can Run](https://open.spotify.com/album/2YK4GAgsaSuIPVYkIMuPh2) | 2:41 | 2022-08-15 |  |
-| [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 | 2022-08-15 |  |
+| [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 | 2022-08-15 | 2022-10-17 |
+| [You Don't Decide](https://open.spotify.com/track/1VhH5roSzrRCsQ2ZLvfoj7) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5PM3NjlqA6YBobSRy0nvP4) | 2:41 | 2022-08-28 |  |
 | [ZOOM IN](https://open.spotify.com/track/01MIWYWYzgkb0yBhbq95kC) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [ZOOM IN](https://open.spotify.com/album/1jyxoBLfZ6evWSP8BqwsF8) | 2:52 | 2021-10-15 | 2022-08-16 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > ¡Piso 21 y Danny Ocean; Aleman y Ximena Sariñana; Pablo Alborán y Carin León; y más!
 
-1,856 songs - 4 day 6 hr 52 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
+1,857 songs - 4 day 6 hr 55 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1813,6 +1813,7 @@
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-22 | 2022-04-29 |
 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 | 2022-02-25 | 2022-03-05 |
 | [Wretched](https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wretched](https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS) | 3:49 | 2022-06-17 | 2022-06-25 |
+| [WYS](https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [WYS](https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V) | 2:59 | 2022-10-16 |  |
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2022-08-12 | 2022-08-20 |
 | [Y Más](https://open.spotify.com/track/2FZxEasnm4QjOqV1zWbSCs) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Y Más](https://open.spotify.com/album/09mb4EFitIrOFAN2aSvigE) | 3:30 | 2022-08-19 | 2022-08-27 |
 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 | 2022-09-02 | 2022-09-10 |

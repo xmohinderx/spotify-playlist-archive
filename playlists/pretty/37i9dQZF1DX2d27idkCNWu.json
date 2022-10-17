@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 253882,
+  "num_followers": 253906,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDUyZGNiYzVkODRjZDE4OGE2YWQ4ZTZiMTc4MDBjYjg4",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDNlZGNlYjNmYzY1OGJiODE5N2MzNTE2YjY0MmQyYTEz",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -676,6 +676,22 @@
       "added_at": "2022-10-14 03:00:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Burning - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
       "artists": [
@@ -691,22 +707,6 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Burning - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Unfinished (Acoustic)",
+        "url": "https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 247002,
+      "name": "Unfinished - Acoustic",
+      "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Dance All Over Me (Acoustic)",
         "url": "https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME"
       },
@@ -1083,6 +1099,30 @@
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Living Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Living Without You - Acoustic",
+      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1175,30 +1215,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Living Without You (Acoustic)",
-        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Living Without You - Acoustic",
-      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
@@ -1211,38 +1227,6 @@
       "duration_ms": 185975,
       "name": "Veneno - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Unfinished (Acoustic)",
-        "url": "https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 247002,
-      "name": "Unfinished - Acoustic",
-      "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Ver\u00e3o Ac\u00fastico",
-        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Ver\u00e3o Ac\u00fastico",
+        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Daisies (Acoustic)",
         "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Two Commas",
-        "url": "https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt"
-      },
-      "artists": [
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        }
-      ],
-      "duration_ms": 214208,
-      "name": "Two Commas",
-      "url": "https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 222270,
       "name": "Attention - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Two Commas",
+        "url": "https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt"
+      },
+      "artists": [
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "duration_ms": 214208,
+      "name": "Two Commas",
+      "url": "https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Our Roots Run Deep (Live)",
+        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 535611,
+      "name": "All I Want - Live in Dublin / 2022",
+      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 195578,
       "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "One Kiss",
-        "url": "https://open.spotify.com/album/40p2egHm3WhR8Awxv9UMh9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Wellfair",
-          "url": "https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "One Kiss",
-      "url": "https://open.spotify.com/track/5oBopn3BpWNSWcYJ7SKhb6"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

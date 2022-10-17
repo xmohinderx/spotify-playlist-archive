@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-202 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
+203 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Blue](https://open.spotify.com/track/2n1tP63rtEfyFDORk44Awt) | [BATTS](https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Blue \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/48Om1ZZbTmxjTV05VY6WQt) | 4:24 | 2022-04-27 |  |
 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 | 2021-10-08 | 2022-07-29 |
 | [Bobby](https://open.spotify.com/track/0mW58kig39aueBh99f6yGz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 3:25 | 2022-05-02 |  |
-| [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 | 2021-10-08 |  |
+| [Body](https://open.spotify.com/track/2vcMyAI9devdUFFPpXBXB0) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/0cjynJA4dVQBkE2vYddzye) | 3:05 | 2022-05-02 |  |
+| [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 | 2021-10-08 | 2022-10-17 |
 | [Bonny Light Horseman](https://open.spotify.com/track/1LQS6iOIoLvM8KeY5QdVS3) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 4:30 | 2022-05-02 |  |
 | [Bonny Light Horseman](https://open.spotify.com/track/5MBogTR3yEa0gQJmH7ayQd) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 4:30 | 2021-10-08 | 2022-07-29 |
 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 | 2022-01-05 | 2022-05-03 |

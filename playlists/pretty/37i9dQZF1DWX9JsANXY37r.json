@@ -1,12 +1,12 @@
 {
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
-  "num_followers": 106268,
+  "num_followers": 106271,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMDI5NWVmMDcyNWJlNTdjNTg5NWJmNmI0YjJlZmNjNzk0",
+  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMDhjNmQ4ZGI3YTdmMzUxNDVjYmQ5MjRjMzZiMDg5NDUx",
   "tracks": [
     {
       "added_at": "2022-09-21 17:39:29",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
-        "name": "Positions (Deluxe)",
-        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 122174,
-      "name": "test drive",
-      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
+        "name": "Positions (Deluxe)",
+        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 122174,
+      "name": "test drive",
+      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
     },
     {
       "added_at": "2022-09-21 17:39:29",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 253800,
       "name": "9",
       "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
     },
     {
       "added_at": "2022-09-21 17:39:29",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
     },
     {
       "added_at": "2022-09-21 17:39:29",

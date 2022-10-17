@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-319 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+320 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 | 2022-02-10 |  |
 | [Dirty](https://open.spotify.com/track/1DNRyoXyqj4b3sbtPjfGx3) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [All I See Is War](https://open.spotify.com/album/3u3tCOYA9fjvlfQKoMAk3T) | 3:17 | 2022-04-04 | 2022-04-18 |
 | [Do you really wanna know?](https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Do you really wanna know?](https://open.spotify.com/album/09KfdEpKfLl5BVd2oz9Yl4) | 3:55 | 2022-07-13 | 2022-07-29 |
-| [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 | 2022-04-04 |  |
+| [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 | 2022-04-04 | 2022-10-17 |
 | [Don't Need You \- Edit](https://open.spotify.com/track/2Cv8fs0SPLX1XaLQ80Lvds) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Don't Need You \(Edit\)](https://open.spotify.com/album/0QRkaf6ewruqL8zk4WG9Ne) | 4:27 | 2022-04-04 | 2022-04-21 |
 | [Don't Need You \- Edit](https://open.spotify.com/track/7oUkPewtWnIAQ8MncVTXBv) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Don't Need You \(Edit\)](https://open.spotify.com/album/7DRnBLuaOHdetg3zKcrcn0) | 4:27 | 2022-06-17 | 2022-09-28 |
 | [Down To Hell](https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Down To Hell](https://open.spotify.com/album/4ALhmqLsbI7Wqg7bBYkwVD) | 3:16 | 2021-11-12 | 2022-07-29 |
@@ -114,6 +114,7 @@
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2021-11-12 | 2022-06-11 |
 | [Feel Invincible](https://open.spotify.com/track/2r4DozzHauSjM6NJ7szgVC) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Feel Invincible](https://open.spotify.com/album/1voRzfrt2CunZUj3cjoYTU) | 3:49 | 2022-07-13 | 2022-07-29 |
 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 | 2022-07-13 |  |
+| [FEEL NOTHING \- RESET](https://open.spotify.com/track/54otdw8MmYNz2ewGHzmaTP) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [FEEL NOTHING \(RESET\)](https://open.spotify.com/album/41XuCeKDXIML4PDaQ7yX3D) | 3:40 | 2022-10-07 |  |
 | [Feuer frei!](https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:08 | 2022-04-04 | 2022-04-19 |
 | [Feuer frei!](https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 3:08 | 2022-06-17 |  |
 | [FREEDOM IS DEAD](https://open.spotify.com/track/51lFXUvkVsa1qyqnomen4X) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [FREEDOM IS DEAD](https://open.spotify.com/album/3bHiqFKdfYqAPWqvUsHiJF) | 2:53 | 2022-06-07 | 2022-07-29 |

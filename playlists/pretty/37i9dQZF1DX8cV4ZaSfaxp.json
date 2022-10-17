@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: SURAN(\uc218\ub780)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 30087,
+  "num_followers": 30132,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NTQ0MywwMDAwMDAwMGVjNDkyNDAxNzE3MWNjMzBiYzQ1ZDY0NWZkYmI4NTAx",
+  "snapshot_id": "MTY2NDg5NTQ0MywwMDAwMDAwMGMyYmJhY2I1YjkxMDEzNDI5MjhmNmU0OTJjNzFhMzhi",
   "tracks": [
     {
       "added_at": "2022-09-05 15:47:43",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
-      "added_at": "2022-10-16 01:56:50",
+      "added_at": "2022-10-17 02:00:22",
       "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "Drive to 1980 Love",
+        "url": "https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT"
+      },
+      "artists": [
+        {
+          "name": "JANE POP",
+          "url": "https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj"
+        }
+      ],
+      "duration_ms": 191103,
+      "name": "Drive to 1980 Love",
+      "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "Drive to 1980 Love",
-        "url": "https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT"
-      },
-      "artists": [
-        {
-          "name": "JANE POP",
-          "url": "https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Drive to 1980 Love",
-      "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "A day of weather",
-      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Sweet Girl",
         "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 248986,
       "name": "Sweet Girl",
       "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "A day of weather",
+      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
       },
       "artists": [
         {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
         }
       ],
-      "duration_ms": 190363,
-      "name": "Give Me The Light",
-      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+        "name": "Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
       },
       "artists": [
         {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
         }
       ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
+      "duration_ms": 190363,
+      "name": "Give Me The Light",
+      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2022-09-05 15:47:43",

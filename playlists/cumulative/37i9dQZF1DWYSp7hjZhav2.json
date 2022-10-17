@@ -823,10 +823,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 391782,
       "name": "Now Is",
       "url": "https://open.spotify.com/track/0wetZebEoeaOVQu9dse8Jk"
+    },
+    {
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391782,
+      "name": "Now Is",
+      "url": "https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: lozeak
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,328 likes - 128 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,319 likes - 128 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 53 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 |
 | 54 | [Strong for Me](https://open.spotify.com/track/2WMnEAUFH4TKjcPZDneOei) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Strong for Me](https://open.spotify.com/album/2TbAxmG8BQRmpmfzRZfEXl) | 3:31 |
 | 55 | [Shoreditch](https://open.spotify.com/track/0PrLVRKLIuYmluI9h36PYf) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [Shoreditch](https://open.spotify.com/album/6mMGBXfiHvjy4UqtkHrtzw) | 3:09 |
-| 56 | [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 |
+| 56 | [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 |
 | 57 | [Into You](https://open.spotify.com/track/38gXTVJbL0PuLu2D5TsnDp) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Into You](https://open.spotify.com/album/5k9tVBLPmASFALptyHgbhW) | 2:48 |
 | 58 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 |
 | 59 | [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 127 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 128 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDhkYjM2ZGQxNjFkYTU4MDg2MDY2NGMxNWM0MDQ4MTUw`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDk1NjMzMDc5ZDg1ZjZiYzBlY2QyZjU4ZWUxNWI3NTRi`

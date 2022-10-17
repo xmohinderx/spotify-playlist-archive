@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Rahma Riad
 
-316 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+317 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/track/3uWb9pRy167A3QgCMcAUwH) | [Ángel Gregorio Villoldos](https://open.spotify.com/artist/3Qk0GyKffDb9elY6DLYsrG), [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh) | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/album/4qp6sN0NNxCdU9adjDXVKZ) | 2:44 | 2022-07-15 | 2022-09-26 |
 | [Afa](https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Afa](https://open.spotify.com/album/01QAkV39wYAMuyj0qdBBC5) | 2:36 | 2022-09-08 |  |
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
+| [Aheb Essmi](https://open.spotify.com/track/1feBcyeSIn8G7yyitzKlM2) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Aheb Essmi](https://open.spotify.com/album/0q0d5bsNYPXmxtvR0P2Q0y) | 3:38 | 2022-10-13 |  |
 | [Ahlami](https://open.spotify.com/track/0lhh2VQofi8UCkXB9mPpsq) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [AHLAMI](https://open.spotify.com/album/06U0lUuJCrHrgfs1v6bLAW) | 2:55 | 2022-03-01 | 2022-07-29 |
 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 |  |
 | [Al Habu Al Saeb](https://open.spotify.com/track/7gr1W9mfJsE3ofCEXZZ4fP) | [Hasna](https://open.spotify.com/artist/0L58uikPHKLuqGPPo2EPWW) | [Al Habu Al Saeb](https://open.spotify.com/album/11ZGk1imwTcJ7bIafieEKH) | 3:31 | 2021-12-23 | 2022-03-02 |
@@ -42,7 +43,7 @@
 | [AlRawabi Anthem](https://open.spotify.com/track/59d9AtqxlI7GQOut4ys3fq) | [AlRawabi Choir](https://open.spotify.com/artist/4Ac0GE4iof62Xfs9yCiW9F) | [AlRawabi Anthem](https://open.spotify.com/album/6ppcAbcHyAjrgnZswicB7a) | 1:55 | 2021-12-23 | 2022-03-02 |
 | [AlRawabi Anthem Remix](https://open.spotify.com/track/6Zw3tNHV9RTfaVjkXVIoi9) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [AlRawabi Anthem Remix](https://open.spotify.com/album/6yJAn4msXZ5WNsbyNBVHek) | 1:57 | 2021-12-30 | 2022-03-02 |
 | [Ana Aghar](https://open.spotify.com/track/4RIYFfuJ80QpWaufFwDrl2) | [Joan Husssein](https://open.spotify.com/artist/35hdPES6rNnAfwx4b2Tze7) | [Ana Aghar](https://open.spotify.com/album/6kkhEalG1bDhUpVkZxwB6v) | 4:20 | 2022-03-01 | 2022-07-29 |
-| [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-11 |  |
+| [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-11 | 2022-10-17 |
 | [Ana Men](https://open.spotify.com/track/0t0wTAuASealrrHyrkYdF6) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Ana Men](https://open.spotify.com/album/4iCFKHnPhLPceHgpAuF4ZO) | 3:34 | 2021-12-23 | 2022-02-27 |
 | [Anger](https://open.spotify.com/track/2ewErT1UdO14jpk8I7WK6U) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Anger](https://open.spotify.com/album/0aGn0YLlsHxsNdBCcuRv01) | 2:45 | 2022-01-20 | 2022-02-18 |
 | [Ann Alawan](https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ann Alawan](https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg) | 3:45 | 2022-03-01 |  |

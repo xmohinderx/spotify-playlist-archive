@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,598 likes - 60 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,748 likes - 60 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 33 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 |
 | 34 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda \(Extended Versions\)](https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2) | 7:06 |
 | 35 | [Deep Inside](https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside](https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY) | 6:30 |
-| 36 | [David Morales \- Needin U \- Radio Edit](https://open.spotify.com/track/4lgDZcisljVlutaku19eqV) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD) | [Needin' U \(Radio Edit\)](https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW) | 3:49 |
-| 37 | [Can You Feel It \- Instrumental](https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Can You Feel It](https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX) | 5:40 |
+| 36 | [Can You Feel It \- Instrumental](https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Can You Feel It](https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX) | 5:40 |
+| 37 | [David Morales \- Needin U \- Radio Edit](https://open.spotify.com/track/4lgDZcisljVlutaku19eqV) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD) | [Needin' U \(Radio Edit\)](https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW) | 3:49 |
 | 38 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
 | 39 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:15 |
 | 40 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 46 | [Touch Me](https://open.spotify.com/track/2ycghCtdMwb29zZQ7ffSoX) | [49ers](https://open.spotify.com/artist/6BWEqA4CdZageKtzch78Vs) | [Greatest Hits](https://open.spotify.com/album/0KbhGcgoagosU3W4Jw5eBS) | 3:47 |
 | 47 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
 | 48 | [The Shelter \- Vocal](https://open.spotify.com/track/3QP0Ar3iRtS6GJMRcQryaf) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [GATE\-AH](https://open.spotify.com/album/2W6tSoWGY7ShtfjVYEvxgz) | 6:27 |
-| 49 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
-| 50 | [Not Forgotten \- Hard Hands Remix](https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [A Final Hit \- The Best Of Leftfield](https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6) | 7:37 |
+| 49 | [Not Forgotten \- Hard Hands Remix](https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [A Final Hit \- The Best Of Leftfield](https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6) | 7:37 |
+| 50 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 | 51 | [Rich in Paradise \(Going Back to My Roots\) \- Vocal Remix](https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Rich in Paradise \(Going Back to My Roots\)](https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8) | 5:51 |
 | 52 | [Rhythm Is a Mystery \- Non\-Stop Edit](https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR) | [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Universal](https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg) | 5:54 |
 | 53 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Noosa Heads](https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp), [Salt City Orchestra](https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi) | [Mushrooms](https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5) | 8:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 | 60 | [Brighter Days feat\. Dajae \- Louie's Masters At Work Mix](https://open.spotify.com/track/4Z4IWEJMEMGRlqu67UxWAH) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Only 4 U: The Sound Of Cajmere & Cajual Records 1992\-2012](https://open.spotify.com/album/4Ypvjh2Pf3c5AGZfkNva5d) | 10:40 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDEwOTAxNWQxYWIwOWNjZDNhYjVjMGY2M2Y2ODBmMWVm`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGRlOGE5ZTU5MmFhNzY3OWE4M2VlM2IwZjA3MjBjZmU2`

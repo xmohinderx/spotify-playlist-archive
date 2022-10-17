@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 929193,
+  "num_followers": 929483,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ3MzI2OCwwMDAwMDAwMDEzNTExNmE2NjQ0NWQ0YTA2MTgwZjhmYjU3YzJlODA2",
+  "snapshot_id": "MTY2NTQ3MzI2OCwwMDAwMDAwMGQ3OWE1ZTEzYTYyNTMxNmFhMzc5MDRiNzdmYjY4MDkw",
   "tracks": [
     {
       "added_at": "2022-10-11 07:27:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-11 07:27:48",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
-    },
-    {
-      "added_at": "2022-10-11 07:27:48",
-      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+    },
+    {
+      "added_at": "2022-10-11 07:27:48",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "On The Street Where You Live - Remastered",
+      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
       "added_at": "2022-10-11 07:27:48",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-10-11 07:27:48",
       "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
         }
       ],
-      "duration_ms": 185693,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2"
+      "duration_ms": 223066,
+      "name": "This Guy's In Love With You",
+      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
     },
     {
       "added_at": "2022-10-11 07:27:48",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-10-11 07:27:48",
       "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
       },
       "artists": [
         {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 223066,
-      "name": "This Guy's In Love With You",
-      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
+      "duration_ms": 185693,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2"
     },
     {
       "added_at": "2022-10-11 07:27:48",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-11 07:27:48",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
-        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 182573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
-    },
-    {
-      "added_at": "2022-10-11 07:27:48",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2022-10-11 07:27:48",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
+        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+      "duration_ms": 182573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
     },
     {
       "added_at": "2022-10-11 07:27:48",
@@ -867,6 +851,22 @@
       "duration_ms": 184600,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK"
+    },
+    {
+      "added_at": "2022-10-11 07:27:48",
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 113293,
+      "name": "Almost Like Being In Love - Remastered",
+      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
     },
     {
       "added_at": "2022-10-11 07:27:48",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-11 07:27:48",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
-    },
-    {
-      "added_at": "2022-10-11 07:27:48",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 133813,
       "name": "Ain't We Got Fun",
       "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
+    },
+    {
+      "added_at": "2022-10-11 07:27:48",
+      "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
     },
     {
       "added_at": "2022-10-11 07:27:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-10-11 07:27:48",
       "album": {
-        "name": "Love, Andy",
-        "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Can't Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
-    },
-    {
-      "added_at": "2022-10-11 07:27:48",
-      "album": {
         "name": "On Your Side",
         "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 277773,
       "name": "Lay Lady Lay",
       "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
+    },
+    {
+      "added_at": "2022-10-11 07:27:48",
+      "album": {
+        "name": "Love, Andy",
+        "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Can't Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
     },
     {
       "added_at": "2022-10-11 07:27:48",

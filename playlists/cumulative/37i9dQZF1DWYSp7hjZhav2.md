@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 5 hr 0 min - not published yet
+51 songs - 5 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [No One Gets Left Behind \- Konstantin Sibold Remix](https://open.spotify.com/track/3sUhSOFaSojQYP7qWL2g1d) | [DJ Yellow](https://open.spotify.com/artist/65d01n0bjvSlBMQTIAurTU), [Flowers and Sea Creatures](https://open.spotify.com/artist/5FShZPKtOs19K5qcZHkw3Q), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Compost Black Label \#105](https://open.spotify.com/album/0RJsKbB0kqMtWbUmIUFPMz) | 6:50 | 2022-10-05 |  |
 | [Nostalgia](https://open.spotify.com/track/2LoMz4ATefJEQjtS03wDHu) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Nostalgia](https://open.spotify.com/album/7DS09pXwf2q17wOBN7cJ8z) | 4:42 | 2022-10-05 |  |
 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 | 2022-10-05 |  |
-| [Now Is](https://open.spotify.com/track/0wetZebEoeaOVQu9dse8Jk) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 6:31 | 2022-10-05 |  |
+| [Now Is](https://open.spotify.com/track/0wetZebEoeaOVQu9dse8Jk) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 6:31 | 2022-10-05 | 2022-10-17 |
+| [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 | 2022-10-05 |  |
 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 | 2022-10-05 |  |
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-10-05 |  |
 | [Pablo \- Jos & Eli Remix](https://open.spotify.com/track/1vmU5mjHUKZ4FHi7sawBdA) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Pablo EP](https://open.spotify.com/album/3BKNZlWW0NmiyPX4MkQuDp) | 5:57 | 2022-10-05 |  |

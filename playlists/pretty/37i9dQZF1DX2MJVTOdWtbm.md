@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Ramon Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,798 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,827 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 81 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 |
 | 82 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
 | 83 | [Talk Too Much](https://open.spotify.com/track/6xWmOgBNABDWJmYMsemoNK) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Talk Too Much](https://open.spotify.com/album/0v0QagQf2BhQtUa8UAbFLc) | 3:02 |
-| 84 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 |
-| 85 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
+| 84 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
+| 85 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 |
 
-Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMDI3NDUyYTU0ZjE1MjljOWQ2NjU0MmI1OTk3NzM4NTA2`
+Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMDUwZDFlOWI4MGZlZjkzMGI3NjRmOGJjMjE2NGRlYzlm`

@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 11777,
+  "num_followers": 11935,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMDEyMzE1OTU5MmY3OTlhNDRmZjlkMzEwZTNhMzc1OGU5",
+  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMGM5YjBhNzJmODk3NTcwNWRkZDRjNzVjOTAxNWQyMzll",
   "tracks": [
     {
       "added_at": "2022-10-01 05:16:54",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
-      },
-      "artists": [
-        {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 197522,
       "name": "Power",
       "url": "https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 145278,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -491,6 +491,26 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
+        "name": "Unguilty Pleasure",
+        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "Unguilty Pleasure",
+      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
-        "name": "Unguilty Pleasure",
-        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
-      },
-      "artists": [
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 193398,
-      "name": "Unguilty Pleasure",
-      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
         "name": "Ike",
         "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 229363,
       "name": "Ike",
       "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
-      },
-      "artists": [
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 134217,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Nobody Like You EP",
         "url": "https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 185959,
       "name": "Nobody Like You - Radio Edit",
       "url": "https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 134217,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -967,26 +967,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        }
-      ],
-      "duration_ms": 184111,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 186000,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "duration_ms": 184111,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW"
     },
     {
       "added_at": "2022-10-01 05:16:54",

@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-735 songs - 1 day 9 hr 29 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+736 songs - 1 day 9 hr 32 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [REVENGE](https://open.spotify.com/track/5Wz6iMpVJRGazRUlcYoqM4) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [REVENGE](https://open.spotify.com/album/0HIvJjdjizhayyrtqg9iXn) | 2:25 | 2022-04-15 | 2022-04-24 |
 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2021-03-16 |  |
 | [right here](https://open.spotify.com/track/5OFf5pzpIcdstWwAhv5YXE) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA) | [right here](https://open.spotify.com/album/0aPzug6VeXcedSM4yJyqId) | 2:56 | 2021-11-15 | 2022-10-13 |
+| [right here](https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Horsehead](https://open.spotify.com/artist/07NLoddXdBEh9nmUH7tYVq) | [right here](https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY) | 2:56 | 2022-10-07 |  |
 | [Ring The Alarm](https://open.spotify.com/track/64YXn0w1Rp1UVyTbO8VJYd) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [ALL i've HEARD](https://open.spotify.com/album/4ebvzBmSPzAodN74GdPMQI) | 2:41 | 2021-03-26 | 2021-05-29 |
 | [riot](https://open.spotify.com/track/5uPEmTzFlMQjVgMLy694Rs) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [riot](https://open.spotify.com/album/0CuJZDmgz6UQKKy0R6gPJQ) | 3:41 | 2022-02-04 | 2022-04-20 |
 | [Robbery](https://open.spotify.com/track/6Hj9jySrnFppAI0sEMCZpJ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love](https://open.spotify.com/album/1GYVNOzwhx1nMcIJDogSNp) | 4:00 | 2021-01-29 | 2021-02-25 |
@@ -586,7 +587,7 @@
 | [SO BAD SO WHAT](https://open.spotify.com/track/1AKk2TFBIVfjHQBIm60Z3F) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [SO BAD SO WHAT](https://open.spotify.com/album/21VTVBAaGLYuLd5RBOklHo) | 2:36 | 2020-12-13\* | 2021-02-27 |
 | [SO DONE](https://open.spotify.com/track/5psEZhQu6lukjhavJo4AbC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SO DONE](https://open.spotify.com/album/5fyH2H1o23bLNIxGu9JcMq) | 2:06 | 2020-12-13\* | 2022-04-23 |
 | [so long forgotten](https://open.spotify.com/track/7d45FbYPYdVwFqecKMjlrC) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8) | [so long forgotten](https://open.spotify.com/album/4GLLQ1Dx1I8k9DYb1MWTXt) | 3:19 | 2021-02-22 | 2021-03-14 |
-| [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 | 2022-08-12 |  |
+| [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 | 2022-08-12 | 2022-10-17 |
 | [Social Anxiety](https://open.spotify.com/track/0MZ2kETP6klE6mn7UlVoEP) | [Skye](https://open.spotify.com/artist/0sHIsJteyLhBYwKgF3Vfg2) | [Social Anxiety](https://open.spotify.com/album/4CiiKySVjaZGCqBqskiyzy) | 2:07 | 2020-12-13\* | 2021-07-01 |
 | [Someday](https://open.spotify.com/track/2GOihJe5nJysbyVYnoUf9N) | [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Someday](https://open.spotify.com/album/1STShZXeJsVHLBR9FAnvqx) | 2:36 | 2021-08-07 | 2022-07-29 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-10 | 2022-04-02 |

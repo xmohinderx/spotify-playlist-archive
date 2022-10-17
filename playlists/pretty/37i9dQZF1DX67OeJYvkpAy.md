@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,577 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,654 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 14 | [Missing You](https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt) | [Mboogz](https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB) | [Missing You](https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1) | 3:33 |
 | 15 | [Hoods Hottest](https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/0NQw8iZDOn5TWIR6NUdsgC) | 3:07 |
 | 16 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 |
-| 17 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 |
+| 17 | [Late Night Trips](https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Late Night Trips](https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE) | 1:37 |
 | 18 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
-| 19 | [Late Night Trips](https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Late Night Trips](https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE) | 1:37 |
+| 19 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 |
 | 20 | [Never Really Mine](https://open.spotify.com/track/62K84Fv61CS9dGt7JQqDlM) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Dutch From The 5th](https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b) | 2:18 |
 | 21 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
 | 22 | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/track/7IAfy3gQAOXhp2GZUUZwC6) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/album/5dgLLxotbmPvWKKTDeP3au) | 2:39 |
 | 23 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
 | 24 | [A Teen](https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [A Teen](https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi) | 3:21 |
-| 25 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 |
-| 26 | [Deeper Than Drill](https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF) | 2:54 |
+| 25 | [Deeper Than Drill](https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF) | 2:54 |
+| 26 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 |
 | 27 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
 | 28 | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/track/6ytZECedDqFmfyuoRMnaJQ) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/album/5jEmBbvQ1imzmzg37p2F98) | 4:05 |
 | 29 | [Change](https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG) | [Adzmilli](https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk) | [Change](https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL) | 3:18 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 45 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
 | 46 | [One Pop](https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92) | [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [One Pop](https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP) | 3:04 |
 | 47 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
-| 48 | [Die Young](https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Die Young](https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N) | 3:12 |
-| 49 | [18+](https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb) | 2:08 |
-| 50 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
+| 48 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
+| 49 | [Die Young](https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Die Young](https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N) | 3:12 |
+| 50 | [18+](https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb) | 2:08 |
 | 51 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
 | 52 | [Ether](https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Ether](https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm) | 3:05 |
 | 53 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMDMzMjdjMGI5OTA3ZTlkMTgyMDdmODM1ZGY3YTBkNGFi`
+Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMDZlNjc2ZmEwNzYwOTBmZmVmODg0NDhkOWRhNzY4NTA3`

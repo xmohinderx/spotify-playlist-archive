@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-439 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+440 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [mothers](https://open.spotify.com/track/4AXlebMtXdaleomf845EEh) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [mothers](https://open.spotify.com/album/6LZZFBF5mopquCMJZZ5mnb) | 2:54 | 2022-05-06 | 2022-05-14 |
 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 | 2021-08-04 | 2022-09-03 |
 | [Moving On and Getting Over](https://open.spotify.com/track/1crSsvtU9wZB15dIQXV2QH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 4:25 | 2021-08-05 | 2022-08-25 |
+| [Mr\. Percocet](https://open.spotify.com/track/0kZfIS6tmcL7lSvUaa1D1D) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:13 | 2022-05-13 |  |
 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-09-16 |
 | [Mr\. Percocet](https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:13 | 2022-05-13 | 2022-10-08 |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 |  |
@@ -336,7 +337,7 @@
 | [Room](https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Room](https://open.spotify.com/album/2eOU1jfnTXVVH14YJRkqz9) | 3:30 | 2021-08-04 | 2022-07-27 |
 | [Salt And The Sea](https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ) | 4:30 | 2021-08-04 | 2022-04-02 |
 | [Same Side](https://open.spotify.com/track/0DJOsMUTqsgocrs25hGY8u) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Same Side](https://open.spotify.com/album/54jKK0Kb76gVB11hKlTYru) | 3:56 | 2021-10-01 | 2022-07-08 |
-| [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2022-07-08 |  |
+| [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2022-07-08 | 2022-10-17 |
 | [Say Nothing](https://open.spotify.com/track/7tp8PseJKWDiYBk9PLwawt) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Say Nothing](https://open.spotify.com/album/2OixTZdPDO4URwO5fIEqQt) | 3:29 | 2022-09-30 | 2022-10-08 |
 | [Secrets](https://open.spotify.com/track/03aAxkw0QNJJoUkWz2bzAo) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Secrets](https://open.spotify.com/album/0cJuRJZSVvBOITJNyqeR7t) | 3:00 | 2022-03-25 | 2022-04-24 |
 | [See The Light](https://open.spotify.com/track/6lF5yAmscceMAs0T5qSrAi) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [See The Light](https://open.spotify.com/album/6rRdg4kawkdtaO6Pe1K6aY) | 2:50 | 2022-01-21 | 2022-07-29 |

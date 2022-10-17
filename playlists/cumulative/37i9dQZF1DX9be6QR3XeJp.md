@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists\. Cover: lozeak
 
-159 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+160 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 | 2022-05-19 |  |
 | [Put A Record On](https://open.spotify.com/track/2IEbyYtElSG0IU0WZXFA2N) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Put A Record On](https://open.spotify.com/album/5QAuMtvx5AKDKaqxkSmjob) | 3:01 | 2022-02-18 | 2022-07-29 |
 | [Put A Record On](https://open.spotify.com/track/2SGCf4PBhnBf0NJex8sNyn) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [I Wish I Was A...](https://open.spotify.com/album/5Q9tbNhGMAS6IO7azxjKSx) | 3:01 | 2022-07-28 |  |
-| [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 | 2022-02-18 |  |
+| [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 | 2022-10-13 |  |
+| [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 | 2022-02-18 | 2022-10-17 |
 | [Red Hearts](https://open.spotify.com/track/6kLdSLraP7xxZ7MG2whHBM) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Red Hearts](https://open.spotify.com/album/51SibOPo6UKKZ4ffvZ8Snc) | 4:23 | 2022-02-18 |  |
 | [Remedies](https://open.spotify.com/track/1bCl2ys5OAbgoEw3vE0B57) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2ib2McC2mS6zPUud6LqBgA) | 4:42 | 2022-02-18 | 2022-07-29 |
 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 | 2022-07-28 |  |

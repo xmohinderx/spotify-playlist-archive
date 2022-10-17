@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,125 likes - 214 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,139 likes - 214 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 146 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
 | 147 | [Allowance](https://open.spotify.com/track/1nSgDfK6KfrsowM3zeA4DP) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Allowance](https://open.spotify.com/album/5fJsPvSDQeOEJyXrEOphUJ) | 6:47 |
 | 148 | [Doubt \(Summer Edit\)](https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Doubt \(Summer Edit\)](https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ) | 3:46 |
-| 149 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/2ZlEYFavXkkEF37JrjMSLp) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/37P4W95GLJ3xwW1VS25mNL) | 2:56 |
+| 149 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG) | 2:56 |
 | 150 | [1998](https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 6:07 |
 | 151 | [Stay \(feat\. Dive Deep\) \- Machinedrum Remix](https://open.spotify.com/track/4Zdd7X7z6HWOBNEaVxZwtR) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Dive Deep](https://open.spotify.com/artist/5MdvbtcRkC5dHjMyeFbPtS), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Cyclical \(Remixes\)](https://open.spotify.com/album/5ZgtiOUBGq70vNV9k7YMNz) | 3:27 |
 | 152 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 213 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 214 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDg1YjU5YmNjOTNkYzdjYzU5Y2E2YTdiYjkxMTcxNzVi`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDIwMmUwODM4OTYzOTcxZWZhYjkxNjE4NDVjNmQzOWYx`

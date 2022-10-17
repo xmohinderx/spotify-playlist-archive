@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Kevin o Chris, Matheus & Kauan com Jorge & Mateus, Djonga, Veigh e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,784,692 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,784,888 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 6 | [Lágrimas](https://open.spotify.com/track/3hojhd3mfC37BMVVKrG1B4) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Mc Manu do Marapé](https://open.spotify.com/artist/1JCg59vLEjwBCqfste2zTy) | [Dias Antes de Mandrake](https://open.spotify.com/album/3gMr7Z43VxFxQuCkRiHoX8) | 2:57 |
 | 7 | [O Preço](https://open.spotify.com/track/2nFGwiNKfXZ6dKzp4fi6WZ) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [O Preço](https://open.spotify.com/album/059ep7eDXkh1UedvYiz5iS) | 4:27 |
 | 8 | [Boca Enganada \- Ao Vivo](https://open.spotify.com/track/3RjVR6vjFDotAeSTGSfmLT) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Boca Enganada \(Ao Vivo\)](https://open.spotify.com/album/63LeytFLWMqqFvYGVfLhJR) | 3:09 |
-| 9 | [Cadarço \- Ao Vivo](https://open.spotify.com/track/44VcWqdjxsh6z3t04gE9Fs) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Cadarço \(Ao Vivo\)](https://open.spotify.com/album/7zrnt7lTmZe3PlGPhXQ5Ql) | 3:19 |
+| 9 | [Cadarço \- Ao Vivo](https://open.spotify.com/track/327EY7CGXMKHpMOPHDxdlY) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 3](https://open.spotify.com/album/2FpMBQTeTBtH0EKEth4bTg) | 3:19 |
 | 10 | [Cativeiro \- Ao Vivo](https://open.spotify.com/track/6EHQaMjjKxo2rOrixt9KDg) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [No Sentimento Do Álcool \(Ao Vivo / Vol\. 3\)](https://open.spotify.com/album/6eladmRtHGOofA8oEdReof) | 2:46 |
 | 11 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
 | 12 | [Chama Minha Gang](https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Chama Minha Gang](https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59) | 2:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 84 | [Hoje Eu Tô Louco](https://open.spotify.com/track/4pzXj5yXTZHNgH0DsTaCnG) | [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz) | [Hoje Eu Tô Louco](https://open.spotify.com/album/0wKC4SA1S9wXSljtXjUlUO) | 3:31 |
 | 85 | [Marrento](https://open.spotify.com/track/027ifjkjLshZy8jgKB9Jnm) | [MC W1](https://open.spotify.com/artist/1pc2LERxjl2FZ3Ir5rYBqj), [Dj Tadeu](https://open.spotify.com/artist/1iZdFDzn4nISGsEnmwwIKb), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Marrento](https://open.spotify.com/album/0fCeRftxpHiVcPT4tP5QBA) | 2:12 |
 
-Snapshot ID: `MTY2NTcxNzY4OCwwMDAwMDAwMDUwNmVmM2ExNDNjOGJjZDVmNTE2MTdiZTliOWMwZDM2`
+Snapshot ID: `MTY2NTcxNzY4OCwwMDAwMDAwMGM2M2U4YmY1MDY4N2NkZTQ5YTU5YTAyMzg2NTI2YTE4`

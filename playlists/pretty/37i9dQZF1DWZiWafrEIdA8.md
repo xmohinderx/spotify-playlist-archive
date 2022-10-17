@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,107 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,125 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 33 | [I Hated Myself \(Tablo's Word\)](https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:15 |
 | 34 | [home sh\*t home](https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [DARKROOM : roommates only](https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE) | 3:29 |
 | 35 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
-| 36 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
-| 37 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
+| 36 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
+| 37 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
 | 38 | [Family Portrait \(Feat\. Kim Feel\)](https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:46 |
 | 39 | [Lonely Night \(feat.GAEKO\)](https://open.spotify.com/track/7ftv3uigGigYVND065syjM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Lonely Night](https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf) | 3:37 |
 | 40 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [winter night \(Feat\. DUT2\)](https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:11 |
 | 50 | [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 |
 
-Snapshot ID: `MTY2NTExNzM3MiwwMDAwMDAwMGE1ZDFlM2UwMTZmZjczMDhmYmM3ZWVlNWYwNDgwNTA4`
+Snapshot ID: `MTY2NTExNzM3MiwwMDAwMDAwMDI3M2E4Nzc3NzliNGRkOGY4Njk1OGJkN2U2ZjkyNWYz`

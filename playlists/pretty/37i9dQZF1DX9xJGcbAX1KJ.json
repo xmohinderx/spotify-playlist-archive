@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 9558,
+  "num_followers": 9583,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDQxNGQ1ZjZkNGNkN2MzYTc1YWJlMWU4MWZlZjlmMGIz",
+  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMGMwNjVkYmNjMTY0MTlmM2MwOTFkYjMyNzM2ZmY2MGM4",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -703,22 +703,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 234135,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Let It Be",
         "url": "https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 234135,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -751,6 +751,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Happy Together (feat. Ray Toro)",
         "url": "https://open.spotify.com/album/5aoP0bnk5GoiW2NAX779eO"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 179392,
       "name": "Happy Together (feat. Ray Toro)",
       "url": "https://open.spotify.com/track/0n0XAmYCMWlzj3W9VdMejw"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": "2019-02-22 20:19:46",

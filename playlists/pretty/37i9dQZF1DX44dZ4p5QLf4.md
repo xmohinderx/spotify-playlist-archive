@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Joya Mooi
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,906 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,007 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 68 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 |
 | 69 | [Celebrate](https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:23 |
 | 70 | [More Than Love](https://open.spotify.com/track/71iTdpLIixnRQOgxA4KXlP) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [What's After 'I Love You?'](https://open.spotify.com/album/1zMntRNN2McM6cuN4RQM48) | 3:32 |
-| 71 | [Coolest Things \(feat\. Ari Lennox\)](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 |
+| 71 | [Coolest Things](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 |
 | 72 | [Pieces ft Duckwrth](https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Pieces ft Duckwrth](https://open.spotify.com/album/7g7HsmUkK7pm94sqy9INrh) | 2:54 |
 | 73 | [Ego](https://open.spotify.com/track/7uB6KGAyiz2fNmsYY2NdsX) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 5:50 |
 | 74 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |

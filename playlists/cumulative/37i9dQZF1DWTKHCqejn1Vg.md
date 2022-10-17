@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-201 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+202 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 | 2022-05-03 |  |
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 |  |
 | [Rendezvous](https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8) | 3:05 | 2022-05-03 |  |
-| [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 | 2022-07-08 |  |
+| [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 | 2022-07-08 | 2022-10-17 |
 | [Replay](https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 2:43 | 2022-05-03 | 2022-07-26 |
 | [Ring Ring](https://open.spotify.com/track/23oMQhTRUBT4TlN4bHdzCx) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:26 | 2022-05-03 | 2022-07-28 |
 | [RING RING](https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Ring Ring](https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH) | 3:26 | 2022-07-08 |  |
@@ -184,6 +184,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 | 2022-05-03 |  |
 | [Too Many](https://open.spotify.com/track/5LgzmmzIXRzmwEmCLYKamI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:07 | 2022-05-03 | 2022-07-29 |
 | [Too Many](https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:07 | 2022-07-08 |  |
+| [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 | 2022-10-04 |  |
 | [Under the starlight \(feat\. gayon1mo, Leff\)](https://open.spotify.com/track/4Q4HGuQn3hl9jmYCJXPX9H) | [WR](https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf), [gayon1mo](https://open.spotify.com/artist/1oZXmOiAhf8LDBooBpUyHY), [Leff](https://open.spotify.com/artist/43JfM0mbZHC2iw9SJYqqPy) | [2021 Works: 02](https://open.spotify.com/album/1ojKLnT0m56ID6fiCtxjlK) | 3:12 | 2022-05-03 | 2022-07-15 |
 | [Urban Girl](https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [VANESSA](https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:18 | 2022-05-03 | 2022-07-12 |

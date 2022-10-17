@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=nOiYYMd5SSuw6cmc\_LG3Dw"> Black Sherif </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,660 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,733 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 65 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
 | 66 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 | 67 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
-| 68 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 |
-| 69 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
+| 68 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
+| 69 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 |
 | 70 | [Long Way from Home](https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Yp & Azanti, Vol\. 1](https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK) | 3:01 |
 
-Snapshot ID: `MTY2NTEyMTk2NSwwMDAwMDAwMGU5MDJmZDI2OWRiMGYzYjA1ZWExN2Q5ZjE5M2MxODYx`
+Snapshot ID: `MTY2NTEyMTk2NSwwMDAwMDAwMGQyODZlNjk1OTE2N2VjODcwOWRkNzk1NTdkNzlhZjBi`

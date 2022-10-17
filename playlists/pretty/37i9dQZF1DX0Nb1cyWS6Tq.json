@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Siouxsie and the Banshees on the cover.",
-  "num_followers": 464609,
+  "num_followers": 465148,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQxMjQ4MCwwMDAwMDAwMDgxMDAxOTk0NTNlMzVmNmU1MmMzMjQ2Y2MxYTFiNjdm",
+  "snapshot_id": "MTY2NDQxMjQ4MCwwMDAwMDAwMDI2ZWE1Yzg0ZTY4YTQ0YjIzOWRlZjUzY2M2M2IyMGZl",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Bela Session",
         "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "In the Flat Field",
-        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Dark Entries",
-      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Romeo's Distress",
+      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Bloody Kisses (Top Shelf Edition)",
         "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+        "name": "In the Flat Field",
+        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
       },
       "artists": [
         {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Romeo's Distress",
-      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
+      "duration_ms": 231560,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
     },
     {
       "added_at": "2022-08-09 00:37:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Express",
-        "url": "https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "duration_ms": 365706,
-      "name": "Holiday on the Moon",
-      "url": "https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Cuando Sale El Sol: Rock",
         "url": "https://open.spotify.com/album/7Ff5wvB7uhwLNYUutyHMrq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 306400,
       "name": "Blasphemous Rumours",
       "url": "https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "duration_ms": 365706,
+      "name": "Holiday on the Moon",
+      "url": "https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Everything!",
-        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
-      },
-      "artists": [
-        {
-          "name": "Tones On Tail",
-          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
-        }
-      ],
-      "duration_ms": 268773,
-      "name": "Go! - Club Mix",
-      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Nephilim",
         "url": "https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 340626,
       "name": "Moonchild",
       "url": "https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Everything!",
+        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
+      },
+      "artists": [
+        {
+          "name": "Tones On Tail",
+          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
+        }
+      ],
+      "duration_ms": 268773,
+      "name": "Go! - Club Mix",
+      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
     },
     {
       "added_at": "2021-10-15 04:04:50",

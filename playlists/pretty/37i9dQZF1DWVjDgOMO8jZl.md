@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: Sans Soucis
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,023 likes - 72 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,028 likes - 72 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 6 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 |
 | 7 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 |
 | 8 | [Quanto Ti Amo](https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Quanto Ti Amo](https://open.spotify.com/album/5Z8aea17ANp1pI8q89O7fL) | 3:09 |
-| 9 | [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 |
+| 9 | [On Time For Her](https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 3:38 |
 | 10 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 |
 | 11 | [sottacqua](https://open.spotify.com/track/2Pdr33YqelbFwPepOAwBQy) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [sottacqua](https://open.spotify.com/album/0zj4qpoGerASVYBsq8uy2z) | 3:21 |
 | 12 | [Copacabana](https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:49 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 71 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 |
 | 72 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 |
 
-Snapshot ID: `MTY2MTk0MDY0NywwMDAwMDAwMDhiOWI1ZDIwNzUxOGE1YTRkMjliNmI0ZjMyNmQ3NWY0`
+Snapshot ID: `MTY2MTk0MDY0NywwMDAwMDAwMGM0ZTVjYmUyYTJlZDdjMWJkZmMyN2E0NjE4MGI3OWU5`

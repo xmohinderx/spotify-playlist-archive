@@ -4,7 +4,7 @@
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-103 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0U6BItUewcPTCkrT4zM3lw)
+104 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/0U6BItUewcPTCkrT4zM3lw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Chaud](https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Maison](https://open.spotify.com/album/6a0kpW3K2zVsjnusyitG8Z) | 3:06 | 2021-10-08 |  |
 | [Cold Feet](https://open.spotify.com/track/05eyyXvXUn1sJddXilQb5d) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Nights Like This](https://open.spotify.com/album/2C0dvkjangekkdKMCwT85f) | 2:55 | 2021-10-08 | 2022-07-29 |
 | [Cold Feet](https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:01 | 2021-10-08 |  |
-| [Comme dans les films](https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Comme dans les films](https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv) | 3:03 | 2021-10-08 |  |
+| [Comme dans les films](https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Comme dans les films](https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv) | 3:03 | 2021-10-08 | 2022-10-17 |
 | [Dancing In The Dark](https://open.spotify.com/track/1y9zOwyUjX3koxCsJ50VhA) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Dancing In The Dark](https://open.spotify.com/album/4D7F5kCUk9ME8Ip7mCcFb9) | 3:04 | 2021-10-08 |  |
 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/3n2pKZvxaUtVUdsj6UcW4s) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/3xTEAdIIr3QJ67eYSYlDa1) | 3:03 | 2021-10-08 | 2022-07-29 |
 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 | 2021-10-08 |  |
@@ -86,6 +86,7 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2021-10-08 | 2022-07-29 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2021-10-08 |  |
 | [Run Run](https://open.spotify.com/track/3AykwqBMnpKvNwT9iMcJXj) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2GH8XRIknCWAUwLQKWSd3x) | 3:43 | 2021-10-08 | 2022-07-28 |
+| [Run Run](https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb) | 3:43 | 2021-10-08 |  |
 | [Run Run](https://open.spotify.com/track/64TB6vy9OSpv8mlA7hBKJ0) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/38PlQgKM1ytIx0yOZRlzNU) | 3:43 | 2021-10-08 | 2022-10-14 |
 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 | 2021-10-08 |  |
 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 | 2021-10-08 |  |

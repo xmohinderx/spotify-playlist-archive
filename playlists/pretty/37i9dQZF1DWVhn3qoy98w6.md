@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Ambizius.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,782 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,789 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 40 | [Los Turistas](https://open.spotify.com/track/2CtTE9Tv4Vxyy9jYwLjSuV) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d), [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Los Turistas](https://open.spotify.com/album/7spesGep4fguM4XzyozUWK) | 3:02 |
 | 41 | [Acuérdate de Mí](https://open.spotify.com/track/4yEWP3ZN6LLpPK2pDUEjXX) | [Unidad y Armonía](https://open.spotify.com/artist/05qFHgf1VfCSmZUgC5aLX9) | [Acuérdate de Mí](https://open.spotify.com/album/1jcOOtb07Jp0ygQmBH4Up5) | 3:40 |
 | 42 | [Na de Na](https://open.spotify.com/track/5nlzuHjo2RqQyGP1PKfqL5) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Oh la La](https://open.spotify.com/album/5cEJM8B9QApd5Dnw5zAjwp) | 3:22 |
-| 43 | [Un verano contigo](https://open.spotify.com/track/6Rk5tAWgxrseHfhRhcoI65) | [ÁCIDA](https://open.spotify.com/artist/5NK267ylakwysPXejsWtBn), [Nivo Yumin](https://open.spotify.com/artist/5CWgbOk0tM4ajJBgJ9lFyQ) | [Un verano contigo](https://open.spotify.com/album/5vPKXBIf5pDQeAPgyvkgUc) | 3:53 |
+| 43 | [Un verano contigo](https://open.spotify.com/track/6Rk5tAWgxrseHfhRhcoI65) | [ÁCIDA](https://open.spotify.com/artist/5NK267ylakwysPXejsWtBn), [Yum:n](https://open.spotify.com/artist/7sQJxnOQc0HH1eyQgoU7tP) | [Un verano contigo](https://open.spotify.com/album/5vPKXBIf5pDQeAPgyvkgUc) | 3:53 |
 | 44 | [Sayek](https://open.spotify.com/track/0yPR8PjQcwjLK5m3rJzP7c) | [Bengo](https://open.spotify.com/artist/6dNHiPEIu6X3UrneNMX4EK) | [Sayek](https://open.spotify.com/album/4upmff4ATQW4GOiRnijwA1) | 2:33 |
 | 45 | [Soledat](https://open.spotify.com/track/1YILHZmLtQLFoKgFTTajob) | [Joan Sordé](https://open.spotify.com/artist/17eEhM8EM9gvM98nHFRgbl), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9), [Joan Masdéu](https://open.spotify.com/artist/1qg4y9TyV4WrCtHFAGgMhm) | [Soledat](https://open.spotify.com/album/1ABc7SQjCvrJWsVJCeXX64) | 3:20 |
 | 46 | [Banan Bana](https://open.spotify.com/track/1jUtey7AcpXcvIALMvmxJi) | [Esti Markez](https://open.spotify.com/artist/42WYTSCkakr8lrpzbfYtjC) | [Banan Bana](https://open.spotify.com/album/1mGeWzuEbfvVZbkzKYjf1w) | 2:59 |

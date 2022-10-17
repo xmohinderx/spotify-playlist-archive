@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > poze esquece pitbull chegou como
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,146 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,819 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 33 | [Eu Fiz o Jogo Virar](https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eu Fiz o Jogo Virar](https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5) | 2:25 |
 | 34 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
 | 35 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 |
-| 36 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |
-| 37 | [Horas Iguais](https://open.spotify.com/track/4m8kG46clzxMxyrDuFo1Uq) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Horas Iguais](https://open.spotify.com/album/75q0lNTV1DIYkLeBqil9EE) | 4:06 |
+| 36 | [Horas Iguais](https://open.spotify.com/track/4m8kG46clzxMxyrDuFo1Uq) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Horas Iguais](https://open.spotify.com/album/75q0lNTV1DIYkLeBqil9EE) | 4:06 |
+| 37 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |
 | 38 | [Na Onda do Gin](https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Na Onda do Gin](https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq) | 4:24 |
 | 39 | [Dublê de Marido](https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Dublê de Marido](https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks) | 2:34 |
 | 40 | [Outro Patamar](https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 49 | [Porque Elas Te Preferem](https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Porque Elas Te Preferem](https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr) | 2:40 |
 | 50 | [Se Liga](https://open.spotify.com/track/5ETcXyXWTr9HlRIqpxKdxq) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Lágrimas do Tubarão "Contos e Fatos"](https://open.spotify.com/album/4s1ThdjkZTWKLX38Q41D5Z) | 5:10 |
 
-Snapshot ID: `MTY2NTc0MzQwNywwMDAwMDAwMDAzY2IwY2ExMDQxZGQ5MDQ3OTgzNzBiYzgwYmI1NTc1`
+Snapshot ID: `MTY2NTc0MzQwNywwMDAwMDAwMDIzNWFlMjNjNmY0M2UwMDQxYWM0OWMyOTI4MDQwMmY1`

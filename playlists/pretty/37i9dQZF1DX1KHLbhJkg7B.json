@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 78900,
+  "num_followers": 78949,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDZmYTVmNjI4NmFjYjUzNWFkMzE0NDE3NTkyOGFhNTAy",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGIwZTBjYjkwYzIxZTExNDIyMTc5MDRkZWU2ZTA5YTIy",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "Lesson In Leavin'",
+      "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 216546,
       "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "Lesson In Leavin'",
-      "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
       },
       "artists": [
         {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 225119,
-      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
         }
       ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
+      "duration_ms": 225119,
+      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "If You Want Love",
-        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
-      },
-      "artists": [
-        {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Simply The Hits",
         "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 257733,
       "name": "Walking In Memphis",
       "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "If You Want Love",
+        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -723,22 +723,6 @@
       "duration_ms": 235160,
       "name": "Islands In The Stream",
       "url": "https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -787,6 +771,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
       },
@@ -823,18 +823,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -855,22 +859,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Glen Campbell I'll Be Me Soundtrack",
-        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
       },
       "artists": [
         {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
         }
       ],
-      "duration_ms": 189253,
-      "name": "Gentle On My Mind",
-      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Feeling Whitney",
-        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
+        "name": "Glen Campbell I'll Be Me Soundtrack",
+        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
       },
       "artists": [
         {
-          "name": "Tyler Booth",
-          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
         }
       ],
-      "duration_ms": 217034,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
+      "duration_ms": 189253,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Wide Open Spaces - Spotify Singles",
-        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 240224,
-      "name": "Wide Open Spaces - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "East Bound And Down",
         "url": "https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 177098,
       "name": "East Bound And Down",
       "url": "https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Wide Open Spaces - Spotify Singles",
+        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 267802,
-      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 232666,
       "name": "Folsom Prison Blues - Spotify Singles",
       "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Don't Laugh at Me",
+        "url": "https://open.spotify.com/album/1Z8x8uSkl5LXCNWlPFCKJ6"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        },
+        {
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+        }
+      ],
+      "duration_ms": 209164,
+      "name": "Don't Laugh at Me",
+      "url": "https://open.spotify.com/track/1zJfRinnh3lnteu6kKED6e"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Outskirts of Heaven",
         "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 194778,
       "name": "Three Wooden Crosses - The Bootlegger Sessions",
       "url": "https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Don't Laugh at Me",
-        "url": "https://open.spotify.com/album/1Z8x8uSkl5LXCNWlPFCKJ6"
-      },
-      "artists": [
-        {
-          "name": "Home Free",
-          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
-        },
-        {
-          "name": "Mark Wills",
-          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
-        }
-      ],
-      "duration_ms": 209164,
-      "name": "Don't Laugh at Me",
-      "url": "https://open.spotify.com/track/1zJfRinnh3lnteu6kKED6e"
     }
   ],
   "unique_name": "Country Covers",

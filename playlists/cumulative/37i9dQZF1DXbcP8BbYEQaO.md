@@ -4,7 +4,7 @@
 
 > meet me at midnight
 
-448 songs - 1 day 1 hr 32 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+449 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-04-16 | 2022-09-02 |
 | [Apparition](https://open.spotify.com/track/5xdfqTkWR6cUDURutACDhv) | [Blue Americans](https://open.spotify.com/artist/3opCzUejI73CIE2pZtKtKw) | [Apparition](https://open.spotify.com/album/3iztHG3O9JPbdH1hUIf4uu) | 3:53 | 2020-10-13\* | 2021-12-04 |
 | [April](https://open.spotify.com/track/254lj5GscJvXZpmaTp99rd) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L), [Richard X](https://open.spotify.com/artist/2Oz5BD9D2OhEyXSfmxIHi4) | [Neon Nights](https://open.spotify.com/album/1nxRfDOzBcLefK67kB6zw7) | 4:29 | 2021-09-11 | 2022-05-12 |
-| [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-23 |  |
+| [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-23 | 2022-10-17 |
 | [Arrow](https://open.spotify.com/track/5ZyFBrGopVIe1W0twXTTsN) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Maiden No More](https://open.spotify.com/album/4dM01pC3MJAYktjOW71XZA) | 4:03 | 2022-03-18 | 2022-04-01 |
 | [AWOOO!](https://open.spotify.com/track/33C1sEVNSwk1P5nTzQ2Wky) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [AWOOO!](https://open.spotify.com/album/6dQgJv3DYQAtE9OmOaEqXl) | 3:41 | 2021-08-29 | 2022-03-18 |
 | [BAD PREMONITION](https://open.spotify.com/track/2vLCGWwDttQOzBFozJh6mU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/4kR1D6YxzWtVCeAbL6vp7r) | 3:03 | 2022-10-07 |  |
@@ -297,6 +297,7 @@
 | [Night Games](https://open.spotify.com/track/62oPiG18vOZKgtmApR8SHZ) | [JPOLND](https://open.spotify.com/artist/3k4Tgw8lb1CtDAiErniQu1), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Night Games](https://open.spotify.com/album/1ZcsFpTOTNeBp3QXLKyklZ) | 3:24 | 2022-02-04 | 2022-07-28 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 |  |
 | [No Romeo](https://open.spotify.com/track/2GNH6YhM2rBaJoxYKy0iF8) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 3:11 | 2022-07-21 | 2022-10-13 |
+| [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 | 2022-10-14 |  |
 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 | 2022-04-16 | 2022-07-29 |
 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 | 2021-07-10 | 2022-01-29 |
 | [Not Sad Anymore](https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Not Sad Anymore](https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN) | 3:15 | 2021-06-19 | 2022-01-01 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 614681,
+  "num_followers": 614787,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGFiOTE2OTM1NDA4OGRlZGRhMjhlYTAxODJmMDRiMzkw",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDdlMjlmYTJkNWQwOGZkZTRhN2Y1NDE5OTcxNjBkOTQ0",
   "tracks": [
     {
       "added_at": "2022-09-30 05:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Serenatas Frente al Mar",
         "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 197850,
       "name": "Serenatas Frente al Mar",
       "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -917,26 +917,6 @@
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Aloha",
-        "url": "https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 187392,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
-    },
-    {
       "added_at": "2022-04-17 18:31:09",
       "album": {
         "name": "TANDEM",
@@ -955,6 +935,26 @@
       "duration_ms": 170158,
       "name": "SALTA",
       "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Aloha",
+        "url": "https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 187392,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1261,6 +1261,26 @@
       "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Satingarona, Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Laurene P Magnani",
+          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
+        }
+      ],
+      "duration_ms": 294499,
+      "name": "Agua fr\u00eda",
+      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
       "added_at": "2022-07-11 18:34:21",
       "album": {
         "name": "Morena",
@@ -1283,26 +1303,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Satingarona, Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
-      },
-      "artists": [
-        {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
-        },
-        {
-          "name": "Laurene P Magnani",
-          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
-        }
-      ],
-      "duration_ms": 294499,
-      "name": "Agua fr\u00eda",
-      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Pescador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
-      },
-      "artists": [
-        {
-          "name": "Ramon Chicharron",
-          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
-        }
-      ],
-      "duration_ms": 238861,
-      "name": "Mi Querer",
-      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -1415,22 +1399,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Playita en tu mar",
-        "url": "https://open.spotify.com/album/1FR1nrtvMKY4Zr4v2FbFyD"
+        "name": "Pescador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
       },
       "artists": [
         {
-          "name": "C\u00e9sar Pinz\u00f3n",
-          "url": "https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6"
-        },
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+          "name": "Ramon Chicharron",
+          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Playita en tu mar",
-      "url": "https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO"
+      "duration_ms": 238861,
+      "name": "Mi Querer",
+      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1447,6 +1427,26 @@
       "duration_ms": 203664,
       "name": "Tengo Lo Que Tengo",
       "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Playita en tu mar",
+        "url": "https://open.spotify.com/album/1FR1nrtvMKY4Zr4v2FbFyD"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Pinz\u00f3n",
+          "url": "https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Playita en tu mar",
+      "url": "https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO"
     },
     {
       "added_at": "2022-01-14 04:35:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Anakena",
         "url": "https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd"
       },
@@ -1499,42 +1483,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Shulaguapa",
-        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 187253,
-      "name": "Shulaguapa",
-      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
-    },
-    {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
+      "duration_ms": 224293,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1579,6 +1539,30 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Shulaguapa",
+        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Shulaguapa",
+      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "NO VISA",
         "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 218626,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
+    },
+    {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1829,24 +1829,28 @@
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
     },
     {
-      "added_at": "2022-08-13 00:58:24",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "P\u00e1jaros en Verano",
-        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+        "name": "Criminal (feat. Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
       "artists": [
         {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         },
         {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 196000,
-      "name": "P\u00e1jaros en Verano",
-      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
+      "duration_ms": 221042,
+      "name": "Criminal (feat. Elsa y Elmar)",
+      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
     },
     {
       "added_at": "2021-10-20 20:06:54",

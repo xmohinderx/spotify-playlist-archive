@@ -2099,6 +2099,24 @@
     {
       "album": {
         "name": "Queenish",
+        "url": "https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE"
+      },
+      "artists": [
+        {
+          "name": "Soul\u00e9",
+          "url": "https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147225,
+      "name": "Queenish",
+      "url": "https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a"
+    },
+    {
+      "album": {
+        "name": "Queenish",
         "url": "https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM"
       },
       "artists": [
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 147225,
       "name": "Queenish",
       "url": "https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE"

@@ -1095,7 +1095,7 @@
     {
       "album": {
         "name": "Hey Michael",
-        "url": "https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0"
+        "url": "https://open.spotify.com/album/3Ch7Y80qbRzzFJlfx51Ge6"
       },
       "artists": [
         {
@@ -1110,6 +1110,28 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179852,
+      "name": "Hey Michael",
+      "url": "https://open.spotify.com/track/2e6yL61IB93pCIzMNx4xRF"
+    },
+    {
+      "album": {
+        "name": "Hey Michael",
+        "url": "https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        },
+        {
+          "name": "marinelli",
+          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 179852,
       "name": "Hey Michael",
       "url": "https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf"

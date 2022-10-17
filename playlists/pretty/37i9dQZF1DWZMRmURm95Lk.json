@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. In cover, Deda.",
-  "num_followers": 28098,
+  "num_followers": 28104,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQ2MCwwMDAwMDAwMDUxMjY5YTM3ZTE3MzkwYTlmZDMwMjNlNjU0NWVmZjhm",
+  "snapshot_id": "MTY2NTY5ODQ2MCwwMDAwMDAwMDFhMDM1YjNlMjY3OWY1ZTg5MTY3NDIyNzljMTRhZDU2",
   "tracks": [
     {
       "added_at": "2022-10-13 22:01:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Tenere conto",
-        "url": "https://open.spotify.com/album/4muUoDu0KQrEqdLqezozvh"
-      },
-      "artists": [
-        {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Tenere conto",
-      "url": "https://open.spotify.com/track/4N7LPsWFruYR8bGLM96grV"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/5ojuD49ScbKa49NyxyaqMx"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 222000,
       "name": "Giorni matti (feat. Ape, Zampa)",
       "url": "https://open.spotify.com/track/0rn3RZZWJz10OQts57pnX9"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "Tenere conto",
+        "url": "https://open.spotify.com/album/4muUoDu0KQrEqdLqezozvh"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Tenere conto",
+      "url": "https://open.spotify.com/track/4N7LPsWFruYR8bGLM96grV"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lontano 2036",
-      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 163750,
       "name": "Narciso (feat. Murubutu)",
       "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Lontano 2036",
+      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391960,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
         "name": "La volta buona",
         "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 234525,
       "name": "La volta buona",
       "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Daimon",
-        "url": "https://open.spotify.com/album/4GvLhJ5Am3n68AamyaDabP"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
       "artists": [
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Bizzarri",
-          "url": "https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 246818,
-      "name": "Daimon",
-      "url": "https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb"
+      "duration_ms": 251133,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1739,6 +1735,26 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "Daimon",
+        "url": "https://open.spotify.com/album/4GvLhJ5Am3n68AamyaDabP"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Bizzarri",
+          "url": "https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie"
+        }
+      ],
+      "duration_ms": 246818,
+      "name": "Daimon",
+      "url": "https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1779,6 +1795,22 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
         "name": "Luce Nell'Ombra",
         "url": "https://open.spotify.com/album/6qauuQW1zdvxxeIwPJijwY"
       },
@@ -1803,46 +1835,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "PRIVACY",
-        "url": "https://open.spotify.com/album/4dy87Gd8cTMyalaP6ai6ub"
-      },
-      "artists": [
-        {
-          "name": "Dj Jay-K",
-          "url": "https://open.spotify.com/artist/2mWisenxMzbl3s05FYo3QE"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        }
-      ],
-      "duration_ms": 181451,
-      "name": "PRIVACY",
-      "url": "https://open.spotify.com/track/2aSttgBmRJyhI6LLLgEkqO"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391960,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "Sotto lo stesso effetto",
         "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
       },
@@ -1855,30 +1847,6 @@
       "duration_ms": 295333,
       "name": "Amor de mi vida",
       "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "Black Market (St Luca Spenish Remix)",
-        "url": "https://open.spotify.com/album/4jvApUPxBom7MVqP6rJ3xC"
-      },
-      "artists": [
-        {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "St Luca Spenish",
-          "url": "https://open.spotify.com/artist/3uPB5v8cgvDpoFySvjyMAx"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Black Market - St Luca Spenish Remix",
-      "url": "https://open.spotify.com/track/4Y5iO8sENPmNlbE7zsBAr3"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1911,18 +1879,66 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+        "name": "PRIVACY",
+        "url": "https://open.spotify.com/album/4dy87Gd8cTMyalaP6ai6ub"
       },
       "artists": [
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Dj Jay-K",
+          "url": "https://open.spotify.com/artist/2mWisenxMzbl3s05FYo3QE"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
         }
       ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+      "duration_ms": 181451,
+      "name": "PRIVACY",
+      "url": "https://open.spotify.com/track/2aSttgBmRJyhI6LLLgEkqO"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "Black Market (St Luca Spenish Remix)",
+        "url": "https://open.spotify.com/album/4jvApUPxBom7MVqP6rJ3xC"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "St Luca Spenish",
+          "url": "https://open.spotify.com/artist/3uPB5v8cgvDpoFySvjyMAx"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Black Market - St Luca Spenish Remix",
+      "url": "https://open.spotify.com/track/4Y5iO8sENPmNlbE7zsBAr3"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1943,18 +1959,38 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+        "name": "Vita bona",
+        "url": "https://open.spotify.com/album/59LESgxshdM9gDepqGWBol"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+      "duration_ms": 259586,
+      "name": "Quanno me ne so juto",
+      "url": "https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY"
+    },
+    {
+      "added_at": "2022-10-13 22:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "Pioggia infinita",
+      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
     },
     {
       "added_at": "2022-10-13 22:01:00",
@@ -1983,46 +2019,6 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
-        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "Pioggia infinita",
-      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
-        "name": "Magic boulevard",
-        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
-      },
-      "artists": [
-        {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Fra le note",
-      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
-    },
-    {
-      "added_at": "2022-10-13 22:01:00",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -2043,18 +2039,22 @@
     {
       "added_at": "2022-10-13 22:01:00",
       "album": {
-        "name": "Treddepomeriggio",
-        "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
+        "name": "Magic boulevard",
+        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
       "artists": [
         {
-          "name": "Er Costa",
-          "url": "https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1"
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         }
       ],
-      "duration_ms": 183914,
-      "name": "Treddepomeriggio",
-      "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
+      "duration_ms": 185759,
+      "name": "Fra le note",
+      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
     }
   ],
   "unique_name": "Radici Hip Hop",

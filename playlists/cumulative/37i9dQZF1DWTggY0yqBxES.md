@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kenny Mason
 
-275 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+276 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Live a Little](https://open.spotify.com/track/6B1TtaLjTJ3ZpxrstljeMV) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0) | [Live a Little](https://open.spotify.com/album/5Tmo0zdfO8CYRWVntrKS2I) | 2:38 | 2021-09-03 | 2022-07-04 |
 | [LL Cool J](https://open.spotify.com/track/31Wi1I3UF0LGBVg76uXfXf) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:33 | 2022-05-13 | 2022-06-04 |
 | [LL Cool J](https://open.spotify.com/track/4iq4aolTh4HCTc4fLuV22a) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu), [squeakPIVOT](https://open.spotify.com/artist/1CoHUTAynMjIXYnCeP6ReB) | [LL Cool J](https://open.spotify.com/album/1faC6NKIeoqJtvWla3RlNF) | 2:59 | 2021-09-03 | 2022-07-29 |
-| [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 | 2022-06-03 |  |
+| [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 | 2022-06-03 | 2022-10-17 |
 | [Lockheed Martin](https://open.spotify.com/track/2erIahu8nnIHe4gKtwmxYY) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Lockheed Martin](https://open.spotify.com/album/1UlXdkSy6F9k5zbjcPs8ZB) | 2:50 | 2021-09-03 | 2022-07-27 |
 | [LOLSMH II](https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:24 | 2022-06-17 |  |
 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 | 2022-07-15 | 2022-09-03 |
@@ -230,6 +230,7 @@
 | [STOCKS](https://open.spotify.com/track/5HjKRJKCjUPRXnBHf0Ql4S) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [STOCKS](https://open.spotify.com/album/2dbHIXRrs3PTOhDrlraiQc) | 2:59 | 2022-03-11 | 2022-07-28 |
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-09-03 | 2022-07-29 |
 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 | 2022-08-12 |  |
+| [Suicide](https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Suicide](https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs) | 3:44 | 2022-10-14 |  |
 | [Summer](https://open.spotify.com/track/39jo333JejX9EZ3zwwcdmS) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Summer](https://open.spotify.com/album/0lLBjcVpeLXF4ZKpCxe1zt) | 2:15 | 2021-09-03 | 2022-03-23 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-01-14 | 2022-07-30 |
 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 | 2022-09-30 |

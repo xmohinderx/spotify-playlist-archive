@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 140085,
+  "num_followers": 140393,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDdmNGZkYTBhZjE4OWI5NjNlMWVjM2E4NGE2YmI0ZmQ4",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDgyY2Y2ZTViZDcwZmZkZmU4NjM5Yzg2OWQ3NWIzYTdl",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
+        "url": "https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 70602,
+      "name": "Nobody, Not Even the Rain",
+      "url": "https://open.spotify.com/track/4A5umEOMtQUqgMwREx1sI6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
-        "url": "https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 70602,
-      "name": "Nobody, Not Even the Rain",
-      "url": "https://open.spotify.com/track/4A5umEOMtQUqgMwREx1sI6"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 224840,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
     },
     {
       "added_at": "2022-08-25 23:00:00",

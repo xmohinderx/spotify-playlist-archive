@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Dj Alex & La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,511 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,653 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 52 | [Piel a Piel](https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Piel a Piel](https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ) | 2:35 |
 | 53 | [No Se Va](https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [No Se Va](https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT) | 3:21 |
 | 54 | [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 |
-| 55 | [Te Mentiría](https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Te Mentiría](https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF) | 2:34 |
-| 56 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 55 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 56 | [Te Mentiría](https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Te Mentiría](https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF) | 2:34 |
 | 57 | [La Sensación del Bloque](https://open.spotify.com/track/6DcBYL6EyNztiSNxnVqPVN) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [La Sensación del Bloque](https://open.spotify.com/album/1ITkLq86DWEdkI5DhdFhNE) | 3:07 |
 | 58 | [Hasta la luna](https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [\#Tocoparavos](https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D) | 2:29 |
 | 59 | [Todo a la Vez](https://open.spotify.com/track/2tuKnCgbscxmebC7vN9X1i) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo a la Vez](https://open.spotify.com/album/6e724GNtDwcjqCXzbeBlL9) | 2:39 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 93 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 |
 | 94 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
 | 95 | [Déjate Querer](https://open.spotify.com/track/5MBBsIHpiYiqmMbp7OQJcq) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Déjate Querer](https://open.spotify.com/album/4wJBjofsAF8HV04FfwtPyK) | 3:29 |
-| 96 | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7) | 8:14 |
-| 97 | [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 |
+| 96 | [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 |
+| 97 | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7) | 8:14 |
 | 98 | [Amor para un Rato](https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58) | [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Amor para un Rato](https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0) | 3:00 |
 | 99 | [Canción para una Amiga](https://open.spotify.com/track/1VTg97n1ntojItZCkm9KEO) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Canción para una Amiga](https://open.spotify.com/album/57hV017eOcP3SjmsZCyl46) | 2:12 |
 | 100 | [Donde Estas](https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg) | 2:34 |
 
-Snapshot ID: `MTY2NTc1MzUyNCwwMDAwMDAwMGIwMGRmNGE2YzJhNmY1NDBjM2M1MTcyNzQ1OGUwZmJi`
+Snapshot ID: `MTY2NTc1MzUyNCwwMDAwMDAwMDMyYWExZGM3MTExMjA4ZmM2MjlhOTNhZWUyNThjZWJm`

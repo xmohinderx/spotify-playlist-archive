@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,984 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,140 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 79 | [BE MY GIRL](https://open.spotify.com/track/5gjBw5k3DKHkylViPcVs1b) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [BE MY GIRL](https://open.spotify.com/album/1d44Ijm1tU3ph4WrmD8euD) | 3:02 |
 | 80 | [OUTTA LINE](https://open.spotify.com/track/2HghsZnVNsZhUeVl6VlbS8) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OUTTA LINE](https://open.spotify.com/album/2rI0mfDQtPc34umvL8AEuL) | 2:43 |
 | 81 | [Body Language](https://open.spotify.com/track/6RouTxJEaWLaleuPFt5JP4) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Body Language](https://open.spotify.com/album/6cNrV6Uz4CdVM7hwIPSA60) | 2:31 |
-| 82 | [Long Day \(Pussy Crazy\) \(feat\. Gwen Bunn\)](https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:38 |
+| 82 | [Long Day \(Pussy Crazy\)](https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:38 |
 | 83 | [New York](https://open.spotify.com/track/0h8DsuI2FBTgu2FKP0XkUs) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [New York](https://open.spotify.com/album/7tjRox37rHj7fswCyScyZz) | 2:04 |
 | 84 | [Large Amounts \(feat\. Gucci Mane\)](https://open.spotify.com/track/1InZhRtKbFW3vE6VyJ4g5L) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:08 |
 | 85 | [IF YOU EVER](https://open.spotify.com/track/41G3M9ewHTrDGNl5UKKlQl) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [SORRY 4 THA WAIT II](https://open.spotify.com/album/4pL9OktIEqLVwdxlwQHRhj) | 2:08 |

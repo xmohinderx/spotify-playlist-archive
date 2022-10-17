@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5990,
+  "num_followers": 5997,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYzOTk2NywwMDAwMDAwMGIxY2EzN2ExYWMwM2U5YmQ5MTIwYTU1MjYxOTdiMzBi",
+  "snapshot_id": "MTY2NTYzOTk2NywwMDAwMDAwMDg5MGNmOTVkMTIzYzM4MmVkMGU0YzIzMWU5NjE0YWI1",
   "tracks": [
     {
       "added_at": "2022-10-13 05:46:07",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
-        "name": "Willow Tree",
-        "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 279610,
-      "name": "Willow Tree",
-      "url": "https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic"
-    },
-    {
-      "added_at": "2022-10-13 05:46:07",
-      "album": {
         "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
-        "name": "right now",
-        "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
+        "name": "Willow Tree",
+        "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
       },
       "artists": [
         {
-          "name": "RIPLEY",
-          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 135750,
-      "name": "right now",
-      "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
+      "duration_ms": 279610,
+      "name": "Willow Tree",
+      "url": "https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -315,6 +299,22 @@
       "duration_ms": 167480,
       "name": "Deep in the night, you and me",
       "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
+    },
+    {
+      "added_at": "2022-10-13 05:46:07",
+      "album": {
+        "name": "right now",
+        "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
+      },
+      "artists": [
+        {
+          "name": "RIPLEY",
+          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+        }
+      ],
+      "duration_ms": 135750,
+      "name": "right now",
+      "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
-    },
-    {
-      "added_at": "2022-10-13 05:46:07",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 166196,
       "name": "let\u2019s play tug",
       "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
+    },
+    {
+      "added_at": "2022-10-13 05:46:07",
+      "album": {
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2022-10-13 05:46:07",
-      "album": {
         "name": "Someone's playlist #7",
         "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+    },
+    {
+      "added_at": "2022-10-13 05:46:07",
+      "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
         }
       ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

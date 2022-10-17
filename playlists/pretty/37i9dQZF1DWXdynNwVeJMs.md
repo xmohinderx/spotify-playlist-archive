@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,553 likes - 101 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,558 likes - 101 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quanked](https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:02 |
 | 2 | [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 |
 | 3 | [galet](https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Urban Detox EP](https://open.spotify.com/album/5btzM3N10I3GvOPKTf9kdA) | 3:46 |
-| 4 | [Mammoet](https://open.spotify.com/track/6Oagzl7aiMMUInr98ICOD4) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 8:55 |
+| 4 | [Mammoet](https://open.spotify.com/track/4uAjMzGU1UGhiCy4dyvUxH) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou](https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 8:55 |
 | 5 | [Odyssey](https://open.spotify.com/track/1EMaoxl06TWBYanUmTst9X) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 9:42 |
 | 6 | [Karsilama](https://open.spotify.com/track/1IkoV81e6472xAB2geGiTO) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 4:36 |
 | 7 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 11 | [Marshland IV \- Rays](https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland IV \- Rays](https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT) | 7:24 |
 | 12 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 |
 | 13 | [Mumpsimus](https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:21 |
-| 14 | [Tzatzìki](https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 6:31 |
+| 14 | [Tzatzìki](https://open.spotify.com/track/3iCZMLTKYgwW4BchzgKG57) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 6:31 |
 | 15 | [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 |
 | 16 | [Auburn](https://open.spotify.com/track/52NXnWXFTTsd4YK4foqL5Y) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 3:46 |
 | 17 | [Bitcoins](https://open.spotify.com/track/1qMOqqSRssiThb0XUSDyvz) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:22 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 100 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 |
 | 101 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY2NTE1MDkwMiwwMDAwMDAwMGZkODI2YTU1YTU4OGY5MzdhMGFmOGUxODYzMGFlMmU2`
+Snapshot ID: `MTY2NTE1MDkwMiwwMDAwMDAwMDY1OTk2MTA5N2E5OGMzYzlmYTkwYjcxNGZiZThmMTM5`

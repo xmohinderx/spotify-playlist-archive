@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181688,
+  "num_followers": 181684,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDNhNGI2ZTVkMGJkMmZlNjMzMTRjN2VmNDM0ODc0MTk1",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGJlYWVmZDRiYzBkNjg5ODE1MGQxNmNiOWI3M2IzZWZh",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -111,6 +111,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Wachito Rico",
         "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 273026,
       "name": "Spit Of You",
       "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "More Like You",
-        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Light (Edit)",
         "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "More Like You",
+        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -963,18 +963,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
       "artists": [
         {
-          "name": "Gengahr",
-          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF"
+      "duration_ms": 228347,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -991,6 +995,22 @@
       "duration_ms": 195954,
       "name": "Tethered, Wrapped Around",
       "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1111,26 +1131,6 @@
       "duration_ms": 186000,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "I Wonder Why",
-        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 228347,
-      "name": "I Wonder Why",
-      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 183386,
       "name": "Rooftop Dancing",
       "url": "https://open.spotify.com/track/69TJLfGTUYSugs2Yi1dnG3"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Uriah's Cry",
-        "url": "https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W"
-      },
-      "artists": [
-        {
-          "name": "SAM DOTIA",
-          "url": "https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD"
-        }
-      ],
-      "duration_ms": 201269,
-      "name": "Uriah's Cry",
-      "url": "https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "TRAP PHONE",
         "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Uriah's Cry",
+        "url": "https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W"
+      },
+      "artists": [
+        {
+          "name": "SAM DOTIA",
+          "url": "https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD"
+        }
+      ],
+      "duration_ms": 201269,
+      "name": "Uriah's Cry",
+      "url": "https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 150091,
       "name": "Higher Plain",
       "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 138756,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1643,34 +1659,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq"
+        "name": "Like Sand",
+        "url": "https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 138756,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "obsessed",
-        "url": "https://open.spotify.com/album/2RgYgVbpfItLr4jj3exBqF"
-      },
-      "artists": [
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
         {
-          "name": "IDER",
-          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+          "name": "Beau Diako",
+          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
         }
       ],
-      "duration_ms": 296500,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n"
+      "duration_ms": 271201,
+      "name": "Like Sand",
+      "url": "https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl"
     }
   ],
   "unique_name": "Your Office Stereo",

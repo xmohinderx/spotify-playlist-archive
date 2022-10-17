@@ -5056,6 +5056,24 @@
     },
     {
       "album": {
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254508,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh"
+    },
+    {
+      "album": {
         "name": "Time Bomb",
         "url": "https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK"
       },
@@ -5067,7 +5085,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 254508,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR"

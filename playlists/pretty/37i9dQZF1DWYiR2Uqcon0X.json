@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 690353,
+  "num_followers": 690500,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDYyNGM4ZDczODk2YzRiNTIzYjlmMzg5MTczYjc3NDY2",
+  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDI0ZTQ0YmViMzU5MWFmMjRmYTY0YTRjZDdiZDZhZDdm",
   "tracks": [
     {
       "added_at": "2022-10-12 19:05:09",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 241899,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "The Other Way",
         "url": "https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 199594,
       "name": "I Ain't Ever Loved No One - Acoustic",
       "url": "https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Wrong Side of the River",
         "url": "https://open.spotify.com/album/1AXj9UBEn0GtuR2nNBu2WB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 225400,
       "name": "Run of Good Luck",
       "url": "https://open.spotify.com/track/4Px5YO3pRfrswEkVWxXhz8"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Johnny Cash: Forever Words Expanded",
-        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "The Captain's Daughter",
-      "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Wild Honey",
         "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213826,
       "name": "Wild Honey",
       "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Johnny Cash: Forever Words Expanded",
+        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "The Captain's Daughter",
+      "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/6Mbu76NbGkVPIDF4XTBJWu"
-      },
-      "artists": [
-        {
-          "name": "Eric Van Houten",
-          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
-        }
-      ],
-      "duration_ms": 171982,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 268160,
       "name": "This Town Still Talks About You",
       "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/6Mbu76NbGkVPIDF4XTBJWu"
+      },
+      "artists": [
+        {
+          "name": "Eric Van Houten",
+          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
+        }
+      ],
+      "duration_ms": 171982,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 219217,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Giving It All (To You)",
-        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
-      },
-      "artists": [
-        {
-          "name": "Haley & Michaels",
-          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Giving It All (To You)",
-      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Glasshouse Children",
         "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 91554,
       "name": "Bulleit Blues",
       "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Giving It All (To You)",
+        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
+      },
+      "artists": [
+        {
+          "name": "Haley & Michaels",
+          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Giving It All (To You)",
+      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
     }
   ],
   "unique_name": "Country Coffeehouse",

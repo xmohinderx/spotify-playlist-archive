@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 272775,
+  "num_followers": 272942,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzOTUzOSwwMDAwMDAwMDliNGUzMDIzYmE5MDcxMTU0YmM1MWVlYTI4ODZlZTI0",
+  "snapshot_id": "MTY2NDUzOTUzOSwwMDAwMDAwMDQ2MWUzZmFkMDVlYTk3MTk3ZjVlMzhiNGNlYjYwMGE2",
   "tracks": [
     {
       "added_at": "2022-09-30 12:05:38",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
         "name": "Baby Steps",
         "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 143906,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2022-09-30 12:05:38",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
         "name": "I Don't Wanna Go",
         "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
       },
@@ -875,18 +891,22 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+        "name": "Feel Good Inc.",
+        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
       },
       "artists": [
         {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+      "duration_ms": 173313,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
     },
     {
       "added_at": "2022-09-30 12:05:38",
@@ -911,26 +931,6 @@
       "duration_ms": 141652,
       "name": "123 (Dolly Song) feat. Karma Child",
       "url": "https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
-        "name": "Feel Good Inc.",
-        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
     },
     {
       "added_at": "2022-09-30 12:05:38",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+      },
+      "artists": [
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        }
+      ],
+      "duration_ms": 154904,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
         "name": "redruM (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 176785,
       "name": "redruM - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
-      },
-      "artists": [
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        }
-      ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
     },
     {
       "added_at": "2022-09-30 12:05:38",

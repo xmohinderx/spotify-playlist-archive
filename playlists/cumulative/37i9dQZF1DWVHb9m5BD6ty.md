@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-101 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+102 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 | 2021-10-26 | 2022-03-17 |
 | [Process](https://open.spotify.com/track/3VpfWEICyjRTxsYspN91Wq) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7) | [Process](https://open.spotify.com/album/7n6VKHTbUaVVwa7iKShPlw) | 3:05 | 2022-03-17 |  |
 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 | 2021-10-26 | 2022-03-17 |
-| [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 | 2022-03-17 |  |
+| [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 | 2022-03-17 |  |
+| [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 | 2022-03-17 | 2022-10-17 |
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2021-10-26 | 2022-03-17 |
 | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/track/2c15izvJZsztJa3QWer3sW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/album/19uZMpx3fqVJW5z7sdfQrF) | 3:07 | 2021-10-26 | 2022-03-17 |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/6UgCwRo8iOguJ0DbGZh29q) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 4:02 | 2021-10-26 | 2022-03-17 |

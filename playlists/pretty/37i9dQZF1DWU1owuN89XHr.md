@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,991 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,039 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 51 | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Entre Cuerdas](https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK) | 4:24 |
 | 52 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 53 | [Se Busca](https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Que Nadie Se Entere](https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ) | 4:36 |
-| 54 | [Hacerte venir](https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF) | [Amaury Pérez](https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm) | [No Lo Van a Impedir](https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh) | 3:28 |
-| 55 | [El primer amor \(feat\. Francisco Cespedes\)](https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:39 |
+| 54 | [El primer amor \(feat\. Francisco Cespedes\)](https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:39 |
+| 55 | [Hacerte venir](https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF) | [Amaury Pérez](https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm) | [No Lo Van a Impedir](https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh) | 3:28 |
 | 56 | [Los Grillos](https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh) | [Gerardo Pablo](https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh) | [Escucha a Gerardo Pablo](https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw) | 2:50 |
 | 57 | [Trova Azul](https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Trova Azul](https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K) | 3:51 |
 | 58 | [La LLamada](https://open.spotify.com/track/1fAGyap6nJcPEyMeVXbekV) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 5:58 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 98 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 99 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMDY4OTMwZGJkZmE5OWYxZWM4YTgwMDg2YzUwNTJlMDIz`
+Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMGJjZjU3NzVlNWZkMWNhN2Y4Y2RhMTc2ZWYzYTNlZjI1`

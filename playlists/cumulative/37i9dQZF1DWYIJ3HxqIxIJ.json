@@ -2837,10 +2837,28 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 161512,
       "name": "You Don't Decide",
       "url": "https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s"
+    },
+    {
+      "album": {
+        "name": "You Don't Decide",
+        "url": "https://open.spotify.com/album/5PM3NjlqA6YBobSRy0nvP4"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161512,
+      "name": "You Don't Decide",
+      "url": "https://open.spotify.com/track/1VhH5roSzrRCsQ2ZLvfoj7"
     },
     {
       "album": {

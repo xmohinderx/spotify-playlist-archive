@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,772 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,783 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 11 | [When You Wish Upon a Star](https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8) | [Mounia Abraham](https://open.spotify.com/artist/5vZm6KOKPOk2Pooo9NHt1h) | [When You Wish Upon a Star](https://open.spotify.com/album/7fsSv3ak7BZdLx6L94bc2W) | 2:41 |
 | 12 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 |
 | 13 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 |
-| 14 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
-| 15 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
+| 14 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
+| 15 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
 | 16 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
 | 17 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 |
 | 18 | [Lágrimas Negras](https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:44 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 31 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
 | 32 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 |
 | 33 | [Zéphyrine](https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:20 |
-| 34 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
-| 35 | [Son de la Loma](https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:29 |
+| 34 | [Son de la Loma](https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:29 |
+| 35 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
 | 36 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 |
 | 37 | [Setembro](https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 5:32 |
 | 38 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 43 | [Palabras De Mujer\-Hojas Secas](https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:23 |
 | 44 | [Pensativa](https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw) | [Sara Florence](https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8) | [Green In Blue EP](https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ) | 5:12 |
 | 45 | [Gran Pilastro](https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Gran Pilastro](https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa) | 1:05 |
-| 46 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
-| 47 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 |
+| 46 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 |
+| 47 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 | 48 | [Señor Danzon](https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ) | [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [Bernardo Sassetti](https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf) | [Cuba Cuba](https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX) | 3:28 |
 | 49 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 |
 | 50 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
 
-Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDNhM2E0YjQ1OTkxYTZlZTljYmI1YmY4MmZmODRjMTFl`
+Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDU3ZjVmYjMwY2Q4ZGVlYTNhMGM5MzI3ZjhlMGRiYTQz`

@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 958,
+  "num_followers": 963,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzOTkyMSwwMDAwMDAwMDg1MjBhZWYzZDAyOGRjYzMzYTIyZDdhMmRmZmM3ZDc1",
+  "snapshot_id": "MTY2NTEzOTkyMSwwMDAwMDAwMDE5YzdkNmYwNGQwZjkyYjVkYmUxZTMxMmJmZjkwNGNh",
   "tracks": [
     {
       "added_at": "2022-09-30 11:18:57",
@@ -195,6 +195,26 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Kiki Kyogamba",
         "url": "https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 270379,
       "name": "Kiki Kyogamba - What You Saying Mix",
       "url": "https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -323,6 +323,26 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Latinum",
+          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
+        }
+      ],
+      "duration_ms": 201822,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Wangi",
         "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 204289,
       "name": "Bbuba",
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Latinum",
-          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
-        }
-      ],
-      "duration_ms": 201822,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+    },
+    {
       "added_at": "2022-10-07 10:52:01",
       "album": {
         "name": "King Kong",
@@ -475,22 +491,6 @@
       "duration_ms": 184215,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Mufele",
-        "url": "https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA"
-      },
-      "artists": [
-        {
-          "name": "Angella Katatumba",
-          "url": "https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH"
-        }
-      ],
-      "duration_ms": 141177,
-      "name": "Mufele - Radio Edit",
-      "url": "https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm"
-    },
-    {
       "added_at": "2022-10-07 10:52:01",
       "album": {
         "name": "Biwamiel",
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Afro Wavy 3",
-        "url": "https://open.spotify.com/album/3tSZmXQRV9WhsDaUDedfoQ"
+        "name": "Mufele",
+        "url": "https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA"
       },
       "artists": [
         {
-          "name": "Ill Gee",
-          "url": "https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW"
+          "name": "Angella Katatumba",
+          "url": "https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH"
         }
       ],
-      "duration_ms": 112566,
-      "name": "Body Goals",
-      "url": "https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F"
+      "duration_ms": 141177,
+      "name": "Mufele - Radio Edit",
+      "url": "https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -827,34 +811,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Gwookya",
-        "url": "https://open.spotify.com/album/08qkq3hZAmP91oAuQHxnXg"
+        "name": "Afro Wavy 3",
+        "url": "https://open.spotify.com/album/3tSZmXQRV9WhsDaUDedfoQ"
       },
       "artists": [
         {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+          "name": "Ill Gee",
+          "url": "https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW"
         }
       ],
-      "duration_ms": 161515,
-      "name": "Gwookya",
-      "url": "https://open.spotify.com/track/3DtERsS1lSUwcCV4MZHIdF"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Simple Guy",
-        "url": "https://open.spotify.com/album/0xJrCs4TbSSdZUNPpFRjUy"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 222772,
-      "name": "Simple Guy",
-      "url": "https://open.spotify.com/track/4doqYzAKym2GER3mDaU8jy"
+      "duration_ms": 112566,
+      "name": "Body Goals",
+      "url": "https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -879,18 +847,62 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Medalli",
-        "url": "https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I"
+        "name": "Simple Guy",
+        "url": "https://open.spotify.com/album/0xJrCs4TbSSdZUNPpFRjUy"
       },
       "artists": [
         {
-          "name": "Ill Gee",
-          "url": "https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
         }
       ],
-      "duration_ms": 138053,
-      "name": "Medalli",
-      "url": "https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh"
+      "duration_ms": 222772,
+      "name": "Simple Guy",
+      "url": "https://open.spotify.com/track/4doqYzAKym2GER3mDaU8jy"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Gwookya",
+        "url": "https://open.spotify.com/album/08qkq3hZAmP91oAuQHxnXg"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 161515,
+      "name": "Gwookya",
+      "url": "https://open.spotify.com/track/3DtERsS1lSUwcCV4MZHIdF"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Kiziniro",
+        "url": "https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Topic Kasente",
+          "url": "https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4"
+        },
+        {
+          "name": "Lil Pazzo",
+          "url": "https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY"
+        },
+        {
+          "name": "Tip Swizzy",
+          "url": "https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv"
+        }
+      ],
+      "duration_ms": 222599,
+      "name": "Kiziniro",
+      "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
     }
   ],
   "unique_name": "Made In Uganda",

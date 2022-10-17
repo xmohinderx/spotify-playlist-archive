@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,067 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,083 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 51 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 | 52 | [Cafetín de Buenos Aires](https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Horacio Avilano](https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E), [Hernán Fredes](https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj), [Hernán Mastromarini](https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY) | [Buenos Aires](https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7) | 3:30 |
 | 53 | [Tal vez será su voz](https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal Vez Será Su Voz](https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW) | 4:25 |
-| 54 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
-| 55 | [O Mundo](https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/4mwdsJlML3Qi566J5t21Ef) | 4:09 |
+| 54 | [O Mundo](https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/4mwdsJlML3Qi566J5t21Ef) | 4:09 |
+| 55 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
 
-Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDBhOGVhYTkzOTVjNDQ2MmVkYTRkNDYxMDNiMmE0NDQ0`
+Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDg2NWE0NDhiNDBmYzQ3NDFjYmY2ZjgzMDQxNDU4YzI1`

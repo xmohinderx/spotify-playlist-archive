@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
-  "num_followers": 122357,
+  "num_followers": 122417,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDZkMjFmZDJhMDNmNTVkZDE2Yjc5ZThlZjE4MjBkZDRi",
+  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDJmZDliYWUwMGEwNGE3MDJlNTljMjQwYmNlMTU3NmIz",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 116906,
+      "name": "Pigs Is Pigs",
+      "url": "https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Mayo Supreme",
         "url": "https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
+        "name": "Always Happy",
+        "url": "https://open.spotify.com/album/3BvygxzbzswFKbo3DKzbXt"
       },
       "artists": [
         {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
         }
       ],
-      "duration_ms": 116906,
-      "name": "Pigs Is Pigs",
-      "url": "https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw"
+      "duration_ms": 158372,
+      "name": "Always Happy",
+      "url": "https://open.spotify.com/track/5MB2xF8ziRtSqwuncTOlxk"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -455,22 +471,6 @@
       "duration_ms": 124533,
       "name": "SuperNatural Possession",
       "url": "https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Always Happy",
-        "url": "https://open.spotify.com/album/3BvygxzbzswFKbo3DKzbXt"
-      },
-      "artists": [
-        {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
-        }
-      ],
-      "duration_ms": 158372,
-      "name": "Always Happy",
-      "url": "https://open.spotify.com/track/5MB2xF8ziRtSqwuncTOlxk"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Zombie Terrorist",
-        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Trophy Wifey",
-      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Dream Wife",
         "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 175760,
       "name": "Let's Make Out",
       "url": "https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Zombie Terrorist",
+        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 127773,
+      "name": "Trophy Wifey",
+      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Baby, I Had an Abortion",
         "url": "https://open.spotify.com/album/0MmQCI3aQdUXVAfN2q67V7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 192446,
       "name": "Baby, I Had an Abortion",
       "url": "https://open.spotify.com/track/5ilQi9gYgFQohJ5olmtigL"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Girls With Glasses",
+        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 129706,
+      "name": "Girls With Glasses",
+      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W"
-      },
-      "artists": [
-        {
-          "name": "SATE",
-          "url": "https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7"
-        }
-      ],
-      "duration_ms": 196947,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 180442,
       "name": "Precious and Perfect",
       "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W"
+      },
+      "artists": [
+        {
+          "name": "SATE",
+          "url": "https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7"
+        }
+      ],
+      "duration_ms": 196947,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Fuck, Marry, Kill",
-        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
-      },
-      "artists": [
-        {
-          "name": "Thelma and the Sleaze",
-          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Always Already",
         "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
+      },
+      "artists": [
+        {
+          "name": "Thelma and the Sleaze",
+          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Severed Ties",
         "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 224560,
       "name": "Severed Ties",
       "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Queen Zee",
-        "url": "https://open.spotify.com/album/63Rggji5w5RZEJjT262Spr"
-      },
-      "artists": [
-        {
-          "name": "Queen Zee",
-          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
-        }
-      ],
-      "duration_ms": 143853,
-      "name": "Sissy Fists",
-      "url": "https://open.spotify.com/track/3XPJMp4eqVLiA2OPUxlBL0"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 344553,
       "name": "For Matt",
       "url": "https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Tender Resignation",
+        "url": "https://open.spotify.com/album/7zqUAHgtvrGDgrQMe3MVha"
+      },
+      "artists": [
+        {
+          "name": "Dyke Drama",
+          "url": "https://open.spotify.com/artist/2mEd7XiiEr2Ym4JMeWE7t1"
+        }
+      ],
+      "duration_ms": 130598,
+      "name": "The Thing I Do Best",
+      "url": "https://open.spotify.com/track/5Ae7KzPFdnb8PgrMBjI1oo"
     }
   ],
   "unique_name": "Queercore",

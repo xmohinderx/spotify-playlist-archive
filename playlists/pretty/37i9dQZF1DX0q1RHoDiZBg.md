@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,907 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,973 likes - 92 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 25 | [Just Like Tom Thumb's Blues](https://open.spotify.com/track/1E1qWlczlv3IEpAZfQ5lJr) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Scattered](https://open.spotify.com/album/06iGGLNnQrEjhP9JkG7Kgo) | 5:39 |
 | 26 | [Blowin' in the Wind \- 2004 Remaster](https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:56 |
 | 27 | [Baby, I'm In The Mood For You](https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 2:48 |
-| 28 | [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 4:36 |
+| 28 | [To Ramona](https://open.spotify.com/track/2gmrKmh73RmHGk5IT0ND3I) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/5igs9SG03JODImNkAY8gM9) | 4:36 |
 | 29 | [A Hard Rain's A Gonna Fall](https://open.spotify.com/track/4SnfSdLHT7dJqiw2Q5cfnK) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Listen to Bob Dylan: A Tribute](https://open.spotify.com/album/2k4b6SP5UFZ6SfW3n7CY6z) | 8:12 |
 | 30 | [I Could Have Told You](https://open.spotify.com/track/4kRh9lyQMQyg0MK1kzKAzN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Triplicate](https://open.spotify.com/album/5coSubIBt21W8V40Po41pY) | 3:36 |
 | 31 | [The Lonesome Death Of Hattie Carroll](https://open.spotify.com/track/2lnrxXWkV6JHJjSIUtLLeL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 4:59 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 91 | [Sad Eyed Lady of the Lowlands \(Live\)](https://open.spotify.com/track/5voOTLOA7LPegmOdNJU7vV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 9:27 |
 | 92 | [I Can't Get You Off Of My Mind](https://open.spotify.com/track/6O37wVoMQFeh7vZ9mJnoMH) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Hank Williams Timeless](https://open.spotify.com/album/6Wuq8Fn9q0QmTchA8xnR3L) | 2:55 |
 
-Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMGFhYTYzZmM3MjM3MTYxYTJhYzEwZTE0Mzg4N2Y4ODNl`
+Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMDBmYWJiODVmNmI4NmYyZDRiYTk0YjZjZDE4MzYyYjli`

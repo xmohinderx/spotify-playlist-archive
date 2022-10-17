@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 45628,
+  "num_followers": 45698,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDFjMDdmZDE2ZWYzN2U4MTEyODEwNTQwN2YxZmEwYzMz",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMGRjNTdkYzlkMWE0MGY3OTlmMDBhZmQxZDJiODMyODU4",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 415742,
-      "name": "...Til the Cops Come Knockin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 415742,
+      "name": "...Til the Cops Come Knockin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Medicine 4 My Pain",
-        "url": "https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK"
+        "name": "Bags & Suitcases",
+        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
       },
       "artists": [
         {
-          "name": "Lynden David Hall",
-          "url": "https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 316093,
-      "name": "There Goes My Sanity",
-      "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"
+      "duration_ms": 209386,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
     },
     {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
-    },
-    {
       "added_at": "2022-04-08 07:52:50",
       "album": {
         "name": "My Home (Love Brings Us Here) - Single",
@@ -1331,6 +1315,22 @@
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Medicine 4 My Pain",
+        "url": "https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK"
+      },
+      "artists": [
+        {
+          "name": "Lynden David Hall",
+          "url": "https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "There Goes My Sanity",
+      "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"
     }
   ],
   "unique_name": "Soulful Day",

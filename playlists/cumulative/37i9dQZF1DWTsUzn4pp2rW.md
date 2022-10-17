@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-218 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+219 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Gran Torino](https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH) | [Kyle Eastwood](https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Cinematic](https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI) | 4:36 | 2022-07-14 | 2022-10-12 |
 | [Gran Torino](https://open.spotify.com/track/34LFbjLKIgASznt0EJ9jFX) | [Kyle Eastwood](https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Gran Torino](https://open.spotify.com/album/2mcBexma2TuSeJkWPZDSzo) | 4:36 | 2021-11-19 | 2022-07-29 |
 | [H I M](https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf) | [Louis Amanti](https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu) | [H I M](https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi) | 3:40 | 2021-11-19 |  |
+| [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-10-13 |  |
 | [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 | 2021-11-19 |  |
 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 | 2021-11-19 |  |
 | [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2021-11-19 | 2022-02-09 |
@@ -215,7 +216,7 @@
 | [Wake up Everybody](https://open.spotify.com/track/1Ms6GZ1xSR0Pd5i65s5bvk) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wake up Everybody](https://open.spotify.com/album/2j6xisFb0opzqbMyX7JdWN) | 4:54 | 2021-11-19 | 2022-07-29 |
 | [Wake up Everybody](https://open.spotify.com/track/6eKbTjeUNFBBBnWNqMFAo7) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Humanité](https://open.spotify.com/album/3TrSOfTnxrJb9auo2MhiQi) | 4:54 | 2022-07-14 | 2022-10-12 |
 | [We Might As Well Dance](https://open.spotify.com/track/0E837iHgGirJVdcmMUuIbs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Anthem](https://open.spotify.com/album/7l7qCDZ3j1VWV8bnETayrY) | 3:14 | 2021-11-19 | 2022-05-08 |
-| [We Might As Well Dance](https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [We Might As Well Dance](https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n) | 3:14 | 2022-02-08 |  |
+| [We Might As Well Dance](https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [We Might As Well Dance](https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n) | 3:14 | 2022-02-08 | 2022-10-17 |
 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 | 2021-11-19 | 2022-10-12 |
 | [When The Stars Align](https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [When The Stars Align](https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash) | 3:21 | 2021-11-19 | 2022-10-12 |
 | [Wintertime](https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:48 | 2022-07-14 |  |

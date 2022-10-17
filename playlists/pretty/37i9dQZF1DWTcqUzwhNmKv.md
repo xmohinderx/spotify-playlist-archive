@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Architects on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,846 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315,058 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 53 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 |
 | 54 | [Worst Is On Its Way](https://open.spotify.com/track/1XYckecySdxfsF2ibuqtPR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:03 |
 | 55 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 |
-| 56 | [SPIRITS](https://open.spotify.com/track/1CKZatRSZy0WUYNwtT5H6y) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [YOU DON’T KNOW WHAT LOVE MEANS](https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR) | 5:39 |
+| 56 | [SPIRITS](https://open.spotify.com/track/6YbDzTWROe5Jqs75sQZjUO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/0SZqkeTCVvOZEYhnMHIdO7) | 5:39 |
 | 57 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 58 | [Heads Off](https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/3okB1Cp9n0bKsUcjXWu3gu) | 4:31 |
 | 59 | [The Body](https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [The Body](https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP) | 3:51 |
 | 60 | [Riptide](https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Riptide](https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn) | 3:31 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDViNGQxOWVhMzhmMTk0ZTY5ZGJkOTM1MjFjZjc4Y2Rl`
+Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDgyZmI3NzZmNzg5YzNhMmVlYmZlOGFlMjAwZWNiOWI4`

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 32708,
+  "num_followers": 32777,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4NzE3OCwwMDAwMDAwMDk2NmEzZmE2MTYzYjBmMGRmYTFlYWQ1N2QxYmE0OWVk",
+  "snapshot_id": "MTY2NDg4NzE3OCwwMDAwMDAwMGUxZDhjMmI3ODBjMDc0NDczZmJjNDRjOWE0MTdhZTM0",
   "tracks": [
     {
       "added_at": "2022-10-04 12:39:38",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "Chicago Bound",
-        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "That's All Right - 1950 Single Version",
-      "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 157400,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "That's All Right - 1950 Single Version",
+      "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Farther Up The Road",
-      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Night Beat",
         "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "From the Cradle",
-        "url": "https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w"
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 287933,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX"
+      "duration_ms": 177306,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -619,6 +603,22 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
+        "name": "Rocks The House",
+        "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 254165,
+      "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
+      "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
         "name": "Night Beat",
         "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "Rocks The House",
-        "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 254165,
-      "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
-      "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Let The Good Times Roll: The Music Of Louis Jordan",
         "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
       },
@@ -679,38 +663,6 @@
       "duration_ms": 274840,
       "name": "Nobody Knows You When You're Down And Out",
       "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forty Four",
-      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -731,6 +683,22 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 159866,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Everyday I Have The Blues",
+      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -779,6 +779,26 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
+        "name": "The Best In Blues",
+        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
         "name": "The Very Best Of Albert King",
         "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
@@ -811,8 +831,8 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
       },
       "artists": [
         {
@@ -820,29 +840,9 @@
           "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 169706,
-      "name": "Everyday I Have The Blues",
-      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
-        "name": "The Best In Blues",
-        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
+      "duration_ms": 216106,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"
     }
   ],
   "unique_name": "Blues Standards",

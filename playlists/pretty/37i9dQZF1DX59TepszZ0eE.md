@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,988 likes - 75 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,016 likes - 75 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 69 | [Thina Ngemihla \(Live\)](https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH) | [Teboho Moloi](https://open.spotify.com/artist/3LmjTfyNxwbzwXJoQkhQp0) | [Atamelang Ho Jehova \(Live\)](https://open.spotify.com/album/6Jg7TeqC6VyWcvCX9jYJnD) | 7:44 |
 | 70 | [Ungikhathalele](https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX) | [Jumbo](https://open.spotify.com/artist/3WsA13hdiZ1K7NwjemXvz9) | [Ungikhathalele](https://open.spotify.com/album/24bzMduuwBDsGtapX9lqnG) | 5:06 |
 | 71 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
-| 72 | [You Fight for Me](https://open.spotify.com/track/0u7YkWTgB1r4jFRo15LivX) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj) | 4:39 |
+| 72 | [You Fight for Me](https://open.spotify.com/track/0CxIQOBPmOqPrKyspAc78m) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/1QbjMiY42plzk741oVrGS6) | 4:39 |
 | 73 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 |
 | 74 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 75 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 |
 
-Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGQ2MjQzNTQzZjg1NzUxMzY5MGJhZDUxZTc4MWZhNTIz`
+Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGVhYzhkMTJiOGE4NWE0MGYwOWRlMjI5MGVhOWNkOTNh`

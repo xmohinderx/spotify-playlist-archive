@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,294 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,420 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 25 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
 | 26 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 27 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
-| 28 | [Time Bomb](https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK) | 4:14 |
+| 28 | [Time Bomb](https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 4:14 |
 | 29 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 30 | [HEAD](https://open.spotify.com/track/2wSRjC6eRqtA2ak81IrT8v) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Aston Fenly](https://open.spotify.com/artist/23RT2uLMNqIl3RkddKTAF6) | [HEAD](https://open.spotify.com/album/2AD1whY87iLPxZaWs8Kd4Y) | 2:26 |
 | 31 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Iconic](https://open.spotify.com/track/7oTImlbBuKpTLi8hokqYR1) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:05 |
 | 75 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 |
 
-Snapshot ID: `MTY2NTY4MDQwMCwwMDAwMDAwMDVmMTNmMTdmNzBhMDI3MzU4NmRjNDY2YTdhM2IxN2Vi`
+Snapshot ID: `MTY2NTY4MDQwMCwwMDAwMDAwMDE5NTcyZTE3NTcxZDUzYzg1N2IxODJiYzBlYWQxZjdl`

@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: Smino, J. Cole",
-  "num_followers": 746688,
+  "num_followers": 746941,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDY0ZGNlYjBkNTQ3MDQyZjU3NWQ4MjQzNTk4MTcxOWZl",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDFhMGFjMjliNGY3NjViZTY2MzExNTY3MGY3MjA1N2Zh",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -167,22 +167,18 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Yasiin Bey",
-          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 258243,
-      "name": "Stars (feat. Yasiin Bey)",
-      "url": "https://open.spotify.com/track/3umzAtRU8JW5uXDPwPq8eE"
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -207,18 +203,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
         }
       ],
-      "duration_ms": 165320,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+      "duration_ms": 258243,
+      "name": "Stars (feat. Yasiin Bey)",
+      "url": "https://open.spotify.com/track/3umzAtRU8JW5uXDPwPq8eE"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "BLK VINTAGE",
         "url": "https://open.spotify.com/album/6psFVVvkFCxIvS8j4N3DkF"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 152524,
       "name": "HANG LOW (feat. James Robinson)",
       "url": "https://open.spotify.com/track/5nR6MBAFCdusf8C3BZGtop"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -655,22 +655,38 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
       },
       "artists": [
         {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 264412,
-      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
+      "duration_ms": 183354,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -695,6 +711,26 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 264412,
+      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "MEMO",
         "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
       },
@@ -711,42 +747,6 @@
       "duration_ms": 268151,
       "name": "SOHO HOUSE (feat. Hello O'shay)",
       "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 183354,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -787,6 +787,22 @@
       "duration_ms": 183453,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Stressed - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Stressed - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -843,22 +859,6 @@
       "duration_ms": 225933,
       "name": "Goodbye Paris",
       "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Stressed - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Stressed - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Thin Lines",
-        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 171016,
-      "name": "Thin Lines",
-      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "EEK",
         "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 247468,
       "name": "EEK",
       "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Thin Lines",
+        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 171016,
+      "name": "Thin Lines",
+      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Idol Eyes",
         "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Hotline",
         "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 202371,
       "name": "Let Me See Your Phone",
       "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 154768,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
-      },
-      "artists": [
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 154768,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "DRONES",
         "url": "https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 223991,
       "name": "This Morning (feat. Arin Ray & Smino)",
       "url": "https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1591,6 +1591,22 @@
       "duration_ms": 262727,
       "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
       },
       "artists": [
         {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
+      "duration_ms": 229992,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1807,26 +1823,6 @@
       "duration_ms": 226232,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
-        }
-      ],
-      "duration_ms": 188951,
-      "name": "feather light",
-      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
     }
   ],
   "unique_name": "BUTTER",

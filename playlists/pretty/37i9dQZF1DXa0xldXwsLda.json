@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 222830,
+  "num_followers": 222847,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ4NjE5NSwwMDAwMDAwMDFjZWM5ZTc5ODIyNDBjZjdjYjA5YTZlMmU0NzU3ZmYw",
+  "snapshot_id": "MTY0ODQ4NjE5NSwwMDAwMDAwMGQ0NmQyOTM5NTE1NWM5OTNkZDIxYmM0MWUxMzFhMTc4",
   "tracks": [
     {
       "added_at": "2022-03-28 16:49:55",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -319,22 +323,18 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "La Chica de Humo",
+      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 164440,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "La Chica de Humo",
-      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 276600,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Tocarte",
-        "url": "https://open.spotify.com/album/3ruktrqPw50q5kUXnWOiq0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 151524,
-      "name": "Tocarte",
-      "url": "https://open.spotify.com/track/2Qkk5xpMVrOrXj1K1Wv40P"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Hoy No",
         "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Tocarte",
+        "url": "https://open.spotify.com/album/3ruktrqPw50q5kUXnWOiq0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 151524,
+      "name": "Tocarte",
+      "url": "https://open.spotify.com/track/2Qkk5xpMVrOrXj1K1Wv40P"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 226595,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 268280,
       "name": "T\u00fa S\u00ed Sabes Quererme",
       "url": "https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 226595,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
-      },
-      "artists": [
-        {
-          "name": "The Lidls",
-          "url": "https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE"
-        }
-      ],
-      "duration_ms": 153268,
-      "name": "Havana/Attention",
-      "url": "https://open.spotify.com/track/2LoRKuH9DWBqJJJ8IKGqG9"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "corazones negros",
         "url": "https://open.spotify.com/album/1YWFCiS1oYNYTdVSqWxNjG"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 169859,
       "name": "corazones negros",
       "url": "https://open.spotify.com/track/1gsq8t6jMgffTisrwMUcbW"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
+      },
+      "artists": [
+        {
+          "name": "The Lidls",
+          "url": "https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE"
+        }
+      ],
+      "duration_ms": 153268,
+      "name": "Havana/Attention",
+      "url": "https://open.spotify.com/track/2LoRKuH9DWBqJJJ8IKGqG9"
     }
   ],
   "unique_name": "Hora de la Comida",

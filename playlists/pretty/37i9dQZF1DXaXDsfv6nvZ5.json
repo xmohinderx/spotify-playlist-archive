@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 718331,
+  "num_followers": 718503,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDZkOWFlMGYwMzRhNDY2MjRkN2M4N2I5YTg1M2JiMjFm",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDRhOWNiMzRmYzBlNTIwNWU0MWYyNWE5MGU3YzJkMjk1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Diamond Life",
         "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 219426,
       "name": "Your Love Is King",
       "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -349,24 +349,20 @@
       "url": "https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2022-10-03 05:27:10",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -385,20 +381,24 @@
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
-      "added_at": "2022-10-03 05:27:10",
+      "added_at": "2022-09-09 04:08:19",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -517,38 +517,6 @@
       "url": "https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 220611,
-      "name": "POF",
-      "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "ur man",
-        "url": "https://open.spotify.com/album/4pABQnKGE9wLF4dpAfzzoz"
-      },
-      "artists": [
-        {
-          "name": "Jason Dhakal",
-          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
-        }
-      ],
-      "duration_ms": 222271,
-      "name": "ur man",
-      "url": "https://open.spotify.com/track/3NOdlt5KQFMc4uFu6HXBAm"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Good & Plenty",
@@ -571,6 +539,38 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "ur man",
+        "url": "https://open.spotify.com/album/4pABQnKGE9wLF4dpAfzzoz"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "duration_ms": 222271,
+      "name": "ur man",
+      "url": "https://open.spotify.com/track/3NOdlt5KQFMc4uFu6HXBAm"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 220611,
+      "name": "POF",
+      "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Half Time",
+      "url": "https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "LEGEND",
@@ -687,18 +703,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Half Time",
-      "url": "https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ"
+      "duration_ms": 291568,
+      "name": "Money (with Tom Misch)",
+      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -719,26 +739,6 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 291568,
-      "name": "Money (with Tom Misch)",
-      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+        "name": "Stay Where You Are",
+        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+      "duration_ms": 209205,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Stay Where You Are",
-        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
       "artists": [
         {
@@ -1284,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 209205,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-09-09 04:08:19",

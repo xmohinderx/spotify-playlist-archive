@@ -1,12 +1,12 @@
 {
   "description": "poze esquece pitbull chegou como",
-  "num_followers": 952146,
+  "num_followers": 952819,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc0MzQwNywwMDAwMDAwMDAzY2IwY2ExMDQxZGQ5MDQ3OTgzNzBiYzgwYmI1NTc1",
+  "snapshot_id": "MTY2NTc0MzQwNywwMDAwMDAwMDIzNWFlMjNjNmY0M2UwMDQxYWM0OWMyOTI4MDQwMmY1",
   "tracks": [
     {
       "added_at": "2022-10-14 10:30:07",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-14 10:30:07",
       "album": {
-        "name": "Vida Toda - Spotify Singles",
-        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Vida Toda - Spotify Singles",
-      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
-    },
-    {
-      "added_at": "2022-10-14 10:30:07",
-      "album": {
         "name": "Horas Iguais",
         "url": "https://open.spotify.com/album/75q0lNTV1DIYkLeBqil9EE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 246942,
       "name": "Horas Iguais",
       "url": "https://open.spotify.com/track/4m8kG46clzxMxyrDuFo1Uq"
+    },
+    {
+      "added_at": "2022-10-14 10:30:07",
+      "album": {
+        "name": "Vida Toda - Spotify Singles",
+        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 153245,
+      "name": "Vida Toda - Spotify Singles",
+      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
     },
     {
       "added_at": "2022-10-14 10:30:07",

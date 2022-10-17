@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
+70 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Lovely \- Vocal Good Vibes Mix](https://open.spotify.com/track/591N75XjzRms0Cvcm9qSRw) | [Disco Incorporated](https://open.spotify.com/artist/03bYU8vPMd45QD6byp08HJ) | [Funky Summer Grooves, Vol\. 1](https://open.spotify.com/album/1yv6X3GBXHTc5mZxh9xEuZ) | 5:04 | 2022-08-01 |  |
 | [Mafana \- Marco Lys Remix](https://open.spotify.com/track/5xS9qcXWmDo9hF5rlRxSED) | [Chris Geka](https://open.spotify.com/artist/5lQDyoSLDFj5uTkI5JPczu), [Tecca](https://open.spotify.com/artist/0J7Kqmrp3SxJlw2Ce1o1EJ), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Mafana, Craygnos](https://open.spotify.com/album/5AxY2v9FjYIIsLH7yr3fqq) | 6:31 | 2022-08-01 |  |
 | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/track/3dFvXuCrkC0sgCJUrw6KF9) | [Ramy Mishriky](https://open.spotify.com/artist/5YPnzmq0y55OzDVZl6lazT), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/album/0Ldq3I9JLNO1M5bu8wLHNo) | 4:19 | 2022-09-08 |  |
-| [Mi Pena](https://open.spotify.com/track/29q0bUyU7TO83cY3oP7rMp) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/28yEiaLt8HAtzE3qTrQBlX) | 5:46 | 2022-08-01 |  |
+| [Mi Pena](https://open.spotify.com/track/29q0bUyU7TO83cY3oP7rMp) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/28yEiaLt8HAtzE3qTrQBlX) | 5:46 | 2022-08-01 | 2022-10-17 |
+| [Mi Pena](https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/0Jk1DzW10G0u6MYlBWuCyr) | 5:46 | 2022-09-08 |  |
 | [Midas Touch](https://open.spotify.com/track/4nadecqEmEIuLovLrOUF9A) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Soul Hits of the 80s](https://open.spotify.com/album/1t9cBcn6XLBwjdZGrqRa8y) | 3:53 | 2022-08-01 |  |
 | [Mondo](https://open.spotify.com/track/6xXLjtrH9S4JaB3SscBXFe) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Sunshine](https://open.spotify.com/album/6jEhtIGOpUgLG5EivDFxGS) | 8:31 | 2022-08-01 |  |
 | [Motivate](https://open.spotify.com/track/5J5ORcB3J61EgsVC2LADbc) | [Jeremiah Asiamah](https://open.spotify.com/artist/4a8asYwblfRPbHxD6Oc7W4) | [Motivate](https://open.spotify.com/album/25J6q42R7zvRoECkz7PGdj) | 2:07 | 2022-09-08 |  |

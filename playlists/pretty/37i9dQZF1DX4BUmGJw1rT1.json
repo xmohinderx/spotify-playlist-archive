@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 35290,
+  "num_followers": 35396,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjMzNiwwMDAwMDAwMDE0ZDg1NzRhMTY0OWNmMTJlMjIyNDk2YmYyNzliNDg4",
+  "snapshot_id": "MTY2NTQwNjMzNiwwMDAwMDAwMDM3ZmI2MTE4MzM3YTE0NDdlMmVlZWM1Njk3ZTI3ZGJh",
   "tracks": [
     {
       "added_at": "2022-10-03 13:20:23",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "G. Love And Special Sauce",
         "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
       },
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
     },
     {
-      "added_at": "2022-10-16 01:48:43",
+      "added_at": "2022-10-17 01:52:23",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Salt In My Wounds",
-      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Fire on the Floor (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 311226,
       "name": "Fire On The Floor",
       "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Salt In My Wounds",
+      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
         }
       ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+      "duration_ms": 368186,
+      "name": "In From The Cold",
+      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -719,22 +719,6 @@
       "duration_ms": 344973,
       "name": "Country Boy",
       "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 368186,
-      "name": "In From The Cold",
-      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -771,18 +755,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
       "artists": [
         {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -803,22 +787,6 @@
       "duration_ms": 225160,
       "name": "Don't Let the Green Grass Fool You",
       "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
-    },
-    {
-      "added_at": "2022-10-16 01:48:43",
-      "album": {
-        "name": "Come on Sunshine",
-        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Come on Sunshine",
-      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -843,18 +811,34 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Other Side of Goodbye",
-        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
       "artists": [
         {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
         }
       ],
-      "duration_ms": 154226,
-      "name": "Other Side of Goodbye",
-      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+    },
+    {
+      "added_at": "2022-10-17 01:52:23",
+      "album": {
+        "name": "Come on Sunshine",
+        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Come on Sunshine",
+      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -879,6 +863,22 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "Little Junior Parker: Mr. Blues",
+        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "He Was a Friend of Mine",
         "url": "https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 197739,
       "name": "He Was a Friend of Mine",
       "url": "https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Little Junior Parker: Mr. Blues",
-        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 265640,
-      "name": "No Other Way",
-      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 356426,
       "name": "A Quitter Never Wins",
       "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 265640,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "John Lyons Band",
-        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
-      },
-      "artists": [
-        {
-          "name": "John Lyons",
-          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
-        }
-      ],
-      "duration_ms": 438204,
-      "name": "Lonely Fool",
-      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -1147,18 +1131,34 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
+        "name": "John Lyons Band",
+        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
       },
       "artists": [
         {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+          "name": "John Lyons",
+          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
         }
       ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+      "duration_ms": 438204,
+      "name": "Lonely Fool",
+      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Precious Little",
+        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Spencer",
+          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
+        }
+      ],
+      "duration_ms": 289960,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1179,21 +1179,21 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Precious Little",
-        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
       "artists": [
         {
-          "name": "Jeremy Spencer",
-          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
         }
       ],
-      "duration_ms": 289960,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
-      "added_at": "2022-10-16 01:48:43",
+      "added_at": "2022-10-17 01:52:23",
       "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
         }
       ],
-      "duration_ms": 227274,
-      "name": "Nibbadip",
-      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+      "duration_ms": 208167,
+      "name": "Does Anybody Know",
+      "url": "https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Jigsaw Heart",
         "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 250946,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 208167,
-      "name": "Does Anybody Know",
-      "url": "https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "From the Cradle",
-        "url": "https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w"
+        "name": "The Studio Albums 2009 \u2013 2018",
+        "url": "https://open.spotify.com/album/7hhxms8KCwlQCWffIJpN9b"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 308893,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/1th2vwXpgv6prxxHbVccV9"
+      "duration_ms": 160800,
+      "name": "Pulling Down The Ride",
+      "url": "https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1399,22 +1399,6 @@
       "duration_ms": 278873,
       "name": "Riding Out The Storm",
       "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "The Studio Albums 2009 \u2013 2018",
-        "url": "https://open.spotify.com/album/7hhxms8KCwlQCWffIJpN9b"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Pulling Down The Ride",
-      "url": "https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1459,22 +1443,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Bringing It Back Home",
-        "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        }
-      ],
-      "duration_ms": 337413,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Dinah Washington Sings Bessie Smith",
         "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
       },
@@ -1487,6 +1455,22 @@
       "duration_ms": 218866,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Bringing It Back Home",
+        "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 337413,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1575,22 +1559,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get These Blues Off Me",
-      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Let Me Down Easy",
         "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
       },
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get These Blues Off Me",
+      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle"
       },
@@ -1653,7 +1637,7 @@
       "url": "https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ"
     },
     {
-      "added_at": "2022-10-16 01:48:43",
+      "added_at": "2022-10-17 01:52:23",
       "album": {
         "name": "Look Up!",
         "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
@@ -1699,6 +1683,26 @@
       "duration_ms": 332310,
       "name": "If You're Gonna Leave Me",
       "url": "https://open.spotify.com/track/1XtppgAPSCRwfDlLy2Rv4a"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Oh Frustration",
+        "url": "https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "duration_ms": 226155,
+      "name": "Oh Frustration",
+      "url": "https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux"
     }
   ],
   "unique_name": "Home at Last",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,327 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,364 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 122 | [Bring on the Rain](https://open.spotify.com/track/5vhIJeG6kiI1foK7xg5k7A) | [Hudson Moore](https://open.spotify.com/artist/26iVzd80yAXJjZlsrshRjQ) | [Getaway](https://open.spotify.com/album/6YYt3XISMrkoP1Y2db5NJT) | 4:50 |
 | 123 | [Make You Feel My Love](https://open.spotify.com/track/7d0bJhpp0mCYyMXaMgWyMS) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CALM](https://open.spotify.com/album/0fEtEBVYKRlVAUjjFxvM12) | 2:51 |
 | 124 | [Afternoon Takeoff](https://open.spotify.com/track/0Yv7ZC1o3l21qfba3cxVOp) | [Small Forward](https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh) | [The Moon You Stand On: Demos](https://open.spotify.com/album/4zV49AbvS71ebGU5QWtdWa) | 3:31 |
-| 125 | [Nothing's Alright](https://open.spotify.com/track/3bq9ntLOdUxX5aJjZsDGq8) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/5KPxHPIALBQWbxmXwD1Fha) | 3:24 |
+| 125 | [Nothing's Alright](https://open.spotify.com/track/5JqqoMrMOHkFWfeKKCsoDq) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/2KjdkaGCd0OnLUxCLoViMh) | 3:24 |
 | 126 | [Already Down](https://open.spotify.com/track/242AUqYphBSGrXXWUVsOMJ) | [Allie Moss](https://open.spotify.com/artist/2IfLIO3nsSn1CqNUeJ8sWE) | [Already Down](https://open.spotify.com/album/0xdh7pb5ycIR39gwfbe7mP) | 3:26 |
 | 127 | [Better Days](https://open.spotify.com/track/778plcK6s2CpcKn2318Tbl) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [Felix Culpa](https://open.spotify.com/album/2KnYuDVPTaveLUsw3LU7g5) | 4:54 |
 | 128 | [Wish I Had the Why](https://open.spotify.com/track/68DIBWxKHHMqyzNFXR7Tkt) | [Shelly Fraley](https://open.spotify.com/artist/4qvh2HOvMUhnP7CeoJv9ND) | [Tides](https://open.spotify.com/album/1Ma6rv23MCDawBayO531dk) | 4:26 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDE2OTljYTM0NGUwMWEwOWExOTBiYzgzODJjNzc1NWIy`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDc2ZDBkZThjZDkwZDBlODZkY2MzMWY3Y2Y3YmYyMDc5`

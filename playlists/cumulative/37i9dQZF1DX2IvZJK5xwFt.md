@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-226 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+227 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-29 |  |
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-06 |  |
-| [Time Bomb](https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK) | 4:14 | 2022-09-22 |  |
+| [Time Bomb](https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 4:14 | 2022-10-06 |  |
+| [Time Bomb](https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK) | 4:14 | 2022-09-22 | 2022-10-17 |
 | [Time Bomb](https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM) | 4:14 | 2022-09-22 | 2022-09-24 |
 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 | 2022-07-07 | 2022-09-30 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 | 2022-09-30 |

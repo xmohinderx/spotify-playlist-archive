@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-839 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+840 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Beautiful Fragments](https://open.spotify.com/track/1GSkqJsEJOmUvudWa66zGs) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:02 | 2022-08-25 |  |
 | [Beautiful Harmony](https://open.spotify.com/track/64pOzUuE17nwlEbTAZ0GMY) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:33 | 2022-01-20 |  |
 | [Beautiful Mist](https://open.spotify.com/track/3Nn6GskLTTf4V7bHI5OtH8) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:06 | 2022-02-19 |  |
+| [Beautiful Places \- Felt Piano Version](https://open.spotify.com/track/3eUFBiETeXrAfTJdRYbk5e) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Beautiful Places](https://open.spotify.com/album/0D4iBQY8fPdFcBEGmyRBzH) | 1:05 | 2022-10-16 |  |
 | [Beautiful Sky](https://open.spotify.com/track/2Ce4lxN8d8eCIrEmLv9Hl7) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Cello Songs](https://open.spotify.com/album/4qk2Cg1Gu9xJvDjyu9Mf6u) | 1:05 | 2022-02-18 |  |
 | [Beautiful Stillness](https://open.spotify.com/track/63ryEBkb9i1Tug3MBS86M6) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Beautiful Stillness](https://open.spotify.com/album/1YX9D9j8bLHKxS3w3TUvqp) | 2:55 | 2022-01-12 |  |
 | [Beautiful Thoughts](https://open.spotify.com/track/2RTqC4jJ4Ee0kTvucJF5y4) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Beautiful Thoughts](https://open.spotify.com/album/4CPKSe0g11plO7x5xdgF2b) | 1:02 | 2022-09-12 |  |

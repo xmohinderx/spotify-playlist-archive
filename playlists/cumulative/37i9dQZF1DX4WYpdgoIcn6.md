@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-852 songs - 1 day 22 hr 16 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+853 songs - 1 day 22 hr 18 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Beyond Today](https://open.spotify.com/track/7p6s3yvfMxu6XnxodtnA00) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Lost EP](https://open.spotify.com/album/38fspTwOSWuE8kcxTe4AVs) | 3:57 | 2019-05-30 | 2020-01-04 |
 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 | 2019-10-25 | 2020-01-04 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-24 |  |
-| [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 | 2020-06-12 |  |
+| [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 | 2020-06-12 | 2022-10-17 |
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2019-10-13 | 2020-10-21 |
 | [Black Converse](https://open.spotify.com/track/0NbDnRbBxUaT27CTgmraSG) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Black Converse](https://open.spotify.com/album/5veCdVBHBm0jt5SeNq52ql) | 3:06 | 2020-06-12 | 2022-07-29 |
 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 | 2020-07-20 | 2022-04-19 |
@@ -756,6 +756,7 @@
 | [This Could Be the Last Time](https://open.spotify.com/track/4mzW2eidycpBbO6p6mdhIN) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [Self Sacrifice](https://open.spotify.com/album/2WMufeR3NGBjcM5mjL78ZF) | 2:28 | 2020-01-03 | 2020-01-04 |
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-01-21 | 2022-07-29 |
 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 | 2022-07-07 |  |
+| [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 | 2022-10-14 |  |
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2021-10-10 | 2022-10-13 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-06 |  |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-29 |  |

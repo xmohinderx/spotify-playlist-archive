@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,375 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,424 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 45 | [The Undertow](https://open.spotify.com/track/2gKK35fVfoGT67MbkPgJY9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:46 |
 | 46 | [Hit The Wall](https://open.spotify.com/track/4IPEqUgslMB8nfEFdY5Lpm) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hit The Wall](https://open.spotify.com/album/0XJrScbEI5GTBLOnvqI16x) | 3:37 |
 | 47 | [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 |
-| 48 | [The Duke](https://open.spotify.com/track/2JTikXpeRiapyDGR1p8ITD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [The Duke](https://open.spotify.com/album/3RqpVGcEmgxboGRokP02Nw) | 4:31 |
-| 49 | [To The End](https://open.spotify.com/track/2q9JN8Rm3rANdCxUSJpNpZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 3:49 |
+| 48 | [To The End](https://open.spotify.com/track/2q9JN8Rm3rANdCxUSJpNpZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 3:49 |
+| 49 | [The Duke](https://open.spotify.com/track/2JTikXpeRiapyDGR1p8ITD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [The Duke](https://open.spotify.com/album/3RqpVGcEmgxboGRokP02Nw) | 4:31 |
 | 50 | [For Your Malice](https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:43 |
 
-Snapshot ID: `Mjc3NjQwMDMsMDAwMDAwMDAzODRkYTFkZTM1NDMwMjZmZTE5M2E2NzU4MzA3YTQ5NQ==`
+Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDA4YWRkNjQzZTg0NWJjMjBjZGM5NWYyODk0OWI3YWFlNQ==`

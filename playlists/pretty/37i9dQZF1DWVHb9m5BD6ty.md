@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 |
+| 1 | [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 |
 | 2 | [Chaila](https://open.spotify.com/track/32dmwS4I5d2QIQveVtWf8D) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 3:11 |
 | 3 | [Smile](https://open.spotify.com/track/7EoqyiXqNAiRhEsLiLjncu) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Smile](https://open.spotify.com/album/4JPObqnN2a7k5k5ICQz23E) | 2:55 |
 | 4 | [Sharingan](https://open.spotify.com/track/369BjuBIVwQ9Z0ZvNrdCK9) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/3Dp4gQKgU5nDuFp10dwDoC) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 49 | [Tiger Woods](https://open.spotify.com/track/3TP4es7Z8PL11XHNExj0aB) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Tiger Woods](https://open.spotify.com/album/3kWPB2Q3oYywGaqW018mCB) | 3:51 |
 | 50 | [061](https://open.spotify.com/track/07zGUsX4t6zF4VQfa9hHDi) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [061](https://open.spotify.com/album/5W3aa9ngdHTngZTE6f5hzw) | 3:14 |
 
-Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMDhiNjM5Yjc2YjhkZmI2NmE2MmFjMjNhMDNkY2RmYTdi`
+Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMDcyM2Q0ODhmYzFmMGU0OGNkYzU5ODEzMjg2MTJlZTBm`

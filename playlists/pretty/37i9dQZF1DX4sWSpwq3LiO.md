@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,661,871 likes - 290 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,663,706 likes - 290 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 139 | [Zaupanje](https://open.spotify.com/track/4wZWEuu89nlc6KVJgECTqx) | [Valbona Ceferin](https://open.spotify.com/artist/2iH6SSywrGgmHMA5ODnZcJ) | [Zaupanje](https://open.spotify.com/album/1tbDmFJsaVNXDnatUzChs4) | 2:25 |
 | 140 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 |
 | 141 | [Pure](https://open.spotify.com/track/7MkxpIhNBXy8blub5txeDD) | [Nel Aique](https://open.spotify.com/artist/6DQXMlXhosW4HRwMMNKX2G) | [Pure](https://open.spotify.com/album/7FJvepVpyOzTx0mXqCV5BI) | 1:59 |
-| 142 | [Last Sunday](https://open.spotify.com/track/1HTvslM0ZjMDrCYM3YqsV7) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Last Sunday](https://open.spotify.com/album/3Iq0eQBewdnHphQGXdDxUk) | 2:23 |
+| 142 | [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 |
 | 143 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 |
 | 144 | [A Beautiful Break](https://open.spotify.com/track/4xwUUKpKf52tIHZRyyUFKw) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P) | [A Beautiful Break](https://open.spotify.com/album/5s2pUbevUoy45nOUk5NXx8) | 2:08 |
 | 145 | [Flying Away](https://open.spotify.com/track/3KY4J1SHhjAEn6hDqJooZn) | [Tom Holding](https://open.spotify.com/artist/6ricPc7dXpgND8NjKLbHqg) | [Flying Away](https://open.spotify.com/album/1sxeBZKSRlfVmUALPxb9ub) | 2:18 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 289 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 |
 | 290 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
 
-Snapshot ID: `MTY2NTY2NTY3OSwwMDAwMDAwMGI0YjNjYmM0ZmE0ZjExMGZjODExNGE0MWQ3YTIwZGEw`
+Snapshot ID: `MTY2NTY2NTY3OSwwMDAwMDAwMDFmN2M0YzA0ZTNiZGU4NzNjYzkyZTQzZjY1ZWVjMmVk`

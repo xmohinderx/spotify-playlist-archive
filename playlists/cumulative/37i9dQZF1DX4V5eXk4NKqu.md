@@ -4,7 +4,7 @@
 
 > Best Latin Indie tracks right now\. Cover: Kevin Kaarl
 
-174 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/18mw8A3EJYED9nllSiRieV)
+175 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/18mw8A3EJYED9nllSiRieV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Night Moves](https://open.spotify.com/track/3itTjtSUO9mC7if5prxrTn) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Night Moves](https://open.spotify.com/album/4ylvwWueTH4ahlgjcbUJsF) | 3:19 | 2022-03-10 | 2022-07-28 |
 | [No Te Vayas with Jane](https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0) | [Danto](https://open.spotify.com/artist/0L8DGJwLOOu7DePOSdE49v) | [Danto's Inferno](https://open.spotify.com/album/3N9wGucblUYoiCR3uGoIhW) | 2:30 | 2022-03-10 |  |
 | [NTE](https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [NTE](https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu) | 2:51 | 2022-03-10 |  |
-| [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 | 2022-03-10 |  |
+| [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 | 2022-03-10 | 2022-10-17 |
+| [Oscuridad](https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll) | 3:30 | 2022-09-06 |  |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-06 |  |
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2022-03-10 | 2022-10-14 |
 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2022-09-06 |  |

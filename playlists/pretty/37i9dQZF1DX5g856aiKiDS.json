@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 418390,
+  "num_followers": 418619,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY0MDE3NSwwMDAwMDAwMGMyN2ZhOWY3NTQ4MTc3NTRjNzJiNGFjNmMzYzk0ZDVj",
+  "snapshot_id": "MTY2NTY0MDE3NSwwMDAwMDAwMGVkMjA1OTlmZWNhMWI0NmQ5MWY0M2MxNGMwMTNiNmE4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:55:45",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
-      "added_at": "2022-10-16 01:51:18",
+      "added_at": "2022-10-17 01:55:07",
       "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
-        "name": "WINE",
-        "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "WINE (Feat.Changmo) (Prod. SUGA)",
-      "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
         "name": "SoulMate (feat. IU)",
         "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 219390,
       "name": "SoulMate (feat. IU)",
       "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
+        "name": "WINE",
+        "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "WINE (Feat.Changmo) (Prod. SUGA)",
+      "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -359,26 +359,6 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 257631,
-      "name": "It's You (Feat. ZICO)",
-      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "It's You (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
-        "name": "as long as you're okay",
-        "url": "https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 173740,
-      "name": "say what's on your mind",
-      "url": "https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
         "name": "It's Raining",
         "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 214326,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
+        "name": "as long as you're okay",
+        "url": "https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 173740,
+      "name": "say what's on your mind",
+      "url": "https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
+        "name": "doodle",
+        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
+      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
         "name": "Mr. Hollywood",
         "url": "https://open.spotify.com/album/7h0ipn1ZRUUznOKiMRqiAl"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 177133,
       "name": "Knock Knock (Feat. pH-1, Moon Sujin)",
       "url": "https://open.spotify.com/track/1eX3uqAJ1gXZPOR0aXQD4G"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
-        "name": "doodle",
-        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
-      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
     },
     {
       "added_at": "2022-10-07 04:55:45",

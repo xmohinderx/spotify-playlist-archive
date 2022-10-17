@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "7eneely",
+        "url": "https://open.spotify.com/album/1bqyHkdwTZYoxJYPaCoaqC"
+      },
+      "artists": [
+        {
+          "name": "Hassan Shakosh",
+          "url": "https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "7eneely",
+      "url": "https://open.spotify.com/track/0fwo1BAS6r2Ktn2Hl31JDL"
+    },
+    {
+      "album": {
         "name": "Bahr Shar",
         "url": "https://open.spotify.com/album/60jBCD1LI5FDHxPQV3mef5"
       },
@@ -257,7 +275,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 110769,
       "name": "Lama Bagy",
       "url": "https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh"
@@ -341,6 +359,28 @@
       "duration_ms": 174186,
       "name": "Weyyak",
       "url": "https://open.spotify.com/track/1hCT1bsFmcuqi9HRP1ilf0"
+    },
+    {
+      "album": {
+        "name": "\u0627\u062d\u0644\u064a \u0648\u0627\u062d\u062f\u0629",
+        "url": "https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH"
+      },
+      "artists": [
+        {
+          "name": "Seif Magdy",
+          "url": "https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE"
+        },
+        {
+          "name": "Omar El Karwan",
+          "url": "https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "\u0627\u062d\u0644\u064a \u0648\u0627\u062d\u062f\u0629",
+      "url": "https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf"
     },
     {
       "album": {
@@ -461,6 +501,24 @@
       "duration_ms": 195186,
       "name": "\u0627\u0644\u0644\u064a \u0628\u0627\u0639\u0648 \u0628\u0627\u0644\u0633\u0644\u0627\u0645\u0629 - Back Catalog",
       "url": "https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0646\u0633\u0648\u0631 \u0639 \u0627\u0644\u062f\u0628\u0627\u0628\u0627\u062a",
+        "url": "https://open.spotify.com/album/0vvrJe3Ip4wSP9UHaPGJYc"
+      },
+      "artists": [
+        {
+          "name": "Hamo Bika",
+          "url": "https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187361,
+      "name": "\u0627\u0644\u0646\u0633\u0648\u0631 \u0639 \u0627\u0644\u062f\u0628\u0627\u0628\u0627\u062a",
+      "url": "https://open.spotify.com/track/6n1P8XVuCBEJHkyKgtNOWz"
     },
     {
       "album": {
@@ -651,7 +709,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 192000,
       "name": "\u0627\u0646\u062a\u064a \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/1z4wa1hxM6Ja7Cpq5cljsb"
@@ -753,7 +811,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 263575,
       "name": "\u062a\u0639\u0627\u0644\u064a \u0634\u0648\u0641 \u0641\u064a \u0627\u064a\u0647 \u064a\u0627 \u0635\u062f\u064a\u0642",
       "url": "https://open.spotify.com/track/189eXZnM4jAIVST0ESW7UC"
@@ -877,6 +935,28 @@
       "duration_ms": 110352,
       "name": "\u062e\u0637\u0648\u0629 \u0627\u062c\u0628\u0627\u0631\u064a",
       "url": "https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02"
+    },
+    {
+      "album": {
+        "name": "\u0631\u064a\u0645\u0648\u062a \u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646",
+        "url": "https://open.spotify.com/album/0aGaB56SqGQioDn1AvxDbR"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u062f\u0648\u062c\u0631\u064a",
+          "url": "https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA"
+        },
+        {
+          "name": "\u0633\u0627\u0645\u0631 \u0627\u0644\u0645\u062f\u0646\u064a",
+          "url": "https://open.spotify.com/artist/54C1fQ9Rt2FqXgr2hd0bxJ"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148845,
+      "name": "\u0631\u064a\u0645\u0648\u062a \u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646",
+      "url": "https://open.spotify.com/track/5pRjLuLXO60pawAqCspZWD"
     },
     {
       "album": {
@@ -1258,6 +1338,28 @@
     },
     {
       "album": {
+        "name": "\u063a\u0627\u0628 \u0627\u0644\u0627\u0633\u062f \u0637\u0644\u0639\u0648 \u0627\u0644\u0642\u0631\u0648\u062f",
+        "url": "https://open.spotify.com/album/2KLIfl7WG4IDYJ3NnCJKA4"
+      },
+      "artists": [
+        {
+          "name": "Bodyykhaledd",
+          "url": "https://open.spotify.com/artist/5iIuR1hkhyNJNzB9aVPbGj"
+        },
+        {
+          "name": "Hamo El Tekha",
+          "url": "https://open.spotify.com/artist/7gXuIjsi4LJpF4NqaKQVby"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240065,
+      "name": "\u063a\u0627\u0628 \u0627\u0644\u0627\u0633\u062f \u0637\u0644\u0639\u0648 \u0627\u0644\u0642\u0631\u0648\u062f",
+      "url": "https://open.spotify.com/track/08kEEeT3SvUnc3qocmY173"
+    },
+    {
+      "album": {
         "name": "\u0641\u062a\u0634 \u0641\u062a\u0634",
         "url": "https://open.spotify.com/album/3CMjbLQe3GRt0SMh8r0Ycm"
       },
@@ -1305,7 +1407,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 382548,
       "name": "\u0641\u064a \u064a\u0648\u0645 \u0641\u0631\u0627\u0642\u0643",
       "url": "https://open.spotify.com/track/4zEqPTikQAUACfHrDRa41K"
@@ -1365,7 +1467,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 264057,
       "name": "\u0642\u0645\u0631 \u0627\u0644\u062a\u064a\u0643\u062a\u0648\u0643\u0627\u064a\u0647",
       "url": "https://open.spotify.com/track/4NLFg43DInhC8Fik0bp88e"
@@ -1471,7 +1573,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 200437,
       "name": "\u0645\u062d\u062f\u0634 \u064a\u0642\u0648\u0644\u064a \u064a\u0627 \u062e\u0648\u064a\u0627",
       "url": "https://open.spotify.com/track/5WMk2uxBimKwASfmSLW4v6"
@@ -1493,6 +1595,24 @@
       "duration_ms": 264103,
       "name": "\u0645\u0633\u062c\u0648\u0646 \u062d\u0632\u064a\u0646",
       "url": "https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+        "url": "https://open.spotify.com/album/0C8L9omqkyv8af3yCXNg7L"
+      },
+      "artists": [
+        {
+          "name": "3enba",
+          "url": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141583,
+      "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+      "url": "https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr"
     },
     {
       "album": {
@@ -1664,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "\u0645\u064a\u062a \u0627\u0646\u0627 \u0645\u0634 \u0639\u0627\u0631\u0641\u0646\u064a",
+        "url": "https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163735,
+      "name": "\u0645\u064a\u062a \u0627\u0646\u0627 \u0645\u0634 \u0639\u0627\u0631\u0641\u0646\u064a",
+      "url": "https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD"
+    },
+    {
+      "album": {
         "name": "\u0646\u062f\u0645\u0627\u0646 \u0639\u0627\u0631\u0641 \u064a\u0627 \u0628\u0627\u0634\u0627 \u0627\u0646\u064a \u0627\u0646\u0627 \u063a\u0644\u0637\u0627\u0646",
         "url": "https://open.spotify.com/album/2sazOwQENSqmf0TWo5oww7"
       },
@@ -1701,6 +1839,24 @@
       "duration_ms": 244558,
       "name": "\u0646\u0641\u0633\u064a \u062b\u0645 \u0646\u0641\u0633\u064a",
       "url": "https://open.spotify.com/track/361NL1PciW2K8iDsR0YRJj"
+    },
+    {
+      "album": {
+        "name": "\u0647\u062f\u064a \u0641\u064a \u0642\u0644\u0628\u0643 \u0637\u0644\u0642\u0647 ( \u0644\u0648 \u0639\u0648\u0632\u062a \u062a\u0643\u0644\u0645\u0646\u064a )",
+        "url": "https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284656,
+      "name": "\u0647\u062f\u064a \u0641\u064a \u0642\u0644\u0628\u0643 \u0637\u0644\u0642\u0647 ( \u0644\u0648 \u0639\u0648\u0632\u062a \u062a\u0643\u0644\u0645\u0646\u064a )",
+      "url": "https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT"
     },
     {
       "album": {
@@ -1777,7 +1933,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 212000,
       "name": "\u0648\u0627\u0646\u062a \u0631\u0627\u064a\u062d \u0643\u0646\u0627 \u0647\u0646\u0627\u0643",
       "url": "https://open.spotify.com/track/0lPlGW4DAFgmB9dZpRjMDX"
@@ -1813,7 +1969,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 221739,
       "name": "\u064a\u0627 \u0627\u0635\u0641\u0631",
       "url": "https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu"

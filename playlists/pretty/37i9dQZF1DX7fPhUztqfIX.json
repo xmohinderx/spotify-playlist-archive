@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 95054,
+  "num_followers": 95102,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMGNiYThjZGU0M2UxZTUzZjM2YWEwNDVlZTA4M2Q2MmQy",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDg4ZGVmYzgyZWQxOGM4N2QzOTNkNmZjYTkyZDNjMzdm",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Higher Than Mine",
+        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 185062,
+      "name": "Higher Than Mine",
+      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Higher Than Mine",
-        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 185062,
-      "name": "Higher Than Mine",
-      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "A Thousand More",
-        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 359710,
-      "name": "A Thousand More - Live",
-      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Gold (Live)",
         "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "duration_ms": 359710,
+      "name": "A Thousand More - Live",
+      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Uncomplicated - Live",
-      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 303141,
       "name": "Midnight - Radio Version",
       "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 242606,
-      "name": "Reputation",
-      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "My Worship (Live)",
         "url": "https://open.spotify.com/album/1FE5cVevOjLl6SauUbrEM6"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "YEAR OF VICTORY",
-        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 230444,
-      "name": "YEAR OF VICTORY",
-      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
+      "duration_ms": 242606,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1431,6 +1415,22 @@
       "duration_ms": 289480,
       "name": "Jesus My Treasure",
       "url": "https://open.spotify.com/track/5gK1uutVAMPNMVNlFmrmjg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "YEAR OF VICTORY",
+        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 230444,
+      "name": "YEAR OF VICTORY",
+      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Heavenly Father",
         "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 374117,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
       "artists": [
         {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Turner",
-          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
-        }
-      ],
-      "duration_ms": 261886,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
@@ -2039,6 +2023,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Turner",
+          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
+        }
+      ],
+      "duration_ms": 261886,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Christ is Enough",
         "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
       },
@@ -2051,6 +2051,22 @@
       "duration_ms": 279653,
       "name": "Christ is Enough",
       "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2071,22 +2087,6 @@
       "duration_ms": 184746,
       "name": "Nothing To Fear (feat. Audrey Assad)",
       "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 320867,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "In Jesus' Name (Live)",
-        "url": "https://open.spotify.com/album/1E8yazEoEa7ASwZWjMWU0Q"
-      },
-      "artists": [
-        {
-          "name": "Valley Creek Worship",
-          "url": "https://open.spotify.com/artist/4GoGTYcqE23Z7lqCkOM88h"
-        }
-      ],
-      "duration_ms": 362853,
-      "name": "In Jesus' Name (Live)",
-      "url": "https://open.spotify.com/track/5JBYldd09xjzZIsu9X3t9Q"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "As For Me & My House (Live)",
         "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
       },
@@ -2251,82 +2235,6 @@
       "duration_ms": 321683,
       "name": "As For Me & My House - Live",
       "url": "https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "He Wears A Crown (Live At CrossBridge)",
-        "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 312018,
-      "name": "He Wears A Crown - Live",
-      "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Holy Holy Here With Me (Live)",
-        "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        }
-      ],
-      "duration_ms": 297563,
-      "name": "Holy Holy Here With Me - Live",
-      "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Songs of the House (Live)",
-        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        },
-        {
-          "name": "Madison Street Worship",
-          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
-        },
-        {
-          "name": "Olivia Calderwood",
-          "url": "https://open.spotify.com/artist/0NHMLrg0lVjPdcDeIR8skk"
-        }
-      ],
-      "duration_ms": 420693,
-      "name": "More Than Anything - Live",
-      "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2351,6 +2259,98 @@
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "In Jesus' Name (Live)",
+        "url": "https://open.spotify.com/album/1E8yazEoEa7ASwZWjMWU0Q"
+      },
+      "artists": [
+        {
+          "name": "Valley Creek Worship",
+          "url": "https://open.spotify.com/artist/4GoGTYcqE23Z7lqCkOM88h"
+        }
+      ],
+      "duration_ms": 362853,
+      "name": "In Jesus' Name (Live)",
+      "url": "https://open.spotify.com/track/5JBYldd09xjzZIsu9X3t9Q"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "He Wears A Crown (Live At CrossBridge)",
+        "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 312018,
+      "name": "He Wears A Crown - Live",
+      "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Holy Holy Here With Me (Live)",
+        "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "duration_ms": 297563,
+      "name": "Holy Holy Here With Me - Live",
+      "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Songs of the House (Live)",
+        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        },
+        {
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
+        },
+        {
+          "name": "Olivia Calderwood",
+          "url": "https://open.spotify.com/artist/0NHMLrg0lVjPdcDeIR8skk"
+        }
+      ],
+      "duration_ms": 420693,
+      "name": "More Than Anything - Live",
+      "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
     }
   ],
   "unique_name": "New & Bold",

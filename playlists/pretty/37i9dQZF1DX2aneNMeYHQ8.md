@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: All Them Witches
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,110 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,165 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,17 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 54 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 | 55 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
 | 56 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 |
-| 57 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 |
-| 58 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 |
+| 57 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 |
+| 58 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 |
 | 59 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 |
 | 60 | [Hanging by a Thread](https://open.spotify.com/track/5VI2qNOcabWt6RNJuApYHX) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/3Ihb50N9lgl7IPdXlt04Np) | 3:18 |
 | 61 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 |
 | 62 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 63 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 |
-| 64 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Ink](https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
-| 65 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 |
-| 66 | [Love Love Love](https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH) | 3:42 |
-| 67 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 |
+| 64 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 |
+| 65 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Ink](https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
+| 66 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 |
+| 67 | [Love Love Love](https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH) | 3:42 |
 | 68 | [Good Day](https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/4mQO6EHGG1jGPPFJtCVIPs) | 3:07 |
 | 69 | [High And Lonesome](https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:33 |
 | 70 | [Just Around The Corner](https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Just Around The Corner](https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG) | 2:55 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 96 | [Heavy Soul](https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Heavy Soul](https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162) | 3:02 |
 | 97 | [Try Better Next Time](https://open.spotify.com/track/7jxR5vYnUhwE6niPPyzR4V) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1) | 3:07 |
 | 98 | [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 |
-| 99 | [Strange Diamonds](https://open.spotify.com/track/57nlJv1i24h7KMcNod0dyZ) | [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [Jersey Girl](https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk) | 3:42 |
-| 100 | [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 |
+| 99 | [Red Run Cold](https://open.spotify.com/track/00j4raDRNX9J6nWkzqpJbB) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/0gUmdbR0yGRd6M59WGXFYm) | 3:43 |
+| 100 | [Strange Diamonds](https://open.spotify.com/track/57nlJv1i24h7KMcNod0dyZ) | [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [Jersey Girl](https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk) | 3:42 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDVmY2UzNWY0ZGNlYjA5N2ExYzY1ODYxNjAzYzhjNzk1`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDJhYjNlYzZlYTM4ZmRjOTg1MWVlZDM2Yjk3ZjNkZDRk`

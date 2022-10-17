@@ -175,7 +175,7 @@
     {
       "album": {
         "name": "Rock-O-Matic",
-        "url": "https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD"
+        "url": "https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w"
       },
       "artists": [
         {
@@ -186,6 +186,24 @@
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147142,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/0Zg6LqDZxQVzHhDnIeiQ2i"
+    },
+    {
+      "album": {
+        "name": "Rock-O-Matic",
+        "url": "https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 147146,
       "name": "Blast Off",
       "url": "https://open.spotify.com/track/4F0xpYrQRLxK1aRUKynKtP"

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lizzy Mcalpine
 
-1,376 songs - 3 day 0 hr 23 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,378 songs - 3 day 0 hr 30 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Halloween](https://open.spotify.com/track/1qx755YI9plWMkHAoPq1lH) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Halloween](https://open.spotify.com/album/08MVxeBRotNzwJZhx5mNzY) | 2:35 | 2020-10-16 | 2021-01-15 |
 | [Halloweenie III: Seven Days](https://open.spotify.com/track/0OStKKAuXlxA0fMH54Qs6E) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie III: Seven Days](https://open.spotify.com/album/1UdHs4K8sjSKy3BJJP1h8q) | 2:30 | 2020-10-24 | 2020-11-15 |
 | [Hang My Head](https://open.spotify.com/track/2Qm5gg9NZIrtURqpIalMyy) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hang My Head](https://open.spotify.com/album/66Jgk4cIkmqjVjwO4VxIin) | 3:26 | 2021-06-03 | 2021-06-04 |
-| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-17 |  |
+| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-17 | 2022-10-17 |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2020-11-10 | 2022-04-16 |
 | [Happiness In Liquid Form](https://open.spotify.com/track/5KRyn0z6znMxUUojq0NzuQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness In Liquid Form](https://open.spotify.com/album/6BMG6KHqfPfw0oZaxNMmym) | 3:32 | 2021-02-23 | 2022-04-15 |
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-05-20 | 2022-06-01 |
@@ -633,6 +633,7 @@
 | [I'll Be Home Soon](https://open.spotify.com/track/72xzw4sk7CcgYIyQsj0pxn) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Marathon](https://open.spotify.com/album/4RQN3Cqkj3dHhEa5wa7Ag8) | 2:11 | 2021-03-14 | 2021-05-25 |
 | [I'll Be There](https://open.spotify.com/track/3C9l4bgVhBjEwFergPZIjU) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [I'll Be There](https://open.spotify.com/album/2UMwb26oqZr3HXk8JKz3t3) | 3:27 | 2021-02-28 | 2021-10-16 |
 | [I'll Call You Mine](https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:21 | 2021-06-04 | 2022-07-29 |
+| [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 | 2022-10-07 |  |
 | [i'm busy](https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [i'm busy](https://open.spotify.com/album/1tpx9WDPwZkFWnHNZr85pU) | 2:48 | 2020-11-13 | 2021-05-28 |
 | [I'm Enough \(with Katie Gavin\)](https://open.spotify.com/track/6JSvMqV3e3TjzkYkAGYwu1) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Katie Gavin](https://open.spotify.com/artist/0YKOKKfXkVOrizPVSbGQ01) | [I'm Enough \(with Katie Gavin\)](https://open.spotify.com/album/12EGghSTPlxGOFrfgvtk2l) | 3:02 | 2021-02-09 | 2022-04-11 |
 | [i'm glad that you found someone](https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [i'm glad that you found someone](https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6) | 2:18 | 2020-10-13\* | 2021-10-14 |
@@ -725,7 +726,7 @@
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2020-10-20 | 2021-06-03 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
-| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 |  |
+| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2022-10-17 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-06-02 | 2022-06-15 |
 | [Lightning In A Bottle](https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Lightning In A Bottle](https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm) | 2:38 | 2022-06-17 | 2022-06-21 |
 | [Lights On](https://open.spotify.com/track/4pbKp6lF5XuBMSKVpSySmc) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Lights On](https://open.spotify.com/album/6AdKzEgpmht7QUDbRfsWUt) | 3:56 | 2022-04-15 | 2022-04-20 |
@@ -1240,6 +1241,7 @@
 | [The Way My Friends Feel About You](https://open.spotify.com/track/3m564D0kt8IZ08YZ2WCPE3) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [The Way My Friends Feel About You](https://open.spotify.com/album/7JttdErJ14yQqhIiCI0Djq) | 2:54 | 2021-08-13 | 2022-04-16 |
 | [The Woman I Am](https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S) | 3:13 | 2022-04-08 | 2022-06-03 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 | 2022-10-13 |
+| [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2022-10-07 |  |
 | [There’s No Insurance For a Broken Heart](https://open.spotify.com/track/24vHN1HCkhlQ0t29PTmagg) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [There’s No Insurance For a Broken Heart](https://open.spotify.com/album/11xaAjghIJoQpxUAV1UuqH) | 3:23 | 2020-11-20 | 2021-01-15 |
 | [These Drugs](https://open.spotify.com/track/03GpiUeYPwWFTvZu3feZLi) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [These Drugs](https://open.spotify.com/album/7t8UQuMOTv223ioJh3KVKA) | 4:02 | 2021-03-01 | 2021-05-22 |
 | [Things](https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Things](https://open.spotify.com/album/17wHZzdt9MISwYibdDDlrX) | 3:19 | 2021-03-11 | 2022-04-15 |

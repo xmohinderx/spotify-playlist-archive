@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 99151,
+  "num_followers": 99184,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMDRiYmMwZGM5NmJlMTNmNDA3NTBmNzk1MzBjYzMyNGVl",
+  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMDhiMDkyY2U2MTY0ZjdjNWIyNjhiOGU2MDIyOGVkZDdh",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
     },
     {
-      "added_at": "2022-09-06 16:29:13",
-      "album": {
-        "name": "Eclipse Lunar",
-        "url": "https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn"
-      },
-      "artists": [
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 193491,
-      "name": "Eclipse Lunar",
-      "url": "https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F"
-    },
-    {
       "added_at": "2022-09-06 16:11:58",
       "album": {
         "name": "Hapo Tu (feat. Chris Kaiga)",
@@ -1069,44 +1053,20 @@
       "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
     },
     {
-      "added_at": "2022-09-06 16:11:58",
+      "added_at": "2022-09-06 16:29:13",
       "album": {
-        "name": "Se Fue",
-        "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
+        "name": "Eclipse Lunar",
+        "url": "https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn"
       },
       "artists": [
         {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "ADSO",
-          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Se Fue",
-      "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "YA LLORARE(MOS)",
-        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "YA LLORARE(MOS)",
-      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
+      "duration_ms": 193491,
+      "name": "Eclipse Lunar",
+      "url": "https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1131,6 +1091,46 @@
       "duration_ms": 155368,
       "name": "iluminada",
       "url": "https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "YA LLORARE(MOS)",
+        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "YA LLORARE(MOS)",
+      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Se Fue",
+        "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Ladies First",
-        "url": "https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU"
-      },
-      "artists": [
-        {
-          "name": "Dice Ailes",
-          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Rosalia",
-      "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Flavors 2",
         "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 194042,
       "name": "Prende",
       "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Ladies First",
+        "url": "https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU"
+      },
+      "artists": [
+        {
+          "name": "Dice Ailes",
+          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Rosalia",
+      "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
     },
     {
       "added_at": "2022-09-06 16:11:58",

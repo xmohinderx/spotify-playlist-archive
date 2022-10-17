@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,325 likes - 1,195 songs - 3 day 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,368 likes - 1,195 songs - 3 day 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1012,7 +1012,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1002 | [Te Pico el Yaibi](https://open.spotify.com/track/4ZXEf1eMNuBqnxHXuMfbxF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope](https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH) | 6:23 |
 | 1003 | [My Love and Music](https://open.spotify.com/track/62Wv19Em9TzGWBGIDztP0b) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [My Love and Music](https://open.spotify.com/album/2gdtgeYm3JCSFzgxuqN1u0) | 7:50 |
 | 1004 | [Dance](https://open.spotify.com/track/1uWMf9lRF7BpS7i9ldErsF) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away With ESG](https://open.spotify.com/album/3vPWxVFThDOQZ6siCLque5) | 4:34 |
-| 1005 | [Oio Gere](https://open.spotify.com/track/74b5k5flvaD7JZ7FI3J2sk) | [Watusi](https://open.spotify.com/artist/5Reml6b45O2ezLvz5sxBpB) | [Black Rio Vol\. 2 \- Original Samba Soul 1968\-1981](https://open.spotify.com/album/2W0iQime31zHGitupZJ5ii) | 1:55 |
+| 1005 | [Oio Gere](https://open.spotify.com/track/2CQp439h8vOavmbTuhYyf0) | [Watusi](https://open.spotify.com/artist/5Reml6b45O2ezLvz5sxBpB) | [Black Rio Vol\. 2 \- Original Samba Soul 1968\-1981](https://open.spotify.com/album/6t2aQgTIcih5i58miYYbjH) | 1:55 |
 | 1006 | [Hal Hal](https://open.spotify.com/track/0NWNkaRbk13bseJzI6TkYh) | [Nazan Şoray](https://open.spotify.com/artist/0FVsp4rfVEvyJV9iB1a3Er) | [Hal Hal](https://open.spotify.com/album/117LJtXf1nBkcrDVlRWJX5) | 3:12 |
 | 1007 | [Acid](https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 5:07 |
 | 1008 | [El Condor Pasa](https://open.spotify.com/track/3xedzwiMNof2jaIkcKQBVw) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:41 |
@@ -1204,4 +1204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1194 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1195 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMGY0MzExZThjNTFhOTAzODMwNmNkYWU3MTQ3Y2I3YzBl`
+Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMGM0MTgwMGMwYzQ2MTY3MDFmMDJjMDE0MjQzNzkyOWVh`

@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Ace Hashimoto Artwork: Joy Yamusangie
 
-818 songs - 2 day 17 hr 51 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+819 songs - 2 day 17 hr 53 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,8 @@
 | [I Miss You Grandma](https://open.spotify.com/track/1MGeBG5UA1YfkujNA2QaZr) | [Maciej Gołyźniak Trio](https://open.spotify.com/artist/3a9BJ8VoSBNgrTM4PugUT2), [Łukasz Korybalski](https://open.spotify.com/artist/4zT6agpBjGURArwNNDSfOA) | [I Miss You Grandma](https://open.spotify.com/album/1hWU8gwAuIkOdDxcQ9t2fW) | 6:53 | 2022-08-03 | 2022-09-22 |
 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 | 2022-08-17 |  |
 | [I'll Be a Rose Again](https://open.spotify.com/track/2dO5L9zBDbbKtPWxHR5h69) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [I'll Be a Rose Again](https://open.spotify.com/album/0qD0Rgfpde21m45rKvIbeL) | 3:46 | 2022-10-05 |  |
-| [I'll Be Right Here](https://open.spotify.com/track/2lO6NLqhg4N8jBul1MHN1J) | [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [I'll Be Right Here](https://open.spotify.com/album/4ftMqGthafzLxSftGVmOJm) | 2:38 | 2022-09-28 |  |
+| [I'll Be Right Here](https://open.spotify.com/track/1DPqzlipKd5jEfw9XMGUOP) | [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [I'll Be Right Here](https://open.spotify.com/album/11mQSukClvnNYZQetu504H) | 2:38 | 2022-09-28 |  |
+| [I'll Be Right Here](https://open.spotify.com/track/2lO6NLqhg4N8jBul1MHN1J) | [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [I'll Be Right Here](https://open.spotify.com/album/4ftMqGthafzLxSftGVmOJm) | 2:38 | 2022-09-28 | 2022-10-17 |
 | [I'll Remember](https://open.spotify.com/track/3YQ5MlnsGou01b57RZZrFj) | [Eriksson Kaner](https://open.spotify.com/artist/1DVk8gpsMn5Tc3ugRJHkch), [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [I'll Remember](https://open.spotify.com/album/4YybIyOAHBdYXtCgJBcQ04) | 3:21 | 2022-07-20 | 2022-09-01 |
 | [I'll Tell You How the Sun Rose](https://open.spotify.com/track/27ToM7fr5RK3w8HTEiIYZe) | [Emily Jane Roberts](https://open.spotify.com/artist/0oU7rg56Cbw8yGVfFToXbu) | [I'll Tell You How the Sun Rose](https://open.spotify.com/album/2YdfvH7zmD5KEsMfUfQHU2) | 3:04 | 2022-05-18 | 2022-06-16 |
 | [I'm So Into You](https://open.spotify.com/track/1iNq0Uxm0FGaIRkaIqkCRS) | [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U) | [I'm So Into You](https://open.spotify.com/album/0FX1hF6URZr7JAtXZDHx6d) | 4:43 | 2022-07-20 | 2022-09-01 |

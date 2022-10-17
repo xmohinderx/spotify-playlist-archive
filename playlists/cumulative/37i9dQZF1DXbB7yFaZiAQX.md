@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-398 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+399 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 | 2018-12-12 | 2022-07-29 |
 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 | 2018-12-12 |  |
 | [A Girl Called Johnny \- 2002 Remaster](https://open.spotify.com/track/2EF94Cbk5QW28tY95e1DtW) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Waterboys](https://open.spotify.com/album/6eXEKcDRtCxrpv0V8RbXga) | 3:57 | 2019-08-02 | 2022-07-29 |
+| [A Girl Called Johnny \- 2002 Remaster](https://open.spotify.com/track/33Las8EVYfUYccKAudyXjW) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Waterboys](https://open.spotify.com/album/1UKEPewUNpzKxEAPD9TQ8D) | 3:57 | 2019-08-02 |  |
 | [A Question of Lust](https://open.spotify.com/track/3eN5LFnqtfPAR7Jr8i2QuE) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Black Celebration \(Deluxe\)](https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh) | 4:23 | 2022-05-27 | 2022-07-23 |
 | [Absolute](https://open.spotify.com/track/6MdHzOQC9kZPk5n1WZFAqk) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Absolute](https://open.spotify.com/album/3vT8KeOCTzceJbGBFO7KUE) | 4:24 | 2019-08-02 | 2022-04-19 |
 | [Adolescent Sex](https://open.spotify.com/track/3ZnZ4m1ee47HSnFDDOcrF6) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Assemblage](https://open.spotify.com/album/0dAsUU19ezkLw7ZUMgdfc3) | 4:13 | 2019-08-02 | 2022-04-21 |
@@ -356,7 +357,7 @@
 | [Troy](https://open.spotify.com/track/6m3kJ6d7Ypd1eoBoGP2qZN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 6:31 | 2021-07-27 | 2022-07-20 |
 | [True Faith \- 2015 Remaster](https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:12 | 2019-08-02 |  |
 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 | 2018-12-12 | 2022-04-20 |
-| [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2018-12-12 |  |
+| [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2018-12-12 | 2022-10-17 |
 | [Turning Japanese \- Non Stop Edit](https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr) | [The Vapors](https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2) | [New Clear Days](https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA) | 3:44 | 2019-08-07 |  |
 | [Tv Treated](https://open.spotify.com/track/2ovclAhfM1T6ulu3CNDQ8J) | [The Neon Judgement](https://open.spotify.com/artist/6mB1JVYIIk1NuBNBXcwrbk) | [1981\-1984](https://open.spotify.com/album/1AD5iuEEGePZR4YQJ0Wf2t) | 6:31 | 2019-08-07 | 2022-04-21 |
 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 | 2018-12-12 |  |

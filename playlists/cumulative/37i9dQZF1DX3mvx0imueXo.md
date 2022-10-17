@@ -4,7 +4,7 @@
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-68 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2blojqbK7VuiIRbFqTGQVl)
+69 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/2blojqbK7VuiIRbFqTGQVl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Babylon Fallin](https://open.spotify.com/track/2FL8K44Q8e2ICbK3W9NoEo) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [One Time Music](https://open.spotify.com/artist/33me5od0CPHlQtuzgHkF7h) | [Babylon Fallin](https://open.spotify.com/album/1toCcJIyEHFFRYFPxuUOJc) | 3:00 | 2021-02-24 |  |
 | [Bubble](https://open.spotify.com/track/2kksFG87MypmLRTw8laNY9) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH) | 3:20 | 2021-02-24 |  |
 | [Can't Fly](https://open.spotify.com/track/6dJDyj82DiD1RHM8qpaZnd) | [Patrick](https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Can't Fly](https://open.spotify.com/album/3ODsABe0udW2weoQkrrEnE) | 2:49 | 2021-02-24 |  |
-| [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 | 2021-02-24 |  |
+| [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 | 2021-02-24 | 2022-10-17 |
 | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/track/68Hl1nI7Ico8cgwkBtA9Fg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/album/6q8ljQkUDzmBIrEqqXIB8m) | 3:33 | 2021-02-24 |  |
 | [Country For Sale](https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Country For Sale](https://open.spotify.com/album/3XuNfGRXqZu5Io2clP5RUd) | 4:00 | 2021-02-24 | 2022-10-14 |
 | [Cry Cry Blood](https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Cry Cry Blood](https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC) | 3:49 | 2021-02-24 |  |
@@ -37,6 +37,7 @@
 | [King Tubby's](https://open.spotify.com/track/2gkLKPNT5YO4O8K0JJwVf6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [King Tubby's](https://open.spotify.com/album/23ZnXnDhsyrNoKO9R8MLyw) | 3:58 | 2022-09-23 |  |
 | [La famille](https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [La famille](https://open.spotify.com/album/0BJBR7bKD0h5vRTX6nE1Jd) | 3:41 | 2021-02-24 |  |
 | [Let Me Down](https://open.spotify.com/track/7FomypRpFKzSIBOX338U4P) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [All Eyes On U](https://open.spotify.com/album/2umS0zGMtYWdzitt9wwqqg) | 2:28 | 2021-02-24 |  |
+| [Life Is Everything](https://open.spotify.com/track/6iCfgbzPaftZ61hybTBVWJ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Answele](https://open.spotify.com/artist/4BNLKMUYLjGRqScTT38xvA) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:33 | 2022-10-13 |  |
 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 | 2021-02-24 |  |
 | [Look Deep](https://open.spotify.com/track/2kfNmluPa17SRaKtjFpQ2x) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Look Deep](https://open.spotify.com/album/4k5gEubeYKoHDOyVjxn8ex) | 2:57 | 2021-02-24 |  |
 | [Lots Of Sign](https://open.spotify.com/track/4RNgiFBdRT9e8NRLoNdlwu) | [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Lots Of Sign](https://open.spotify.com/album/6svqHHx9tpGobba8ZBlxR4) | 3:47 | 2021-02-24 |  |

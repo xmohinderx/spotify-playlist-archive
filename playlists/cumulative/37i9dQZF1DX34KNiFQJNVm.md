@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem MC Kevin o Chris, Matheus & Kauan com Jorge & Mateus, Djonga, Veigh e mais!
 
-3,640 songs - 7 day 20 hr 1 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+3,641 songs - 7 day 20 hr 4 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,7 +499,8 @@
 | [Cachorrinho \(feat\. Tierry\) \- Ao Vivo](https://open.spotify.com/track/3BIGpB62JGRBnVh67EQxjQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Cachorrinho \(feat\. Tierry\) \[Ao Vivo\]](https://open.spotify.com/album/4jBxDr5Chj0Q6JFLOWLVJe) | 3:55 | 2022-01-14 | 2022-01-22 |
 | [Cachorrona](https://open.spotify.com/track/3ariA2tDut4LI2yFJpOjqc) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Cachorrona](https://open.spotify.com/album/77yN8Q9lsiGUlFwMlR6zhl) | 2:25 | 2022-02-25 | 2022-03-05 |
 | [Cachorrão](https://open.spotify.com/track/6UQsRzlqW7PMO6CwFhhQRs) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [Thammy](https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0) | [Cachorrão](https://open.spotify.com/album/5xE6VmVJ8addCwNPKCmgEz) | 2:47 | 2022-09-16 | 2022-09-24 |
-| [Cadarço \- Ao Vivo](https://open.spotify.com/track/44VcWqdjxsh6z3t04gE9Fs) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Cadarço \(Ao Vivo\)](https://open.spotify.com/album/7zrnt7lTmZe3PlGPhXQ5Ql) | 3:19 | 2022-10-14 |  |
+| [Cadarço \- Ao Vivo](https://open.spotify.com/track/327EY7CGXMKHpMOPHDxdlY) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 3](https://open.spotify.com/album/2FpMBQTeTBtH0EKEth4bTg) | 3:19 | 2022-10-14 |  |
+| [Cadarço \- Ao Vivo](https://open.spotify.com/track/44VcWqdjxsh6z3t04gE9Fs) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Cadarço \(Ao Vivo\)](https://open.spotify.com/album/7zrnt7lTmZe3PlGPhXQ5Ql) | 3:19 | 2022-10-14 | 2022-10-17 |
 | [Cadê o Loló?](https://open.spotify.com/track/71ix23noeVGZHPcQ3j5Egn) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY), [Bárbara Labres](https://open.spotify.com/artist/0trHMgCbRohjsr2uzM6scS) | [Cadê o Loló?](https://open.spotify.com/album/2gBydIQh0hwIgQYNtResKb) | 2:12 | 2022-03-18 | 2022-03-26 |
 | [Cadê Você](https://open.spotify.com/track/2AetRP6CvIuYDGB1hOyOyY) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Cadê Você](https://open.spotify.com/album/2WfDm5tqsrSVe0h82I7TpP) | 2:32 | 2022-03-18 | 2022-03-26 |
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2022-07-08 | 2022-07-16 |

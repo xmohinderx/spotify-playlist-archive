@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2263,
+  "num_followers": 2268,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMGIyMDE0M2E5MWU0Y2YxOWEyN2Q2YmY0NTZkMjA4OWY1",
+  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDMwMmRhZGZjYWJjYjkwMjM4NTdiYzM2ZWYxZjU3MTBj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "SKANDALOUZ",
-        "url": "https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn"
-      },
-      "artists": [
-        {
-          "name": "Los",
-          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Smile Now Cry Later",
-      "url": "https://open.spotify.com/track/3PXbhVma3mPrhkysAichZi"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 216428,
       "name": "SUPERNOVA (Feat. CHANGMO, GSoul & DUT2)",
       "url": "https://open.spotify.com/track/0qaKZzxxFzRGnbvGmfcs5S"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "SKANDALOUZ",
+        "url": "https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Smile Now Cry Later",
+      "url": "https://open.spotify.com/track/3PXbhVma3mPrhkysAichZi"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 186644,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+      "duration_ms": 161191,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1463,18 +1459,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 161191,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1491,6 +1491,26 @@
       "duration_ms": 242022,
       "name": "Story of someone I know",
       "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
+      "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1523,26 +1543,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
-      "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -1555,26 +1555,6 @@
       "duration_ms": 240773,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "BLAZE",
-        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
-      },
-      "artists": [
-        {
-          "name": "DO HAN SE",
-          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
-        },
-        {
-          "name": "BIGONE",
-          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
-        }
-      ],
-      "duration_ms": 131493,
-      "name": "SLASH (Feat. BIGONE)",
-      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1599,6 +1579,26 @@
       "duration_ms": 218333,
       "name": "RAPSTAR - Remix",
       "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "BLAZE",
+        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
+      },
+      "artists": [
+        {
+          "name": "DO HAN SE",
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "duration_ms": 131493,
+      "name": "SLASH (Feat. BIGONE)",
+      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "P.O.E.M. II",
+        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 256071,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "P.O.E.M. II",
-        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1855,22 +1855,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG"
+        "name": "changes",
+        "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
       },
       "artists": [
         {
-          "name": "A-chess",
-          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
         },
         {
-          "name": "KOONTA",
-          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Going Home (feat. Koonta)",
-      "url": "https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq"
+      "duration_ms": 249875,
+      "name": "changes (feat. Loopy)",
+      "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1891,22 +1891,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "changes",
-        "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG"
       },
       "artists": [
         {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+          "name": "A-chess",
+          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
         },
         {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
         }
       ],
-      "duration_ms": 249875,
-      "name": "changes (feat. Loopy)",
-      "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
+      "duration_ms": 197573,
+      "name": "Going Home (feat. Koonta)",
+      "url": "https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq"
     },
     {
       "added_at": "2022-10-07 04:35:55",

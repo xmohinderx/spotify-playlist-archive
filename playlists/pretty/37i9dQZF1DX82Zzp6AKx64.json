@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Meat Loaf\n",
-  "num_followers": 1066680,
+  "num_followers": 1066914,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMGNlMzdlODJiY2UwOTYyYTk3MTI5NmIzODU3ODA5MWMx",
+  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMGYwYjA1Mzk5MmExYjI1NzZkNzZlMzUyNmFmNzE3MDE3",
   "tracks": [
     {
       "added_at": "2022-09-12 19:16:23",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Wild World - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Bad English",
-        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
       "artists": [
         {
-          "name": "Bad English",
-          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 257440,
-      "name": "When I See You Smile",
-      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
+      "duration_ms": 208560,
+      "name": "Wild World - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -583,6 +567,22 @@
       "duration_ms": 387000,
       "name": "Still Loving You",
       "url": "https://open.spotify.com/track/7kjsCbksOZotNNHOvKsJJh"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Bad English",
+        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+      },
+      "artists": [
+        {
+          "name": "Bad English",
+          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "When I See You Smile",
+      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Wake Me When It's Over",
-        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
+        "name": "Sheriff",
+        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
       },
       "artists": [
         {
-          "name": "Faster Pussycat",
-          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
+          "name": "Sheriff",
+          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
         }
       ],
-      "duration_ms": 344613,
-      "name": "House of Pain",
-      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
+      "duration_ms": 238040,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Wake Me When It's Over",
+        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
+      },
+      "artists": [
+        {
+          "name": "Faster Pussycat",
+          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
+        }
+      ],
+      "duration_ms": 344613,
+      "name": "House of Pain",
+      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 252866,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Sheriff",
-        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
-      },
-      "artists": [
-        {
-          "name": "Sheriff",
-          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
     },
     {
       "added_at": "2022-09-12 19:16:23",

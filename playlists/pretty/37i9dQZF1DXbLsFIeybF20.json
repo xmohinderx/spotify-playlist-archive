@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 139151,
+  "num_followers": 139172,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGMxZDk5ODA4MzU3N2JkNTVhNzdjN2FhMTU0ZTBjYWJh",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDJmZjk0YjFhMDk0MWIxMzliMjk3MDVmMmM5ZjIwZjhh",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Drop Me Off In Harlem",
         "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 163533,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Take It To The Street",
         "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
       },
@@ -399,26 +415,6 @@
       "duration_ms": 259533,
       "name": "Take It To The Street",
       "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Presenting Johnny Dodds",
-        "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Dodds",
-          "url": "https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp"
-        },
-        {
-          "name": "Jimmy Blythe",
-          "url": "https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "I'm Goin' Huntin'",
-      "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -439,18 +435,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+        "name": "Presenting Johnny Dodds",
+        "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
       },
       "artists": [
         {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+          "name": "Johnny Dodds",
+          "url": "https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp"
+        },
+        {
+          "name": "Jimmy Blythe",
+          "url": "https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C"
         }
       ],
-      "duration_ms": 175600,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
+      "duration_ms": 179600,
+      "name": "I'm Goin' Huntin'",
+      "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
-        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
-      },
-      "artists": [
-        {
-          "name": "Leroy Jones",
-          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Lord, Lord, Lord",
-      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Ultimate Mardi Gras",
         "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
       },
@@ -635,22 +619,34 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Sounds Of New Orleans",
-        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
+        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
+        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
       },
       "artists": [
         {
-          "name": "Albert Burbank",
-          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
-        },
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
         }
       ],
-      "duration_ms": 151453,
-      "name": "Bill Bailey",
-      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
+      "duration_ms": 145841,
+      "name": "Lord, Lord, Lord",
+      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Atlantic Jazz: New Orleans",
+        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Shreveport Stomp",
+      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -671,18 +667,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Atlantic Jazz: New Orleans",
-        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
+        "name": "Sounds Of New Orleans",
+        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
       "artists": [
         {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+          "name": "Albert Burbank",
+          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
+        },
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 180933,
-      "name": "Shreveport Stomp",
-      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
+      "duration_ms": 151453,
+      "name": "Bill Bailey",
+      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
+      },
+      "artists": [
+        {
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
+        }
+      ],
+      "duration_ms": 385040,
+      "name": "I Gotta Woman - Bonus Track",
+      "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Back to My Roots",
         "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 168440,
       "name": "Don't You Think I Love You",
       "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Here Come da Great Olympia Band",
-        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
-      },
-      "artists": [
-        {
-          "name": "Dejan's Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
-        }
-      ],
-      "duration_ms": 385040,
-      "name": "I Gotta Woman - Bonus Track",
-      "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
+      },
+      "artists": [
+        {
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
+        }
+      ],
+      "duration_ms": 49333,
+      "name": "Everything's Lovely",
+      "url": "https://open.spotify.com/track/38CCKfmrlEEs95wFhEVSWy"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "The Best of Dixieland",
         "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
       },
@@ -859,38 +875,6 @@
       "duration_ms": 156003,
       "name": "Tiger Rag 3",
       "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Two Clarinets on the Porch",
-        "url": "https://open.spotify.com/album/5JCa8sHMS5xgVNrXaMRVTE"
-      },
-      "artists": [
-        {
-          "name": "Willie Humphrey",
-          "url": "https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT"
-        },
-        {
-          "name": "Brian O'Connell",
-          "url": "https://open.spotify.com/artist/5wt1TGwGYlTiTMs7MiIZ9u"
-        },
-        {
-          "name": "Les Muscutt",
-          "url": "https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7"
-        },
-        {
-          "name": "Frank Fields",
-          "url": "https://open.spotify.com/artist/1SJJ0uLObOdsO8AKkWqBrW"
-        },
-        {
-          "name": "Ernie Elly",
-          "url": "https://open.spotify.com/artist/55C95qwaJr1WvCRkFriDQ7"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Rosetta",
-      "url": "https://open.spotify.com/track/1F6G1ewad31utaep702loo"
     }
   ],
   "unique_name": "New Orleans Brass",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,641 likes - 48 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,745 likes - 48 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 7 | [Me Quedo Contigo](https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Amor Bonito](https://open.spotify.com/album/03qKkg0zLrtuOkRJD6MfNI) | 3:23 |
 | 8 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/5RYSQDIq0ZPGc03ZnUut57) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 5:07 |
 | 9 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
-| 10 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
-| 11 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
+| 10 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
+| 11 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
 | 12 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
 | 13 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
 | 14 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
 | 48 | [La Tremenda](https://open.spotify.com/track/6voqBz6blDvN1c29vadprU) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Ya No Hace Falta](https://open.spotify.com/album/00ZrOIn5bIxbiicATeWcXL) | 5:25 |
 
-Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMDkzMzNhMDRhZWRmZTljMDRmOGE1NjE1ZmNmMjliNDUx`
+Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMDcxYjlhZmYzOTM1ZDgzMThjZWVhOGFjNGUzMmFhNjgy`

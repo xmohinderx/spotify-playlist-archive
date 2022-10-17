@@ -4,7 +4,7 @@
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/153GK6uVRuhJewKLGkWHlb)
+63 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/153GK6uVRuhJewKLGkWHlb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Buckets of Rain](https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 3:23 | 2022-09-24 |  |
 | [Changing of the Guards](https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Street\-Legal](https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U) | 6:37 | 2022-09-24 |  |
 | [Desolation Row](https://open.spotify.com/track/4n1ZGm3TxYmoYe1YR8cMus) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 11:21 | 2022-09-24 | 2022-10-13 |
-| [Don't Think Twice, It's All Right](https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 3:37 | 2022-09-24 | 2022-10-16 |
+| [Don't Think Twice, It's All Right](https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 3:37 | 2022-09-24 |  |
 | [Every Grain of Sand](https://open.spotify.com/track/6MfOFYmw1TD9QDFSu0TEN1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shot Of Love](https://open.spotify.com/album/14cScWsd0lPdSlNFfr9AmA) | 6:11 | 2022-09-24 | 2022-10-13 |
 | [False Prophet](https://open.spotify.com/track/0JBFlDivbkrskU7oYnjdIU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 6:00 | 2022-09-30 |  |
 | [Forever Young \(feat\. Bob Dylan\) \- Concert Version](https://open.spotify.com/track/5S6wwhjhS8jt68st9x7D3R) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 5:51 | 2022-09-28 | 2022-10-13 |
@@ -26,6 +26,7 @@
 | [From a Buick 6](https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 3:15 | 2022-09-24 | 2022-10-13 |
 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 | 2022-09-24 |  |
 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-09-29 |  |
+| [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 | 2022-10-16 |  |
 | [House of the Risin' Sun](https://open.spotify.com/track/3yFRbFaSj8MeNuYaN21HIu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 5:18 | 2022-09-27 | 2022-10-03 |
 | [Hurricane](https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 8:32 | 2022-09-24 |  |
 | [I Contain Multitudes](https://open.spotify.com/track/5AJT2Tk8mnDEnCtsikWVu2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:36 | 2022-10-12 |  |
@@ -36,7 +37,7 @@
 | [If You See Her, Say Hello](https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:48 | 2022-09-24 |  |
 | [Isis](https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 6:58 | 2022-09-24 |  |
 | [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:34 | 2022-09-24 |  |
-| [It's All over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:12 | 2022-09-24 |  |
+| [It's All over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:12 | 2022-09-24 | 2022-10-17 |
 | [It's Alright, Ma \(I'm Only Bleeding\)](https://open.spotify.com/track/5Oer8yskMaCGXwGSfM7xr9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 7:29 | 2022-09-24 |  |
 | [Jokerman](https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Infidels](https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy) | 6:16 | 2022-09-24 |  |
 | [Just Like a Woman](https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:50 | 2022-09-24 |  |
@@ -54,7 +55,7 @@
 | [One More Cup of Coffee](https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 3:44 | 2022-09-24 |  |
 | [One of Us Must Know \(Sooner or Later\)](https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:52 | 2022-09-25 | 2022-10-12 |
 | [Positively 4th Street \- Single Version](https://open.spotify.com/track/4heMx0OAwfILu13Lf0VbBM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Essential Bob Dylan](https://open.spotify.com/album/1y3abw64BlSEeFuuhjlke1) | 4:07 | 2022-09-24 |  |
-| [Queen Jane Approximately](https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:27 | 2022-09-24 |  |
+| [Queen Jane Approximately](https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:27 | 2022-09-24 | 2022-10-17 |
 | [Rainy Day Women \#12 & 35](https://open.spotify.com/track/7BkAlVpGwXXl3sYNn5OoJ7) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:34 | 2022-09-24 | 2022-10-14 |
 | [Romance in Durango](https://open.spotify.com/track/1OT1G66Lt9EpKFWkwK8i9z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:44 | 2022-09-24 | 2022-10-13 |
 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 | 2022-09-24 |  |

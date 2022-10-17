@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Ace Hashimoto Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,773 likes - 81 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,829 likes - 81 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 23 | [Krustikal](https://open.spotify.com/track/4KjlYiV0jIi3T0YCCFQChD) | [Triorität](https://open.spotify.com/artist/4Q9lS5h0MBIJGE5SqXoj2C) | [Krustikal](https://open.spotify.com/album/1mpin6DMO0L2NMx49vQkKJ) | 3:31 |
 | 24 | [What If](https://open.spotify.com/track/5Zmiqr7aXEghkWp3wa7iok) | [Naima Joris](https://open.spotify.com/artist/3eSHHprsyLcEwQUYwAAWmw) | [What If](https://open.spotify.com/album/70QXq4AyRHATXulbaViA7x) | 3:49 |
 | 25 | [Coast](https://open.spotify.com/track/6L7NKltDxwGuZ8jXLuXr0T) | [BTTRFLY Quintet](https://open.spotify.com/artist/27AOEQA5ihpeEmlP1eDSG2), [Dominic Lalli](https://open.spotify.com/artist/26yPd9oAkQluW2jHUQn356), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Eric Benny Bloom](https://open.spotify.com/artist/5iaAaY9BB6p5HFHdE8G0Ao), [Borahm Lee](https://open.spotify.com/artist/0aBptzDEaDUzllpTxtqyip), [Hunter Roberts](https://open.spotify.com/artist/1SaECNvZYrwxBvBpcCvbaa) | [Coast](https://open.spotify.com/album/0NrVJjISGkZhn0i7tGML0P) | 5:21 |
-| 26 | [I'll Be Right Here](https://open.spotify.com/track/2lO6NLqhg4N8jBul1MHN1J) | [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [I'll Be Right Here](https://open.spotify.com/album/4ftMqGthafzLxSftGVmOJm) | 2:38 |
+| 26 | [I'll Be Right Here](https://open.spotify.com/track/1DPqzlipKd5jEfw9XMGUOP) | [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [I'll Be Right Here](https://open.spotify.com/album/11mQSukClvnNYZQetu504H) | 2:38 |
 | 27 | [UP](https://open.spotify.com/track/2ticPGc84iw4EgXcS8YOBj) | [Flavio C.](https://open.spotify.com/artist/5BR0rWPMHRk4R1oa04wVuN) | [UP](https://open.spotify.com/album/7IY8Zve7Kj5nKB9E0gETrG) | 2:52 |
 | 28 | [Burden](https://open.spotify.com/track/5xB8B2YnZE6VxIxYsKP1JI) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku) | [Burden](https://open.spotify.com/album/1OW1kH99X96vLWQlzI0Osi) | 7:19 |
 | 29 | [Powerful Lady](https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [Powerful Lady](https://open.spotify.com/album/5ij9621I1TcRmDvA89336G) | 4:20 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 80 | [Rush](https://open.spotify.com/track/5sD62sGY6Tq4Ll0ZsYdpgw) | [Franziska Loos](https://open.spotify.com/artist/2kRdxixo3sYS0W1MMxacCt) | [Rush](https://open.spotify.com/album/3yPPNNzWggiRLVigWDszhp) | 7:10 |
 | 81 | [Silhouettes](https://open.spotify.com/track/6WsJQKZ8ac2offKUVR33ji) | [Dougie Stu](https://open.spotify.com/artist/31rKKCEt98VDAxC4nxNHY1) | [Silhouettes](https://open.spotify.com/album/5fVHwE49tInDvD7G6vlJvg) | 4:18 |
 
-Snapshot ID: `MTY2NTU4MDY2NCwwMDAwMDAwMDRmZTVlYzcyOGIyZmYyNTk3NzM1YzBiM2E2YzM4ZGNm`
+Snapshot ID: `MTY2NTU4MDY2NCwwMDAwMDAwMGUyMTkxNzM3OWQwM2IxYzc3ODQzN2UyNDQ2OTM3YTc0`

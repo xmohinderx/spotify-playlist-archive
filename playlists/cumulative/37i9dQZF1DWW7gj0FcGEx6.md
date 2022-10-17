@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-183 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+184 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [J'ai perdu mon corps](https://open.spotify.com/track/5JtAPiIDccjGa7WSqsc7Iv) | [Dan Levy](https://open.spotify.com/artist/5ubdjQN4F9Xe6jPIVqrce1) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pS4WR8U0b2NFt2T1HBIZ4) | 2:44 | 2021-12-20 | 2022-07-09 |
 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 | 2021-12-20 |  |
 | [Justin’s Theme](https://open.spotify.com/track/0rUBl0Fu9Dkzv7taNrFTqa) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [The Man Who Fell to Earth: Themes and Sketches \(Original Series Soundtrack\)](https://open.spotify.com/album/4beVfwojO8N54K78hNmAtS) | 2:51 | 2022-06-10 |  |
-| [Khazad\-dûm](https://open.spotify.com/track/1eF4PXrF3P1y7G5NghaiIB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4zZuch6tto3R0TMzcAn0oc) | 3:20 | 2022-10-07 |  |
+| [Khazad\-dûm](https://open.spotify.com/track/1eF4PXrF3P1y7G5NghaiIB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4zZuch6tto3R0TMzcAn0oc) | 3:20 | 2022-10-07 | 2022-10-17 |
+| [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 | 2022-10-07 |  |
 | [King's Dream](https://open.spotify.com/track/1Xn1yrAbRRs9AhDYcdjFsO) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Lisey's Story \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/11CiJmVVoKOs6ERfvGPV5C) | 1:36 | 2021-12-20 |  |
 | [Kua](https://open.spotify.com/track/6KR64uO0j7ucTVNqmqfsZC) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Finding ‘Ohana \(Music from the Netflix Film\)](https://open.spotify.com/album/7cOPcga6J1sN9IOvQEiZ83) | 3:32 | 2021-12-20 | 2022-07-09 |
 | [La Familia Vega](https://open.spotify.com/track/3A1EjAr98NjIwYQcIqE2ef) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Penny Dreadful: City of Angels \(Original Score\)](https://open.spotify.com/album/4R8nHfbIBKm2KuXJiZm7pn) | 3:25 | 2021-12-20 | 2022-07-09 |

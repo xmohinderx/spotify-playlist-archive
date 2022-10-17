@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,457 likes - 105 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,468 likes - 105 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 2 | [Don’t Lie \(feat\. Nemzzz\)](https://open.spotify.com/track/6tgfPk01WoB2cK78rDEq2m) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Don’t Lie \(feat\. Nemzzz\)](https://open.spotify.com/album/7bzUwFGHev9gNvoFaQVXYa) | 2:18 |
 | 3 | [One Day \(I'm Gonna Break Your Heart\)](https://open.spotify.com/track/3EYrbFn9oDfMiM6VPKzsHg) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [One Day \(I'm Gonna Break Your Heart\)](https://open.spotify.com/album/6FtV1tSJHSm3VUmHezTNHQ) | 2:28 |
 | 4 | [The Dream](https://open.spotify.com/track/24FqW9tHOKXwDuv2FmScoS) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [The Dream](https://open.spotify.com/album/14b7GHE5pXji0cR27MR9NA) | 3:26 |
-| 5 | [Sunday Night](https://open.spotify.com/track/6hBiDF5wEVqEY1v1AFcs5o) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/5u6YdrD5sX0yXSRxc4y6H2) | 2:30 |
+| 5 | [Sunday Night](https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH) | 2:30 |
 | 6 | [0Uhr26](https://open.spotify.com/track/1pPG60ifB0mxK3hVjQQ1dn) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [0Uhr26](https://open.spotify.com/album/6CWSgEwcyj0qJbxyaUSePa) | 2:24 |
 | 7 | [Carolina](https://open.spotify.com/track/22IP2WKjuGYQ19JAz5GpAv) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [REDVOLUTION](https://open.spotify.com/artist/4hzO4p4VzL72ZFXF0YFYBn) | [Carolina](https://open.spotify.com/album/4VsXxNxkWjYV6nlPPt6A64) | 3:15 |
 | 8 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 104 | [Vroom Vroom](https://open.spotify.com/track/5eGdLgiWcTWCL0n3saJCrW) | [Aysar](https://open.spotify.com/artist/1NwgjGe4PKnpX1lSV2d2Vo) | [Vroom Vroom](https://open.spotify.com/album/3ROumfvwZCJVwOnrI70i4O) | 2:12 |
 | 105 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
 
-Snapshot ID: `MTY2NTc3MTM5OSwwMDAwMDAwMDI0NmFkZTUxZWZmMzU0NjA4YzBhYTBmOGIwNDQyNzY5`
+Snapshot ID: `MTY2NTc3MTM5OSwwMDAwMDAwMDcxNDNjYWU4MTRkNjJjNWRmNWQ3OWI4NmQyZGY3ZThi`

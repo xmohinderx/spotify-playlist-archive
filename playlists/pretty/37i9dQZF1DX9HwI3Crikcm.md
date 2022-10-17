@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,875 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,957 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 31 | [Belfast](https://open.spotify.com/track/0VqM9XNkPtRRNNCD09QDg7) | [Brian Finnegan](https://open.spotify.com/artist/20fwGjw7IpBUMzxjb3gvET) | [The Ravishing Genius of Bones](https://open.spotify.com/album/5FuSpSOXCFheIcXtCOtH2t) | 5:03 |
 | 32 | [Dolan's 6AM](https://open.spotify.com/track/2gHH4oSsdrli2lo0aeSkMW) | [Beoga](https://open.spotify.com/artist/659fOqEHzm3jL8AeWuOwXO) | [How to Tune a Fish](https://open.spotify.com/album/434qaX0gq8wBHp1PaQiJJf) | 3:35 |
 | 33 | [Dot the Dragon's Eyes](https://open.spotify.com/track/5wdyCgTrwctSgjLhwdUWnK) | [Hanneke Cassel](https://open.spotify.com/artist/7b1EPAPT0r2pf6Qxp7A8DU) | [Dot the Dragon's Eyes](https://open.spotify.com/album/6boaBUAF6rXnLKo7tdw4SG) | 3:49 |
-| 34 | [Coolderry Bridge / The Whistling Postman / The Mills Are Grinding](https://open.spotify.com/track/5Id7Tp8vsvfLDFoUMVjyrn) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [The Fiddle Case](https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl) | 4:26 |
+| 34 | [Coolderry Bridge / The Whistling Postman / The Mills Are Grinding](https://open.spotify.com/track/24RqbvGYiplXwg79ldjied) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [The Fiddle Case](https://open.spotify.com/album/4CxYrGwYjQOPfIoeiU9dQ3) | 4:26 |
 | 35 | [Lady Montgomery: Lady Montgomery / Mutts Favourite / Up Da Stroods Da Sailor Goes](https://open.spotify.com/track/4c3SxYBZhankLRE0Z5GJwQ) | [Session A9](https://open.spotify.com/artist/4Ct4nuuRWcidF89g3fihxa) | [Live at Celtic Connections](https://open.spotify.com/album/0QJNK2vCzSjCjzRWrciTH7) | 4:18 |
 | 36 | [My Love Is In America](https://open.spotify.com/track/6AIa3GdTUb2TsCj5SuGnS7) | [Martin Hayes & Dennis Cahill](https://open.spotify.com/artist/1IQBZU3rKOAaZaI9b3tFto) | [The Lonesome Touch](https://open.spotify.com/album/608ZQ0B9bYpnfIMmgbIN7w) | 3:39 |
 | 37 | [Echo](https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Abyss](https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf) | 4:55 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDFmYTFlYjU4YTc2MWZmZjk0OTE5Njg4MzE2OTU0MjNl`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDYzM2I3ZWY4MmFjZGI2Y2EzOWQ2MTM2MDhjMzJmNzRl`

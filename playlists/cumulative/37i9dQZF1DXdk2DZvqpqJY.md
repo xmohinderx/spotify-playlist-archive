@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-216 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+217 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Distorting Time](https://open.spotify.com/track/1HQkR5RjeReEW57NpCwQf3) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o) | [Go](https://open.spotify.com/album/0wfJlgrbgafX1cWRgAYIHO) | 4:50 | 2022-02-17 | 2022-04-23 |
 | [Dreams](https://open.spotify.com/track/5AjqLBpXtIzR1xE2DWljnC) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Morgan Burrs](https://open.spotify.com/artist/6VnotTNnq01QuFIPjL81gW) | [Reflections](https://open.spotify.com/album/63vYZUCuZYZhXQrxaztR0M) | 2:55 | 2022-06-02 |  |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2022-02-17 | 2022-06-03 |
-| [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2022-06-02 |  |
+| [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2022-06-02 | 2022-10-17 |
 | [El Neo Songo](https://open.spotify.com/track/66sBJ6wPujSHWh4ce0F00s) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [El Neo Songo](https://open.spotify.com/album/0s2ZyzyDljq9WXdwo1IgUR) | 3:07 | 2022-02-17 |  |
 | [EL\-JO](https://open.spotify.com/track/4aL0EnsQkY3DvzJ2ZjRIr5) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [EL\-JO](https://open.spotify.com/album/32Bv56MOZIWuknJR8mOIhA) | 3:53 | 2022-02-17 | 2022-02-22 |
 | [Electric Eclectic](https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE) | [Moralify](https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV) | [Electric Eclectic](https://open.spotify.com/album/6dZKFcUf0qHvfTERa5i7ZF) | 3:46 | 2022-03-03 | 2022-06-03 |
@@ -137,6 +137,7 @@
 | [Orbit](https://open.spotify.com/track/2NdXhY5crEGXaMip9d1t9h) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/6Ytfboldn9yARBARdAxENg) | 4:10 | 2022-04-28 | 2022-07-29 |
 | [out and about with my love at the weekend](https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z) | [Akassia](https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5), [Samuel Williams](https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv) | [out and about with my love at the weekend](https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd) | 2:19 | 2022-03-17 |  |
 | [Outro](https://open.spotify.com/track/4blnfSoZ2eYxzkvafHAG9e) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl), [Fernando Moreno](https://open.spotify.com/artist/56IVhkzxUrZKf0VJJ7B8vp) | [Hope](https://open.spotify.com/album/3de8puitnJdwLisWEsQmrl) | 1:54 | 2022-08-31 |  |
+| [Over Tage](https://open.spotify.com/track/1OcKMrci733W0OxcYrLIRL) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Over Tage](https://open.spotify.com/album/5K5enXsVa9ayHSKb9VTM8i) | 4:45 | 2022-10-13 |  |
 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 | 2022-02-17 | 2022-04-28 |
 | [P64 By My Side](https://open.spotify.com/track/2Fv3OV4gjNh5EhCJH8gbrO) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [P64 By My Side](https://open.spotify.com/album/7wMUCUUAuP9EY4QaeRNqBI) | 4:11 | 2022-02-17 | 2022-04-29 |
 | [Pan’s Dance](https://open.spotify.com/track/16s2buIEfxT0y8X4yMbebk) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Dance Ancestral](https://open.spotify.com/album/20BoLUZgIPSXtK4m5jE64n) | 4:34 | 2022-04-07 | 2022-06-03 |

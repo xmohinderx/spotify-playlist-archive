@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 473807,
+  "num_followers": 474430,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzNTY3MiwwMDAwMDAwMGU5MDFiMzQ5YzZlMmExMWZhOTY5OTkzZjQwZGEwMzZm",
+  "snapshot_id": "MTY2NTAzNTY3MiwwMDAwMDAwMDRmMDcxMTdlNDgzMTlhYzNjNGVkMzYyYTMzZTdmYjdk",
   "tracks": [
     {
       "added_at": "2022-10-06 05:54:32",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-06 05:54:32",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2022-10-06 05:54:32",
-      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "added_at": "2022-10-06 05:54:32",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2022-10-06 05:54:32",

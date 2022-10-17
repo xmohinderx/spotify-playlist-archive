@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 66628,
+  "num_followers": 66733,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGJlOGRmZjJmM2U2NzFlYzJlYjc0YmI4ZGZiYWZhMTVm",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDczZjA2YzNhYmVhY2ExOTE5MTg3MmJmZDA3NThmOTgy",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -239,18 +239,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+        "name": "Blues In The Closet",
+        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
         }
       ],
-      "duration_ms": 442400,
-      "name": "West Coast Blues",
-      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
+      "duration_ms": 180533,
+      "name": "Blues In The Closet",
+      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 442400,
+      "name": "West Coast Blues",
+      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 215093,
       "name": "Bessie's Blues",
       "url": "https://open.spotify.com/track/3VvIjPjxHLRTXNJ8vSKkKN"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Blues In The Closet",
-        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Blues In The Closet",
-      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 384706,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+      "duration_ms": 583266,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Miles Davis Featuring John Coltrane",
-        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 583266,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
+      "duration_ms": 384706,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
     },
     {
       "added_at": "2020-10-12 18:15:54",

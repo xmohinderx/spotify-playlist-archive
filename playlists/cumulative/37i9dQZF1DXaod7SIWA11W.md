@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Tasha Cobbs Leonard
 
-147 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
+148 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-07-17 |  |
 | [The Better Benediction \(feat\. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls\)](https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK), [Tim Rogers](https://open.spotify.com/artist/1khRTV8QYiLYAvGZelRcPV), [Darrel 'MusiqCity' Walls](https://open.spotify.com/artist/1u96wHS7za0UbhY8E3wSyp) | [Watch The Sun](https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN) | 5:23 | 2022-06-01 |  |
 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 | 2022-09-03 | 2022-10-01 |
-| [The Divide](https://open.spotify.com/track/1m8BbkM1ugHfEhNK1wx2Px) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/1ofh0v6FON74bYcp8GO8ER) | 3:13 | 2022-09-03 |  |
+| [The Divide](https://open.spotify.com/track/1m8BbkM1ugHfEhNK1wx2Px) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/1ofh0v6FON74bYcp8GO8ER) | 3:13 | 2022-09-03 | 2022-10-17 |
+| [The Divide](https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx) | 3:13 | 2022-09-30 |  |
 | [THE GLORY ft\. New Breed](https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [New Breed](https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9) | [T.D\. JAKES Presents FINALLY LOOSED](https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI) | 6:14 | 2022-09-30 |  |
 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 | 2022-06-01 | 2022-07-18 |
 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 | 2022-07-17 |  |

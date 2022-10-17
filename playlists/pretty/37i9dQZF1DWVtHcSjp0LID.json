@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 45205,
+  "num_followers": 45227,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGQ1MjJhOWQ4YmE2OGY2NWVlYzM3MjZiYzk0YTExNTBi",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGMwOGY3YmUyNDM4MTNhZTkzMDA5NTgwYzFiYTFmODg3",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Rages 1992",
-        "url": "https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO"
-      },
-      "artists": [
-        {
-          "name": "Dusty Kid",
-          "url": "https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Kollera",
-      "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "What Have You Done To Me?",
         "url": "https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x"
       },
@@ -363,6 +347,38 @@
       "duration_ms": 286186,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Rages 1992",
+        "url": "https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kid",
+          "url": "https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Kollera",
+      "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 138371,
+      "name": "Poly",
+      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -395,22 +411,6 @@
       "duration_ms": 95973,
       "name": "Bocuma",
       "url": "https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 138371,
-      "name": "Poly",
-      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Where Will You Be Spending Eternity?",
-        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
-      },
-      "artists": [
-        {
-          "name": "Francis Inferno Orchestra",
-          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
-        }
-      ],
-      "duration_ms": 314445,
-      "name": "Harmony - Original Mix",
-      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "See You When You Get There",
         "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 364795,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Where Will You Be Spending Eternity?",
+        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
+      },
+      "artists": [
+        {
+          "name": "Francis Inferno Orchestra",
+          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
+        }
+      ],
+      "duration_ms": 314445,
+      "name": "Harmony - Original Mix",
+      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "duration_ms": 416652,
+      "name": "Timid Dancer",
+      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "What I Saw That Night",
         "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
+        "name": "After & Before EP",
+        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
       },
       "artists": [
         {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+          "name": "Trickski",
+          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
         }
       ],
-      "duration_ms": 416652,
-      "name": "Timid Dancer",
-      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
+      "duration_ms": 455528,
+      "name": "Pill Collins",
+      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -823,22 +839,6 @@
       "duration_ms": 331203,
       "name": "Bonder",
       "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "After & Before EP",
-        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
-      },
-      "artists": [
-        {
-          "name": "Trickski",
-          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
-        }
-      ],
-      "duration_ms": 455528,
-      "name": "Pill Collins",
-      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Breathing Underwater",
-        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
-      },
-      "artists": [
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 313079,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 407317,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Breathing Underwater",
+        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
+      },
+      "artists": [
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 313079,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "like me",
-        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
-      },
-      "artists": [
-        {
-          "name": "paleboi",
-          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "like me",
-      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Haunted House of House",
         "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 346640,
       "name": "Cow Palace",
       "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "like me",
+        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
+      },
+      "artists": [
+        {
+          "name": "paleboi",
+          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "like me",
+      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Backstabber EP",
-        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
-      },
-      "artists": [
-        {
-          "name": "Nachtbraker",
-          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
-        }
-      ],
-      "duration_ms": 407038,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Kill Frenzy EP",
         "url": "https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Foans",
-        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
+        "name": "Backstabber EP",
+        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
       },
       "artists": [
         {
-          "name": "Foans",
-          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
+          "name": "Nachtbraker",
+          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
         }
       ],
-      "duration_ms": 276115,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
+      "duration_ms": 407038,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Foans",
+        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
+      },
+      "artists": [
+        {
+          "name": "Foans",
+          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
+        }
+      ],
+      "duration_ms": 276115,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "The Two of Us",
         "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
       },
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "It's Just A Silly Phase I'm Going Through",
-        "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
+        "name": "Vasudeva",
+        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
       },
       "artists": [
         {
-          "name": "Flabaire",
-          "url": "https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X"
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
         }
       ],
-      "duration_ms": 295592,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l"
+      "duration_ms": 376720,
+      "name": "Vasudeva",
+      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vasudeva",
-        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
+        "name": "It's Just A Silly Phase I'm Going Through",
+        "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
       },
       "artists": [
         {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+          "name": "Flabaire",
+          "url": "https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X"
         }
       ],
-      "duration_ms": 376720,
-      "name": "Vasudeva",
-      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
+      "duration_ms": 295592,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Occasional Magic Remixes EP",
-        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
-      },
-      "artists": [
-        {
-          "name": "Yppah",
-          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
-        },
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 330145,
-      "name": "Occasional Magic - Ulrich Schnauss Remix",
-      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Confiscate / Elucidate",
         "url": "https://open.spotify.com/album/2jwS9VvHOISz2oWF5z9rSb"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 406000,
       "name": "Confiscate - Drumcomplex Remix",
       "url": "https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Occasional Magic Remixes EP",
+        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
+      },
+      "artists": [
+        {
+          "name": "Yppah",
+          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 330145,
+      "name": "Occasional Magic - Ulrich Schnauss Remix",
+      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     },
     {
       "added_at": "2022-07-15 17:34:15",

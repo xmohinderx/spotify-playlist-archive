@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: paopao",
-  "num_followers": 696175,
+  "num_followers": 696162,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMDQ1ZjUwM2U1MDBhMWY4NWRiMWY1NmJkYWNkMGYwNGFm",
+  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMGNjZTZjNWY3ZGNhYjI0MDYzNzgwMGJmMmViNGE0NDFk",
   "tracks": [
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
+        "name": "lo que pas\u00f3",
+        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "lo que pas\u00f3",
+      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
         "name": "coisa linda",
         "url": "https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 173999,
       "name": "coisa linda",
       "url": "https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "caos",
-      "url": "https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "caos",
+      "url": "https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "lo que pas\u00f3",
-        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "lo que pas\u00f3",
-      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1191,6 +1191,26 @@
       "duration_ms": 97391,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
         "name": "TE EXCITO",
         "url": "https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "me piensas ;)",
-        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "me piensas ;)",
-      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
         "name": "do you come here often?",
         "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
       },
@@ -1359,6 +1343,38 @@
       "duration_ms": 154415,
       "name": "do you come here often?",
       "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "12AM",
+      "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "me piensas ;)",
+        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "me piensas ;)",
+      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1399,22 +1415,6 @@
       "duration_ms": 230218,
       "name": "Your Plug feat. Mariah Angeliq & Jenn Morel",
       "url": "https://open.spotify.com/track/4Kgmokx4QE2y5dDEUGt3kR"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "12AM",
-      "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
     },
     {
       "added_at": "2022-10-09 22:45:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,653 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,678 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 12 | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/track/6dAWKg1egU4uBjLGj2EUL3) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/album/6ud4LYbVUC9gd8EvKGOrWT) | 2:06 |
 | 13 | [O Tannenbaum, du trägst ein’ grünen Zweig \(Arr\. Hoffmann & Grabe for Harp\)](https://open.spotify.com/track/74u9Z0LqZHsjIjLn8whyjx) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [Traditional: O Tannenbaum, du trägst ein’ grünen Zweig \(Arr\. Hoffmann & Grabe for Harp\) \[Musical Moments\]](https://open.spotify.com/album/1Fpts6LEM50PmN9UV1Dc5S) | 3:51 |
 | 14 | [Away in a Manger](https://open.spotify.com/track/2Hhngl3KwlefHtY0hORMH4) | [William J\. Kirkpatrick](https://open.spotify.com/artist/0IyFf7sJynolp1a7Ck79u9), [Boulanger Trio](https://open.spotify.com/artist/347x9Hh12BrOdcCwMxknoi), [Asya Fateyeva](https://open.spotify.com/artist/74CgMfXwxw0JvpVGFzXV99) | [Away in a Manger](https://open.spotify.com/album/3Ql5d9dIaefIyO4wMoV9PU) | 3:17 |
-| 15 | [O Come All Ye Faithful](https://open.spotify.com/track/4WehDMVkpIxLPCltba3JFs) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/6pM5sjp8nekGKbMS6KDJ9i) | 2:20 |
+| 15 | [O Come All Ye Faithful](https://open.spotify.com/track/0wwQHm22k4V0eoqLXLdd8E) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP) | 2:20 |
 | 16 | [Candlelight Carol](https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [Candlelight Carol](https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq) | 2:47 |
 | 17 | [Walking in the Air \- Piano Solo](https://open.spotify.com/track/6hFwNd3XEQp56paHH8GD5g) | [Howard David Blake](https://open.spotify.com/artist/6N5z4tdsX1oGACw5lZGe72), [Joe Alexander Shepherd](https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa) | [Walking in the Air \(Piano Solo\)](https://open.spotify.com/album/0bbA0VNAJ51xqLt4N13yks) | 3:39 |
 | 18 | [Coventry Carol](https://open.spotify.com/track/6MX93EaPA2m5YtMOxSlyvv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Coventry Carol](https://open.spotify.com/album/3gNj1pBbG3MbswEnpdMDSl) | 3:29 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 39 | [Christmas Letter](https://open.spotify.com/track/3oFDysBX3TkBDmy5cZuxJP) | [Cellist Yesle](https://open.spotify.com/artist/1EPr2hpZSt3xNbeXEyBEbj) | [Beautiful Cello](https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn) | 3:48 |
 | 40 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDdmZTYzNDQ4MGVmNzYwMmE2MGFiNThmMmNiZWVlYjFl`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDVlZDIwN2UwM2Q0ZjAwMWI1NmVlN2QwZTlmMDBhNTkz`

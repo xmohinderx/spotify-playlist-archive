@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: All Them Witches
 
-220 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+221 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Precious](https://open.spotify.com/track/2e73tewU7fFZ2smVCYVr2g) | [The Big Push](https://open.spotify.com/artist/4AOiNpcmfXTiWDB3uFszgn) | [Can Do Will Do](https://open.spotify.com/album/0zCgViCFtpG6CQUfgKGfJc) | 3:25 | 2021-07-02 |  |
 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-07-23 |  |
 | [Ransom](https://open.spotify.com/track/2yy1jIbevVsuWJ32H6AfaP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Ransom](https://open.spotify.com/album/3tOPNT6jAqyikY9or6hKrz) | 3:56 | 2022-03-25 | 2022-07-29 |
+| [Red Run Cold](https://open.spotify.com/track/00j4raDRNX9J6nWkzqpJbB) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/0gUmdbR0yGRd6M59WGXFYm) | 3:43 | 2022-08-28 |  |
 | [Red Run Cold](https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/5jeWTeLEEXFRb5YrOUUGW8) | 3:43 | 2021-01-29 | 2022-10-13 |
 | [Rise](https://open.spotify.com/track/19NJUQciFoAil1YmMS6cNA) | [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Rise](https://open.spotify.com/album/2du5GpcGOv6BR9YrRGI7DK) | 4:11 | 2021-01-29 | 2022-01-15 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-07-01 |  |
@@ -172,7 +173,7 @@
 | [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2022-07-01 |  |
 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 | 2022-02-11 |  |
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-05-25 |  |
-| [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 | 2022-07-01 |  |
+| [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 | 2022-07-01 | 2022-10-17 |
 | [Spirit](https://open.spotify.com/track/4At0MWVAHHBKyOBkyqWg3V) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Spirit](https://open.spotify.com/album/1K2rmMC661DhMwzUp6iuMk) | 4:03 | 2021-03-19 |  |
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2021-11-23 |  |
 | [Starting Now](https://open.spotify.com/track/2ESJsIRGeB7gVU5X4HxANA) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [Starting Now](https://open.spotify.com/album/261HvAw6KFCzyHCHtRTsLI) | 3:46 | 2021-01-29 | 2022-03-12 |

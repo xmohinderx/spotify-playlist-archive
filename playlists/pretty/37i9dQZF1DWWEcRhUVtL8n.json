@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Lizzy Mcalpine",
-  "num_followers": 1694830,
+  "num_followers": 1694806,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2NDYwNCwwMDAwMDAwMDgwYzBiZjk3ZjAzYTdhZjk5ZjI4Njk4ZWVlYmY0MjQ2",
+  "snapshot_id": "MTY2NTc2NDYwNCwwMDAwMDAwMDQyMjg4ODhmZGY0ZGNiNDc3MTBjNGMyOGE5MDM3MWRl",
   "tracks": [
     {
       "added_at": "2022-10-07 19:05:29",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
-      "added_at": "2022-10-16 01:33:13",
+      "added_at": "2022-10-17 01:35:33",
       "album": {
         "name": "Fucking Married",
         "url": "https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
-      "added_at": "2022-10-16 01:33:13",
+      "added_at": "2022-10-17 01:35:33",
       "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/5lNsa5iKyqspfNLp3BOHKB"
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
     },
     {
+      "added_at": "2022-10-17 01:35:33",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 212568,
+      "name": "Oh Caroline",
+      "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
       "added_at": "2022-10-07 19:05:29",
       "album": {
         "name": "minor",
@@ -311,22 +327,6 @@
       "duration_ms": 185172,
       "name": "21",
       "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
-    },
-    {
-      "added_at": "2022-10-16 01:33:13",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 212568,
-      "name": "Oh Caroline",
-      "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
     },
     {
       "added_at": "2022-10-07 19:05:29",
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
-      "added_at": "2022-10-16 01:33:13",
+      "added_at": "2022-10-17 01:35:33",
       "album": {
         "name": "Shades Of Indigo",
         "url": "https://open.spotify.com/album/2MZigZKrCrvDzLK2BQIYEF"
@@ -407,22 +407,6 @@
       "duration_ms": 175501,
       "name": "Disgustingly Perfect",
       "url": "https://open.spotify.com/track/3TyqbrNobEQI53qfkYiBTV"
-    },
-    {
-      "added_at": "2022-10-07 19:05:29",
-      "album": {
-        "name": "Mess It Up",
-        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Mess It Up",
-      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
       "added_at": "2022-10-07 19:05:29",
@@ -443,6 +427,22 @@
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
+    },
+    {
+      "added_at": "2022-10-07 19:05:29",
+      "album": {
+        "name": "Mess It Up",
+        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
       "added_at": "2022-10-07 19:05:29",
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
     },
     {
-      "added_at": "2022-10-16 01:33:13",
+      "added_at": "2022-10-17 01:35:33",
       "album": {
         "name": "ap vol. I",
         "url": "https://open.spotify.com/album/36BzRzxO8gAWRzbM9M0fMe"
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2e6NV4iI00YbGAtZl1el5v"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 251269,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ"
+    },
+    {
+      "added_at": "2022-10-07 19:05:29",
+      "album": {
         "name": "The Yearbook",
         "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2e6NV4iI00YbGAtZl1el5v"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
       },
       "artists": [
         {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
         }
       ],
-      "duration_ms": 251269,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ"
+      "duration_ms": 146273,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
     },
     {
       "added_at": "2022-10-07 19:05:29",
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 146273,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
-    },
-    {
-      "added_at": "2022-10-07 19:05:29",
-      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "move",
-      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
-    },
-    {
-      "added_at": "2022-10-07 19:05:29",
-      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 258319,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
+    },
+    {
+      "added_at": "2022-10-07 19:05:29",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "move",
+      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
     },
     {
       "added_at": "2022-10-07 19:05:29",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
+    },
+    {
+      "added_at": "2022-10-07 19:05:29",
+      "album": {
         "name": "Easy / Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
@@ -963,6 +979,22 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "added_at": "2022-10-07 19:05:29",
+      "album": {
         "name": "Let U Go",
         "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
       },
@@ -975,6 +1007,22 @@
       "duration_ms": 168253,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
+    },
+    {
+      "added_at": "2022-10-07 19:05:29",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 268992,
+      "name": "Home By Now",
+      "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
     },
     {
       "added_at": "2022-10-07 19:05:29",
@@ -995,38 +1043,6 @@
       "duration_ms": 171706,
       "name": "fun out of it",
       "url": "https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK"
-    },
-    {
-      "added_at": "2022-10-07 19:05:29",
-      "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
-    },
-    {
-      "added_at": "2022-10-07 19:05:29",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 268992,
-      "name": "Home By Now",
-      "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
     },
     {
       "added_at": "2022-10-07 19:05:29",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
-    },
-    {
-      "added_at": "2022-10-07 19:05:29",
-      "album": {
         "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
         "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 201945,
+      "name": "I'll Call You Mine",
+      "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
+    },
+    {
+      "added_at": "2022-10-07 19:05:29",
+      "album": {
         "name": "2000 Miles",
         "url": "https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T"
       },
@@ -1219,34 +1235,18 @@
     {
       "added_at": "2022-10-07 19:05:29",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
-    },
-    {
-      "added_at": "2022-10-07 19:05:29",
-      "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     }
   ],
   "unique_name": "Indie Pop",

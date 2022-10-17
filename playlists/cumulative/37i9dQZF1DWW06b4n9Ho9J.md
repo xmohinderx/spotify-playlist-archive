@@ -4,7 +4,7 @@
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-125 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/7hmQjrJKZLlKLYfLYWKOXt)
+126 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/7hmQjrJKZLlKLYfLYWKOXt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 | 2021-12-01 |  |
 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 | 2021-12-01 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2021-12-01 |  |
-| [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-12-01 |  |
+| [Hey Michael](https://open.spotify.com/track/2e6yL61IB93pCIzMNx4xRF) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/3Ch7Y80qbRzzFJlfx51Ge6) | 2:59 | 2021-12-01 |  |
+| [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-12-01 | 2022-10-17 |
 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 | 2021-12-01 |  |
 | [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2021-12-01 |  |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-12-01 |  |

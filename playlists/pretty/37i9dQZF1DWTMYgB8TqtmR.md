@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – bästa och största hitsen just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,501 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,535 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 29 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 30 | [MER & MER](https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MER & MER](https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK) | 2:23 |
 | 31 | [SEVILLA](https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SEVILLA](https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN) | 2:55 |
-| 32 | [Aktiverad](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 |
+| 32 | [Aktiverad \(Klick Klack\)](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad \(Klick Klack\)](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 |
 | 33 | [Det Är Slut](https://open.spotify.com/track/04QgZlzLxbu9YNEjYIpUPU) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Ingen Aning Vart Jag Landar](https://open.spotify.com/album/3N8DSgKPVNUoit6kBArz01) | 2:36 |
 | 34 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 35 | [Chit Chat](https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Chit Chat](https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ) | 2:52 |

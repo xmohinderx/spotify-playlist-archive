@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27075,
+  "num_followers": 27073,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGJiMTQ3MDA1NWM5ZDRkY2Y5ZjRmZWJjZTIwM2NmMGIy",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGE5ODRhZmVmYWNkMGU2ZTFiNmZkYzUxYzhiNWJlNmZl",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -767,6 +767,30 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        }
+      ],
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Lost In Japan (Remix)",
         "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 213040,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        }
-      ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Safe Place (feat. Maximus)",
-        "url": "https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T"
-      },
-      "artists": [
-        {
-          "name": "Pelago",
-          "url": "https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn"
-        },
-        {
-          "name": "Maximus",
-          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Safe Place (feat. Maximus)",
-      "url": "https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 147741,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Safe Place (feat. Maximus)",
+        "url": "https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T"
+      },
+      "artists": [
+        {
+          "name": "Pelago",
+          "url": "https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "Safe Place (feat. Maximus)",
+      "url": "https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs"
     },
     {
       "added_at": "2020-02-18 13:31:30",

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 416098,
+  "num_followers": 416159,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDI4OTI1OGJlZDYyMWNkN2JmMjdiOWI4YWNjYjZhNjU0",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGE1NWFhZDFkMDEwOTYzYTE4N2NiZmIxN2Q5YzZlYjYz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"
     },
     {
-      "added_at": "2022-07-26 14:55:05",
-      "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Introducing Junior Kimbrough",
@@ -1205,6 +1189,22 @@
       "url": "https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q"
     },
     {
+      "added_at": "2022-07-26 14:55:05",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Spotify Singles",
@@ -1237,20 +1237,20 @@
       "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD"
+        "name": "Southern Avenue",
+        "url": "https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
         }
       ],
-      "duration_ms": 170440,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
+      "duration_ms": 232600,
+      "name": "What Did I Do",
+      "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"
     }
   ],
   "unique_name": "Blues Roots",

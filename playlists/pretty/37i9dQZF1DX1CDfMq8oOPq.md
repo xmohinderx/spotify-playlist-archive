@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,013 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,045 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 21 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 |
 | 22 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 |
 | 23 | [Euro](https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG) | [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Euro](https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O) | 3:37 |
-| 24 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
-| 25 | [Pimenta](https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pimenta](https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7) | 2:44 |
+| 24 | [Pimenta](https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pimenta](https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7) | 2:44 |
+| 25 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
 | 26 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 |
 | 27 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
 | 28 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Gloss da Fenty](https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i) | [ADH4RAA](https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e), [Ayla On The Beat](https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Gloss da Fenty](https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q) | 2:30 |
 | 50 | [Xeque\-Mate](https://open.spotify.com/track/7bs5NNmTcrktPH1pAQnVPz) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [Caio Kazzi](https://open.spotify.com/artist/2qDGGgQrsth8uAC6OfGlIc), [HERvolution](https://open.spotify.com/artist/3rN8auMvCh8BcWf1WKt7OW) | [Xeque\-Mate](https://open.spotify.com/album/6XCmEGHcQ5ykWHtgrHmBWx) | 2:04 |
 
-Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMGQ4ODUzOTUyZmFiMmJkZTM5ODJjOTIzNGVmMTJjY2Y0`
+Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMDM1ODhjNGViOTNiYzc5NGRmODFjNzdkMWRjYjNjZTE0`

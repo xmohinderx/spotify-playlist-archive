@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDUwZTQ3YjZmNWFmZjk3MDMxZjdjOWM1ZWVlYzI0ZDU1",
+  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMGFjNWU3YTRjZDRlZjAxMzFkNzA3OGE4M2EyNmNjMjFl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:03:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+        "name": "Rainha da Favela",
+        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+      "duration_ms": 160904,
+      "name": "Rainha da Favela",
+      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Rainha da Favela",
-        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 160904,
-      "name": "Rainha da Favela",
-      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        }
-      ],
-      "duration_ms": 141473,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
         "name": "Medley da Gaiola (DENNIS Remix)",
         "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 239999,
       "name": "Medley da Gaiola - DENNIS Remix",
       "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "Mc Jo\u00e3o",
+        "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
+      },
+      "artists": [
+        {
+          "name": "Mc Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Baile de Favela",
+      "url": "https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "Sentou e Gostou",
         "url": "https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 163200,
       "name": "Sentou e Gostou",
       "url": "https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "Mc Jo\u00e3o",
-        "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
-      },
-      "artists": [
-        {
-          "name": "Mc Jo\u00e3o",
-          "url": "https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Baile de Favela",
-      "url": "https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB"
     },
     {
       "added_at": "2022-10-07 03:03:00",

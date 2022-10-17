@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music for late night work; reading, writing and studying in the quiet hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,060 likes - 321 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,131 likes - 321 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 67 | [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 |
 | 68 | [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 |
 | 69 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 |
-| 70 | [Out the Dark](https://open.spotify.com/track/4KWm3DyengX39eIr3p9mVs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Out the Dark](https://open.spotify.com/album/4qC7JDS4bSpJams0JSWAR1) | 2:24 |
+| 70 | [Out the Dark](https://open.spotify.com/track/4hRsKj4mQgoJPYuZtj84FL) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:24 |
 | 71 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
 | 72 | [Patchouli](https://open.spotify.com/track/3QIfNvbHw3XP1y6uN9mEeU) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Images](https://open.spotify.com/album/79tOBdX8qqoeTOMyb561af) | 1:52 |
 | 73 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 |
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 320 | [Yesterday's Waltz](https://open.spotify.com/track/0iJhqtZ9CkBb1bdw2BKQ0Q) | [Francesco Berta](https://open.spotify.com/artist/1eUWwGtcTxRqDznmUGmQqZ) | [Yesterday's Waltz](https://open.spotify.com/album/3fiQkkJkBzgWWUGJDuJxw0) | 3:01 |
 | 321 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
 
-Snapshot ID: `MTY2NTY3NjcwMSwwMDAwMDAwMGFkMTQ1NjM4YTBiZmZkZDM2ZjlhZThjMTc4NDdlZGY0`
+Snapshot ID: `MTY2NTY3NjcwMSwwMDAwMDAwMDFlZDFmMWE1YmU0NzY2YTVkMzU2NTkyNjY2M2Q4YTMz`

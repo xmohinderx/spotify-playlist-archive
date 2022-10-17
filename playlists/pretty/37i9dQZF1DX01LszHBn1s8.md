@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > october? here we call it girl in red month 🍂🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,839 likes - 604 songs - 1 day 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,105 likes - 604 songs - 1 day 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 24 | [PRIMADONNA](https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [PRIMADONNA](https://open.spotify.com/album/7iZHtwqroxPl38CB1LRxpv) | 2:15 |
 | 25 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 | 26 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
-| 27 | [Aktiverad](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 |
+| 27 | [Aktiverad \(Klick Klack\)](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad \(Klick Klack\)](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 |
 | 28 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 |
 | 29 | [Wingwoman](https://open.spotify.com/track/0Hhx4yhcOFlRwl8ezjgvdW) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Wingwoman](https://open.spotify.com/album/5EB076dHjDLSI27bJw6PMi) | 2:56 |
 | 30 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 |

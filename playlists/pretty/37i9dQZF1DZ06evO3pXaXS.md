@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,937 likes - 42 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,085 likes - 42 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 36 | [Can't Stand Losing You/Reggatta De Blanc \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/7qXOUUDmgkYql3k9AJUeIw) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 6:30 |
 | 37 | [Shambelle](https://open.spotify.com/track/2jn9j0RG0UKukFZAviVCbG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 5:10 |
 | 38 | [Voices Inside My Head / When The World Is Running Down You Make the Best Of What's Still Around \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/2UtXxz9XGRn7qvZ275H7aJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 7:04 |
-| 39 | [Visions Of The Night](https://open.spotify.com/track/33Wh8esQvnlw5Zex1xcC4z) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:06 |
-| 40 | [A Sermon](https://open.spotify.com/track/5YlavkDAyN6SM6jtmJzuPP) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 2:32 |
+| 39 | [A Sermon](https://open.spotify.com/track/5YlavkDAyN6SM6jtmJzuPP) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 2:32 |
+| 40 | [Visions Of The Night](https://open.spotify.com/track/33Wh8esQvnlw5Zex1xcC4z) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:06 |
 | 41 | [Landlord](https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:07 |
 | 42 | [Friends](https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:36 |
 
-Snapshot ID: `Mjc3NjQwMDMsMDAwMDAwMDAyMmYzYmI3Njg5MTY5MDEyOWJiNTU1YTk3YjJiNGFhNw==`
+Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDA3YTNhZWJkZDE1YjBmMTJhZTI5YTE5YjAyM2I3MjgzNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Piso 21 y Danny Ocean; Aleman y Ximena Sariñana; Pablo Alborán y Carin León; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,367 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,408 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,18 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 34 | [Un Día Especial](https://open.spotify.com/track/4EavV1ZnEKT4X3KlljYBsA) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Un Día Especial](https://open.spotify.com/album/5qKRtiCKf7vQ6RmAZ5qUAT) | 3:24 |
 | 35 | [Piel](https://open.spotify.com/track/3YWqRb6gE2zo57kRlGQfQx) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Revelaciones](https://open.spotify.com/album/0I8Yvr2l4M4j71xuLuf23Q) | 4:22 |
 | 36 | [No Me Pregunten](https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Me Pregunten](https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu) | 4:10 |
-| 37 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 |
-| 38 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
-| 39 | [Marigold](https://open.spotify.com/track/0T9sqokGD9XvJ8QJ0K1RkD) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 3:36 |
-| 40 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 |
-| 41 | [Se Va](https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S) | 3:16 |
-| 42 | [Corazón Cruzado](https://open.spotify.com/track/0n4bTZeW7B9wAqcr5EffZe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Corazón Cruzado](https://open.spotify.com/album/2YYfpE23VaR71QdKbJZUid) | 2:33 |
-| 43 | [Devoto](https://open.spotify.com/track/0tVkn7XY4fWENKueOjJjPs) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG), [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [Fatima's Disc PS: Hoped You Liked It](https://open.spotify.com/album/570ArhQ1hZJCIIJFYeACQl) | 2:53 |
-| 44 | [Espero Que Estés Bien](https://open.spotify.com/track/38S97g7LqJ62vCYS3tVMTe) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Abismos](https://open.spotify.com/album/5wFCEY9HExtzfyTETDeAHi) | 3:07 |
-| 45 | [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 |
-| 46 | [fantasies](https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:03 |
-| 47 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
-| 48 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
-| 49 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 |
+| 37 | [WYS](https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [WYS](https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V) | 2:59 |
+| 38 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 |
+| 39 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
+| 40 | [Marigold](https://open.spotify.com/track/0T9sqokGD9XvJ8QJ0K1RkD) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 3:36 |
+| 41 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 |
+| 42 | [Se Va](https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S) | 3:16 |
+| 43 | [Corazón Cruzado](https://open.spotify.com/track/0n4bTZeW7B9wAqcr5EffZe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Corazón Cruzado](https://open.spotify.com/album/2YYfpE23VaR71QdKbJZUid) | 2:33 |
+| 44 | [Devoto](https://open.spotify.com/track/0tVkn7XY4fWENKueOjJjPs) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG), [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [Fatima's Disc PS: Hoped You Liked It](https://open.spotify.com/album/570ArhQ1hZJCIIJFYeACQl) | 2:53 |
+| 45 | [Espero Que Estés Bien](https://open.spotify.com/track/38S97g7LqJ62vCYS3tVMTe) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Abismos](https://open.spotify.com/album/5wFCEY9HExtzfyTETDeAHi) | 3:07 |
+| 46 | [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 |
+| 47 | [fantasies](https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:03 |
+| 48 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
+| 49 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
+| 50 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 |
 
-Snapshot ID: `MTY2NTc3NDkzNCwwMDAwMDAwMDgwNDFmYWY0M2MzN2UwNmY3OGQ1ZDQ1OTAzMjljYzg1`
+Snapshot ID: `MTY2NTkxMDc4NSwwMDAwMDAwMGU4YTU5YjI1MTFhNWZmN2RmZmU1OTIyNTE1NWNjOGRh`

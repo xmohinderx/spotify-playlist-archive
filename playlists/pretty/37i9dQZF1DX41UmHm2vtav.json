@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 363167,
+  "num_followers": 363304,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMGZmNGI2NmYwOTczY2NiMWRlOTNiZDQ0OWNkYmIzZTE3",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMGZmMzhkMjVhNjc5MzFlYTY0OGZlMDhlODU2OWUzOWU0",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:00",
@@ -67,6 +67,22 @@
       "duration_ms": 218770,
       "name": "Pontos de Exclama\u00e7\u00e3o - Vintage Culture & Future Class Remix",
       "url": "https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue"
+    },
+    {
+      "added_at": "2022-10-17 01:51:01",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 303626,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -167,26 +183,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo"
       },
@@ -211,22 +207,22 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8"
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
       },
       "artists": [
         {
-          "name": "Camilla Brunetta",
-          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
         }
       ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -255,6 +251,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8"
+      },
+      "artists": [
+        {
+          "name": "Camilla Brunetta",
+          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Sorri, Sou Rei (KVSH Remix)",
         "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
       },
@@ -271,6 +287,26 @@
       "duration_ms": 217678,
       "name": "Sorri, Sou Rei (KVSH Remix)",
       "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -295,42 +331,6 @@
       "duration_ms": 193846,
       "name": "Forever Yours - Avicii Tribute",
       "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
-    },
-    {
-      "added_at": "2022-10-16 01:47:00",
-      "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 303626,
-      "name": "Viaje",
-      "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "Table For 2",
-        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "Table For 2",
-      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Telegrama (Double MZK Remix)",
         "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 160645,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1307,26 +1307,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
+        "name": "Hoje Caminhei (Remix)",
+        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
       "artists": [
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+          "name": "Cazt",
+          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
         },
         {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "\u00d8NEhead",
+          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
         }
       ],
-      "duration_ms": 175020,
-      "name": "Savages",
-      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
+      "duration_ms": 140826,
+      "name": "Hoje Caminhei - Remix",
+      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1351,26 +1351,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Hoje Caminhei (Remix)",
-        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
       },
       "artists": [
         {
-          "name": "Cazt",
-          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
         },
         {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "\u00d8NEhead",
-          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Hoje Caminhei - Remix",
-      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+      "duration_ms": 175020,
+      "name": "Savages",
+      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
     },
     {
       "added_at": "2022-10-07 03:01:00",

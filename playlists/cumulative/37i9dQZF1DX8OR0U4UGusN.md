@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-190 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+192 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,9 +106,10 @@
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-07-07 |  |
 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2021-08-05 |  |
 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-05-03 |  |
-| [Last Laugh](https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj) | [Angelnumber 8](https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i) | [Digital Tribal](https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg) | 2:36 | 2022-03-11 |  |
+| [Last Laugh](https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj) | [Angelnumber 8](https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i) | [Digital Tribal](https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg) | 2:36 | 2022-03-11 | 2022-10-17 |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2021-08-05 |  |
 | [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-14 | 2022-10-13 |
+| [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 | 2022-10-06 |  |
 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 | 2021-12-14 | 2022-04-21 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-08-05 |  |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-08-05 |  |
@@ -178,7 +179,7 @@
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-07-25 |  |
 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/6gigGFhKguOzObNC5QZbeW) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/0u1kufnf2KBAb7dlKgD2XJ) | 2:49 | 2021-12-14 | 2022-07-21 |
 | [Up All Night \- Oliver Remix](https://open.spotify.com/track/12aQRcFFIh1zAoPOGTVY2y) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Up All Night \(Oliver Remix\)](https://open.spotify.com/album/3loMThbNeSWIuwZHG2SsDa) | 4:26 | 2021-08-05 |  |
-| [VOCES](https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW) | 3:22 | 2022-08-26 |  |
+| [VOCES](https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW) | 3:22 | 2022-08-26 | 2022-10-17 |
 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 | 2021-08-05 | 2022-07-28 |
 | [Wallflower](https://open.spotify.com/track/2aLsrZVPkJm6pm05WXZ0aC) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/7D6XTJzVwNVH2upfKTNvKQ) | 2:57 | 2021-08-05 | 2022-07-29 |
 | [Wallflower](https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm) | 2:57 | 2022-07-25 |  |
@@ -194,6 +195,7 @@
 | [Where You From](https://open.spotify.com/track/6XmWbYiKGFh0jUAGc9SvwB) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Dancing With My Feet Up](https://open.spotify.com/album/4lc7kXcTQsOiKIAbiPI1gA) | 3:34 | 2021-11-12 | 2022-07-29 |
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2022-07-25 |  |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-08-05 | 2022-07-05 |
+| [Winona](https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx) | 2:25 | 2022-10-06 |  |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-08-05 | 2022-10-13 |
 | [Wishin](https://open.spotify.com/track/5XNBDxPwI44BnYCY2QDisQ) | [Vinny Masino](https://open.spotify.com/artist/49wfJDFAZGLI1zIW6RSQWL) | [Wishin](https://open.spotify.com/album/36bWBFGvhXRHPvOEveyQ0m) | 2:08 | 2022-07-15 | 2022-07-29 |
 | [Yesteryear](https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl) | 3:39 | 2021-08-05 |  |

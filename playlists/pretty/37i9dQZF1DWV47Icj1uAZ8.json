@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 1537,
+  "num_followers": 1638,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDk3MmRjYjIyYWMxOTI1NmNjMGM4NTQ0MGQ5M2I0YTVk",
+  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMGJlNWY5NDdlYjU1OWEyOGMyMDMyZDQ0NGNmZDE2MGVi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -147,26 +147,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         },
         {
-          "name": "GLC",
-          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
+          "name": "Tariq Trotter",
+          "url": "https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5"
         },
         {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
         }
       ],
-      "duration_ms": 324226,
-      "name": "Spaceship",
-      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
+      "duration_ms": 259306,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -207,30 +211,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Tariq Trotter",
-          "url": "https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5"
+          "name": "GLC",
+          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
         },
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
         }
       ],
-      "duration_ms": 259306,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
+      "duration_ms": 324226,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "The Message",
-      "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -303,6 +287,38 @@
       "duration_ms": 255226,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -359,22 +375,6 @@
       "duration_ms": 188093,
       "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
       "url": "https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
     },
     {
       "added_at": "2022-10-01 16:00:00",

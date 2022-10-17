@@ -4080,6 +4080,24 @@
     },
     {
       "album": {
+        "name": "Love To Be Happy",
+        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195276,
+      "name": "Love To Be Happy",
+      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
+    },
+    {
+      "album": {
         "name": "Love Will Last Forever",
         "url": "https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa"
       },
@@ -7317,7 +7335,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 303224,
       "name": "Tulip Summer",
       "url": "https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN"

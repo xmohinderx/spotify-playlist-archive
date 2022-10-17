@@ -1,12 +1,12 @@
 {
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
-  "num_followers": 99286,
+  "num_followers": 99316,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGU4YjIzZTU5ODJmMDg2Y2E0ODVhOGI4YTg2NzA4OGIx",
+  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMDRjMzNjMWVkOTM2MThmNzIxMTBiYjAzN2VmNzE2MTMx",
   "tracks": [
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 207413,
       "name": "Bailando Lentos",
       "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
     },
     {
       "added_at": "2022-08-01 18:10:09",

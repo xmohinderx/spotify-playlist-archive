@@ -2791,7 +2791,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 112285,
       "name": "Bleib am Ball",
       "url": "https://open.spotify.com/track/7vtuXua4My1LvGb3FVINFO"
@@ -3111,7 +3111,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -4687,7 +4687,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 137475,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/3iYjUEMXpxiXUzKsLFuSNi"
@@ -11512,6 +11512,28 @@
     },
     {
       "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/7LNkp7WQQve7uf2YEt8lZf"
+      },
+      "artists": [
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D"
+        },
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/6DjqbTZMTxsFBLn3CXsCVN"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "London",
+      "url": "https://open.spotify.com/track/4Q664IuqC4LoEwmXeXB5EK"
+    },
+    {
+      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -12761,6 +12783,24 @@
       "duration_ms": 127733,
       "name": "MMH JA",
       "url": "https://open.spotify.com/track/5A93AuTtBtQQnse7SMEgmI"
+    },
+    {
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
       "album": {
@@ -20095,7 +20135,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 166440,
       "name": "Valium",
       "url": "https://open.spotify.com/track/2xlHw1HNGzjPLgRbnWiBSL"

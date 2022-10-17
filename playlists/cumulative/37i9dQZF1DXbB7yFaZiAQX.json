@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "The Waterboys",
+        "url": "https://open.spotify.com/album/1UKEPewUNpzKxEAPD9TQ8D"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "date_added": "2019-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "A Girl Called Johnny - 2002 Remaster",
+      "url": "https://open.spotify.com/track/33Las8EVYfUYccKAudyXjW"
+    },
+    {
+      "album": {
         "name": "Black Celebration (Deluxe)",
         "url": "https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh"
       },
@@ -6351,7 +6369,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 236933,
       "name": "Tugboat",
       "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"

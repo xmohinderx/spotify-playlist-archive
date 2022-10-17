@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,856 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,863 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 29 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 |
 | 30 | [A toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
 | 31 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
-| 32 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
-| 33 | [J't'aime comme un fou](https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [1ère période](https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v) | 3:50 |
+| 32 | [J't'aime comme un fou](https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [1ère période](https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v) | 3:50 |
+| 33 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
 | 34 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
 | 35 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
 | 36 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
 | 37 | [Ailleurs](https://open.spotify.com/track/1UX0cAfJoC2mkPCbCxrKh3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 7:18 |
 | 38 | [L'amour est dans tes yeux](https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Ce soir l'amour est dans tes yeux](https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ) | 6:33 |
 | 39 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
-| 40 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
-| 41 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
-| 42 | [Shame on U](https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc) | [Ophélie Winter](https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP) | [Soon](https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX) | 4:37 |
+| 40 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
+| 41 | [Shame on U](https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc) | [Ophélie Winter](https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP) | [Soon](https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX) | 4:37 |
+| 42 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
 | 43 | [Tous les cris, les S.O.S.](https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 5:18 |
 | 44 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 45 | [Sous le vent](https://open.spotify.com/track/6lZ2KGdvuuYDxFSmrL5v1K) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/4OXnjT7CzgxXltJx6Vmt3I) | 3:31 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 71 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
 | 72 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 73 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
-| 74 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
-| 75 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
+| 74 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
+| 75 | [Tu t'en vas](https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc) | [Aucun Regret](https://open.spotify.com/artist/2YrEQN4rjMODioEZQrfvMM) | [Mixmania](https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl) | 3:26 |
 
-Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDQ2YWI3N2ZhZTJkY2Q4M2NhODZlYTYxZDE5MWZlODFm`
+Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDU1YTk3YmRiZmE2ZGNlMWMxYjEwNWUyOWI5Y2M0OGM5`

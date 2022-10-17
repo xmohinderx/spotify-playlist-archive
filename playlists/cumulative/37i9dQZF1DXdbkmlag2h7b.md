@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-136 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
+137 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,11 +36,12 @@
 | [Dedication](https://open.spotify.com/track/21MMzJpLrZ2Ib0nxlQzGvj) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Dedication](https://open.spotify.com/album/67JarFlTD4R1wIvwAV9ZUD) | 3:24 | 2021-12-09 | 2022-09-17 |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2021-12-09 |  |
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2021-12-09 |  |
-| [Divine Light \- Studio Edit](https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:00 | 2021-12-09 |  |
+| [Divine Light \- Studio Edit](https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:00 | 2021-12-09 | 2022-10-17 |
 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 | 2021-12-09 |  |
 | [Elder From Sabha](https://open.spotify.com/track/71pxVmA8KLRan0jiy8wQOM) | [Witch Soup](https://open.spotify.com/artist/1jNOARYSWbl7xffJBcKxR5) | [Trust and Ritual](https://open.spotify.com/album/7kYBaUfFo6CCBsEgdacAJj) | 3:09 | 2021-12-09 |  |
 | [Elementary Grounds](https://open.spotify.com/track/1dNqMaHUuT86QMuOAKCZvC) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Enter Stillness \- Studio Edit](https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:13 | 2021-12-09 |  |
+| [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-14 |  |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-22 |  |
 | [Eventide](https://open.spotify.com/track/5zCFuB2hlS85wzZGpdbM8H) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/0urqmPjvhqU7BqEDZ0C0Hs) | 4:31 | 2022-07-22 |  |
 | [Eventide](https://open.spotify.com/track/7v2yfaJ1RcMIW6zI2bjJW3) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/0bXWZEmeWEIVGQZ420Jn8R) | 4:31 | 2021-12-09 | 2022-07-29 |
@@ -55,7 +56,7 @@
 | [Gotham \(acoustic\)](https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [Gotham](https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c) | 2:30 | 2021-12-09 | 2022-07-11 |
 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 | 2021-12-09 |  |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2021-12-09 |  |
-| [Heaven like](https://open.spotify.com/track/7DgGJTm2pA8tLjEp2TIh2B) | [Tiz Lillux](https://open.spotify.com/artist/4JdnWiTAFBgOomzrS67VFm) | [Heaven like](https://open.spotify.com/album/2C339OpzphzqUHIuJ26ZFr) | 4:03 | 2021-12-09 |  |
+| [Heaven like](https://open.spotify.com/track/7DgGJTm2pA8tLjEp2TIh2B) | [Tiz Lillux](https://open.spotify.com/artist/4JdnWiTAFBgOomzrS67VFm) | [Heaven like](https://open.spotify.com/album/2C339OpzphzqUHIuJ26ZFr) | 4:03 | 2021-12-09 | 2022-10-17 |
 | [Hibernia Sleep](https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:26 | 2022-07-22 |  |
 | [Hibernia Sleep](https://open.spotify.com/track/35dy7TPuGURTSYJcTZIa1u) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [For What Awaits](https://open.spotify.com/album/2Tn3i33LXduCGay6j3ksLK) | 2:26 | 2021-12-09 | 2022-07-29 |
 | [Hope And Glory](https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:24 | 2021-12-09 |  |
@@ -104,7 +105,7 @@
 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 | 2021-12-09 |  |
 | [Renewing](https://open.spotify.com/track/7qRlRHuoa9Rh1lgm5exmkZ) | [Healing Echoes](https://open.spotify.com/artist/5oIYBXnlagVfSVIg2690cu) | [Renewing](https://open.spotify.com/album/4Dq0JNOmlEOjJNjsCGhqRY) | 3:22 | 2021-12-09 | 2022-07-29 |
 | [Saraya](https://open.spotify.com/track/3iqVvsJ10ib4hbIQYgli9f) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Saraya](https://open.spotify.com/album/2KOxOL9j37zXGXbTIrIzaN) | 2:28 | 2021-12-09 | 2022-07-29 |
-| [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 | 2022-07-22 | 2022-10-12 |
+| [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 | 2022-07-22 |  |
 | [Sentiments in Emptiness](https://open.spotify.com/track/5tlzeu9WthIjEDlRMY1Ko3) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/2M5fJOeUUEKlqNY0QLbjwX) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [Serum](https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Serum](https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT) | 3:44 | 2021-12-09 |  |
 | [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 | 2021-12-09 |  |

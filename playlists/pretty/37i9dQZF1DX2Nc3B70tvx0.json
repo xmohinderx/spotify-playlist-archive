@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: The 1975",
-  "num_followers": 2210424,
+  "num_followers": 2210442,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDhlZDNlZjA3ZWMyODkwMzk1NjUyNzY3YTI1MWVjMjlk",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDYxMTIwMGQyOTFkMzQxZGZlMDkzZDgzMjMxOGY1YmI3",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Cracker Island (feat. Thundercat)",
         "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "It's Not Just Me, It's Everybody",
-        "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Growing/Dying",
         "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 212093,
       "name": "Growing/Dying",
       "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Not Just Me, It's Everybody",
+        "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "e-motions (with Erika de Casier)",
         "url": "https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 168723,
       "name": "e-motions (with Erika de Casier)",
       "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 193277,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -871,6 +871,38 @@
       "duration_ms": 139146,
       "name": "im so happy",
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -915,34 +947,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -963,18 +979,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "God Save The Animals",
-        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 230464,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc"
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -991,6 +1007,22 @@
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "God Save The Animals",
+        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 230464,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1031,22 +1063,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 174558,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Home Video",
         "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z"
       },
       "artists": [
         {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL"
+      "duration_ms": 174558,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 237316,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "Self Portrait",
-      "url": "https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "All Day I Dream About",
         "url": "https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn"
       },
@@ -1223,6 +1223,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "Self Portrait",
+      "url": "https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 124247,
+      "name": "Pharmacist",
+      "url": "https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "wish i was dead",
         "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
       },
@@ -1235,38 +1267,6 @@
       "duration_ms": 98800,
       "name": "wish i was dead",
       "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Orange Blood",
-      "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
     }
   ],
   "unique_name": "Ultimate Indie",

@@ -1,12 +1,12 @@
 {
   "description": "Will you be my anti-valentine?",
-  "num_followers": 77996,
+  "num_followers": 78013,
   "original_name": "Anti-Valentine's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMGE1YzM2NTk2OTE5NzQ4NjVjZWNlZmYxZjViMTY3Y2Zm",
+  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMGZhMDAwZWU3ZTE0ZDc1OWUzMTVmMTAwMmE5ODdjNDUz",
   "tracks": [
     {
       "added_at": "2022-01-25 16:27:07",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 210746,
       "name": "Nice For What",
       "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "break up with your girlfriend, i'm bored",
+      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 217466,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 129599,
-      "name": "Go Fuck Yourself",
-      "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
         }
       ],
-      "duration_ms": 190440,
-      "name": "break up with your girlfriend, i'm bored",
-      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -587,6 +571,22 @@
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S"
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 218866,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Potential Breakup Song",
+        "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Heartbreak Hotel",
         "url": "https://open.spotify.com/album/3ZJcHCbExcyS4gcGIMeKlR"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 194253,
       "name": "Miss Movin' On",
       "url": "https://open.spotify.com/track/348qSa1KejmhpWgCpsfSxb"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Potential Breakup Song",
-        "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Potential Breakup Song",
-      "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
     },
     {
       "added_at": "2022-01-25 16:27:07",

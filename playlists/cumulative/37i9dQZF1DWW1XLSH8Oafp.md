@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring coco & clair clair
 
-408 songs - 23 hr 35 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+409 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [hover](https://open.spotify.com/track/1tJXHqMrfashk5Ur0DY340) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [u//me](https://open.spotify.com/album/6NZBxFRzWZFFHO87etHqNe) | 4:07 | 2022-09-16 |  |
 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 | 2022-06-17 | 2022-09-24 |
 | [Hurt Me No More](https://open.spotify.com/track/7AmYcfmLVEOm6lYdradkyI) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Hurt Me No More](https://open.spotify.com/album/6xZZzmSFYB1doPnyq1if4w) | 4:39 | 2022-09-30 |  |
-| [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 | 2022-06-10 |  |
+| [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 | 2022-06-10 |  |
+| [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 | 2022-06-10 | 2022-10-17 |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-09-14 |  |
 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 | 2022-03-25 |  |
 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 | 2022-07-08 | 2022-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,400 likes - 35 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,540 likes - 35 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 18 | [This Is for the Lover In You \(feat\. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels\)](https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Howard Hewett](https://open.spotify.com/artist/3S78Gzhp1D01i1x2KGXrnh), [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Jeffrey Daniels](https://open.spotify.com/artist/4LJ9G2mHQIu6z4NFvg5EhJ) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 3:59 |
 | 19 | [Love's In Need Of Love Today](https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Sonna](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Love's In Need Of Love Today](https://open.spotify.com/album/067timXrQdiROAy7dHLpIP) | 4:12 |
 | 20 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
-| 21 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
-| 22 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
+| 21 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
+| 22 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
 | 23 | [Open Your Eyes](https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH) | 3:21 |
 | 24 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
 | 25 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 |
 | 35 | [So Amazing](https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 4:10 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMGU5NGRiYWQ4OWExYmUxZWM1OTQ0NzIyNWU3NTcxZmI0`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDkwMTYzMTNlMmE5ODNlZTVjYTI0ZmJhZWY0OGU0MDFh`

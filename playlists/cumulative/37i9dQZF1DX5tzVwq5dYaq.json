@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "album": {
         "name": "TMRW",
         "url": "https://open.spotify.com/album/6dgQDrfjCOe7E8ruh1ruWa"
       },
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 202537,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n"

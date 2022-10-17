@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,421 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,480 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 32 | [Forward](https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Forward / Wreck Dive](https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN) | 3:16 |
 | 33 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 34 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [guest](https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 |
-| 35 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 |
-| 36 | [Morning Room I](https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:16 |
+| 35 | [Morning Room I](https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:16 |
+| 36 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 |
 | 37 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
 | 38 | [Abiogenesis](https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Philip\|Schneider](https://open.spotify.com/artist/2bElElQPQ3ETzGXA7hk4t2) | [Kasper Bjørke Quartet: Abiogenesis](https://open.spotify.com/album/3QcNobksry2yytTgmxFq36) | 12:24 |
 | 39 | [Drømmefanger \(Extended\)](https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Kingdom Two Crowns: Norse Lands Soundtrack \(Extended\)](https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry) | 3:03 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 42 | [Spirit of the Forest](https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Spirit of the Forest](https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD) | 2:43 |
 | 43 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 |
 | 44 | [The Journey](https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:55 |
-| 45 | [Chapitre I](https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Lost in Time](https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7) | 1:54 |
-| 46 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 |
+| 45 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 |
+| 46 | [Chapitre I](https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Lost in Time](https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7) | 1:54 |
 | 47 | [Strong, Calm, Slow](https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Cliodynamics](https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6) | 3:58 |
-| 48 | [Silent Talk](https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 4:55 |
-| 49 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 |
+| 48 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 |
+| 49 | [Silent Talk](https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 4:55 |
 | 50 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 |
 
-Snapshot ID: `MTY2NTQwNzIyMiwwMDAwMDAwMDUzN2M2MDU5YWMyNDQ0OGRlNDRjZGQ2NDQ3ZjI5Mzcw`
+Snapshot ID: `MTY2NTQwNzIyMiwwMDAwMDAwMDc1ZWRlYmZhNjU1MWMwMWRjZjI1NzQxNjRhMzFiM2Jj`

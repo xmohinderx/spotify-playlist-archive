@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-581 songs - 1 day 6 hr 57 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+582 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Feel Love](https://open.spotify.com/track/2rEepd7vMT7nySNBliu8VU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/1ekyxoUytdZjVwOR5teXlm) | 3:43 | 2022-05-19 | 2022-07-28 |
 | [Feels Like A Dream](https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Feels Like A Dream](https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw) | 2:52 | 2022-09-01 |  |
 | [Fine](https://open.spotify.com/track/3p52HKLY1X9Vfvkkajpfwd) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Fine](https://open.spotify.com/album/53p4lvVH4RV76OQj6evdOx) | 3:25 | 2022-03-10 | 2022-09-16 |
-| [Fint i mörker](https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:20 | 2022-06-16 |  |
+| [Fint i mörker](https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:20 | 2022-06-16 | 2022-10-17 |
 | [Fire Burns You Cold](https://open.spotify.com/track/25ffJRgALd9ZCr22nHl8OJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [King of a Tragedy](https://open.spotify.com/album/2RT1sORIDrrIu1lRkCbCYi) | 3:34 | 2022-04-07 | 2022-06-12 |
 | [First aid kit](https://open.spotify.com/track/2yFyfHHGesFqs39fATQzQA) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [First Place](https://open.spotify.com/track/30OOcKVwvFSOEPOlPUPW8J) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [First Place](https://open.spotify.com/album/40NbNPVyrVG549WUMtVYhQ) | 3:13 | 2021-12-16 | 2022-01-04 |
@@ -393,6 +393,7 @@
 | [Puss & Kram](https://open.spotify.com/track/55Naz76St5cjVtWnmo8SBs) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:35 | 2021-12-16 | 2022-01-11 |
 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 | 2022-03-10 | 2022-09-16 |
 | [På en buss](https://open.spotify.com/track/5eZ5OiDd7jbFQuVAJfz6QZ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [På en buss](https://open.spotify.com/album/4G8OvA597Stb4BApPYss1g) | 2:47 | 2021-12-16 | 2022-03-11 |
+| [På En Lördag](https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [På En Lördag](https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS) | 2:32 | 2022-10-15 |  |
 | [På låtsas](https://open.spotify.com/track/0APTVcLFgMI85RIIpX0h0P) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [På låtsas](https://open.spotify.com/album/4wC5w2OOBNksd8k7uhPmG1) | 3:59 | 2022-03-04 | 2022-09-16 |
 | [På Låtsas](https://open.spotify.com/track/6tmYCYP4Pszgn8gn03jMTj) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [På Låtsas](https://open.spotify.com/album/1eeoNToKQKBnGLHwCVldEW) | 3:09 | 2022-01-27 | 2022-07-22 |
 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 | 2021-12-16 | 2022-05-07 |

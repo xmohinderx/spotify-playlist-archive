@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Mariah The Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,750,697 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750,791 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 53 | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/track/67epLDPaekqbQcxV0tNMVZ) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/album/0fIwvs8RMDBB2l0CGuuWcU) | 3:24 |
 | 54 | [Psychic](https://open.spotify.com/track/0PwC30wtoEQ1nxoG6DZoFO) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:40 |
 | 55 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
-| 56 | [Long Day \(Pussy Crazy\) \(feat\. Gwen Bunn\)](https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:38 |
+| 56 | [Long Day \(Pussy Crazy\)](https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:38 |
 | 57 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
 | 58 | [Compromise \(feat\. Rema\)](https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:15 |
 | 59 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |

@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 834988,
+  "num_followers": 835233,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDgwYmJlYTVmNWFhOWM3NzNmY2YzNmE1ZTAwMzQ4OWNk",
+  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDViMWY5MmU5NDBiYTg1OGYxYTZjYTY5MTNjYmJkNGQ4",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 269323,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Aeroplane Flies High (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 252986,
       "name": "1979 - Acoustic",
       "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 269323,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Are You Gonna Be My Girl",
         "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 237173,
       "name": "Are You Gonna Be My Girl - Acoustic",
       "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "The Best Of - Volume One",
-        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
-      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "7 (Acoustic)",
         "url": "https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 252320,
       "name": "7 - Acoustic",
       "url": "https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "The Best Of - Volume One",
+        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
+      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Space (Orchestral Version)",
-        "url": "https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd"
+        "name": "Talihina Sky",
+        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Space - Acoustic Version",
-      "url": "https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od"
+      "duration_ms": 206253,
+      "name": "Talihina Sky - Acoustic Version",
+      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
     }
   ],
   "unique_name": "Acoustic Rock",

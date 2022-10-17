@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,800 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,829 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 42 | [Stella](https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf) | [The Lost Astronaut](https://open.spotify.com/artist/2th806MD01Yc7JKd06uJ14) | [Stella](https://open.spotify.com/album/1ai1jBFImpmxd6KkSPZtMX) | 3:00 |
 | 43 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 |
 | 44 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 |
-| 45 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 |
-| 46 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 |
+| 45 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 |
+| 46 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 |
 | 47 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
 | 48 | [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 |
 | 49 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 |
 | 50 | [Hidden Track](https://open.spotify.com/track/4abHSCaJj851TyH79IvBJ2) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/0zfTCeq90Hqy38fhijlPtz) | 2:52 |
-| 51 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 |
-| 52 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 |
+| 51 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 |
+| 52 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 |
 | 53 | [Dunes](https://open.spotify.com/track/0XY3HwzcxaP1cM1lWR61bE) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Ethereal Dream](https://open.spotify.com/album/3zt0kYKy8vVLE9Px2ZpEOn) | 2:16 |
 | 54 | [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 |
 | 55 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 72 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 |
 | 73 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 |
 | 74 | [Back to the Start](https://open.spotify.com/track/4Pdnt4VOAv26b1ILvtAoRj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:47 |
-| 75 | [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 |
-| 76 | [First Light](https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Daily Light](https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe) | 2:42 |
+| 75 | [First Light](https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Daily Light](https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe) | 2:42 |
+| 76 | [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 |
 | 77 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 |
 | 78 | [Split Second](https://open.spotify.com/track/6fWoRDNfECgRS3au8UjMqA) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Split Second](https://open.spotify.com/album/62jzv9TYMKZhDgxo1e0fA2) | 2:33 |
 | 79 | [Dormio](https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Dormio](https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh) | 2:39 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 86 | [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 |
 | 87 | [Reversoothes](https://open.spotify.com/track/61JqDmHZeYLK2RclRBSr9F) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Reversoothes](https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ) | 3:07 |
 | 88 | [Mission at Beccles](https://open.spotify.com/track/0873bg61Q7WoVoKJXzNQCD) | [underwaters](https://open.spotify.com/artist/1ISTqu0xKeFelPqY4lYVOM) | [Mission at Beccles](https://open.spotify.com/album/233G9MsUHRJCERpaVpTaFS) | 3:16 |
-| 89 | [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 |
-| 90 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 |
+| 89 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 |
+| 90 | [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 |
 | 91 | [Bring in the Sun](https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [A Refreshing Dimension](https://open.spotify.com/album/3OtvM6ApQUDxd09LZMbUj5) | 4:00 |
 | 92 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 |
 | 93 | [Crystal Clear](https://open.spotify.com/track/66GTXFs0Q12Z2xsk4Uvc8e) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Marimba Morning](https://open.spotify.com/album/7tFKm8g3vPBaV5GBPu3Had) | 2:15 |
-| 94 | [Bordeaux Moon](https://open.spotify.com/track/09JbJj21UNrdtkj9G3j625) | [Julie G.](https://open.spotify.com/artist/1VG91IxmTFXz0RCvxb0K4t) | [Bordeaux Moon](https://open.spotify.com/album/2UYphakqsLg8j9EBBpLSNd) | 2:56 |
-| 95 | [Galactic Walz](https://open.spotify.com/track/2SHMIYyt2YYPkginGos4Bu) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Galactic Walz](https://open.spotify.com/album/0DSNkmAdy7JO20OCOV7Afb) | 3:26 |
-| 96 | [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 |
-| 97 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 |
-| 98 | [Breathing Space](https://open.spotify.com/track/1jSZD1nuMd0N1UBDwXzj1r) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/4vNAJb2kHQGi8hpYHhAvmG) | 2:33 |
+| 94 | [Galactic Walz](https://open.spotify.com/track/2SHMIYyt2YYPkginGos4Bu) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Galactic Walz](https://open.spotify.com/album/0DSNkmAdy7JO20OCOV7Afb) | 3:26 |
+| 95 | [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 |
+| 96 | [Breathing Space](https://open.spotify.com/track/1jSZD1nuMd0N1UBDwXzj1r) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/4vNAJb2kHQGi8hpYHhAvmG) | 2:33 |
+| 97 | [Bordeaux Moon](https://open.spotify.com/track/09JbJj21UNrdtkj9G3j625) | [Julie G.](https://open.spotify.com/artist/1VG91IxmTFXz0RCvxb0K4t) | [Bordeaux Moon](https://open.spotify.com/album/2UYphakqsLg8j9EBBpLSNd) | 2:56 |
+| 98 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 |
 | 99 | [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 |
 | 100 | [It's Called, 'Daisy'](https://open.spotify.com/track/2qCtOCuNdXmTpi2o4XHK8N) | [Her Name Is Calla](https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy) | [Navigator \(Bonus Track Version\)](https://open.spotify.com/album/3EBqUA7UyLahCbp7s5Wec1) | 1:52 |
 
-Snapshot ID: `MTY2NTc2MTk5MiwwMDAwMDAwMDE1ZGQ1ZjY3ZjgzMDQyZDNlOTg2ODRlN2RlOTEyYTRl`
+Snapshot ID: `MTY2NTc2MTk5MiwwMDAwMDAwMGRiNjQ1ZGQ1YTkwZmIwN2MxMmQ2OWIzNWRiMTJhZTJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,968 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,035 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 82 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 |
 | 83 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
 | 84 | [Sensitive](https://open.spotify.com/track/2gcs6LDGhgoIrZio5Z2d3P) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/7eMlwcdSlN4TqLgamB0Qal) | 2:37 |
-| 85 | [Eighteen](https://open.spotify.com/track/0Vo9cyMCixFq5n93LjiOGq) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5nIPa04mVwZKnOjgr0SUBU) | 2:56 |
+| 85 | [Eighteen](https://open.spotify.com/track/2nedsXMQLeKmvRYoLAGOuh) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5SwILpenGYOUgKAxG5lT7v) | 2:56 |
 | 86 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 |
 | 87 | [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 |
 | 88 | [11:45 in Nolita](https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Flight Tag](https://open.spotify.com/album/2UBuPuR4sKbSRxJPtdJfR0) | 2:15 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 125 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGY1NGRlM2VkNTEyN2Q0MmUyZTJhZTczYWEzOTM0YTk2`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGMxYjAyMWM1NjBkOTBhNzQyZmZhNzYxOWNjZjQ3OTNk`

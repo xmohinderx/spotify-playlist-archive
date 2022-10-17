@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,766 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,779 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 39 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
 | 40 | [Morning Light](https://open.spotify.com/track/58FDKxg4uUVEOV0lSRHnQf) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Morning Light](https://open.spotify.com/album/61RZZpsBP6RXUofd4uv5NZ) | 3:14 |
 | 41 | [On the Train Ride Home](https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:47 |
-| 42 | [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 |
+| 42 | [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 |
 | 43 | [The Dirt](https://open.spotify.com/track/2NDC19WBHec7k6ov7tbLgD) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [The Dirt](https://open.spotify.com/album/6z5nCymiIDTDBaClbPK0gv) | 2:41 |
 | 44 | [I Know](https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP) | [Micah & Julia](https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE) | [I Know](https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR) | 3:19 |
 | 45 | [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 |
 | 100 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 |
 
-Snapshot ID: `MTY2NDIwMDIzMiwwMDAwMDAwMGRkZjE1YWNlYmU3NjlmMmQ2MmQzMmE3OWQ4YTcxYjI4`
+Snapshot ID: `MTY2NDIwMDIzMiwwMDAwMDAwMDlmNTc5MDQ3NWM4NTI4NjhjYTYxOWY3NDlkYzg5OWMz`

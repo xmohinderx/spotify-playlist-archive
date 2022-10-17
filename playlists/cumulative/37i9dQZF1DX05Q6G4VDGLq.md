@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-323 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+326 songs - 20 hr 47 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-30 |  |
 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 | 2022-06-28 |  |
 | [Caithness](https://open.spotify.com/track/6qmiDC8t6n6J817uqAhMYE) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Caithness](https://open.spotify.com/album/6DmokzCx6if1Lt1HCfvmKP) | 3:01 | 2022-06-28 | 2022-10-08 |
-| [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-28 |  |
+| [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-28 | 2022-10-17 |
 | [Carpet Ride](https://open.spotify.com/track/4kfcIpwJoHkFbGOX0kmGzX) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Carpet Ride](https://open.spotify.com/album/3RXDEBnOTcxHf3CJBoD7DM) | 2:26 | 2022-06-28 | 2022-10-02 |
 | [Casual](https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Casual](https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL) | 3:40 | 2022-08-30 |  |
 | [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-06-28 |  |
@@ -60,7 +60,7 @@
 | [Danny´s Dream](https://open.spotify.com/track/5X7wI6LqZfnp6XGYRSktPo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [If You Could See Me Now](https://open.spotify.com/album/6zyhwDtl3VvpjMUksJQMDl) | 3:34 | 2022-06-28 | 2022-10-08 |
 | [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 | 2022-06-28 |  |
 | [Dedicated To You](https://open.spotify.com/track/6WKFDVPOkenQ8cXv4uB9xl) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [My Old Friend](https://open.spotify.com/album/7akq0fBZz06m8UB19Cxsjf) | 3:35 | 2022-06-28 | 2022-10-08 |
-| [Deep In A Dream](https://open.spotify.com/track/0P0YUfbBRKa1GSCSWmFd2p) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:42 | 2022-06-28 |  |
+| [Deep In A Dream](https://open.spotify.com/track/0P0YUfbBRKa1GSCSWmFd2p) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:42 | 2022-06-28 | 2022-10-17 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-06-28 |  |
 | [Désespérés](https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Désespérés](https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL) | 3:41 | 2022-06-28 | 2022-10-08 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-06-28 |  |
@@ -158,6 +158,7 @@
 | [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-30 |  |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2022-06-28 | 2022-10-08 |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-30 |  |
+| [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-13 |  |
 | [La Libertad](https://open.spotify.com/track/3BGvwaiA1ovpsyAj0uytZ8) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [La Libertad](https://open.spotify.com/album/2tH7CSK6nIN8Y0mFeUut93) | 3:21 | 2022-06-28 |  |
 | [La Vie en rose](https://open.spotify.com/track/5E5quIvMG1ZlnwFqSolvhx) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [La Vie en rose](https://open.spotify.com/album/5FHVsjOvLsFzLPyxWBmM9E) | 2:48 | 2022-06-28 | 2022-10-08 |
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-06-28 |  |
@@ -178,6 +179,7 @@
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-28 |  |
 | [Love by the Shore](https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4) | [Aurelius Markus Trio](https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf) | [Love by the Shore](https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0) | 4:53 | 2022-06-28 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2022-06-28 | 2022-10-08 |
+| [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2022-08-30 |  |
 | [Lucidity](https://open.spotify.com/track/26Ei3Nv4ZZpSNDoGLWlcmR) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Lucidity](https://open.spotify.com/album/30ilOuAd7ASl8gFQeD4a1v) | 3:30 | 2022-08-30 |  |
 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 | 2022-06-28 |  |
@@ -225,7 +227,7 @@
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2022-06-28 |  |
 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 | 2022-06-28 |  |
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-06-28 |  |
-| [Out of a misty dream](https://open.spotify.com/track/487y37ICkH10Ve0u0kvia1) | [Milo Oliver Band](https://open.spotify.com/artist/1utH7b11duWqqaVmgGFW9H) | [Love is not so easily shed](https://open.spotify.com/album/2kpK0IAXQzd7nRGtJBa8yo) | 3:12 | 2022-06-28 |  |
+| [Out of a misty dream](https://open.spotify.com/track/487y37ICkH10Ve0u0kvia1) | [Milo Oliver Band](https://open.spotify.com/artist/1utH7b11duWqqaVmgGFW9H) | [Love is not so easily shed](https://open.spotify.com/album/2kpK0IAXQzd7nRGtJBa8yo) | 3:12 | 2022-06-28 | 2022-10-17 |
 | [Peace](https://open.spotify.com/track/6qxR6arAISIf7Mm2ynH4u1) | [William Carter Band](https://open.spotify.com/artist/4hUzAt6msIzmNC8jQE0X28) | [Relaxin' at Camarillo](https://open.spotify.com/album/1N5BtVcBtLY8cSF2XdjwwE) | 3:13 | 2022-06-28 | 2022-10-08 |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-21 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2022-06-28 |  |
@@ -311,6 +313,7 @@
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-08-30 |  |
 | [Very Early](https://open.spotify.com/track/0FISgNw6RbJZ2fmN40Tb5X) | [Gustav Scheringer Duo](https://open.spotify.com/artist/3CfxR9NQPgG8w5QumsF3ca) | [Ill Wind](https://open.spotify.com/album/5i2aRJc5JY9sZP4yNhT3lO) | 5:04 | 2022-06-28 | 2022-10-08 |
 | [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2022-06-28 | 2022-10-08 |
+| [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2022-10-13 |  |
 | [W 52nd Street](https://open.spotify.com/track/37UFqtGPmHXElXarXjFtn5) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [W 52nd Street](https://open.spotify.com/album/6mURKCToOEmWlZkDeDduqU) | 3:43 | 2022-09-29 |  |
 | [Walking on Clouds](https://open.spotify.com/track/6R1XRia3u8IRBaHs6LBBGr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Walking On Clouds](https://open.spotify.com/album/6hH88gvmgvTtEIsLVdarSD) | 2:02 | 2022-06-28 | 2022-10-08 |
 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 | 2022-06-28 |  |

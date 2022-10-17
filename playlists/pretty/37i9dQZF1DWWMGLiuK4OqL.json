@@ -1,12 +1,12 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 118552,
+  "num_followers": 118804,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU3ODU5OSwwMDAwMDAwMGRmOWU2OTBlOGNkNmFjNDRiOTEyMmYxZWIxNzlhMDMy",
+  "snapshot_id": "MTY2NTU3ODU5OSwwMDAwMDAwMDY3NTgyYmY2MjlhZDQ3MGJmZDU1MzE4ZGQ3OWUwNzFm",
   "tracks": [
     {
       "added_at": "2022-10-12 12:10:59",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
         "name": "Balm in Gilead",
         "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 180493,
       "name": "The Moon Is Made of Gold",
       "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
         "name": "Travelin' Light",
         "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
       },
@@ -939,18 +923,34 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Welcome To My Love",
-        "url": "https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh"
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
         }
       ],
-      "duration_ms": 188240,
-      "name": "For Once In My Life - Remastered/1994",
-      "url": "https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo"
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+        "name": "Welcome To My Love",
+        "url": "https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
+      "duration_ms": 188240,
+      "name": "For Once In My Life - Remastered/1994",
+      "url": "https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
-      },
-      "artists": [
-        {
-          "name": "Changes",
-          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
-        },
-        {
-          "name": "Elin Bemark",
-          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
-        }
-      ],
-      "duration_ms": 272784,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
         "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
         "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
       },
@@ -1123,6 +1103,26 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
+      },
+      "artists": [
+        {
+          "name": "Changes",
+          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
+        },
+        {
+          "name": "Elin Bemark",
+          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
+        }
+      ],
+      "duration_ms": 272784,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "Something In The Air Between Us",
-      "url": "https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
         "name": "The Very Best Of Julie London",
         "url": "https://open.spotify.com/album/5l5YSf1QBiVhoUKBQX9lOh"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 155866,
       "name": "Sway - Remastered",
       "url": "https://open.spotify.com/track/1LQpHqd7s22WHogUGJdgqJ"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Something In The Air Between Us",
+      "url": "https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 301543,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 162866,
       "name": "I've Grown Accustomed To Her Face - Remastered/1998",
       "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 301543,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
         "name": "Helen Merill",
         "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 259959,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/5J6264keZ3ksbsHwef1U7G"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
-        "name": "Black Acid Soul",
-        "url": "https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 200725,
-      "name": "Five Feet Tall",
-      "url": "https://open.spotify.com/track/3Td12QdISvxCc924l70f8n"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
+        "name": "Black Acid Soul",
+        "url": "https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 200725,
+      "name": "Five Feet Tall",
+      "url": "https://open.spotify.com/track/3Td12QdISvxCc924l70f8n"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
         "name": "Avant-Garde Jazz (Remastered)",
         "url": "https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N"
       },
@@ -1487,38 +1503,18 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Dreamers Do",
+        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
         }
       ],
-      "duration_ms": 173640,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+      "duration_ms": 164693,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -1539,18 +1535,22 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
-        "name": "Dreamers Do",
-        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
       "artists": [
         {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 164693,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
     },
     {
       "added_at": "2022-10-12 12:10:59",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-10-12 12:10:59",
       "album": {
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 306795,
+      "name": "If I Ain\u2019t Got You",
+      "url": "https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW"
+    },
+    {
+      "added_at": "2022-10-12 12:10:59",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 250936,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
-    },
-    {
-      "added_at": "2022-10-12 12:10:59",
-      "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 306795,
-      "name": "If I Ain\u2019t Got You",
-      "url": "https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW"
     },
     {
       "added_at": "2022-10-12 12:10:59",

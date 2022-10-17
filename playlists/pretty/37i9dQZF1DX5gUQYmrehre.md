@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,374 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,382 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 31 | [Amor Libre](https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:11 |
 | 32 | [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 |
 | 33 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 |
-| 34 | [Time I Love To Waste](https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:17 |
-| 35 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 |
-| 36 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
+| 34 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
+| 35 | [Time I Love To Waste](https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:17 |
+| 36 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 |
 | 37 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
 | 38 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
 | 39 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 61 | [DWYSSWM \(Don't Worry Your Secret's Safe with Me\)](https://open.spotify.com/track/6iPiRxI2j02GQBFQLu06G2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:09 |
 | 62 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 63 | [Green Line](https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o) | 3:26 |
-| 64 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 |
-| 65 | [For You](https://open.spotify.com/track/5AkF7FqmUUJbPPrQ0OazOc) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/6OcYD13rTjmihZu2I5Xn5K) | 3:26 |
+| 64 | [For You](https://open.spotify.com/track/5AkF7FqmUUJbPPrQ0OazOc) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/6OcYD13rTjmihZu2I5Xn5K) | 3:26 |
+| 65 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 |
 | 66 | [Child Of The Government](https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Child Of The Government](https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L) | 3:41 |
-| 67 | [We Can Fall In Love](https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [We Can Fall In Love](https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u) | 2:44 |
-| 68 | [Tavern Kween](https://open.spotify.com/track/7h62eL1f1ujScn9lvQ0rH9) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Desire](https://open.spotify.com/album/025L0VtAaySW1AwMJOq4b2) | 5:08 |
+| 67 | [Tavern Kween](https://open.spotify.com/track/7h62eL1f1ujScn9lvQ0rH9) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Desire](https://open.spotify.com/album/025L0VtAaySW1AwMJOq4b2) | 5:08 |
+| 68 | [We Can Fall In Love](https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [We Can Fall In Love](https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u) | 2:44 |
 | 69 | [Monster](https://open.spotify.com/track/7KRJHqHvQmbLgeM9n2Y2m4) | [Julia Alfrida](https://open.spotify.com/artist/4GcW03232y77FiMhneVmKd) | [Monster](https://open.spotify.com/album/4iaPPEoGvmlZAYQNa6Sw79) | 2:53 |
 | 70 | [Jóia da Rotina](https://open.spotify.com/track/0RSoneV5ikvQZGLBkl2Iee) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Revezo](https://open.spotify.com/album/0UHlZADJ94J9X41r3vk8yC) | 3:39 |
 | 71 | [bad grades](https://open.spotify.com/track/79XMsrWtKj2bDCZQ8aYgDq) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [waiting room](https://open.spotify.com/album/7sXwDGZWiZwA7jkR6Y0HhR) | 3:26 |
-| 72 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
-| 73 | [indirecta](https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [llorar y perrear](https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9) | 2:49 |
+| 72 | [indirecta](https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [llorar y perrear](https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9) | 2:49 |
+| 73 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
 | 74 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 |
 | 75 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 |
 | 76 | [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 82 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 83 | [si estuviésemos juntos](https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:50 |
 | 84 | [Bak](https://open.spotify.com/track/7N2gCnTpozX6lgCWI298uZ) | [Kerem](https://open.spotify.com/artist/1gMjD6ABGUJCth7z7VB8Ix) | [Bak](https://open.spotify.com/album/613rgXdBZLdTvjc7T7hhuU) | 2:52 |
-| 85 | [Cassandra](https://open.spotify.com/track/2IzvvXVObhaZgyKQF6ajkU) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/0IjZeZ1jjg3cguTdjhLhQP) | 4:01 |
-| 86 | [slipping](https://open.spotify.com/track/2SJL5stXLTLVd9dNeHhJP4) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [slipping](https://open.spotify.com/album/2em3qyO88TFY3Aouhr2UQ7) | 3:22 |
+| 85 | [slipping](https://open.spotify.com/track/2SJL5stXLTLVd9dNeHhJP4) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [slipping](https://open.spotify.com/album/2em3qyO88TFY3Aouhr2UQ7) | 3:22 |
+| 86 | [Cassandra](https://open.spotify.com/track/2IzvvXVObhaZgyKQF6ajkU) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/0IjZeZ1jjg3cguTdjhLhQP) | 4:01 |
 | 87 | [Fatbulous](https://open.spotify.com/track/41Pl90RIquJRbHOlgRsKj2) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [Fatbulous](https://open.spotify.com/album/1ZulCdKnccUwlwhbKsG8Be) | 2:51 |
 | 88 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:46 |
-| 89 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
-| 90 | [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 |
+| 89 | [You're \(Still\) in Love](https://open.spotify.com/track/4vUoc2Ci14g4HfiBwi4MoA) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [You're \(Still\) in Love](https://open.spotify.com/album/0i6G10wAzjmdT2b0UaG3Dt) | 4:20 |
+| 90 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMGYxNjQwZjI1YzI1MzIyZjBhYzhiODQ0NTgwZDI0NGZl`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMGRhNDhlNjE3ODE2YWNhMjVjNjUyNzA3NWVhMTAyMDVk`

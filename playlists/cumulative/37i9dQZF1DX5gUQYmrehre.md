@@ -4,7 +4,7 @@
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-98 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6tZ9oOtL1fmmsmHpgOrWJQ)
+99 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/6tZ9oOtL1fmmsmHpgOrWJQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Flores No Mar](https://open.spotify.com/track/4sw5ft6s70lPDlCa1YRWks) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar](https://open.spotify.com/album/5v74vfk850Sq7cGTDqwPbP) | 4:23 | 2022-05-31 | 2022-09-20 |
 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Emmanuelle](https://open.spotify.com/artist/0Nk7sMy6t6Kk9u6zkzF0ri) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 4:23 | 2022-05-31 |  |
 | [Focus](https://open.spotify.com/track/0mgsHH0BTeyTDNunw18xXO) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/3yxVt38ouvkpZh2AYTx65z) | 3:19 | 2022-05-31 | 2022-10-05 |
-| [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 | 2022-05-31 |  |
+| [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 | 2022-05-31 | 2022-10-17 |
 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 | 2022-05-31 |  |
 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 | 2022-05-31 |  |
 | [For You](https://open.spotify.com/track/2XmbjslL9zkGfs2UoR2xxf) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/1PdyqDAp7Dc9yFQHTjY8qp) | 3:26 | 2022-05-31 | 2022-10-13 |
@@ -100,6 +100,7 @@
 | [We Can Fall In Love](https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [We Can Fall In Love](https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u) | 2:44 | 2022-05-31 |  |
 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2022-05-31 |  |
 | [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 | 2022-05-31 |  |
+| [You're \(Still\) in Love](https://open.spotify.com/track/4vUoc2Ci14g4HfiBwi4MoA) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [You're \(Still\) in Love](https://open.spotify.com/album/0i6G10wAzjmdT2b0UaG3Dt) | 4:20 | 2022-05-31 |  |
 | [You're \(Still\) in Love](https://open.spotify.com/track/6YLJSseL1MrX9ribPhyBQx) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [You're \(Still\) in Love](https://open.spotify.com/album/37rfmyvdEnTu9cWsJAJjcb) | 4:20 | 2022-05-31 | 2022-10-15 |
 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 | 2022-05-31 |  |
 | [פעמון](https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [פעמון](https://open.spotify.com/album/5wQZzk2q5CM90DIvSB7LRH) | 3:00 | 2022-05-31 |  |

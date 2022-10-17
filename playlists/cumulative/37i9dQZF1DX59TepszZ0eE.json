@@ -1379,7 +1379,7 @@
     {
       "album": {
         "name": "You Fight for Me",
-        "url": "https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj"
+        "url": "https://open.spotify.com/album/1QbjMiY42plzk741oVrGS6"
       },
       "artists": [
         {
@@ -1390,6 +1390,24 @@
       "date_added": "2020-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 279267,
+      "name": "You Fight for Me",
+      "url": "https://open.spotify.com/track/0CxIQOBPmOqPrKyspAc78m"
+    },
+    {
+      "album": {
+        "name": "You Fight for Me",
+        "url": "https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Buchanan",
+          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 279267,
       "name": "You Fight for Me",
       "url": "https://open.spotify.com/track/0u7YkWTgB1r4jFRo15LivX"

@@ -4,7 +4,7 @@
 
 > Let us take care of your workday soundtrack.
 
-163 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
+164 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 | 2021-08-12 |  |
 | [Like I Used To](https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/3lTAIzdI3ggBc6AtZTqXRS) | 4:23 | 2021-08-12 | 2022-07-29 |
 | [Like Sand](https://open.spotify.com/track/2fWlUgX2Qa44ZQCT2rKF0U) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/7pOUfwJOC4mxZ5sIaYJ48H) | 4:31 | 2021-08-12 | 2022-10-15 |
+| [Like Sand](https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6) | 4:31 | 2021-08-12 |  |
 | [Long Grass](https://open.spotify.com/track/3pzoWKpvQ8nPGFDt5Vsu38) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/58Z4hNM3qOjMFwDV4Ap2np) | 3:58 | 2021-08-12 | 2022-07-29 |
 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 | 2021-08-12 |  |
 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 | 2021-08-12 |  |
@@ -112,7 +113,7 @@
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-08-12 | 2022-07-29 |
 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 | 2021-08-12 |  |
 | [nightmares](https://open.spotify.com/track/6BxhzevDe4Mzrabj9Pa1eZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:27 | 2021-08-12 |  |
-| [obsessed](https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [obsessed](https://open.spotify.com/album/2RgYgVbpfItLr4jj3exBqF) | 4:56 | 2021-08-12 |  |
+| [obsessed](https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [obsessed](https://open.spotify.com/album/2RgYgVbpfItLr4jj3exBqF) | 4:56 | 2021-08-12 | 2022-10-17 |
 | [Oh GOD](https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:46 | 2021-08-12 |  |
 | [oh GOD](https://open.spotify.com/track/78x4xRisFJS0eniXD3rIhk) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:47 | 2021-08-12 | 2022-07-29 |
 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 | 2021-08-12 | 2022-07-29 |

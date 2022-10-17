@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-241 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+242 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Crime em Tânger](https://open.spotify.com/track/5RDLAg3zVPTlsmOlKNNGf9) | [Rapaz Ego](https://open.spotify.com/artist/6KZN67WFv4KQC5kWnCJePK) | [Crime em Tânger](https://open.spotify.com/album/4RGncxsGvUjxsu1A947z4I) | 4:29 | 2021-11-12 | 2022-07-28 |
 | [curl your toes, clench your fists](https://open.spotify.com/track/5Y4QJNJ1Ebr7aCkRuhEUhf) | [Slugabed](https://open.spotify.com/artist/7lGyDgJJYSgOd9R5T4Cwe4), [Miles Spilsbury](https://open.spotify.com/artist/23ZeblILk9U5IlYwQlacaq) | [curl your toes, clench your fists](https://open.spotify.com/album/6sZbrZyD6a9fOyep454rLv) | 7:14 | 2021-11-12 | 2022-07-19 |
 | [Damaged Eyes Squinting into the Beautiful Overhot Sun](https://open.spotify.com/track/0eqsixwwOHKerHiBmaqQQG) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Future Teenage Cave Artists](https://open.spotify.com/album/4I9skhRTov4hKAxAgoclt3) | 3:58 | 2021-11-12 | 2022-06-30 |
-| [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 | 2022-08-31 |  |
+| [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 | 2022-08-31 | 2022-10-17 |
 | [Disciplina](https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Sem Bênção / Sem Crença](https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg) | 5:28 | 2021-11-12 | 2022-07-27 |
 | [Distant Restart](https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Distant Restart](https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF) | 3:21 | 2021-11-12 | 2022-07-28 |
 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 | 2021-11-12 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [Jibun](https://open.spotify.com/track/66CjKDUkUCExMT7F8OttqQ) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [nijimusi](https://open.spotify.com/album/6rUzwLxYVL5ce6sCipV66E) | 6:16 | 2021-11-12 | 2022-07-27 |
 | [Joe Frazier](https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Joe Frazier](https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6) | 5:38 | 2021-11-12 |  |
 | [Jukebox Babe](https://open.spotify.com/track/3KZcO29G6BjqIJbdsRg0Mo) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/6elsYtkFCr0vejWHg9sTG9) | 6:24 | 2021-11-12 | 2022-07-18 |
+| [Jukebox Babe](https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV) | 6:24 | 2021-11-12 |  |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi) | [Ananda Shankar](https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ) | [Ananda Shankar \(US Internet Release\)](https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3) | 3:35 | 2021-11-12 |  |
 | [kawasemi Ah](https://open.spotify.com/track/1uxhSPG2TZcPWzz2i6HAva) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [kawasemi Ah](https://open.spotify.com/album/7DSgMFaVIJceU7LUSapL43) | 8:24 | 2021-11-12 | 2022-07-28 |
 | [Kepler\-22b](https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Kepler\-22b](https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP) | 3:12 | 2022-04-20 | 2022-09-10 |

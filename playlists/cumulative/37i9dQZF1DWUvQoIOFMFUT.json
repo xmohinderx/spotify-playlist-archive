@@ -153,7 +153,7 @@
     {
       "album": {
         "name": "BABY",
-        "url": "https://open.spotify.com/album/6idnvaWV0PIhWg1Rfprj2W"
+        "url": "https://open.spotify.com/album/72SidVDUgWuk9EmejhPnth"
       },
       "artists": [
         {
@@ -164,6 +164,24 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204480,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/3ZpXjkbF60sdM56xe0gBGO"
+    },
+    {
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/6idnvaWV0PIhWg1Rfprj2W"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 204480,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7J1x7McujflNLwsZApw7Yl"

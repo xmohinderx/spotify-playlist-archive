@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-4,676 songs - 10 day 4 hr 24 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+4,677 songs - 10 day 4 hr 27 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3826,7 +3826,8 @@
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 | 2022-08-05 |
 | [Sunbeams](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Sunbeams](https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY) | 2:27 | 2022-07-29 | 2022-08-05 |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-03-31 | 2022-04-08 |
-| [Sunday Night](https://open.spotify.com/track/6hBiDF5wEVqEY1v1AFcs5o) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/5u6YdrD5sX0yXSRxc4y6H2) | 2:30 | 2022-10-13 |  |
+| [Sunday Night](https://open.spotify.com/track/6hBiDF5wEVqEY1v1AFcs5o) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/5u6YdrD5sX0yXSRxc4y6H2) | 2:30 | 2022-10-13 | 2022-10-17 |
+| [Sunday Night](https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH) | 2:30 | 2022-10-14 |  |
 | [SUNDOWN \(feat\. Justin Bieber\)](https://open.spotify.com/track/7J9UCy56nirwKuf1IMYtE1) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 3:43 | 2022-02-04 | 2022-02-11 |
 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 | 2022-07-08 | 2022-07-15 |
 | [Sunny](https://open.spotify.com/track/3Mbut2Z9zqHNWVV3Rq2JEW) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Sunny](https://open.spotify.com/album/47X3MGbxwC7xjLQRtT5GcW) | 2:50 | 2022-04-28 | 2022-05-06 |

@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-208 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
+209 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [B Minor Waltz \- Remastered 2003](https://open.spotify.com/track/1G8ZiodFtDX5tNHwvxcllW) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 3:16 | 2022-05-18 |  |
 | [Baby, Won't You Please Come Home](https://open.spotify.com/track/4iOFAH9FahG23udXHi83G9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 2:14 | 2022-05-18 | 2022-08-27 |
 | [Ballad Of The Sad Young Men \- Live](https://open.spotify.com/track/7KUTZdBEWzHjdf9Hwr5FHT) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:02 | 2022-09-08 |  |
+| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 | 2022-05-18 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2022-09-08 |  |
 | [Black Coffee](https://open.spotify.com/track/2Rejh16NV462TwiGGf5YNL) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald \- First Lady Of Song](https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V) | 3:30 | 2022-05-18 | 2022-08-27 |
@@ -64,7 +65,7 @@
 | [For Heavens Sake \- Remastered](https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 7:46 | 2022-09-08 | 2022-10-13 |
 | [From Now On](https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Entering the Woods](https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP) | 3:41 | 2022-05-18 | 2022-10-13 |
 | [Gloomy Sunday](https://open.spotify.com/track/5qRJZGqWHMpKRxk8rmAVto) | [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Eternal](https://open.spotify.com/album/3na9FnPyBfh9MA9sR5uDEb) | 12:43 | 2022-05-18 | 2022-07-29 |
-| [Gloomy Sunday](https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Eternal](https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf) | 12:43 | 2022-06-29 |  |
+| [Gloomy Sunday](https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Eternal](https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf) | 12:43 | 2022-06-29 | 2022-10-17 |
 | [Gloomy Sunday \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:10 | 2022-08-12 | 2022-08-27 |
 | [Gone With The Wind](https://open.spotify.com/track/5HUziXfrLH5nfXJ64IAZ1c) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [In My Solitude: Billie Sings Ballads](https://open.spotify.com/album/6VGj5HLqvQSJetlleNjCly) | 3:26 | 2022-05-18 | 2022-08-27 |
 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 | 2022-05-18 | 2022-08-27 |

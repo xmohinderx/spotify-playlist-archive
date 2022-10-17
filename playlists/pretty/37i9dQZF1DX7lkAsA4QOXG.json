@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 53421,
+  "num_followers": 53556,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGZjZGMwY2I4NjdmZGY4MzcxZjRmZWMyYjI5ZWIyN2M3",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDc2MTIyNmQ1YjE2OWQ2MTRkYWFlZjQ2ZGU4MjkwMzg2",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -323,26 +323,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "And So it Goes",
-        "url": "https://open.spotify.com/album/0tfPd7QamoduQalv7A376o"
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
       "artists": [
         {
-          "name": "Joshua Espinoza",
-          "url": "https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
         },
         {
-          "name": "Kris Monson",
-          "url": "https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t"
-        },
-        {
-          "name": "Jaron Lamar Davis",
-          "url": "https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 284750,
-      "name": "And So it Goes",
-      "url": "https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH"
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -363,22 +359,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+        "name": "And So it Goes",
+        "url": "https://open.spotify.com/album/0tfPd7QamoduQalv7A376o"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+          "name": "Joshua Espinoza",
+          "url": "https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E"
         },
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Kris Monson",
+          "url": "https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t"
+        },
+        {
+          "name": "Jaron Lamar Davis",
+          "url": "https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG"
         }
       ],
-      "duration_ms": 273626,
-      "name": "Suzanne (feat. Gregory Porter)",
-      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+      "duration_ms": 284750,
+      "name": "And So it Goes",
+      "url": "https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -495,6 +495,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Steer Your Way",
+        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 288880,
+      "name": "Steer Your Way (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -507,22 +527,6 @@
       "duration_ms": 232866,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "The Sexy EP",
-        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Beck",
-          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Steer Your Way",
-        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
+        "name": "The Sexy EP",
+        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
         }
       ],
-      "duration_ms": 288880,
-      "name": "Steer Your Way (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+      "duration_ms": 174466,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Magnetism, Vol. 1",
         "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Largo",
-        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 545013,
-      "name": "Paranoid Android",
-      "url": "https://open.spotify.com/track/2sowiwuhxt4nLIWP6vWJOa"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+        "name": "Largo",
+        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 160280,
-      "name": "Mrs. Robinson",
-      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
+      "duration_ms": 545013,
+      "name": "Paranoid Android",
+      "url": "https://open.spotify.com/track/2sowiwuhxt4nLIWP6vWJOa"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
-      },
-      "artists": [
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
-        },
-        {
-          "name": "Alexander Claffy",
-          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 258398,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Give Us These Days",
         "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
+      },
+      "artists": [
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        },
+        {
+          "name": "Alexander Claffy",
+          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 380066,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Blacknuss",
         "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
       },
@@ -1443,22 +1463,6 @@
       "duration_ms": 148800,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1503,6 +1507,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
       },
@@ -1535,22 +1555,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Life's Love Songs",
-        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 328192,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Only Love Can Break Your Heart",
         "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
       },
@@ -1575,6 +1579,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Life's Love Songs",
+        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 328192,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "House of the Rising Sun",
         "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
       },
@@ -1591,6 +1611,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "duration_ms": 319786,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6p5xME6kNYc2lkvt4atkKL"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Basie's Beatle Bag",
         "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
       },
@@ -1603,6 +1643,30 @@
       "duration_ms": 262706,
       "name": "A Hard Day's Night",
       "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Whole Lotta Love: The Music of Led Zeppelin",
+        "url": "https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu"
+      },
+      "artists": [
+        {
+          "name": "Obed Calvaire",
+          "url": "https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm"
+        },
+        {
+          "name": "Bob Franceshini",
+          "url": "https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9"
+        },
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        }
+      ],
+      "duration_ms": 411020,
+      "name": "Immigrant Song",
+      "url": "https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1643,26 +1707,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Whole Lotta Love: The Music of Led Zeppelin",
-        "url": "https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu"
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
       },
       "artists": [
         {
-          "name": "Obed Calvaire",
-          "url": "https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm"
-        },
-        {
-          "name": "Bob Franceshini",
-          "url": "https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9"
-        },
-        {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
         }
       ],
-      "duration_ms": 411020,
-      "name": "Immigrant Song",
-      "url": "https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA"
+      "duration_ms": 229493,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1679,22 +1735,6 @@
       "duration_ms": 279573,
       "name": "I Got You - I Feel Good",
       "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1747,22 +1787,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+        "name": "Herbie Hancock: Hits & Rarities",
+        "url": "https://open.spotify.com/album/01wO4zYqruKFxPiSlfHQNY"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 324960,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5mFYhmpAeyTPrNgz4E283K"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1795,38 +1831,6 @@
       "duration_ms": 335720,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Everybody Loves Angels",
-        "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
-      },
-      "artists": [
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        }
-      ],
-      "duration_ms": 320460,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 356026,
-      "name": "She's Leaving Home",
-      "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
     }
   ],
   "unique_name": "Jazz Covers",

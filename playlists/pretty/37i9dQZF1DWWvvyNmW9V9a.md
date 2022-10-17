@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > "featuring Lana Del Rey"
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697,794 likes - 104 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,698,299 likes - 104 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 103 | [Pacify Her](https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:40 |
 | 104 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 |
 
-Snapshot ID: `MTY2NTgwNjQwMCwwMDAwMDAwMDJkM2NjYWNjZGUwNTA3NjJhMTgzMjU3OWZjMWYzMzcw`
+Snapshot ID: `MTY2NTg5MjgwMCwwMDAwMDAwMDkzZDJkMTlkOTE3NTVkZTA2NjJmNjAwNGViM2ZkOWU0`

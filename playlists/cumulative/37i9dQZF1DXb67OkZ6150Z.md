@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-353 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+354 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2021-03-12 | 2022-08-10 |
 | [i'm not okay](https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [i'm not okay](https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa) | 2:54 | 2021-03-19 | 2022-07-23 |
 | [I'm On Fire](https://open.spotify.com/track/0lhcKPk0fppMAnFUt3QNy7) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm On Fire](https://open.spotify.com/album/5KA5O0ZMkVYk7UJHNfy3bs) | 2:38 | 2021-03-12 | 2022-10-13 |
+| [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 | 2022-09-03 |  |
 | [If I Can Help Somebody](https://open.spotify.com/track/200kNL3ORa01Knj2mDIqVT) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [If I Can Help Somebody](https://open.spotify.com/album/4qEanTOAfupdebUjPgdt09) | 1:44 | 2021-10-08 | 2022-07-06 |
 | [If I Ever Feel Better](https://open.spotify.com/track/0pBuio1OUL4cfvJ84MCG9L) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [If I Ever Feel Better](https://open.spotify.com/album/3GXC8kc31hdle7wKpbd730) | 2:58 | 2021-11-19 | 2022-06-27 |
 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2021-03-12 |  |
@@ -258,7 +259,7 @@
 | [Shakedown Street](https://open.spotify.com/track/0wPUWUZ0jzqnGddU793xHO) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Shakedown Street](https://open.spotify.com/album/6kLk603Tgznn0DREoirhwc) | 4:16 | 2021-03-12 | 2022-04-16 |
 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-04-01 |  |
 | [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 | 2021-03-12 | 2022-07-27 |
-| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 |  |
+| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 | 2022-10-17 |
 | [Some Things Last A Long Time](https://open.spotify.com/track/45OkuBV8goyDppKZg3amkk) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go b/w Some Things Last A Long Time](https://open.spotify.com/album/1DZPuUHbDCJ3aeaNMXoNJX) | 6:09 | 2021-07-21 | 2022-07-16 |
 | [Someday](https://open.spotify.com/track/0zq8RD39kiIern93PYjokX) | [Yung Heazy](https://open.spotify.com/artist/15fMBLwvm3qGTWXgdxOUCV) | [Someday](https://open.spotify.com/album/3jLLKEZNhE5TQzpG87sCn3) | 3:50 | 2021-04-02 | 2022-04-15 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 | 2021-03-12 | 2022-08-10 |

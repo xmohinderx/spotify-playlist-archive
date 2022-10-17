@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,382 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,445 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 57 | [I don't want \(feat.So Jung of LADIES’ CODE\)](https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [So Jung of LADIES’ CODE](https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ) | [LISH](https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj) | 3:44 |
 | 58 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 |
 | 59 | [Maudie](https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh) | 4:04 |
-| 60 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 |
-| 61 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
+| 60 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
+| 61 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 |
 | 62 | [Dream](https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [When It Loves](https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z) | 4:15 |
 | 63 | [Play the field \(With ONEW, Yoo Inna\)](https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd), [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Yoo Inna](https://open.spotify.com/artist/6fKnb4HDyGqFaYgSFu5k17) | [Forever yours](https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5) | 3:10 |
 | 64 | [Dreamy Alarm](https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 3:32 |
 | 65 | [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 |
 | 66 | [Propose](https://open.spotify.com/track/5yygP5IhQWB6NExGRGziYZ) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/7rMCv5t7oZdLsWQWnDx72w) | 2:44 |
 | 67 | [ROSE](https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE 송주희](https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU) | [ROSE](https://open.spotify.com/album/26fovYAowQaJmrucMlNztd) | 2:58 |
-| 68 | [고양이의 산책](https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [ALL NIGHT](https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7) | 3:28 |
-| 69 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 |
-| 70 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
+| 68 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 |
+| 69 | [고양이의 산책](https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [ALL NIGHT](https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7) | 3:28 |
+| 70 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 |
 
-Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMDc1YmQxZTFmMTMyNTA1NjU2ZTQ1MmUzMjZhNDI2Mjc0`
+Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMGNkM2E5YTIzY2Q4Y2EyYTk0NThkNGYwMjhmZjc2YWFl`

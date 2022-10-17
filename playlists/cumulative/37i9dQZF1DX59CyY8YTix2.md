@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: The Wisely Brothers
 
-622 songs - 1 day 16 hr 6 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+623 songs - 1 day 16 hr 9 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [I.B.U](https://open.spotify.com/track/56tm9FNBbxDrBxMb6anX04) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [I.B.U](https://open.spotify.com/album/722JwCrXNMAFJBSrUzqtfp) | 3:28 | 2022-06-07 | 2022-06-09 |
 | [Ideals](https://open.spotify.com/track/0m0XrQzGh9sjDIJYL0CXJx) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [Ideals](https://open.spotify.com/album/70ENwTNE8LEAUN4KHAIgi2) | 2:55 | 2022-05-26 | 2022-06-07 |
 | [IMPLOSION](https://open.spotify.com/track/19160f74RVyQt9vNi93n7p) | [COLLAPSE](https://open.spotify.com/artist/3aLpODUWftL6JfrOed62f5) | [IMPLOSION](https://open.spotify.com/album/084RA5tsqFHyRe8eHytxaC) | 3:09 | 2022-05-26 | 2022-06-22 |
-| [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 |  |
+| [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 | 2022-10-17 |
 | [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [Insane](https://open.spotify.com/track/7767zyhnMU4ElJJjwiGeL6) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [ESCAPISM](https://open.spotify.com/album/7FntC1u2oCXwFPwGK5EUSU) | 3:08 | 2022-08-30 | 2022-09-07 |
 | [inu](https://open.spotify.com/track/3QFfhYe5yVWRR9Ot4N4Kev) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [choyadoya](https://open.spotify.com/album/5YJfk2yFzXn8JXXRicS4LZ) | 3:08 | 2022-10-04 |  |
@@ -624,6 +624,7 @@
 | [青い](https://open.spotify.com/track/4KvyuTmcrOet6WqRikmQUb) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [赤裸々](https://open.spotify.com/album/6wRtSzdO7anqoLWbIlgznm) | 4:09 | 2022-06-23 | 2022-07-24 |
 | [青を掬う](https://open.spotify.com/track/2917sge1opN5LbWy8IsIzu) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [青を掬う](https://open.spotify.com/album/28ZRPnbsRseTQvZWN8HFVE) | 3:59 | 2022-06-30 | 2022-07-29 |
 | [青信号](https://open.spotify.com/track/4ZjvWensztp3x1vWqjyL8E) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [青信号](https://open.spotify.com/album/17AIgLlXnLfSSHmTnLrFH1) | 2:25 | 2022-05-26 | 2022-06-01 |
+| [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2022-10-13 |  |
 | [面影](https://open.spotify.com/track/6g9ebGi6BuIJpU1F8n5pqO) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 3:54 | 2022-06-02 | 2022-07-23 |
 | [風の歌を聴け](https://open.spotify.com/track/1k1VjmzGoaxMko27jWEdq1) | [yuyuhackshow](https://open.spotify.com/artist/02ILgnFVp5SRTBJTtK2yTN) | [風の歌を聴け](https://open.spotify.com/album/1GskGNKnbvOyZ0jQigrT5w) | 3:55 | 2022-07-14 | 2022-07-20 |
 | [風は呼んでいる](https://open.spotify.com/track/6vQv0MQzF6oUOdoezs9EiT) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [風は呼んでいる / 未完成なドラマ](https://open.spotify.com/album/02pRSkN5xkGlFsp4yjIUvS) | 4:34 | 2022-05-31 | 2022-07-28 |

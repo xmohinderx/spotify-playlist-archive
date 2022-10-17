@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Oscar Jerome",
-  "num_followers": 266950,
+  "num_followers": 267013,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1MjM2MywwMDAwMDAwMDRiMjE0MmJiYzZkMDNlOWVkOTVlMTRlODc0YmEwMzQ4",
+  "snapshot_id": "MTY2NTc1MjM2MywwMDAwMDAwMDM2ZjA3ODZkMTc4NzdhMDNkMGUwNTdjN2ViNWJhYTBk",
   "tracks": [
     {
       "added_at": "2022-10-14 12:59:23",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-14 12:59:23",
       "album": {
-        "name": "TECHNICOLOUR",
-        "url": "https://open.spotify.com/album/3953o6S4WGOWqDB7Z9VtyX"
-      },
-      "artists": [
-        {
-          "name": "The Comet Is Coming",
-          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
-        }
-      ],
-      "duration_ms": 209071,
-      "name": "TECHNICOLOUR",
-      "url": "https://open.spotify.com/track/4EtLZjAnvpdKoZ5qeYrdNQ"
-    },
-    {
-      "added_at": "2022-10-14 12:59:23",
-      "album": {
         "name": "SOURCE",
         "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 404773,
       "name": "The Message Continues",
       "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
+    },
+    {
+      "added_at": "2022-10-14 12:59:23",
+      "album": {
+        "name": "TECHNICOLOUR",
+        "url": "https://open.spotify.com/album/3953o6S4WGOWqDB7Z9VtyX"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "duration_ms": 209071,
+      "name": "TECHNICOLOUR",
+      "url": "https://open.spotify.com/track/4EtLZjAnvpdKoZ5qeYrdNQ"
     },
     {
       "added_at": "2022-10-14 12:59:23",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-10-14 12:59:23",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
-      },
-      "artists": [
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
-    },
-    {
-      "added_at": "2022-10-14 12:59:23",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 302822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
+    },
+    {
+      "added_at": "2022-10-14 12:59:23",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
     },
     {
       "added_at": "2022-10-14 12:59:23",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2022-10-14 12:59:23",
       "album": {
-        "name": "Kyoto Rain",
-        "url": "https://open.spotify.com/album/7JlPtr8IOZTJ9O6IEGfETE"
-      },
-      "artists": [
-        {
-          "name": "The Laszlo Project",
-          "url": "https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c"
-        }
-      ],
-      "duration_ms": 333712,
-      "name": "Kyoto Rain",
-      "url": "https://open.spotify.com/track/4WhojvMvXY107kbYjD2KvM"
-    },
-    {
-      "added_at": "2022-10-14 12:59:23",
-      "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 289213,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
-    },
-    {
-      "added_at": "2022-10-14 12:59:23",
-      "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/6BcDKqYRTb0OBjRZTrndjT"
       },
@@ -1119,18 +1087,34 @@
     {
       "added_at": "2022-10-14 12:59:23",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 220853,
-      "name": "We Give Thanks",
-      "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"
+      "duration_ms": 289213,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
+    },
+    {
+      "added_at": "2022-10-14 12:59:23",
+      "album": {
+        "name": "Dough",
+        "url": "https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 151602,
+      "name": "Dough",
+      "url": "https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh"
     },
     {
       "added_at": "2022-10-14 12:59:23",
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2022-10-14 12:59:23",
       "album": {
-        "name": "Dough",
-        "url": "https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
       "artists": [
         {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 151602,
-      "name": "Dough",
-      "url": "https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh"
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"
     },
     {
       "added_at": "2022-10-14 12:59:23",
@@ -1187,6 +1171,22 @@
       "duration_ms": 209509,
       "name": "Crazy That You Love",
       "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
+    },
+    {
+      "added_at": "2022-10-14 12:59:23",
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2022-10-14 12:59:23",
@@ -1223,22 +1223,6 @@
       "duration_ms": 313733,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
-    },
-    {
-      "added_at": "2022-10-14 12:59:23",
-      "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2022-10-14 12:59:23",
@@ -1327,6 +1311,22 @@
       "duration_ms": 372548,
       "name": "First Light",
       "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
+    },
+    {
+      "added_at": "2022-10-14 12:59:23",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 496546,
+      "name": "Warm Data",
+      "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
     },
     {
       "added_at": "2022-10-14 12:59:23",

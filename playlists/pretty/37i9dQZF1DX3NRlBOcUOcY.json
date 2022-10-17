@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 443613,
+  "num_followers": 443628,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMDY3M2I4M2Y3MDkyODljMTRjYWQ1YmIyMTM1MzViMTlj",
+  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMDE3YjFlMWJhZWY1ZWNhNzkzZDE3Mzc1NTA2YWNmNTNi",
   "tracks": [
     {
       "added_at": "2022-10-07 16:07:51",
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
     },
     {
-      "added_at": "2022-10-16 01:47:09",
+      "added_at": "2022-10-17 01:49:52",
       "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
@@ -539,6 +539,42 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -563,22 +599,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 182187,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 229064,
-      "name": "Besos Moja2",
-      "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "BBB",
-        "url": "https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf"
+        "name": "Aura (Spanish Version)",
+        "url": "https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W"
       },
       "artists": [
         {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 154020,
-      "name": "BBB",
-      "url": "https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi"
+      "duration_ms": 208097,
+      "name": "Aura - Spanish Version",
+      "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Aura (Spanish Version)",
-        "url": "https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W"
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 208097,
-      "name": "Aura - Spanish Version",
-      "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"
+      "duration_ms": 154020,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi"
     },
     {
       "added_at": "2022-10-07 16:07:51",

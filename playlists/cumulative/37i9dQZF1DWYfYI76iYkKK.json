@@ -930,6 +930,24 @@
     },
     {
       "album": {
+        "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
+        "url": "https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231154,
+      "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
+      "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
+    },
+    {
+      "album": {
         "name": "\u904b\u6c23\u4f86\u5f97\u82e5\u6709\u4f3c\u7121",
         "url": "https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5"
       },
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 235716,
       "name": "\u6700\u597d\u7684\u6642\u5149",
       "url": "https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup"

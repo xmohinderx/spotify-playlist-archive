@@ -4,7 +4,7 @@
 
 > Musica che, come la primavera, rende tutto più bello.
 
-175 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
+176 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Lockdown Blues](https://open.spotify.com/track/297lodzUenH6moOcg8XXTE) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Lockdown Blues](https://open.spotify.com/album/2NF4aGRD7UiWf2i7zIBRhu) | 3:33 | 2021-06-25 | 2022-07-29 |
 | [Look For The Good \- Single Version](https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy) | 3:59 | 2021-06-25 |  |
 | [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2021-06-25 | 2022-10-14 |
+| [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 | 2022-09-21 |  |
 | [Lot to Learn](https://open.spotify.com/track/3TRFq09DUgYj1mug6RRqJW) | [Luke Christopher](https://open.spotify.com/artist/787bCXOIvGeBw0Bc4kEjhD) | [TMRW](https://open.spotify.com/album/6dgQDrfjCOe7E8ruh1ruWa) | 4:08 | 2021-06-25 |  |
 | [Love On Display](https://open.spotify.com/track/4kdar6ZbJg3lT0rVVNsUyv) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Love On Display](https://open.spotify.com/album/1qRaP04UbnvSHdLMHfmDbv) | 3:03 | 2021-06-25 | 2022-07-29 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 | 2021-06-25 |  |
@@ -105,7 +106,7 @@
 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 | 2021-06-25 |  |
 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 | 2021-06-25 |  |
 | [Nobody's Fault](https://open.spotify.com/track/0ribL5IffcrNLjJ2Xy5PFp) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Nobody's Fault](https://open.spotify.com/album/7MXiNnljNmXyGNcGgKgpOZ) | 3:22 | 2021-06-25 | 2022-07-12 |
-| [Nobody's Fault](https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:22 | 2022-09-21 |  |
+| [Nobody's Fault](https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:22 | 2022-09-21 | 2022-10-17 |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-06-25 |  |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2021-06-25 |  |
 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 | 2021-06-25 |  |

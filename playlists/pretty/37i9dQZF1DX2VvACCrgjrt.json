@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Malaa",
-  "num_followers": 395071,
+  "num_followers": 395245,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGNjMTZmYzI3N2IzYjc4MDZkZWY0YWU4MTIxNGZiOTUx",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDEwOGQ5N2M1OTA3NzYyNDkyNzU4MjQzNzdmMjhiZGMw",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
     },
     {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Pop It",
@@ -759,6 +743,22 @@
       "duration_ms": 213333,
       "name": "Pop It",
       "url": "https://open.spotify.com/track/7fxpanL0r0FWIDMLMlX6QG"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -779,22 +779,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "iScreaM Vol.10 : Next Level Remixes",
-        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+        "name": "Losing My Mind (with Elohim)",
+        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
         },
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 200366,
-      "name": "Next Level - Habstrakt Remix",
-      "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
+      "duration_ms": 206141,
+      "name": "Losing My Mind (with Elohim)",
+      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -855,22 +855,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Losing My Mind (with Elohim)",
-        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         }
       ],
-      "duration_ms": 206141,
-      "name": "Losing My Mind (with Elohim)",
-      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
+      "duration_ms": 200366,
+      "name": "Next Level - Habstrakt Remix",
+      "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1065,26 +1065,6 @@
       "url": "https://open.spotify.com/track/5OdiCCcYYGP0vrwkT6ONz7"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/2VtYqahuMFHZdWWBWbpteH"
-      },
-      "artists": [
-        {
-          "name": "7vvch",
-          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
-        },
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/1HUTwupwYQDzD4xA5pNeFw"
-    },
-    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Don Malaa",
@@ -1103,22 +1083,6 @@
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1143,6 +1107,42 @@
       "duration_ms": 161574,
       "name": "Who U With",
       "url": "https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/2VtYqahuMFHZdWWBWbpteH"
+      },
+      "artists": [
+        {
+          "name": "7vvch",
+          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+        },
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/1HUTwupwYQDzD4xA5pNeFw"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Act Up",
-        "url": "https://open.spotify.com/album/1j8faQ7w6rOUUMZIJek2g9"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/3zMTtFESlmiuKeIx61e0Io"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Taking My Time",
         "url": "https://open.spotify.com/album/1NYbd0nyDLdW0siikDGgzS"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 155036,
       "name": "Taking My Time",
       "url": "https://open.spotify.com/track/1MhT60RqS3GoWyCypic28z"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Act Up",
+        "url": "https://open.spotify.com/album/1j8faQ7w6rOUUMZIJek2g9"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/3zMTtFESlmiuKeIx61e0Io"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/4MX5uRMMHGEt3QaMIdamoH"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Haunted Haus",
         "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
       },
@@ -1507,26 +1491,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Slaughterhouse",
-        "url": "https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/4MX5uRMMHGEt3QaMIdamoH"
       },
       "artists": [
         {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Iv\u00e1n Reich",
-          "url": "https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg"
-        },
-        {
-          "name": "Jonathan.",
-          "url": "https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 284516,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3"
+      "duration_ms": 200000,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1551,6 +1527,30 @@
       "duration_ms": 188160,
       "name": "Tune",
       "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Slaughterhouse",
+        "url": "https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Iv\u00e1n Reich",
+          "url": "https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg"
+        },
+        {
+          "name": "Jonathan.",
+          "url": "https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M"
+        }
+      ],
+      "duration_ms": 284516,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Get Back",
-        "url": "https://open.spotify.com/album/2SvCL6QsVaFiRiEKwwLAas"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/1nYil94oPsydyMr1HwtYlM"
       },
       "artists": [
         {
-          "name": "EMDI",
-          "url": "https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt"
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
         }
       ],
-      "duration_ms": 144761,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/1wb3vmzdosCuTwmbe5MYyC"
+      "duration_ms": 161250,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1663,22 +1667,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/1nYil94oPsydyMr1HwtYlM"
+        "name": "Get Back",
+        "url": "https://open.spotify.com/album/2SvCL6QsVaFiRiEKwwLAas"
       },
       "artists": [
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Cajama",
-          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
+          "name": "EMDI",
+          "url": "https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO"
+      "duration_ms": 144761,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/1wb3vmzdosCuTwmbe5MYyC"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1833,22 +1833,6 @@
       "url": "https://open.spotify.com/track/0JQmitIV9VQMT91VcvVNCU"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "No Competition",
-        "url": "https://open.spotify.com/album/3lumULelHlXz11q1Vlr5sE"
-      },
-      "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        }
-      ],
-      "duration_ms": 204487,
-      "name": "No Competition",
-      "url": "https://open.spotify.com/track/5jSeCIT2DxHiiuYlBHj5uL"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Fool",
@@ -1863,22 +1847,6 @@
       "duration_ms": 195000,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Shalala",
-        "url": "https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52"
     },
     {
       "added_at": "2022-10-07 13:48:26",
@@ -1897,6 +1865,38 @@
       "url": "https://open.spotify.com/track/4dg7IXEgbNCqogvzBITcPj"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Shalala",
+        "url": "https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "No Competition",
+        "url": "https://open.spotify.com/album/3lumULelHlXz11q1Vlr5sE"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 204487,
+      "name": "No Competition",
+      "url": "https://open.spotify.com/track/5jSeCIT2DxHiiuYlBHj5uL"
+    },
+    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "City Of Lights",
@@ -1913,22 +1913,6 @@
       "url": "https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/0SBrGz1txEjOj2AScVNo5g"
-      },
-      "artists": [
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        }
-      ],
-      "duration_ms": 158084,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/0O17nRSKj3UHsbrB2YB2Z3"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Here For You",
@@ -1943,6 +1927,22 @@
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/0SBrGz1txEjOj2AScVNo5g"
+      },
+      "artists": [
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "duration_ms": 158084,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/0O17nRSKj3UHsbrB2YB2Z3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "FYPM",
+        "url": "https://open.spotify.com/album/4LhjGLJTESeDO0fiqqy5VA"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Jonathan.",
+          "url": "https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M"
+        }
+      ],
+      "duration_ms": 265049,
+      "name": "FYPM",
+      "url": "https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1DKNtqWpKdRkB9jGOX7cUl"
       },
@@ -1987,22 +2007,38 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "FYPM",
-        "url": "https://open.spotify.com/album/4LhjGLJTESeDO0fiqqy5VA"
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/3x5LKk9VrVneoDQVGOCNF0"
       },
       "artists": [
         {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+          "name": "AKA AKA",
+          "url": "https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72"
         },
         {
-          "name": "Jonathan.",
-          "url": "https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M"
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
         }
       ],
-      "duration_ms": 265049,
-      "name": "FYPM",
-      "url": "https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy"
+      "duration_ms": 148181,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5DDzviNh0MzpuZrBiH8QM8"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "duration_ms": 149520,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2035,42 +2071,6 @@
       "duration_ms": 204759,
       "name": "DBL Park",
       "url": "https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        }
-      ],
-      "duration_ms": 149520,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/3x5LKk9VrVneoDQVGOCNF0"
-      },
-      "artists": [
-        {
-          "name": "AKA AKA",
-          "url": "https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72"
-        },
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        }
-      ],
-      "duration_ms": 148181,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/5DDzviNh0MzpuZrBiH8QM8"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2167,6 +2167,34 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Giving Up On Love",
+        "url": "https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5"
+      },
+      "artists": [
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        },
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Michael Malcolm",
+          "url": "https://open.spotify.com/artist/2YHDC8kXCYzRA7DSJjNH8U"
+        },
+        {
+          "name": "401 WST",
+          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Giving Up On Love",
+      "url": "https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Public Safety",
         "url": "https://open.spotify.com/album/2jjWc1VWbpghdPAax1uJ3m"
       },
@@ -2195,34 +2223,6 @@
       "duration_ms": 146666,
       "name": "Bored Ape Rave Club",
       "url": "https://open.spotify.com/track/1cbzWFnvxNU9M059TVWDSU"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Giving Up On Love",
-        "url": "https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5"
-      },
-      "artists": [
-        {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
-        },
-        {
-          "name": "Ashton Adams",
-          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
-        },
-        {
-          "name": "Michael Malcolm",
-          "url": "https://open.spotify.com/artist/2YHDC8kXCYzRA7DSJjNH8U"
-        },
-        {
-          "name": "401 WST",
-          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Giving Up On Love",
-      "url": "https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6"
     },
     {
       "added_at": "2022-07-22 04:01:00",

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Our Roots Run Deep (Live)",
+        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535611,
+      "name": "All I Want - Live in Dublin / 2022",
+      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 217000,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/5oBopn3BpWNSWcYJ7SKhb6"

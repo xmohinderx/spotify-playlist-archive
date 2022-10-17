@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 9248,
+  "num_followers": 9297,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMDM0ZDNhNmYyZjIxNmI2NzM3YTY0ZTNiNGE2ZDc2OTI4",
+  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMDU4NmRhOWRiNmNlYjhkZjQzNmRjMmM0M2RlNDg5NzMx",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
-        }
-      ],
-      "duration_ms": 197502,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Honey Bee",
@@ -647,6 +631,22 @@
       "duration_ms": 263931,
       "name": "Honey Bee - Edit",
       "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 197502,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
     },
     {
-      "added_at": "2022-07-08 17:12:43",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Kick It EP",
-        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt"
       },
       "artists": [
         {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
         }
       ],
-      "duration_ms": 422250,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
+      "duration_ms": 167638,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-07-08 17:12:43",
       "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt"
+        "name": "Kick It EP",
+        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
       },
       "artists": [
         {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
         }
       ],
-      "duration_ms": 167638,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
+      "duration_ms": 422250,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
     },
     {
       "added_at": "2022-06-03 18:11:27",

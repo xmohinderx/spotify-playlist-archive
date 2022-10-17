@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
 
-184 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+185 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Can’t Let Go, Juno \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4UGMqwrm5dRhwhdTGX3cZ4) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/23eXBuGFc0aHSnDhYXaAZk) | 4:21 | 2022-03-30 |  |
 | [Carin At the Liquor Store \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2DCcPL9GoWe5jYIzDsgRrX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/0bXHx2L5JCRKG9R7jDbTd8) | 3:15 | 2021-10-27 | 2022-07-29 |
 | [Carin At the Liquor Store \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6QjFqsKrMjjNhmvjQQDGs1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/1SuIxvmVbzVKyZJod2O1Dg) | 3:15 | 2022-03-30 |  |
-| [Casanova \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3wnXDfZlFKslVA8x5bzENO) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:58 | 2021-10-27 |  |
+| [Casanova \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3wnXDfZlFKslVA8x5bzENO) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:58 | 2021-10-27 | 2022-10-17 |
 | [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-10-27 | 2022-07-29 |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 | 2022-03-30 |  |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 3:52 | 2021-10-27 | 2022-10-14 |
@@ -117,6 +117,7 @@
 | [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 | 2021-10-27 |  |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1iWmK4jR0AhIZB0gZG3NKA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 4:52 | 2021-10-27 | 2022-07-29 |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 4:52 | 2022-03-30 |  |
+| [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 | 2022-03-30 |  |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-10-27 | 2022-10-14 |
 | [One More Time \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 2:44 | 2022-03-30 |  |
 | [One More Time \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/2j6vcPcY74uDQZe4wtZpG0) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 2:44 | 2021-10-27 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Rose Villain
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,952 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,955 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 15 | [Bianco](https://open.spotify.com/track/2RbpbfT0uOgzMFti2xFTJh) | [Joe Elle](https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO) | [Bianco](https://open.spotify.com/album/06QkuY2VHWzPmSsu8VYHVv) | 2:36 |
 | 16 | [TORINO](https://open.spotify.com/track/25VVlIryCNQU06FHaj9ypw) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [TORINO](https://open.spotify.com/album/0s620TbmAkzcqUOpgKHIXh) | 2:56 |
 | 17 | [Eurydice](https://open.spotify.com/track/0TTHN2QQ5rWveshLYj4aFE) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Eurydice](https://open.spotify.com/album/5L2w7tqsTWIq0ytr5J7N6v) | 3:28 |
-| 18 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 |
+| 18 | [Party on My Own](https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/10ThcyuelklNj1vif5GhTW) | 3:39 |
 | 19 | [Lungomare Paranoia](https://open.spotify.com/track/1NeP3GBZ65OxTCz03f4jnv) | [Diomira](https://open.spotify.com/artist/6aXLsoZzPvUUIYWNLiA5Ul) | [Lungomare Paranoia](https://open.spotify.com/album/2vKa3keHihewelPapadiUK) | 2:34 |
 | 20 | [Round \#1](https://open.spotify.com/track/6YhvuW3UM7wyGoZegel8hB) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [Round \#1](https://open.spotify.com/album/6VxMRWN2d4rA5msVX5SIPN) | 2:27 |
 | 21 | [Settembre](https://open.spotify.com/track/0sld7QsrvqUlIUyJuI06Ki) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Settembre](https://open.spotify.com/album/0orVvpMLZdKnHeitZwp7pK) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Calliope \(Pace alla luce del sole\)](https://open.spotify.com/track/2KvAVY4e2QLQ8vXw2DuxKo) | [Dolcenera](https://open.spotify.com/artist/7lkfsloQGm2Z9S9kbmIcFU) | [Calliope \(Pace alla luce del sole\)](https://open.spotify.com/album/6ldsqEl7gMW0JVhAoUSp3f) | 3:58 |
 | 50 | [You Inspire Me](https://open.spotify.com/track/6W6sLE6lR8WXMzGBFCtVUv) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [You Inspire Me](https://open.spotify.com/album/4afGc57icTauYqr2NiXmVi) | 4:00 |
 
-Snapshot ID: `MTY2NTA5MzY2MCwwMDAwMDAwMGQwNTk3NDg3ZWU3NWQ4ZDAwZDJjMDYxYTgzNzA5MDc4`
+Snapshot ID: `MTY2NTA5MzY2MCwwMDAwMDAwMGFjMjZjZDUwNjVhN2RiMmUzY2U4ODk3MzZmYWIzNmY4`

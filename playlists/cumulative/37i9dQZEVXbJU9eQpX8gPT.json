@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
       },
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 112000,
       "name": "BREDA",
       "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
@@ -9236,6 +9254,24 @@
     },
     {
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "album": {
         "name": "Cam\u00e9l\u00e9on",
         "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
       },
@@ -9743,6 +9779,24 @@
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+    },
+    {
+      "album": {
+        "name": "Mouja",
+        "url": "https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "Mouja",
+      "url": "https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W"
     },
     {
       "album": {
@@ -11323,7 +11377,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 151016,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/2e6OAZn3kthKizIsGugLeR"
@@ -13417,7 +13471,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 140649,
       "name": "Sucr\u00e9 Sal\u00e9",
       "url": "https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi"

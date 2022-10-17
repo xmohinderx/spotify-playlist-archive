@@ -4,7 +4,7 @@
 
 > Mellow out with this dub music.
 
-82 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
+83 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Chanting Down The Wicked](https://open.spotify.com/track/7fbjerF8AlMCF4lCkyEiyG) | [The Robotiks](https://open.spotify.com/artist/6A14AEcZSKVvJ0YaBx1wxW), [Jah Shaka](https://open.spotify.com/artist/3UdoO8DiElu02b95ig57cC) | [Haunted Halloween Dub](https://open.spotify.com/album/6EZaAwvsxhKRoy4AzTWSz5) | 4:14 | 2020-06-16 |  |
 | [Conquering Lion](https://open.spotify.com/track/14oeeDI2wQO396JduPaWpx) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [One Love, One Heart](https://open.spotify.com/album/4ZhtDrkN0vMmMR4VRpMsLs) | 3:21 | 2020-06-16 |  |
 | [Conquering Lion](https://open.spotify.com/track/6eA1fv9WkhSDvWfxpL3lti) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [One Love, One Heart](https://open.spotify.com/album/2KWAhjPFelNL9e0QjEX7Og) | 3:21 | 2020-06-16 | 2022-07-29 |
+| [Daphne](https://open.spotify.com/track/0X0zMRbHt3xuh3dNxY1WVh) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/2O97JixmG3MtrHSe3rV0RZ) | 3:58 | 2022-09-08 |  |
 | [Daphne](https://open.spotify.com/track/39LAeYCw8RfxNSDOLDuyzP) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/5i09kveNkDrJEX7boW9ASU) | 3:58 | 2020-06-16 | 2022-07-29 |
-| [Daphne](https://open.spotify.com/track/3fnc75xoQYkyfCaeAXOIUS) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/1RpUnan6rOTw8GdwhrkKE6) | 3:58 | 2020-06-16 |  |
+| [Daphne](https://open.spotify.com/track/3fnc75xoQYkyfCaeAXOIUS) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/1RpUnan6rOTw8GdwhrkKE6) | 3:58 | 2020-06-16 | 2022-10-17 |
 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 | 2020-06-16 | 2022-07-29 |
 | [Dream Land](https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 2:46 | 2020-06-16 | 2022-08-09 |
 | [Drum Song Dub](https://open.spotify.com/track/0xFSQCZu1J1YwE8O7mdzCZ) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 3:42 | 2020-06-16 |  |

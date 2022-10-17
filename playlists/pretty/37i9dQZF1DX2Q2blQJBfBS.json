@@ -1,15 +1,15 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 847,
+  "num_followers": 1202,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NTA0MiwwMDAwMDAwMGQyODhkMTgxNWE4MDc3MTIwYWFlMjJkZjllMmNiNDY2",
+  "snapshot_id": "MTY2NTc1NTA0MiwwMDAwMDAwMDI3MDExZWRiNDA2NjM1OGZkMjRlYThmMTc3ZmIwNzcw",
   "tracks": [
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "Ghetto Pop Life",
         "url": "https://open.spotify.com/album/63LehXDfhT4lOulImEv4Dt"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5RcqEvIHLKDXa0FqUfKBGK"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "Duck Czn: Tiger Style",
         "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "The Fonz",
         "url": "https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "Psychological Cheat Sheet 3",
         "url": "https://open.spotify.com/album/4MvqEZvawXCOx8UpUsm4R6"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "Mighty Microphone",
         "url": "https://open.spotify.com/album/2qNBSDhguWLePXxzLBa2O7"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4X9tIXypCox3srtngLVH88"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "The Fresh Prince of Self Flair",
         "url": "https://open.spotify.com/album/6J5FRVCy8hooEeubGPzfBT"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3i3frnOvW4NSQOjysqvgN9"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/6pBNj8Ihr7Av2JRPi2ytAD"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5z1KkHpvBc6yLiTo19sdHo"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "Trouble (feat. Ronni wit tha K)",
         "url": "https://open.spotify.com/album/48PWkNFdPkB57W3I9pKEv1"
@@ -1273,30 +1273,6 @@
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Looking for Water (feat. Boldy James)",
-        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Real Bad Man",
-          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 163850,
-      "name": "Looking for Water (feat. Boldy James)",
-      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Liquid Swords",
@@ -1339,6 +1315,30 @@
       "duration_ms": 304840,
       "name": "Return of The Crooklyn Dodgers",
       "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Looking for Water (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 163850,
+      "name": "Looking for Water (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Makeda",
+        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 96067,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 220693,
       "name": "Turkish [Feat. Meyhem Lauren]",
       "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Makeda",
-        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 96067,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Things Fall Apart",
@@ -1619,6 +1603,22 @@
       "duration_ms": 271883,
       "name": "DRILL MUSIC IN ZION",
       "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1717,6 +1717,22 @@
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
       "added_at": "2022-07-15 12:00:00",
       "album": {
         "name": "The Return Of Sasquatch",
@@ -1735,22 +1751,6 @@
       "duration_ms": 118126,
       "name": "The Return Of Sasquatch",
       "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Black Mobius",
         "url": "https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 63504,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1933,7 +1933,7 @@
       "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
-      "added_at": "2022-10-16 01:45:09",
+      "added_at": "2022-10-17 01:48:36",
       "album": {
         "name": "Casual Presents: Smash Rockwell",
         "url": "https://open.spotify.com/album/2Wn9Why4hKomsSUUYTuPAP"

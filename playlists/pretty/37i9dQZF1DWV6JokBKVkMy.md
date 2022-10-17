@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 20 | [Ena Ennta Zetwal](https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 4:12 |
 | 21 | [Medley marcel](https://open.spotify.com/track/5QQhJPbtk9b75jlM0bg8t9) | [Morgan](https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p) | [Crazé séga 2019](https://open.spotify.com/album/3gcsbOnQDbwUzjGMgbJNnF) | 3:38 |
 | 22 | [Eliana](https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [Kol Kole](https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN) | 5:02 |
-| 23 | [Moris](https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG) | [Evoloziq](https://open.spotify.com/artist/7MFxyq8uWZZo0eP48b80m8) | [Koleksyon Dor](https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD) | 3:24 |
-| 24 | [Viré](https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1), [Le Groupe Ravanna](https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3) | [Main dans la main](https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv) | 5:04 |
+| 23 | [Viré](https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1), [Le Groupe Ravanna](https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3) | [Main dans la main](https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv) | 5:04 |
+| 24 | [Moris](https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG) | [Evoloziq](https://open.spotify.com/artist/7MFxyq8uWZZo0eP48b80m8) | [Koleksyon Dor](https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD) | 3:24 |
 | 25 | [Sega Ar Pwa](https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Sega Ar Pwa](https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn) | 4:47 |
 | 26 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
 | 27 | [Ambalaba](https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Pop Soul Sega](https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj) | [Ti L'Afrique](https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX) | [Moris Zekler: Fuzz & Soul Sega from 70's Mauritius](https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9) | 4:12 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDZjYTk3YjRiNmQwYWQ3MmY1ZmJmMjM4ZGE0YzA2NTRh`
+Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDUwZTExNjRiNzVlYWU4Mzg3MDBhN2QwMTJhNzg5YmQz`

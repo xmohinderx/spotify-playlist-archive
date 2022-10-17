@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dayglow
 
-434 songs - 1 day 0 hr 1 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+435 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Parasite](https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parasite](https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy) | 4:01 | 2022-07-22 | 2022-08-20 |
 | [Parque De La Primavera](https://open.spotify.com/track/3Alidbv5lghxcwTJvczwOu) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Usted Está Aquí](https://open.spotify.com/album/4NiMX9y2VE0F5KVEga6QJK) | 2:38 | 2022-09-30 |  |
 | [Partirai](https://open.spotify.com/track/6LNtctKo96MVWZ3DN8ecPE) | [WOW](https://open.spotify.com/artist/5qyumCqWsZNeyFaGF47R4i) | [Falene](https://open.spotify.com/album/6gd5NspK862XFR5gzyPycQ) | 3:05 | 2022-01-14 | 2022-03-19 |
-| [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 | 2022-09-02 |  |
+| [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 | 2022-09-02 | 2022-10-17 |
+| [Party on My Own](https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/10ThcyuelklNj1vif5GhTW) | 3:39 | 2022-10-14 |  |
 | [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2022-02-04 | 2022-03-19 |
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2022-01-14 | 2022-06-18 |
 | [Pastel Auras](https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Pastel Auras](https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf) | 3:20 | 2022-07-22 | 2022-08-27 |

@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-72 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
+73 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Blackbird](https://open.spotify.com/track/2ZyU8CQHDDiI8MPfJh9k6R) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/4fJbW2aN9c9zSN8qWVEcWe) | 2:32 | 2022-07-15 |  |
 | [Blackbird](https://open.spotify.com/track/3gGtHBS7wV3oP9KEClHd4i) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/3VIL0T0cLNHDcNGO0WPNhh) | 2:32 | 2021-11-25 | 2022-07-29 |
 | [Blank Space](https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions](https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv) | 2:35 | 2021-11-25 |  |
-| [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 | 2021-11-25 |  |
+| [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 | 2021-11-25 | 2022-10-17 |
+| [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 | 2022-09-09 |  |
 | [Clocks \- Coldplay](https://open.spotify.com/track/2Pv2aeT9K8EH0b0HgCJxDv) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [A Night In Strings](https://open.spotify.com/album/3duk4PVA7r012ysSojmnXv) | 5:14 | 2021-11-25 |  |
 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 | 2021-11-25 |  |
 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 | 2021-11-25 |  |

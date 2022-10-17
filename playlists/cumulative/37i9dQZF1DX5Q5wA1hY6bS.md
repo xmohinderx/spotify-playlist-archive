@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-430 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
+431 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Lost in My Mind](https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:19 | 2019-05-26\* | 2022-07-29 |
 | [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 | 2022-10-14 |  |
 | [Lottery](https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:31 | 2019-09-29 | 2022-09-15 |
+| [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 | 2022-10-14 |  |
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-11-13 | 2022-07-29 |
 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/2oGbA0fQXjaD8cyYkyIWj2) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire](https://open.spotify.com/album/3YkPGNQ0ATRPcigTb74F5A) | 3:33 | 2020-03-09 | 2022-07-29 |
 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 | 2022-05-27 |  |
@@ -355,7 +356,7 @@
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-06-04 |  |
 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 | 2020-03-09 | 2022-07-29 |
 | [Sure Feels Good Anyway](https://open.spotify.com/track/6bCOSspmn97CRxawBEYSWs) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF) | [Holler](https://open.spotify.com/album/6sChAWxd6hgcp0N24NcyEJ) | 4:30 | 2020-03-09 | 2020-04-14 |
-| [Swing](https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Swing](https://open.spotify.com/album/0x0YbXUtghcHTTv8adby0j) | 3:02 | 2022-05-27 |  |
+| [Swing](https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Swing](https://open.spotify.com/album/0x0YbXUtghcHTTv8adby0j) | 3:02 | 2022-05-27 | 2022-10-17 |
 | [Swing](https://open.spotify.com/track/0GOB9WXp49ZgV4oGN92dNQ) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [On Trial](https://open.spotify.com/album/0KYbDEiYqJiOd7ddVp6Y7B) | 3:03 | 2019-05-26\* | 2022-07-27 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-05-27 |  |
 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2021-01-31 | 2022-07-29 |

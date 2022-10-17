@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: joan
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,175 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,196 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 33 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 |
 | 34 | [Chloe \(feat\. Jutes\)](https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chloe \(feat\. Jutes\)](https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi) | 3:25 |
 | 35 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 |
-| 36 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 |
+| 36 | [I Don’t Think That I Like Her](https://open.spotify.com/track/3iLBFgaQJ94iarMgzrTuWb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:08 |
 | 37 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 |
 | 38 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 |
 | 39 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 64 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 |
 | 65 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGExNzk2YjU1OGIyMjgxMDM2ZDgzYTkxMjQ3N2Q0MGU1`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDg1MjVlNmViY2VjNjEzZDc1M2I5N2ZkMmI0MDM3YTcw`

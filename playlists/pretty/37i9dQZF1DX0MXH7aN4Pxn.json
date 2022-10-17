@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 688249,
+  "num_followers": 688223,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDFjZTgyNTU0NDlmYTM2ZGQ4NTM0OGFkODFmYmVjYzVk",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDIyNzhhZTk3NjEzZGFhMDZlMDMwNDNlNTNiODQwMzM0",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Rather Be Alone",
         "url": "https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 137419,
       "name": "Rather Be Alone",
       "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -947,6 +947,22 @@
       "duration_ms": 266206,
       "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) - Edit",
       "url": "https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Get Out My Head",
+        "url": "https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Get Out My Head",
+      "url": "https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1039,22 +1055,6 @@
       "duration_ms": 186541,
       "name": "Don't Stop Just Yet",
       "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Get Out My Head",
-        "url": "https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Get Out My Head",
-      "url": "https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
+        "name": "House Arrest",
+        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
       },
       "artists": [
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
+      "duration_ms": 216441,
+      "name": "House Arrest",
+      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1683,22 +1687,18 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "House Arrest",
-        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 216441,
-      "name": "House Arrest",
-      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
+      "duration_ms": 154653,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
-      },
-      "artists": [
-        {
-          "name": "Jack Fowler",
-          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
-        },
-        {
-          "name": "Tom Zanetti",
-          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Foolish (feat. Tom Zanetti)",
-      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Everybody Dance (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
+      },
+      "artists": [
+        {
+          "name": "Jack Fowler",
+          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
+        },
+        {
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Foolish (feat. Tom Zanetti)",
+      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Make Luv",
+        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "duration_ms": 168091,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB"
       },
@@ -1975,38 +1991,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Make Luv",
-        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
       },
       "artists": [
         {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 168091,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Too Many Nights (with JC Stewart)",
-        "url": "https://open.spotify.com/album/3LpBXkbjSgFi8wnWionndt"
-      },
-      "artists": [
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         },
         {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+          "name": "T. Matthias",
+          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
         }
       ],
-      "duration_ms": 188636,
-      "name": "Too Many Nights (with JC Stewart)",
-      "url": "https://open.spotify.com/track/13YIDpKrL2caqJ3YF52uzJ"
+      "duration_ms": 174649,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
     }
   ],
   "unique_name": "PARTY MODE",

@@ -4,7 +4,7 @@
 
 > Celebrate Dad with these songs for the whole family.
 
-39 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
+40 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 2:03 | 2022-04-08 |  |
 | [Dance to Your Daddy](https://open.spotify.com/track/6hSE9c2XBJvSaZsBj4oF4x) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/1z2g7LzBZArYxElKvT47kl) | 1:18 | 2022-04-08 | 2022-07-29 |
 | [Dance to Your Daddy](https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:18 | 2022-04-08 |  |
-| [Dear Old Dad](https://open.spotify.com/track/2POHHxEXrtaoieUdXuynyA) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:29 | 2022-04-08 |  |
+| [Dear Old Dad](https://open.spotify.com/track/2POHHxEXrtaoieUdXuynyA) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:29 | 2022-04-08 | 2022-10-17 |
+| [Dear Old Dad](https://open.spotify.com/track/1o4hp0Rm5xST4llL6xuXSM) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w) | 2:30 | 2022-04-08 |  |
 | [Father's Day! Father's Day!](https://open.spotify.com/track/2QhuyNYE0WBPNhsGC4chR3) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Father's Day](https://open.spotify.com/album/4pOfhxZCAqDEiRTpgJEG4O) | 1:33 | 2022-04-08 |  |
 | [Happy Father's Day](https://open.spotify.com/track/3iQ9E3zONfP3JNSTIg4AWh) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:23 | 2022-04-08 |  |
 | [Happy Father's Day with Baby Shark](https://open.spotify.com/track/2BTKU6PYdOV1pcxoN4tvcr) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Happy Father's Day with Baby Shark](https://open.spotify.com/album/3CmrV3AACHnxa7RHutWRIp) | 1:15 | 2022-04-08 |  |

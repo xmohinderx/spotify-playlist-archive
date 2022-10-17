@@ -883,10 +883,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 346237,
       "name": "Mi Pena",
       "url": "https://open.spotify.com/track/29q0bUyU7TO83cY3oP7rMp"
+    },
+    {
+      "album": {
+        "name": "Mi Pena",
+        "url": "https://open.spotify.com/album/0Jk1DzW10G0u6MYlBWuCyr"
+      },
+      "artists": [
+        {
+          "name": "Birds of Mind",
+          "url": "https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346237,
+      "name": "Mi Pena",
+      "url": "https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI"
     },
     {
       "album": {

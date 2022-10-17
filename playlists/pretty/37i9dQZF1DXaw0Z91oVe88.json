@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1749,
+  "num_followers": 1753,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMGZkMzEwNDc3ZDU4MDA3ZTRiN2ZhMDNmZTQ1ZmVlM2E0",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDg0MjQyMTViNmRkZDQ3ZjBhZmYxZjRmMWEzZTA0Zjk3",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Youth Hostel",
-        "url": "https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6"
-      },
-      "artists": [
-        {
-          "name": "Youth Hostel",
-          "url": "https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
         "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 161334,
       "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
       "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Youth Hostel",
+        "url": "https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6"
+      },
+      "artists": [
+        {
+          "name": "Youth Hostel",
+          "url": "https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "Highlight",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+        "name": "Spring to Spring",
+        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
       },
       "artists": [
         {
-          "name": "Highlight",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
         }
       ],
-      "duration_ms": 190826,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
+      "duration_ms": 328226,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -627,22 +643,6 @@
       "duration_ms": 221744,
       "name": "RAINING",
       "url": "https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "Spring to Spring",
-        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
-      },
-      "artists": [
-        {
-          "name": "Hoppipolla",
-          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2022-09-05 15:56:32",

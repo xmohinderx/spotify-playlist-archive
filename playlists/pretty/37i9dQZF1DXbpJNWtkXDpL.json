@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a La Santa Grifa, nuestro artista Radar!",
-  "num_followers": 60561,
+  "num_followers": 60587,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM5MDI0NSwwMDAwMDAwMDc3M2I4ODVlNWI4OGNkOTI3MThhMWRjYzg4MTY0NTAy",
+  "snapshot_id": "MTY2NDM5MDI0NSwwMDAwMDAwMDk2MTMxM2I3ZTk3M2U5YzExZmE1OWI2NjJlMmRkZDhi",
   "tracks": [
     {
       "added_at": "2022-09-09 02:13:33",
@@ -209,22 +209,6 @@
       "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
-      "added_at": "2022-06-07 05:00:00",
-      "album": {
-        "name": "Y Te Lo Digo Yo",
-        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
-    },
-    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Soy de Sinaloa",
@@ -239,6 +223,22 @@
       "duration_ms": 161690,
       "name": "Soy de Sinaloa",
       "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
+    },
+    {
+      "added_at": "2022-06-07 05:00:00",
+      "album": {
+        "name": "Y Te Lo Digo Yo",
+        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -333,10 +333,10 @@
       "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
     },
     {
-      "added_at": "2022-08-26 05:00:00",
+      "added_at": "2022-08-01 05:00:00",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "los d\u00edas en la sala",
+        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "siempre te voy a querer",
+      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Mu\u00e9vete",
         "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 211542,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2022-08-26 05:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -493,10 +493,10 @@
       "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
     },
     {
-      "added_at": "2022-08-01 05:00:00",
+      "added_at": "2022-08-26 05:00:00",
       "album": {
-        "name": "como me encanta",
-        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 321662,
-      "name": "como me encanta",
-      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2022-06-07 05:00:00",
@@ -803,6 +803,30 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "K\u00f3digos",
+        "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "K\u00f3digos",
+      "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "no me caigo tan bien",
         "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
       },
@@ -815,22 +839,6 @@
       "duration_ms": 208443,
       "name": "no me caigo tan bien",
       "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Confirmo (En Vivo)",
-        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Confirmo - En Vivo",
-      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
     },
     {
       "added_at": "2022-09-09 02:13:33",
@@ -849,20 +857,20 @@
       "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
     },
     {
-      "added_at": "2022-09-09 13:11:20",
+      "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+        "name": "Confirmo (En Vivo)",
+        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+      "duration_ms": 160173,
+      "name": "Confirmo - En Vivo",
+      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -881,24 +889,20 @@
       "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
     },
     {
-      "added_at": "2022-05-13 21:33:14",
+      "added_at": "2022-09-09 13:11:20",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
       },
       "artists": [
         {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 183997,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

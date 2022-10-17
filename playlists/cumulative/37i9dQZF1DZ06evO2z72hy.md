@@ -4,7 +4,7 @@
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/2Makl5HN0UTGk06qqIJvLk)
+71 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/2Makl5HN0UTGk06qqIJvLk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [La Barca](https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:30 | 2022-05-25 | 2022-10-13 |
 | [La Puerta Sigue Abierta](https://open.spotify.com/track/59dzgc60efoAOFx0bywbi2) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 3:43 | 2022-06-02 | 2022-06-07 |
 | [La puerta sigue abierta](https://open.spotify.com/track/6crknC6n2C2wQ8zyy8pNcp) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:43 | 2022-08-19 | 2022-08-21 |
-| [Libertad](https://open.spotify.com/track/2wod4OhxL86a2qLBiTumLH) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:00 | 2022-05-28 |  |
+| [Libertad](https://open.spotify.com/track/2wod4OhxL86a2qLBiTumLH) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:00 | 2022-05-28 | 2022-10-17 |
 | [Me Verás](https://open.spotify.com/track/4tnguLiUs6l0QtfcocbSdF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:06 | 2022-05-25 |  |
+| [Medley: Libros Sagrados / Orgullosa Mole \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/3DJDWiD41D6pVhC4gdt4NF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 3:29 | 2022-10-16 |  |
 | [Mejor que intentes otra vez](https://open.spotify.com/track/3HCpsDMzAL3ksrPTP02KL8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 3:53 | 2022-05-25 |  |
 | [Mi Princesa](https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:23 | 2022-05-25 |  |
 | [Mucho Verso](https://open.spotify.com/track/1pTDULhEDv0n8W6Aqnw5ro) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 3:58 | 2022-05-25 |  |
@@ -73,7 +74,8 @@
 | [Tu Amor](https://open.spotify.com/track/7bWoTRcz0lZoXbI5dtJ5dM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 3:50 | 2022-05-26 | 2022-06-27 |
 | [Tu amor](https://open.spotify.com/track/7iUpn6Xyw552Anqgegla33) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:50 | 2022-08-10 | 2022-10-11 |
 | [Tú y Yo](https://open.spotify.com/track/4hN7zGsnymEBrhUwLnaQbZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:44 | 2022-05-25 | 2022-10-13 |
-| [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 | 2022-05-25 |  |
+| [Verde, Amarillo Y Rojo](https://open.spotify.com/track/4Q0y0SOAJ84PvR2Uu6tGXv) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:06 | 2022-10-16 |  |
+| [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 | 2022-05-25 | 2022-10-17 |
 | [Vivo Esperandote](https://open.spotify.com/track/0fmrLB98vvk3Z5wFTmkho9) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:35 | 2022-05-25 |  |
 | [Volver a sentir](https://open.spotify.com/track/35xXFaqG8xlx5x0HtHpzyv) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 3:28 | 2022-05-25 |  |
 | [Warning](https://open.spotify.com/track/7BXaBIZDHaUdAD7mcCSjH7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:03 | 2022-10-12 |  |

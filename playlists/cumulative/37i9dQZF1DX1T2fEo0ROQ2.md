@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-345 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+346 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 | 2022-05-26 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-05-26 |  |
 | [Dreams of Blue](https://open.spotify.com/track/0MGR4LgkjqsTAQSfTZZyGY) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Dreams of Blue](https://open.spotify.com/album/1tOVoz8rpDy3OVaZQz2aHh) | 2:36 | 2022-05-26 |  |
-| [Drift](https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/02GKbWNl7dGVPOWgNzswQY) | 4:00 | 2022-07-08 |  |
+| [Drift](https://open.spotify.com/track/3uIPfiXaSWfiuLsaZ6UkQX) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/6C3jiZ0QT2FgKcG3oUOYAY) | 4:00 | 2022-10-14 |  |
+| [Drift](https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/02GKbWNl7dGVPOWgNzswQY) | 4:00 | 2022-07-08 | 2022-10-17 |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-26 |  |
 | [Earth](https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Elements](https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi) | 3:24 | 2022-05-26 | 2022-09-03 |
 | [Eclipse](https://open.spotify.com/track/2roGc5wvCNpRmUckCDMUON) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:02 | 2022-05-26 |  |

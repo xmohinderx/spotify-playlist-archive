@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-536 songs - 1 day 8 hr 55 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+537 songs - 1 day 8 hr 59 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 | 2022-06-01 | 2022-07-25 |
 | [Looking For Something](https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:09 | 2022-10-07 |  |
 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 | 2020-10-16 |  |
-| [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2022-10-07 |  |
+| [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2022-10-07 | 2022-10-17 |
 | [Loud Places](https://open.spotify.com/track/3v5GwZZovzKkoP1Ykvo9IA) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/0JvnQNMxBPhsPmCUPqjyXx) | 4:43 | 2021-03-14 | 2022-04-15 |
 | [Love Is Letting Go](https://open.spotify.com/track/1TSpVBAwIqnKLE0cZa8mJd) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Meet the Parents](https://open.spotify.com/album/6SOfYDrFaMhdZ8eEDWZxBQ) | 3:08 | 2021-07-19 | 2022-07-28 |
 | [Love Song](https://open.spotify.com/track/4YtJXdV21LXGwQbl5rl70W) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/1EBxcHGOGKDTg3E1ceGLBO) | 3:45 | 2021-08-27 | 2022-07-29 |
@@ -406,6 +406,7 @@
 | [Retrograde](https://open.spotify.com/track/756NPuruFfqHO0CEtL8kyu) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/2Fn2oOYHKBJfzZtVtKOW7z) | 3:43 | 2021-03-16 | 2022-04-15 |
 | [Rise Again \- Harris Cole & Somni Remix](https://open.spotify.com/track/39lFjmuCMTYq8FVjDZL60F) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Rise Again \(Harris Cole & Somni Remix\)](https://open.spotify.com/album/1PQ2tS2gKa8ljhpOr3ypk2) | 3:29 | 2022-03-07 | 2022-07-25 |
 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 | 2020-10-05\* | 2022-10-13 |
+| [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2022-10-07 |  |
 | [Rolled Up](https://open.spotify.com/track/7dQ5n2j3kAZRAzkm4GwvoM) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Rolled Up](https://open.spotify.com/album/2pv0S4FzdJDO6N4y4KCowW) | 3:01 | 2020-11-17 | 2022-07-29 |
 | [Rolled Up](https://open.spotify.com/track/4DWyAq9ExNPogDaduac3Ym) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:03 | 2022-10-07 |  |
 | [Romantic Lover](https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 1:26 | 2021-05-05 | 2022-04-19 |

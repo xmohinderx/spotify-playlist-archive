@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,761 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,764 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 113 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 114 | [Get Ready For The Future](https://open.spotify.com/track/161HivEHoKDZLRay9vq0V2) | [Winners](https://open.spotify.com/artist/3scEQfzIzGOhTHvrJiTDlz) | [Horse Meat Disco 4](https://open.spotify.com/album/3he8qSCsXQA8Pb4x7bsyoD) | 5:24 |
 | 115 | [Get Ready For The Future](https://open.spotify.com/track/161HivEHoKDZLRay9vq0V2) | [Winners](https://open.spotify.com/artist/3scEQfzIzGOhTHvrJiTDlz) | [Horse Meat Disco 4](https://open.spotify.com/album/3he8qSCsXQA8Pb4x7bsyoD) | 5:24 |
-| 116 | [House Party](https://open.spotify.com/track/0DF2L5iogeTm9DReWLoipE) | [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [House Party](https://open.spotify.com/album/0wvlGEplbeBVZjUHcnAG4R) | 4:14 |
+| 116 | [House Party](https://open.spotify.com/track/0VOju61QyRh81rhSLU54Ei) | [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [House Party](https://open.spotify.com/album/65cw42lHSDzEIQ15eQXhw7) | 4:14 |
 | 117 | [Yearning For Your Love](https://open.spotify.com/track/5qM925z83TMCtj6h0qooVi) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Gap Band 3](https://open.spotify.com/album/69RvzqJsKHqhk3m3VYLZs0) | 5:43 |
 | 118 | [Brothers On The Slide](https://open.spotify.com/track/62wrJlpV0vLr3WuVYI2NS3) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 4:11 |
 | 119 | [A Little Piano](https://open.spotify.com/track/4EBDMd4CdK1lFFfGZnBgqG) | [Soft House Company](https://open.spotify.com/artist/16oDf3Ln1Kx7k352pDV1Le) | [What You Need/A Little Piano](https://open.spotify.com/album/1qJvj5PzmMV8FE3Om19EbC) | 6:02 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMGY1Yjc3YzRiMjg0ZWE2ZmZhMmY5YjVmNzllNWY5MTdi`
+Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMDk1MzAzOThlOWExYzg5YzQ0MTMwNGU1YmI4MTZmMTY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:3LXTbapp18J0PmQEPPeXmO">Wism</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,536 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,545 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 21 | [CONTRONATURA](https://open.spotify.com/track/7sArR7YMzwIyWCJwt95og8) | [paolo.alneon](https://open.spotify.com/artist/4EOHC7Fi1B0kKa7g49tSQd) | [CONTRONATURA](https://open.spotify.com/album/1noCRfkQquWF7BSMZwjnJX) | 2:57 |
 | 22 | [Alme](https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Alme](https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h) | 3:16 |
 | 23 | [Sindrome](https://open.spotify.com/track/7iRtGSmBhhUKjeYJ3QVPsB) | [GARA2](https://open.spotify.com/artist/7LJbgyipJ45jT8NwUWq8sc) | [Sindrome](https://open.spotify.com/album/2fc0QOShOivzFMq3aZCLsZ) | 3:01 |
-| 24 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 |
+| 24 | [Party on My Own](https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/10ThcyuelklNj1vif5GhTW) | 3:39 |
 | 25 | [A Casa Presto](https://open.spotify.com/track/5T0CIfawDCTjWMi3wDHmgC) | [Petullà](https://open.spotify.com/artist/4AeFB1iED7DWIlugy2CvKx) | [A Casa Presto](https://open.spotify.com/album/5caPdVpsu8bD0MaaeoON7h) | 2:56 |
 | 26 | [Zucchero Bianco](https://open.spotify.com/track/0BJUff7q1HgjJd0pb3AtpM) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Zucchero Bianco](https://open.spotify.com/album/36f8upLYp7KLmskF1xyO36) | 2:13 |
 | 27 | [Alla lettera](https://open.spotify.com/track/54hUdI3CT5EtALpDC2Dkpm) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Alla lettera](https://open.spotify.com/album/4kdnvGljxgXqasJpYR4oXR) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Cuore sporco](https://open.spotify.com/track/1wI92huW17RYbTePnBVwV5) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Cuore sporco](https://open.spotify.com/album/4bwmxgnWdU2vUt6KtPGE0d) | 2:48 |
 | 50 | [Stelle Negli Occhi](https://open.spotify.com/track/5QR3GD4eRvAQTd2u2dKCsw) | [ASTRI](https://open.spotify.com/artist/6dBUON1UBDXXlUA8XP3Bcz), [Lenor](https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK) | [Stelle Negli Occhi](https://open.spotify.com/album/6ZteKa00z9mOELY50nCzBV) | 3:07 |
 
-Snapshot ID: `MTY2NTc0NjAxNSwwMDAwMDAwMDE3MWU1MmQyOTNjNjZiZjQyNTFjNTExZGVhMWM0OTZh`
+Snapshot ID: `MTY2NTc0NjAxNSwwMDAwMDAwMGUyYjMwMTU0MGU3MTkyZTUwODdmOTIwNzA4MWJjMzhm`

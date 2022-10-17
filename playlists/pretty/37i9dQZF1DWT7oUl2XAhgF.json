@@ -1,15 +1,15 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields",
-  "num_followers": 148985,
+  "num_followers": 149242,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGM3NmFiOWUxN2I3ZmM3NGExYjEyY2ZjY2FjMjhlMWNk",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDlkMzEzYzlkMjdhMzA3YWI3MjA3ZDA5NzU1MzQ1NjE1",
   "tracks": [
     {
-      "added_at": "2022-10-16 01:26:58",
+      "added_at": "2022-10-17 01:28:51",
       "album": {
         "name": "Two Jobs",
         "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
     },
     {
-      "added_at": "2022-10-16 01:26:58",
+      "added_at": "2022-10-17 01:28:51",
       "album": {
         "name": "What A Difference She Made",
         "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1P2dAOEpNQzC1eXW5er10B"
     },
     {
-      "added_at": "2022-10-16 01:26:58",
+      "added_at": "2022-10-17 01:28:51",
       "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
-      },
-      "artists": [
-        {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
-        }
-      ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Sage Motel",
@@ -1079,6 +1063,22 @@
       "duration_ms": 232493,
       "name": "Sage Motel",
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
     },
     {
       "added_at": "2021-12-03 05:01:00",

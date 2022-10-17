@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 163333,
+  "num_followers": 163397,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDU5MDc1YWZkZGRlMGUxN2ZhMzZmMGEwOGE5OTlkZmM5",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDdlZjEzYTFiYmE2MDdiYzZiMWI4NTI4YWI5NGM1Y2M0",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -519,6 +519,42 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "RTJ4",
         "url": "https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd"
       },
@@ -547,42 +583,6 @@
       "duration_ms": 205160,
       "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "url": "https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214170,
-      "name": "None Of The Above",
-      "url": "https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Heart Afire",
         "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 157656,
       "name": "Heart Afire",
       "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214170,
+      "name": "None Of The Above",
+      "url": "https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Our House (The Mess We Made)",
+        "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 220528,
+      "name": "Our House (The Mess We Made)",
+      "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "The Disease",
         "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 171426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Our House (The Mess We Made)",
-        "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 220528,
-      "name": "Our House (The Mess We Made)",
-      "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Weather Strike",
-        "url": "https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q"
+        "name": "American Attraction",
+        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Weather Strike",
-      "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
     }
   ],
   "unique_name": "Rise Up",

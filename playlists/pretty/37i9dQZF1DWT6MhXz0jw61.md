@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Symba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,884 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,251 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 33 | [Gratuity](https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Gratuity](https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e) | 3:37 |
 | 34 | [YAMI YUGI MOTO](https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [YAMI YUGI MOTO](https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3) | 1:57 |
 | 35 | [More Thoughts \(2019\)](https://open.spotify.com/track/5NFEYDjRq8kmPVQiUdixBp) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit](https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj) | 2:36 |
-| 36 | [Coolest Things \(feat\. Ari Lennox\)](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 |
+| 36 | [Coolest Things](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 |
 | 37 | [79th and Stony Island](https://open.spotify.com/track/41t7RkFBjaEFoGvr29QhYL) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Component System with the Auto Reverse](https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk) | 4:02 |
 | 38 | [Blow 4 Blow \(feat\. Stove God Cooks & Benny the Butcher\)](https://open.spotify.com/track/5s1VBegxNUWtFeUpOSOoqv) | [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [KISS THE RING](https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg) | 4:03 |
 | 39 | [Kool](https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8) | [LMD](https://open.spotify.com/artist/4D5BJQmdXcLgnHcq1ImHn9), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MED](https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Flying High](https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF) | 3:45 |

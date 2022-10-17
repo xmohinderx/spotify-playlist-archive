@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-618 songs - 1 day 17 hr 29 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+620 songs - 1 day 17 hr 35 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Runway Markings](https://open.spotify.com/track/0lK3N42BJ6mJ817MOUCDvN) | [Okta Logue](https://open.spotify.com/artist/6uAxVau0WqFZV2BXcw6TGO) | [Runway Markings](https://open.spotify.com/album/5TQQ6QFzau2qFE9MwdKL1C) | 6:25 | 2021-04-02 | 2022-04-20 |
 | [Sadly](https://open.spotify.com/track/1pHAHmN8wk2q1F39C5dzd4) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Danica](https://open.spotify.com/album/4Ct91R2C7RY4k6ALyhuIXG) | 4:04 | 2021-06-25 | 2022-07-09 |
 | [Sakla Beni](https://open.spotify.com/track/29iikcw9YrjhYEmfLgBTHF) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sakla Beni](https://open.spotify.com/album/4OvbDj63wW3ci9rbVJECGt) | 4:40 | 2021-04-02 | 2022-04-21 |
+| [Saturdays](https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 3:07 | 2022-09-02 |  |
 | [Saturdays](https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Saturdays](https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO) | 3:07 | 2022-08-12 | 2022-10-13 |
 | [Savanne](https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Savanne](https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF) | 5:16 | 2022-07-29 |  |
 | [Scab](https://open.spotify.com/track/5ntc7RlZu43qOqNsHfEseg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/74qi2MyJ2r82E283Uswsih) | 3:47 | 2021-04-02 | 2022-04-20 |
@@ -470,7 +471,7 @@
 | [She Believes in the Devil](https://open.spotify.com/track/03EdWn1FnvNuO2XOokZH2e) | [SEND MEDICINE](https://open.spotify.com/artist/6SWl2Mc004ez0QE3IdET2H) | [She Believes in the Devil](https://open.spotify.com/album/0oHPP9voQUEG5wCzAaYbPx) | 4:29 | 2021-04-02 | 2022-04-15 |
 | [Shed Head](https://open.spotify.com/track/1tI40eFNnHYsVWhKo5yhUT) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [Shed Head](https://open.spotify.com/album/5mhxYNAnqi2g1qg1go9Ezc) | 3:41 | 2022-05-13 | 2022-07-29 |
 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 | 2021-04-02 | 2022-04-20 |
-| [Shelter Song](https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Sun Structures \(Deluxe Version\)](https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl) | 3:10 | 2022-07-22 |  |
+| [Shelter Song](https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Sun Structures \(Deluxe Version\)](https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl) | 3:10 | 2022-07-22 | 2022-10-17 |
 | [Shelter Song](https://open.spotify.com/track/35cLqDLNb6mN7NhBEhqYhZ) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Colours To Life / Shelter Song](https://open.spotify.com/album/46vp9Wp7VrENwlEPafsOb2) | 3:10 | 2021-04-02 | 2022-05-21 |
 | [Shine](https://open.spotify.com/track/6iWLiZFSU7id0sD4ereQ0J) | [Goodbye Honolulu](https://open.spotify.com/artist/32YbiP7aG6phXVds7z13nf) | [Shine](https://open.spotify.com/album/3fm91qEN2vfMtInCk3DaHu) | 3:04 | 2021-09-10 | 2022-06-17 |
 | [Shortcuts](https://open.spotify.com/track/5uwNmdGV23BLcg8KzQPVPY) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Shortcuts](https://open.spotify.com/album/72JyRDmsCZaoE0H70HYHA0) | 2:34 | 2021-04-02 | 2022-07-29 |
@@ -534,7 +535,8 @@
 | [The Light](https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 4:32 | 2022-07-11 |  |
 | [The Look](https://open.spotify.com/track/6cGdaUtU9aPow49qHXOqMt) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [The Look](https://open.spotify.com/album/313WijyC82LvkasvfcRbSD) | 3:56 | 2021-04-02 | 2022-07-10 |
 | [The Loon](https://open.spotify.com/track/4ZrpeLF9VBKSJQ00UDxu7Q) | [Caleb Landry Jones](https://open.spotify.com/artist/736HHrEfkWjQB7zYV2aeXV) | [The Loon](https://open.spotify.com/album/3qdcsgPvZEgyal2LWwbGQC) | 3:01 | 2021-08-20 | 2022-04-14 |
-| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-03-08 |  |
+| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-03-08 | 2022-10-17 |
+| [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-14 |  |
 | [The Medium](https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:07 | 2022-07-11 |  |
 | [The Melting Of The Sun](https://open.spotify.com/track/4unEJMppi4oB9yoYRnTnq7) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Melting Of The Sun](https://open.spotify.com/album/0mOmcNkbEpgXvSWlhrHtdj) | 4:17 | 2021-04-02 | 2022-07-30 |
 | [The Night Has Missed Me](https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [From Heaven](https://open.spotify.com/album/260smJl1zubR2fxh8OD0rz) | 3:49 | 2022-05-09 | 2022-07-30 |

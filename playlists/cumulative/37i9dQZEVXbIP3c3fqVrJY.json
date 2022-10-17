@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 130285,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
@@ -3399,7 +3399,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 208356,
       "name": "DJ EZ",
       "url": "https://open.spotify.com/track/6j3gXUugRtIvffdxpoPmSE"
@@ -3863,7 +3863,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -6287,7 +6287,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 119722,
       "name": "Jsem Optimista",
       "url": "https://open.spotify.com/track/1K0njELsVmFeAZhDZNZmhJ"
@@ -7765,7 +7765,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 204506,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
@@ -7877,7 +7877,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
@@ -8077,7 +8077,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 140133,
       "name": "mhm",
       "url": "https://open.spotify.com/track/3I8HRjgOKJmJ3t3JT1bgH9"
@@ -8277,6 +8277,24 @@
       "duration_ms": 133746,
       "name": "Mlha nad Jord\u00e1nem",
       "url": "https://open.spotify.com/track/3EaTpVCWVjZjna79S24hUG"
+    },
+    {
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
       "album": {
@@ -12343,7 +12361,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 198726,
       "name": "Starkids",
       "url": "https://open.spotify.com/track/16tcKXXuGEFaCkDAXgjQKo"
@@ -12763,7 +12781,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -14423,18 +14441,6 @@
         {
           "name": "58G",
           "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/5QR7CB4D1tsS0xTSlEVwoP"
-        },
-        {
-          "name": "Humla",
-          "url": "https://open.spotify.com/artist/2A1RD6jdOBjFp3Mq3rnBj0"
-        },
-        {
-          "name": "TK27",
-          "url": "https://open.spotify.com/artist/3iFSniZuusJHdd2PbMaHwv"
         }
       ],
       "date_added": "2022-10-14",
@@ -14685,7 +14691,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

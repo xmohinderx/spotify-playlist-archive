@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,701 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,787 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 14 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
 | 15 | [One Last Time](https://open.spotify.com/track/6IC0untdEsc2PeKcQgZWN9) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/2rZTW31z0d1DhCztQr21b2) | 2:20 |
 | 16 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
-| 17 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
+| 17 | [Counter Attack Mankind](https://open.spotify.com/track/238xYmosbRii3JrPUFIUtF) | [Feora](https://open.spotify.com/artist/1CrlOWdMRMmEkDbivpWVxn) | [Counter Attack Mankind](https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE) | 2:19 |
 | 18 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
-| 19 | [Fast Coupe](https://open.spotify.com/track/34DFTDR17SPdxHeHIIaq4p) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6e17YaDs9O4RbnGFVzEQpL) | 2:14 |
-| 20 | [Counter Attack Mankind](https://open.spotify.com/track/238xYmosbRii3JrPUFIUtF) | [Feora](https://open.spotify.com/artist/1CrlOWdMRMmEkDbivpWVxn) | [Counter Attack Mankind](https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE) | 2:19 |
+| 19 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
+| 20 | [Fast Coupe](https://open.spotify.com/track/34DFTDR17SPdxHeHIIaq4p) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6e17YaDs9O4RbnGFVzEQpL) | 2:14 |
 | 21 | [Fireflies](https://open.spotify.com/track/4Al96JAyCmkAn9tryHNEFx) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/45QD5MLnRkj2F2RVJfwkcc) | 4:58 |
 | 22 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
 | 23 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 37 | [Tachikawa](https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM) | [KÖWE](https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Tachikawa](https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3) | 1:12 |
 | 38 | [Truth \- Helios Remix](https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/6m6zHJ1nwn95OQPr90Hbic) | 3:45 |
 | 39 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 |
-| 40 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
-| 41 | [My Own World](https://open.spotify.com/track/12pqAvuELTFoNj8kQ6vKDH) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8), [Bumblebee](https://open.spotify.com/artist/00tp1VkcmbfeTDI2XhRtZx) | [My Own World](https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3) | 1:55 |
+| 40 | [My Own World](https://open.spotify.com/track/12pqAvuELTFoNj8kQ6vKDH) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8), [Bumblebee](https://open.spotify.com/artist/00tp1VkcmbfeTDI2XhRtZx) | [My Own World](https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3) | 1:55 |
+| 41 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
 | 42 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 |
 | 43 | [tears](https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt) | [Austin Chen](https://open.spotify.com/artist/3y6dmAk5GeWK3wjo8xcpjf) | [scenes I](https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf) | 2:24 |
 | 44 | [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 |
 | 45 | [Sad Heart of Mine](https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust and Disquiet](https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I) | 4:27 |
 | 46 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
-| 47 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 |
-| 48 | [continue](https://open.spotify.com/track/04P7QSHfeD2aDmZYSVt4wG) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/6Brbcuo8MpJIuC0IADK5NM) | 1:36 |
+| 47 | [continue](https://open.spotify.com/track/04P7QSHfeD2aDmZYSVt4wG) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/6Brbcuo8MpJIuC0IADK5NM) | 1:36 |
+| 48 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 |
 | 49 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 |
 | 50 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 |
 
-Snapshot ID: `MTY2NTc3MjMwMywwMDAwMDAwMGYwYzRiODY0YWMwMDQ0NjVkNTlmYjJhOGU4NjRiZjA4`
+Snapshot ID: `MTY2NTc3MjMwMywwMDAwMDAwMDM1MmMwMzZmOWIzMWNkYjU2YWQ1YjdkM2ExZjI3Njhl`

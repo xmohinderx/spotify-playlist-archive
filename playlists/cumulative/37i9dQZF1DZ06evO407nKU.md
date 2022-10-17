@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/6Y7WCOGwQgghlGDjlm7brC)
+73 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/6Y7WCOGwQgghlGDjlm7brC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Me Hubieras Cobrado](https://open.spotify.com/track/7kjrKf3poQGEoNMXnQVAMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Hubieras Cobrado](https://open.spotify.com/album/6X0DECa6FMHcB7oRvbNINW) | 4:16 | 2022-08-22 |  |
 | [Mi Error](https://open.spotify.com/track/08UWHH1UZwowsKGkWphHCz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:24 | 2022-06-13 | 2022-07-11 |
 | [Mi Ranchito \- En Vivo](https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mi Ranchito](https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z) | 2:54 | 2022-10-12 |  |
-| [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 | 2022-06-01 |  |
+| [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 | 2022-06-01 | 2022-10-17 |
 | [Mujer Hermosa](https://open.spotify.com/track/0XhaVvPNfXxl3qDV5cpg4T) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:42 | 2022-06-01 |  |
 | [Necesito Una Compañera](https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Necesito Una Compañera](https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A) | 4:02 | 2022-06-01 |  |
 | [No La Hagas Sufrir](https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [No La Hagas Sufrir](https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As) | 3:33 | 2022-06-01 |  |
@@ -60,6 +60,7 @@
 | [Porque Te Amo](https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Porque Te Amo](https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg) | 3:06 | 2022-06-01 |  |
 | [Queda Restringido](https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 4:07 | 2022-06-01 |  |
 | [Quisiera](https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Quisiera](https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ) | 2:09 | 2022-06-01 |  |
+| [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 | 2022-10-16 |  |
 | [Se Me Acabó El Tequila](https://open.spotify.com/track/6rFV17L3bx4ER3Q4epyDgz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Se Me Acabó El Tequila](https://open.spotify.com/album/3ZRpDk7M14JJf6OaLW70Ig) | 3:02 | 2022-09-08 |  |
 | [Se Supone](https://open.spotify.com/track/37q02Zyig7z2kjkzfO9O3P) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:57 | 2022-06-08 | 2022-10-13 |
 | [Si Tu Quieres](https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:57 | 2022-06-01 |  |

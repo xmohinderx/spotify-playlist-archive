@@ -4,7 +4,7 @@
 
 > Piano music for late night work; reading, writing and studying in the quiet hours.
 
-577 songs - 1 day 1 hr 19 min - [published](https://open.spotify.com/playlist/7cjodZVzQ3VbBI3fx7ewwS)
+578 songs - 1 day 1 hr 21 min - [published](https://open.spotify.com/playlist/7cjodZVzQ3VbBI3fx7ewwS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,8 @@
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2021-12-07 | 2022-10-14 |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2021-12-07 | 2022-10-14 |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-02-15 | 2022-07-20 |
-| [Out the Dark](https://open.spotify.com/track/4KWm3DyengX39eIr3p9mVs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Out the Dark](https://open.spotify.com/album/4qC7JDS4bSpJams0JSWAR1) | 2:24 | 2022-08-09 |  |
+| [Out the Dark](https://open.spotify.com/track/4KWm3DyengX39eIr3p9mVs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Out the Dark](https://open.spotify.com/album/4qC7JDS4bSpJams0JSWAR1) | 2:24 | 2022-08-09 | 2022-10-17 |
+| [Out the Dark](https://open.spotify.com/track/4hRsKj4mQgoJPYuZtj84FL) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:24 | 2022-10-13 |  |
 | [Overcoming](https://open.spotify.com/track/0vsFwLrazvsKYDalACjCXQ) | [Jean\-Pierre Elman](https://open.spotify.com/artist/70WcF6zocxsqUIuoI4E12E) | [Overcoming](https://open.spotify.com/album/2cekUsqKAoR1DAUqndUHul) | 2:06 | 2021-12-07 | 2022-07-29 |
 | [Overcoming](https://open.spotify.com/track/7xUlSPFsbp0NbH297CenJy) | [Jean\-Pierre Elman](https://open.spotify.com/artist/70WcF6zocxsqUIuoI4E12E) | [Overcoming](https://open.spotify.com/album/6kitpH9oAvToRbzYoOoP8u) | 2:06 | 2022-07-28 | 2022-10-05 |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 |  |

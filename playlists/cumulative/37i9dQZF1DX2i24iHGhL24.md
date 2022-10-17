@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Lewis Capaldi
 
-333 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+334 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2022-07-08 |  |
 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 | 2021-12-17 | 2022-05-02 |
 | [Hotter Than Hell \- BBC Live Session](https://open.spotify.com/track/6M3xk5Ma3cw7nzIlfD5tJk) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:28 | 2021-12-17 | 2022-04-24 |
-| [How Long Will I Love You](https://open.spotify.com/track/1SkEgcnthm7jz1p4eEyHB7) | [Kristina Train](https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK) | [How Long Will I Love You](https://open.spotify.com/album/3v1oL5411yFq1F295H9WWy) | 2:20 | 2021-12-17 |  |
+| [How Long Will I Love You](https://open.spotify.com/track/1SkEgcnthm7jz1p4eEyHB7) | [Kristina Train](https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK) | [How Long Will I Love You](https://open.spotify.com/album/3v1oL5411yFq1F295H9WWy) | 2:20 | 2021-12-17 | 2022-10-17 |
+| [How Long Will I Love You](https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C) | [Kristina Train](https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK) | [How Long Will I Love You](https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU) | 2:20 | 2022-09-23 |  |
 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 | 2021-12-17 |  |
 | [I Feel It Coming \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB) | 4:03 | 2022-07-08 |  |
 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 | 2021-12-17 | 2022-07-29 |

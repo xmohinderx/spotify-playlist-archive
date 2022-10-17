@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Callista Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,884 likes - 117 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,972 likes - 117 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

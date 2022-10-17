@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-197 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+198 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [No Easy Way Out](https://open.spotify.com/track/2DiSIsMYLpSwt1Oj0HWLJZ) | [Bonny Cameryn Moon](https://open.spotify.com/artist/55hSaQLSWxgTKHqLesZs8c), [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Btm Vocal Series: Americana the Beautiful, Vol\. I](https://open.spotify.com/album/4FrKyogjbHUYgmhqQxaRrN) | 3:38 | 2022-07-22 |  |
 | [Notebook of My Mind](https://open.spotify.com/track/4Q0YdgDyS14wzYQ1JW3Wwb) | [Cree Rider Family Band](https://open.spotify.com/artist/3XRXBKYzi8ShXOANoYJb1p) | [Let the River Rise](https://open.spotify.com/album/1XHOSaYOKRQRLbh1cekenb) | 4:28 | 2022-07-22 |  |
 | [Nothing to Lose](https://open.spotify.com/track/48ck1T7sKUaq78y2aUNBUf) | [Jared Lutes](https://open.spotify.com/artist/1w74yhT4b3dl2IdvEiLKoY) | [The Rest of Your Life](https://open.spotify.com/album/5cDqaKVSj6cGPZMAdJggrD) | 3:10 | 2022-07-22 |  |
-| [Nothing's Alright](https://open.spotify.com/track/3bq9ntLOdUxX5aJjZsDGq8) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/5KPxHPIALBQWbxmXwD1Fha) | 3:24 | 2022-07-22 |  |
+| [Nothing's Alright](https://open.spotify.com/track/3bq9ntLOdUxX5aJjZsDGq8) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/5KPxHPIALBQWbxmXwD1Fha) | 3:24 | 2022-07-22 | 2022-10-17 |
+| [Nothing's Alright](https://open.spotify.com/track/5JqqoMrMOHkFWfeKKCsoDq) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/2KjdkaGCd0OnLUxCLoViMh) | 3:24 | 2022-07-22 |  |
 | [November](https://open.spotify.com/track/3mM9vRlgBSZGyTLzJ4je5m) | [Keith Skooglund](https://open.spotify.com/artist/6UxzEMXInwnATIwEbDxkr0) | [November](https://open.spotify.com/album/1cEsGPDHBbS4Ik7eNQwRuF) | 2:59 | 2022-07-22 |  |
 | [Ode to LBC](https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u) | 3:03 | 2022-07-22 |  |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2022-07-22 |  |

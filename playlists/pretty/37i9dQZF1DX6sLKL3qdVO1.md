@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Wisin & Yandel, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,387 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,539 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

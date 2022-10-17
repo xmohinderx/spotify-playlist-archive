@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Älskar \| Playlista odświeżana w każdy wtorek.
 
-482 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
+483 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Dres Dama](https://open.spotify.com/track/77e0Gq8yAxDPIQjWBGjMFP) | [Light On](https://open.spotify.com/artist/6K2077txxMcjmKlbAJ3ZwZ) | [Dres Dama](https://open.spotify.com/album/5FS0wSzVqIdrkCLTslobRn) | 4:11 | 2022-07-18 | 2022-08-09 |
 | [Druga strona Warszawy](https://open.spotify.com/track/5wnWBOSkOcyuIXqODV0thZ) | [Klabiński](https://open.spotify.com/artist/63epGzUUDoo1MX6EkVpsh3) | [Druga strona Warszawy](https://open.spotify.com/album/28YQ4mEH6JWy5uta73Gv3D) | 2:55 | 2022-07-18 | 2022-09-13 |
 | [Drzwi](https://open.spotify.com/track/5Oxc1lMCVFTap40f2FQXOX) | [Nicole Kulesza](https://open.spotify.com/artist/6w2akRTl2UT8xdWikMr4Yy) | [Drzwi](https://open.spotify.com/album/0OmC1WVnU8NvE8K59Cxg7r) | 2:42 | 2022-06-27 | 2022-08-23 |
-| [Dwoje](https://open.spotify.com/track/18bEAdVcpTL2ff3axlPKqI) | [Chvost](https://open.spotify.com/artist/52igMo8EJG5hDLoY62CKp5) | [Dwoje](https://open.spotify.com/album/64hh9VjMvk3iLRyfpNlaeh) | 4:12 | 2022-09-26 |  |
+| [Dwoje](https://open.spotify.com/track/18bEAdVcpTL2ff3axlPKqI) | [Chvost](https://open.spotify.com/artist/52igMo8EJG5hDLoY62CKp5) | [Dwoje](https://open.spotify.com/album/64hh9VjMvk3iLRyfpNlaeh) | 4:12 | 2022-09-26 | 2022-10-17 |
+| [Dwoje](https://open.spotify.com/track/50AfNMcVL7Kiaew7DIOTYL) | [Chvost](https://open.spotify.com/artist/52igMo8EJG5hDLoY62CKp5) | [Dwoje](https://open.spotify.com/album/0ReXliEj7OKsjH7i3gfP7W) | 4:12 | 2022-10-10 |  |
 | [Dwoje Ludzieńków](https://open.spotify.com/track/6BvfSPcBj8lyfEMwkFEYqV) | [GRALIRYKA](https://open.spotify.com/artist/2n4AGfHkzwXOLZhY5rxXLd), [Olivia Kopiec](https://open.spotify.com/artist/7IYhGxaqaZXTFQ12fDg2xP) | [Dwoje Ludzieńków](https://open.spotify.com/album/2vDnI5838JzCufqOWKXt13) | 3:08 | 2022-07-04 | 2022-08-30 |
 | [Dziewczyna z tatuażem](https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Dziewczyna z tatuażem](https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re) | 5:04 | 2022-09-26 |  |
 | [dzień dobry](https://open.spotify.com/track/3AuNLXXdSfEvFOtTM9Latc) | [Jesse Methylen](https://open.spotify.com/artist/6mSlFp2s7LTcxGt8RjGjQw) | [dzień dobry](https://open.spotify.com/album/3f73HyNBicDSglcbmOwGsE) | 3:52 | 2022-08-08 | 2022-09-13 |

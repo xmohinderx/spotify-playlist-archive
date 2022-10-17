@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-134 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+135 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Ambulance](https://open.spotify.com/track/4pqsxHGrNokZEVlOSiH2MG) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Monument](https://open.spotify.com/album/3MDQ2fNnt78CZrdBh6Nq3B) | 4:32 | 2021-10-14 |  |
 | [Angel's Song](https://open.spotify.com/track/5hXTMmVXz1Ablgu34BkTz1) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Angel's Song](https://open.spotify.com/album/0Ym8AaoLrK5HHQ0lCYgASd) | 3:17 | 2021-10-14 |  |
 | [Ash and Orange](https://open.spotify.com/track/2JssyBv99RyE6T7FoQbG39) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Ash and Orange](https://open.spotify.com/album/0fYF5yHkiiHh21LgunUauW) | 3:48 | 2021-10-14 |  |
-| [BABY](https://open.spotify.com/track/7J1x7McujflNLwsZApw7Yl) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [BABY](https://open.spotify.com/album/6idnvaWV0PIhWg1Rfprj2W) | 3:24 | 2021-10-14 |  |
+| [BABY](https://open.spotify.com/track/3ZpXjkbF60sdM56xe0gBGO) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [BABY](https://open.spotify.com/album/72SidVDUgWuk9EmejhPnth) | 3:24 | 2021-10-14 |  |
+| [BABY](https://open.spotify.com/track/7J1x7McujflNLwsZApw7Yl) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [BABY](https://open.spotify.com/album/6idnvaWV0PIhWg1Rfprj2W) | 3:24 | 2021-10-14 | 2022-10-17 |
 | [Black Cloud](https://open.spotify.com/track/7MkBQ0FuRr4R0mlKEdBW0W) | [Playwrite](https://open.spotify.com/artist/0EiT4C5JLoSGXyEpHAZpEN) | [Cathedrals](https://open.spotify.com/album/3OvoMUfySPeoCMn6CBDmRD) | 3:35 | 2021-10-14 |  |
 | [Blame Or Love Or Nothing](https://open.spotify.com/track/7EMDTJ6i9O1lpKxn4HIRav) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [A Quickening](https://open.spotify.com/album/2FJXb65A9vmsvYZgqVHhyy) | 3:08 | 2021-10-14 |  |
 | [Bones](https://open.spotify.com/track/4ikx8rEoPUzILdxGpi5goG) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 2:58 | 2021-10-14 |  |

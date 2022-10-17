@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,595 likes - 113 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,087 likes - 113 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

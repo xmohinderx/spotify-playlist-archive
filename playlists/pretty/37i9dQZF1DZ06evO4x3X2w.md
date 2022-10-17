@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,316 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,556 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,21 +19,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 9 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 10 | [Pink](https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:55 |
 | 11 | [Amazing](https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:56 |
-| 12 | [Janie's Got A Gun](https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:30 |
+| 12 | [Fly Away From Here](https://open.spotify.com/track/4QB2cdh2v5zeRD1khGF9A5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 5:01 |
 | 13 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 |
-| 14 | [Fly Away From Here](https://open.spotify.com/track/4QB2cdh2v5zeRD1khGF9A5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 5:01 |
+| 14 | [Janie's Got A Gun](https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:30 |
 | 15 | [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 |
-| 16 | [Come Together](https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3) | 3:44 |
-| 17 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 |
-| 18 | [Jaded](https://open.spotify.com/track/4iihDHIoKZdOeOW1kFDUtR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:34 |
+| 16 | [Jaded](https://open.spotify.com/track/4iihDHIoKZdOeOW1kFDUtR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:34 |
+| 17 | [Come Together](https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3) | 3:44 |
+| 18 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 |
 | 19 | [Back In the Saddle](https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:40 |
 | 20 | [Eat The Rich](https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:09 |
-| 21 | [Love In An Elevator \- Single Version](https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:21 |
-| 22 | [Full Circle](https://open.spotify.com/track/3J36VgHD5KvlNR7NinNph5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 5:00 |
+| 21 | [Full Circle](https://open.spotify.com/track/3J36VgHD5KvlNR7NinNph5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 5:00 |
+| 22 | [Love In An Elevator \- Single Version](https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:21 |
 | 23 | [What Could Have Been Love](https://open.spotify.com/track/0RWSLyiyfBktTFIs458CWV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 3:44 |
 | 24 | [Train Kept a Rollin'](https://open.spotify.com/track/664NjRsLgSJtqX8VM0Ghh1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq) | 5:33 |
-| 25 | [Last Child](https://open.spotify.com/track/5jH8ecmEyX08pQ06T0h6ly) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 3:26 |
-| 26 | [Falling In Love \(Is Hard On The Knees\)](https://open.spotify.com/track/1oBTw7IkWnEUxiestsAD1V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:25 |
+| 25 | [Falling In Love \(Is Hard On The Knees\)](https://open.spotify.com/track/1oBTw7IkWnEUxiestsAD1V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:25 |
+| 26 | [Last Child](https://open.spotify.com/track/5jH8ecmEyX08pQ06T0h6ly) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 3:26 |
 | 27 | [Mama Kin](https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:27 |
 | 28 | [Same Old Song and Dance](https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq) | 3:53 |
 | 29 | [Toys In The Attic](https://open.spotify.com/track/4pj8ElgSWmmy5LT9a7jb0s) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:05 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 39 | [Draw The Line](https://open.spotify.com/track/6wAt7QG4nA9DpVUTgfAfuh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Draw The Line](https://open.spotify.com/album/792SNee67NvAFZbsip969c) | 3:23 |
 | 40 | [Can't Stop Lovin' You \(with Carrie Underwood\)](https://open.spotify.com/track/4QiiT9eRGGSDZAxKN5BM46) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 4:04 |
 | 41 | [Water Song/Janie's Got A Gun](https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 5:38 |
-| 42 | [Let The Music Do The Talking](https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Done With Mirrors](https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf) | 3:47 |
-| 43 | [Big Ten Inch Record](https://open.spotify.com/track/3sfdkh6pvMMvhcSIJ2j8AS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 2:15 |
+| 42 | [Big Ten Inch Record](https://open.spotify.com/track/3sfdkh6pvMMvhcSIJ2j8AS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 2:15 |
+| 43 | [Let The Music Do The Talking](https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Done With Mirrors](https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf) | 3:47 |
 | 44 | [Shut Up And Dance](https://open.spotify.com/track/3BbWOytu8sLDD2pgU5z5xz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:55 |
-| 45 | [Nine Lives](https://open.spotify.com/track/7l7xKcFmFRInQizauAJfyt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 4:01 |
-| 46 | [Somebody](https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 4:35 |
-| 47 | [You See Me Crying](https://open.spotify.com/track/2aviXDjt6uZgYk6NkytZW9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 5:11 |
+| 45 | [Somebody](https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 4:35 |
+| 46 | [You See Me Crying](https://open.spotify.com/track/2aviXDjt6uZgYk6NkytZW9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 5:11 |
+| 47 | [Nine Lives](https://open.spotify.com/track/7l7xKcFmFRInQizauAJfyt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 4:01 |
 | 48 | [Sick As A Dog](https://open.spotify.com/track/2R1HDqY6bSdb7G5mYbcItD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:11 |
-| 49 | [Beautiful](https://open.spotify.com/track/22zzEs67LrT6RL25pwpOPW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 3:04 |
-| 50 | [Reefer Head Woman](https://open.spotify.com/track/58wkIWSCm3QXa5xlND4gl9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 5:37 |
+| 49 | [Reefer Head Woman](https://open.spotify.com/track/58wkIWSCm3QXa5xlND4gl9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 5:37 |
+| 50 | [Beautiful](https://open.spotify.com/track/22zzEs67LrT6RL25pwpOPW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 3:04 |
 
-Snapshot ID: `Mjc3NjQwMDQsMDAwMDAwMDA2ZmE1NGI2ZjliYTVkZGNmOTc5YWI4NGVkNWQ2NzQ0Yw==`
+Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDBkOTk5Y2U3YzJhNWRkNDQwMDEyNGRhZWExMDgwMGZmMg==`

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-522 songs - 1 day 8 hr 43 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+523 songs - 1 day 8 hr 46 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 | 2022-05-25 |  |
 | [Aberdeen](https://open.spotify.com/track/7pwULzYydZdjJX3SiqQ5bR) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/2jVxhH1xg6EIc87rGM1Ogt) | 3:12 | 2022-05-25 | 2022-07-05 |
 | [Adolescents](https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [If Not Now, When?](https://open.spotify.com/album/7d4zNXpbzKsvJpjQi4cIfj) | 4:48 | 2022-05-25 | 2022-07-18 |
+| [After Midnight](https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:26 | 2022-05-25 |  |
 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 | 2022-05-25 | 2022-07-27 |
 | [After Midnight](https://open.spotify.com/track/217LuteR9uZbrD0Z1FYkt0) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:29 | 2022-05-25 | 2022-07-26 |
 | [Afterlife](https://open.spotify.com/track/2R9EzpfbMKA3UkGTQLD3mG) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Vice Verses \(Deluxe Edition\)](https://open.spotify.com/album/3a5RuKhK983i7weX2pwtG6) | 3:37 | 2022-05-25 | 2022-07-29 |
@@ -228,7 +229,7 @@
 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 | 2022-05-25 |  |
 | [I'm Only Joking](https://open.spotify.com/track/3iag81mU7BylirRwRYXd8E) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:44 | 2022-05-25 | 2022-07-28 |
 | [I'm Shakin'](https://open.spotify.com/track/07AjyDeE85pDr4Dj8BzgWB) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:00 | 2022-05-25 | 2022-09-10 |
-| [If I Had a Tail](https://open.spotify.com/track/06hBdrgjUendZyH9U1WV22) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:55 | 2022-05-25 |  |
+| [If I Had a Tail](https://open.spotify.com/track/06hBdrgjUendZyH9U1WV22) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:55 | 2022-05-25 | 2022-10-17 |
 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 | 2022-05-25 |  |
 | [If You Have Ghosts \- Bonus Track](https://open.spotify.com/track/1DhAs6AwQgjKMOs9EJ5AWY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Redux\)](https://open.spotify.com/album/6wAdgEsc9xbvOKcaBG7T9f) | 3:33 | 2022-05-25 | 2022-07-24 |
 | [If You Really Love Nothing](https://open.spotify.com/track/51KMpn0p5Vb7XVdV7mWau5) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Marauder](https://open.spotify.com/album/3h5FWXoJEw2MFmUOMfVke2) | 4:25 | 2022-05-25 | 2022-08-05 |

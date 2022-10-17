@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118355,
+  "num_followers": 118350,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDgyYThlZjI1YmI2ZmQ1NWRhZTFmN2UwMGY0NDI3YzJh",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDBmZTEyYzVkODI0MTBmMjg2NjM5MDJjYzg2NGZmZDI0",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -243,6 +243,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "BLAME IT ON BABY",
         "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1463,34 +1463,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Para todas as mulheres que j\u00e1 rimei",
-        "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Quase uma Semana",
-      "url": "https://open.spotify.com/track/3dA7eXIIuCTY1w9xmskLNN"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
         "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
       },
@@ -1519,6 +1491,34 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Para todas as mulheres que j\u00e1 rimei",
+        "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Quase uma Semana",
+      "url": "https://open.spotify.com/track/3dA7eXIIuCTY1w9xmskLNN"
     },
     {
       "added_at": "2020-10-20 20:23:39",

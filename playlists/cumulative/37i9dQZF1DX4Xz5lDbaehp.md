@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-139 songs - 7 hr 15 min - not published yet
+140 songs - 7 hr 19 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2021-12-01 |  |
 | [Oh, But Lover](https://open.spotify.com/track/3bHeVMbA84wmuHr5p2POrp) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 4:04 | 2021-12-01 |  |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2021-12-01 |  |
-| [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 | 2021-12-01 |  |
+| [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 | 2021-12-01 | 2022-10-17 |
+| [On Time For Her](https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 3:38 | 2021-12-01 |  |
 | [Out the Way](https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ) | 2:35 | 2021-12-01 |  |
 | [Out the Way](https://open.spotify.com/track/4gT03zyHBC3ushZZ16gGFK) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA) | 2:35 | 2021-12-01 | 2022-10-13 |
 | [Parallel Parking](https://open.spotify.com/track/4njf8PZi95E9ISlQVXXPyl) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Parallel Parking](https://open.spotify.com/album/1a1fIXE8ZFG5LPswnSC3ih) | 1:58 | 2021-12-01 |  |

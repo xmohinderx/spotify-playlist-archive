@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>但你才真的可惡 莫名傷得體無完膚<br/>為認真演出 結束得倉促 吞吞又吐吐<br/>誰抱頭地痛哭 熱情地歡呼 都可有可無。
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,135 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,176 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

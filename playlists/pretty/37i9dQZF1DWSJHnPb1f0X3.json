@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 3611712,
+  "num_followers": 3612684,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGE1YTUxMDVkZjFiODg5ZGQ0YTI5ZGZkMjdlMWU1Y2Yx",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDdmZDU2Y2NiZDg5ZThkMmE1ZTE1Yjc3ZTdlZTg4ZTEy",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -827,6 +827,30 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
       },
@@ -891,30 +915,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Living Without You",
-        "url": "https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Living Without You",
-      "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -939,26 +939,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+        "name": "Living Without You",
+        "url": "https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA"
       },
       "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
         {
           "name": "Sigala",
           "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
         }
       ],
-      "duration_ms": 171747,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+      "duration_ms": 184103,
+      "name": "Living Without You",
+      "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 178064,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 202406,
+      "name": "iPad",
+      "url": "https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 158807,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 202406,
-      "name": "iPad",
-      "url": "https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Headphones",
-        "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
-      },
-      "artists": [
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "What A Life (feat. Stevie Appleton)",
         "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 171547,
       "name": "What A Life (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Headphones",
+        "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
+      },
+      "artists": [
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "1 Day 2 Nights",
+        "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 138200,
+      "name": "1 Day 2 Nights",
+      "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "1 Day 2 Nights",
-        "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 138200,
-      "name": "1 Day 2 Nights",
-      "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 160871,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Body Back (feat. Maia Wright)",
         "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 214634,
       "name": "Body Back (feat. Maia Wright)",
       "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 160871,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "edamame (feat. Rich Brian) [Diplo Remix]",
         "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 175309,
       "name": "edamame (feat. Rich Brian) - Diplo Remix",
       "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2022-10-14 04:00:00",

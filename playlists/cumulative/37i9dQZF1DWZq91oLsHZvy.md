@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-172 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
+173 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Doses & Mimosas](https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 5:23 | 2022-01-21 | 2022-07-29 |
 | [Dream](https://open.spotify.com/track/23fR48mfaGSXCn5MM687U6) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Dream](https://open.spotify.com/album/3f8M3C6Fj828JzaWGTmJT1) | 3:14 | 2022-01-21 | 2022-07-24 |
 | [Dream](https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:14 | 2022-03-31 |  |
+| [Entertainment](https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:39 | 2022-09-30 |  |
 | [Entertainment](https://open.spotify.com/track/6CplRWasnvBmi33sFv6xYn) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1s7a0VpP3aNEubiTgx6YlU) | 3:39 | 2022-03-31 | 2022-10-13 |
 | [Entertainment](https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/3T66rLQ5rVheco76XLrlTY) | 3:40 | 2022-01-21 | 2022-07-29 |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2022-01-21 |  |
@@ -103,7 +104,7 @@
 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-09-30 |  |
 | [i'll die anyway.](https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY) | 3:12 | 2022-09-30 |  |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2022-03-24 | 2022-10-13 |
-| [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 | 2022-03-31 |  |
+| [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 | 2022-03-31 | 2022-10-17 |
 | [In The Morning](https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 3:42 | 2022-01-21 | 2022-07-29 |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/6sxU6FxUwBONwo2zsbD2v8) | 2:45 | 2022-09-30 |  |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 | 2022-09-30 | 2022-10-13 |

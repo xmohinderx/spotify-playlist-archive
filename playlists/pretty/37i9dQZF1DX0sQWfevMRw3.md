@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Nu dricker jag mig full och hjärtelös!
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,418 likes - 99 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,622 likes - 99 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

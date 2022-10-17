@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-441 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+443 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amistad](https://open.spotify.com/track/7DEyv9Bi68StRGmgj88UMo) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mito](https://open.spotify.com/album/4sXHOot4KCgIyj4Nwu5Rmm) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-05-20 | 2022-06-04 |
 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 | 2022-01-21 | 2022-07-22 |
-| [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 | 2022-01-21 |  |
+| [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 | 2022-01-21 | 2022-10-17 |
 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 | 2022-05-20 | 2022-07-21 |
 | [Antes](https://open.spotify.com/track/1pnE4Unmn63LONQ52SEmHe) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Antes \(de florecer\)](https://open.spotify.com/album/3sj339uXFqdnEWUiTb96nE) | 3:20 | 2022-02-11 | 2022-04-21 |
 | [Aprendí](https://open.spotify.com/track/6dmkQyR2K1ACuKCpi9XeLq) | [Cata Torres](https://open.spotify.com/artist/1i4RvIEPT6l7f6gzmwi1QH) | [Aprendí](https://open.spotify.com/album/5OXtmT402TOZVx9zFtwDje) | 3:06 | 2022-04-01 | 2022-04-17 |
@@ -126,6 +126,7 @@
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2022-01-14 |  |
 | [El Aire Que Respires](https://open.spotify.com/track/2AwBz5FvRImGnV4T7qQKrR) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Axel Mugneco](https://open.spotify.com/artist/6pr2XhUBfnXEa7bDc0nswN), [Michelle Mugneco](https://open.spotify.com/artist/693n5w7Sj2J0ZIjkp4FX9Y) | [El Aire Que Respires](https://open.spotify.com/album/2E8xOX3RrtFVdSDx5fW4yw) | 3:21 | 2022-01-21 | 2022-06-22 |
 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 | 2022-01-14 | 2022-10-15 |
+| [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2022-10-14 |  |
 | [El Gobierno de China](https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [El Gobierno de China](https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b) | 2:22 | 2022-02-11 | 2022-07-20 |
 | [El Guinness](https://open.spotify.com/track/3EMCNAmj4UgRmVEs0jbfM2) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Billetes Falsos](https://open.spotify.com/album/1iYnmFBoM9eAazMvc928sE) | 2:38 | 2022-01-21 | 2022-07-26 |
 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 | 2022-04-01 | 2022-07-23 |
@@ -213,6 +214,7 @@
 | [Legionario](https://open.spotify.com/track/0b65Z7BqOl8Qyq8aRlfkP7) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Legionario](https://open.spotify.com/album/6VCFn5LoIqyYid7OpjCvAg) | 4:11 | 2022-01-21 | 2022-06-07 |
 | [Lejos Libre Sola](https://open.spotify.com/track/7BhaJfyOOvuzoznVNh1BoB) | [Lali Gaspari](https://open.spotify.com/artist/0IcHojewbT2XZUs7Sb2bTX) | [Nuevas Intenciones](https://open.spotify.com/album/4nJd7rSTeFOZnmwoWCUhmw) | 3:37 | 2022-04-01 | 2022-04-14 |
 | [Levantar](https://open.spotify.com/track/5kr0AHjyDgkXzGNVHJWs2f) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Levantar](https://open.spotify.com/album/6b6pzWxfwOkwp3vMzt7U3m) | 3:50 | 2022-01-21 | 2022-07-24 |
+| [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 | 2022-10-14 |  |
 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 | 2022-01-14 |  |
 | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh) | 4:25 | 2022-01-21 | 2022-08-14 |
 | [Lo Inevitable](https://open.spotify.com/track/5FhBrrdF8AHRHTaQJXkfrO) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Lo Inevitable](https://open.spotify.com/album/48wvJycqlndD1ghMa9ozGF) | 3:09 | 2022-01-21 | 2022-07-23 |
@@ -448,6 +450,6 @@
 | [¿Quién nos amarró? \- Versión acústica](https://open.spotify.com/track/2LlLCUgxEcuU4NGzStAJOm) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Versiones acústicas del sentir III](https://open.spotify.com/album/5Q7tzjDMxqAgc857a9hdVB) | 3:35 | 2022-01-21 | 2022-07-27 |
 | [¿Qué?](https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Diego Ibáñez](https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ) | [¿Qué?](https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz) | 3:36 | 2022-01-14 |  |
 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 | 2022-01-14 | 2022-07-28 |
-| [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-14 |  |
+| [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-14 | 2022-10-17 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

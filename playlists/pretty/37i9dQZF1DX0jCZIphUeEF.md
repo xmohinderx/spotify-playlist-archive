@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 66 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107 likes - 66 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 43 | [Acido](https://open.spotify.com/track/6WzqBoPEaNURHowHAOQbzS) | [J\. Casablanca](https://open.spotify.com/artist/48QkjaIbPiRL5H4AfohBeR), [Buhoo](https://open.spotify.com/artist/4IeNULdIqDQdPmYotoTnP7) | [Acido / Whoop That!](https://open.spotify.com/album/0eH6mIbOLscxnGU887q6ii) | 6:39 |
 | 44 | [Mafana \- Marco Lys Remix](https://open.spotify.com/track/5xS9qcXWmDo9hF5rlRxSED) | [Chris Geka](https://open.spotify.com/artist/5lQDyoSLDFj5uTkI5JPczu), [Tecca](https://open.spotify.com/artist/0J7Kqmrp3SxJlw2Ce1o1EJ), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Mafana, Craygnos](https://open.spotify.com/album/5AxY2v9FjYIIsLH7yr3fqq) | 6:31 |
 | 45 | [Bangalora](https://open.spotify.com/track/59GRvXZLg7H7DJZkw4D7TJ) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Bangalora](https://open.spotify.com/album/1JYRYOsPFkzC4DBU5RW28h) | 7:47 |
-| 46 | [Mi Pena](https://open.spotify.com/track/29q0bUyU7TO83cY3oP7rMp) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/28yEiaLt8HAtzE3qTrQBlX) | 5:46 |
+| 46 | [Mi Pena](https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/0Jk1DzW10G0u6MYlBWuCyr) | 5:46 |
 | 47 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 |
 | 48 | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/track/3dFvXuCrkC0sgCJUrw6KF9) | [Ramy Mishriky](https://open.spotify.com/artist/5YPnzmq0y55OzDVZl6lazT), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/album/0Ldq3I9JLNO1M5bu8wLHNo) | 4:19 |
 | 49 | [Chano \- DJ Chus Remix](https://open.spotify.com/track/7AHLeuAT4F3aeYf9B4j4nY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Chano \(DJ Chus Remix\)](https://open.spotify.com/album/1y2gi7jIX2N6O4s3ZE4siW) | 3:28 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 65 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 |
 | 66 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 
-Snapshot ID: `MTY2MjYzNTgwNiwwMDAwMDAwMDBiNWZiYjBmODQ2NGFjZGIxOTk3YmExMGY5OGYwNmI5`
+Snapshot ID: `MTY2MjYzNTgwNiwwMDAwMDAwMGVjM2M3MTM2OTdlMWRjNWVlMzk4NWVkNzI2ZTkyZDFk`

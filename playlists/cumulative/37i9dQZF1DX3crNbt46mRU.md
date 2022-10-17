@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: girl in red
 
-3,672 songs - 7 day 20 hr 8 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+3,673 songs - 7 day 20 hr 10 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3051,7 +3051,8 @@
 | [Sun Valley \- Extrait de l'album SEGPA](https://open.spotify.com/track/1CRC31Y1vhXFHPt4JJ2Ykm) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [SEGPA](https://open.spotify.com/artist/4JRNtdW7IlzTeASEk0Oayo) | [Sun Valley](https://open.spotify.com/album/4PT5j8ChfiUNo7k8nShKp7) | 2:55 | 2022-03-18 | 2022-03-25 |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 | 2022-08-05 |
 | [Sunburn](https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sunburn](https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ) | 3:02 | 2022-05-19 | 2022-05-27 |
-| [Sunday Night](https://open.spotify.com/track/6hBiDF5wEVqEY1v1AFcs5o) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/5u6YdrD5sX0yXSRxc4y6H2) | 2:30 | 2022-10-13 |  |
+| [Sunday Night](https://open.spotify.com/track/6hBiDF5wEVqEY1v1AFcs5o) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/5u6YdrD5sX0yXSRxc4y6H2) | 2:30 | 2022-10-13 | 2022-10-17 |
+| [Sunday Night](https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH) | 2:30 | 2022-10-14 |  |
 | [Sunglasses](https://open.spotify.com/track/6qkGYZyzSy5JJn345Vyhur) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Sunglasses](https://open.spotify.com/album/07l0rLWvKhrTjRPXbsDNif) | 2:38 | 2022-08-25 | 2022-09-02 |
 | [Sunlight Sings](https://open.spotify.com/track/4fNnGgyUSY54YUOwWG0Gvr) | [Noah Ferrari](https://open.spotify.com/artist/5Kd6yh5cO6q8tBA8E9JlkY) | [Sunlight Sings](https://open.spotify.com/album/1uN66caUadlSxOdjwnWDAE) | 3:13 | 2022-09-29 | 2022-10-07 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-14 | 2022-07-22 |

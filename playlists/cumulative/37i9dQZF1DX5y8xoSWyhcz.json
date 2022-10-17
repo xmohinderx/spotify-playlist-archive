@@ -4573,10 +4573,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 176596,
       "name": "Eighteen",
       "url": "https://open.spotify.com/track/0Vo9cyMCixFq5n93LjiOGq"
+    },
+    {
+      "album": {
+        "name": "Eighteen",
+        "url": "https://open.spotify.com/album/5SwILpenGYOUgKAxG5lT7v"
+      },
+      "artists": [
+        {
+          "name": "Julian Daniel",
+          "url": "https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176596,
+      "name": "Eighteen",
+      "url": "https://open.spotify.com/track/2nedsXMQLeKmvRYoLAGOuh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,244 likes - 106 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,249 likes - 106 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 92 | [precious \(feat\. just lil\)](https://open.spotify.com/track/2WxybcrOpbTFB0NA2qrTA3) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [precious \(feat\. just lil\)](https://open.spotify.com/album/3OQX0KGcCIe0O8rIvOlMYY) | 3:02 |
 | 93 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
 | 94 | [Love The Way You Lie](https://open.spotify.com/track/7xFLKHxryH01ve5GvYGSMk) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Love The Way You Lie](https://open.spotify.com/album/11fLVfCVRRuuuQpyruSroN) | 2:48 |
-| 95 | [Sunday Night](https://open.spotify.com/track/6hBiDF5wEVqEY1v1AFcs5o) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/5u6YdrD5sX0yXSRxc4y6H2) | 2:30 |
+| 95 | [Sunday Night](https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Sunday Night](https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH) | 2:30 |
 | 96 | [Dold agenda](https://open.spotify.com/track/7yWoQfFwDblsOWdz4E5woA) | [Gissberg](https://open.spotify.com/artist/0kDLpXsC5aGG75k3zDhaO4), [GOBLIN](https://open.spotify.com/artist/3PxeE6GhkvD98TwqpLSiij) | [Dold agenda](https://open.spotify.com/album/1f96uNaZuzedqNcl3YS8c6) | 3:20 |
 | 97 | [by my side](https://open.spotify.com/track/7HhTN9CYdhHkSaV2zvQZYv) | [stroem](https://open.spotify.com/artist/4vLTxIcUSsNVsDH73uoEXS), [Finesto](https://open.spotify.com/artist/1sJHJJ3YhlmXWIyZHukcgY) | [by my side](https://open.spotify.com/album/0xKye54QzeIRSjV4Ew49VU) | 3:44 |
 | 98 | [kinda don't wanna exist](https://open.spotify.com/track/3dcTkVIkD8oW2Ug351Oq73) | [Elisa Ailes](https://open.spotify.com/artist/1UvxtqRR5lVUcO90xgz9DP) | [kinda don't wanna exist](https://open.spotify.com/album/6rSDB1kjY3POLJq7v8iDtX) | 1:49 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 105 | [Resurrected](https://open.spotify.com/track/34uU8Lu6oYDbl4MPm5K2pO) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:25 |
 | 106 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 |
 
-Snapshot ID: `MTY2NTc0NDc3MCwwMDAwMDAwMGQ1OWU4NzgxNTdkY2Y1NDhlY2Y2MTUyMTcwNGVkYTQ4`
+Snapshot ID: `MTY2NTc0NDc3MCwwMDAwMDAwMGUwYzg1NjQ0ZmU2YjE2ZjJlMDE2NmZkZTc0YWIyZGMx`

@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-48 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+49 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [In the Bleak Midwinter, H\. 73, No\. 1](https://open.spotify.com/track/1wrHwFpnwV4snllIwRMa1y) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [London Chamber Orchestra](https://open.spotify.com/artist/1ucDa7qmi9SfqfSqES9iXZ), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [Midwinter's Eve \- Music for Christmas](https://open.spotify.com/album/7DOdHPkADua4PT6yyP60GE) | 3:17 | 2021-12-16 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-12-16 |  |
 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 | 2021-12-16 |  |
-| [O Come All Ye Faithful](https://open.spotify.com/track/4WehDMVkpIxLPCltba3JFs) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/6pM5sjp8nekGKbMS6KDJ9i) | 2:20 | 2021-12-16 |  |
+| [O Come All Ye Faithful](https://open.spotify.com/track/0wwQHm22k4V0eoqLXLdd8E) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP) | 2:20 | 2022-10-14 |  |
+| [O Come All Ye Faithful](https://open.spotify.com/track/4WehDMVkpIxLPCltba3JFs) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/6pM5sjp8nekGKbMS6KDJ9i) | 2:20 | 2021-12-16 | 2022-10-17 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/6lNQuXMNa4qdkny0gzgbeV) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [A Cello Christmas](https://open.spotify.com/album/0pciEObXXUDRudyHwJrgj7) | 2:32 | 2021-12-16 |  |
 | [O Holy Night](https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 3:09 | 2021-12-16 |  |
 | [O Holy Night](https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [O Holy Night](https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ) | 3:09 | 2021-12-16 | 2022-07-29 |

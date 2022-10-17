@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-164 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+165 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Almost Made It](https://open.spotify.com/track/2pdYfeHGmZw01rqbspFIoZ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Almost Made It](https://open.spotify.com/album/5erOgjYwyCKsY3z48gLOCW) | 2:33 | 2021-11-24 | 2022-07-29 |
 | [Almost Made It](https://open.spotify.com/track/5U7bIVFI1JlX73x6t8SDyP) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Look Ahead And See The Distance](https://open.spotify.com/album/1RF4gKAj3jE2vs33zG3OR1) | 2:33 | 2022-06-03 |  |
 | [And the Birds Sing](https://open.spotify.com/track/2dU1nKAltV9lWPfuHdHwnI) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/0dcdC8vKdmAEAl6J24SP7p) | 3:41 | 2021-11-24 | 2022-07-29 |
-| [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 | 2022-06-03 |  |
+| [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 | 2022-09-26 |  |
+| [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 | 2022-06-03 | 2022-10-17 |
 | [Anny](https://open.spotify.com/track/0F7QiOGkU5JeHe6hNC0s4Z) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Anny](https://open.spotify.com/album/3N7s6qaUZINJn1QEcfJHe9) | 4:03 | 2021-11-24 |  |
 | [At Least Once](https://open.spotify.com/track/4i23tbQw9JV9dfvooyfP6T) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [At Least Once](https://open.spotify.com/album/26hvixgOgvYF7NEJbbmsk1) | 4:51 | 2021-11-24 |  |
 | [Be Around](https://open.spotify.com/track/3T3U9f5UJTTvZttYLW4J8C) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [In That Room](https://open.spotify.com/album/6i1Tfuso1BV4pRNMDtfybF) | 3:15 | 2022-06-03 |  |

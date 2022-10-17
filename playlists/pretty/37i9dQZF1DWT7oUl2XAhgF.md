@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,985 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,242 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 59 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
 | 60 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 |
 | 61 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
-| 62 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 |
-| 63 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 |
+| 62 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 |
+| 63 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 |
 | 64 | [Black Heart](https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Bury Me](https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb) | 2:54 |
 | 65 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
 | 66 | [Good, Better, Best](https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 2:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 69 | [Under The Sun](https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:21 |
 | 70 | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Human \(feat\. Vince Harder & Louis Baker\)](https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD) | 3:16 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGM3NmFiOWUxN2I3ZmM3NGExYjEyY2ZjY2FjMjhlMWNk`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDlkMzEzYzlkMjdhMzA3YWI3MjA3ZDA5NzU1MzQ1NjE1`

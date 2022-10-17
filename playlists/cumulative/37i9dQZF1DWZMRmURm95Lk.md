@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. In cover, Deda.
 
-229 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
+230 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Purple Haze](https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Machete Mixtape, Vol\. 3](https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM) | 3:22 | 2022-05-12 |  |
 | [Quando un giorno tornerai](https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z) | [Blocknotes](https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p) | 4:07 | 2022-05-05 |  |
 | [Quanno Me Ne So Juto](https://open.spotify.com/track/01xAgup1dgjF4nIDl8jy2p) | [Co'Sang](https://open.spotify.com/artist/1Pc6myra4XAEMjHzclAtAL) | [Vita Bona](https://open.spotify.com/album/64qz3uYNujb7uT6yqb8xNx) | 4:19 | 2022-05-12 | 2022-10-13 |
+| [Quanno me ne so juto](https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/59LESgxshdM9gDepqGWBol) | 4:19 | 2022-10-13 |  |
 | [Quelli che benpensano \(feat\. Riccardo Sinigallia\)](https://open.spotify.com/track/0ekMehNXQgeMJXfCPrlTTf) | [Frankie HI\-NRG MC](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Riccardo Sinigallia](https://open.spotify.com/artist/43wEeBstQu4lBC5V6oRdNG) | [La Morte Dei Miracoli & Diff\. Coupling](https://open.spotify.com/album/1iMtC9ZMR2zqC74aNP510k) | 4:09 | 2022-05-12 |  |
 | [Quelli come noi](https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Questo non è un cane](https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY) | 3:01 | 2022-09-21 |  |
 | [Rap in vena](https://open.spotify.com/track/7INUbNSkLTxJiqZ1FhNcxa) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mr\. Simpatia \(Remastered Version\)](https://open.spotify.com/album/5SrVqhNg8cC1ikzLSEnD6r) | 3:47 | 2022-05-05 | 2022-07-29 |
@@ -220,7 +221,7 @@
 | [Tiger Mask \- Se Acabo](https://open.spotify.com/track/5UVvbBbPmlBl6i7OAZRMpP) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Wego FTS](https://open.spotify.com/artist/2PoxLmzjISQlPoZ7KLzOMf) | [Tiger Mask \(Se Acabo\)](https://open.spotify.com/album/60oDLiIshmfMvwYg3KX5SJ) | 3:10 | 2022-05-12 | 2022-06-23 |
 | [Titanic](https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [Titanic](https://open.spotify.com/album/2g5mdnKae0ZnGzI6nXyDko) | 3:50 | 2022-06-02 | 2022-08-02 |
 | [Tranqi Funky](https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [Così Com' è](https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2) | 3:23 | 2022-06-30 |  |
-| [Treddepomeriggio](https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP) | [Er Costa](https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1) | [Treddepomeriggio](https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF) | 3:03 | 2022-05-12 |  |
+| [Treddepomeriggio](https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP) | [Er Costa](https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1) | [Treddepomeriggio](https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF) | 3:03 | 2022-05-12 | 2022-10-17 |
 | [Un Bacio sulla Fronte \(feat\. Silent Bob\)](https://open.spotify.com/track/2GMjPlQYLSPajBmj5TdTke) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [TOTEM \(Ultimate Edition\)](https://open.spotify.com/album/5WXz7x9m9JrYpS3TFsW5ux) | 3:53 | 2022-05-05 |  |
 | [Un giardino](https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj) | [Carlo Corallo](https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt), [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E) | [Un giardino](https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ) | 3:58 | 2022-05-12 | 2022-07-28 |
 | [Un mestiere qualunque](https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R) | [Heavy Metal](https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f) | 3:56 | 2022-05-05 |  |

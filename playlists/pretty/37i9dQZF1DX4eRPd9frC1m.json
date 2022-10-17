@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2455363,
+  "num_followers": 2455688,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGE2ZWRkZDk1YjczYWQyOGRjZjUyY2Y0OTY0NWNkYTJm",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDYyM2I1ZDVhODQ1ODIwZTNiOWMxOTNmZmIxYjJlOTI3",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -195,26 +195,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Name Drop",
-        "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Name Drop",
-      "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Gassed Up",
         "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Name Drop",
+        "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Name Drop",
+      "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "DAMN - Bonus Track",
+      "url": "https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Sable Valley Summer Vol. 3",
         "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "DAMN - Bonus Track",
-      "url": "https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 364800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Do It To It (Subtronics Remix)",
         "url": "https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 182400,
       "name": "2 MUCH (feat. 24hrs)",
       "url": "https://open.spotify.com/track/6jtNk2zqbiZ9S7l6Gcp78A"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "TILL I DIE",
         "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 171810,
       "name": "TILL I DIE",
       "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im"
       },
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Run It Up EP",
-        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
       },
       "artists": [
         {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "Sam King",
-          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1283,6 +1263,46 @@
       "duration_ms": 180800,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Run It Up EP",
+        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "NECROMANCER EP",
+        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "NECROMANCER",
+      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1327,26 +1347,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "NECROMANCER EP",
-        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "GHASTLY",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "NECROMANCER",
-      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
       },
@@ -1359,6 +1359,26 @@
       "duration_ms": 233046,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Ground Shake",
+        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Ground Shake",
+      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1403,6 +1423,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 133274,
+      "name": "Trials",
+      "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Work That Body",
         "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
       },
@@ -1419,26 +1459,6 @@
       "duration_ms": 165000,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Ground Shake",
-        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Bandlez",
-          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Ground Shake",
-      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1503,26 +1523,6 @@
       "duration_ms": 187186,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 133274,
-      "name": "Trials",
-      "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
     },
     {
       "added_at": "2022-10-07 04:01:00",

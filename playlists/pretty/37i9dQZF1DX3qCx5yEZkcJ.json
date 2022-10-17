@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU4MTUzNiwwMDAwMDAwMDcyMzc5OTY5ZTZkZjIwZGYwZDNkNTRkMmE3MTMxMTQy",
+  "snapshot_id": "MTY2NTU4MTUzNiwwMDAwMDAwMDIxNzM5YTA3ZTc3ZGNlYTJlYjkzNTg0YzJmZmNiMTdk",
   "tracks": [
     {
       "added_at": "2022-09-22 15:00:00",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0J9C432nUkMtgKiHQrVF1L"
     },
     {
-      "added_at": "2022-10-16 01:48:21",
+      "added_at": "2022-10-17 01:51:03",
       "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
@@ -615,26 +615,6 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "Tangerine Hues",
-        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
-      },
-      "artists": [
-        {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        },
-        {
-          "name": "Flavors",
-          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Tangerine Hues",
-      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
-    },
-    {
-      "added_at": "2022-09-22 15:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 74285,
       "name": "3rd Times a Charm",
       "url": "https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH"
+    },
+    {
+      "added_at": "2022-09-22 15:00:00",
+      "album": {
+        "name": "Tangerine Hues",
+        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        },
+        {
+          "name": "Flavors",
+          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Tangerine Hues",
+      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "Mentatea",
-        "url": "https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Kurumi",
-      "url": "https://open.spotify.com/track/5pniszt2JxZLIIbrhTPrf6"
-    },
-    {
-      "added_at": "2022-09-22 15:00:00",
-      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+        "name": "Mentatea",
+        "url": "https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe"
       },
       "artists": [
         {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
         }
       ],
-      "duration_ms": 90383,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
+      "duration_ms": 163333,
+      "name": "Kurumi",
+      "url": "https://open.spotify.com/track/5pniszt2JxZLIIbrhTPrf6"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 109333,
       "name": "Laguna Beach",
       "url": "https://open.spotify.com/track/40ELRRvQ0pqUWJxGxUC6rE"
+    },
+    {
+      "added_at": "2022-09-22 15:00:00",
+      "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        }
+      ],
+      "duration_ms": 90383,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "Elevator (Remastered)",
-        "url": "https://open.spotify.com/album/2fMwOV34VCtm8LGAWUp9SF"
-      },
-      "artists": [
-        {
-          "name": "Marcus D",
-          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
-        }
-      ],
-      "duration_ms": 207291,
-      "name": "Elevator - Remastered",
-      "url": "https://open.spotify.com/track/2nfAMEk4Do1eVE1gs5Y246"
-    },
-    {
-      "added_at": "2022-09-22 15:00:00",
-      "album": {
         "name": "Dimensions",
         "url": "https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 135357,
       "name": "waves",
       "url": "https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA"
+    },
+    {
+      "added_at": "2022-09-22 15:00:00",
+      "album": {
+        "name": "Elevator (Remastered)",
+        "url": "https://open.spotify.com/album/2fMwOV34VCtm8LGAWUp9SF"
+      },
+      "artists": [
+        {
+          "name": "Marcus D",
+          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
+        }
+      ],
+      "duration_ms": 207291,
+      "name": "Elevator - Remastered",
+      "url": "https://open.spotify.com/track/2nfAMEk4Do1eVE1gs5Y246"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "Power Jump",
-        "url": "https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my"
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
       "artists": [
         {
-          "name": "Sakura",
-          "url": "https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 142349,
-      "name": "dreams",
-      "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+        "name": "Power Jump",
+        "url": "https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "Sakura",
+          "url": "https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD"
         }
       ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+      "duration_ms": 142349,
+      "name": "dreams",
+      "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2022-09-22 15:00:00",
+      "album": {
         "name": "Fog\u00e0o Love",
         "url": "https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J"
-    },
-    {
-      "added_at": "2022-09-22 15:00:00",
-      "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
-      },
-      "artists": [
-        {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
+        "name": "High Jazz",
+        "url": "https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "duration_ms": 116905,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ"
+    },
+    {
+      "added_at": "2022-09-22 15:00:00",
+      "album": {
         "name": "let up",
         "url": "https://open.spotify.com/album/3xIi8UWc8EG3qKhSnhPZ9o"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 169408,
       "name": "Thoughts of Clouds",
       "url": "https://open.spotify.com/track/01VeL36vmXP8bPI4DGiXsN"
-    },
-    {
-      "added_at": "2022-09-22 15:00:00",
-      "album": {
-        "name": "High Jazz",
-        "url": "https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        }
-      ],
-      "duration_ms": 116905,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ"
     },
     {
       "added_at": "2022-09-22 15:00:00",

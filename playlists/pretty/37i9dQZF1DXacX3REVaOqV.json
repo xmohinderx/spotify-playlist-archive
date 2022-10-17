@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 140233,
+  "num_followers": 140330,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDUwM2JmNzc5NmI1ZDYzYzFjY2E0MzdkMTY1NTI2OWJm",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGM5YmFhMGI3NmYwYjA2ZGZmZDNhOTE1ZDVhYWE4ZTA5",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Carry Us",
-        "url": "https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 238264,
-      "name": "Carry Us",
-      "url": "https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/4at0npP4QkdIUulFZIsYft"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Carry Us",
+        "url": "https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 238264,
+      "name": "Carry Us",
+      "url": "https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Stupidisco (David Penn Remix)",
-        "url": "https://open.spotify.com/album/3cDQh2oYxcPk9t9iy6g77R"
-      },
-      "artists": [
-        {
-          "name": "Junior Jack",
-          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 191562,
-      "name": "Stupidisco (David Penn Remix)",
-      "url": "https://open.spotify.com/track/1yxKIMxQkcq9oBw90osPzw"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Lose My Mind (feat. Taylor Moody)",
         "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 196075,
       "name": "Lose My Mind (feat. Taylor Moody)",
       "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Stupidisco (David Penn Remix)",
+        "url": "https://open.spotify.com/album/3cDQh2oYxcPk9t9iy6g77R"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 191562,
+      "name": "Stupidisco (David Penn Remix)",
+      "url": "https://open.spotify.com/track/1yxKIMxQkcq9oBw90osPzw"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Love Is A State Of Mind (feat. Ramona Renea)",
-        "url": "https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta"
+        "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
+        "url": "https://open.spotify.com/album/5gv2eRP8iQYnhQo7YaFUMn"
       },
       "artists": [
         {
@@ -956,13 +956,21 @@
           "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         },
         {
-          "name": "Ramona Renea",
-          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+          "name": "Dave Giles II",
+          "url": "https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw"
+        },
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        },
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
         }
       ],
-      "duration_ms": 193859,
-      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
-      "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
+      "duration_ms": 181801,
+      "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
+      "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1007,26 +1015,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Spotlight (feat. Sarah Ikumu)",
-        "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
-      },
-      "artists": [
-        {
-          "name": "S.A.M.",
-          "url": "https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O"
-        },
-        {
-          "name": "Sarah Ikumu",
-          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
-        }
-      ],
-      "duration_ms": 175475,
-      "name": "Spotlight (feat. Sarah Ikumu)",
-      "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Woman Like You",
         "url": "https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv"
       },
@@ -1043,18 +1031,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f"
+        "name": "Spotlight (feat. Sarah Ikumu)",
+        "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
       },
       "artists": [
         {
-          "name": "Mashd N Kutcher",
-          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+          "name": "S.A.M.",
+          "url": "https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O"
+        },
+        {
+          "name": "Sarah Ikumu",
+          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
         }
       ],
-      "duration_ms": 131637,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j"
+      "duration_ms": 175475,
+      "name": "Spotlight (feat. Sarah Ikumu)",
+      "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1079,6 +1071,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f"
+      },
+      "artists": [
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "duration_ms": 131637,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Set U Free",
         "url": "https://open.spotify.com/album/79A3D20E7zPX5MmXPYBuDb"
       },
@@ -1095,8 +1103,8 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
-        "url": "https://open.spotify.com/album/5gv2eRP8iQYnhQo7YaFUMn"
+        "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+        "url": "https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta"
       },
       "artists": [
         {
@@ -1104,21 +1112,13 @@
           "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         },
         {
-          "name": "Dave Giles II",
-          "url": "https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw"
-        },
-        {
-          "name": "Cor.Ece",
-          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
-        },
-        {
-          "name": "Mike Dunn",
-          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
         }
       ],
-      "duration_ms": 181801,
-      "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
-      "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "You Got Me Calling",
-        "url": "https://open.spotify.com/album/63IP36b0gsQzP3S8hAUvY4"
-      },
-      "artists": [
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "YAX.X",
-          "url": "https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK"
-        },
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 159344,
-      "name": "You Got Me Calling",
-      "url": "https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Pasci\u00e0",
         "url": "https://open.spotify.com/album/4qA2PpHEBkVquV3KFjCz5q"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 179072,
       "name": "Dance - Hills Mix",
       "url": "https://open.spotify.com/track/6YPTwdX857pt8aukdjWqBW"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "You Got Me Calling",
+        "url": "https://open.spotify.com/album/63IP36b0gsQzP3S8hAUvY4"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "YAX.X",
+          "url": "https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK"
+        },
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 159344,
+      "name": "You Got Me Calling",
+      "url": "https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Chance To Dance",
-        "url": "https://open.spotify.com/album/1QCVx1swTG0R5K2RpQY0oN"
-      },
-      "artists": [
-        {
-          "name": "Kim Kaey",
-          "url": "https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy"
-        }
-      ],
-      "duration_ms": 189798,
-      "name": "Chance To Dance",
-      "url": "https://open.spotify.com/track/6T9cSQMRmd1sJC6UJLYywZ"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Lovelee Dae",
         "url": "https://open.spotify.com/album/2ZxEsmg67xjh02SjNbQuaQ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 456533,
       "name": "Lovelee Dae - Original",
       "url": "https://open.spotify.com/track/3CUZhJEreKw7B80VTL9K6e"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Chance To Dance",
+        "url": "https://open.spotify.com/album/1QCVx1swTG0R5K2RpQY0oN"
+      },
+      "artists": [
+        {
+          "name": "Kim Kaey",
+          "url": "https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy"
+        }
+      ],
+      "duration_ms": 189798,
+      "name": "Chance To Dance",
+      "url": "https://open.spotify.com/track/6T9cSQMRmd1sJC6UJLYywZ"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0vxtoBNzecaQcPaq1PySYC"
-      },
-      "artists": [
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 237941,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0QrMI79qOhxVmjICelzbyZ"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Momma's Groove",
         "url": "https://open.spotify.com/album/7bUrgjRgOLDrNVOmrbOTSI"
       },
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0vxtoBNzecaQcPaq1PySYC"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 237941,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0QrMI79qOhxVmjICelzbyZ"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "A Bit Patchy (Remixes)",
         "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
       },
@@ -1747,6 +1747,26 @@
       "duration_ms": 460000,
       "name": "A Bit Patchy - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/0EhaeKTqnZsIiEWP67UGbI"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "duration_ms": 173452,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1791,26 +1811,6 @@
       "duration_ms": 179166,
       "name": "Jumpin' - Wh0 Remix",
       "url": "https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/0EhaeKTqnZsIiEWP67UGbI"
-      },
-      "artists": [
-        {
-          "name": "MANIBA",
-          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
-        },
-        {
-          "name": "Municipal",
-          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
-        }
-      ],
-      "duration_ms": 173452,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "So Good / C'mon Baby",
-        "url": "https://open.spotify.com/album/2oBlzeTgBw8KlQacuvUrbL"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        }
-      ],
-      "duration_ms": 327895,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/7HyV8OxPAhFEgqXnrHAJmm"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Chicago 87",
         "url": "https://open.spotify.com/album/0FQkFZnBlZR7mNybn4xQzB"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 379200,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/5WN9wAj9Bn8Rf8i4cesLmJ"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "So Good / C'mon Baby",
+        "url": "https://open.spotify.com/album/2oBlzeTgBw8KlQacuvUrbL"
+      },
+      "artists": [
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        }
+      ],
+      "duration_ms": 327895,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7HyV8OxPAhFEgqXnrHAJmm"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1927,6 +1927,22 @@
       "duration_ms": 211428,
       "name": "Vida Delicia - Edit",
       "url": "https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Drop the Bomb",
+        "url": "https://open.spotify.com/album/4RpvpREGer9W8sxjwnNK6q"
+      },
+      "artists": [
+        {
+          "name": "Mattei & Omich",
+          "url": "https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC"
+        }
+      ],
+      "duration_ms": 406859,
+      "name": "Drop the Bomb",
+      "url": "https://open.spotify.com/track/5Bi80GhP7fd0bBcNTZRYnm"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1967,22 +1983,6 @@
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Drop the Bomb",
-        "url": "https://open.spotify.com/album/4RpvpREGer9W8sxjwnNK6q"
-      },
-      "artists": [
-        {
-          "name": "Mattei & Omich",
-          "url": "https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC"
-        }
-      ],
-      "duration_ms": 406859,
-      "name": "Drop the Bomb",
-      "url": "https://open.spotify.com/track/5Bi80GhP7fd0bBcNTZRYnm"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -2047,22 +2047,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/3jVLJhpgIKlcMGx3YoKxRK"
+        "name": "Yours & Mine",
+        "url": "https://open.spotify.com/album/6HhKMcTgZZ5c6lTHH7yIkP"
       },
       "artists": [
         {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+          "name": "Steffi",
+          "url": "https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG"
         },
         {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+          "name": "Virginia",
+          "url": "https://open.spotify.com/artist/62WL5cpXolvZtxDFE1nqqb"
         }
       ],
-      "duration_ms": 234007,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/2eMLeXpn6gnx7EaDkcDnkS"
+      "duration_ms": 340946,
+      "name": "Yours - Original Version",
+      "url": "https://open.spotify.com/track/1FmbxvoTGhUODN92oVFf2o"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -2111,50 +2111,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Yours & Mine",
-        "url": "https://open.spotify.com/album/6HhKMcTgZZ5c6lTHH7yIkP"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3jVLJhpgIKlcMGx3YoKxRK"
       },
       "artists": [
         {
-          "name": "Steffi",
-          "url": "https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG"
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
         },
         {
-          "name": "Virginia",
-          "url": "https://open.spotify.com/artist/62WL5cpXolvZtxDFE1nqqb"
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
         }
       ],
-      "duration_ms": 340946,
-      "name": "Yours - Original Version",
-      "url": "https://open.spotify.com/track/1FmbxvoTGhUODN92oVFf2o"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Gettin' Started",
-        "url": "https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn"
-      },
-      "artists": [
-        {
-          "name": "MANIBA",
-          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
-        },
-        {
-          "name": "Labi Ramaj",
-          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
-        },
-        {
-          "name": "Arild Aas",
-          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
-        },
-        {
-          "name": "Municipal",
-          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Gettin' Started",
-      "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
+      "duration_ms": 234007,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/2eMLeXpn6gnx7EaDkcDnkS"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -2199,6 +2171,50 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Gettin' Started",
+        "url": "https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        },
+        {
+          "name": "Labi Ramaj",
+          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
+        },
+        {
+          "name": "Arild Aas",
+          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Gettin' Started",
+      "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 398598,
+      "name": "Starry Night - Original Mix",
+      "url": "https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Organ",
         "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 241889,
       "name": "Une Nuit \u00c0 La Cour - Edit",
       "url": "https://open.spotify.com/track/7jbPFpeOuZ9UA0H8Aq6XUh"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 398598,
-      "name": "Starry Night - Original Mix",
-      "url": "https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Bangene",
-        "url": "https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk"
-      },
-      "artists": [
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Bangene",
-      "url": "https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Spirit of House",
         "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 191500,
       "name": "Spirit of House",
       "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Bangene",
+        "url": "https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk"
+      },
+      "artists": [
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Bangene",
+      "url": "https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Savane Colour EP",
-        "url": "https://open.spotify.com/album/7ztOnf2el2HVw3xnUe1r53"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Wakulewski",
-          "url": "https://open.spotify.com/artist/0OJHtyT4Hbh4LZ9VorqlEN"
-        }
-      ],
-      "duration_ms": 281628,
-      "name": "Savane Colour",
-      "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 281824,
       "name": "Sunset Jam",
       "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Savane Colour EP",
+        "url": "https://open.spotify.com/album/7ztOnf2el2HVw3xnUe1r53"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Wakulewski",
+          "url": "https://open.spotify.com/artist/0OJHtyT4Hbh4LZ9VorqlEN"
+        }
+      ],
+      "duration_ms": 281628,
+      "name": "Savane Colour",
+      "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -2547,26 +2547,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "R U",
-        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "R U",
-      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "The Sound Is Yours",
         "url": "https://open.spotify.com/album/0SlkSWOSY63G2YhxEyTOBp"
       },
@@ -2599,6 +2579,26 @@
       "duration_ms": 155520,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "R U",
+        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "R U",
+      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -2799,58 +2799,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Shed My Skin (Franky Rizardo Remix)",
-        "url": "https://open.spotify.com/album/29TzXw43pdAixdNKFHiwFG"
-      },
-      "artists": [
-        {
-          "name": "D*Note",
-          "url": "https://open.spotify.com/artist/1ho1S1LB2oNr73efwKHLaw"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Shed My Skin - Franky Rizardo Remix",
-      "url": "https://open.spotify.com/track/0wUF06v3UukgpxMQxti6cA"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Band of Acid",
-        "url": "https://open.spotify.com/album/3VL5xWg18y29uZnrwlLpF2"
-      },
-      "artists": [
-        {
-          "name": "Matrefakt",
-          "url": "https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI"
-        }
-      ],
-      "duration_ms": 410500,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1pMvhKoPZUS2GGsXHWv4C7"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "On Da Groove",
-        "url": "https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI"
-      },
-      "artists": [
-        {
-          "name": "Stef Davidse",
-          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "On Da Groove",
-      "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Love Somebody Else",
         "url": "https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn"
       },
@@ -2871,6 +2819,58 @@
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Shed My Skin (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/29TzXw43pdAixdNKFHiwFG"
+      },
+      "artists": [
+        {
+          "name": "D*Note",
+          "url": "https://open.spotify.com/artist/1ho1S1LB2oNr73efwKHLaw"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Shed My Skin - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/0wUF06v3UukgpxMQxti6cA"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "On Da Groove",
+        "url": "https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI"
+      },
+      "artists": [
+        {
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "On Da Groove",
+      "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Band of Acid",
+        "url": "https://open.spotify.com/album/3VL5xWg18y29uZnrwlLpF2"
+      },
+      "artists": [
+        {
+          "name": "Matrefakt",
+          "url": "https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI"
+        }
+      ],
+      "duration_ms": 410500,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1pMvhKoPZUS2GGsXHWv4C7"
     },
     {
       "added_at": "2022-10-13 22:00:00",

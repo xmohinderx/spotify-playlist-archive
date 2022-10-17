@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,168 likes - 240 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,398 likes - 240 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 59 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 |
 | 60 | [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 |
 | 61 | [Rippling](https://open.spotify.com/track/5NeVNbd1n8nNSNbNxUsAzL) | [August Parks](https://open.spotify.com/artist/3qMOfxCeQP5i24x2yOGnof) | [Simpler](https://open.spotify.com/album/04OQuL4urHrYZKc7716UVL) | 3:29 |
-| 62 | [Drift](https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/02GKbWNl7dGVPOWgNzswQY) | 4:00 |
+| 62 | [Drift](https://open.spotify.com/track/3uIPfiXaSWfiuLsaZ6UkQX) | [Ron Alan Cohen](https://open.spotify.com/artist/6GneEve11sWodJ6zHEXXn6) | [Drift](https://open.spotify.com/album/6C3jiZ0QT2FgKcG3oUOYAY) | 4:00 |
 | 63 | [Confidence](https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Confidence](https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v) | 2:42 |
 | 64 | [Sintra](https://open.spotify.com/track/1YYNXuP0ILEv1f0fBgiTua) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Sintra](https://open.spotify.com/album/6mhMN9xQagdMhgl7FzjESb) | 2:19 |
 | 65 | [Sense of inner peace](https://open.spotify.com/track/09MlojJN5vHYhUUC56qhNB) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Sense of inner peace](https://open.spotify.com/album/511n5GvMwwIGAcq0Jiy217) | 3:18 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 239 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 |
 | 240 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 
-Snapshot ID: `MTY2NTc5MzgwMCwwMDAwMDAwMGExM2YwYzY1MjJlZWY0ZTRmOWY2NmJkYTRkNzUxZDMx`
+Snapshot ID: `MTY2NTc5MzgwMCwwMDAwMDAwMGZkYzJlMjA3OWUzMDE1MzhhZjg5OTkzZTRiNjhhNzcy`

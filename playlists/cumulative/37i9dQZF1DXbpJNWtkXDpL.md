@@ -4,7 +4,7 @@
 
 > ¡Presentamos a La Santa Grifa, nuestro artista Radar!
 
-202 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
+203 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Juego](https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Juego](https://open.spotify.com/album/3fdbDPJG25YDPto5pWqEP0) | 3:33 | 2021-10-01 | 2022-05-10 |
 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2021-10-01 | 2022-05-12 |
 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 | 2022-05-13 | 2022-10-15 |
+| [Kódigos](https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS) | 3:47 | 2022-05-13 |  |
 | [La Cuenta](https://open.spotify.com/track/6jCB8QRXVlxOVGjdhUpa7p) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Fede Montero](https://open.spotify.com/artist/1zrYlMgjBImRf7mEzQuTmX) | [La Cuenta](https://open.spotify.com/album/6OIEN0Pg7ekw3kqRmqVgmG) | 3:24 | 2021-10-01 | 2022-05-07 |
 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2021-10-01 | 2022-05-10 |
 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 | 2022-05-13 | 2022-08-05 |
@@ -151,7 +152,7 @@
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-08-01 |  |
 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 | 2021-10-01 | 2022-05-12 |
 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 | 2022-05-13 | 2022-10-08 |
-| [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-05-13 |  |
+| [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-05-13 | 2022-10-17 |
 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 | 2021-10-01 | 2022-05-12 |
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2022-05-13 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 |  |

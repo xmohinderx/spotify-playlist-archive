@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 34382,
+  "num_followers": 34445,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMDc1YmQxZTFmMTMyNTA1NjU2ZTQ1MmUzMjZhNDI2Mjc0",
+  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMGNkM2E5YTIzY2Q4Y2EyYTk0NThkNGYwMjhmZjc2YWFl",
   "tracks": [
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Carpet - SM STATION",
-        "url": "https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        },
-        {
-          "name": "BUMKEY",
-          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Carpet",
-      "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 274030,
       "name": "Rainy Apgujeong",
       "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Carpet - SM STATION",
+        "url": "https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Carpet",
+      "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "ALL NIGHT",
-        "url": "https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7"
-      },
-      "artists": [
-        {
-          "name": "D2ear",
-          "url": "https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
-      "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Heart in Motion",
         "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
       },
@@ -1239,18 +1223,34 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+        "name": "ALL NIGHT",
+        "url": "https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7"
       },
       "artists": [
         {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+          "name": "D2ear",
+          "url": "https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo"
         }
       ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+      "duration_ms": 208000,
+      "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
+      "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "First time ... ing",
+        "url": "https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax"
+      },
+      "artists": [
+        {
+          "name": "Love recipe",
+          "url": "https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu"
+        }
+      ],
+      "duration_ms": 230610,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

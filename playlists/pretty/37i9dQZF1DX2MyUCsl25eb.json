@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 971509,
+  "num_followers": 971530,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDUzZDg3MWI1NTgzNmU3MzE1NDU1OGE5YzhhOWJlNWMy",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGZkMTMwODg5OGRhYzJlOGM5MDZkMjdhZDllMWQ2ZjM4",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -357,6 +357,22 @@
       "url": "https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 252657,
+      "name": "Innocence and Sadness",
+      "url": "https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -375,22 +391,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Songs of Sonder",
-        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 252657,
-      "name": "Innocence and Sadness",
-      "url": "https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -461,6 +461,26 @@
       "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Good Enough",
@@ -491,26 +511,6 @@
       "duration_ms": 152961,
       "name": "Damage",
       "url": "https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Thinking 'Bout Love",
-        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Block me out",
-        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 249494,
-      "name": "Block me out",
-      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Two Places at Once (Part I)",
@@ -623,6 +607,22 @@
       "duration_ms": 199395,
       "name": "Two Places at Once",
       "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Block me out",
+        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Long Blue Light",
@@ -735,6 +719,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 201463,
+      "name": "I Just Want a Lover",
+      "url": "https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Jude's Song",
@@ -887,22 +903,6 @@
       "duration_ms": 205066,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 201463,
-      "name": "I Just Want a Lover",
-      "url": "https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "I Don't Care",
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1149,6 +1149,22 @@
       "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "get over you",
+        "url": "https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "get over you",
+      "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Buddy's Rendezvous",
@@ -1169,22 +1185,6 @@
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "get over you",
-        "url": "https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "get over you",
-      "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
-    },
-    {
       "added_at": "2021-10-01 04:01:00",
       "album": {
         "name": "State of the Heart",
@@ -1199,6 +1199,22 @@
       "duration_ms": 198693,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Mr. Percocet",
+      "url": "https://open.spotify.com/track/0kZfIS6tmcL7lSvUaa1D1D"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -1235,22 +1251,6 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Leap",
-        "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Save Your Love",
-      "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
     }
   ],
   "unique_name": "Morning Commute",

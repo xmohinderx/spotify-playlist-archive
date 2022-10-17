@@ -4,7 +4,7 @@
 
 > The newest songs from LGBTQIA+ artists\. Cover: corook
 
-415 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+416 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [In Transit \(Remix\)](https://open.spotify.com/track/6gdjpaN6otq6bQZ0MIy2NN) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80), [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2), [rache.](https://open.spotify.com/artist/7AKcDM5gGJGXcq6Pg7FqbC) | [In Transit \(Remix\)](https://open.spotify.com/album/6m7bENWvTDiMiVHrrdza3Q) | 2:54 | 2022-06-10 | 2022-07-29 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-12-17 | 2022-01-14 |
 | [insecure](https://open.spotify.com/track/45kycPq8eq0O4KDpxzxoQj) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [insecure](https://open.spotify.com/album/4wC9uXVAFz5m6dgC2dUJjp) | 3:06 | 2022-01-14 | 2022-04-16 |
+| [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-10-08 |  |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-02-07 | 2022-10-13 |
 | [It's Okay to Cry](https://open.spotify.com/track/6H0R4ejgQbU15cyc0RYsIs) | [Sophie Blair](https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT) | [It's Okay to Cry](https://open.spotify.com/album/2gcwXOGiD2el0GMxjIXl3K) | 4:10 | 2022-01-05 | 2022-07-19 |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-06-24 |  |
@@ -277,7 +278,7 @@
 | [Night Call](https://open.spotify.com/track/1dNyeO5Oy7RuGYOq30HrK2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(New Year's Edition\)](https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0) | 2:50 | 2022-01-21 | 2022-04-16 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-07-31 |  |
 | [Nobody](https://open.spotify.com/track/05PIVjVJ0o8CweX6P91GJ5) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Trophies](https://open.spotify.com/album/2AUBG0Hw2pJyULNK5xyDwC) | 3:09 | 2021-12-17 | 2022-01-29 |
-| [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 | 2022-04-29 |  |
+| [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 | 2022-04-29 | 2022-10-17 |
 | [Not Even In Vegas](https://open.spotify.com/track/7py49RvdjMaZCEDPzMTgo9) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Not Even In Vegas](https://open.spotify.com/album/5XtC3nUPdSyxC2RLLaiZQF) | 2:55 | 2021-12-17 | 2022-01-27 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2021-12-17 | 2022-04-13 |
 | [Not Going Anywhere](https://open.spotify.com/track/4WLy5MLEKyJOBRExvITYUw) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Not Going Anywhere](https://open.spotify.com/album/4AwiChcjBVt9zrHP0n9GoB) | 3:24 | 2022-01-21 | 2022-03-17 |

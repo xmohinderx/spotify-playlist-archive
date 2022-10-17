@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,037 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,096 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 47 | [Run It Up](https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Run It Up](https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq) | 2:58 |
 | 48 | [pour up](https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:05 |
 | 49 | [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 |
-| 50 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 |
+| 50 | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Midnight Hour with Boys Noize & Ty Dolla $ign](https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV) | 3:18 |
 
-Snapshot ID: `MTY2NTcyNjA4NiwwMDAwMDAwMDAxYmRiNjQxNWJmYTNhOTliZTlkNjRkZTMxZGU1MzBh`
+Snapshot ID: `MTY2NTcyNjA4NiwwMDAwMDAwMDRhNjkzMmE4MzcyMDBhYTgyOWY2MzE5OWQ2N2U3ZmJm`

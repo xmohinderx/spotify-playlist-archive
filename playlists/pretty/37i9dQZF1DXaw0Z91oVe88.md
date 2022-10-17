@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,753 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 25 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 |
 | 26 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 27 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 |
-| 28 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 |
-| 29 | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq) | 2:41 |
+| 28 | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq) | 2:41 |
+| 29 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 |
 | 30 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 |
 | 31 | [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 |
 | 32 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
 | 33 | [365](https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 4:14 |
-| 34 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 |
-| 35 | [Disconnected](https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:10 |
-| 36 | [RAINING](https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:41 |
-| 37 | [About Time](https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Spring to Spring](https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR) | 5:28 |
+| 34 | [Disconnected](https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:10 |
+| 35 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 |
+| 36 | [About Time](https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Spring to Spring](https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR) | 5:28 |
+| 37 | [RAINING](https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:41 |
 | 38 | [Love Me](https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:10 |
 | 39 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
 | 40 | [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
 | 50 | [Feeling Good \- 2019 Ver](https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 2:42 |
 
-Snapshot ID: `MTY2MjM5MzM5MiwwMDAwMDAwMGZkMzEwNDc3ZDU4MDA3ZTRiN2ZhMDNmZTQ1ZmVlM2E0`
+Snapshot ID: `MTY2MjM5MzM5MiwwMDAwMDAwMDg0MjQyMTViNmRkZDQ3ZjBhZmYxZjRmMWEzZTA0Zjk3`

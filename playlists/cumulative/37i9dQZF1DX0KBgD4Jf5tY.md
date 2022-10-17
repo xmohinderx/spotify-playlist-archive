@@ -4,7 +4,7 @@
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:3LXTbapp18J0PmQEPPeXmO">Wism</a>
 
-407 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+408 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [OSIRIDE](https://open.spotify.com/track/3RPOqq5pytLKQRuryDKSSU) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [OSIRIDE](https://open.spotify.com/album/6USaG2oaJFq1hy8GqFDFXW) | 2:44 | 2022-04-08 | 2022-05-06 |
 | [PALMO](https://open.spotify.com/track/6ufQaCOPaHk7tjjhH0tsX7) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [PALMO](https://open.spotify.com/album/7GQy5MFibcCAgfIEIAgqRn) | 2:38 | 2022-09-29 |  |
 | [paralosofia](https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [paralosofia](https://open.spotify.com/album/2xJLLXbjGnMBJElImH9SMn) | 2:33 | 2022-04-08 | 2022-05-28 |
-| [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 | 2022-08-26 |  |
+| [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 | 2022-08-26 | 2022-10-17 |
+| [Party on My Own](https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/10ThcyuelklNj1vif5GhTW) | 3:39 | 2022-10-14 |  |
 | [Passerà](https://open.spotify.com/track/4Wo3LQ1o5j44qGuchDIBC3) | [Hibiscus](https://open.spotify.com/artist/1gkatkVUlfa8KJX1sSyj73) | [Passerà](https://open.spotify.com/album/1Y4isFZeHs1yCbrbdZ10Vn) | 2:35 | 2022-08-26 | 2022-10-11 |
 | [pavimento](https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh) | [pavimento](https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal) | 2:52 | 2022-09-29 |  |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 | 2022-06-10 |

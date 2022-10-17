@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 237624,
       "name": "Jive Talkin' (feat. Jay Buchanan & Miranda Lambert)",
       "url": "https://open.spotify.com/track/7xJZbFvjiVtlrjSISl8wrK"
@@ -1359,6 +1359,32 @@
       "duration_ms": 240280,
       "name": "Vice",
       "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
+    },
+    {
+      "album": {
+        "name": "The Marfa Tapes",
+        "url": "https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p"
+      },
+      "artists": [
+        {
+          "name": "Jack Ingram",
+          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197493,
+      "name": "Waxahachie",
+      "url": "https://open.spotify.com/track/44GWgpO0uR6j4PcVQORCx6"
     },
     {
       "album": {

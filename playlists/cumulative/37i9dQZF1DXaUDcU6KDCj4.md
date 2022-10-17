@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Noah Kahan
 
-825 songs - 2 day 2 hr 48 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+826 songs - 2 day 2 hr 52 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,7 +794,8 @@
 | [When I Die](https://open.spotify.com/track/564BTb9z5fC0XGZzRAUNI2) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [When I Die](https://open.spotify.com/album/7pGwn0UyvXvl5nd2EvEG5f) | 1:51 | 2022-07-15 | 2022-08-27 |
 | [When I Was a Girl in Colorado](https://open.spotify.com/track/7fEXK4nlHRU4WyGDCwx9AT) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [When I Was a Girl in Colorado](https://open.spotify.com/album/75sA20SoPvoZCsXdg0NKMx) | 5:00 | 2022-01-07 | 2022-03-26 |
 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 | 2021-11-19 | 2022-01-15 |
-| [When We Believed](https://open.spotify.com/track/2M96CvONxv50KSBXmk8y7P) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [When We Believed](https://open.spotify.com/album/4B0rlS0ZJibT9OaywaCuRv) | 4:01 | 2022-07-22 |  |
+| [When We Believed](https://open.spotify.com/track/2M96CvONxv50KSBXmk8y7P) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [When We Believed](https://open.spotify.com/album/4B0rlS0ZJibT9OaywaCuRv) | 4:01 | 2022-07-22 | 2022-10-17 |
+| [When We Believed](https://open.spotify.com/track/3Qw58rdnA6mmmhrg8C3Bv7) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Looking Glass](https://open.spotify.com/album/00hzdJCM7mCbwkDRgN7r5n) | 4:01 | 2022-10-14 |  |
 | [When You Lose Someone](https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone](https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK) | 3:25 | 2022-01-14 | 2022-04-09 |
 | [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2021-11-12 | 2022-01-29 |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-01-14 | 2022-04-02 |

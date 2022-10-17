@@ -4,7 +4,7 @@
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/5WeYH0wITEe8FNEsMhhuBs)
+64 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/5WeYH0wITEe8FNEsMhhuBs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [I Love That I Hate You](https://open.spotify.com/track/3wbhzLFCwJ0faJe0g6HDG6) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Love That I Hate You \- Single](https://open.spotify.com/album/2siw0W1pFH2HMatUEx9RzC) | 3:07 | 2022-09-08 |  |
 | [Last Minute Late Night](https://open.spotify.com/track/3Sso0f19u0o5HavJErdZEN) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Last Minute Late Night \- Single](https://open.spotify.com/album/4XUkagfCTG1jc1dpUemE23) | 2:49 | 2022-09-08 |  |
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2022-09-08 |  |
-| [Learning](https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:22 | 2022-09-08 |  |
+| [Learning](https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:22 | 2022-09-08 | 2022-10-17 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-09-08 |  |
 | [Like a Rodeo](https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:21 | 2022-09-08 |  |
 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 | 2022-09-08 |  |
@@ -48,6 +48,7 @@
 | [Losing You](https://open.spotify.com/track/40HQjXwTG4czvPGTtF3uzt) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:32 | 2022-10-12 |  |
 | [Lost More Than I Found \(feat\. Lainey Edwards\)](https://open.spotify.com/track/7xo8X5Kx5ufunrsU5X2IYc) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lainey Edwards](https://open.spotify.com/artist/1bwdF1QUOoo6UJmPV3IXxe) | [Closer](https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv) | 3:31 | 2022-09-08 | 2022-09-11 |
 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 | 2022-09-08 |  |
+| [Move On](https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:11 | 2022-10-16 |  |
 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 | 2022-09-08 |  |
 | [Nothin' I'd Change](https://open.spotify.com/track/7mCD59dbej3TRd0I81RNwM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:33 | 2022-09-10 | 2022-10-13 |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2022-09-08 |  |

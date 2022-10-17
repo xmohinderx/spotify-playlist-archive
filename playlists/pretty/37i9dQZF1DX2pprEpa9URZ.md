@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,863 likes - 60 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,145 likes - 60 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 47 | [Izivunguvungu \- Chloé Remix](https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Izivunguvungu \(Chloé Remix\)](https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB) | 6:24 |
 | 48 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 |
 | 49 | [Gamora](https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Endless Forest](https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb) | 7:16 |
-| 50 | [Novicani](https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3) | [Beli](https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW) | 6:07 |
+| 50 | [Voices](https://open.spotify.com/track/5lc74AXwQnoAvXpef0GnvD) | [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [Voices](https://open.spotify.com/album/7LrigGSm0XLAjBtbI2eedN) | 7:37 |
 | 51 | [Unataka Nini](https://open.spotify.com/track/4nLNZjlEXZfmJbexOdKblj) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:53 |
-| 52 | [Bananat](https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 4:30 |
-| 53 | [Voices](https://open.spotify.com/track/5lc74AXwQnoAvXpef0GnvD) | [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [Voices](https://open.spotify.com/album/7LrigGSm0XLAjBtbI2eedN) | 7:37 |
-| 54 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 |
+| 52 | [Novicani](https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3) | [Beli](https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW) | 6:07 |
+| 53 | [Bananat](https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 4:30 |
+| 54 | [Demedim Mi \(Pt\. 1\)](https://open.spotify.com/track/6juRAf7Qi1TyMXrlL7PgWa) | [Insanlar](https://open.spotify.com/artist/5hn8gGxhmJX2AQ4s3OMEBA), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [Demedim Mi](https://open.spotify.com/album/1qqDnV0NDkkNVFmsCSccnJ) | 23:21 |
 | 55 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 |
-| 56 | [Demedim Mi \(Pt\. 1\)](https://open.spotify.com/track/6juRAf7Qi1TyMXrlL7PgWa) | [Insanlar](https://open.spotify.com/artist/5hn8gGxhmJX2AQ4s3OMEBA), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [Demedim Mi](https://open.spotify.com/album/1qqDnV0NDkkNVFmsCSccnJ) | 23:21 |
-| 57 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
+| 56 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 |
+| 57 | [Graceland](https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Graceland](https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV) | 6:45 |
 | 58 | [La Isla \- Radio Version](https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro) | [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [Eribertho Cruz](https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb) | [La Isla](https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0) | 3:13 |
-| 59 | [Graceland](https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Graceland](https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV) | 6:45 |
+| 59 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
 | 60 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
 
-Snapshot ID: `MTY2NDU2MTc0MCwwMDAwMDAwMDMyYzU5YzRmNzdhZjk0NzUwMjE3OWNhYWQ4NTEzNjcx`
+Snapshot ID: `MTY2NDU2MTc0MCwwMDAwMDAwMGU5ZTRhMjI4ODRhOTdjMTZiODhhODJlNWZjOGM1NDMx`

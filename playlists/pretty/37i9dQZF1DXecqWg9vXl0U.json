@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Bella \u00c1lvarez.",
-  "num_followers": 34713,
+  "num_followers": 34773,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDAwYzA4ZDM5OTY2M2E3MDMxM2NmN2QxZmMzODE4YTBm",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGNlNzZmMzBhYjFhNjhjNDYxN2I3NjYxOTQ5MmI1NWVk",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 297530,
       "name": "Rester",
       "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Y Si",
-        "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 114782,
-      "name": "Y Si",
-      "url": "https://open.spotify.com/track/081225Aw909qAbV9UjAQeM"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "tdbn (Deluxe)",
         "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 231400,
       "name": "tiempo",
       "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Y Si",
+        "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 114782,
+      "name": "Y Si",
+      "url": "https://open.spotify.com/track/081225Aw909qAbV9UjAQeM"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
+        "name": "Fosis Met Amor",
+        "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "un sue\u00f1o raro",
+      "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
         "name": "nadie",
         "url": "https://open.spotify.com/album/3v6e4R5lG30IFu6ap79JgO"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 217750,
       "name": "Te Voy a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Fosis Met Amor",
-        "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "un sue\u00f1o raro",
-      "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "CASI ALGO",
-        "url": "https://open.spotify.com/album/3Gt8g4i5AEIivwI93H4zc0"
-      },
-      "artists": [
-        {
-          "name": "Claudia Allmang",
-          "url": "https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh"
-        }
-      ],
-      "duration_ms": 103027,
-      "name": "tous les jours",
-      "url": "https://open.spotify.com/track/5T4r0tXN3rL8Lt7pnhVgt1"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 193274,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "CASI ALGO",
+        "url": "https://open.spotify.com/album/3Gt8g4i5AEIivwI93H4zc0"
+      },
+      "artists": [
+        {
+          "name": "Claudia Allmang",
+          "url": "https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh"
+        }
+      ],
+      "duration_ms": 103027,
+      "name": "tous les jours",
+      "url": "https://open.spotify.com/track/5T4r0tXN3rL8Lt7pnhVgt1"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "D\u00ed Que No",
-        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "D\u00ed Que No",
-      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "Laurel",
         "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 313885,
       "name": "Laurel",
       "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "D\u00ed Que No",
+        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "D\u00ed Que No",
+      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110098,
+  "num_followers": 110109,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3Mjk5MSwwMDAwMDAwMDhlODIyMThmMWQ0ZWI3MmEwMDI4OTBjNzg0MDNiOTBj",
+  "snapshot_id": "MTY2NTc3Mjk5MSwwMDAwMDAwMDNmNWVjN2RhY2Y5OWRlNDVjOWIyMDM3ZjU4ZWM3MjUx",
   "tracks": [
     {
       "added_at": "2022-10-14 18:43:11",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 190944,
-      "name": "two queens in a king sized bed",
-      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 215933,
       "name": "We're The Lucky Ones",
       "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
         "name": "1999 (English ver.)",
         "url": "https://open.spotify.com/album/4rk52TPD0mltqubePnMexS"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 291124,
       "name": "1999 - English ver.",
       "url": "https://open.spotify.com/track/3LomOjVZHYS4Blm0K3Lpad"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
         "name": "Every Holiday",
         "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 256648,
-      "name": "Another Year",
-      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 248449,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "baby jesus is nobody's baby now",
-        "url": "https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "baby jesus is nobody's baby now",
-      "url": "https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -667,18 +651,18 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+        "name": "baby jesus is nobody's baby now",
+        "url": "https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 198026,
-      "name": "That Was the Worst Christmas Ever!",
-      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
+      "duration_ms": 215066,
+      "name": "baby jesus is nobody's baby now",
+      "url": "https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -695,6 +679,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "That Was the Worst Christmas Ever!",
+      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212120,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo"
     },
     {
       "added_at": "2022-10-14 18:43:11",

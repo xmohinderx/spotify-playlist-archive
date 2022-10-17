@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-175 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+176 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2022-02-18 | 2022-07-29 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2022-07-22 |  |
 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 | 2022-02-18 | 2022-10-13 |
+| [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 | 2022-10-14 |  |
 | [learning](https://open.spotify.com/track/56FU39we0SmENEA6Wl6HjX) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [learning](https://open.spotify.com/album/3pYbqfGG9UwmKD7vLQGmc1) | 2:50 | 2022-07-22 | 2022-08-13 |
 | [learning](https://open.spotify.com/track/5deySvmOf6jRKN3oKAqHpS) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [learning](https://open.spotify.com/album/3mphwx3ivQLM3QvgqVkmNm) | 2:50 | 2022-06-03 | 2022-07-29 |
 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 | 2022-07-22 |  |
@@ -170,7 +171,7 @@
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-18 |  |
 | [Wide Awake](https://open.spotify.com/track/70BaFHsIiw4NcypR0zNaJr) | [Laura Bretan](https://open.spotify.com/artist/0Y6f7SArenwsTGRonkDGj0) | [Wide Awake](https://open.spotify.com/album/0ZhlU8Cu7KdZNNYJcYKWwB) | 3:33 | 2022-02-18 | 2022-03-17 |
 | [Wild World \- Re\-Imagined](https://open.spotify.com/track/2iJdQgMbl6jhqtN6pmsWZU) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Wild World \(Re\-Imagined\)](https://open.spotify.com/album/6tPacSl3dOTBjRgu1dvv4t) | 3:34 | 2022-10-07 | 2022-10-15 |
-| [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2022-02-18 |  |
+| [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2022-02-18 | 2022-10-17 |
 | [Words Ain't Enough](https://open.spotify.com/track/5hFGGQukKw4vKgxRg3KeBC) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/22Q7rFTYQyqwcgmpNJbjrP) | 2:04 | 2022-02-18 | 2022-07-29 |
 | [Words Ain't Enough](https://open.spotify.com/track/6BSDpXlm2gtorEzoH4RNHw) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:04 | 2022-07-22 |  |
 | [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-14 |  |

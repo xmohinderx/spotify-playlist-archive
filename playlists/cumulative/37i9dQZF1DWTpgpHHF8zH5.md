@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-226 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/5moqmy6VQIRDUxQYNZv0lg)
+227 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/5moqmy6VQIRDUxQYNZv0lg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [I Believe](https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [I Believe](https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv) | 2:27 | 2022-06-27 | 2022-09-24 |
 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 | 2022-09-23 | 2022-09-27 |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-30 |  |
-| [I Love U](https://open.spotify.com/track/2FqkTu4FhwDWn9hzEaWWCE) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:05 | 2022-10-05 |  |
+| [I Love U](https://open.spotify.com/track/2FqkTu4FhwDWn9hzEaWWCE) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:05 | 2022-10-05 | 2022-10-17 |
 | [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 | 2022-07-22 | 2022-08-17 |
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2022-07-22 |  |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2022-05-06 |  |
@@ -153,6 +153,7 @@
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2022-05-06 | 2022-07-26 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-24 |  |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-05-06 |  |
+| [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2022-10-14 |  |
 | [One More Night](https://open.spotify.com/track/0ZPPQf1NXuKnaxlZz8MQgh) | [Nair](https://open.spotify.com/artist/5RUXLGO2P1QXmJZx6z20FE) | [One More Night](https://open.spotify.com/album/4M0tiRI4afblf8Wd5G97sF) | 2:05 | 2022-05-06 | 2022-07-06 |
 | [Paradise \(with Sam Feldt\)](https://open.spotify.com/track/2zPWT2axxNsXMU6CZn3PS5) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Paradise \(with Sam Feldt\)](https://open.spotify.com/album/5Tr4VgDrUDYifGz5G3TXu6) | 2:40 | 2022-05-06 | 2022-07-29 |
 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 | 2022-05-06 | 2022-07-29 |

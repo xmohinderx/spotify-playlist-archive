@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 199125,
       "name": "Focus",
       "url": "https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4"
@@ -1817,6 +1817,24 @@
       "duration_ms": 166555,
       "name": "YOU BETTA",
       "url": "https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT"
+    },
+    {
+      "album": {
+        "name": "You're (Still) in Love",
+        "url": "https://open.spotify.com/album/0i6G10wAzjmdT2b0UaG3Dt"
+      },
+      "artists": [
+        {
+          "name": "Tim Chadwick",
+          "url": "https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260815,
+      "name": "You're (Still) in Love",
+      "url": "https://open.spotify.com/track/4vUoc2Ci14g4HfiBwi4MoA"
     },
     {
       "album": {

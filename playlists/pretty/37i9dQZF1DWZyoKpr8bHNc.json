@@ -1,12 +1,12 @@
 {
   "description": "Classici Ya Habibi! This is why Tata always says, \"fish ba'ed ayam zamaan.\"",
-  "num_followers": 81555,
+  "num_followers": 81632,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMjYxMDcyOCwwMDAwMDAwMDkyM2E2NDUyNTgxYjQ2MzNmOGQ0NzMyYzA2OGY2NWQ2",
+  "snapshot_id": "MTYwMjYxMDcyOCwwMDAwMDAwMDJjNDAyM2UxNTg1MGFiYzQ4MmUwN2MxYzhmMjNhZTU2",
   "tracks": [
     {
       "added_at": "2020-10-13 17:38:48",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "Best of Mohamed Jamal, Vol. 2",
-        "url": "https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Jamal",
-          "url": "https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug"
-        }
-      ],
-      "duration_ms": 272253,
-      "name": "Baddi Choufik Koul Yom",
-      "url": "https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
         "name": "Oyon El Alb",
         "url": "https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 329104,
       "name": "Ana Bashaa El Bahr",
       "url": "https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
+        "name": "Best of Mohamed Jamal, Vol. 2",
+        "url": "https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Jamal",
+          "url": "https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Baddi Choufik Koul Yom",
+      "url": "https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "Ounadikom",
-        "url": "https://open.spotify.com/album/7J30KDq7DX8jra38lPKNur"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Kaabour",
-          "url": "https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi"
-        }
-      ],
-      "duration_ms": 298613,
-      "name": "Ounadikom",
-      "url": "https://open.spotify.com/track/5SkF2r40ozsKsA4Ahf0bJc"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
         "name": "Best of Wadih El Safi, Vol. 1",
         "url": "https://open.spotify.com/album/297hr38v9aZGdsNgHoD9K2"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 371760,
       "name": "Alayl Ya Layla",
       "url": "https://open.spotify.com/track/1SGE7yd8w2bm8zt32pxs9Y"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
+        "name": "Ounadikom",
+        "url": "https://open.spotify.com/album/7J30KDq7DX8jra38lPKNur"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Kaabour",
+          "url": "https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi"
+        }
+      ],
+      "duration_ms": 298613,
+      "name": "Ounadikom",
+      "url": "https://open.spotify.com/track/5SkF2r40ozsKsA4Ahf0bJc"
     },
     {
       "added_at": "2020-10-13 17:38:48",

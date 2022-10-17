@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Paulade
 
-634 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+635 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2022-04-01 | 2022-07-28 |
 | [Lovetap](https://open.spotify.com/track/0nWiDgx8LrFDxTF1dKNGhp) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Another PawPaw Rod EP](https://open.spotify.com/album/4gzZJeOmBXWsc0hVUSvBvF) | 3:21 | 2022-10-14 |  |
 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 | 2022-06-10 | 2022-07-16 |
-| [Lucky Me](https://open.spotify.com/track/066XcsGBMGUpamyOkH2xXX) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/3mibhG0wF43mAZJIOVkxfm) | 3:42 | 2022-10-14 |  |
+| [Lucky Me](https://open.spotify.com/track/066XcsGBMGUpamyOkH2xXX) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/3mibhG0wF43mAZJIOVkxfm) | 3:42 | 2022-10-14 | 2022-10-17 |
+| [Lucky Me](https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 3:42 | 2022-10-14 |  |
 | [Luvaroq](https://open.spotify.com/track/3oRwReVMtEUrQTFlwm0v09) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/4XIQJ95bBKkckzNdWjGMnq) | 3:40 | 2022-07-15 | 2022-10-13 |
 | [Luvaroq](https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Luvaroq](https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b) | 3:40 | 2021-10-08 | 2022-07-29 |
 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 | 2022-04-01 | 2022-08-09 |

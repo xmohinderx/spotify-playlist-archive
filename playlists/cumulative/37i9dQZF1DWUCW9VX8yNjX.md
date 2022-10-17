@@ -4,7 +4,7 @@
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-182 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/7juXk18uqyskcYtmS5tHhQ)
+183 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/7juXk18uqyskcYtmS5tHhQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Hasta En Mis Huesos](https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:04 | 2021-12-14 | 2022-10-16 |
 | [Hermoso Cariño](https://open.spotify.com/track/5XjtsQkdb3Zel0DJ1OReQY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [35 Anniversary Re\-mastered Series, Vol\. 21](https://open.spotify.com/album/25lYnhyl8Exp51iLns6z7I) | 2:33 | 2021-12-14 | 2022-07-29 |
 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 | 2021-12-14 |  |
-| [Hoy Decidí Olvidarte \(Aunque No Estés Conmigo\) \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:17 | 2021-12-14 |  |
+| [Hoy Decidí Olvidarte \(Aunque No Estés Conmigo\) \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:17 | 2021-12-14 | 2022-10-17 |
 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 | 2021-12-14 |  |
 | [Háblame](https://open.spotify.com/track/3WpkrJzB5CqQQjqMkUR3K6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Entre Tus Brazos](https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa) | 4:28 | 2021-12-14 |  |
 | [Háblame](https://open.spotify.com/track/75XByzvO8R6Kax1zFVXssX) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Personalidad](https://open.spotify.com/album/2koi4PWE4rOZHaBrLu4yih) | 4:30 | 2021-12-14 | 2022-07-12 |
@@ -158,6 +158,7 @@
 | [Qué Lástima](https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 | 2021-12-14 |  |
 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:05 | 2021-12-14 |  |
 | [Rayito de Sol](https://open.spotify.com/track/5ak9FetpKzmJYfYfNJiMpy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:25 | 2021-12-14 | 2022-07-22 |
+| [Regálame Esta Noche](https://open.spotify.com/track/0V0eGJNLJQXPkAp6RTVNmJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 2:53 | 2021-12-14 |  |
 | [Regálame Esta Noche](https://open.spotify.com/track/473WtzmCB8XtODim4aOpvW) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Personalidad](https://open.spotify.com/album/2koi4PWE4rOZHaBrLu4yih) | 2:53 | 2021-12-14 | 2022-07-28 |
 | [Return To Me \(Regresa a Mí\) \(with Vicente Fernández\)](https://open.spotify.com/track/0Sa6IGztmU0WO71xwN5Gnr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Viva Duets](https://open.spotify.com/album/5qUgjLlwgtsT0FUU84Fuy9) | 3:46 | 2021-12-14 | 2022-07-29 |
 | [Return To Me \(Regresa a Mí\) \(with Vicente Fernández\)](https://open.spotify.com/track/5dT3dcmsoLKhu0V3GjAR7F) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Viva Duets](https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv) | 3:47 | 2021-12-14 |  |

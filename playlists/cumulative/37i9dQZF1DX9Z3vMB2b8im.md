@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-129 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+130 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Air Forces](https://open.spotify.com/track/4XD7sfXwdU4LVQ1CQDD3ZT) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/1NCMThGVejpiJtC5VTcAXf) | 2:58 | 2021-12-10 | 2022-06-11 |
 | [An Honour](https://open.spotify.com/track/1cDTDR4cb73iGQZLK7JZ0B) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Extended folk boy playlist](https://open.spotify.com/album/5pt1eTU99gdZlFNpdixGlt) | 6:40 | 2021-12-10 |  |
 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 | 2021-12-10 |  |
-| [Bardennoch](https://open.spotify.com/track/1ECM3824V2vG1v0vxRe7Vq) | [VanIves](https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj) | [Thanks](https://open.spotify.com/album/6u4h6z2FS9IdBgPKL8Xf8t) | 3:51 | 2022-06-10 |  |
+| [Bardennoch](https://open.spotify.com/track/1ECM3824V2vG1v0vxRe7Vq) | [VanIves](https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj) | [Thanks](https://open.spotify.com/album/6u4h6z2FS9IdBgPKL8Xf8t) | 3:51 | 2022-06-10 | 2022-10-17 |
+| [Bardennoch](https://open.spotify.com/track/1YQjWqGwJmyscFhUNxsC33) | [VanIves](https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj) | [Thanks](https://open.spotify.com/album/6nBTYX7rMWqpBBZnuK1Odh) | 3:51 | 2022-10-14 |  |
 | [big brother](https://open.spotify.com/track/0pcNE2VKwl6LQCShBS7tRL) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [big brother](https://open.spotify.com/album/4OjUugcUcIX1XosSeeZEHG) | 2:58 | 2021-12-10 | 2022-08-20 |
 | [Bygone](https://open.spotify.com/track/3HIKGBx8u4F8o5kLyPmnez) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Bygone](https://open.spotify.com/album/4VQ6zTBdeimyD77EmvnsrM) | 2:51 | 2021-12-10 |  |
 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-04-01 |  |

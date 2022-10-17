@@ -15320,6 +15320,24 @@
     },
     {
       "album": {
+        "name": "Jam Suspect",
+        "url": "https://open.spotify.com/album/32olRxICcCsDpRml51dMQb"
+      },
+      "artists": [
+        {
+          "name": "Moongold",
+          "url": "https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240453,
+      "name": "Jam Suspect",
+      "url": "https://open.spotify.com/track/6zGxIWsmJTsiJvAOY1HdEA"
+    },
+    {
+      "album": {
         "name": "Worldwide Remixes",
         "url": "https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO"
       },

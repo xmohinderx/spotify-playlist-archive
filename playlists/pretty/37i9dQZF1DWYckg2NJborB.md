@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,226 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,217 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 9 | [Romeo And Juliet](https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 5:27 |
 | 10 | [Transatlanticism](https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 7:55 |
 | 11 | [If I Could Write](https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o) | [Sam Phillips](https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa) | [A Boot and a Shoe](https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS) | 2:18 |
-| 12 | [Lolita](https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:40 |
-| 13 | [Ulysses](https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:13 |
+| 12 | [Ulysses](https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:13 |
+| 13 | [Lolita](https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:40 |
 | 14 | [Sweet Ophelia](https://open.spotify.com/track/1jPZgfC9tWFNf7iBGdrTPV) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:09 |
 | 15 | [Soma](https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 2:33 |
 | 16 | [Mr\. Writer](https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 5:19 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 46 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 |
 | 47 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
 | 48 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 |
-| 49 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 |
-| 50 | [The Tea Song](https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [First Songs](https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ) | 7:28 |
+| 49 | [The Tea Song](https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [First Songs](https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ) | 7:28 |
+| 50 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGM0YjdmMjMwY2M2NDhjYmIwMThhYTA0MjA5ZjZjNTEy`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDFkNDZlOTkwZGFjM2I1YmFiZTc5YmViZjI5OWI4ZWZm`

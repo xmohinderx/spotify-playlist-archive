@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,699 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,801 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 9 | [Fallen Enemies](https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK) | 4:19 |
 | 10 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 |
 | 11 | [Exhilaration \- Shall Ocin Remix](https://open.spotify.com/track/2Hslrcg7tm6YRP4f7ohSHG) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 7:42 |
-| 12 | [Now Is](https://open.spotify.com/track/0wetZebEoeaOVQu9dse8Jk) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Running](https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx) | 6:31 |
+| 12 | [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 |
 | 13 | [Estera](https://open.spotify.com/track/0HhiJrRsrK1o11pZli16pH) | [Joone](https://open.spotify.com/artist/1cwiFXVpO0awE541K7EZEV) | [Liberator](https://open.spotify.com/album/63qZOHZGH28mY9HCYFYuks) | 6:39 |
 | 14 | [Assumptions \- Dodi Palese Remix](https://open.spotify.com/track/1B6POEGfKJmLkk2IXxMzVu) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [Assumptions \(Dodi Palese Remix\)](https://open.spotify.com/album/4rIc8exDsRYYdld4wfPGS2) | 5:17 |
 | 15 | [Beholden](https://open.spotify.com/track/3HEDtJmlflJdMDUZx0LNtt) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Bloodflame EP](https://open.spotify.com/album/2sX5EyFBtC1m0t2aSQlVZQ) | 7:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 49 | [Monomono](https://open.spotify.com/track/2eS5Q1hbmRM3cNOSplrQuY) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Monomono](https://open.spotify.com/album/7sYaH5Eu79f8NRR8ikBtYZ) | 6:19 |
 | 50 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 |
 
-Snapshot ID: `MTY2NDk0MjQwMCwwMDAwMDAwMDUxNzI2ZTY0MDliY2IzNGQwMmIwN2ViYWU2ZjBjYzZm`
+Snapshot ID: `MTY2NDk0MjQwMCwwMDAwMDAwMDhiMDY4NThkYWQ3N2MzNjFlMDY4ZTM1Njc4ZjFkMTJi`

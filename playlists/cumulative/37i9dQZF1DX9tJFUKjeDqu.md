@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-84 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+85 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Slow Blues](https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU) | [Mick Taylor](https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi) | [Mick Taylor](https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne) | 3:23 | 2022-04-15 |  |
 | [Snow Blues](https://open.spotify.com/track/58dBSRx65WKUew5bussurJ) | [Snowy White](https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH) | [Bird of Paradise \- An Anthology](https://open.spotify.com/album/661y6tO5MbvfHAYGPOPYmM) | 6:50 | 2022-04-15 |  |
 | [Son of a Witch](https://open.spotify.com/track/7qvbVYCBCgPYUntoTcUUC2) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 4:57 | 2022-04-15 |  |
-| [Soo Soo](https://open.spotify.com/track/0EzT3qO62R3kFqQGpctHcM) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Ein Blick](https://open.spotify.com/album/7rjXWcL9kIqmAMsa9aWRel) | 5:40 | 2022-07-08 |  |
+| [Soo Soo](https://open.spotify.com/track/0EzT3qO62R3kFqQGpctHcM) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Ein Blick](https://open.spotify.com/album/7rjXWcL9kIqmAMsa9aWRel) | 5:40 | 2022-07-08 | 2022-10-17 |
+| [Soo Soo](https://open.spotify.com/track/2sZxRxTAZIIWqBQzbWNSrf) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Ein Blick](https://open.spotify.com/album/7x4IzBaABfeN8i6OD7NnJN) | 5:40 | 2022-10-14 |  |
 | [Soo Soo](https://open.spotify.com/track/5Wb5ESjqKLXpUeraCpSTbG) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Soo Soo](https://open.spotify.com/album/6TtGR4JOedS2VTTimyH9bX) | 5:40 | 2022-04-15 | 2022-07-29 |
 | [Soulful Blues \- Instrumental](https://open.spotify.com/track/2d4HpgCWXuI6sCYhVfoZC1) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Soulful Blues \(Instrumental\)](https://open.spotify.com/album/1WyuB1JDD0bOR6Kyef9IKA) | 2:17 | 2022-04-15 |  |
 | [South Bound](https://open.spotify.com/track/7llVeNGB92oOl4xeooJGq0) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [South Bound](https://open.spotify.com/album/167ijXAsdSVBFkQdl679kB) | 2:19 | 2022-10-14 |  |

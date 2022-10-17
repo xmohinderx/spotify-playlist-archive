@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Grentperez is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,940 likes - 57 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,944 likes - 57 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 35 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 |
 | 36 | [it's not how it used to be](https://open.spotify.com/track/5eYJJXpmTUiIBdqnJDongW) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:27 |
 | 37 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
-| 38 | [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 |
+| 38 | [You Don't Decide](https://open.spotify.com/track/1VhH5roSzrRCsQ2ZLvfoj7) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5PM3NjlqA6YBobSRy0nvP4) | 2:41 |
 | 39 | [Pop Out](https://open.spotify.com/track/4BK00UVgLXIw7l6UQl8ZQa) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Pop Out](https://open.spotify.com/album/4N0UUFDhzOeKHApxy1ZGgx) | 2:19 |
 | 40 | [Fool Around](https://open.spotify.com/track/2ryDEDHa7Cj00JhnHknukn) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [It's a Feeling](https://open.spotify.com/album/5XOJym8KkxAs8aSUNHGeYY) | 3:38 |
 | 41 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 56 | [Sabrina](https://open.spotify.com/track/6MWAjPXdw19mWpZxFZ1XPW) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [AfterDeath](https://open.spotify.com/artist/2stjrs7wFuofc0tK9O3utv) | [Sabrina](https://open.spotify.com/album/4G9IsiE3nEH71YX5zOTHit) | 2:13 |
 | 57 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 |
 
-Snapshot ID: `MTY2MTcyNzg4OSwwMDAwMDAwMDYyOTA2YjNlOWY0NmJmODNmMjRkOTQ0NTcxNTZlMWIx`
+Snapshot ID: `MTY2MTcyNzg4OSwwMDAwMDAwMDRkZTA3MTM4MzlhYWFkNzBjOGYxYmI2ZWJjMTJkZDBl`

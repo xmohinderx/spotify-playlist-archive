@@ -1258,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/0D4iBQY8fPdFcBEGmyRBzH"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65897,
+      "name": "Beautiful Places - Felt Piano Version",
+      "url": "https://open.spotify.com/track/3eUFBiETeXrAfTJdRYbk5e"
+    },
+    {
+      "album": {
         "name": "Cello Songs",
         "url": "https://open.spotify.com/album/4qk2Cg1Gu9xJvDjyu9Mf6u"
       },

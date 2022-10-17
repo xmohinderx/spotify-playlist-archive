@@ -5170,6 +5170,36 @@
     },
     {
       "album": {
+        "name": "Numbers Don't Lie",
+        "url": "https://open.spotify.com/album/0WG6jQJJZV9aonyX7xVkVZ"
+      },
+      "artists": [
+        {
+          "name": "Nkulee501",
+          "url": "https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75"
+        },
+        {
+          "name": "Skroef 28",
+          "url": "https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        },
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/7B8txzgPV7TUKkmPwajLue"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268147,
+      "name": "H&M (feat. Hugo & MDU a.k.a TRP)",
+      "url": "https://open.spotify.com/track/4UOgweo1ta6H5AQDoM7DIn"
+    },
+    {
+      "album": {
         "name": "H.E.Y",
         "url": "https://open.spotify.com/album/4tow5pRa1AXArQwUebX1ky"
       },
@@ -6457,7 +6487,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 394013,
       "name": "Inkunzi Ebovu",
       "url": "https://open.spotify.com/track/3CqdfAOyvxfNnhdHUizVAw"
@@ -9727,6 +9757,32 @@
       "duration_ms": 330206,
       "name": "Mundaza",
       "url": "https://open.spotify.com/track/5xyED4v6pYcRaXfRRZYdrh"
+    },
+    {
+      "album": {
+        "name": "IBhova Lami",
+        "url": "https://open.spotify.com/album/4BDnfT8vjNAeYX0HAq1cD5"
+      },
+      "artists": [
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/7mCHXCZogKSjmhJlX0sls0"
+        },
+        {
+          "name": "Troy willmake",
+          "url": "https://open.spotify.com/artist/4ikY8QJvK2SVogqqV42gpa"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313521,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/0C3YTd9JyT3soUiLp0wYgk"
     },
     {
       "album": {
@@ -14857,7 +14913,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 428571,
       "name": "Trust Fund (feat. Focalistic, Mpura, Madumane & Mellow & Sleazy) - Live",
       "url": "https://open.spotify.com/track/4F7H87xusgYP3SEFj7gOVP"

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk, LEALL, Major RD, Derxan",
-  "num_followers": 20882,
+  "num_followers": 20907,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDYxODIxOGJmYzAyNTIxNWYwMjZjY2FlNTM5ZDE0MTFk",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDhjMzg3ZmNjZTFiZWRkMTZhNjFmNjQyYzRiYzA0NTdh",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -719,6 +719,34 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "Armamento do Ir\u00e3",
+        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "D r o p e",
+          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Olympio",
+          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
+        }
+      ],
+      "duration_ms": 259754,
+      "name": "Armamento do Ir\u00e3",
+      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "Passa Nada",
         "url": "https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT"
       },
@@ -747,34 +775,6 @@
       "duration_ms": 224216,
       "name": "Passa Nada",
       "url": "https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "Armamento do Ir\u00e3",
-        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "D r o p e",
-          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Olympio",
-          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
-        }
-      ],
-      "duration_ms": 259754,
-      "name": "Armamento do Ir\u00e3",
-      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -827,22 +827,18 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "40\u02da.40 Deluxe",
-        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
       },
       "artists": [
         {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Korsain",
-          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -871,18 +867,22 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+        "name": "40\u02da.40 Deluxe",
+        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
       },
       "artists": [
         {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
         }
       ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
+      "duration_ms": 197000,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -927,42 +927,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Rumo ao Estrelato",
-        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        }
-      ],
-      "duration_ms": 169859,
-      "name": "Rumo ao Estrelato",
-      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "BR 140",
         "url": "https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC"
       },
@@ -987,6 +951,42 @@
       "duration_ms": 193714,
       "name": "Larga minha camisa",
       "url": "https://open.spotify.com/track/0B5XskCYCbBCNutIpl20rG"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Rumo ao Estrelato",
+        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "duration_ms": 169859,
+      "name": "Rumo ao Estrelato",
+      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
     },
     {
       "added_at": "2022-10-14 03:01:00",

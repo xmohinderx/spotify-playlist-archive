@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 348,
+  "num_followers": 370,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDgxZmNjMTAxYmY2NDQ5MzAzZTBkMjgyNGRkOTczZGEy",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGI2NzE5ODM1OTFkMTdhNWE0M2ViODRlN2U5YTIxNGM5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "AZEB - EP",
+        "url": "https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi"
+      },
+      "artists": [
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Rider",
+      "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 201942,
       "name": "Bussdown (feat. Shaybo)",
       "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "AZEB - EP",
-        "url": "https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi"
-      },
-      "artists": [
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Rider",
-      "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Undertones",
         "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 196786,
       "name": "Anymore (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "November (feat. Hak Baker)",
         "url": "https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v"
       },
@@ -603,6 +619,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Syrup",
+        "url": "https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 145964,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Under Twenty Five",
         "url": "https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 210184,
       "name": "Peng Black Girls",
       "url": "https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Syrup",
-        "url": "https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "Syrup",
-      "url": "https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -671,22 +687,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "my slime",
-        "url": "https://open.spotify.com/album/3BCatx6OCDnnYXqUETlAhu"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "my slime",
-      "url": "https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Out the Way",
         "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
       },
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+        "name": "my slime",
+        "url": "https://open.spotify.com/album/3BCatx6OCDnnYXqUETlAhu"
       },
       "artists": [
         {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+      "duration_ms": 188280,
+      "name": "my slime",
+      "url": "https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-351 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+352 songs - 1 day 1 hr 32 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Get Better John](https://open.spotify.com/track/0zDx80J7Tu1li6oKFK27bQ) | [Mux Mool](https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr) | [Skulltaste](https://open.spotify.com/album/5BqY0szu3DTIPZaEfkAupg) | 3:34 | 2022-04-01 | 2022-04-21 |
 | [Getting Started](https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Getting Started](https://open.spotify.com/album/2ve5ciAj64GM826NChWq6u) | 5:58 | 2022-09-30 |  |
 | [Ghost Ship](https://open.spotify.com/track/56N8p428pdGMvLHRWmklzH) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [S A Z E R](https://open.spotify.com/artist/4ITqwIiGfTR7LWAuLLuaaL) | [Ghost Ship](https://open.spotify.com/album/6x7BjhCKuTsCnO5WbH348z) | 4:19 | 2021-10-15 | 2022-07-29 |
-| [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 |  |
+| [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 | 2022-10-17 |
 | [Golden Taurus](https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7) | [Vercetti Technicolor](https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO) | [Golden Taurus EP](https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq) | 5:45 | 2022-04-01 |  |
 | [Gorwel](https://open.spotify.com/track/28L1PMK9pGoujuvl91DwEo) | [Carw](https://open.spotify.com/artist/7AaeIQ8PJitJJcScxTWL13) | [Gorwel](https://open.spotify.com/album/37peSNX9tLt9iy3UFYOeF3) | 3:29 | 2022-02-04 | 2022-02-16 |
 | [Gravity \(Of U & I\)](https://open.spotify.com/track/5phvikd8m1kALvoBuKfnIO) | [HELIXIRx](https://open.spotify.com/artist/3k8Yy0uBrm0uDy3P6Txzgc) | [Authenticity: The Instrumentals](https://open.spotify.com/album/4PFdNLbzmXK25Ui4SfQJpw) | 4:49 | 2022-02-04 | 2022-02-19 |
@@ -147,6 +147,7 @@
 | [Hotline Miami II](https://open.spotify.com/track/2qzbJyY0c4vzhXFlnRNCji) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6ASlNNjHy6yL8lNTMuNvPn) | 3:47 | 2022-04-01 | 2022-04-21 |
 | [Hotline Miami II](https://open.spotify.com/track/7qEIlg3a8Yrci7GhkmZR2V) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6v2alUvXCExu0CH7n4v9Ql) | 3:47 | 2022-07-22 | 2022-10-01 |
 | [Hounds of Hell](https://open.spotify.com/track/1DcB747sZ7wM71YkaEYpLC) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Teamworks EP \(Pt\. 2/2\)](https://open.spotify.com/album/3MWbClmnqoShaxN4onZh5V) | 7:20 | 2022-08-19 | 2022-09-24 |
+| [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/2goi9r8tdsV1g79eesmaCX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/0UDVNOLLKTw4Fme8MbE1Mh) | 5:49 | 2022-10-14 |  |
 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 | 2022-02-04 | 2022-10-13 |
 | [Hypnic](https://open.spotify.com/track/2H55QFDo3vexV4gu85WUTl) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/5sE8JtVAJH23pYT4ZRAVwh) | 4:07 | 2021-10-15 | 2022-07-29 |
 | [Hypnic](https://open.spotify.com/track/2iGcN8KNk58rsXLo1yubR7) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 4:07 | 2022-07-22 |  |

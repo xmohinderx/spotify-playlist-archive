@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Shanti Celeste
 
-483 songs - 1 day 11 hr 44 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+484 songs - 1 day 11 hr 46 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Human Sound](https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6) | 5:26 | 2022-05-26 | 2022-07-29 |
 | [Hummingbird](https://open.spotify.com/track/192bA6Tgzd1e0FIaik5f2g) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Hummingbird](https://open.spotify.com/album/4Fd7lUvMzc0HFeaseDZaO3) | 2:57 | 2022-04-29 | 2022-07-15 |
 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 | 2022-10-06 |  |
-| [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 | 2022-06-09 |  |
+| [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 | 2022-10-13 |  |
+| [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 | 2022-06-09 | 2022-10-17 |
 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 | 2022-05-06 |  |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2022-04-01 | 2022-07-15 |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2022-09-22 |  |

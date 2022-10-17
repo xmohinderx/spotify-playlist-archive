@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-781 songs - 1 day 16 hr 36 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+782 songs - 1 day 16 hr 39 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [Maple Syrup Tears](https://open.spotify.com/track/11mZeNMQTR2It49wtB4gTv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Maple Syrup Tears](https://open.spotify.com/album/2gLuQKqj2zWasAEiDEVV8X) | 3:13 | 2020-01-31 | 2022-07-29 |
 | [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 | 2021-02-27 |  |
 | [Marie](https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Marie](https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7) | 3:01 | 2022-06-14 | 2022-07-29 |
-| [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-19 |  |
+| [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-19 | 2022-10-17 |
 | [Marketa](https://open.spotify.com/track/5FzxcTskThKSLcSUadwZ90) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Connecting Visitors to Fun](https://open.spotify.com/album/14mNMkX1Us89c1VcXzNlPq) | 3:45 | 2020-03-29 | 2021-04-13 |
 | [Material Things](https://open.spotify.com/track/1Mgv7as2OzvJrUc3kphZxn) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Material Things](https://open.spotify.com/album/29T5p7BP5ZHsPuvX1qBadv) | 2:16 | 2021-10-08 | 2022-04-21 |
 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-04 | 2022-06-13 |
@@ -747,6 +747,7 @@
 | [WASTED DAYS \(INBETWEENS\)](https://open.spotify.com/track/1tfPHG8x4FHKQ2kTVPp6lS) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [WASTED DAYS \(INBETWEENS\)](https://open.spotify.com/album/3YbyEgS5rdb6WVzAbA7sQr) | 5:00 | 2021-02-28 | 2021-05-22 |
 | [Wasting Time](https://open.spotify.com/track/484O5EIxlfEf4B8vbeYE3X) | [fern](https://open.spotify.com/artist/7caUmyhu6IiUijjAEDB4h8) | [Wasting Time](https://open.spotify.com/album/0FCIHVkwBEZnG4jIgT4S6Z) | 2:24 | 2020-08-11 | 2021-08-28 |
 | [watch you sleep.](https://open.spotify.com/track/3GIIv6Eo0WSuM9Bxx5DTdR) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/1f1ED34dUA2H9mDYYTo99T) | 3:00 | 2019-07-30\* | 2022-10-13 |
+| [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 | 2022-09-14 |  |
 | [Watered Down](https://open.spotify.com/track/0W8o8QKoO01LiiSLbGhI21) | [SODAPOP](https://open.spotify.com/artist/20SsjJW9QONCMZQ8Sik2d9) | [Watered Down](https://open.spotify.com/album/4ZhzwEQgxxtFmU4fEbks9J) | 3:20 | 2020-06-29 | 2021-05-26 |
 | [Watering the Garden](https://open.spotify.com/track/2PNOtO2fD3HtUt9t0Heppf) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Watering the Garden](https://open.spotify.com/album/1rcXE9zUFpVOJKMnVOicEu) | 3:21 | 2019-07-31 | 2020-04-07 |
 | [Ways](https://open.spotify.com/track/46YMi4OGLJ0ZSFIrbpCO45) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Ways](https://open.spotify.com/album/7J2x5SADnGa23j1hFcuxhx) | 4:28 | 2020-05-02 | 2021-05-27 |

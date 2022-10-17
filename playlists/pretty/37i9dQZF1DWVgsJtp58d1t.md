@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Stormy, Willow, YoungBoy Never Broke Again, Joeboy, Phabo, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,508 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,565 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 34 | [TURKEY](https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc) | [Tate Kobang](https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI) | [TURKEY](https://open.spotify.com/album/2zhIdoLAGJazYWy2vhkDaI) | 1:49 |
 | 35 | [One Way](https://open.spotify.com/track/6OKRi2g1eGm78w4xIIz76n) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y) | [One Way](https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ) | 1:54 |
 | 36 | [Angels Don't Call Me](https://open.spotify.com/track/2MiuQtRZMsM81Qha5DJ5oC) | [Sækyi](https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB) | [Angels Don't Call Me](https://open.spotify.com/album/3ueLRPtj3lSGcKvPKiR4ry) | 2:49 |
-| 37 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 |
+| 37 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 |
 | 38 | [bad vibes](https://open.spotify.com/track/6jUzV98Umr2CJ8bT5Gq9XG) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Sunsets & Goodbyes](https://open.spotify.com/album/7zjWF8aJyTMv22bL7YZWRo) | 2:10 |
 | 39 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 |
 | 40 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 |

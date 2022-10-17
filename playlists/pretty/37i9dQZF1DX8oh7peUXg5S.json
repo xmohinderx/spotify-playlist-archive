@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 255451,
+  "num_followers": 255615,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczNjYwNSwwMDAwMDAwMDM3NTAwMmM1MDc3OTE0MDRiZWMzYTllMjI0ZGNkYTk1",
+  "snapshot_id": "MTY2NTczNjYwNSwwMDAwMDAwMGM3YTZkM2YxN2U2MDhhMmQxZDhmODkyNzNlMDUwY2Ey",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Unicornio",
         "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
       },
       "artists": [
         {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
         }
       ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Cuerpo a Cuerpo (Remasterizado)",
         "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "City Zen",
         "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 228413,
       "name": "Desde Que Te Perd\u00ed",
       "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
-        "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         },
         {
-          "name": "Pablo L\u00f3pez",
-          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 390861,
-      "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
-      "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+      "duration_ms": 192840,
+      "name": "Lucia (with Silvio Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Antolog\u00eda Desordenada",
-        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+        "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
+        "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         },
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Pablo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Lucia (with Silvio Rodr\u00edguez)",
-      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+      "duration_ms": 390861,
+      "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
+      "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1273,26 +1273,6 @@
       "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
     },
     {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
-      },
-      "artists": [
-        {
-          "name": "Elefantes",
-          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
-        },
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
-      "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
-    },
-    {
       "added_at": "2022-10-14 08:36:45",
       "album": {
         "name": "Te Quiero Porque Te Quiero (Fandangos)",
@@ -1311,6 +1291,26 @@
       "duration_ms": 202803,
       "name": "Te Quiero Porque Te Quiero (Fandangos)",
       "url": "https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        },
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
+      "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "La hora de los gigantes",
-        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
-      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 237600,
       "name": "Lucha de gigantes - Live",
       "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "La hora de los gigantes",
+        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
+      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2022-09-22 22:00:00",

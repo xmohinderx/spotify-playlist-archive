@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 80816,
+  "num_followers": 80972,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU0MTM2MiwwMDAwMDAwMGVkN2ZhMTkzNDdiN2E3MzdhNjM3YjRmYmY3NDkzMmEy",
+  "snapshot_id": "MTY2NTU0MTM2MiwwMDAwMDAwMDE4YWI2Zjc5OTNmMzM3YTIzYWZmYWM1NWMwMjM2OWFm",
   "tracks": [
     {
       "added_at": "2022-10-12 02:22:42",
@@ -83,22 +83,18 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "Please Do Not Lean",
-        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 240937,
-      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -119,18 +115,22 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+        "name": "Please Do Not Lean",
+        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+      "duration_ms": 240937,
+      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 267450,
-      "name": "Get to You Again",
-      "url": "https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 267450,
+      "name": "Get to You Again",
+      "url": "https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -699,6 +699,26 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
       },
@@ -715,6 +735,22 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Whoa",
+      "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -747,42 +783,6 @@
       "duration_ms": 306306,
       "name": "Dangerously In Love",
       "url": "https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
-        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 238965,
-      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 199179,
-      "name": "Whoa",
-      "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "How Could I Forget You",
-        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
-      },
-      "artists": [
-        {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "How Could I Forget You",
-      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 288453,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
+        "name": "How Could I Forget You",
+        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
+      },
+      "artists": [
+        {
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "How Could I Forget You",
+      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
     },
     {
       "added_at": "2022-10-12 02:22:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw?si=lhAF\_Zx7Sruk6PRZSdzSoA">Lil Yachty</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,106 likes - 73 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,135 likes - 73 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,598 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,667 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 | 63 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 64 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
 | 65 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 66 | [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 |
+| 66 | [Hey Michael](https://open.spotify.com/track/2e6yL61IB93pCIzMNx4xRF) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/3Ch7Y80qbRzzFJlfx51Ge6) | 2:59 |
 | 67 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 |
 | 68 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 |
 | 69 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 | 103 | [eye 2 eye](https://open.spotify.com/track/6wlouslDoDFy2NH8HaPwQf) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [eye 2 eye](https://open.spotify.com/album/26suVOYpQ5SYiqo7CHyE46) | 3:05 |
 | 104 | [Whatever Tomorrow](https://open.spotify.com/track/2oQMAwDhT1YjSGb3YSLpXO) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:23 |
 
-Snapshot ID: `MTYzOTQyMzA4NSwwMDAwMDAwMDhkNjA5NWUwNTBlZWY1ZWIzNDFiMWUxMmY1NDhiZmFj`
+Snapshot ID: `MTYzOTQyMzA4NSwwMDAwMDAwMGQyMTlhNzY2ODdlYTc0NjRjZjZkMGE2ODc4ZmI3ODg5`

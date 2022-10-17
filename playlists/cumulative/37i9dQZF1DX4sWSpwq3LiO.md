@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,436 songs - 2 day 16 hr 25 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
+1,437 songs - 2 day 16 hr 28 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,8 @@
 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 | 2021-02-09 | 2022-09-13 |
 | [Las Torres](https://open.spotify.com/track/1u3vCCEmUHOrHjLlwR2nyU) | [Rafael Zoko](https://open.spotify.com/artist/4CdJuIDunYuaxiRa0PUulq) | [Las Torres](https://open.spotify.com/album/070fTp4tPS3XzSckZra1ZK) | 3:00 | 2022-02-23 | 2022-06-04 |
 | [Last Minute Change Of Heart](https://open.spotify.com/track/7EfZ07W78sOwmEAIkhj9wt) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Last Minute Change Of Heart](https://open.spotify.com/album/1wP1AAF6Tx9OvarVxv7otf) | 4:02 | 2019-05-26\* | 2019-12-17 |
-| [Last Sunday](https://open.spotify.com/track/1HTvslM0ZjMDrCYM3YqsV7) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Last Sunday](https://open.spotify.com/album/3Iq0eQBewdnHphQGXdDxUk) | 2:23 | 2022-04-28 |  |
+| [Last Sunday](https://open.spotify.com/track/1HTvslM0ZjMDrCYM3YqsV7) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Last Sunday](https://open.spotify.com/album/3Iq0eQBewdnHphQGXdDxUk) | 2:23 | 2022-04-28 | 2022-10-17 |
+| [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2022-10-13 |  |
 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2021-11-24 | 2022-05-13 |
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2020-12-01 | 2021-08-19 |
 | [Lato](https://open.spotify.com/track/4Dud0QWbw1Xp3z7tqpg1NA) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Lato](https://open.spotify.com/album/1wTOeWZPH0QdpjjhK5VZvm) | 2:07 | 2019-07-05 | 2021-03-24 |

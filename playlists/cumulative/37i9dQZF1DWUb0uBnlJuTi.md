@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-232 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
+233 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Sassy](https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Sassy](https://open.spotify.com/album/56ai2OAbYKk4sigSaWJhn3) | 4:18 | 2021-06-04 | 2022-09-26 |
 | [Saturday Morning](https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [David D.R\. Robbins](https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc) | [Saturday Morning](https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud) | 2:29 | 2022-04-29 | 2022-07-10 |
 | [Saturday Night Special](https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Saturday Night Special](https://open.spotify.com/album/4bOytFLAaL2AH2nZ0lQvST) | 6:12 | 2022-03-11 | 2022-09-23 |
-| [Shuffle Bubble](https://open.spotify.com/track/3ec7dMHjmaVHiR30IyuLIO) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Shuffle Bubble](https://open.spotify.com/album/5a50Xdrh1DveFXmu9lWI05) | 4:59 | 2022-10-07 |  |
+| [Shuffle Bubble](https://open.spotify.com/track/3ec7dMHjmaVHiR30IyuLIO) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Shuffle Bubble](https://open.spotify.com/album/5a50Xdrh1DveFXmu9lWI05) | 4:59 | 2022-10-07 | 2022-10-17 |
+| [Shuffle Bubble](https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Return](https://open.spotify.com/album/4rNDhee4C2DxW9useAUxKs) | 4:59 | 2022-10-07 |  |
 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 | 2021-11-26 | 2022-04-19 |
 | [Sky View](https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO) | [Duochrome](https://open.spotify.com/artist/7oEPPw9oIE9daEBxJ4qRlB), [Brian Thomas](https://open.spotify.com/artist/5J2bWNW9crLgcvyNNjPtdz), [Jared Sims](https://open.spotify.com/artist/7vO0dxaCLvGlRAqCl47d7X) | [Sky View](https://open.spotify.com/album/3APv0egvjU4DiD1k77I4R4) | 6:25 | 2022-08-12 | 2022-08-20 |
 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 | 2022-07-22 |  |

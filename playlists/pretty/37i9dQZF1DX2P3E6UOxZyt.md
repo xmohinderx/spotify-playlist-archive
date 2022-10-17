@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 柏霖 \(PoLin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,709 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,712 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 32 | [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:51 |
 | 33 | [热带雨 \- 《热带雨》电影同名主题曲](https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [热带雨 \(《热带雨》电影同名主题曲\)](https://open.spotify.com/album/6JHeFZxMEsEbnTAqK8cK2O) | 4:06 |
 | 34 | [行星戀](https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀](https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf) | 5:06 |
-| 35 | [我陪你好嗎 \- bilibili & Disney《正義的算法》插曲](https://open.spotify.com/track/0dkP7JE3rTjiPhNIuNVAPz) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [我陪你好嗎 \(bilibili & Disney《正義的算法》插曲\)](https://open.spotify.com/album/77Iijl8ZaBdEdlREnaHMjM) | 3:29 |
+| 35 | [我陪你好嗎 \- bilibili & Disney《正義的算法》插曲](https://open.spotify.com/track/0dkP7JE3rTjiPhNIuNVAPz) | [張若凡RuoFan](https://open.spotify.com/artist/7A0RV1uAQqkNOWMM04zTMn) | [我陪你好嗎 \(bilibili & Disney《正義的算法》插曲\)](https://open.spotify.com/album/77Iijl8ZaBdEdlREnaHMjM) | 3:29 |
 | 36 | [你從來不曾屬於我 \(Please Make Me Stay\)](https://open.spotify.com/track/5DL9Mh2fk5Wz2KgFZY2Iwf) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc), [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [你從來不曾屬於我 \(Please Make Me Stay\)](https://open.spotify.com/album/6nN66Mp7ny8MjuWtDCstUW) | 3:29 |
 | 37 | [歡迎來到我身邊 \- 《黑喵知情》插曲](https://open.spotify.com/track/5z1TGdyVjf2hQNV8iX09uL) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:28 |
 | 38 | [我反芻著你留下的寂寞](https://open.spotify.com/track/6ZNAqMNyEXmDLRfZkqRaOm) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我反芻著你留下的寂寞](https://open.spotify.com/album/06HJhWECJltoDTmsXnw7ax) | 4:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 46 | [挨你一枪](https://open.spotify.com/track/2pYc1VfhWKv1vzOgrJEdgS) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [挨你一枪](https://open.spotify.com/album/7jwuZcuW6pK95pUTa06gxi) | 3:51 |
 | 47 | [想念是最遠的旅行 \- 天堂的微笑片尾曲](https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [想念是最遠的旅行 \(天堂的微笑片尾曲\)](https://open.spotify.com/album/3XsuB5NPeWvyfAI9B42Ub1) | 4:29 |
 | 48 | [望遠鏡](https://open.spotify.com/track/0wJD3QKVyzk9rBwtiBhQbe) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [望遠鏡](https://open.spotify.com/album/6yr99eQaRmQnSh5Xj61Kpr) | 3:49 |
-| 49 | [非必要的美好小事 \- 三立電視《門當互懟愛上你》片頭曲](https://open.spotify.com/track/4CCO81TxHw1TfG1VHiDGyl) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [非必要的美好小事 \(三立電視《門當互懟愛上你》片頭曲\)](https://open.spotify.com/album/61QQr0DbDRo9Kx5giz78kH) | 3:12 |
+| 49 | [非必要的美好小事 \- 三立電視《門當互懟愛上你》片頭曲](https://open.spotify.com/track/4CCO81TxHw1TfG1VHiDGyl) | [張若凡RuoFan](https://open.spotify.com/artist/7A0RV1uAQqkNOWMM04zTMn) | [非必要的美好小事 \(三立電視《門當互懟愛上你》片頭曲\)](https://open.spotify.com/album/61QQr0DbDRo9Kx5giz78kH) | 3:12 |
 | 50 | [時尚!](https://open.spotify.com/track/5UoX8DMcIrr95JN0jFDaag) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [時尚!](https://open.spotify.com/album/6RmFMOPZw4rS5v045VP6kN) | 2:40 |
 | 51 | [孤單Tequila](https://open.spotify.com/track/2DsoqJ0RzOsqWgZDmJcUK5) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [孤單Tequila](https://open.spotify.com/album/75JUop5mY0bEPzgyOrvcSJ) | 4:34 |
 | 52 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 |

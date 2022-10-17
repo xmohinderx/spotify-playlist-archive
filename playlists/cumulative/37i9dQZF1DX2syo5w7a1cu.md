@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1990s.
 
-336 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/3Y9Hoox8bVt84gpOCnK26g)
+337 songs - 1 day 1 hr 15 min - [published](https://open.spotify.com/playlist/3Y9Hoox8bVt84gpOCnK26g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,8 +282,9 @@
 | [Take a Bow](https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:21 | 2021-02-02 |  |
 | [Take Me to Your Heart](https://open.spotify.com/track/7rdtBpPpe4knfd7aD98h9X) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Michael Learns To Rock](https://open.spotify.com/album/1QIn6Ei16FidIGiHgylZDB) | 4:00 | 2021-02-02 |  |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2022-03-21 |  |
+| [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 | 2022-03-21 |  |
 | [Tears in Heaven](https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:31 | 2021-02-02 | 2022-10-06 |
-| [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 | 2021-02-02 |  |
+| [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 | 2021-02-02 | 2022-10-17 |
 | [Tell Him \(Duet with Barbra Streisand\)](https://open.spotify.com/track/1jeWrScZZuhw3b55T1fv4O) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/3SwxRkHbAarf3wWlInRTzA) | 4:51 | 2021-02-02 | 2022-07-29 |
 | [Tell Him \(Duet with Barbra Streisand\)](https://open.spotify.com/track/6HKChbfE5klrUMHo3NrqzX) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:51 | 2022-03-21 |  |
 | [Tell Me It's Real](https://open.spotify.com/track/3fQtdmVB0cAe4Hs9e5bVQb) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [It's Real](https://open.spotify.com/album/4bdoso638zheKxQLBJxn2i) | 4:38 | 2021-02-02 |  |

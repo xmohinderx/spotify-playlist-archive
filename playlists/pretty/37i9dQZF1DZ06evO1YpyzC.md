@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,488 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,586 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 46 | [I Love That I Hate You](https://open.spotify.com/track/3wbhzLFCwJ0faJe0g6HDG6) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Love That I Hate You \- Single](https://open.spotify.com/album/2siw0W1pFH2HMatUEx9RzC) | 3:07 |
 | 47 | [Ain't No Stopping Us Now](https://open.spotify.com/track/2I5ao7JannZZMlweLTz0hO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:02 |
 | 48 | [Excuses](https://open.spotify.com/track/27c2kdskfeM1j3keQ6z4hB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 3:01 |
-| 49 | [Cold Spot](https://open.spotify.com/track/3FbfTn3qdwNx9uKiefB9N9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:37 |
-| 50 | [Hit the Gas](https://open.spotify.com/track/3PqLcOCKMKvhVDEcwFUcVd) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Closer](https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv) | 2:54 |
-| 51 | [Learning](https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:22 |
+| 49 | [Move On](https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:11 |
+| 50 | [Cold Spot](https://open.spotify.com/track/3FbfTn3qdwNx9uKiefB9N9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:37 |
+| 51 | [Hit the Gas](https://open.spotify.com/track/3PqLcOCKMKvhVDEcwFUcVd) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Closer](https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv) | 2:54 |
 
-Snapshot ID: `Mjc3NjQwMDQsMDAwMDAwMDBiZWZiNTAzYjI1NDI0N2ZjODMwYTgzZjg3NWFlMDc0NA==`
+Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDAyZDM2MjZlNmJkOGNhYmQ0Zjc5YmNiYjE2N2IzMDIyYg==`

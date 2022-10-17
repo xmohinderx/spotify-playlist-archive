@@ -2,9 +2,9 @@
 
 ### [Haitian Heat](https://open.spotify.com/playlist/37i9dQZF1DX3XjJqhm9fqD)
 
-> Celebrating Haitian music\. Cover: Francis Mercier.
+> Celebrating Haitian music\. Cover: Michael Benjamin
 
-140 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/3ur3vTrlhNCzIjyRqhoVJ8)
+141 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/3ur3vTrlhNCzIjyRqhoVJ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Shake Your Body](https://open.spotify.com/track/6jQ63ksDeBryPN51dP9yf9) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Shake Your Body](https://open.spotify.com/album/11drZ2tGHfzfxRi11vs4oW) | 1:08 | 2021-12-06 | 2022-05-13 |
 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 | 2022-07-14 |  |
 | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Meer Colon](https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP) | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ) | 2:48 | 2021-12-06 |  |
+| [Si M' Te Gen Zèl](https://open.spotify.com/track/0NCuNo6keH16T9wDLr81VH) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Mika](https://open.spotify.com/album/5Z2PZOB3ZQYdIt2ePkXco8) | 4:27 | 2022-10-16 |  |
 | [Si Yo Vle](https://open.spotify.com/track/1wk7KUjKk2n5K8xXlkIKRe) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Medjy](https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48), [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Rap ap rete Rap](https://open.spotify.com/album/3HYHXy8NXQNGjVQ3V60fgI) | 3:56 | 2022-07-14 |  |
 | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/track/2cS5AMXcUxR508fCt47jYP) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/album/0AZTNwOGb4dKzz5ztcIxPq) | 3:50 | 2021-12-06 |  |
 | [Siw Ta Wem Grog](https://open.spotify.com/track/4mWnF6x4ZJYCZtG7xbO3SY) | [VAC](https://open.spotify.com/artist/0iSG9EqSunUMaGQKIDVrtg), [Mr Deng](https://open.spotify.com/artist/6cD9o4yKIjRqAI6Q4U6k5E), [Colmix](https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF) | [Siw Ta Wem Grog](https://open.spotify.com/album/4WFwZVUg5Xrp33q0zWI5t2) | 3:54 | 2021-12-06 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [Vacation](https://open.spotify.com/track/6udGGj4kJQ9FGm2ZmHEwWu) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Moods Of A Cancer](https://open.spotify.com/album/6YDD3LCouXB66mbDmSGpn1) | 3:00 | 2021-12-06 |  |
 | [Vex Oh \(feat\. Eight9FLY\)](https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:42 | 2021-12-06 |  |
 | [Water](https://open.spotify.com/track/6BiDHHaky7B7TaxMsY897N) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Water](https://open.spotify.com/album/2yE4JE8GL7oMZkJqqvyiG5) | 1:52 | 2021-12-06 | 2022-05-13 |
-| [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 | 2021-12-06 |  |
+| [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 | 2021-12-06 | 2022-10-17 |
 | [Yo Mele Raboday](https://open.spotify.com/track/0qtBENOC0lD0BY6Hew47gA) | [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Yo Mele Raboday](https://open.spotify.com/album/2BNKzOLRHyDQBtP87YzE6P) | 3:37 | 2021-12-06 |  |
 | [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 | 2021-12-06 |  |
 

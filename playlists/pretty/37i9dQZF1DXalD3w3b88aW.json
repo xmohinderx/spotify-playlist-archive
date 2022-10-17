@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10763,
+  "num_followers": 10770,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGNlMjY5NWRiZDk4OTI2MzViM2NjZGFjZTdjM2JiMGM0",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDlmZDg2NDFjMzkzZDFmMTM4MmQ0NGUyNjg3MTNhYjU2",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 70253,
-      "name": "Drown in It",
-      "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 141440,
       "name": "F.U.S.S. (Interlude)",
       "url": "https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 70253,
+      "name": "Drown in It",
+      "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 70386,
-      "name": "Definition of a Bad Girl (Interlude)",
-      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Usher",
         "url": "https://open.spotify.com/album/0euolARSHQGtySLAWUvilr"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 162240,
       "name": "Interlude 2 (Can't Stop)",
       "url": "https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 70386,
+      "name": "Definition of a Bad Girl (Interlude)",
+      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
     },
     {
       "added_at": "2022-08-26 04:00:00",

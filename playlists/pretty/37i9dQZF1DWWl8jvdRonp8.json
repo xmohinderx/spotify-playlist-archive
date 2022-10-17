@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 132158,
+  "num_followers": 132353,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjY5NjgwMCwwMDAwMDAwMDI3NGU2N2Y2ZGZjZDAxZDJkNGEzMWM2ZWRmMDMzNTNh",
+  "snapshot_id": "MTYzNjY5NjgwMCwwMDAwMDAwMGExNzA5NzY3MTllN2VhZWI4MjU2NWMyOTQwNzBmYzJk",
   "tracks": [
     {
       "added_at": "2021-11-12 06:00:00",
@@ -739,8 +739,8 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Si Me Recuerdas",
-        "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 286400,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Mis Dos Vicios",
         "url": "https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 185946,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
-        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Encadenada a Mi",
-      "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 249626,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
+        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Encadenada a Mi",
+      "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 210680,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Para Dejarte de Querer",
-        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 184833,
-      "name": "Presiento Que Voy a Llorar - Con Banda",
-      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+        "name": "Para Dejarte de Querer",
+        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 284293,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
+      "duration_ms": 184833,
+      "name": "Presiento Que Voy a Llorar - Con Banda",
+      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Ya No Te Vayas",
-      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 299786,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
+      "duration_ms": 221480,
+      "name": "Ya No Te Vayas",
+      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Sigo en la Jugada",
-        "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 193000,
       "name": "Presiento Que Voy A LLorar",
       "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Sigo en la Jugada",
+        "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Despu\u00e9s De Hoy",
         "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 189280,
       "name": "Mi Najayita",
       "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
     },
     {
       "added_at": "2021-11-12 06:00:00",

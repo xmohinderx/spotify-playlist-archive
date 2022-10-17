@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 29141,
+  "num_followers": 29149,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDU4MmM5ZDliODQzYjc3Mjc1Mzk4MjUzNzhhNGMxOTk2",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDdjNGYxMTA2NDk2Zjk5Y2MyYWU3OWM3YzM5ZjE5MGJl",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
         }
       ],
-      "duration_ms": 175213,
-      "name": "Estambul",
-      "url": "https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV"
+      "duration_ms": 169586,
+      "name": "Tico Tico No Fub\u00e0",
+      "url": "https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
         }
       ],
-      "duration_ms": 169586,
-      "name": "Tico Tico No Fub\u00e0",
-      "url": "https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8"
+      "duration_ms": 175213,
+      "name": "Estambul",
+      "url": "https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -687,6 +687,34 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Pettinato Plays Garc\u00eda",
+        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
+      },
+      "artists": [
+        {
+          "name": "Roberto Pettinato",
+          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
+        },
+        {
+          "name": "Andr\u00e9s Marino",
+          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
+        },
+        {
+          "name": "Hern\u00e1n Cassibba",
+          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
+        },
+        {
+          "name": "Omar Menendez",
+          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
+        }
+      ],
+      "duration_ms": 339612,
+      "name": "Veinte Trajes Verdes",
+      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
       },
@@ -703,6 +731,22 @@
       "duration_ms": 436414,
       "name": "Kua Nalu",
       "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Piazzolla Plays Piazzolla",
+        "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 382989,
+      "name": "Lunfardo",
+      "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -731,50 +775,6 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Piazzolla Plays Piazzolla",
-        "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 382989,
-      "name": "Lunfardo",
-      "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Pettinato Plays Garc\u00eda",
-        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
-      },
-      "artists": [
-        {
-          "name": "Roberto Pettinato",
-          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
-        },
-        {
-          "name": "Andr\u00e9s Marino",
-          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
-        },
-        {
-          "name": "Hern\u00e1n Cassibba",
-          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
-        },
-        {
-          "name": "Omar Menendez",
-          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
-        }
-      ],
-      "duration_ms": 339612,
-      "name": "Veinte Trajes Verdes",
-      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
         "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 286109,
       "name": "Full House - Live",
       "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
       "artists": [
         {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
         }
       ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
       "artists": [
         {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
         }
       ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
+      },
+      "artists": [
+        {
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
+        }
+      ],
+      "duration_ms": 319386,
+      "name": "Superestrella",
+      "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Apal\u00e1p!",
         "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 493933,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 319386,
-      "name": "Superestrella",
-      "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Grabaciones In\u00e9ditas Vol. 1",
-        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
-      },
-      "artists": [
-        {
-          "name": "Enrique \"Mono\" Villegas",
-          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "In a Middle Tone",
-      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "En Las Afueras",
         "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 230133,
       "name": "Caminando Con Aud\u00edfonos",
       "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Grabaciones In\u00e9ditas Vol. 1",
+        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+      },
+      "artists": [
+        {
+          "name": "Enrique \"Mono\" Villegas",
+          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "In a Middle Tone",
+      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
-        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
+        "name": "Infinite Universe",
+        "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
       },
       "artists": [
         {
-          "name": "Nestor Astarita",
-          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
         },
         {
-          "name": "Gato Barbieri",
-          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+          "name": "Santiago Deluca",
+          "url": "https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ"
         }
       ],
-      "duration_ms": 413595,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
+      "duration_ms": 280801,
+      "name": "Infinite Universe",
+      "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1251,6 +1251,26 @@
       "duration_ms": 192615,
       "name": "Here\u00b4s That Rainy Day",
       "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
+        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
+      },
+      "artists": [
+        {
+          "name": "Nestor Astarita",
+          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
+        },
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 413595,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1291,46 +1311,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Infinite Universe",
-        "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        },
-        {
-          "name": "Santiago Deluca",
-          "url": "https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ"
-        }
-      ],
-      "duration_ms": 280801,
-      "name": "Infinite Universe",
-      "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "I Remember Clifford",
-        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Facundo Canosa",
-          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "El Ombligo de un Sue\u00f1o",
         "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 419426,
       "name": "Tatami",
       "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "I Remember Clifford",
+        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Facundo Canosa",
+          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
     },
     {
       "added_at": "2022-09-23 03:00:00",

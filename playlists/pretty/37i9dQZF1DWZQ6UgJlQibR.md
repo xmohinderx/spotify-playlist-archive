@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,661 likes - 38 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,705 likes - 38 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 8 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 |
 | 9 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
 | 10 | [El Hop Elly Kan](https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [El Layale](https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6) | 19:45 |
-| 11 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
-| 12 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
+| 11 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
+| 12 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
 | 13 | [Sallem Alayha](https://open.spotify.com/track/7wtPJEWAN0iFyR0yEaBxWX) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Ya Habibi Dawwabni L'hawa](https://open.spotify.com/album/5rX52aUXojBQb3xSdwYTvH) | 5:25 |
 | 14 | [Allaylou ya Layla](https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Top Wadie Essafi \(The Voice of Lebanon\)](https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo) | 6:01 |
 | 15 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 26 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
 | 27 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 | 28 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
-| 29 | [Nesseit El Noum](https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg) | [Rida](https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp) | [Nesseit El Noum](https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688) | 4:50 |
+| 29 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
 | 30 | [Mali \(Live\)](https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 3:54 |
-| 31 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
+| 31 | [Nesseit El Noum](https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg) | [Rida](https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp) | [Nesseit El Noum](https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688) | 4:50 |
 | 32 | [Baghdad Choby](https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF) | [Tarabband](https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA) | [Ya Sidi](https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv) | 4:37 |
 | 33 | [Ala El Aadid Ijtamaana](https://open.spotify.com/track/7FkTCLunm1yMQuRDsfJtcH) | [Ahmad Abdar](https://open.spotify.com/artist/3Zdzznb63NbHmP6Iowy22x) | [Sultan's of Al Tarab, Vol\. 4](https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65) | 2:15 |
 | 34 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 37 | [Beateriflik](https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Beateriflik](https://open.spotify.com/album/5Io8slUHRxxvIsRulY3WBI) | 9:02 |
 | 38 | [Khamratal Houbbi](https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 5:21 |
 
-Snapshot ID: `MTY2MzA3ODk3NywwMDAwMDAwMDdiODRmMDZlMTUwNGUzYjkzYWQ5ZDZjZDNiNTRlY2Q0`
+Snapshot ID: `MTY2MzA3ODk3NywwMDAwMDAwMGM0ODEyY2IyMTYwNDgxZGQ2N2IzN2U2YTM1MjJiNjAx`

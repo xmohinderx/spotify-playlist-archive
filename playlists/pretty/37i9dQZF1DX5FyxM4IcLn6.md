@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,193 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,189 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 41 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 |
 | 42 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 |
 | 43 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
-| 44 | [Nightmare](https://open.spotify.com/track/12ZCF1YHZTtygHyl1h0wEe) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 3:51 |
-| 45 | [El Flechazo y la Secuela](https://open.spotify.com/track/4dmqFKct1Bevg0rRgRJnVW) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Negro](https://open.spotify.com/album/3WaCKsMVezVSHZ5HIbQfg9) | 3:31 |
+| 44 | [El Flechazo y la Secuela](https://open.spotify.com/track/4dmqFKct1Bevg0rRgRJnVW) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Negro](https://open.spotify.com/album/3WaCKsMVezVSHZ5HIbQfg9) | 3:31 |
+| 45 | [Nightmare](https://open.spotify.com/track/12ZCF1YHZTtygHyl1h0wEe) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 3:51 |
 | 46 | [Cold](https://open.spotify.com/track/0O5DPkLlre5yNwH6Sqm2dD) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Cold](https://open.spotify.com/album/0HoUfzF16pMqueWYg6naD9) | 5:09 |
 | 47 | [Replace Me \(feat\. Big Sean & Don Toliver\)](https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:50 |
 | 48 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 70 | [Find My Way \(feat\. Beck\)](https://open.spotify.com/track/31qXplFmLu7xuTfvBEgDij) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Find My Way \(feat\. Beck\)](https://open.spotify.com/album/2XxT1xJT1xrDUdHm9xC0dx) | 4:53 |
 | 71 | [That's Life](https://open.spotify.com/track/2Wn4ZAlT5cSAdPW8xUoNwg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:39 |
 | 72 | [Native Son](https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 3:10 |
-| 73 | [Like You Love Me \(Live\)](https://open.spotify.com/track/62Qaykz4DaNtYp3Q2rgSrc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven \(Live\)](https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc) | 3:47 |
-| 74 | [A Little Soon To Say](https://open.spotify.com/track/3lJucYLm3t0XVhbQj3kxFX) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Downhill From Everywhere](https://open.spotify.com/album/2QYXmpLyttMQahrUOxLwss) | 6:25 |
+| 73 | [A Little Soon To Say](https://open.spotify.com/track/3lJucYLm3t0XVhbQj3kxFX) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Downhill From Everywhere](https://open.spotify.com/album/2QYXmpLyttMQahrUOxLwss) | 6:25 |
+| 74 | [Like You Love Me \(Live\)](https://open.spotify.com/track/62Qaykz4DaNtYp3Q2rgSrc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven \(Live\)](https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc) | 3:47 |
 | 75 | [Sassy](https://open.spotify.com/track/3BTUH65LL0kRRED0J0PaV8) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [SuperBlue](https://open.spotify.com/album/04E4IjVnj7uruPKNLSHlpj) | 4:18 |
 | 76 | [Mundo Nuevo](https://open.spotify.com/track/63lmbLq8jYrEle2iG2O7hO) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mendó](https://open.spotify.com/album/1ZkhT3Jzx0y5kcGnyq4unR) | 3:22 |
 | 77 | [Formwela 10](https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [SONGWRIGHTS APOTHECARY LAB](https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO) | 3:28 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 80 | [Judgement](https://open.spotify.com/track/65CNFUjISyOi08DsvpiUvD) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Judgement](https://open.spotify.com/album/0EugyVMjLUJEtY2ssLl1Ek) | 3:10 |
 | 81 | [Time Traveler](https://open.spotify.com/track/4Uf5U3hYFdeAebC2Bm8Wvj) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Time Traveler](https://open.spotify.com/album/6KEx3AAG8tKgtSyban6cgh) | 4:29 |
 
-Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDY4MzM2YWQ2ZjA5ZTcwMzBmY2U2ZjI2YmRlZDljMzBk`
+Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDg4YzM1OWViYjA0MDRkODU4YzZmOTVmMTZjOGRjYzU1`

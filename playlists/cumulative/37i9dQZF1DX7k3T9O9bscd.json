@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 176120,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
@@ -1943,6 +1943,24 @@
       "duration_ms": 384895,
       "name": "Jukebox Babe",
       "url": "https://open.spotify.com/track/3KZcO29G6BjqIJbdsRg0Mo"
+    },
+    {
+      "album": {
+        "name": "Jukebox Babe",
+        "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384895,
+      "name": "Jukebox Babe",
+      "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
     },
     {
       "album": {

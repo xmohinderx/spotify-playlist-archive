@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 186027,
       "name": "Autiomaa",
       "url": "https://open.spotify.com/track/1jRjMpN31x4yCkQqKSRErC"
@@ -1981,7 +1981,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
@@ -5190,6 +5190,24 @@
     },
     {
       "album": {
+        "name": "Gotta Rock",
+        "url": "https://open.spotify.com/album/1KTlhyppJefxvcvBc8Fvbv"
+      },
+      "artists": [
+        {
+          "name": "The 69 Eyes",
+          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250151,
+      "name": "Gotta Rock",
+      "url": "https://open.spotify.com/track/2lLeVEkM1pE26BbGp5xZF3"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -6845,7 +6863,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 166440,
       "name": "Ik\u00e4v\u00e4 lokakuu (feat. DJ Oku Luukkainen & Drome)",
       "url": "https://open.spotify.com/track/4EszGymPHXAJackdDxA66U"
@@ -11653,7 +11671,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -19143,7 +19161,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 365038,
       "name": "Vapaa (Mestarit)",
       "url": "https://open.spotify.com/track/6xUyD4l2ToLbUuazyY1aHV"

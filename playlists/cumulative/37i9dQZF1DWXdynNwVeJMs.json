@@ -1178,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "Sambal",
+        "url": "https://open.spotify.com/album/5bLeofMakqSrcOzSl70850"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        },
+        {
+          "name": "Nabou",
+          "url": "https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535253,
+      "name": "Mammoet",
+      "url": "https://open.spotify.com/track/4uAjMzGU1UGhiCy4dyvUxH"
+    },
+    {
+      "album": {
         "name": "Mammoet",
         "url": "https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI"
       },
@@ -1193,7 +1215,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 535253,
       "name": "Mammoet",
       "url": "https://open.spotify.com/track/6Oagzl7aiMMUInr98ICOD4"
@@ -2106,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "Sambal",
+        "url": "https://open.spotify.com/album/5bLeofMakqSrcOzSl70850"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391226,
+      "name": "Tzatz\u00ecki",
+      "url": "https://open.spotify.com/track/3iCZMLTKYgwW4BchzgKG57"
+    },
+    {
+      "album": {
         "name": "Mammoet",
         "url": "https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI"
       },
@@ -2135,7 +2175,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 391226,
       "name": "Tzatz\u00ecki",
       "url": "https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS"

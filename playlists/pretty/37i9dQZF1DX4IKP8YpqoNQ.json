@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 21219,
+  "num_followers": 21234,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDk2MWI3MmZhYWNlMTc4NWE2NDJlMDdmNjgxMDdmMWJj",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDE3MDk1MTJjZDhkYjY4NmM2MWU2ZGE1MGFiZDlhNDc3",
   "tracks": [
     {
       "added_at": "2022-02-10 23:02:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 255693,
       "name": "River - Live at SXSW 2015",
       "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "'Live' At The Apollo (Vol. II)",
-        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 247106,
-      "name": "That's Life - Live At The Apollo Theater, 1967",
-      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 226666,
       "name": "I Remember - Live",
       "url": "https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "'Live' At The Apollo (Vol. II)",
+        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "That's Life - Live At The Apollo Theater, 1967",
+      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "The Roots Come Alive",
-        "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        },
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 530866,
-      "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
-      "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Compared to What",
         "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 523333,
       "name": "Compared to What - Live",
       "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "The Roots Come Alive",
+        "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 530866,
+      "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
+      "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 469625,
-      "name": "Black Man In A White World - Live From Spotify London",
-      "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Weekend in London (Live)",
         "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 374800,
       "name": "The Ghetto - Live",
       "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 469625,
+      "name": "Black Man In A White World - Live From Spotify London",
+      "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "The Womack Live",
+        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 366773,
+      "name": "California Dreamin' - Live In Hollywood / 1968",
+      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Live and Uncensored / Live and Outrageous",
         "url": "https://open.spotify.com/album/6WAkTQuyJu9eHiX5FnUyA1"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 210666,
       "name": "These Arms Of Mine",
       "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "The Womack Live",
-        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 366773,
-      "name": "California Dreamin' - Live In Hollywood / 1968",
-      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
     }
   ],
   "unique_name": "Soul Live",

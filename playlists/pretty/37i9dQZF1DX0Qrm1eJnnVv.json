@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 2846,
+  "num_followers": 2850,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGZjZGM2NGRmM2Q4ZDk3OTc3MDEwMGJjNDBmN2Q1YzJi",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDdiZjRjYjJkYmY5NTNjMjFjM2Q2Njg0YzNkMTc0MzBj",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -179,18 +179,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
-        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
       "artists": [
         {
-          "name": "Martin Spitznagel",
-          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
         }
       ],
-      "duration_ms": 228000,
-      "name": "The Easy Winners",
-      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
+      "duration_ms": 397385,
+      "name": "Harmony Club Waltz",
+      "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -215,18 +215,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "50 Ragtime Classics: The Best of Scott Joplin",
-        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
+        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
       },
       "artists": [
         {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+          "name": "Martin Spitznagel",
+          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
         }
       ],
-      "duration_ms": 397385,
-      "name": "Harmony Club Waltz",
-      "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
+      "duration_ms": 228000,
+      "name": "The Easy Winners",
+      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "50 Ragtime Classics: The Best of Scott Joplin",
-        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
-      },
-      "artists": [
-        {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
-        }
-      ],
-      "duration_ms": 112684,
-      "name": "Wall Street Rag",
-      "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime",
         "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 215133,
       "name": "Ragtime Nightingale",
       "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "duration_ms": 112684,
+      "name": "Wall Street Rag",
+      "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
-      },
-      "artists": [
-        {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Great Scott Rag",
-      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime Classics, 1901-1919",
         "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Takes Two",
-        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
       "artists": [
         {
-          "name": "Jack & Chris Bradshaw",
-          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 165040,
-      "name": "Possum and Taters",
-      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -591,6 +575,22 @@
       "duration_ms": 85889,
       "name": "The Nonpareil",
       "url": "https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Takes Two",
+        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
+      },
+      "artists": [
+        {
+          "name": "Jack & Chris Bradshaw",
+          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Possum and Taters",
+      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Christmas Eve 1915",
-        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
-      },
-      "artists": [
-        {
-          "name": "Bill Edwards",
-          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Reindeer Rag",
-      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
         "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 255826,
       "name": "Weeping Willow (Scott Joplin)",
       "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Christmas Eve 1915",
+        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
+      },
+      "artists": [
+        {
+          "name": "Bill Edwards",
+          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Reindeer Rag",
+      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
     },
     {
       "added_at": "2020-08-19 17:18:36",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 172780,
+  "num_followers": 172851,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGIyODUyODJiNTY5OTcwYTY1MDkwYjM5YmI5NzVhMjll",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDdhZWU0M2ExYTBjZjE3MzlkNjdjNjJlMjA5NWJkMzFi",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Attempted Mustache",
         "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 201000,
       "name": "The Muse",
       "url": "https://open.spotify.com/track/2eEj2cIxdU4wm47z7UBMIC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Bring The Family",
+        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Memphis In The Meantime",
+      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
         "url": "https://open.spotify.com/album/1mLpBp6D3h869hhvLsb52a"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Raising Sand",
         "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Bring The Family",
-        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 239800,
-      "name": "Memphis In The Meantime",
-      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Leftover Feelings",
+        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "All The Lilacs In Ohio",
+      "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "The Balladeer",
         "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
       },
@@ -995,26 +1015,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Leftover Feelings",
-        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "All The Lilacs In Ohio",
-      "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Saint Mary Of The Woods",
         "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 513440,
       "name": "Choctaw Bingo",
       "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 318293,
+      "name": "Are You Alright?",
+      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1059,6 +1075,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Angel Flying Too Close to the Ground (Live at Budokan, Tokyo, Japan - Feb. 23, 1984)",
+        "url": "https://open.spotify.com/album/1O4zM6MElfZzvm3C3zIFvq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/0nyJppAEiqe7LHRjhkQroH"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -1079,18 +1111,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
       },
       "artists": [
         {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 318293,
-      "name": "Are You Alright?",
-      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
+      "duration_ms": 264200,
+      "name": "Crossroads - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1107,22 +1139,6 @@
       "duration_ms": 221413,
       "name": "Ford Econoline",
       "url": "https://open.spotify.com/track/4YBWRHOXfB3T9B1TKRT1ki"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Crossroads (Original Sountrack)",
-        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Crossroads - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 338126,
       "name": "Mother, Son and Holy Ghost",
       "url": "https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Angel Flying Too Close to the Ground (Live at Budokan, Tokyo, Japan - Feb. 23, 1984)",
-        "url": "https://open.spotify.com/album/1O4zM6MElfZzvm3C3zIFvq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/0nyJppAEiqe7LHRjhkQroH"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "God's Problem Child",
-        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "A Woman's Love",
-      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Shouted, Written Down & Quoted",
         "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+        "name": "God's Problem Child",
+        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
       },
       "artists": [
         {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 341026,
-      "name": "Way Out West",
-      "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
+      "duration_ms": 201960,
+      "name": "A Woman's Love",
+      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1411,6 +1395,22 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 341026,
+      "name": "Way Out West",
+      "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "First Rose of Spring",
+        "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/14wfXHLj8MLp59Yxe0Gesf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "First Rose of Spring",
-        "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/14wfXHLj8MLp59Yxe0Gesf"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Big Day in a Small Town",
-        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Drinkin' Smokin' Cheatin'",
-      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The River & The Thread",
         "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 198200,
       "name": "A Feather's Not A Bird",
       "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Big Day in a Small Town",
+        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Drinkin' Smokin' Cheatin'",
+      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Angel Flight",
-      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "My Favorite Picture Of You",
         "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 289791,
       "name": "Canola Fields",
       "url": "https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Love Calling",
+        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Angel Flight",
+      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Electro Melodier",
-        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 215570,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I'm A Song",
         "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 129077,
       "name": "Let's Have A Good Thing Together",
       "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Electro Melodier",
+        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 215570,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Stitch of the World",
-        "url": "https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Dusty Old Man",
-      "url": "https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Pure & Simple",
         "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
       },
@@ -2331,6 +2315,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Stitch of the World",
+        "url": "https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Dusty Old Man",
+      "url": "https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -2343,26 +2343,6 @@
       "duration_ms": 160120,
       "name": "Tell Heaven",
       "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Wynonna & The Big Noise",
-        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        }
-      ],
-      "duration_ms": 251826,
-      "name": "Keeps Me Alive",
-      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2387,18 +2367,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+        "name": "Wynonna & The Big Noise",
+        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
       "artists": [
         {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+      "duration_ms": 251826,
+      "name": "Keeps Me Alive",
+      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2415,6 +2399,22 @@
       "duration_ms": 236266,
       "name": "Taxes on the Farmer Feeds Us All",
       "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 203843,
-      "name": "House of the White Rose Boquet",
-      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Black Roses",
         "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 203843,
+      "name": "House of the White Rose Boquet",
+      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
     },
     {
       "added_at": "2022-10-14 04:00:00",

@@ -4,7 +4,7 @@
 
 > The perfect noughties blend.
 
-347 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/1Ixrmajco4KVFepb8BsSWg)
+348 songs - 22 hr 54 min - [published](https://open.spotify.com/playlist/1Ixrmajco4KVFepb8BsSWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amazed](https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:59 | 2019-06-24 | 2022-07-29 |
 | [And The Boys](https://open.spotify.com/track/6HIElrRO0GdlFZB54iVyiI) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 4:09 | 2020-06-18 | 2022-04-21 |
 | [Angel](https://open.spotify.com/track/2T4rXDppGlcy2lLuF4IyHq) | [Amanda Perez](https://open.spotify.com/artist/5DqmNLPM1kAbSBQk2FMm6b) | [Angel](https://open.spotify.com/album/3CD4hrOqlolP5zNmhVljAU) | 3:38 | 2021-07-24 | 2021-07-27 |
+| [Angel](https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:55 | 2020-06-18 |  |
 | [Angels Brought Me Here](https://open.spotify.com/track/7vur3M2Dinfhod8CO0AA06) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Twenty Ten](https://open.spotify.com/album/0f8Xtk0NDPGz4PpwlzEMBT) | 4:00 | 2019-06-08 | 2021-10-16 |
 | [Another Day in Paradise \- R&B\-Version](https://open.spotify.com/track/7rBzAkopTL4baeJGCFU7M4) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Full Moon](https://open.spotify.com/album/3BdkiVzzAPNAxWFvdGjiEs) | 4:31 | 2020-06-18 | 2022-04-21 |
 | [Apologize](https://open.spotify.com/track/6fOPuabPdAJ0HgqJFcDGb1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud \(International Version\)](https://open.spotify.com/album/72c3ugX0yPaFCtEuHPDXaY) | 3:28 | 2019-06-21 | 2021-10-16 |
@@ -354,6 +355,6 @@
 | [You Are The Best Thing](https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in the Grain](https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj) | 3:51 | 2019-06-22 | 2022-07-28 |
 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 | 2019-06-24 | 2022-06-18 |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2020-06-18 |  |
-| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2019-05-26\* |  |
+| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2019-05-26\* | 2022-10-17 |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

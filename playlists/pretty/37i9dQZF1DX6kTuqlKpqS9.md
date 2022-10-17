@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,179 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,230 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 53 | [Pa Todo el Año \- En Vivo](https://open.spotify.com/track/46CGM2PRYI0rmVjyZawVSL) | [Mariachi Imperial Azteca](https://open.spotify.com/artist/3i1TXUJiZ8xHGHddUTAvOh) | [En Directo Madrid \(En Vivo\)](https://open.spotify.com/album/3Rsryvoc0FtS2E9dJghkkc) | 3:22 |
 | 54 | [Cartas Marcadas \- En Vivo](https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 4:10 |
 | 55 | [Tatuajes \- En Vivo](https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:56 |
-| 56 | [Tristes Recuerdos \- En Vivo](https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 4:50 |
+| 56 | [Cielo Rojo \- En Vivo Auditorio Nacional](https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 4:26 |
 | 57 | [Devuélveme la vida \- En vivo](https://open.spotify.com/track/3Jdz6xdtlZc3LSBMFVUEWh) | [Los Valedores de la Sierra](https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy) | [Los Valedores de la Sierra con Mariachi \(En vivo\)](https://open.spotify.com/album/5rBdxOzPkKkV7dpcc47M3y) | 2:54 |
-| 58 | [Cielo Rojo \- En Vivo Auditorio Nacional](https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 4:26 |
+| 58 | [Tristes Recuerdos \- En Vivo](https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 4:50 |
 | 59 | [Adicto a ti \- En vivo](https://open.spotify.com/track/76C7mwUjz3AvECGmC24oXK) | [Los Valedores de la Sierra](https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy) | [Los Valedores de la Sierra con Mariachi \(En vivo\)](https://open.spotify.com/album/5rBdxOzPkKkV7dpcc47M3y) | 3:56 |
 | 60 | [Romances \(Voy a apagar la luz / Contigo aprendí / Por debajo de la mesa / El reloj / Sabor a mí / La gloria eres tú / Bésame mucho\) \- En vivo](https://open.spotify.com/track/7exfNBa2ZlzKKDikpyGyKu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 14:46 |
 | 61 | [Mujeres Divinas \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/1MyJ9P4O7Jmhvx8CtPELkx) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDk0YzcxZWJjZDU5MjhkOGNlOTQwNjg4OWMyYmY0Yzk3`
+Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDIxOWRhZGJiOGNmYWU5YTc3YmY1YmMzMGViOGY5ZTNl`

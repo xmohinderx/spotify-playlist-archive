@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Thalicia/Arte: Isu Kim
 
-201 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+202 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Esse Jogo](https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI) | [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL) | [Esse Jogo](https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt) | 2:24 | 2022-09-02 |  |
 | [Estrago](https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Atenta](https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw) | 3:01 | 2022-03-11 | 2022-09-24 |
 | [Eu Não Aceito](https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD) | [THAIIS](https://open.spotify.com/artist/6rk3l4BH83MMtX4snVTZM7) | [Eu Não Aceito](https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg) | 3:04 | 2022-01-07 | 2022-09-24 |
-| [Eu Não Sei Brincar](https://open.spotify.com/track/1JV9pzSaSkFw3S9R5ZZZSl) | [NANNY](https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt) | [Eu Não Sei Brincar](https://open.spotify.com/album/7dDuVrVyt8cPynbjZIXuH2) | 2:19 | 2022-09-23 |  |
+| [Eu Não Sei Brincar](https://open.spotify.com/track/1JV9pzSaSkFw3S9R5ZZZSl) | [NANNY](https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt) | [Eu Não Sei Brincar](https://open.spotify.com/album/7dDuVrVyt8cPynbjZIXuH2) | 2:19 | 2022-09-23 | 2022-10-17 |
 | [Eu Voltei](https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly) | [Versa Libertália](https://open.spotify.com/artist/3oyRcui3kEHDq4LNvvR4ht) | [Uma Nova Forma de Enxergar a Vida](https://open.spotify.com/album/0XtsARQNFAuGxChVgyMMgl) | 3:51 | 2022-04-01 | 2022-09-20 |
 | [Ex\-Melhor Amigo](https://open.spotify.com/track/7m604nggEys9csDMi0pTsC) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Ex\-Melhor Amigo](https://open.spotify.com/album/3siYvHqoPipVcMasKdgg3b) | 4:02 | 2022-08-19 |  |
 | [faking it](https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [faking it](https://open.spotify.com/album/6jrsAhgiUnsXTVxYeHpSLN) | 2:31 | 2022-02-25 | 2022-09-24 |
@@ -103,11 +103,12 @@
 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 | 2022-10-07 |  |
 | [Menina Erê](https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK) | [Menina Erê](https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN) | 4:12 | 2022-02-18 | 2022-05-17 |
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 | 2022-08-20 |
-| [Mercúrio Retrógrado](https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe) | [Savio di Maio](https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e) | [Mercúrio Retrógrado](https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6) | 2:36 | 2022-10-14 | 2022-10-16 |
+| [Mercúrio Retrógrado](https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe) | [Savio di Maio](https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e) | [Mercúrio Retrógrado](https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6) | 2:36 | 2022-10-14 |  |
 | [Mestre Jandaraí](https://open.spotify.com/track/4nO4BI5Z4V38AaLxPSAALf) | [Numa Gama](https://open.spotify.com/artist/3ysogI5DJYxHA5oU5Rjkjh) | [Memórias de Oneyda](https://open.spotify.com/album/3pCYN8unhawhhsRFOVqmiA) | 2:47 | 2022-01-07 | 2022-05-17 |
 | [meu bem, meu bem](https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [meu bem, meu bem](https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU) | 2:48 | 2022-09-02 |  |
 | [Meu Foco](https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [AUGE](https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ) | 3:14 | 2022-07-29 |  |
 | [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 | 2022-03-26 |
+| [Meu Mundo](https://open.spotify.com/track/7n8TcUtlwDE3uPuBMVDfPL) | [Izaki Lima](https://open.spotify.com/artist/33KnzfUaoOX9QPrF4Fy6s2) | [Meu Mundo](https://open.spotify.com/album/004cQK4QWSIdxRQNyvhkck) | 3:54 | 2022-10-14 |  |
 | [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 | 2022-07-29 |
 | [moça, veja bem](https://open.spotify.com/track/2QeUAohcBgrtawcQSybt8I) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/0JvXCZpHR706YVvpafApFh) | 4:38 | 2022-07-22 | 2022-09-24 |
 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 | 2022-09-16 |  |
@@ -137,7 +138,7 @@
 | [Pensando em Mim](https://open.spotify.com/track/1uEwqigJMPy6jwdoO9n2Xd) | [Sandyalê](https://open.spotify.com/artist/0S2198EHOgRJ1k1A8pnp3v) | [Desapego](https://open.spotify.com/album/1SkhJ5w2ZTxXXC37NIMgJU) | 3:27 | 2022-01-07 | 2022-08-20 |
 | [Perdidão](https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Perdidão](https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc) | 2:34 | 2022-08-19 |  |
 | [Perfume Do Meu Ex](https://open.spotify.com/track/5BfCUFvuUJKc7gGtOGTxdi) | [Yasmin Gomlevsky](https://open.spotify.com/artist/4X1EvqIQvKsc2v6jstmV6A) | [Perfume Do Meu Ex](https://open.spotify.com/album/7lGwGVvB6s8jOy5UFwhxBD) | 2:17 | 2022-01-07 | 2022-09-05 |
-| [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 | 2022-09-23 |  |
+| [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 | 2022-09-23 | 2022-10-17 |
 | [Pessoa que Fala](https://open.spotify.com/track/47r0MpvXwNIHjYR8JYFKYR) | [Taco de Golfe](https://open.spotify.com/artist/6holqe1VBHmQuaubxSSSNB) | [Pessoa que Fala](https://open.spotify.com/album/4wWPEZIoIena0F5xkAUQTc) | 2:43 | 2022-01-07 | 2022-08-20 |
 | [Plano Perfeito](https://open.spotify.com/track/6M85C6Rbmuftj2S3wyndQS) | [Ian Medeiros](https://open.spotify.com/artist/6NTsJGOS7l7yWJh5IOSn94) | [Varanda](https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI) | 2:36 | 2022-01-07 | 2022-09-24 |
 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 |  |

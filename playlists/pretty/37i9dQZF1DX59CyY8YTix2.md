@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: The Wisely Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,360 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,380 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 47 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 |
 | 48 | [ヘビースモーク](https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ヘビースモーク](https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd) | 5:02 |
 | 49 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
-| 50 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
+| 50 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
 
-Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMDM1OWJhODYyNDk1MjQzYjhjNWRlNmQ3MGI5NTIwYTlh`
+Snapshot ID: `MTY2NTY3MzIwMCwwMDAwMDAwMDhhOThhMjIyZjEyM2VlYjEwZGUzMWExMWZmZjQxZGZh`

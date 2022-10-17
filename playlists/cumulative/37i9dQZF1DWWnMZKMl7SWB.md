@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-273 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+274 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Where To Go](https://open.spotify.com/track/5EIPYlUGHcWXFV8DHINuBa) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/4PpRIBNZW0EW3gG3dwAuLX) | 4:11 | 2022-04-12 | 2022-07-29 |
 | [Where To Go](https://open.spotify.com/track/5VsZd4qGOSTRdsNC0XRU1F) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/7JnNqcLoD25tZeO0jQQnpW) | 4:11 | 2022-04-12 |  |
 | [Where You Are](https://open.spotify.com/track/0KRUyc5w1U3TPh7KLtEZVM) | [Coquinio](https://open.spotify.com/artist/5HPcMVzRD40VXSDzv4WqyQ) | [Where You Are](https://open.spotify.com/album/4peZV1PcMnto4anaNVETCS) | 3:07 | 2022-04-12 |  |
-| [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/2ZlEYFavXkkEF37JrjMSLp) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/37P4W95GLJ3xwW1VS25mNL) | 2:56 | 2022-04-12 |  |
+| [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG) | 2:56 | 2022-09-09 |  |
+| [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/2ZlEYFavXkkEF37JrjMSLp) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/37P4W95GLJ3xwW1VS25mNL) | 2:56 | 2022-04-12 | 2022-10-17 |
 | [Wind](https://open.spotify.com/track/6LAa61F7hUUHSci69xhnZh) | [Osoku](https://open.spotify.com/artist/7tGFPYtcRKqkiEYu9ryCcl) | [Dew](https://open.spotify.com/album/3N6iOoXO8kbOoTFLt8xqdv) | 2:47 | 2022-04-12 |  |
 | [Work Work](https://open.spotify.com/track/58yJSCXlZ93mEtEwj9cAIc) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Work Work](https://open.spotify.com/album/4J3JglCtfxFMDjjbEFbRkv) | 4:20 | 2022-04-12 |  |
 | [you a happiness](https://open.spotify.com/track/2nATgZkBUhNrnx6EsbKoAu) | [E.lementaL](https://open.spotify.com/artist/2d8wfAQVpYHvfumKsfB12Q) | [you a happiness](https://open.spotify.com/album/1vz2l5i4X0BIpDC8s9RMuq) | 5:32 | 2022-04-12 |  |

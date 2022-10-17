@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 49463,
+  "num_followers": 49557,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3MzIwMCwwMDAwMDAwMDZiYTQ5OWQzZTZjMjgwMjA3MDhmOTBjMDg5ZjllYTAx",
+  "snapshot_id": "MTY2NTY3MzIwMCwwMDAwMDAwMDE3ZmYyMGNkMDVhZGY5ZjA1NDQwZWIzOWJmYzUyZDNh",
   "tracks": [
     {
       "added_at": "2022-10-13 15:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-13 15:00:00",
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S"
-      },
-      "artists": [
-        {
-          "name": "Azari",
-          "url": "https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9"
-        }
-      ],
-      "duration_ms": 116718,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn"
-    },
-    {
-      "added_at": "2022-10-13 15:00:00",
-      "album": {
         "name": "KAF+YOU KAFU COMPILATION ALBUM \u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
         "url": "https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 163686,
       "name": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30de\u30ad\u30b7\u30de\u30a4\u30b6\u30fc",
       "url": "https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8"
+    },
+    {
+      "added_at": "2022-10-13 15:00:00",
+      "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S"
+      },
+      "artists": [
+        {
+          "name": "Azari",
+          "url": "https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9"
+        }
+      ],
+      "duration_ms": 116718,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn"
     },
     {
       "added_at": "2022-10-13 15:00:00",

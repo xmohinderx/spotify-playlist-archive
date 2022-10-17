@@ -4,13 +4,14 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/1kVU1jZDJHhCSe6mul87xq)
+59 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/1kVU1jZDJHhCSe6mul87xq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Pesar de Todo](https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:05 | 2022-06-01 |  |
 | [Acariciame](https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:07 | 2022-06-01 |  |
 | [Aerobics De Señoritas](https://open.spotify.com/track/4NcU6kxxr3KnDeQhR2yEVC) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:46 | 2022-10-12 |  |
+| [Allá en el oeste](https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:31 | 2022-10-16 |  |
 | [Balada del Parque Frio](https://open.spotify.com/track/56dBjIziLEPZmsJAZjznBM) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Balada del Parque Frio](https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY) | 2:43 | 2022-06-01 |  |
 | [Bandrobic](https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:40 | 2022-06-01 |  |
 | [Bandrobic's](https://open.spotify.com/track/26a5Wt3kbRA7bt64czqupC) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:40 | 2022-06-01 |  |
@@ -24,7 +25,7 @@
 | [Cuanto Vas](https://open.spotify.com/track/2tPbXFDG7EvmKWonhCah1H) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:54 | 2022-10-11 | 2022-10-13 |
 | [Derecho De Amarla](https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:36 | 2022-06-01 |  |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/5XuM8DbECxEgXSt1V0Bkhb) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:51 | 2022-06-07 | 2022-06-09 |
-| [El amor que soñaba](https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:52 | 2022-07-07 |  |
+| [El amor que soñaba](https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:52 | 2022-07-07 | 2022-10-17 |
 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 | 2022-06-01 |  |
 | [El Fon](https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:14 | 2022-06-01 |  |
 | [El Gato Del Vecindario](https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:31 | 2022-09-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,402 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,448 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 20 | [Hell In A Cell](https://open.spotify.com/track/3XVp1ofpR7lIYykL8yLv3B) | [Jobber](https://open.spotify.com/artist/6Qfu29KtPFPfCedfmgpTh9) | [Hell In A Cell](https://open.spotify.com/album/2tJqRWayKS0j8aVxHD7Ghw) | 4:07 |
 | 21 | [Californianated](https://open.spotify.com/track/5Tmh1XNBr15iJ9RbdDSp7Z) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [Dreams of Being on Television](https://open.spotify.com/album/0ik1Xe4aVwpHihmTMTAkxE) | 3:44 |
 | 22 | [Heaven Or Hell](https://open.spotify.com/track/3SeVLSlHtjKkmGEr8DQHD0) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Heaven Or Hell](https://open.spotify.com/album/01l3MwF9ObfZSnKPCGo8bs) | 2:29 |
-| 23 | [Pokit](https://open.spotify.com/track/4ZQgPMFGS7mLk5o69Zgf6G) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Pokit](https://open.spotify.com/album/5KysUIKLi8k9IfrtsVWgKs) | 3:03 |
+| 23 | [Pokit](https://open.spotify.com/track/7v6P3yYkFzGp0nJY14I2gi) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Pokit](https://open.spotify.com/album/5SdtmAcehpjTRZ8VGDJhYT) | 3:03 |
 | 24 | [Soft Slam](https://open.spotify.com/track/2ayuMJgUiVIw7FAjRWrjTH) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/3MwQRJAuzrzCijNZr1AoJI) | 2:45 |
 | 25 | [i got what i asked for](https://open.spotify.com/track/73zlBhD7TDSIFrmcdUYoH3) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [i got what i asked for](https://open.spotify.com/album/7uHrq6RsMnfWJOkgwGoftj) | 3:11 |
 | 26 | [I Like Losers](https://open.spotify.com/track/7CdgMy3d78rBlFlsjCfOHf) | [Molly Martin](https://open.spotify.com/artist/0hNMW0XhqFyhHaDpdo9qTp) | [I Like Losers](https://open.spotify.com/album/324CGbW2ANOiJTVj3kYqc7) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Frankie's Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankie's Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 |
 | 100 | [Pickles](https://open.spotify.com/track/650TMfLZY2yMvYXlCY7kup) | [Foyer Red](https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF) | [Pickles](https://open.spotify.com/album/2eXBMvHUDIx8NNJi1XZS0h) | 3:54 |
 
-Snapshot ID: `MTY2NTU5MDQwMCwwMDAwMDAwMDEyZjQwYjA1ZTEwZjBlZWY4ZjMyNjdjNzgwMmRjYjFk`
+Snapshot ID: `MTY2NTU5MDQwMCwwMDAwMDAwMDNiZDUxZmMzZjU3YjZiMTIxOTk1N2JjYjgyMjk5MGRl`

@@ -4,7 +4,7 @@
 
 > make it pop! cover: joan
 
-457 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+458 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [i don't wanna know!](https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [i don't wanna know!](https://open.spotify.com/album/7JVlPexG814RJNVwftsP7R) | 3:39 | 2022-09-16 | 2022-09-24 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-06-10 | 2022-08-20 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2022-01-14 | 2022-07-29 |
-| [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-16 |  |
+| [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-16 | 2022-10-17 |
+| [I Don’t Think That I Like Her](https://open.spotify.com/track/3iLBFgaQJ94iarMgzrTuWb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:08 | 2022-09-16 |  |
 | [i hate her boyfriend's face](https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [i hate her boyfriend's face](https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy) | 2:25 | 2022-05-13 | 2022-07-23 |
 | [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-16 |  |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |

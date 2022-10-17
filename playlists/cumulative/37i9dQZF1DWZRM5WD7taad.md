@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-119 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+120 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2021-12-13 | 2022-10-14 |
 | [Buscando el Sol](https://open.spotify.com/track/0X6vzLwQa5suHlByNvbOsJ) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Buscando el Sol](https://open.spotify.com/album/69WN4ZXCkezCzch1LKGr2a) | 3:19 | 2022-02-09 | 2022-04-15 |
 | [BUSINESS WOMAN](https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [BUSINESS WOMAN](https://open.spotify.com/album/3BTGhFn6HnEKGRYFTBoIzJ) | 3:47 | 2021-12-13 |  |
+| [Clean](https://open.spotify.com/track/4q9np9mNabLYcWcnl73Vfw) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Clean](https://open.spotify.com/album/6INIElfYqLQhwSIhC0vJBd) | 3:00 | 2022-10-16 |  |
 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 | 2021-12-13 |  |
 | [Confleis \(No Soy Santa\)](https://open.spotify.com/track/55SDauaBnxY86XsVfztdCU) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Confleis \(No Soy Santa\)](https://open.spotify.com/album/4yNqZUf4BwhDoDz6yIhkzP) | 2:03 | 2021-12-13 |  |
 | [Cuánto Tienes, Cuánto Vales](https://open.spotify.com/track/6jJFu4CTv2pA9esFRVJXce) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH) | [Rabiografía](https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx) | 3:33 | 2021-12-13 |  |

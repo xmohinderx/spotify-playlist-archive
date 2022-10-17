@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/6iAVNIBlFxj6iy8bBx59pl)
+68 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/6iAVNIBlFxj6iy8bBx59pl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Lost in the Flood \- Live at C.W\. Post Dome Auditorium, Greenvale, NY \- December 12, 1975](https://open.spotify.com/track/33ODNuSzPh9ratGzau67Nx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Of Location](https://open.spotify.com/album/3f9gSNrcSQxcEjWDSbOxAK) | 6:34 | 2022-05-16 | 2022-05-27 |
 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 | 2022-01-11 |  |
 | [Nebraska](https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:29 | 2022-01-11 |  |
+| [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-16 |  |
 | [One Minute You're Here](https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 2:57 | 2022-01-11 |  |
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2022-01-11 |  |
 | [Out In the Street](https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:17 | 2022-01-12 | 2022-10-14 |
@@ -68,7 +69,7 @@
 | [This Land is Your Land \- Live at Nassau Coliseum, Uniondale, NY \- December 1980](https://open.spotify.com/track/4MvJlIpDpdZi4sCXvAhrym) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band Live 1975\-85](https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD) | 4:17 | 2022-05-13 | 2022-05-17 |
 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 | 2022-01-11 |  |
 | [Tougher Than the Rest](https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:33 | 2022-01-11 |  |
-| [Trapped \- Live at Meadowlands Arena, E\. Rutherford, NJ \- August 1984](https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen \(Bonus Tracks\)](https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL) | 5:08 | 2022-01-11 |  |
+| [Trapped \- Live at Meadowlands Arena, E\. Rutherford, NJ \- August 1984](https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen \(Bonus Tracks\)](https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL) | 5:08 | 2022-01-11 | 2022-10-17 |
 | [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 | 2022-01-11 |  |
 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:16 | 2022-01-11 |  |
 | [Wasted Days \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wasted Days](https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf) | 4:31 | 2022-01-11 | 2022-04-25 |

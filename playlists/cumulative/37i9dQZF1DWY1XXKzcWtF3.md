@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-291 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
+292 songs - 1 day 6 hr 48 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Hold Onto Your Mind](https://open.spotify.com/track/2WDIAiAY53lAxDSxedRPib) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb) | [Mixed up Minds, Part 8: Obscure Rock and Pop from the British Isles, 1970\-1974](https://open.spotify.com/album/66P5PGewdm4zQJwTcgTmGq) | 3:47 | 2018-02-27 |  |
 | [Hooked on You \- The Reflex Revision](https://open.spotify.com/track/3uzebsHzwFBBYTd2qFPRh9) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [The Best Of Cerrone Productions](https://open.spotify.com/album/0kxmpyawXJXfafqkLTXryL) | 7:41 | 2018-02-27 | 2022-07-29 |
 | [Hooked on You \- The Reflex Revision](https://open.spotify.com/track/4AFWIBkFNTO1VGTvc61Ri1) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [The Reflex](https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA) | [Give Me Remixes](https://open.spotify.com/album/6nhl0hbnzH5tLKDqs3XARJ) | 7:41 | 2018-02-27 |  |
-| [House Party](https://open.spotify.com/track/0DF2L5iogeTm9DReWLoipE) | [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [House Party](https://open.spotify.com/album/0wvlGEplbeBVZjUHcnAG4R) | 4:14 | 2018-02-27 |  |
+| [House Party](https://open.spotify.com/track/0DF2L5iogeTm9DReWLoipE) | [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [House Party](https://open.spotify.com/album/0wvlGEplbeBVZjUHcnAG4R) | 4:14 | 2018-02-27 | 2022-10-17 |
+| [House Party](https://open.spotify.com/track/0VOju61QyRh81rhSLU54Ei) | [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [House Party](https://open.spotify.com/album/65cw42lHSDzEIQ15eQXhw7) | 4:14 | 2018-02-27 |  |
 | [Humpin'](https://open.spotify.com/track/3VzTIg2Noj5JLMeyOZrpqI) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Black Rock/Gotta Groove](https://open.spotify.com/album/1T59ZsVlwjqnWjopEDqirD) | 2:44 | 2018-02-27 |  |
 | [Humpin'](https://open.spotify.com/track/3RtO2zJ9NO0EkXg4D03DG0) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [The Soul Of Hip\-Hop](https://open.spotify.com/album/6wjTBSlcBgLUXccovDDgs3) | 2:44 | 2018-02-27 | 2022-07-29 |
 | [I Can Tell](https://open.spotify.com/track/0DS4w1IHELNyBBD3PEgptR) | [Chanson](https://open.spotify.com/artist/6cLO4Rp0fb3Ba0qPaGDcVe) | [Chanson \(Expanded\)](https://open.spotify.com/album/2fENtI9jTNilH2Iu9CndJb) | 7:03 | 2018-02-27 |  |

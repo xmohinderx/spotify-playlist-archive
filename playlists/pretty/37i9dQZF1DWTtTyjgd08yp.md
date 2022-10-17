@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,516 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,806 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 42 | [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 |
 | 43 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 |
 | 44 | [Rescue My Heart](https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Rescue My Heart](https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs) | 3:25 |
-| 45 | [The Cage](https://open.spotify.com/track/2K2mYJv6SOcIiAYHFAqiDO) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 4:40 |
+| 45 | [The Cage](https://open.spotify.com/track/0R5O9w8Oyq1aq43AHvLcLD) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:40 |
 | 46 | [Hold On](https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:49 |
 | 47 | [Bohemia](https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 5:15 |
 | 48 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 104 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 | 105 | [Walk Through the Fire](https://open.spotify.com/track/7isJy30YmISuhHwgz5dRDa) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Golden Age](https://open.spotify.com/album/7FMlFMWvVuAtEVmKNbh1Uh) | 3:36 |
 
-Snapshot ID: `MTYzOTE1MjQ3NywwMDAwMDAwMGJjMzY5NDgxZWJjYTJkODBjYzMyZTcyNmNkNzQ0Mjc4`
+Snapshot ID: `MTYzOTE1MjQ3NywwMDAwMDAwMDkxOWE3ZTlkYmI1Mjg3ZWU2MzE3ZTkyYmI5YThiZWIz`

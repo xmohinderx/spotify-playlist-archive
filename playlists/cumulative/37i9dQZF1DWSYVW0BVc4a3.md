@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Golden Features
 
-189 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+190 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2022-08-18 |  |
 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 | 2022-08-18 |  |
 | [Orbit \- Adriatique & Ae:ther Remix](https://open.spotify.com/track/3UXaftDIMmSdvn3VIQJBhj) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Benjamin Yellowitz](https://open.spotify.com/artist/1phQHVBN66RZdZEK1M7Zlw), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Orbit \(Adriatique & Ae:ther Remix\)](https://open.spotify.com/album/3PuUgHUpUC0E7sPLSaDd5z) | 6:34 | 2022-09-30 |  |
-| [Organic Cold Brewed Hipster Funk](https://open.spotify.com/track/3phBxj9avtQDkWblVg7s02) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Organic Cold Brewed Hipster Funk EP](https://open.spotify.com/album/1o7PXwcPMX6o3JELys9le2) | 3:55 | 2022-08-18 |  |
+| [Organic Cold Brewed Hipster Funk](https://open.spotify.com/track/3phBxj9avtQDkWblVg7s02) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Organic Cold Brewed Hipster Funk EP](https://open.spotify.com/album/1o7PXwcPMX6o3JELys9le2) | 3:55 | 2022-08-18 | 2022-10-17 |
 | [Out of Focus \(feat\. Zoot Woman\) \- Âme Remix](https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 6:24 | 2022-08-18 | 2022-09-23 |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-08-18 | 2022-08-20 |
 | [Papillon](https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Papillon](https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT) | 7:06 | 2022-08-19 |  |
@@ -153,6 +153,7 @@
 | [Something Spectacular](https://open.spotify.com/track/7h50lUuHyHLktWVMnlqpO3) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Something Spectacular](https://open.spotify.com/album/2y2xZtmk8TamVfiUTgomFU) | 2:42 | 2022-08-18 | 2022-09-16 |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-08-18 | 2022-09-24 |
 | [Song To The Siren](https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Song To The Siren](https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7) | 3:26 | 2022-09-22 |  |
+| [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-13 |  |
 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 | 2022-08-18 |  |
 | [Starter](https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Starter](https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0) | 2:58 | 2022-08-18 |  |
 | [Stepper](https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 3:26 | 2022-10-06 |  |

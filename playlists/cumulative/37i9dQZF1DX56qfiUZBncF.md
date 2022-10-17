@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-235 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+236 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Confidence \(feat\. Jon Waltz\)](https://open.spotify.com/track/6cMKaS2ZRD8GDgdTdufanl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 4:20 | 2021-02-06 | 2021-12-30 |
 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 | 2020-11-04\* |  |
 | [creep](https://open.spotify.com/track/0OcoZJjaHsYmYZhzT3F3oL) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [creep](https://open.spotify.com/album/7g8SNpeL6pJL8ZlFLQ9C27) | 3:30 | 2021-03-19 | 2022-07-10 |
+| [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 | 2022-04-29 |  |
 | [creep](https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:30 | 2022-04-29 | 2022-10-13 |
 | [Dancing](https://open.spotify.com/track/5WuP4r3XELVbdkYyZgtwwH) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Age of Experience](https://open.spotify.com/album/5he0TqGD4981oGGjqCvRUq) | 3:52 | 2020-11-04\* | 2022-07-08 |
 | [Die Young](https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:30 | 2022-04-29 |  |
@@ -190,7 +191,7 @@
 | [Someone Else’s Dream](https://open.spotify.com/track/0N7uBJVtUegyKXKegKgjHX) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr) | [Someone Else’s Dream](https://open.spotify.com/album/3DnnsbnubMRwgTADhTGR6f) | 3:20 | 2020-11-04\* | 2020-11-13 |
 | [Someone Else’s Dream \(Trinix Remix\)](https://open.spotify.com/track/24QviWGfzSuXhgkr8uV65m) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Someone Else’s Dream \(Trinix Remix\)](https://open.spotify.com/album/2QinoNdXaKow3kuH9vFYCv) | 3:03 | 2020-11-13 | 2022-08-18 |
 | [Someone To Stay](https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Revival](https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC) | 4:14 | 2020-11-04\* |  |
-| [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 | 2020-12-04 |  |
+| [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 | 2020-12-04 | 2022-10-17 |
 | [something more](https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [something more](https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL) | 3:16 | 2020-11-04\* |  |
 | [Stars](https://open.spotify.com/track/7wUtNPvxERJ3437260YB7Q) | [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0) | [In Space!](https://open.spotify.com/album/4mitPuchrGEPAXM0fa27m8) | 2:58 | 2020-11-04\* | 2022-07-23 |
 | [Stay Around](https://open.spotify.com/track/2XpU8iBeK0TKJOFE3feUsA) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Stay Around](https://open.spotify.com/album/7o8Hj6zzWLcYJ4FwUjxgQv) | 2:54 | 2020-11-20 | 2022-07-29 |

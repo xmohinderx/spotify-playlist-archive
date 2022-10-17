@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-150 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+151 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Haze](https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Haze](https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu) | 2:08 | 2022-08-19 |  |
 | [I Hold Dearly \(For Miles\)](https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Natsukashii](https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc) | 5:17 | 2022-03-17 |  |
 | [I Know We Promised](https://open.spotify.com/track/5KUYsVRILcXhs2C5mwe8O5) | [ANQUETIL](https://open.spotify.com/artist/3yfN35BfrYCb1nRojr9k2O) | [I Know We Promised](https://open.spotify.com/album/1utZ4FvOpJto27aOpa7EBo) | 3:02 | 2022-03-17 | 2022-07-29 |
+| [I Lost You When the Rain Sang a Song \- Original Mix](https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2) | [Seven24](https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7), [Soty](https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ) | [Leave No Path Untaken](https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU) | 2:40 | 2022-10-14 |  |
 | [Ikigai](https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Ikigai](https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi) | 4:55 | 2022-05-18 |  |
 | [Iniss](https://open.spotify.com/track/6iKmkAjS7frYZsAgTZA7tw) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Drifting](https://open.spotify.com/album/0TR3j5R8ecFuefaB6xgAi4) | 7:20 | 2022-05-18 | 2022-07-22 |
 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 | 2022-03-17 |  |
@@ -145,7 +146,7 @@
 | [Undone](https://open.spotify.com/track/0BqU3lLOYW0OLRpNhvKDUC) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 2:36 | 2022-07-01 |  |
 | [Unfolding \(feat\. Goldmund\)](https://open.spotify.com/track/3TY0bVEJuSw1m80A9g6i9N) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Quiet Drift](https://open.spotify.com/album/07tYs3VgPhfY8sUe097xAo) | 2:57 | 2022-03-17 | 2022-07-29 |
 | [Upstream](https://open.spotify.com/track/3dAQ9qpxPkRg3U5stdog6i) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [Upstream](https://open.spotify.com/album/6ckbxqv6WBX9MbmkaC3axo) | 3:31 | 2022-03-17 |  |
-| [Upward Swimming Fish](https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 3:12 | 2022-05-25 |  |
+| [Upward Swimming Fish](https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 3:12 | 2022-05-25 | 2022-10-17 |
 | [Vanir \- Endless Melancholy Rework](https://open.spotify.com/track/2V4D7nvTxdd0LGW58sVp18) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Endless Melancholy](https://open.spotify.com/artist/7hYVnkmEfs0BP27MvYAFEw) | [The Fallout](https://open.spotify.com/album/4tRQM2yaKGtDHqZmE1ayzP) | 3:54 | 2022-03-17 |  |
 | [Waiting For The Wind To Blow](https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 5:34 | 2022-03-17 | 2022-10-15 |
 | [Wake](https://open.spotify.com/track/4M1hruYTFKjnNnJKcZpVp1) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [O Woods / Wake](https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS) | 2:12 | 2022-03-17 |  |

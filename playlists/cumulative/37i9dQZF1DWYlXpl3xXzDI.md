@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-167 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+169 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Almost Made It](https://open.spotify.com/track/2pdYfeHGmZw01rqbspFIoZ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Almost Made It](https://open.spotify.com/album/5erOgjYwyCKsY3z48gLOCW) | 2:33 | 2017-12-03 | 2022-07-29 |
 | [Almost Made It](https://open.spotify.com/track/5U7bIVFI1JlX73x6t8SDyP) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Look Ahead And See The Distance](https://open.spotify.com/album/1RF4gKAj3jE2vs33zG3OR1) | 2:33 | 2017-12-03 |  |
 | [And the Birds Sing](https://open.spotify.com/track/2dU1nKAltV9lWPfuHdHwnI) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/0dcdC8vKdmAEAl6J24SP7p) | 3:41 | 2017-12-03 | 2022-07-29 |
-| [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 | 2017-12-03 |  |
+| [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 | 2017-12-03 |  |
+| [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 | 2017-12-03 | 2022-10-17 |
 | [Anywhere We Go \- Stripped Down](https://open.spotify.com/track/1ySq58mz23a7QPEks7l0bk) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Friends](https://open.spotify.com/album/6cvpbHwqX983HJKRLZgWH3) | 3:38 | 2017-12-03 |  |
 | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH) | [Max Brodie](https://open.spotify.com/artist/08Fba5XNvK4sXAbH68DYPf), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/album/4IWLXhyvj0rH2cm5VwuuW9) | 2:44 | 2017-12-03 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2017-12-03 |  |
@@ -27,7 +28,8 @@
 | [Corners](https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Corners](https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM) | 3:39 | 2017-12-03 |  |
 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2022-03-08 |  |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-03-08 | 2022-07-29 |
-| [Day to Day for 6 Days a Week](https://open.spotify.com/track/4TRRAsZlSanRqzmsCaJ5XM) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/3UzRNNQbZ8X9mziFPaknwg) | 5:06 | 2017-12-03 |  |
+| [Day to Day for 6 Days a Week](https://open.spotify.com/track/4TRRAsZlSanRqzmsCaJ5XM) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/3UzRNNQbZ8X9mziFPaknwg) | 5:06 | 2017-12-03 | 2022-10-17 |
+| [Day to Day for 6 Days a Week](https://open.spotify.com/track/50JxXwTIEITUAXD0rvXNdX) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/5s0L3TKdsrVc3OdWd6Rmly) | 5:06 | 2017-12-03 |  |
 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 | 2017-12-03 |  |
 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 | 2017-12-03 |  |
 | [Die A Happy Man](https://open.spotify.com/track/6uTb5oNK9RkTjxmh73W7MG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/5EJgQd6IcN7xvdmpARRk5b) | 3:47 | 2017-12-03 | 2022-07-29 |

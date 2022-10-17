@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,115 likes - 155 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,415 likes - 155 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 115 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 |
 | 116 | [Years](https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Years](https://open.spotify.com/album/7EQCaA5lc3mMuOm22sam4G) | 2:59 |
 | 117 | [Miracles](https://open.spotify.com/track/2gZ6nr4rWkXfvSrjXQPqVw) | [Peter Matthew Bauer](https://open.spotify.com/artist/4ZMQlzOFrvOftjt1rjl8YR) | [Miracles](https://open.spotify.com/album/08lVhGcNnx8ewWYeZdfaWM) | 4:57 |
-| 118 | [When We Believed](https://open.spotify.com/track/2M96CvONxv50KSBXmk8y7P) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [When We Believed](https://open.spotify.com/album/4B0rlS0ZJibT9OaywaCuRv) | 4:01 |
+| 118 | [When We Believed](https://open.spotify.com/track/3Qw58rdnA6mmmhrg8C3Bv7) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Looking Glass](https://open.spotify.com/album/00hzdJCM7mCbwkDRgN7r5n) | 4:01 |
 | 119 | [the 1](https://open.spotify.com/track/3mipsRC26uYJ3oHCiVbJtu) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [the 1](https://open.spotify.com/album/1a850BtWWf4Z3Id0O9i7s4) | 3:10 |
 | 120 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 121 | [Ribbon](https://open.spotify.com/track/1WqFHjbAWuEGQtnN7ZWCAc) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Ribbon](https://open.spotify.com/album/0qYCQLtON8POjPxRvONgQg) | 3:04 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 154 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 155 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDFhNmNkZTZmZTAwODk5NjJhYzlmNGQyMGI0NWQ5MWM5`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGQxOWU3ZTNjMWUwNDlkYzNiNGQyNWE0ODY3YWU1NDQ3`

@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=w3tdAOO\-QRS4uwjGscrqbQ">Msaki</a> and <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=FdzYOMtfSmm7UCrE7tUOVA">Sun\-El Musician</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3?si=Xv5EZXQ5R4OtBgobLBjTxA">Afrotraction</a>
 
 270 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 

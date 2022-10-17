@@ -4,7 +4,7 @@
 
 > Nights on your own? I bet you think about me\. Cover: Jessie Murph
 
-352 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+353 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Brave Face](https://open.spotify.com/track/4yB1s08jEfpRMb0K07qCE9) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Brave Face](https://open.spotify.com/album/4YhEfpdQjOL3gWgrZi7C3K) | 3:18 | 2022-03-11 | 2022-05-20 |
 | [break my heart](https://open.spotify.com/track/5nlKcuzD8Pd79njhGXt1vT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [break my heart](https://open.spotify.com/album/3Bx72slNcFS4gRjmtiBl7b) | 2:58 | 2022-09-02 |  |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-01-14 | 2022-05-18 |
+| [Break My Heart Again](https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh) | 3:58 | 2022-09-16 |  |
 | [Break My Heart Again](https://open.spotify.com/track/2is19a6HY7ZdWP654IMhEE) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Break My Heart Again](https://open.spotify.com/album/3vh5Rvh2LVovpYKhrnSndx) | 3:58 | 2021-12-17 | 2022-10-13 |
 | [Broken](https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Broken](https://open.spotify.com/track/3JE04xcSOB8zuUzzazuaDj) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/2p0wIeEZOvOp61z7nrACjC) | 3:15 | 2022-07-22 |  |
@@ -314,7 +315,7 @@
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-12-17 | 2022-05-20 |
 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 | 2022-08-19 | 2022-10-01 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-17 |  |
-| [trust issues](https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [trust issues](https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN) | 2:14 | 2022-09-30 |  |
+| [trust issues](https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [trust issues](https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN) | 2:14 | 2022-09-30 | 2022-10-17 |
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 | 2022-05-19 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |
 | [Twenty\-Two](https://open.spotify.com/track/42Jl9YIutlOqAAAAOWGetE) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Twenty\-Two](https://open.spotify.com/album/6XwUfDJzqfYgxo6PSAFUHh) | 3:10 | 2022-05-27 | 2022-06-17 |

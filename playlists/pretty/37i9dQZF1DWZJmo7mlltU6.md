@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dayglow
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,706 likes - 105 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,816 likes - 105 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 83 | [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 |
 | 84 | [‎whiskey](https://open.spotify.com/track/7yH1ewkwvwh2SaKFqXnXYW) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:25 |
 | 85 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 |
-| 86 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 |
+| 86 | [Party on My Own](https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/10ThcyuelklNj1vif5GhTW) | 3:39 |
 | 87 | [Turn the Lights Down Low](https://open.spotify.com/track/1SNhcEKK6m83oLxLWQJcqk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Pink Room](https://open.spotify.com/album/1Hu2L5nA5Rg48bKOtIkmJB) | 3:12 |
 | 88 | [suitable](https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [suitable](https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez) | 3:18 |
 | 89 | [experimento.mp3](https://open.spotify.com/track/4gBYdUeR9pDuGDXQOECqVh) | [Lu Demie](https://open.spotify.com/artist/0UngCHHTGXq1hWlQCuqDmb) | [experimento.mp3](https://open.spotify.com/album/2af8vzDgiAlMXUwfaaMID9) | 2:03 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 104 | [far](https://open.spotify.com/track/0HMvbr4qGFyp4jjIzlFNRN) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [33](https://open.spotify.com/album/4jEBsdVo24FkbfSlctvoJI) | 4:09 |
 | 105 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGFiZTIxMDYyYmRmMjkwY2I1ZDI1OTIyYTdlNWI1NmY4`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDhjNGEwYzBiODY1MGNjZjdkY2ZjMzA3ZjYzNjQyMDJk`

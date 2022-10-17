@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,752 songs - 4 day 5 hr 30 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,753 songs - 4 day 5 hr 34 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,6 +808,7 @@
 | [ithinkilikeu](https://open.spotify.com/track/66MwqT9J5WEncDlM1oUS2E) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [ithinkilikeu](https://open.spotify.com/album/3xnv86dTt22Ebu2bsjKFSp) | 1:54 | 2021-10-16 | 2021-10-31 |
 | [Its Way With Me](https://open.spotify.com/track/4ozdSH2MuFoABtDWa4S1mJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Its Way With Me](https://open.spotify.com/album/7JvQaezYGVWAlEt079zFvB) | 4:36 | 2021-07-11 |  |
 | [Jade](https://open.spotify.com/track/1EP5xEYpW1uEYHAZIVEQqc) | [Taylor Castro](https://open.spotify.com/artist/1RA3K5sRdBeTys4cvTisON) | [Jade](https://open.spotify.com/album/1TusGaotu13zdgv0Pw0Osi) | 4:11 | 2021-11-27 | 2021-12-12 |
+| [Jam Suspect](https://open.spotify.com/track/6zGxIWsmJTsiJvAOY1HdEA) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Jam Suspect](https://open.spotify.com/album/32olRxICcCsDpRml51dMQb) | 4:00 | 2022-10-16 |  |
 | [Japan \(Cory Enemy Remix\)](https://open.spotify.com/track/0O7svJdqeBtBmx8hQLQrp8) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [Cory Enemy](https://open.spotify.com/artist/4dJlBSxhy0VNbtPt5qsFHO) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 2:49 | 2020-07-21 | 2020-08-02 |
 | [Jaws Of The Jungle](https://open.spotify.com/track/4rIftODZqgJcr2QiobT3Ks) | [Luke Biscan](https://open.spotify.com/artist/0ecmjFQ7mFaYMfC0jQMbFd) | [Revivalist](https://open.spotify.com/album/5zwp50Ie1exYWLvgcvCzLQ) | 5:58 | 2021-05-21 | 2021-06-06 |
 | [Jealous](https://open.spotify.com/track/0TxFoC0nmk01L9DTYYfRtX) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w), [JOEY DJIA](https://open.spotify.com/artist/1AnMnH9dLWFjuQ1DU4gOGb) | [Jealous](https://open.spotify.com/album/3Cm0tyTWOMnQ0uVVa4fSSm) | 3:15 | 2021-02-06 | 2021-02-20 |

@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠
 
-227 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
+228 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Clear My Mind](https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Clear My Mind](https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0) | 2:35 | 2021-02-26 | 2022-07-29 |
 | [Coaster](https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:19 | 2019-06-19\* |  |
 | [Coloring](https://open.spotify.com/track/2FFYeeIB7Vxj5qL8xr7Kd6) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Coloring](https://open.spotify.com/album/0hy2FQyGcmZ9dUMWQZg3gi) | 3:39 | 2019-05-26\* | 2019-06-19 |
-| [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/album/0kKVLuYfFt1VSxaFSP0Cxb) | 3:55 | 2019-05-26\* |  |
+| [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/album/0kKVLuYfFt1VSxaFSP0Cxb) | 3:55 | 2019-05-26\* | 2022-10-17 |
 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 | 2020-09-05 | 2022-04-16 |
 | [Coming Down \(with Ari Lennox\)](https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:36 | 2022-04-29 |  |
 | [CON TAL](https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [CON TAL](https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm) | 2:54 | 2021-05-05 | 2022-07-25 |
@@ -225,6 +225,7 @@
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-29 |  |
 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 | 2019-06-19\* |  |
 | [Whoa](https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:19 | 2021-02-10 | 2022-10-13 |
+| [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 | 2022-10-13 |  |
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-15 | 2022-07-29 |
 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 | 2022-10-05 |  |
 | [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2019-06-19\* |  |

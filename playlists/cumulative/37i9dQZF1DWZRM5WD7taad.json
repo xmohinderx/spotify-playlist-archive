@@ -428,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/6INIElfYqLQhwSIhC0vJBd"
+      },
+      "artists": [
+        {
+          "name": "Caroh",
+          "url": "https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180801,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/4q9np9mNabLYcWcnl73Vfw"
+    },
+    {
+      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },

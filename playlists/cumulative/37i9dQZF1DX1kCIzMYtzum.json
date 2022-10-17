@@ -2600,6 +2600,32 @@
     },
     {
       "album": {
+        "name": "It's Ours",
+        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200299,
+      "name": "It's Ours - Short Mix",
+      "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Take You High",
         "url": "https://open.spotify.com/album/3XapOB6DvwWEvaLH91I5Ex"
       },
@@ -5075,7 +5101,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 169523,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"

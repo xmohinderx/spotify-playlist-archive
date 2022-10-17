@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 282044,
+  "num_followers": 282145,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM5Mjg2MywwMDAwMDAwMGM4YTZhMDAxY2YwMjU3MjM0ODI3YzFmYTIzNjQxOTMy",
+  "snapshot_id": "MTY2NTM5Mjg2MywwMDAwMDAwMDYwYjA1MWRlMWMxZTllMmIxY2IwMjJlMDY1YjQ1ZDcz",
   "tracks": [
     {
       "added_at": "2022-09-28 08:27:51",
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
-      "added_at": "2022-10-16 01:36:54",
+      "added_at": "2022-10-17 01:39:36",
       "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-09-28 08:27:51",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+        "name": "Loyalty Over Royalty",
+        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+      "duration_ms": 123262,
+      "name": "Whoopty",
+      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
     },
     {
       "added_at": "2022-09-28 08:27:51",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-09-28 08:27:51",
       "album": {
-        "name": "Loyalty Over Royalty",
-        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
       "artists": [
         {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 123262,
-      "name": "Whoopty",
-      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2022-09-28 08:27:51",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-09-28 08:27:51",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
-    },
-    {
-      "added_at": "2022-09-28 08:27:51",
-      "album": {
         "name": "DUMMY BOY",
         "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 126385,
       "name": "Elastic",
       "url": "https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv"
+    },
+    {
+      "added_at": "2022-09-28 08:27:51",
+      "album": {
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2022-09-28 08:27:51",

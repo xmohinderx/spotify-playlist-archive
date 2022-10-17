@@ -1642,6 +1642,24 @@
     },
     {
       "album": {
+        "name": "Bajka (K. K. Baczy\u0144ski)",
+        "url": "https://open.spotify.com/album/6mu03OW0CS5DHNYZRkIdNX"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279333,
+      "name": "Bajka (K. K. Baczy\u0144ski)",
+      "url": "https://open.spotify.com/track/4YRE7sIZcaKdMCb21gFHKc"
+    },
+    {
+      "album": {
         "name": "EXTRAVAGANZA",
         "url": "https://open.spotify.com/album/0p4dp2ioreo7WaZJudIfr5"
       },
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -5225,7 +5243,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 161495,
       "name": "Fiu Fiu",
       "url": "https://open.spotify.com/track/015G3HCwWqUdTfXfXkMwX2"
@@ -17227,7 +17245,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 190445,
       "name": "Wygl\u0105dasz Idealnie",
       "url": "https://open.spotify.com/track/5AaRBuYteJwl8qRU33Zo1K"

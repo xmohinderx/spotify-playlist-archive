@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring coco & clair clair
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,931 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,006 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 77 | [beau.tiful\*\*](https://open.spotify.com/track/2oIkVbw4yq6NzknYeIRgMq) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [beau.tiful\*\*](https://open.spotify.com/album/2RoWze0TVIWv0R56AqHNC4) | 2:04 |
 | 78 | [Mi Vuoi](https://open.spotify.com/track/1ikqAuCuqQX03No5WGVrqz) | [Ultraflex](https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg), [Kuntessa](https://open.spotify.com/artist/3vJiNTj6tI54H1wa61rDlU) | [Mi Vuoi](https://open.spotify.com/album/5uyb2mrD2v7jSeqtWBcb64) | 4:11 |
 | 79 | [Bicstan](https://open.spotify.com/track/0b6WQuGWBGaRvAReIbx4uT) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar \(Megamix\)](https://open.spotify.com/album/3fvbf15lOAF0RcVQ84X7ow) | 4:45 |
-| 80 | [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 |
+| 80 | [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 |
 | 81 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 |
 | 82 | [Long Time No See](https://open.spotify.com/track/0Tm7G3FNuVfUgeJ4SzPIAQ) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Long Time No See](https://open.spotify.com/album/48SnkQ3ugM4QwvkFNzEuyW) | 1:51 |
 | 83 | [Lose Our Minds](https://open.spotify.com/track/4C5dI7ps3TgYSijQZv95gF) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/7ajdIFTb0yueDF5X4IhYr9) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 99 | [C\-C\-Come On](https://open.spotify.com/track/0M1c4H0xUfMzbw1RZD7D7R) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [C\-C\-Come On](https://open.spotify.com/album/1RZIuaEENRWBqVRDKtyHuW) | 3:39 |
 | 100 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDI2NTljMjA2MmIxZmY4NDUwMDVkMjU5MDBlY2I0YTM5`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDdiNjM1MzA5NDNlYmMyZjFhMmQxZjlmZmY2NDA0ZDA4`

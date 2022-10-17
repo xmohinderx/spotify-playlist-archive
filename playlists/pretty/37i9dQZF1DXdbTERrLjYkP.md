@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,974 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,104 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [To The Bone](https://open.spotify.com/track/31A6HUffhAwFHlk5akfxiD) | [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [To The Bone](https://open.spotify.com/album/2pBLBGkgGi5xgoPz5Wqudg) | 4:01 |
 | 85 | [Devil's Work](https://open.spotify.com/track/0RRZVMWLdovT58YKbVG4sV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Devil's Work](https://open.spotify.com/album/5E0v1l0J7Nd3smRv9NYMKk) | 3:30 |
 | 86 | [Astronaut](https://open.spotify.com/track/7oC2PFdQllzwRhsaTWQUAX) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Astronaut](https://open.spotify.com/album/1lvviZbYiV4VJpawVDcXVm) | 4:29 |
-| 87 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/7bIoxoBmjIIO5qazZNKXI1) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/713FODmo5rvUqDtgPhOeYm) | 3:05 |
+| 87 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/1jzM9IcYwaKZZLh1LTSxFc) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [how to get through a breakup](https://open.spotify.com/album/0d4s3UnuE7jVxpxJErAehX) | 3:05 |
 | 88 | [Younger Self](https://open.spotify.com/track/6URJ4SjwwDw8XOFwYN6rY5) | [Nancy Daines](https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR) | [Younger Self](https://open.spotify.com/album/6AkBIRxlFJ7lW4gcjl3aNe) | 3:23 |
 | 89 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 |
 | 90 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDI1YTJiMmM3ZjhiOWU1NDZhZDdkOWZjMWRjODU1OTkx`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDQxOWExYjBkOGU2NGRmMzhjMjhkNjgzMzYwNGQ2MmFm`

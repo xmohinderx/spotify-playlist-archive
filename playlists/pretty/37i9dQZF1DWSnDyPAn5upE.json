@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 20421,
+  "num_followers": 20480,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNzIyMiwwMDAwMDAwMDUzN2M2MDU5YWMyNDQ0OGRlNDRjZGQ2NDQ3ZjI5Mzcw",
+  "snapshot_id": "MTY2NTQwNzIyMiwwMDAwMDAwMDc1ZWRlYmZhNjU1MWMwMWRjZjI1NzQxNjRhMzFiM2Jj",
   "tracks": [
     {
       "added_at": "2022-10-10 13:07:02",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-10 13:07:02",
       "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1"
-    },
-    {
-      "added_at": "2022-10-10 13:07:02",
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 256682,
       "name": "Morning Room I",
       "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+    },
+    {
+      "added_at": "2022-10-10 13:07:02",
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1"
     },
     {
       "added_at": "2022-10-10 13:07:02",
@@ -827,6 +827,26 @@
     {
       "added_at": "2022-10-10 13:07:02",
       "album": {
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+      },
+      "artists": [
+        {
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
+        },
+        {
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+        }
+      ],
+      "duration_ms": 96450,
+      "name": "Clotho",
+      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
+    },
+    {
+      "added_at": "2022-10-10 13:07:02",
+      "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 114080,
       "name": "Chapitre I",
       "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2022-10-10 13:07:02",
-      "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2022-10-10 13:07:02",
@@ -875,6 +879,22 @@
     {
       "added_at": "2022-10-10 13:07:02",
       "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+    },
+    {
+      "added_at": "2022-10-10 13:07:02",
+      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 295623,
       "name": "Silent Talk",
       "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2022-10-10 13:07:02",
-      "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
-      },
-      "artists": [
-        {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
-        },
-        {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
-        }
-      ],
-      "duration_ms": 96450,
-      "name": "Clotho",
-      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
     },
     {
       "added_at": "2022-10-10 13:07:02",

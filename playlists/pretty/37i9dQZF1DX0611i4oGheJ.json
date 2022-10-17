@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 356385,
+  "num_followers": 356611,
   "original_name": "Soft + Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGFmYzU4OTZjZWExMTMzYTA4MWMyMWIxOWQ1ZmEyYmNl",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDBkMDc3ZjI4YjFmMjc0NDhjNDc2NmQzYzM3ZDFmMzQ3",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Raining in June",
-        "url": "https://open.spotify.com/album/6QV1td1iGOspFOKYZOfUbv"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
       },
       "artists": [
         {
-          "name": "Olive Klug",
-          "url": "https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 166138,
-      "name": "Raining in June",
-      "url": "https://open.spotify.com/track/72Q3BQhu0w6A81ouAUp7UL"
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+        "name": "Raining in June",
+        "url": "https://open.spotify.com/album/6QV1td1iGOspFOKYZOfUbv"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Olive Klug",
+          "url": "https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU"
         }
       ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
+      "duration_ms": 166138,
+      "name": "Raining in June",
+      "url": "https://open.spotify.com/track/72Q3BQhu0w6A81ouAUp7UL"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 230626,
       "name": "Pale November Dew",
       "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Young In All The Wrong Ways",
-        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Without A Word",
-      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Young In All The Wrong Ways",
+        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Tree of Forgiveness",
         "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 209047,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "San Isabel",
         "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
+      "duration_ms": 257426,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 179188,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Humble & Kind",
-      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Great Irish Songbook",
         "url": "https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 326160,
       "name": "The West Coast Of Clare",
       "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Humble & Kind",
+      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1775,6 +1775,26 @@
       "duration_ms": 144946,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Love Flew Away",
+        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 147346,
+      "name": "Love Flew Away",
+      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1907,22 +1927,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Putting On Airs",
-        "url": "https://open.spotify.com/album/5y03U2xxe0NBrI5KSr2jGK"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Love Like Before",
-      "url": "https://open.spotify.com/track/49WsO9PLacmb7L8jGljs8N"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
       },
@@ -1935,6 +1939,22 @@
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Putting On Airs",
+        "url": "https://open.spotify.com/album/5y03U2xxe0NBrI5KSr2jGK"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Love Like Before",
+      "url": "https://open.spotify.com/track/49WsO9PLacmb7L8jGljs8N"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1955,6 +1975,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 173231,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "All American Made",
         "url": "https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN"
       },
@@ -1971,22 +2007,6 @@
       "duration_ms": 379855,
       "name": "Learning to Lose (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Transcendence",
-        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 173231,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -2051,26 +2071,6 @@
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Love Flew Away",
-        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 147346,
-      "name": "Love Flew Away",
-      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
     }
   ],
   "unique_name": "Soft + Slow",

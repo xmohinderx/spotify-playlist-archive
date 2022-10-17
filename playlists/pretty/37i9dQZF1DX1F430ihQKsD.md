@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,287 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,320 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 59 | [JD](https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI) | [Amki](https://open.spotify.com/artist/5xKr6yXoMkJVDj8NUt2KW1) | [JD](https://open.spotify.com/album/29UvcSPfJphjgNqgFLL9wr) | 3:46 |
 | 60 | [Fleur de l'Âge](https://open.spotify.com/track/1AtvnJLYXb0eUy0JElcoPC) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:25 |
 | 61 | [Janet Planet](https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Empty Seats](https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw) | 3:21 |
-| 62 | [Looking for Your Love](https://open.spotify.com/track/56sH4u4DPY9xUkog8vGDCp) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/5oatubY6iB4ukJXQDsCWRe) | 4:34 |
+| 62 | [Looking for Your Love](https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/0nJFWlwfiAbiXhyQizaJT9) | 4:34 |
 | 63 | [Pissed Black Girl](https://open.spotify.com/track/5NBi6f7uxPrZNuF7WLPFRG) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/4NuEobCoQql8flhysav4Xs) | 3:25 |
 | 64 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 |
 | 65 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 |
 | 100 | [Colosse](https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 4:27 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGE2MTE5NDBhYjJlNjJmNmEwNjU1YWFjZjJiOWExN2Q3`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDFmODYwMmEwYTAyYmEyNDQyYjFhYWJmZjk5NzhlY2Y0`

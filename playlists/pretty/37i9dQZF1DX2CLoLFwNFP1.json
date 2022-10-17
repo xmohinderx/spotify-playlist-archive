@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 6401,
+  "num_followers": 6483,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMGM1ZjlkMzgyYTgwMDMxY2UxYzE5MzA3Y2M1YTRkMTgz",
+  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDc2YjdjMWMxYWNhNWQ5ZDljMmQ3N2Y5Njg2N2JiNDEy",
   "tracks": [
     {
       "added_at": "2022-08-18 14:34:32",
@@ -195,30 +195,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Point Of View: U",
-        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Love The Way (Feat. Jay Park & punchnello)",
-      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -243,6 +219,30 @@
       "duration_ms": 188106,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Point Of View: U",
+        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Love The Way (Feat. Jay Park & punchnello)",
+      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -871,22 +871,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Everybody Sucks",
-        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
+        "name": "Dior Socks",
+        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
       },
       "artists": [
         {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+          "name": "Jay Loud",
+          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 209449,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe"
+      "duration_ms": 213306,
+      "name": "Dior Socks",
+      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -915,22 +915,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Dior Socks",
-        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
+        "name": "Everybody Sucks",
+        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
       },
       "artists": [
         {
-          "name": "Jay Loud",
-          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 213306,
-      "name": "Dior Socks",
-      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
+      "duration_ms": 209449,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1654,11 +1654,15 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+      "duration_ms": 228840,
+      "name": "SOJU (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1670,15 +1674,11 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 228840,
-      "name": "SOJU (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1695,6 +1695,46 @@
       "duration_ms": 210344,
       "name": "I Don\u2019t Disappoint",
       "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1723,26 +1763,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 163531,
       "name": "Replay",
       "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
-        }
-      ],
-      "duration_ms": 243492,
-      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
-      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 256642,
-      "name": "In This B*tch",
-      "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -2099,6 +2083,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 256642,
+      "name": "In This B*tch",
+      "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
       },
@@ -2111,34 +2111,6 @@
       "duration_ms": 240736,
       "name": "Ride Me",
       "url": "https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Birthday Gamble",
-        "url": "https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 282279,
-      "name": "Birthday - Remix",
-      "url": "https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2167,6 +2139,34 @@
       "duration_ms": 318747,
       "name": "SOJU - Remix",
       "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Birthday Gamble",
+        "url": "https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 282279,
+      "name": "Birthday - Remix",
+      "url": "https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG"
     },
     {
       "added_at": "2022-08-18 14:34:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,583 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,595 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 14 | [En Eso No Quedamos](https://open.spotify.com/track/1JqyD8BNhTpqEkpgeJRdaD) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:09 |
 | 15 | [La Lloradera](https://open.spotify.com/track/5XMKMu698zpti1TwbCUrZr) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Lloradera](https://open.spotify.com/album/309Ivzn5Ygopg3ImLZ3Qeq) | 2:43 |
 | 16 | [Sinceramente](https://open.spotify.com/track/3HII4HrkJUq8zDso1f42xS) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 3:27 |
-| 17 | [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 |
+| 17 | [Se Me Olvidó Quererte](https://open.spotify.com/track/3qLGm556FmBc108QIzZluM) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:03 |
 | 18 | [Te Dedico](https://open.spotify.com/track/2RJOWQ7ZORSXE8MJJNJEhF) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:19 |
-| 19 | [Se Me Olvidó Quererte](https://open.spotify.com/track/3qLGm556FmBc108QIzZluM) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:03 |
+| 19 | [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 |
 | 20 | [Psicólogo Privado](https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Psicólogo Privado](https://open.spotify.com/album/1QPGkBHOuIaU2xKAODMBN9) | 3:18 |
 | 21 | [Sin Miedo Al Éxito](https://open.spotify.com/track/21YeNeTRlPnYgKvdLYFs2C) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/5Wfvg8DIqTcq7LcoG92dZh) | 2:12 |
 | 22 | [Por Si No Recuerdas](https://open.spotify.com/track/6nvk0d8QlR91kecYzPnBhr) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 3:13 |
-| 23 | [Imagina](https://open.spotify.com/track/54ozAIJWhGeuu0ZnBEuqjU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 2:38 |
-| 24 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 |
+| 23 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 |
+| 24 | [Imagina](https://open.spotify.com/track/54ozAIJWhGeuu0ZnBEuqjU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 2:38 |
 | 25 | [La Receta \- En Vivo](https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Receta \(En Vivo\)](https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m) | 2:39 |
 | 26 | [No Me Mires Así](https://open.spotify.com/track/6RZX4pPGBsw5fijSmKFFv2) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:07 |
-| 27 | [Mira Cómo Me Dejaste](https://open.spotify.com/track/1qsXhzldNXZDGEABxc6Abk) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 3:25 |
-| 28 | [Me Voy A Ir](https://open.spotify.com/track/3JPoz5pxA2Z6Ix75clU8KL) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:38 |
+| 27 | [Me Voy A Ir](https://open.spotify.com/track/3JPoz5pxA2Z6Ix75clU8KL) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:38 |
+| 28 | [Mira Cómo Me Dejaste](https://open.spotify.com/track/1qsXhzldNXZDGEABxc6Abk) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 3:25 |
 | 29 | [El Cuento Perfecto](https://open.spotify.com/track/1IT3kGP8FGkq74Co4B6Qm0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:12 |
 | 30 | [Gracias Por Tratarla Mal](https://open.spotify.com/track/5ZGOi8cq6umEF5OvIzUpHl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:21 |
 | 31 | [La Persona Perfecta](https://open.spotify.com/track/278nH9m4i4Zp4hgRv7dYuh) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [A Una Almohada De Distancia](https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 4:37 |
 | 51 | [Ese Loco Soy Yo](https://open.spotify.com/track/0bBBOltko9yaIrIzQgYzYp) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Ese Loco Soy Yo](https://open.spotify.com/album/6zEXNn3VL8OzlR0R4X2AEr) | 4:47 |
 
-Snapshot ID: `Mjc3NjQwMDQsMDAwMDAwMDBiMjM1MjU4YWY5NjY0ZTg0M2Y2YTg0ZTIwZDk3YjZiYw==`
+Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDBhYmZiZWFlZjljNTI2YmZkNDdmMDNjYjMwODBlYzM0Nw==`

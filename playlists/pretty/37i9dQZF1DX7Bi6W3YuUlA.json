@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 3091,
+  "num_followers": 3112,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDEyNWQyZmNhMTFhYjUxMGNhZDQ5NDU1OWNhM2Y5MmZk",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDRiZDRjZGQ0ZmQ5ZTMzNGM4YzZkNmQ2YjQ3ZGVmOTFm",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
-      },
-      "artists": [
-        {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
-        }
-      ],
-      "duration_ms": 156749,
-      "name": "Put In Work",
-      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 229324,
       "name": "Libre (feat. Tommy Royale)",
       "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        }
+      ],
+      "duration_ms": 156749,
+      "name": "Put In Work",
+      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1099,30 +1099,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Not for Sale",
         "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 144240,
       "name": "W.Y.T",
       "url": "https://open.spotify.com/track/1jLjRrZd9FM3y5g3NfjlsB"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "My Way - Deluxe",
-        "url": "https://open.spotify.com/album/41NpQCQDvSjmFQKdDVUavh"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "It's Ok To Cry",
-      "url": "https://open.spotify.com/track/1g44VevpKcRL9v7Pt6Cyc4"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 214554,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "My Way - Deluxe",
+        "url": "https://open.spotify.com/album/41NpQCQDvSjmFQKdDVUavh"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "It's Ok To Cry",
+      "url": "https://open.spotify.com/track/1g44VevpKcRL9v7Pt6Cyc4"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1411,30 +1411,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "CATCH",
-        "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
-      },
-      "artists": [
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 193941,
-      "name": "Pray For Real",
-      "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/17kgXPWtd9Km3qeZjjovrD"
       },
@@ -1459,18 +1435,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Hit the Refresh",
-        "url": "https://open.spotify.com/album/0l5NTBFkeI8tizJsiD9nQW"
+        "name": "CATCH",
+        "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
       },
       "artists": [
         {
-          "name": "Voices of Fire",
-          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 275121,
-      "name": "Hit the Refresh",
-      "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
+      "duration_ms": 193941,
+      "name": "Pray For Real",
+      "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Hit the Refresh",
+        "url": "https://open.spotify.com/album/0l5NTBFkeI8tizJsiD9nQW"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        }
+      ],
+      "duration_ms": 275121,
+      "name": "Hit the Refresh",
+      "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Dreamworld",
         "url": "https://open.spotify.com/album/3l8TtWvoyuuOSSyk7QNNVo"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "STILL GOING",
         "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Mind",
         "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
       },
@@ -1559,6 +1559,26 @@
       "duration_ms": 158399,
       "name": "Mind",
       "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "ABOVE ME (feat. Parris Chariz)",
+        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "ABOVE ME (feat. Parris Chariz)",
+      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1611,26 +1631,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "ABOVE ME (feat. Parris Chariz)",
-        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "ABOVE ME (feat. Parris Chariz)",
-      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 196056,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Only U Forever",
+        "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "ONLY U (feat. Terrian)",
+      "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Only U Forever",
-        "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "ONLY U (feat. Terrian)",
-      "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Way Up Above",
         "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
       },
@@ -1743,22 +1743,6 @@
       "duration_ms": 167944,
       "name": "With Me Now",
       "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "i'm back",
-        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "i'm back",
-      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1779,6 +1763,22 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "i'm back",
+        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
+      },
+      "artists": [
+        {
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        }
+      ],
+      "duration_ms": 161101,
+      "name": "i'm back",
+      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1867,18 +1867,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
       },
       "artists": [
         {
           "name": "Mission",
           "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     },
     {
       "added_at": "2022-05-28 19:29:54",

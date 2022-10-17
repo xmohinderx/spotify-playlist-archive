@@ -4,14 +4,15 @@
 
 > Remembering KK
 
-47 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4ODPXyj8cy195cx7i4XcMg)
+48 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/4ODPXyj8cy195cx7i4XcMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 | 2022-04-11 |  |
 | [Aasmaan Ke Paar](https://open.spotify.com/track/1wYJfvpYirtoh4fsc7Bo6n) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 6:15 | 2022-04-11 |  |
 | [Ab Ke Saawan](https://open.spotify.com/track/3f6lUIjrM4b5jOjKmwcPK5) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 4:29 | 2022-04-11 |  |
-| [Angel Eyes](https://open.spotify.com/track/7ocWe921mNYUbG7oq47VHa) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN), [Jucxi D.](https://open.spotify.com/artist/2NEhzN2aVE5rZ0qYRoP8jO) | [Angel Eyes](https://open.spotify.com/album/11bGclhH9B9N6cMeien55M) | 4:11 | 2022-06-01 |  |
+| [Angel Eyes](https://open.spotify.com/track/5AlFchdmHoeRBg6MzgfaY5) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN), [Jucxi](https://open.spotify.com/artist/0rPwsOLH34fDTOsSfuxVt7) | [Storyteller](https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB) | 4:11 | 2022-06-01 |  |
+| [Angel Eyes](https://open.spotify.com/track/7ocWe921mNYUbG7oq47VHa) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN), [Jucxi D.](https://open.spotify.com/artist/2NEhzN2aVE5rZ0qYRoP8jO) | [Angel Eyes](https://open.spotify.com/album/11bGclhH9B9N6cMeien55M) | 4:11 | 2022-06-01 | 2022-10-17 |
 | [Angel Eyes](https://open.spotify.com/track/5hdhCuaAl48gXMCpueXF6a) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jucxi](https://open.spotify.com/artist/0rPwsOLH34fDTOsSfuxVt7), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN) | [Storyteller](https://open.spotify.com/album/4qKUcQnmVYSmZtMI4Cw7jT) | 4:11 | 2022-04-11 | 2022-07-29 |
 | [Bheegi Bheegi Raaton Mein](https://open.spotify.com/track/4TmChFpXW2tqpl6BPkqdMT) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV) | [Special Appointments Club Hits](https://open.spotify.com/album/37lrx3ZoHvA22wjKzeWoE7) | 5:18 | 2022-04-11 |  |
 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 | 2022-04-11 |  |

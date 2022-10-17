@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,900 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,939 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 18 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 19 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
 | 20 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
-| 21 | [Miss Evil](https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Hibernated \- Earth Omen](https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F) | 6:24 |
-| 22 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
+| 21 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
+| 22 | [Miss Evil](https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Hibernated \- Earth Omen](https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F) | 6:24 |
 | 23 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
 | 24 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
 | 25 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [It's Only Love](https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ) | 1:40 |
 | 50 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDEzMmI3MTEwOTQ0YmI3YmM4ZTQ3OGVmZjk2ZDdjOTQz`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDZjZDExYzY3YzcwNjgwMzNkZDY0ODRhMjQzY2JmMmI5`

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 796631,
+  "num_followers": 797012,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMTMyMCwwMDAwMDAwMDg5NDQzY2U5ZjBhZjRmNGFiMmNlNzNjNmZlZDE1MjA4",
+  "snapshot_id": "MTY2NTcyMTMyMCwwMDAwMDAwMGRmNjViMWIwMzQyNWJiYjZkZmY4NzcxZjI2YmRmYWQ5",
   "tracks": [
     {
       "added_at": "2022-09-02 05:58:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Tres Hermanos",
         "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -543,6 +543,22 @@
       "duration_ms": 249453,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/5WiShbQYrJnoG7mD961IKY"
+    },
+    {
+      "added_at": "2022-09-23 23:48:00",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -633,22 +649,6 @@
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
     },
     {
-      "added_at": "2022-09-23 23:48:00",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
         "name": "Savanne",
@@ -669,38 +669,6 @@
       "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
-      "added_at": "2022-10-07 04:15:00",
-      "album": {
-        "name": "Iron Lung",
-        "url": "https://open.spotify.com/album/4IgggfOdOljgHno3N0QBMP"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 544517,
-      "name": "Iron Lung",
-      "url": "https://open.spotify.com/track/7G69PANdawtb2rsG2ZGEQa"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
         "name": "Texas Moon",
@@ -719,6 +687,38 @@
       "duration_ms": 230137,
       "name": "Doris",
       "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "added_at": "2022-10-07 04:15:00",
+      "album": {
+        "name": "Iron Lung",
+        "url": "https://open.spotify.com/album/4IgggfOdOljgHno3N0QBMP"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 544517,
+      "name": "Iron Lung",
+      "url": "https://open.spotify.com/track/7G69PANdawtb2rsG2ZGEQa"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Raspberry Jam",
         "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 270945,
-      "name": "Thin Thing",
-      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Dancin' With Wolves",
         "url": "https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 174586,
       "name": "Out In The Country",
       "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 270945,
+      "name": "Thin Thing",
+      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
     },
     {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "jams EP",
+        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 63214,
+      "name": "cloud castle",
+      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
+    },
+    {
       "added_at": "2022-09-23 23:48:00",
       "album": {
         "name": "GREENZONE 108",
@@ -967,22 +983,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "jams EP",
-        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 63214,
-      "name": "cloud castle",
-      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 204708,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
+    },
+    {
+      "added_at": "2022-10-07 04:15:00",
+      "album": {
+        "name": "I Shimmer",
+        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "I Shimmer",
+      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1033,22 +1049,6 @@
       "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
     },
     {
-      "added_at": "2022-10-07 04:15:00",
-      "album": {
-        "name": "I Shimmer",
-        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "I Shimmer",
-      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
-    },
-    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
         "name": "Masana Temples",
@@ -1079,6 +1079,22 @@
       "duration_ms": 213053,
       "name": "Set it on Fire",
       "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
+    },
+    {
+      "added_at": "2022-10-14 04:22:00",
+      "album": {
+        "name": "Just Before The Morning",
+        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 214497,
+      "name": "Just Before The Morning",
+      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1131,6 +1147,22 @@
       "duration_ms": 218803,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+    },
+    {
+      "added_at": "2022-09-23 23:48:00",
+      "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1213,22 +1245,6 @@
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
     },
     {
-      "added_at": "2022-10-14 04:22:00",
-      "album": {
-        "name": "Just Before The Morning",
-        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 214497,
-      "name": "Just Before The Morning",
-      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
-    },
-    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
         "name": "magic wand",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
         }
       ],
-      "duration_ms": 266992,
-      "name": "Fuzz Jam",
-      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+      "duration_ms": 199440,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1299,34 +1315,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
       "artists": [
         {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
         }
       ],
-      "duration_ms": 199440,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
-    },
-    {
-      "added_at": "2022-09-23 23:48:00",
-      "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 423346,
-      "name": "Love On The Run",
-      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+      "duration_ms": 266992,
+      "name": "Fuzz Jam",
+      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
     },
     {
+      "added_at": "2022-10-14 04:22:00",
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
         "name": "Earth Worship",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "play it pretty",
-        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
       "artists": [
         {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 236000,
-      "name": "dirty claws",
-      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1507,6 +1523,38 @@
       "duration_ms": 229595,
       "name": "America's Cup",
       "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Postman b/w Magazine",
+        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1531,18 +1579,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Postman b/w Magazine",
-        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 160704,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
+      "duration_ms": 187413,
+      "name": "Saturdays",
+      "url": "https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1579,22 +1627,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "THE DOOR",
-        "url": "https://open.spotify.com/album/7g8ldlK6mpYfe9kKdyz3vh"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "THE DOOR IS CLOSING",
-      "url": "https://open.spotify.com/track/2mHD4qUZMC4xBouFAiwwDt"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
       },
@@ -1611,34 +1643,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+        "name": "THE DOOR",
+        "url": "https://open.spotify.com/album/7g8ldlK6mpYfe9kKdyz3vh"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Do U Mind? (Leave the Light On)",
-        "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
-      },
-      "artists": [
-        {
-          "name": "Fleece",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Do U Mind? (Leave the Light On)",
-      "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
+      "duration_ms": 177005,
+      "name": "THE DOOR IS CLOSING",
+      "url": "https://open.spotify.com/track/2mHD4qUZMC4xBouFAiwwDt"
     },
     {
       "added_at": "2022-10-07 16:55:48",
@@ -1659,34 +1675,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Sun Structures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4fN8Wj4c4nrXj6kogr6zgl"
+        "name": "Do U Mind? (Leave the Light On)",
+        "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
       },
       "artists": [
         {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+          "name": "Fleece",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
         }
       ],
-      "duration_ms": 190558,
-      "name": "Shelter Song",
-      "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
+      "duration_ms": 222928,
+      "name": "Do U Mind? (Leave the Light On)",
+      "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
     }
   ],
   "unique_name": "Modern Psychedelia",

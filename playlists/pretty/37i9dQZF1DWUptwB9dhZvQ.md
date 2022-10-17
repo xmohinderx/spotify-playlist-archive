@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,987 likes - 79 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,098 likes - 79 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 53 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
 | 54 | [Agent Tina \- Background Score](https://open.spotify.com/track/60c709iT1oiukRh6eR7K0K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
 | 55 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
-| 56 | [Amar & Gayathri \- Background Score](https://open.spotify.com/track/6YtHohwPmsWkr3hSCzX7uA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:22 |
-| 57 | [What's Cookin? \- Background Score](https://open.spotify.com/track/3oWVw2H0cMJwsxLEKboZy4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:19 |
+| 56 | [What's Cookin? \- Background Score](https://open.spotify.com/track/3oWVw2H0cMJwsxLEKboZy4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:19 |
+| 57 | [Amar & Gayathri \- Background Score](https://open.spotify.com/track/6YtHohwPmsWkr3hSCzX7uA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:22 |
 | 58 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 |
 | 59 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 |
 | 60 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 74 | [Church Fight](https://open.spotify.com/track/51U5TXf0Zqtp9Q0qs1XvNM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 3:38 |
 | 75 | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 |
 | 76 | [Theme Music 1](https://open.spotify.com/track/5U9EsOlN3BOGKSDTlOKNkA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kadhal Kondaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FEBJg0kJl4axCBYzktGI) | 1:06 |
-| 77 | [Barotta Master \- Background Score](https://open.spotify.com/track/07ifNHZUt3BZTwXkdhjGwu) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 2:30 |
-| 78 | [Assault Sethu](https://open.spotify.com/track/7sdNy3umnmbvvCzppFl2hA) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2FMT61FTidaWFISp0xuVr9) | 1:06 |
+| 77 | [Assault Sethu](https://open.spotify.com/track/7sdNy3umnmbvvCzppFl2hA) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2FMT61FTidaWFISp0xuVr9) | 1:06 |
+| 78 | [Barotta Master \- Background Score](https://open.spotify.com/track/07ifNHZUt3BZTwXkdhjGwu) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 2:30 |
 | 79 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 
-Snapshot ID: `MTY2NDUzMzk5MSwwMDAwMDAwMDA1ZGRjOTNmMjRhMzY3MzMzNWU5MmE1MGJmYzg5Mjgy`
+Snapshot ID: `MTY2NDUzMzk5MSwwMDAwMDAwMDQxN2E3ZmI4ZjhjMTI2ZmYzOTExODMzMWFmM2I1YThi`

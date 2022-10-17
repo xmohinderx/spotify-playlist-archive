@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 469543,
+  "num_followers": 469531,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNDkyMCwwMDAwMDAwMDZlNjdiN2I1MGQ1ZjBiMWM0NzIwMzNjNzgzMjIxNzU1",
+  "snapshot_id": "MTY2NTcyNDkyMCwwMDAwMDAwMGUwNWIyMzQ5NWY5YjlhNWY3MWVhZmJhODBmMzdjZjVj",
   "tracks": [
     {
       "added_at": "2022-10-08 01:04:52",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
         "name": "Le Tigre",
         "url": "https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "oh my love",
-      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -971,18 +955,34 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "LOVE BLACK",
-        "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
       "artists": [
         {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 210730,
-      "name": "IDK WHAT TO TELL YOU",
-      "url": "https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf"
+      "duration_ms": 225653,
+      "name": "oh my love",
+      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1007,6 +1007,38 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
+        "name": "LOVE BLACK",
+        "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 210730,
+      "name": "IDK WHAT TO TELL YOU",
+      "url": "https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
       },
@@ -1019,6 +1051,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Alright - Remastered",
+      "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1039,22 +1087,6 @@
       "duration_ms": 303230,
       "name": "Count Contessa",
       "url": "https://open.spotify.com/track/5qc9oEjMRZvdECu3g5vU8P"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Alright - Remastered",
-      "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1091,22 +1123,6 @@
       "duration_ms": 249040,
       "name": "Dipset Anthem",
       "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Kauai",
-        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Go Away",
-        "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "U KNOW ME",
         "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 174640,
       "name": "U KNOW ME",
       "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Go Away",
+        "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "The Essential Electric Light Orchestra",
         "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 252373,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
     },
     {
       "added_at": "2022-10-08 01:04:52",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Uber EveryWhere (OG House Mix)",
-        "url": "https://open.spotify.com/album/15B1A33OhleteUOHoPnYeE"
-      },
-      "artists": [
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 194652,
-      "name": "Uber EveryWhere (OG House Mix)",
-      "url": "https://open.spotify.com/track/6kH9bJTKlGXLjRIOSuKYX4"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Uber EveryWhere (OG House Mix)",
+        "url": "https://open.spotify.com/album/15B1A33OhleteUOHoPnYeE"
+      },
+      "artists": [
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "duration_ms": 194652,
+      "name": "Uber EveryWhere (OG House Mix)",
+      "url": "https://open.spotify.com/track/6kH9bJTKlGXLjRIOSuKYX4"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
+        "name": "Sad B!tch",
+        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "duration_ms": 135069,
+      "name": "Sad B!tch",
+      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
         "name": "The Best of 2Pac",
         "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
       },
@@ -1777,22 +1793,6 @@
       "url": "https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y"
     },
     {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Sad B!tch",
-        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
-      },
-      "artists": [
-        {
-          "name": "CLIP",
-          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
-        }
-      ],
-      "duration_ms": 135069,
-      "name": "Sad B!tch",
-      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
-    },
-    {
       "added_at": "2022-10-14 05:22:00",
       "album": {
         "name": "Wrote a Lil Song",
@@ -1813,22 +1813,6 @@
       "url": "https://open.spotify.com/track/2n2P1kKC478cwWnEULeXn1"
     },
     {
-      "added_at": "2022-10-14 05:22:00",
-      "album": {
-        "name": "RAGGA",
-        "url": "https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld"
-      },
-      "artists": [
-        {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
-        }
-      ],
-      "duration_ms": 162111,
-      "name": "RAGGA",
-      "url": "https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF"
-    },
-    {
       "added_at": "2022-10-07 18:33:44",
       "album": {
         "name": "Free Form Mixtape",
@@ -1843,6 +1827,22 @@
       "duration_ms": 147666,
       "name": "Baby Pillz",
       "url": "https://open.spotify.com/track/1PVH01aOkNQ6PzxT4Lqtfm"
+    },
+    {
+      "added_at": "2022-10-14 05:22:00",
+      "album": {
+        "name": "RAGGA",
+        "url": "https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 162111,
+      "name": "RAGGA",
+      "url": "https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF"
     },
     {
       "added_at": "2022-10-07 18:33:44",
